@@ -1,0 +1,1202 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Normas y leyes de tránsito",
+"subcategory":"Autoridad legal en materia de carreteras",
+"englishSubcategory":"Legal Authority on Roads",
+"description":"Las normas de tránsito son leyes que todos los usuarios de la vía deben respetar. Los conductores deben obedecer las señales de tráfico, los semáforos, las marcas viales y las normas de circulación en todo momento. Los agentes de policía y los controladores de tráfico autorizados tienen autoridad legal para dirigir el tráfico. Si un agente de policía o un controlador de tráfico autorizado da una instrucción que contradice las señales o los semáforos, esta debe ser acatada. No obedecer una instrucción legal constituye una infracción."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Normas y leyes de tránsito",
+"subcategory":"Deber de cuidado del conductor",
+"englishSubcategory":"Driver Duty of Care",
+"description":"Los conductores deben conducir con el debido cuidado y atención en todo momento. Un conductor no debe conducir de forma descuidada, peligrosa o negligente. Los conductores deben tomar medidas razonables para evitar accidentes y lesiones. Un conductor es legalmente responsable de sus acciones y de la operación segura de su vehículo. Poner en peligro a otros usuarios de la vía pública constituye una infracción de la legislación vial."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Normas y leyes de tránsito",
+"subcategory":"Obligaciones de ceder el paso",
+"englishSubcategory":"Giving Way Obligations",
+"description":"Ceder el paso significa reducir la velocidad y detenerse si es necesario para evitar una colisión. Los conductores deben ceder el paso cuando así lo exijan las señales, las normas de tránsito o las condiciones del tráfico. Un conductor que ingresa a una vía desde una entrada o estacionamiento debe ceder el paso a todo el tráfico. Al cambiar de carril, el conductor que lo hace debe ceder el paso a los demás vehículos. No ceder el paso cuando se le exige constituye una infracción."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Normas y leyes de tránsito",
+"subcategory":"Intersecciones no controladas y en T",
+"englishSubcategory":"Uncontrolled and T-Intersections",
+"description":"Una intersección sin control no tiene semáforos ni señales. En una intersección sin control, los conductores deben ceder el paso a los vehículos que se aproximan por la derecha. En una intersección en T sin señales, el conductor de la vía final debe ceder el paso a todo el tráfico de la vía continua. Los conductores deben acercarse a las intersecciones con precaución y estar preparados para ceder el paso."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Normas y leyes de tránsito",
+"subcategory":"Indicadores y movimiento del vehículo",
+"englishSubcategory":"Indicators and Vehicle Movement",
+"description":"Los conductores deben usar los intermitentes para indicar sus intenciones.\n\nDeben usarse al girar, cambiar de carril, incorporarse o entrar o salir de una posición de estacionamiento.\n\nDeben mantenerse encendidos durante el tiempo suficiente para advertir a los demás usuarios de la vía.\n\nNo señalizar correctamente puede causar accidentes y constituye una infracción."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Normas y leyes de tránsito",
+"subcategory":"Intersecciones y bloqueos de tráfico",
+"englishSubcategory":"Intersections and Blocking Traffic",
+"description":"Los conductores no deben entrar en una intersección a menos que haya suficiente espacio para despejarla. Obstruir una intersección puede obstruir el tráfico y los vehículos de emergencia. Incluso con luz verde, los conductores no deben avanzar si su camino está bloqueado. Los conductores son responsables de asegurarse de poder salir completamente de la intersección."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Normas y leyes de tránsito",
+"subcategory":"Normas de circulación temporales y obras viales",
+"englishSubcategory":"Temporary Road Rules and Roadworks",
+"description":"Las normas de tránsito temporales se aplican siempre que haya señales de obras o controladores de tráfico. Los conductores deben obedecer los límites de velocidad temporales y las indicaciones en las obras. Las señales de obras prevalecen sobre las condiciones normales de la carretera. Incumplir las normas de tránsito temporales constituye una infracción."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Normas y leyes de tránsito",
+"subcategory":"Responsabilidad legal general",
+"englishSubcategory":"General Legal Responsibility",
+"description":"Los conductores tienen la responsabilidad legal de conocer y respetar las normas de tránsito. La falta de conocimiento no justifica infringir la ley. Los conductores deben mantenerse alerta y conscientes de las condiciones de la carretera. La conducción segura y legal protege a todos los usuarios de la vía."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Señales y semáforos de tráfico",
+"subcategory":"Señales reglamentarias",
+"englishSubcategory":"Regulatory Signs",
+"description":"Las señales reglamentarias dan instrucciones legales que los conductores deben obedecer. Una señal de PARE requiere que el conductor se detenga por completo en la línea de alto o antes de entrar en la intersección. Después de detenerse, el conductor debe ceder el paso y continuar solo cuando sea seguro. Una señal de CEDA EL PASO requiere que el conductor reduzca la velocidad y ceda el paso al tráfico antes de continuar. Una señal de PROHIBIDA LA ENTRADA significa que los vehículos no deben ingresar a esa vía. Una señal de UN SOLO SENTIDO significa que el tráfico solo puede circular en la dirección indicada. Una señal de PROHIBIDO GIRAR EN U significa que no se debe realizar un giro en U en ese lugar. No obedecer las señales reglamentarias es una infracción."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Señales y semáforos de tráfico",
+"subcategory":"Señales de velocidad",
+"englishSubcategory":"Speed Signs",
+"description":"Las señales de límite de velocidad indican la velocidad máxima legal en condiciones ideales. Los conductores no deben exceder el límite de velocidad indicado. Si las condiciones de la carretera o el clima son malas, los conductores deben conducir por debajo del límite indicado. Una señal de límite de velocidad de FIN significa que ahora se aplica el límite de velocidad predeterminado. Los límites de velocidad en zonas escolares se aplican solo durante los horarios indicados en las señales. Las señales de zona compartida indican velocidades muy bajas y que los peatones tienen prioridad. Si no hay señal de velocidad, los conductores deben respetar el límite de velocidad predeterminado para el tipo de vía."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Señales y semáforos de tráfico",
+"subcategory":"Señales de advertencia",
+"englishSubcategory":"Warning Signs",
+"description":"Las señales de advertencia alertan a los conductores sobre posibles peligros más adelante. No dan instrucciones legales, sino que advierten a los conductores que extremen las precauciones. Las señales de advertencia pueden indicar curvas, carreteras resbaladizas, peatonesuotros peligros. Los conductores deben ajustar la velocidad y estar preparados para responder a los peligros. Ignorar las señales de advertencia aumenta el riesgo de accidente."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Señales y semáforos de tráfico",
+"subcategory":"Semáforo",
+"englishSubcategory":"Traffic Lights",
+"description":"Los semáforos controlan el movimiento de vehículos y peatones en las intersecciones. Una luz roja obliga a los conductores a detenerse y permanecer detenidos hasta que cambie el semáforo. Una luz verde permite a los conductores avanzar si la intersección está despejada y es segura. Una luz amarilla significa detenerse si es seguro hacerlo. Los conductores no deben acelerar para adelantarse a una luz amarilla. Girar a la izquierda en una luz roja solo está permitido cuando una señal lo permite y es seguro. Una luz amarilla intermitente significa proceder con precaución."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Señales y semáforos de tráfico",
+"subcategory":"Señales para peatones",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Los semáforos peatonales controlan cuándo los peatones pueden cruzar la calle. Un símbolo verde de cruce significa que los peatones pueden comenzar a cruzar. Un símbolo rojo intermitente significa que los peatones deben terminar de cruzar si es seguro. Los conductores deben ceder el paso a los peatones que cruzan con una señal de cruce. Los semáforos peatonales existen para mejorar la seguridad de los peatones."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Señales y semáforos de tráfico",
+"subcategory":"Señales temporales y de obras viales",
+"englishSubcategory":"Temporary and Roadwork Signs",
+"description":"Las señales temporales de obras viales se aplican siempre que estén instaladas. Los conductores deben respetar los límites de velocidad reducidos en las obras. Las señales temporales prevalecen sobre las permanentes si entran en conflicto. El tráfico puede ser controlado por un controlador de tráfico autorizado. Las señales de PARE/DESPACIO deben seguirse exactamente como se indica. Ignorar las señales de obras viales es peligroso e ilegal."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Señales y semáforos de tráfico",
+"subcategory":"Señales de control de carril",
+"englishSubcategory":"Lane Control Signals",
+"description":"Las señales de control de carril indican qué carriles se pueden usar. Una X roja sobre un carril significa que no debe usarse. Una flecha verde sobre un carril significa que está libre para circular. Las flechas intermitentes de carril advierten que será necesario cambiar de carril más adelante. Los conductores deben salir de los carriles cerrados con seguridad y seguir las señales de control de carril."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Señales y semáforos de tráfico",
+"subcategory":"Señales ferroviarias",
+"englishSubcategory":"Railway Signals",
+"description":"Las señales ferroviarias advierten a los conductores de la aproximación de trenes. Las luces intermitentes indican que los conductores deben detenerse y no cruzar las vías. Las señales de PARE en los cruces ferroviarios exigen a los conductores detenerse y avanzar solo cuando sea seguro. Los conductores nunca deben rodear barreras ni cruzar cuando se aproxima un tren. Las señales de advertencia ferroviaria son fundamentales para prevenir colisiones graves."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Señales y semáforos de tráfico",
+"subcategory":"Señales de advertencia y guía",
+"englishSubcategory":"Advisory and Guide Signs",
+"description":"Las señales de advertencia proporcionan información recomendada para una conducción más segura. Las señales de velocidad recomendada sugieren una velocidad segura según las condiciones futuras. Las señales de advertencia no son legalmente vinculantes, pero deben respetarse. Las señales de guía proporcionan indicaciones, destinos, distancias y números de ruta. Las señales de guía ayudan a los conductores a circular con seguridad."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Señales y semáforos de tráfico",
+"subcategory":"Reglas generales de señales",
+"englishSubcategory":"General Signal Rules",
+"description":"Las señales de tráfico regulan, advierten y guían a los usuarios de la vía. Si los semáforos no funcionan, la intersección debe considerarse sin control. Los agentes de policía y los controladores de tráfico autorizados pueden dirigir el tráfico. Si las indicaciones entran en conflicto con las señales o semáforos, deben seguirse. Comprender las señales de tráfico es esencial para una conducción segura y legal."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Reglas de velocidad y distancia",
+"subcategory":"Límites de velocidad",
+"englishSubcategory":"Speed Limits",
+"description":"Un límite de velocidad indicado representa la velocidad máxima legal en condiciones ideales. Los conductores no deben exceder el límite de velocidad indicado. Los conductores deben conducir por debajo del límite de velocidad indicado cuando las condiciones lo hagan inseguro. En zonas urbanizadas sin señal de velocidad, el límite de velocidad predeterminado es de 50 km/h. Fuera de las zonas urbanizadas sin señal de velocidad, el límite de velocidad predeterminado es de 100 km/h. A partir de la señal, se aplica un nuevo límite de velocidad. Los conductores no deben confiar en otros vehículos para elegir una velocidad segura o legal."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Reglas de velocidad y distancia",
+"subcategory":"Zonas escolares",
+"englishSubcategory":"School Zones",
+"description":"Las zonas escolares están diseñadas para proteger a los niños. Los límites de velocidad en zonas escolares se aplican durante los horarios indicados en las señales. A menos que se indique lo contrario, la velocidad máxima habitual en una zona escolar activa de Nueva Gales del Sur es de 40 km/h. Los límites de velocidad en zonas escolares pueden aplicarse los fines de semana si los horarios de las señales incluyen esos días. Si no está seguro de si una zona escolar está activa, los conductores deben reducir la velocidad y verificar cuidadosamente los horarios de las señales. Los conductores siempre deben tener en cuenta el comportamiento impredecible de los niños cerca de las escuelas."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Reglas de velocidad y distancia",
+"subcategory":"Zonas compartidas",
+"englishSubcategory":"Shared Zones",
+"description":"Las zonas compartidas son áreas de baja velocidad donde peatones y vehículos comparten la vía. Salvo que se indique lo contrario, la velocidad máxima habitual en una zona compartida es de 10 km/h. Los peatones suelen tener prioridad en las zonas compartidas. Los conductores deben estar preparados para detenerse y ceder el paso a los peatones en todo momento. Una señal de zona compartida indica la probabilidad de presencia de peatones y se requiere precaución adicional."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Reglas de velocidad y distancia",
+"subcategory":"Zonas de trabajo",
+"englishSubcategory":"Work Zones",
+"description":"Los límites de velocidad reducidos en zonas de obras viales deben respetarse siempre que se muestren las señales. Los límites de velocidad temporales en obras viales se aplican incluso si los trabajadores no son visibles. Los límites de velocidad en obras viales existen para proteger a los trabajadores y usuarios de la vía en condiciones cambiantes. Si las señales de obras viales entran en conflicto con las señales permanentes, se aplican las señales temporales. Los conductores deben seguir las indicaciones de los controladores de tráfico autorizados, incluso si la velocidad es inferior a la indicada."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Reglas de velocidad y distancia",
+"subcategory":"Condiciones meteorológicas",
+"englishSubcategory":"Weather Conditions",
+"description":"Las malas condiciones climáticas reducen la visibilidad y la tracción. Cuando las carreteras están mojadas, los conductores deben reducir la velocidad para mantener el control. Con niebla, los conductores deben reducir la velocidad y poder detenerse dentro de la distancia que alcanzan la vista. El resplandor del sol puede reducir la visión y obliga a los conductores a reducir la velocidad y aumentar la distancia de seguimiento. Conducir demasiado rápido bajo una lluvia intensa aumenta el riesgo de perder el control y aumenta la distancia de frenado."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Reglas de velocidad y distancia",
+"subcategory":"Distancias de seguimiento",
+"englishSubcategory":"Following Distances",
+"description":"Una distancia de seguimiento segura permite tiempo y espacio para detenerse con seguridad. La distancia de seguimiento debe aumentar a medida que aumenta la velocidad. Los conductores deben aumentar su distancia de seguimiento en condiciones adversas, al remolcar o transportar cargas pesadas. Se debe dejar espacio adicional detrás de las motocicletas, ya que son más difíciles de ver y pueden detenerse rápidamente. Los vehículos pesados requieren distancias de frenado más largas y pueden obstruir la visión frontal. Si van demasiado cerca, los conductores deben aumentar su distancia de seguimiento y permitir que el otro vehículo pase cuando sea seguro."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Reglas de velocidad y distancia",
+"subcategory":"Distancias de frenado",
+"englishSubcategory":"Stopping Distances",
+"description":"La distancia de frenado se compone de la distancia de reacción y la distancia de frenado. A medida que aumenta la velocidad, la distancia de frenado aumenta significativamente. El alcohol, las drogas, la fatiga y las distracciones aumentan el tiempo de reacción y la distancia de frenado. Los neumáticos desgastados aumentan la distancia de frenado, especialmente en superficies mojadas o sueltas. Los conductores deben reducir la velocidad cuando su visión de la carretera está obstruida."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Reglas de velocidad y distancia",
+"subcategory":"Principios de velocidad segura",
+"englishSubcategory":"Safe Speed Principles",
+"description":"Los conductores deben elegir una velocidad que les permita detenerse con seguridad dentro de la distancia que pueden ver. Al acercarse a cruces, curvas ciegas o zonas concurridas, es necesario reducir la velocidad. Incluso un exceso de velocidad leve reduce el tiempo de reacción y aumenta considerablemente la distancia de frenado. Si se retrasa, la opción más segura es conducir dentro de los límites legales y seguros. Cuando el tráfico que circula por delante disminuye la velocidad o se detiene, los conductores deben reducir la velocidad con antelación y aumentar la distancia de seguimiento."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Responsabilidades del conductor",
+"subcategory":"Obligaciones del conductor",
+"englishSubcategory":"Driver Obligations",
+"description":"La principal responsabilidad de un conductor es conducir con seguridad y obedecer las normas de tránsito en todo momento. Los conductores deben actuar con cuidado, precaución y consideración hacia los demás usuarios de la vía. Si observan un peligro más adelante, deben reducir la velocidad con anticipación y estar más atentos. Si no están seguros de la velocidad o la acción segura, deben elegir la opción más segura. Conducir de forma agresiva o imprudente aumenta el riesgo de colisión y es inseguro. Al conducir en zonas desconocidas, los conductores deben reducir la velocidad, observar atentamente y seguir las señales."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Responsabilidades del conductor",
+"subcategory":"Responsabilidades en caso de accidente",
+"englishSubcategory":"Crash Responsibilities",
+"description":"Los conductores involucrados en un accidente deben detenerse en el lugar. Si alguien resulta herido, se debe llamar a los servicios de emergencia y proporcionar asistencia si es seguro. Tras un accidente que cause daños materiales, los conductores deben intercambiar nombres y datos de contacto. Si el otro propietario no está presente, los conductores deben dejar sus datos. Si un vehículo representa un peligro después de un accidente, debe trasladarse a un lugar seguro si es posible. Las fugas de combustible o peligros graves requieren trasladar a las personas a un lugar seguro y llamar a los servicios de emergencia."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Responsabilidades del conductor",
+"subcategory":"Cinturones de seguridad y sistemas de retención infantil",
+"englishSubcategory":"Seatbelts and Child Restraints",
+"description":"El conductor es responsable de garantizar que todos los pasajeros usen el cinturón de seguridad, si corresponde. Todos los ocupantes de un vehículo en movimiento deben usar el cinturón de seguridad en todo momento. Los cinturones de seguridad reducen el riesgo de lesiones incluso a baja velocidad. Si un pasajero se niega a usar el cinturón de seguridad, el conductor no debe conducir. Los niños deben viajar sujetos con un sistema de retención infantil homologado y adecuado para su edad y tamaño. Los cinturones de seguridad y los sistemas de retención deben estar correctamente ajustados para funcionar correctamente."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Responsabilidades del conductor",
+"subcategory":"Teléfonos y dispositivos móviles",
+"englishSubcategory":"Mobile Phones and Devices",
+"description":"Usar el teléfono móvil al conducir es peligroso porque distrae la vista, las manos y la atención. Lo más seguro es no usar el teléfono mientras se conduce. Si es necesario usar el teléfono, los conductores deben detenerse de forma segura y detenerse primero. Se debe configurar la navegación antes de conducir para evitar manipular dispositivos. Se deben silenciar las notificaciones o mantener los teléfonos fuera del alcance. Incluso apartar la vista de la carretera por un instante aumenta considerablemente el riesgo de accidente."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Responsabilidades del conductor",
+"subcategory":"Estado del vehículo",
+"englishSubcategory":"Vehicle Condition",
+"description":"Los conductores son responsables de garantizar la seguridad de su vehículo. Los neumáticos deben tener una banda de rodadura adecuada y la presión correcta para mantener el agarre. Las luces e intermitentes deben funcionar correctamente para que los demás usuarios de la vía puedan ver las intenciones. Los frenos deben funcionar correctamente y cualquier cambio debe revisarse de inmediato. Los parabrisas deben estar limpios y sin grietas que reduzcan la visibilidad. Si los intermitentes fallan, se pueden usar señales manuales temporalmente si es seguro y la falla se puede reparar de inmediato."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Responsabilidades del conductor",
+"subcategory":"Manejo de la fatiga",
+"englishSubcategory":"Fatigue Management",
+"description":"La fatiga reduce la concentración y el tiempo de reacción. Los primeros signos de fatiga incluyen dificultad para concentrarse y no ver las señales de tráfico. El microsueño puede causar pérdida de control sin previo aviso. La fatiga es más probable a altas horas de la noche y a primera hora de la tarde. Si siente somnolencia, los conductores deben detenerse en un lugar seguro y descansar. En viajes largos, los descansos regulares y compartir la conducción ayudan a reducir el riesgo de fatiga."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Responsabilidades del conductor",
+"subcategory":"Responsabilidades del aprendiz y del provisional",
+"englishSubcategory":"Learner and Provisional Responsibilities",
+"description":"Los conductores principiantes y provisionales deben cumplir con todas las condiciones de la licencia. Estas condiciones existen para reducir el riesgo mientras se adquiere experiencia. Los conductores principiantes son responsables del cumplimiento de las normas de tránsito. Si tienen dudas sobre alguna norma al conducir, deben elegir la opción más segura. Las preguntas se pueden resolver con el conductor supervisor una vez detenido. Las infracciones a las normas de tránsito se aplican independientemente del tipo de licencia."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Responsabilidades del conductor",
+"subcategory":"Supervisión de conductores",
+"englishSubcategory":"Supervising Drivers",
+"description":"Los conductores supervisores deben ayudar a los conductores principiantes a conducir de forma segura y conforme a la ley. Deben mantener la calma y brindar una guía clara. Si el conductor principiante se estresa, el supervisor debe guiarlo hacia una situación más segura. Los conductores supervisores no deben distraer al conductor principiante. Una buena supervisión ayuda a desarrollar hábitos de conducción seguros."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Alcohol, drogas y salud",
+"subcategory":"Concentración de alcohol en sangre (CAS)",
+"englishSubcategory":"Blood Alcohol Concentration (BAC)",
+"description":"El alcohol reduce el juicio, la coordinación y el tiempo de reacción. El deterioro puede ocurrir incluso cuando el conductor se siente bien. La concentración de alcohol en sangre (CAS) puede seguir aumentando después de dejar de beber. El tamaño corporal, el sexo, la ingesta de alimentos y el tiempo transcurrido entre bebidas afectan la CAS. Beber rápidamente puede provocar un aumento rápido de la CAS. No existe una cantidad de bebidas segura garantizada. La regla más segura es no conducir si bebe alcohol."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Alcohol, drogas y salud",
+"subcategory":"Prueba de aliento aleatoria",
+"englishSubcategory":"Random Breath Testing",
+"description":"La policía puede realizar pruebas de alcoholemia aleatorias en cualquier momento. Los conductores deben seguir las instrucciones y proporcionar una muestra de alcoholemia cuando la ley lo exija. Negarse a someterse a una prueba de alcoholemia puede resultar en sanciones graves. Las pruebas de alcoholemia aleatorias se utilizan para disuadir y detectar la conducción bajo los efectos del alcohol. Una trampa común es asumir que una o dos bebidas siempre estarán por debajo del límite. Sentirse sobrio no significa que el nivel de alcohol en sangre sea bajo."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Alcohol, drogas y salud",
+"subcategory":"Medicamentos y medicinas",
+"englishSubcategory":"Drugs and Medicines",
+"description":"Algunos medicamentos, tanto con receta como sin receta, pueden afectar la conducción. Los efectos comunes incluyen somnolencia, reacciones más lentas y disminución de la concentración. Mezclar alcohol con medicamentos puede aumentar considerablemente la incapacidad. Los conductores deben consultar las advertencias de los medicamentos antes de conducir. Tomar medicamentos recetados por otra persona es peligroso. Si un medicamento causa somnolencia, los conductores no deben conducir y deben optar por otro medio de transporte."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Alcohol, drogas y salud",
+"subcategory":"Fatiga y sueño",
+"englishSubcategory":"Fatigue and Sleep",
+"description":"La fatiga reduce el estado de alerta y el tiempo de reacción. Las señales de advertencia incluyen bostezos, pensamientos dispersos y no ver las señales de tráfico. Los microsueños pueden ocurrir sin previo aviso y causar pérdida de control. La fatiga es más probable a altas horas de la noche y a primeras horas de la tarde. Si siente sueño, los conductores deben detenerse en un lugar seguro y descansar. Las siestas cortas y los descansos regulares son más seguros que seguir adelante con la fatiga."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Alcohol, drogas y salud",
+"subcategory":"Condiciones médicas",
+"englishSubcategory":"Medical Conditions",
+"description":"Las afecciones médicas pueden afectar la capacidad del conductor para controlar un vehículo. Síntomas como mareos, visión borrosa o debilidad aumentan el riesgo. Enfermedades, alergias y algunos tratamientos pueden reducir el estado de alerta. Los conductores deben consultar a un médico si tienen dudas sobre su aptitud para conducir. Si presentan síntomas mientras conducen, lo más seguro es detenerse. Los conductores no deben conducir hasta que su condición esté controlada."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Alcohol, drogas y salud",
+"subcategory":"Aptitud para conducir",
+"englishSubcategory":"Fitness to Drive",
+"description":"Estar en forma para conducir significa estar alerta, sano y sin ninguna alteración. Dormir bien mejora la capacidad para conducir. Las drogas ilegales pueden afectar gravemente la percepción, el juicio y el tiempo de reacción. La angustia emocional, como la ira o el estrés, puede llevar a tomar malas decisiones al volante. El café, las duchas frías o las bebidas energéticas no reducen la concentración de alcohol en la sangre. Solo el tiempo reduce el alcohol en el organismo. Si no está seguro de su capacidad para conducir, la opción más segura es no conducir."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Prácticas de conducción segura",
+"subcategory":"Percepción de peligros",
+"englishSubcategory":"Hazard Perception",
+"description":"Percepción de peligros significa identificar y responder a peligros potenciales con anticipación. Los conductores deben observar la carretera, los lados y los espejos para detectar peligros. Anticipar peligros significa esperar que algo pueda suceder y estar listo para responder. Se requiere precaución adicional cerca de autos estacionados, áreas comerciales y calles residenciales. Si un objeto, como una pelota, rueda en la carretera, un niño podría seguirlo. La respuesta más segura ante los peligros es reducir la velocidad con anticipación y estar preparado para detenerse."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Prácticas de conducción segura",
+"subcategory":"Cojín espacial",
+"englishSubcategory":"Space Cushion",
+"description":"Un colchón de espacio les da a los conductores tiempo y espacio para reaccionar. La distancia de seguimiento debe aumentar a medida que aumenta la velocidad. Se necesita espacio adicional en caso de lluvia, niebla o poca visibilidad. Los conductores deben evitar conducir en los puntos ciegos de otros vehículos. Si otro conductor se interpone, la respuesta más segura es reducir la velocidad y restablecer una distancia segura. Mantener el espacio alrededor del vehículo reduce el riesgo de colisión."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Prácticas de conducción segura",
+"subcategory":"Elección de velocidad",
+"englishSubcategory":"Speed Choice",
+"description":"La velocidad segura depende de las condiciones de la carretera, el tráfico y el clima. Los conductores deben elegir una velocidad dentro del límite legal que permita un control seguro. Incluso el exceso de velocidad, incluso ligeramente, reduce el tiempo de reacción y aumenta la distancia de frenado. Las curvas ciegas, los cambios de nivel y las zonas concurridas requieren reducir la velocidad. Cuando el tráfico que circula por delante disminuye o se detiene, los conductores deben reducir la velocidad con antelación y aumentar la distancia. Llegar tarde nunca es motivo para exceder la velocidad."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Prácticas de conducción segura",
+"subcategory":"Conducir en clima húmedo",
+"englishSubcategory":"Wet Weather Driving",
+"description":"Las carreteras mojadas reducen el agarre de los neumáticos y aumentan la distancia de frenado.\n\nLos conductores deben reducir la velocidad y aumentar la distancia de seguimiento bajo la lluvia.\n\nSi comienza a derrapar, soltar el acelerador y girar el volante suavemente ayuda a recuperar el control.\n\nConducir en aguas profundas puede causar la pérdida de control y daños al vehículo.\n\nSi la visibilidad es demasiado baja, los conductores deben detenerse de forma segura y esperar a que mejoren las condiciones."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Prácticas de conducción segura",
+"subcategory":"Conducción nocturna",
+"englishSubcategory":"Night Driving",
+"description":"Conducir de noche es más peligroso debido a la visibilidad reducida. Los conductores deben evitar sobreexigir las luces delanteras. Las luces altas deben estar bajas al acercarse o seguir a otro vehículo. El deslumbramiento de las luces delanteras que vienen en dirección contraria se puede reducir mirando hacia el lado izquierdo del carril. Si tiene sueño por la noche, lo más seguro es detenerse y descansar."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Prácticas de conducción segura",
+"subcategory":"Seguimiento y frenado",
+"englishSubcategory":"Following and Braking",
+"description":"La distancia de frenado incluye la distancia de reacción y la distancia de frenado. La distancia de frenado aumenta significativamente a medida que aumenta la velocidad. Las distracciones aumentan el tiempo de reacción y la distancia de frenado. Dejar espacio adicional detrás de vehículos grandes mejora la visibilidad y la seguridad. Si el vehículo de adelante frena repentinamente, frenar suavemente manteniendo el control es lo más seguro."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Prácticas de conducción segura",
+"subcategory":"Conducción defensiva",
+"englishSubcategory":"Defensive Driving",
+"description":"Conducir a la defensiva significa anticipar los peligros y reducir el riesgo. Los conductores deben esperar que los demás cometan errores. Dar espacio y evitar la confrontación es la respuesta más segura a los errores de otros conductores. Antes de cambiar de carril, los conductores deben revisar los espejos, los puntos ciegos y las direccionales. Una dirección y un frenado suaves ayudan a mantener el control. Si van demasiado cerca, lo más seguro es aumentar la distancia de seguimiento y permitir que el otro vehículo los sobrepase."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Prácticas de conducción segura",
+"subcategory":"Seguridad en las intersecciones",
+"englishSubcategory":"Intersection Safety",
+"description":"Los conductores deben verificar que las intersecciones estén despejadas, incluso con luz verde. Entrar en una intersección con una salida bloqueada puede generar peligros. Al girar, los conductores deben reducir la velocidad, indicar con anticipación y verificar si hay peatones. Si la visión está bloqueada al girar, los conductores deben esperar hasta que sea claramente seguro. Los peatones que entran a la carretera son un peligro común al girar a la izquierda."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Prácticas de conducción segura",
+"subcategory":"Peligros para los animales y la superficie de la carretera",
+"englishSubcategory":"Animal and Road Surface Hazards",
+"description":"Los animales pueden aparecer repentinamente, especialmente en zonas rurales al amanecer y al anochecer. La respuesta más segura es frenar con firmeza si es seguro y mantener el control. La grava suelta y las superficies irregulares reducen el agarre. Los conductores deben reducir la velocidad y evitar frenazos o giros bruscos en superficies en mal estado. Conducir demasiado cerca de otro vehículo es especialmente peligroso en carreteras mojadas o poco firmes debido a las mayores distancias de frenado."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Prácticas de conducción segura",
+"subcategory":"Posición del asiento y espejos",
+"englishSubcategory":"Seat Position and Mirrors",
+"description":"Una posición correcta del asiento mejora el control del vehículo. Un ajuste adecuado de los espejos reduce los puntos ciegos. Los conductores deben revisar los espejos con regularidad y antes de cambiar de velocidad o dirección. Es fundamental mirar con la cabeza antes de cambiar de carril. Los buenos hábitos al sentarse y usar los espejos mejoran la percepción del vehículo y la seguridad. Mantener la calma y actuar con suavidad y control es la respuesta más segura ante imprevistos."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Intersecciones, giros y rotondas",
+"subcategory":"Ceder el paso en las intersecciones",
+"englishSubcategory":"Giving Way at Intersections",
+"description":"En intersecciones sin señales ni semáforos, los conductores deben ceder el paso a los vehículos que se aproximan por la derecha. Al girar a la derecha en una intersección, los conductores deben ceder el paso a los vehículos que vienen en sentido contrario, ya sean rectos o que giren a la izquierda. En una intersección en T sin señales, el conductor de la vía final debe ceder el paso a todo el tráfico de la vía continua. Los conductores que entran a una vía desde una entrada o un estacionamiento deben ceder el paso a todos los vehículos, ciclistas y peatones. Si los semáforos no funcionan, la intersección debe considerarse sin control y se aplican las normas de ceder el paso."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Intersecciones, giros y rotondas",
+"subcategory":"Reglas de giro",
+"englishSubcategory":"Turning Rules",
+"description":"Antes de girar a la izquierda o a la derecha, los conductores deben indicar y verificar la presencia de otros usuarios de la vía. Al girar a la izquierda, deben ceder el paso a los peatones que cruzan la vía hacia la que se dirigen. Al girar a la derecha en una vía de doble sentido, los conductores deben ubicarse lo más cerca posible de la línea central. Los giros en U solo deben realizarse donde esté permitido y sea seguro. Al girar en U, los conductores deben ceder el paso a todos los demás vehículos y peatones."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Intersecciones, giros y rotondas",
+"subcategory":"Carriles de entrada",
+"englishSubcategory":"Slip Lanes",
+"description":"Los carriles de entrada permiten a los vehículos girar a la izquierda desde la intersección principal.\n\nLos carriles de entrada suelen estar controlados por una señal de CEDA EL PASO.\n\nLos conductores que utilizan un carril de entrada deben ceder el paso a los peatones y ciclistas que lo cruzan.\n\nLos conductores deben detenerse en un carril de entrada solo si una señal de PARE o un semáforo lo exige.\n\nUn peligro común en los carriles de entrada es que los conductores que giran no vean a los peatones."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Intersecciones, giros y rotondas",
+"subcategory":"Rotondas",
+"englishSubcategory":"Roundabouts",
+"description":"Al acercarse a una rotonda, los conductores deben ceder el paso a todos los vehículos que ya se encuentran en ella. Al girar a la izquierda en una rotonda, los conductores deben indicar a la izquierda antes de entrar y al girar. Al atravesar una rotonda en línea recta, los conductores no deben indicar a la entrada y deben indicar a la izquierda al salir. Al girar a la derecha en una rotonda, los conductores deben indicar a la derecha al entrar y a la izquierda al salir. Al salir de una rotonda, los conductores deben ceder el paso a los peatones que cruzan la calle a la que entran."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Intersecciones, giros y rotondas",
+"subcategory":"Intersecciones bloqueadas",
+"englishSubcategory":"Blocked Intersections",
+"description":"Los conductores no deben entrar en una intersección a menos que haya suficiente espacio para despejarla por completo. Bloquear una intersección puede obstruir el tráfico y los vehículos de emergencia. Si el tráfico se detiene mientras un conductor está en la intersección, este debe despejarla tan pronto como sea seguro. En tráfico denso, los conductores deben esperar hasta que haya espacio más allá de la intersección antes de entrar. Bloquear una intersección puede resultar en una multa por obstrucción del tráfico."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Intersecciones, giros y rotondas",
+"subcategory":"Peatones en las intersecciones",
+"englishSubcategory":"Pedestrians at Intersections",
+"description":"Los conductores siempre deben estar atentos a los peatones al girar en las intersecciones. Si los peatones siguen cruzando cuando el semáforo se pone en verde, los conductores deben esperar hasta que terminen de cruzar. Los peatones tienen prioridad cuando tienen señal de cruce en el semáforo. Los conductores deben reducir la velocidad al girar en calles concurridas donde los peatones pueden salir inesperadamente. Un error común en las intersecciones es centrarse en los vehículos y no ver a los peatones."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Intersecciones, giros y rotondas",
+"subcategory":"Giros a la derecha",
+"englishSubcategory":"Right Turns",
+"description":"Los giros a la derecha son más riesgosos porque implican cruzar la trayectoria del tráfico que viene en sentido contrario. Los conductores deben calcular un espacio seguro y ceder el paso correctamente antes de girar a la derecha. Si la visibilidad está bloqueada, los conductores deben esperar hasta que sea claramente seguro. La presión del tráfico que viene detrás nunca debe influir en un conductor para que gire de forma insegura. Antes de girar a la derecha, los conductores deben ubicarse correctamente en el carril de giro o cerca de la línea central."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Intersecciones, giros y rotondas",
+"subcategory":"Giros a la izquierda",
+"englishSubcategory":"Left Turns",
+"description":"Antes de girar a la izquierda, los conductores deben verificar si hay peatones, ciclistas y demás tráfico. Los giros a la izquierda pueden ser arriesgados, ya que podrían cruzar peatones o ciclistas. En los semáforos, los conductores deben indicar, revisar los espejos y ceder el paso a los peatones al girar a la izquierda. Girar a la izquierda con luz roja solo está permitido cuando una señal lo permite y es seguro. Los conductores deben ceder el paso a los peatones que esperan para cruzar al girar."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Intersecciones, giros y rotondas",
+"subcategory":"Peligros en las rotondas",
+"englishSubcategory":"Roundabout Hazards",
+"description":"Un error común en las rotondas es no señalizar correctamente al salir. Los conductores deben acercarse a las rotondas a una velocidad segura para tener tiempo de ceder el paso. Si otro conductor no cede el paso, la respuesta más segura es cederlo para evitar un accidente. El uso correcto del carril en rotondas de varios carriles previene conflictos y rozamientos. Si se elige el carril equivocado, los conductores deben seguirlo y corregir su ruta más tarde."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Intersecciones, giros y rotondas",
+"subcategory":"Seguridad general en intersecciones",
+"englishSubcategory":"General Intersection Safety",
+"description":"La paciencia en las intersecciones reduce el riesgo de colisión. Los conductores deben tener en cuenta que otros usuarios de la vía pueden cometer errores. Cubrir el freno al acercarse a intersecciones concurridas reduce el tiempo de reacción. Si no está seguro de quién tiene derecho de paso, los conductores deben ceder el paso para evitar una colisión. La regla más segura en las intersecciones es avanzar solo cuando esté completamente seguro de que es seguro."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Marcas viales, carriles y adelantamientos",
+"subcategory":"Marcas de carril",
+"englishSubcategory":"Lane Markings",
+"description":"Las marcas de carril guían a los conductores y controlan el movimiento del vehículo. Una línea central continua significa que los conductores no deben cruzarla para adelantar. Una línea central discontinua significa que los conductores pueden cruzar cuando sea seguro y esté permitido. Ningún conductor debe cruzar las líneas centrales continuas dobles. Cuando una línea es discontinua y la otra continua, solo el conductor junto a la línea discontinua puede cruzar. Las líneas de borde marcan el límite de la calzada y ayudan a definir el espacio para conducir."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Marcas viales, carriles y adelantamientos",
+"subcategory":"Uso del carril",
+"englishSubcategory":"Lane Use",
+"description":"Los conductores deben usar los carriles correctamente y respetar las marcas viales. En carreteras de varios carriles con límites de velocidad superiores a 80 km/h, los conductores deben mantenerse a la izquierda a menos que adelanten. Las flechas de carril indican la dirección en la que los vehículos deben circular desde ese carril. No se debe circular por las isletas pintadas delimitadas por líneas continuas a menos que se evite un obstáculo y esté permitido. Si se está en el carril equivocado, lo más seguro es continuar y cambiar de carril más tarde, cuando sea seguro."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Marcas viales, carriles y adelantamientos",
+"subcategory":"Reglas de adelantamiento",
+"englishSubcategory":"Overtaking Rules",
+"description":"Adelantar solo está permitido cuando las marcas viales y las condiciones lo permiten de forma segura. Los conductores deben verificar la visibilidad, el tráfico que viene en sentido contrario y las marcas viales antes de adelantar. Adelantar cerca de cruces, curvas o intersecciones es peligroso debido a la visibilidad limitada. Después de adelantar, los conductores deben regresar a su carril solo cuando estén separados del otro vehículo. Una trampa común es subestimar la velocidad de los vehículos que vienen en sentido contrario."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Marcas viales, carriles y adelantamientos",
+"subcategory":"Fusión",
+"englishSubcategory":"Merging",
+"description":"Cuando los carriles se incorporan sin señalización, el vehículo que va detrás debe ceder el paso. Los conductores deben ajustar la velocidad para permitir que otros se incorporen de forma segura. La incorporación en cremallera permite que el tráfico de cada carril se incorpore alternativamente. Los conductores deben indicar antes de cambiar de carril. Una incorporación segura requiere cooperación, paciencia y previsibilidad."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Marcas viales, carriles y adelantamientos",
+"subcategory":"Carriles especiales",
+"englishSubcategory":"Special Lanes",
+"description":"Los carriles especiales incluyen los carriles para autobuses y los carriles de tránsito. Solo los vehículos autorizados por las señales pueden utilizar los carriles para autobuses durante su horario de funcionamiento. Los conductores generales solo pueden entrar en los carriles para autobuses para los giros permitidos o cuando las señales lo permitan. Los carriles T2 y T3 requieren un número mínimo de ocupantes. Las motocicletas pueden utilizar los carriles T2 y T3 a menos que las señales indiquen lo contrario. Los conductores siempre deben consultar las señales antes de entrar en los carriles especiales."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Marcas viales, carriles y adelantamientos",
+"subcategory":"Manteniéndose a la izquierda",
+"englishSubcategory":"Keeping Left",
+"description":"Mantenerse a la izquierda mejora la fluidez del tráfico y la seguridad en carreteras de varios carriles. El carril derecho no es un carril rápido permanente. Los conductores deben abandonar el carril derecho después de adelantar o cuando ya no lo necesiten. El uso innecesario del carril derecho puede causar congestión y adelantamientos peligrosos. En caso de tráfico denso en todos los carriles, los conductores pueden usar cualquier carril de forma cooperativa."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Marcas viales, carriles y adelantamientos",
+"subcategory":"Cambios de carril",
+"englishSubcategory":"Lane Changes",
+"description":"Antes de cambiar de carril, los conductores deben revisar los espejos, los puntos ciegos y las direccionales. Es fundamental mirar con la cabeza, ya que los espejos no muestran todos los puntos ciegos. Si otro conductor acelera, deben esperar y cambiar de carril solo cuando sea seguro. Los cambios frecuentes de carril aumentan el riesgo de colisión. Las direccionales deben desactivarse después de completar el cambio de carril."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Marcas viales, carriles y adelantamientos",
+"subcategory":"Seguridad al adelantar",
+"englishSubcategory":"Overtaking Safety",
+"description":"Adelantar por la izquierda puede ser arriesgado, ya que otros conductores podrían no esperarlo. Los conductores deben tener cuidado si un vehículo que circula delante está direccional a la derecha y disminuye la velocidad. Adelantar cerca de intersecciones es peligroso debido a los movimientos impredecibles del tráfico. Si no se puede completar un adelantamiento de forma segura, los conductores deben abortar y regresar a su carril. La regla más segura es adelantar solo cuando sea legal y claramente seguro."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Marcas viales, carriles y adelantamientos",
+"subcategory":"Seguridad general en el carril",
+"englishSubcategory":"General Lane Safety",
+"description":"Mantenerse centrado en el carril ayuda a mantener el control y evitar rozamientos. Cuando las marcas viales están borrosas o son poco claras, los conductores deben proceder con precaución y respetar las señales y el trazado de la vía. El uso predecible del carril ayuda a otros usuarios a anticipar los movimientos. En caso de congestión, la paciencia y la cooperación reducen el riesgo de colisión. Los arcenes no están diseñados para la conducción normal y solo deben usarse en emergencias o cuando la señalización lo permita."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Marcas viales, carriles y adelantamientos",
+"subcategory":"Principios de conducción segura",
+"englishSubcategory":"Safe Driving Principles",
+"description":"Los conductores nunca deben detenerse ni dar marcha atrás si se saltan un giro o una salida. Las marcas viales existen para guiar el tránsito seguro y legal. Cuando los carriles se reducen, los conductores deben incorporarse con anticipación y de forma segura, de acuerdo con las normas de tránsito. La seguridad y la legalidad siempre deben anteponerse a la conveniencia. El cumplimiento de las marcas viales y las normas de carril reduce los conflictos y las colisiones."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Normas de parada, estacionamiento y carretera",
+"subcategory":"Detenerse vs. Estacionar",
+"englishSubcategory":"Stopping vs Parking",
+"description":"Detenerse es permanecer detenido por un breve periodo de tiempo mientras el conductor permanece junto al vehículo. Estacionar es dejar el vehículo sin supervisión, incluso por un breve periodo. Detenerse se convierte en estacionamiento en cuanto el conductor abandona el vehículo. Se aplican diferentes señales y normas para detenerse y estacionar. Comprender esta distinción es esencial para evitar infracciones."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Normas de parada, estacionamiento y carretera",
+"subcategory":"Zonas de no parada",
+"englishSubcategory":"No Stopping Zones",
+"description":"Una señal de NO PARAR significa que los conductores no deben detenerse en absoluto, excepto en una emergencia real. No se permite dejar ni recoger pasajeros en las zonas de no parar. Las luces de emergencia no permiten detenerse legalmente. Las zonas de no parar se utilizan para mantener el tráfico fluido y las líneas de visibilidad despejadas. Detenerse ilegalmente en estas zonas crea riesgos de seguridad."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Normas de parada, estacionamiento y carretera",
+"subcategory":"Zonas de no estacionamiento",
+"englishSubcategory":"No Parking Zones",
+"description":"Una señal de NO ESTACIONAR permite a los conductores detenerse brevemente, pero no dejar el vehículo desatendido. El conductor debe permanecer con el vehículo en todo momento. Dejar el vehículo desatendido convierte la parada en estacionamiento ilegal. Las zonas de no estacionamiento se utilizan a menudo cerca de las intersecciones para mejorar la visibilidad. Los conductores deben detenerse solo cuando sea necesario y continuar rápidamente."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Normas de parada, estacionamiento y carretera",
+"subcategory":"Vías despejadas",
+"englishSubcategory":"Clearways",
+"description":"Las zonas libres de obstáculos prohíben detenerse y estacionarse durante los horarios indicados en la señal. Durante estos horarios, los vehículos no deben detenerse, excepto en caso de emergencia. Fuera de los horarios de las zonas libres de obstáculos, se aplican las normas de estacionamiento habituales. Las zonas libres de obstáculos se utilizan para mantener el tráfico fluido en zonas concurridas. Una trampa común es la confusión sobre cuándo se aplican los horarios de las zonas libres de obstáculos."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Normas de parada, estacionamiento y carretera",
+"subcategory":"Paradas de autobús y zonas de autobuses",
+"englishSubcategory":"Bus Stops and Bus Zones",
+"description":"No se permite detenerse ni estacionarse en las zonas de parada de autobús a menos que las señales lo permitan. Las zonas de autobús deben mantenerse despejadas para que los autobuses puedan recoger y dejar pasajeros de forma segura. Detenerse en una zona de autobús es ilegal incluso si no hay autobús presente. Los conductores deben estar atentos a los peatones cerca de las paradas de autobús. Mantener las zonas de autobús despejadas mejora la seguridad y la fluidez del tráfico."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Normas de parada, estacionamiento y carretera",
+"subcategory":"Caminos de acceso e intersecciones",
+"englishSubcategory":"Driveways and Intersections",
+"description":"Los conductores no deben detenerse ni estacionarse en las entradas de vehículos. Estacionar demasiado cerca de las intersecciones reduce la visibilidad para todos los usuarios de la vía. Se aplican distancias restringidas cerca de las intersecciones, incluso si no hay señales. Bloquear las entradas de vehículos o las intersecciones puede impedir el acceso de vehículos de emergencia. En caso de duda, los conductores deben estacionarse más lejos, donde la visibilidad sea despejada."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Normas de parada, estacionamiento y carretera",
+"subcategory":"Zonas de carga",
+"englishSubcategory":"Loading Zones",
+"description":"Las zonas de carga solo pueden ser utilizadas por los vehículos permitidos por la señal. Los vehículos particulares no tienen permitido automáticamente el uso de las zonas de carga. Las zonas de carga existen para permitir las entregas sin obstruir el tráfico. Los conductores deben revisar atentamente las señales para ver los vehículos y horarios permitidos. En caso de duda, los conductores no deben detenerse en una zona de carga."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Normas de parada, estacionamiento y carretera",
+"subcategory":"Posición de estacionamiento",
+"englishSubcategory":"Parking Position",
+"description":"Al estacionar en paralelo, los vehículos deben ubicarse cerca y en paralelo al bordillo. Estacionar parcialmente sobre las aceras suele ser ilegal y obstruye el paso de los peatones. Al estacionar en pendientes, las ruedas deben estar giradas para evitar que rueden. Antes de abrir una puerta, los conductores deben verificar si hay ciclistas y tráfico. Una posición de estacionamiento correcta mejora la seguridad de todos los usuarios de la vía."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Normas de parada, estacionamiento y carretera",
+"subcategory":"Parada de emergencia",
+"englishSubcategory":"Emergency Stopping",
+"description":"Detenerse en zonas prohibidas solo está permitido en casos de verdadera emergencia. Si un vehículo se avería, debe ser retirado de la vía si es posible. Las luces de emergencia advierten a otros conductores, pero no permiten detenerse legalmente. En caso de emergencia, los conductores deben detenerse lo más lejos posible del tráfico. Advertir a otros usuarios de la vía reduce el riesgo de accidentes secundarios."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Normas de parada, estacionamiento y carretera",
+"subcategory":"Seguridad general en el estacionamiento",
+"englishSubcategory":"General Parking Safety",
+"description":"El estacionamiento ilegal puede obstruir el tráfico y reducir la visibilidad. Las bocas de incendio y los accesos de emergencia deben mantenerse siempre despejados. Si las señales de estacionamiento no son claras, los conductores deben asumir que no está permitido estacionar. Antes de abandonar un vehículo estacionado, los conductores deben verificar los alrededores y asegurarlo. La seguridad y la legalidad siempre deben anteponerse a la comodidad al detenerse o estacionar."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Peatones, ciclistas y usuarios vulnerables de la vía",
+"subcategory":"Prioridad para peatones",
+"englishSubcategory":"Pedestrian Priority",
+"description":"Los peatones se encuentran entre los usuarios de la vía más vulnerables. Los conductores deben ceder el paso a los peatones que cruzan o entran en los cruces peatonales. Si los peatones siguen cruzando cuando el semáforo se pone en verde, los conductores deben esperar. Los conductores deben reducir la velocidad en zonas comerciales y calles concurridas donde los peatones pueden entrar en la calzada inesperadamente. Un error común es concentrarse en los semáforos y no ver a los peatones."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Peatones, ciclistas y usuarios vulnerables de la vía",
+"subcategory":"Niños y áreas escolares",
+"englishSubcategory":"Children and School Areas",
+"description":"Los niños pueden comportarse de forma impredecible cerca de las carreteras. Los conductores deben reducir la velocidad y estar alerta cerca de escuelas y parques infantiles. Los supervisores de los cruces escolares controlan los cruces durante los horarios señalizados. Cuando un supervisor muestra una señal de alto, los conductores deben detenerse y ceder el paso a los peatones. Las restricciones de estacionamiento cerca de los cruces escolares mejoran la visibilidad y la seguridad."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Peatones, ciclistas y usuarios vulnerables de la vía",
+"subcategory":"Los ciclistas como usuarios de la vía",
+"englishSubcategory":"Cyclists as Road Users",
+"description":"Los ciclistas son usuarios legítimos de la vía y deben ser tratados con precaución. Los conductores deben dejar suficiente espacio al adelantar a los ciclistas. Antes de abrir la puerta del vehículo, los conductores deben mirar por los espejos retrovisores para evitar atropellar a los ciclistas. Al girar, los conductores deben estar atentos a los ciclistas que circulan en línea recta por las intersecciones. Un error común es subestimar la velocidad de un ciclista."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Peatones, ciclistas y usuarios vulnerables de la vía",
+"subcategory":"Carriles bici",
+"englishSubcategory":"Bicycle Lanes",
+"description":"Los carriles bici se proporcionan para proteger a los ciclistas. Solo los ciclistas y los vehículos autorizados por las señales pueden utilizar los carriles bici. Los conductores solo pueden entrar en un carril bici al girar o cuando las señales lo permitan. Antes de cruzar un carril bici, los conductores deben ceder el paso a los ciclistas. Los conductores deben tener en cuenta que los ciclistas irán a mayor velocidad de la prevista."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Peatones, ciclistas y usuarios vulnerables de la vía",
+"subcategory":"Caminos compartidos",
+"englishSubcategory":"Shared Paths",
+"description":"Los senderos compartidos pueden ser utilizados por peatones, ciclistas y otras personas según lo permitido. Los conductores deben reducir la velocidad y ceder el paso al acercarse a los cruces de senderos compartidos. Los diferentes usuarios viajan a diferentes velocidades, lo que aumenta el riesgo. Los conductores deben estar atentos a los peatones y ciclistas que ingresan a la vía desde los senderos compartidos. La paciencia y la atención reducen el riesgo de colisión cerca de los senderos compartidos."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Peatones, ciclistas y usuarios vulnerables de la vía",
+"subcategory":"Peatones ancianos y discapacitados",
+"englishSubcategory":"Elderly and Disabled Pedestrians",
+"description":"Los peatones mayores y discapacitados pueden necesitar más tiempo para cruzar las calles. Los conductores deben esperar pacientemente hasta que terminen de cruzar. Se requiere precaución adicional cerca de hospitales, centros de atención y cruces peatonales. Si no están seguros de si un peatón ha visto el vehículo, los conductores deben ceder el paso. Suponer que los peatones vulnerables se moverán rápidamente es peligroso."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Peatones, ciclistas y usuarios vulnerables de la vía",
+"subcategory":"Distancia mínima de paso",
+"englishSubcategory":"Minimum Passing Distance",
+"description":"Los conductores deben dejar suficiente espacio al adelantar a los ciclistas. Si la vía es demasiado estrecha para adelantar con seguridad, los conductores deben esperar. Los ciclistas pueden alejarse del bordillo para evitar peligros o mantener el equilibrio. Forzar un adelantamiento estrecho aumenta considerablemente el riesgo de accidente. La paciencia y el espacio protegen tanto a conductores como a ciclistas."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Peatones, ciclistas y usuarios vulnerables de la vía",
+"subcategory":"Animales y otros usuarios vulnerables",
+"englishSubcategory":"Animals and Other Vulnerable Users",
+"description":"Los animales pueden entrar repentinamente a la carretera, especialmente al amanecer y al anochecer. Los conductores deben reducir la velocidad en zonas donde haya animales. Si un animal aparece más adelante, frenar si es seguro y mantener el control es la mejor respuesta. Tras frenar repentinamente, los conductores deben verificar el tráfico que circula detrás. Una precaución adicional reduce el riesgo de pérdida de control."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Peatones, ciclistas y usuarios vulnerables de la vía",
+"subcategory":"Principios generales de seguridad",
+"englishSubcategory":"General Safety Principles",
+"description":"Los usuarios vulnerables de la vía pública tienen poca protección en caso de colisión. Los conductores deben reducir la velocidad y estar más atentos a su alrededor. Si no está seguro de quién tiene prioridad, ceder el paso evita daños. Las prisas aumentan el riesgo de lesiones graves. La seguridad siempre debe primar sobre la comodidad."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Peatones, ciclistas y usuarios vulnerables de la vía",
+"subcategory":"Conciencia del conductor",
+"englishSubcategory":"Driver Awareness",
+"description":"Las zonas urbanas suelen ocultar a ciclistas y peatones en los puntos ciegos. Los conductores deben revisar los espejos y los puntos ciegos antes de girar o cambiar de carril. Los ciclistas suelen circular en línea recta por las intersecciones. Si un ciclista se desvía o se tambalea, los conductores deben reducir la velocidad y cederle espacio. Conducir con precaución y paciencia crea un entorno vial compartido más seguro."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Situaciones especiales y entornos viales",
+"subcategory":"Obras de carretera",
+"englishSubcategory":"Roadworks",
+"description":"Las zonas de obras suelen presentar cambios en las condiciones de la vía y los patrones de tráfico. Los conductores deben reducir la velocidad y seguir todas las señales e indicaciones temporales. Los límites de velocidad temporales en las obras son de obligado cumplimiento legal. Los límites de velocidad pueden aplicarse incluso cuando los trabajadores no son visibles. Las indicaciones de los controladores de tráfico autorizados deben seguirse siempre. Se requiere precaución adicional debido a los carriles estrechos, las superficies irregulares y los trabajadores."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Situaciones especiales y entornos viales",
+"subcategory":"Pasos a nivel ferroviarios",
+"englishSubcategory":"Railway Level Crossings",
+"description":"Los conductores deben acercarse a los pasos a nivel con precaución. Cuando las luces de advertencia, las campanas o las barreras de seguridad estén activadas, los conductores no deben entrar en el paso. Los conductores nunca deben detenerse en un paso a nivel. Si el tráfico está congestionado, los conductores deben esperar hasta que haya suficiente espacio para despejar el paso. Si un vehículo se detiene en un paso a nivel, los ocupantes deben abandonar el vehículo inmediatamente y ponerse a salvo. Los trenes suelen ser más rápidos y estar más cerca de lo que parecen."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Situaciones especiales y entornos viales",
+"subcategory":"Túneles",
+"englishSubcategory":"Tunnels",
+"description":"Los túneles son entornos confinados con opciones de escape limitadas. Los conductores deben mantener una distancia de seguridad y evitar cambios repentinos de carril. Si se muestra una señal de control de carril con una X roja, no se debe usar ese carril. Se debe evitar detenerse en un túnel a menos que sea necesario. En caso de avería, los conductores deben dirigirse a una zona segura y seguir las instrucciones de emergencia. Las distancias de frenado no se reducen en los túneles a pesar del entorno cerrado."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Situaciones especiales y entornos viales",
+"subcategory":"Autopistas y rampas",
+"englishSubcategory":"Motorways and Ramps",
+"description":"Al entrar en una autopista, los conductores deben usar el carril de aceleración para igualar la velocidad del tráfico siempre que sea seguro.\n\nIncorporarse requiere revisar los espejos y los puntos ciegos, y elegir un espacio seguro.\n\nLos conductores no deben detenerse al final de una rampa de entrada a menos que sea necesario.\n\nAl salir de una autopista, los conductores deben reducir la velocidad solo después de entrar en la rampa de salida.\n\nSi se pasa una salida, los conductores deben continuar hasta la siguiente salida y desviarse.\n\nCruzar carriles en el último momento es peligroso."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Situaciones especiales y entornos viales",
+"subcategory":"Clima adverso",
+"englishSubcategory":"Adverse Weather",
+"description":"Las condiciones meteorológicas adversas, como la lluvia, la niebla y las tormentas, reducen la visibilidad y el agarre. En caso de niebla, los conductores deben reducir la velocidad y usar las luces adecuadas. Las luces altas pueden reducir la visibilidad en la niebla debido al reflejo. Las inundaciones pueden ocultar peligros y causar la pérdida de control. Si no se sabe con certeza la profundidad del agua, los conductores no deben entrar y buscar otra ruta. La primera lluvia después de un período seco puede ser especialmente resbaladiza."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Situaciones especiales y entornos viales",
+"subcategory":"Resplandor y sol",
+"englishSubcategory":"Glare and Sun",
+"description":"El resplandor del sol puede reducir considerablemente la visibilidad. Los conductores deben reducir la velocidad cuando el resplandor afecta la visión. El uso de viseras o gafas de sol puede ayudar a reducir el resplandor. El resplandor puede dificultar la visibilidad de los peatones, las señales y los peligros. Subir cuestas con un sol intenso requiere reducir la velocidad y observar con atención. Los conductores deben estar preparados para detenerse si la visibilidad se reduce."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Situaciones especiales y entornos viales",
+"subcategory":"Animales",
+"englishSubcategory":"Animals",
+"description":"Los animales pueden entrar repentinamente a la carretera, especialmente en caminos rurales. El amanecer y el anochecer son horas de mayor riesgo para el movimiento de animales. Si un animal está cerca o en la carretera, los conductores deben reducir la velocidad y estar listos para detenerse. Un viraje brusco puede causar pérdida de control o colisiones con otros vehículos. Frenar con firmeza, si es seguro, manteniendo el control, suele ser la respuesta más segura."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Situaciones especiales y entornos viales",
+"subcategory":"Averías y Emergencias",
+"englishSubcategory":"Breakdowns and Emergencies",
+"description":"Si un vehículo se avería, los conductores deben salir de la carretera a una zona segura si es posible. Permanecer en un carril de tráfico crea un grave peligro. Las luces de emergencia advierten a otros conductores, pero no eliminan el riesgo. Los conductores deben colocar dispositivos de advertencia si es seguro y están disponibles. Al salir del vehículo, los conductores deben alejarse del tráfico."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Situaciones especiales y entornos viales",
+"subcategory":"Condiciones de baja visibilidad",
+"englishSubcategory":"Low Visibility Conditions",
+"description":"La baja visibilidad puede deberse a la niebla, el humo, el polvo o la lluvia intensa. Los conductores deben reducir la velocidad y poder detenerse dentro de la distancia visible. Las luces altas pueden empeorar la visibilidad en caso de niebla o humo. Seguir demasiado de cerca reduce el tiempo de reacción y aumenta el riesgo de colisión. Si la visibilidad se vuelve extremadamente deficiente, los conductores deben detenerse de forma segura y esperar."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Situaciones especiales y entornos viales",
+"subcategory":"Situaciones especiales generales",
+"englishSubcategory":"General Special Situations",
+"description":"Los entornos viales desconocidos o cambiantes requieren mayor precaución. Los conductores deben reducir la velocidad y aumentar la observación. Las maniobras repentinas aumentan el riesgo de perder el control cuando se reduce el agarre o la visibilidad. Asumir que las trazadas o velocidades habituales de la carretera siguen siendo válidas es un error común. Ser cauteloso, predecible y estar listo para detenerse es la mejor manera de reducir el riesgo en situaciones especiales."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Indicaciones para vehículos de emergencia y policía",
+"subcategory":"Cediendo el paso a los vehículos de emergencia",
+"englishSubcategory":"Giving Way to Emergency Vehicles",
+"description":"Los vehículos de emergencia incluyen vehículos de policía, bomberos y ambulancias que utilizan luces intermitentes o sirenas. Los conductores deben apartarse de la trayectoria de un vehículo de emergencia que se aproxima tan pronto como sea seguro. De ser necesario, los conductores deben detenerse para permitir el paso del vehículo de emergencia. Los conductores no deben detenerse repentinamente en una posición insegura. Seguir de cerca a un vehículo de emergencia es peligroso e ilegal. Los vehículos de emergencia pueden acercarse desde cualquier dirección."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Indicaciones para vehículos de emergencia y policía",
+"subcategory":"Vehículos de emergencia en las intersecciones",
+"englishSubcategory":"Emergency Vehicles at Intersections",
+"description":"Los vehículos de emergencia pueden entrar en intersecciones con luz roja. Los conductores deben ceder el paso incluso con luz verde. Si ya están en una intersección, deben despejarla con seguridad. Los vehículos de emergencia pueden usar el lado opuesto de la vía para desviar el tráfico. Un error común es asumir que los semáforos siempre dan prioridad."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Indicaciones para vehículos de emergencia y policía",
+"subcategory":"Instrucciones de la policía",
+"englishSubcategory":"Police Directions",
+"description":"Los agentes de policía pueden dirigir el tráfico manualmente. Si las indicaciones de la policía entran en conflicto con las señales de tráfico o los semáforos, se deben seguir. Los conductores deben obedecer las señales para detenerse, avanzar o cambiar de dirección. Observar los semáforos en lugar del agente es un error común. Las indicaciones de la policía existen para gestionar la seguridad y la fluidez del tráfico."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Indicaciones para vehículos de emergencia y policía",
+"subcategory":"Detenerse ante la policía",
+"englishSubcategory":"Stopping for Police",
+"description":"Si la policía le indica a un conductor que se detenga, este debe hacerlo tan pronto como sea seguro. Los conductores deben detenerse en un lugar seguro según las indicaciones. A menos que se les indique lo contrario, los conductores deben permanecer en su vehículo. Salir del vehículo sin instrucciones puede ser peligroso. Los conductores deben cumplir con las instrucciones de la policía."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Indicaciones para vehículos de emergencia y policía",
+"subcategory":"Pruebas de aliento y drogas",
+"englishSubcategory":"Breath and Drug Testing",
+"description":"La policía puede exigir a los conductores que se sometan a pruebas de alcoholemia o de drogas en cualquier momento. Los conductores deben cumplir con las instrucciones legales para las pruebas. Negarse a someterse a una prueba conlleva sanciones graves. Las pruebas aleatorias se utilizan para disuadir a los conductores bajo los efectos del alcohol. Estar sobrio no significa que se pueda rechazar una prueba."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Indicaciones para vehículos de emergencia y policía",
+"subcategory":"Instrucciones en caso de accidentes e incidentes",
+"englishSubcategory":"Accident and Incident Directions",
+"description":"Tras accidentes o incidentes, la policía puede redirigir el tráfico. Los conductores deben seguir todas las indicaciones dadas en el lugar del incidente. El incumplimiento puede aumentar el peligro para los usuarios de la vía y los servicios de emergencia. Los conductores deben proceder con precaución y mantenerse alerta. Detenerse a observar incidentes genera un riesgo adicional."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Indicaciones para vehículos de emergencia y policía",
+"subcategory":"Vehículos de emergencia en el tráfico",
+"englishSubcategory":"Emergency Vehicles in Traffic",
+"description":"Es posible que más de un vehículo de emergencia esté respondiendo a un incidente. Los conductores deben revisar los espejos después de que pase un vehículo de emergencia. Los cambios repentinos de carril cerca de vehículos de emergencia son peligrosos. Los conductores deben reanudar la marcha con suavidad después de que pasen los vehículos de emergencia. Es posible que los servicios de emergencia presenten movimientos impredecibles."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Indicaciones para vehículos de emergencia y policía",
+"subcategory":"Consecuencias legales",
+"englishSubcategory":"Legal Consequences",
+"description":"No ceder el paso a los vehículos de emergencia puede resultar en multas y sanciones. Ignorar las indicaciones policiales es una infracción grave. Las indicaciones legales deben obedecerse incluso si resultan inoportunas. Asumir que las indicaciones son opcionales es un error común. La aplicación de la ley apoya la seguridad vial y la respuesta ante emergencias."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Indicaciones para vehículos de emergencia y policía",
+"subcategory":"Conciencia general sobre emergencias",
+"englishSubcategory":"General Emergency Awareness",
+"description":"Las situaciones de emergencia requieren una conducción tranquila y controlada. El pánico puede llevar a decisiones peligrosas. Los conductores deben reducir la velocidad y observar atentamente las situaciones de emergencia. La seguridad de todos los usuarios de la vía debe guiar el comportamiento del conductor. La cooperación y la paciencia contribuyen a una respuesta eficaz ante emergencias."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Cinturones de seguridad, sistemas de retención infantil y pasajeros",
+"subcategory":"Conceptos básicos del cinturón de seguridad",
+"englishSubcategory":"Seatbelt Basics",
+"description":"Todos los ocupantes deben usar el cinturón de seguridad si está instalado. El cinturón de seguridad debe usarse en todo momento mientras el vehículo esté en movimiento. El uso del cinturón de seguridad reduce significativamente las lesiones y muertes en accidentes, incluso a baja velocidad. Los viajes cortos no son una excepción a la normativa sobre el uso del cinturón de seguridad. Los pasajeros de los asientos traseros también deben usar el cinturón de seguridad. Suponer que el cinturón de seguridad es innecesario en viajes cortos o lentos es un error común."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Cinturones de seguridad, sistemas de retención infantil y pasajeros",
+"subcategory":"Responsabilidad del conductor",
+"englishSubcategory":"Driver Responsibility",
+"description":"El conductor es legalmente responsable de garantizar que los pasajeros estén correctamente sujetos. Un conductor no debe conducir si un pasajero se niega a usar el cinturón de seguridad. Los niños dependen del conductor para garantizar el uso correcto de los dispositivos de sujeción. Suponer que los pasajeros se abrocharán el cinturón es un error común. Si un cinturón de seguridad está defectuoso, no se debe usar esa posición del asiento. Garantizar el uso correcto de los dispositivos de sujeción protege tanto a los pasajeros como al conductor."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Cinturones de seguridad, sistemas de retención infantil y pasajeros",
+"subcategory":"Normas de sujeción para niños",
+"englishSubcategory":"Child Restraint Rules",
+"description":"Los niños deben usar sistemas de retención infantil homologados y adecuados a su edad y tamaño. Los cinturones de seguridad para adultos no se ajustan de forma segura a niños pequeños. El sistema de retención adecuado depende de la altura, la edad y el peso del niño. Usar un sistema de retención inadecuado reduce la protección. Los sistemas de retención infantil deben estar correctamente instalados para que funcionen eficazmente. Los sistemas de retención mal instalados representan un importante riesgo de seguridad."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Cinturones de seguridad, sistemas de retención infantil y pasajeros",
+"subcategory":"Reglas del asiento delantero",
+"englishSubcategory":"Front Seat Rules",
+"description":"El asiento trasero suele ser la posición más segura para los niños. Los niños solo pueden sentarse en el asiento delantero si se cumplen los requisitos legales. Las bolsas de aire aumentan el riesgo para los niños que viajan en el asiento delantero. Antes de permitir que un niño viaje en el asiento delantero, los conductores deben tener en cuenta las normas de seguridad y las leyes. Suponer que el cinturón de seguridad por sí solo garantiza la seguridad del asiento delantero es incorrecto."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Cinturones de seguridad, sistemas de retención infantil y pasajeros",
+"subcategory":"Comportamiento de los pasajeros",
+"englishSubcategory":"Passenger Behaviour",
+"description":"Los pasajeros deben permanecer sentados y debidamente sujetos. Moverse dentro del vehículo puede distraer al conductor. Los objetos sueltos pueden convertirse en proyectiles peligrosos en caso de accidente. Las mascotas deben estar sujetas para que no interfieran con la conducción. Un comportamiento tranquilo y cooperativo de los pasajeros mejora la seguridad de todos."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Cinturones de seguridad, sistemas de retención infantil y pasajeros",
+"subcategory":"Exenciones y casos especiales",
+"englishSubcategory":"Exemptions and Special Cases",
+"description":"Las exenciones del uso del cinturón de seguridad son poco frecuentes y solo se aplican en circunstancias específicas. Las exenciones médicas requieren la debida autorización. Si no está seguro de si una exención aplica, los conductores deben asumir que el uso del cinturón de seguridad es obligatorio. Creer que las exenciones son comunes es un malentendido frecuente. Las leyes sobre el uso del cinturón de seguridad existen porque los dispositivos de retención reducen considerablemente el riesgo de lesiones."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Cinturones de seguridad, sistemas de retención infantil y pasajeros",
+"subcategory":"Multas y sanciones",
+"englishSubcategory":"Fines and Penalties",
+"description":"Los conductores pueden ser multados o sancionados si los pasajeros no llevan el cinturón de seguridad adecuado. Las sanciones se aplican incluso si no se produce un accidente. Una trampa común en la aplicación de la ley es asumir que no se revisa a los pasajeros del asiento trasero. Los conductores suelen ser responsables de las infracciones relacionadas con el uso de dispositivos de retención infantil. El uso constante de dispositivos de retención evita sanciones y mejora la seguridad."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Cinturones de seguridad, sistemas de retención infantil y pasajeros",
+"subcategory":"Principios de seguridad",
+"englishSubcategory":"Safety Principles",
+"description":"Los dispositivos de retención limitan el movimiento durante frenazos repentinos o choques. Su uso correcto reduce considerablemente la gravedad de las lesiones. Los dispositivos de retención deben revisarse periódicamente para detectar desgaste o daños. Adoptar el hábito de revisar los dispositivos de retención reduce los errores. La seguridad siempre debe anteponerse a la comodidad."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Cinturones de seguridad, sistemas de retención infantil y pasajeros",
+"subcategory":"Tipos de vehículos",
+"englishSubcategory":"Vehicle Types",
+"description":"Las normas sobre cinturones de seguridad y dispositivos de sujeción se aplican a la mayoría de los vehículos, incluyendo taxis y vehículos de transporte compartido. Los pasajeros deben usar el cinturón de seguridad si está instalado. Los vehículos de baja velocidad no están exentos de las normas sobre dispositivos de sujeción. Los vehículos más antiguos deben cumplirlas si tienen dispositivos de sujeción instalados. Si un asiento no tiene cinturón de seguridad, no se debe transportar a ningún pasajero."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Cinturones de seguridad, sistemas de retención infantil y pasajeros",
+"subcategory":"Conciencia general",
+"englishSubcategory":"General Awareness",
+"description":"Las revisiones de los sistemas de retención infantil son comunes porque afectan directamente el resultado de un accidente. Antes de transportar niños en un vehículo nuevo, se debe verificar la compatibilidad de los sistemas de retención infantil. El uso constante de los sistemas de retención infantil fomenta hábitos seguros. Si no está seguro de las normas de retención infantil, los conductores deben asumir que se aplican requisitos de seguridad más estrictos. El uso correcto de los sistemas de retención infantil en cada viaje protege mejor a los pasajeros."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Seguridad, defectos y mantenimiento del vehículo",
+"subcategory":"Estado del vehículo",
+"englishSubcategory":"Vehicle Roadworthiness",
+"description":"Los conductores son legalmente responsables de garantizar que el vehículo que conducen sea seguro y apto para circular. No se debe conducir un vehículo si presenta un defecto de seguridad conocido. Conducir un vehículo no apto para circular aumenta el riesgo de accidentes y averías. Suponer que un vehículo es seguro porque sigue funcionando es un error común. El conductor sigue siendo responsable de los defectos incluso al conducir un vehículo prestado."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Seguridad, defectos y mantenimiento del vehículo",
+"subcategory":"Llantas",
+"englishSubcategory":"Tyres",
+"description":"Los neumáticos son fundamentales para el agarre, el frenado y el control de la dirección. Los neumáticos deben tener suficiente profundidad de dibujo y no presentar daños graves. Los neumáticos desinflados o desgastados aumentan la distancia de frenado y reducen el control. El estado de los neumáticos debe revisarse periódicamente y antes de viajes largos. Ignorar el desgaste de los neumáticos porque parecen inflados es una trampa de seguridad común."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Seguridad, defectos y mantenimiento del vehículo",
+"subcategory":"Frenos",
+"englishSubcategory":"Brakes",
+"description":"Los frenos son esenciales para frenar con seguridad, especialmente en emergencias. Las señales de advertencia incluyen ruidos inusuales o una menor eficacia de frenado. Si siente que los frenos fallan al conducir, detenga el vehículo de forma segura y no continúe conduciendo. Es peligroso continuar conduciendo porque los frenos aún funcionan ligeramente. Los problemas con los frenos deben repararse de inmediato."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Seguridad, defectos y mantenimiento del vehículo",
+"subcategory":"Luces e indicadores",
+"englishSubcategory":"Lights and Indicators",
+"description":"Todas las luces e intermitentes deben funcionar para que el conductor pueda ver y ser visto. Los intermitentes comunican intenciones a otros usuarios de la vía. Conducir de noche con un faro delantero averiado es peligroso e ilegal. Un error común es asumir que las luces son innecesarias durante la conducción diurna. Las luces e intermitentes deben revisarse regularmente y antes de conducir de noche."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Seguridad, defectos y mantenimiento del vehículo",
+"subcategory":"Parabrisas y espejos",
+"englishSubcategory":"Windscreen and Mirrors",
+"description":"El parabrisas debe estar limpio y sin grietas que obstruyan la visión del conductor. Las grietas pueden debilitar el parabrisas y reducir la visibilidad. Los espejos permiten ver el tráfico circundante y deben estar correctamente instalados y ajustados. Conducir sin espejos o con los espejos mal ajustados es peligroso. Los espejos deben ajustarse antes de iniciar un viaje."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Seguridad, defectos y mantenimiento del vehículo",
+"subcategory":"Indicadores de advertencia",
+"englishSubcategory":"Warning Indicators",
+"description":"Las luces de advertencia del tablero indican posibles fallas del vehículo. Las luces rojas de advertencia suelen indicar problemas graves que requieren atención inmediata. Nunca se deben ignorar las luces de advertencia, incluso si el vehículo parece circular con normalidad. Suponer que un vehículo es seguro porque sigue en movimiento es una trampa común. La respuesta más segura ante luces de advertencia desconocidas es detenerse y buscar asesoramiento profesional."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Seguridad, defectos y mantenimiento del vehículo",
+"subcategory":"Niveles de líquidos",
+"englishSubcategory":"Fluid Levels",
+"description":"Los niveles correctos de líquido son esenciales para el funcionamiento seguro del vehículo. Un nivel bajo de aceite de motor puede causar daños graves al motor. Los líquidos deben revisarse regularmente y antes de viajes largos. Ignorar las revisiones de líquidos porque no se encienden las luces de advertencia es arriesgado. Seguir las recomendaciones del fabricante es la forma más segura de mantener los líquidos."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Seguridad, defectos y mantenimiento del vehículo",
+"subcategory":"Carga y visibilidad",
+"englishSubcategory":"Load and Visibility",
+"description":"La carga no debe obstruir la visión del conductor ni interferir con el control del vehículo. La carga que obstruya los espejos o las ventanas debe reposicionarse antes de conducir. Los objetos sueltos pueden moverse repentinamente y afectar el control o causar lesiones. Suponer que la visibilidad es parcial es peligroso. Los conductores no deben conducir a menos que tengan una visión clara."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Seguridad, defectos y mantenimiento del vehículo",
+"subcategory":"Hábitos de mantenimiento",
+"englishSubcategory":"Maintenance Habits",
+"description":"El mantenimiento regular previene defectos y mejora la seguridad. No se deben ignorar los ruidos inusuales ni los cambios en el comportamiento del vehículo. Retrasar las reparaciones para ahorrar dinero es un error común y peligroso. Los posibles defectos deben abordarse antes de seguir conduciendo. El mantenimiento proactivo reduce las averías y los accidentes."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Seguridad, defectos y mantenimiento del vehículo",
+"subcategory":"Principios generales de seguridad",
+"englishSubcategory":"General Safety Principles",
+"description":"Prevenir defectos es más seguro que reaccionar ante fallas. Los conductores deben adoptar un enfoque proactivo en la seguridad del vehículo. Si no está seguro del estado de un vehículo, no debe conducirlo hasta que lo revisen. La seguridad siempre debe anteponerse a la comodidad. Garantizar la seguridad del vehículo antes de cada viaje es una responsabilidad fundamental del conductor."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Conciencia sobre cargas, remolques y vehículos pesados",
+"subcategory":"Seguridad de carga",
+"englishSubcategory":"Load Security",
+"description":"Los conductores son legalmente responsables de asegurar que todas las cargas estén bien sujetas. Las cargas pueden desplazarse, caerse o derramarse si no están bien sujetas. Los objetos pesados pueden moverse al frenar o tomar curvas. Las cargas sin sujetar pueden causar accidentes o lesiones a otros usuarios de la vía. Si una carga se suelta mientras conduce, el conductor debe detenerse de forma segura y sujetarla antes de continuar."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Conciencia sobre cargas, remolques y vehículos pesados",
+"subcategory":"Límites de carga",
+"englishSubcategory":"Load Limits",
+"description":"Los vehículos no deben cargarse más allá de los límites especificados por el fabricante. La sobrecarga reduce el control de la dirección y la eficacia del frenado. El peso adicional aumenta la distancia de frenado. Un error común es creer que si un vehículo se mueve, la carga es aceptable. Si no está seguro de los límites de carga, la opción más segura es reducirla."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Conciencia sobre cargas, remolques y vehículos pesados",
+"subcategory":"Conceptos básicos del remolque",
+"englishSubcategory":"Towing Basics",
+"description":"Antes de remolcar, los conductores deben asegurarse de que el vehículo esté homologado para remolcar el remolque. Remolcar modifica el manejo, la aceleración y el frenado del vehículo. Se requiere una distancia de seguimiento adicional al remolcar. Conducir a velocidad normal sin ajustar la velocidad es una trampa común al remolcar. Si un remolque comienza a balancearse, los conductores deben reducir la velocidad gradualmente y mantener el control."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Conciencia sobre cargas, remolques y vehículos pesados",
+"subcategory":"Equipo de remolque",
+"englishSubcategory":"Trailer Equipment",
+"description":"Los remolques deben estar bien enganchados al vehículo remolcador. Se requieren cadenas de seguridad para evitar que se separen si falla el enganche. Las luces del remolque deben funcionar para que los demás conductores puedan ver las direccionales de freno y giro. Se deben revisar las conexiones antes de iniciar el viaje y durante el mismo. No volver a revisar las conexiones es un descuido común y peligroso."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Conciencia sobre cargas, remolques y vehículos pesados",
+"subcategory":"Conciencia sobre vehículos pesados",
+"englishSubcategory":"Heavy Vehicle Awareness",
+"description":"Los vehículos pesados requieren más tiempo y distancia para detenerse. Tienen amplios puntos ciegos donde los conductores no pueden ver a otros vehículos. Si no puede ver los espejos de un camión, asuma que el conductor no puede verlo. Interrumpir el paso frente a vehículos pesados sin suficiente espacio es peligroso. Un poco de paciencia y espacio reducen el riesgo de colisión cerca de vehículos pesados."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Conciencia sobre cargas, remolques y vehículos pesados",
+"subcategory":"Comportamiento al conducir con carga",
+"englishSubcategory":"Driving Behaviour with Loads",
+"description":"Transportar cargas o remolcar requiere velocidades más bajas y una conducción más suave. Un giro brusco del volante o el frenado pueden desestabilizar un vehículo cargado. Se debe aumentar la distancia de seguridad. Conducir como si el vehículo estuviera vacío es un error común. Planificar con antelación mejora la seguridad al transportar cargas."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Conciencia sobre cargas, remolques y vehículos pesados",
+"subcategory":"Responsabilidad legal",
+"englishSubcategory":"Legal Responsibility",
+"description":"El conductor es legalmente responsable de la seguridad de la carga y del cumplimiento de las normas de remolque. Si una carga no asegurada provoca un accidente, se pueden aplicar sanciones. No todos los vehículos están legalmente autorizados para remolcar cualquier tipo de remolque. Existen normas de remolque para prevenir lesiones graves y accidentes. La seguridad y los límites legales deben guiar todas las decisiones de remolque."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Conciencia sobre cargas, remolques y vehículos pesados",
+"subcategory":"Interacción en la carretera",
+"englishSubcategory":"Road Interaction",
+"description":"Compartir la vía con vehículos pesados requiere mayor atención. Adelantar vehículos pesados en cuestas o cerca de intersecciones aumenta el riesgo. Si un vehículo pesado indica que va a incorporarse, los conductores deben ceder el paso cuando sea seguro. Conducir demasiado cerca de otros vehículos reduce la visibilidad y la distancia de frenado. Una conducción predecible y paciente mejora la seguridad cerca de vehículos grandes."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Conciencia sobre cargas, remolques y vehículos pesados",
+"subcategory":"Aplicación y sanciones",
+"englishSubcategory":"Enforcement and Penalties",
+"description":"Las leyes de carga y remolque se aplican estrictamente. Exceder los límites legales puede resultar en multas o sanciones. Una trampa común en la aplicación de la ley es asumir que las cargas pequeñas están exentas. Si no está seguro de la legalidad del remolque, los conductores no deben remolcar hasta que se confirme. Conocer y cumplir los límites legales es la mejor manera de evitar sanciones."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Conciencia sobre cargas, remolques y vehículos pesados",
+"subcategory":"Principios generales de seguridad",
+"englishSubcategory":"General Safety Principles",
+"description":"La planificación es esencial antes de transportar cargas o remolcar. Las rutas, las cuestas y las condiciones del tráfico afectan el control y el frenado. Las comprobaciones de seguridad finales deben confirmar la seguridad, las conexiones y la visibilidad de la carga. Una actitud cautelosa y preparada reduce el riesgo. Asegure las cargas, respete los límites y conduzca con precaución en todo momento."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Normas sobre licencias, permisos de conducir y placas P (NSW)",
+"subcategory":"Clases de licencia",
+"englishSubcategory":"Licence Classes",
+"description":"Nueva Gales del Sur utiliza un sistema de licencias graduales para reducir el riesgo de accidentes. Las licencias de aprendizaje requieren la supervisión de un conductor con licencia completa. Las licencias provisionales permiten conducir sin supervisión con restricciones. Las licencias completas permiten conducir sin restricciones. Conducir sin supervisión sin la licencia correcta es ilegal. Es fundamental comprender las clases de licencias antes de conducir."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Normas sobre licencias, permisos de conducir y placas P (NSW)",
+"subcategory":"Reglas para conductores principiantes",
+"englishSubcategory":"Learner Driver Rules",
+"description":"Los conductores principiantes siempre deben estar supervisados por un conductor supervisor cualificado. Los supervisores deben cumplir los requisitos de experiencia. Los conductores principiantes deben respetar todas las normas de circulación y las condiciones del permiso de conducir. Conducir sin supervisión es una infracción grave. Existen restricciones para conductores principiantes para proteger a los conductores sin experiencia."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Normas sobre licencias, permisos de conducir y placas P (NSW)",
+"subcategory":"Placas en L",
+"englishSubcategory":"L-Plates",
+"description":"Los conductores principiantes deben mostrar claramente sus placas L en todo momento mientras conducen. Las placas deben ser visibles desde la parte delantera y trasera cuando sea necesario. La falta o la colocación incorrecta de las placas L constituye una infracción. Si se cae una placa L, el conductor debe detenerse y volver a colocarla antes de continuar. Las placas L informan a los demás usuarios de la vía pública sobre su condición de conductor principiante."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Normas sobre licencias, permisos de conducir y placas P (NSW)",
+"subcategory":"Reglas provisionales P1",
+"englishSubcategory":"Provisional P1 Rules",
+"description":"Los conductores con licencia P1 están sujetos a límites de velocidad más bajos que los conductores con licencia completa. Se aplican restricciones de velocidad incluso si las señales de tráfico indican límites más altos. Exceder los límites P1 puede resultar en la suspensión de la licencia. Las restricciones P1 existen porque los conductores aún están adquiriendo experiencia. Olvidar los límites reducidos es una trampa común en los conductores con licencia DKT."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Normas sobre licencias, permisos de conducir y placas P (NSW)",
+"subcategory":"Teléfonos móviles",
+"englishSubcategory":"Mobile Phones",
+"description":"Los conductores principiantes y P1 no deben usar teléfonos móviles mientras conducen. Esto incluye el uso del manos libres, el altavoz y el navegador. Los teléfonos deben apagarse o colocarse fuera del alcance antes de conducir. Creer que el uso del manos libres está permitido es un error común. Las restricciones de teléfonos reducen las distracciones para los conductores inexpertos."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Normas sobre licencias, permisos de conducir y placas P (NSW)",
+"subcategory":"Restricciones de pasajeros",
+"englishSubcategory":"Passenger Restrictions",
+"description":"Algunos conductores provisionales tienen un límite de pasajeros. Los pasajeros adicionales aumentan la distracción y el riesgo de accidente. Las restricciones se aplican independientemente de si los pasajeros son amigos o familiares. El conductor es responsable de cumplir con las normas de pasajeros. Suponer que los familiares están exentos es una trampa común."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Normas sobre licencias, permisos de conducir y placas P (NSW)",
+"subcategory":"Horas de conducción",
+"englishSubcategory":"Driving Hours",
+"description":"Algunos conductores provisionales tienen restricciones sobre cuándo pueden conducir. Conducir de noche conlleva un mayor riesgo debido a la fatiga y la visibilidad reducida. Se aplican restricciones de horario incluso para viajes cortos. Si no está seguro de si está permitido conducir, la opción más segura es no hacerlo. Los conductores son responsables de conocer sus horas de conducción permitidas."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Normas sobre licencias, permisos de conducir y placas P (NSW)",
+"subcategory":"Puntos de demérito",
+"englishSubcategory":"Demerit Points",
+"description":"Los conductores principiantes y provisionales tienen límites de puntos de demérito más bajos.\n\nVarias infracciones menores pueden resultar rápidamente en la suspensión de la licencia.\n\nLas sanciones son más severas para los conductores noveles.\n\nSuponer que los puntos se restablecen rápidamente es incorrecto.\n\nConducir con cuidado y de acuerdo con las normas ayuda a proteger la permanencia de la licencia."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Normas sobre licencias, permisos de conducir y placas P (NSW)",
+"subcategory":"Pruebas y cuadernos de bitácora",
+"englishSubcategory":"Tests and Logbooks",
+"description":"Los estudiantes deben aprobar los exámenes de conocimientos y de conducción para progresar. Los libros de registro registran la experiencia de conducción supervisada. Las anotaciones en el libro de registro deben ser precisas y honestas. Las anotaciones falsas pueden retrasar la obtención de la licencia o dar lugar a sanciones. Estudiar las normas es esencial y la experiencia por sí sola no es suficiente."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Normas sobre licencias, permisos de conducir y placas P (NSW)",
+"subcategory":"Cumplimiento general",
+"englishSubcategory":"General Compliance",
+"description":"Las condiciones de la licencia deben cumplirse en todo momento. Las normas no se suavizan automáticamente con la experiencia. Los conductores son responsables de conocer las condiciones de su propia licencia. Si no está seguro de una norma, la opción más segura es no conducir hasta que se aclare. El cumplimiento protege tanto la seguridad como el estado de la licencia."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Normas sobre licencias, permisos de conducir y placas P (NSW)",
+"subcategory":"Principios finales de seguridad",
+"englishSubcategory":"Final Safety Principles",
+"description":"Los sistemas de licencias graduales existen para reducir los accidentes graves. La inexperiencia, combinada con el exceso de confianza, es un factor de riesgo importante. Los atajos y las pequeñas infracciones pueden tener consecuencias graves. Una progresión segura requiere paciencia y cumplimiento de las normas. Seguir las condiciones de la licencia y adquirir experiencia gradualmente conduce a una conducción más segura."
+}
+]

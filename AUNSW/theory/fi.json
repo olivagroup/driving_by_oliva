@@ -1,0 +1,1202 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Liikennesäännöt ja -lait",
+"subcategory":"Teiden oikeudellinen toimivalta",
+"englishSubcategory":"Legal Authority on Roads",
+"description":"Liikennesäännöt ovat lakeja, joita kaikkien tienkäyttäjien on noudatettava.\n\nKuljettajien on noudatettava liikennemerkkejä, liikennevaloja, tiemerkintöjä ja liikennesääntöjä aina.\n\nPoliiseilla ja valtuutetuilla liikenteenohjaajilla on laillinen oikeus ohjata liikennettä.\n\nJos poliisi tai valtuutettu liikenteenohjaaja antaa ohjeen, joka on ristiriidassa liikennemerkkien tai liikennevalojen kanssa, ohjetta on noudatettava.\n\nLaillisen ohjeen noudattamatta jättäminen on rikos."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Liikennesäännöt ja -lait",
+"subcategory":"Kuljettajan huolellisuusvelvollisuus",
+"englishSubcategory":"Driver Duty of Care",
+"description":"Kuljettajien on ajettava aina huolellisesti ja tarkkaavaisesti.\n\nKuljettaja ei saa ajaa huolimattomalla, vaarallisella tai piittaamattomalla tavalla.\n\nKuljettajien on ryhdyttävä kohtuullisiin toimenpiteisiin onnettomuuksien ja loukkaantumisten välttämiseksi.\n\nKuljettaja on laillisesti vastuussa teoistaan ja ajoneuvonsa turvallisesta käytöstä.\n\nMuiden tienkäyttäjien vaarantaminen on tieliikennelain rikkomus."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Liikennesäännöt ja -lait",
+"subcategory":"Väistämisvelvollisuudet",
+"englishSubcategory":"Giving Way Obligations",
+"description":"Väistämisellä tarkoitetaan hidastamista ja pysähtymistä tarvittaessa törmäyksen välttämiseksi.\n\nKuljettajien on väistettävä, kun liikennemerkit, liikennesäännöt tai liikenneolosuhteet sitä edellyttävät.\n\nAjotieltä tai pysäköintipaikalta tielle saapuvan kuljettajan on väistettävä kaikkea liikennettä.\n\nKaistaa vaihtaessaan kaistaa vaihtavan kuljettajan on väistettävä muita ajoneuvoja.\n\nVäistämättä jättäminen tarvittaessa on rikos."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Liikennesäännöt ja -lait",
+"subcategory":"Hallitsemattomat ja T-risteykset",
+"englishSubcategory":"Uncontrolled and T-Intersections",
+"description":"Säätelemättömässä risteyksessä ei ole liikennevaloja tai -merkkejä.\n\nSäätelemättömässä risteyksessä kuljettajien on väistettävä oikealta lähestyviä ajoneuvoja.\n\nT-risteyksessä, jossa ei ole liikennemerkkejä, päättyvän tien kuljettajan on väistettävä jatkuvan tien kaikkea liikennettä.\n\nKuljettajien on lähestyttävä risteyksiä varoen ja oltava valmiita väistämään."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Liikennesäännöt ja -lait",
+"subcategory":"Merkkivalot ja ajoneuvon liike",
+"englishSubcategory":"Indicators and Vehicle Movement",
+"description":"Kuljettajien on käytettävä vilkkuja osoittaakseen aikeistaan.\n\nVilkkuja on käytettävä käännyttäessä, kaistaa vaihdettaessa, liittyessä kaistalle tai ajettaessa pysäköintipaikalle tai sieltä pois.\n\nVilkkuja on käytettävä riittävän kauan, jotta ne varoittavat muita tienkäyttäjiä.\n\nVilkkujen käyttämättä jättäminen voi aiheuttaa onnettomuuksia ja on rikos."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Liikennesäännöt ja -lait",
+"subcategory":"Risteykset ja liikenteen estäminen",
+"englishSubcategory":"Intersections and Blocking Traffic",
+"description":"Kuljettajat eivät saa ajaa risteykseen, ellei siellä ole riittävästi tilaa sen poistamiseksi.\n\nRisteyksen tukkiminen voi haitata liikennettä ja pelastusajoneuvoja.\n\nVaikka valo olisi vihreä, kuljettajat eivät saa jatkaa, jos heidän reittinsä on tukossa.\n\nKuljettajat ovat vastuussa siitä, että he voivat poistua risteyksestä kokonaan."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Liikennesäännöt ja -lait",
+"subcategory":"Tilapäiset tiesäännöt ja tietyöt",
+"englishSubcategory":"Temporary Road Rules and Roadworks",
+"description":"Tilapäiset tieliikennesäännöt ovat voimassa aina, kun tietyömerkkejä tai liikenteenohjaajia on paikalla.\n\nKuljettajien on noudatettava tilapäisiä nopeusrajoituksia ja ohjeita tietyömailla.\n\nTietyömerkit ohittavat normaalit tieolosuhteet.\n\nTilapäisten tieliikennesääntöjen noudattamatta jättäminen on rikos."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Liikennesäännöt ja -lait",
+"subcategory":"Yleinen oikeudellinen vastuu",
+"englishSubcategory":"General Legal Responsibility",
+"description":"Kuljettajat ovat lain mukaan vastuussa liikennesääntöjen tuntemisesta ja noudattamisesta.\n\nTiedon puute ei ole tekosyy lain rikkomiseen.\n\nKuljettajien on pysyttävä valppaina ja tietoisina tieolosuhteista.\n\nTurvallinen ja lainmukainen ajaminen suojelee kaikkia tienkäyttäjiä."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Liikennemerkit ja -valot",
+"subcategory":"Sääntelymerkit",
+"englishSubcategory":"Regulatory Signs",
+"description":"Sääntelymerkit antavat kuljettajille laillisia ohjeita, joita heidän on noudatettava.\n\nSTOP-merkki vaatii kuljettajaa pysähtymään kokonaan pysäytysviivalle tai ennen risteykseen ajamista.\n\nPysähtymisen jälkeen kuljettajan on väistettävä ja jatkettava vain, jos se on turvallista.\n\nANNA TIETÄ -merkki vaatii kuljettajaa hidastamaan ja väistämään liikennettä ennen jatkamista.\n\nKIELLETTY PÄÄSY -merkki tarkoittaa, että ajoneuvot eivät saa ajaa kyseiselle tielle.\n\nYKSISUUNTAINEN-merkki tarkoittaa, että liikenne saa ajaa vain näytettyyn suuntaan.\n\nKIELLETTY U-KÄÄNTYMINEN -merkki tarkoittaa, että U-käännöstä ei saa tehdä kyseisessä paikassa.\n\nSääntelymerkkien noudattamatta jättäminen on rikos."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Liikennemerkit ja -valot",
+"subcategory":"Nopeusmerkit",
+"englishSubcategory":"Speed Signs",
+"description":"Nopeusrajoitusmerkit näyttävät suurimman sallitun nopeuden ihanteellisissa olosuhteissa. .\n\n Kuljettajat eivät saa ylittää ilmoitettua nopeusrajoitusta. .\n\n Jos tie- tai sääolosuhteet ovat huonot, kuljettajien on ajettava alle sallitun nopeuden. .\n\n Nopeusrajoituksen LOPPU -merkki tarkoittaa, että nyt on voimassa oletusnopeusrajoitus. .\n\n Koulualueen nopeusrajoitukset ovat voimassa vain liikennemerkeissä ilmoitettuina aikoina. .\n\n Jaetun alueen merkit osoittavat erittäin alhaisia nopeuksia ja että jalankulkijoilla on etuoikeus.\n\nJos nopeusrajoitusmerkkiä ei ole, kuljettajien on noudatettava tietyypin oletusnopeusrajoitusta."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Liikennemerkit ja -valot",
+"subcategory":"Varoitusmerkit",
+"englishSubcategory":"Warning Signs",
+"description":"Varoitusmerkit varoittavat kuljettajia edessä olevista mahdollisista vaaroista. Ne eivät anna lakisääteisiä ohjeita, mutta varoittavat kuljettajia erityisestä varovaisuudesta. Varoitusmerkit voivat viitata mutkiin, liukkaisiin teihin, jalankulkijoihin tai muihin vaaroihin. Kuljettajien tulee säätää nopeutta ja olla valmiita reagoimaan vaaroihin. Varoitusmerkkien huomiotta jättäminen lisää onnettomuusriskiä."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Liikennemerkit ja -valot",
+"subcategory":"Liikennevalot",
+"englishSubcategory":"Traffic Lights",
+"description":"Liikennevalot ohjaavat ajoneuvojen ja jalankulkijoiden liikkumista risteyksissä. Punainen valo vaatii kuljettajia pysähtymään ja pysymään paikallaan, kunnes valo vaihtuu. Vihreä valo antaa kuljettajille luvan jatkaa matkaa, jos risteys on esteetön ja turvallinen. Keltainen valo tarkoittaa pysähtymistä, jos se on turvallista. Kuljettajat eivät saa kiihdyttää keltaisen valon ohittamiseksi. Kääntyminen vasemmalle punaisesta valosta on sallittu vain, jos liikennemerkki sallii ja se on turvallista. Vilkkuva keltainen valo tarkoittaa, että on ajettava varovasti."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Liikennemerkit ja -valot",
+"subcategory":"Jalankulkijoiden liikennevalot",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Jalankulkijoiden valot ohjaavat tien ylitystä.\n\nVihreä kävelysymboli tarkoittaa, että jalankulkijat voivat aloittaa tien ylittämisen.\n\nVilkkuva punainen symboli tarkoittaa, että jalankulkijoiden tulisi lopettaa tien ylitys, jos se on turvallista.\n\nAutoilijoiden on väistettävä jalankulkijoita, jotka ylittävät tien kävelyvalolla.\n\nJalankulkijoiden valot on tarkoitettu parantamaan jalankulkijoiden turvallisuutta."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Liikennemerkit ja -valot",
+"subcategory":"Väliaikaiset ja tietyökyltit",
+"englishSubcategory":"Temporary and Roadwork Signs",
+"description":"Väliaikaiset tietyömerkit ovat voimassa aina, kun ne ovat näkyvillä.\n\nKuljettajien on noudatettava alennettuja nopeusrajoituksia tietyömailla.\n\nVäliaikaiset merkit ohittavat pysyvät merkit, jos ne ovat ristiriidassa niiden kanssa.\n\nLiikennettä voi ohjata valtuutettu liikenteenohjaaja.\n\nSEIS-/HITAA-merkkejä on noudatettava tarkasti ohjeiden mukaisesti.\n\nTietyömerkkien huomiotta jättäminen on vaarallista ja laitonta."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Liikennemerkit ja -valot",
+"subcategory":"Kaistanpitosignaalit",
+"englishSubcategory":"Lane Control Signals",
+"description":"Kaistanohjausvalot osoittavat, mitä kaistoja saa käyttää.\n\nPunainen X kaistan yläpuolella tarkoittaa, että kaistaa ei saa käyttää.\n\nVihreä nuoli kaistan yläpuolella tarkoittaa, että kaista on avoinna liikenteelle.\n\nVilkkuvat kaistannuolet varoittavat, että edessä on kaistanvaihto tarpeen.\n\nKuljettajien on poistuttava suljetuilta kaistoilta turvallisesti ja noudatettava kaistanohjausvaloja."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Liikennemerkit ja -valot",
+"subcategory":"Rautatiesignaalit",
+"englishSubcategory":"Railway Signals",
+"description":"Rautatieopastimet varoittavat kuljettajia lähestyvistä junista. Vilkkuvat rautatievalot tarkoittavat, että kuljettajien on pysähdyttävä eivätkä he saa ylittää raiteita. Rautatien tasoristeyksissä olevat STOP-merkit edellyttävät kuljettajilta pysähtymistä ja jatkamista vain, kun se on turvallista. Kuljettajat eivät saa koskaan ajaa esteiden ympäri tai ylittää tietä junan lähestyessä. Rautateiden varoitusmerkit ovat ratkaisevan tärkeitä vakavien törmäysten ehkäisemiseksi."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Liikennemerkit ja -valot",
+"subcategory":"Neuvonta- ja opastaulut",
+"englishSubcategory":"Advisory and Guide Signs",
+"description":"Neuvoa-antavat kyltit antavat suositeltua tietoa turvallisempaan ajoon. .\n\n Neuvoa-antavat nopeuskyltit suosittelevat turvallista nopeutta edessä olevissa olosuhteissa. .\n\n Neuvoa-antavat kyltit eivät ole laillisesti täytäntöönpanokelpoisia, mutta niitä tulee noudattaa. .\n\n Opaskyltit antavat ajo-ohjeet, määränpäät, etäisyydet ja reittinumerot. .\n\n Opaskyltit auttavat kuljettajia navigoimaan turvallisesti."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Liikennemerkit ja -valot",
+"subcategory":"Yleiset signaalisäännöt",
+"englishSubcategory":"General Signal Rules",
+"description":"Liikennemerkit ja -valot säätelevät, varoittavat ja ohjaavat tienkäyttäjiä.\n\nJos liikennevalot eivät toimi, risteystä on pidettävä sääntelemättömänä.\n\nPoliisit ja valtuutetut liikenteenohjaajat voivat ohjata liikennettä.\n\nJos ohjeet ovat ristiriidassa liikennemerkkien tai -valojen kanssa, ohjeita on noudatettava.\n\nLiikennemerkkien ja -valojen ymmärtäminen on välttämätöntä turvallisen ja laillisen ajon kannalta."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Nopeus- ja matkasäännöt",
+"subcategory":"Nopeusrajoitukset",
+"englishSubcategory":"Speed Limits",
+"description":"Merkitty nopeusrajoitus edustaa suurinta sallittua nopeutta ihanteellisissa olosuhteissa. .\n\n Kuljettajien ei tule ylittää ilmoitettua nopeusrajoitusta. .\n\n Kuljettajien on ajettava alle sallitun nopeuden, kun olosuhteet tekevät siitä vaarallista. .\n\n Taajama-alueilla, joilla ei ole nopeusrajoitusmerkkiä, oletusnopeusrajoitus on 50 km/h. .\n\n Taajama-alueiden ulkopuolella, joilla ei ole nopeusrajoitusmerkkejä, oletusnopeusrajoitus on 100 km/h. .\n\n Merkistä eteenpäin on voimassa uusi nopeusrajoitus. .\n\n Kuljettajien ei tule luottaa siihen, että muut ajoneuvot valitsevat turvallisen tai sallitun nopeuden."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Nopeus- ja matkasäännöt",
+"subcategory":"Koulualueet",
+"englishSubcategory":"School Zones",
+"description":"Koulualueet on suunniteltu lasten suojelemiseksi.\n\nKoulualueiden nopeusrajoitukset ovat voimassa liikennemerkeissä ilmoitettuina aikoina.\n\nEllei toisin ole merkitty, tavanomainen enimmäisnopeus aktiivisella Uuden Etelä-Walesin koulualueella on 40 km/h.\n\nKoulualueiden nopeusrajoituksia voidaan soveltaa viikonloppuisin, jos liikennemerkkien ajat sisältävät kyseiset päivät.\n\nJos kuljettajien on epävarmaa siitä, onko koulualue aktiivinen, heidän on hidastettava ja tarkistettava liikennemerkkien ajat huolellisesti.\n\nKuljettajien on aina odotettava lasten käyttäytyvän arvaamattomasti koulujen lähellä."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Nopeus- ja matkasäännöt",
+"subcategory":"Jaetut vyöhykkeet",
+"englishSubcategory":"Shared Zones",
+"description":"Jaetut vyöhykkeet ovat hidasnopeusalueita, joissa jalankulkijat ja ajoneuvot jakavat tien.\n\nEllei toisin ole merkitty, tyypillinen enimmäisnopeus jaetulla vyöhykkeellä on 10 km/h.\n\nJalankulkijoilla on yleensä etuoikeus jaetuilla vyöhykkeillä.\n\nAutoilijoiden on oltava valmiita pysähtymään ja väistämään jalankulkijoita kaikkina aikoina.\n\nJaetun vyöhykkeen merkki osoittaa, että jalankulkijoita on todennäköisesti läsnä ja että erityistä varovaisuutta tarvitaan."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Nopeus- ja matkasäännöt",
+"subcategory":"Työalueet",
+"englishSubcategory":"Work Zones",
+"description":"Tietyöalueilla alennettuja nopeusrajoituksia on noudatettava aina, kun liikennemerkit ovat näkyvissä.\n\nTilapäiset tietyömaiden nopeusrajoitukset ovat voimassa, vaikka työntekijöitä ei olisi näkyvissä.\n\nTietyömaiden nopeusrajoitukset on olemassa työntekijöiden ja tienkäyttäjien suojelemiseksi muuttuneissa olosuhteissa.\n\nJos tietyömaiden merkit ovat ristiriidassa pysyvien liikennemerkkien kanssa, sovelletaan väliaikaisia liikennemerkkejä.\n\nKuljettajien on noudatettava valtuutettujen liikenteenohjaajien antamia ohjeita, vaikka ne olisivatkin ilmoitettua nopeutta alhaisempia."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Nopeus- ja matkasäännöt",
+"subcategory":"Sääolosuhteet",
+"englishSubcategory":"Weather Conditions",
+"description":"Huonot sääolosuhteet heikentävät näkyvyyttä ja pitoa.\n\nKun tie on märkä, kuljettajien on hidastettava nopeutta säilyttääkseen auton hallinnan.\n\nSumussa kuljettajien on hidastettava ja kyettävä pysähtymään näköetäisyyden sisällä.\n\nAuringon häikäisy voi heikentää näkyvyyttä ja vaatii kuljettajia hidastamaan ja lisäämään etäisyyttä.\n\nLiian kovaa ajaminen rankkasateessa lisää auton hallinnan menettämisen riskiä ja pidentää jarrutusmatkaa."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Nopeus- ja matkasäännöt",
+"subcategory":"Seuraavien etäisyyksien",
+"englishSubcategory":"Following Distances",
+"description":"Turvallinen seurantaetäisyys antaa aikaa ja tilaa pysähtyä turvallisesti.\n\nSeuraavan etäisyyden on kasvettava nopeuden kasvaessa.\n\nKuljettajien tulisi lisätä seurantaetäisyyttä huonoissa olosuhteissa, hinattaessa tai raskaita kuormia kuljetettaessa.\n\nMoottoripyörien taakse tulisi jättää ylimääräistä tilaa, koska niitä on vaikeampi nähdä ja ne voivat pysähtyä nopeasti.\n\nRaskaat ajoneuvot vaativat pidempiä jarrutusmatkoja ja voivat estää näkyvyyden eteenpäin.\n\nJos kuljettajan edessä on takaluukku, hänen tulisi lisätä seurantaetäisyyttä ja antaa toisen ajoneuvon ohittaa, kun se on turvallista."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Nopeus- ja matkasäännöt",
+"subcategory":"Pysähtymismatkat",
+"englishSubcategory":"Stopping Distances",
+"description":"Pysähtymismatka koostuu reaktiomatkasta ja jarrutusmatkasta.\n\nNopeuden kasvaessa jarrutusmatka pitenee merkittävästi.\n\nAlkoholi, huumeet, väsymys ja tarkkaavaisuuden herpaantuminen pidentävät reaktioaikaa ja jarrutusmatkaa.\n\nKuluneet renkaat pidentävät jarrutusmatkaa, erityisesti märällä tai irtonaisella alustalla.\n\nKuljettajien on hidastettava, kun heidän näkyvyytensä edessä olevaan tiehen on estynyt."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Nopeus- ja matkasäännöt",
+"subcategory":"Turvallisen nopeuden periaatteet",
+"englishSubcategory":"Safe Speed Principles",
+"description":"Kuljettajien on valittava nopeus, joka mahdollistaa turvallisen pysähtymisen näköetäisyyden sisällä.\n\nTienharjojen, katvealueiden tai vilkkaasti liikennöityjen alueiden lähestyminen vaatii nopeuden hidastamista.\n\nYlinopeus hidastaa reaktioaikaa jopa hieman ja pidentää jarrutusmatkaa huomattavasti.\n\nJos olet myöhässä, turvallisin vaihtoehto on ajaa lainmukaisten ja turvallisten rajojen sisällä.\n\nKun edessä oleva liikenne hidastuu tai pysähtyy, kuljettajien on hidastettava nopeutta ajoissa ja lisättävä etäisyyttä."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Kuljettajan vastuut",
+"subcategory":"Kuljettajan velvollisuudet",
+"englishSubcategory":"Driver Obligations",
+"description":"Kuljettajan pääasiallinen vastuu on ajaa turvallisesti ja noudattaa liikennesääntöjä aina.\n\nKuljettajien on toimittava huolellisesti, varovasti ja ottaen huomioon muut tienkäyttäjät.\n\nJos edessä havaitaan vaara, kuljettajien on hidastettava ajoissa ja lisättävä tietoisuutta.\n\nJos kuljettaja on epävarma turvallisesta nopeudesta tai toiminnasta, hänen on valittava turvallisin vaihtoehto.\n\nAggressiivinen tai huolimaton ajaminen lisää onnettomuusriskiä ja on vaarallista.\n\nAjettaessa tuntemattomilla alueilla kuljettajien tulee hidastaa, tarkkailla huolellisesti ja noudattaa opasteita."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Kuljettajan vastuut",
+"subcategory":"Kaatumisvastuut",
+"englishSubcategory":"Crash Responsibilities",
+"description":"Onnettomuudessa osallisina olevien kuljettajien on pysähdyttävä onnettomuuspaikalle.\n\nJos joku loukkaantuu, on soitettava hätäkeskukseen ja tarjottava apua, jos se on turvallista.\n\nOmaisuusvahinkoja aiheuttaneen onnettomuuden jälkeen kuljettajien on vaihdettava nimet ja yhteystiedot.\n\nJos toinen omistaja ei ole paikalla, kuljettajien on jätettävä omat tietonsa.\n\nJos ajoneuvo aiheuttaa vaaraa onnettomuuden jälkeen, se on siirrettävä turvalliseen paikkaan, jos mahdollista.\n\nPolttoainevuotojen tai vakavien vaarojen vuoksi ihmiset on siirrettävä turvaan ja hätäkeskukseen on soitettava."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Kuljettajan vastuut",
+"subcategory":"Turvavyöt ja lasten turvaistuimet",
+"englishSubcategory":"Seatbelts and Child Restraints",
+"description":"Kuljettaja on vastuussa siitä, että kaikki matkustajat käyttävät turvavöitä, jos ne on asennettu.\n\nKaikkien liikkuvan ajoneuvon matkustajien on käytettävä turvavöitä aina.\n\nTurvavyöt vähentävät loukkaantumisriskiä myös pienillä nopeuksilla.\n\nJos matkustaja kieltäytyy käyttämästä turvavyötä, kuljettaja ei saa ajaa.\n\nLapset on kiinnitettävä heidän ikäänsä ja kokoonsa sopivalla hyväksytyllä lasten turvaistuimella.\n\nTurvavyöt ja turvaistuimet on asennettava oikein, jotta ne toimivat oikein."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Kuljettajan vastuut",
+"subcategory":"Matkapuhelimet ja -laitteet",
+"englishSubcategory":"Mobile Phones and Devices",
+"description":"Matkapuhelimen käyttö ajon aikana on vaarallista, koska se häiritsee silmiä, käsiä ja huomiota.\n\nTurvallisin tapa on olla käyttämättä puhelinta ajon aikana.\n\nJos puhelimen käyttö on välttämätöntä, kuljettajien on pysähdyttävä turvallisesti tien sivuun.\n\nNavigointi tulee asettaa ennen ajamista, jotta laitteiden käsittelyä ei tehdä.\n\nIlmoitukset tulee mykistää tai puhelimet pitää poissa ulottuvilta.\n\nJopa lyhyet vilkaisut pois tiestä lisäävät huomattavasti onnettomuusriskiä."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Kuljettajan vastuut",
+"subcategory":"Ajoneuvon kunto",
+"englishSubcategory":"Vehicle Condition",
+"description":"Kuljettajat ovat vastuussa ajoneuvonsa turvallisesta ajamisesta. .\n\n Renkaissa on oltava riittävä kulutuspinta ja oikea ilmanpaine pidon ylläpitämiseksi. .\n\n Valojen ja vilkkujen on toimittava, jotta muut tienkäyttäjät näkevät aikomukset. .\n\n Jarrujen on toimittava oikein, ja kaikki muutokset on tarkistettava välittömästi. .\n\n Tuulilasien on oltava puhtaat ja niissä ei saa olla halkeamia, jotka heikentävät näkyvyyttä. .\n\n Jos vilkut eivät toimi, käsimerkkejä voidaan käyttää tilapäisesti, jos se on turvallista, ja vika korjataan viipymättä."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Kuljettajan vastuut",
+"subcategory":"Väsymyksen hallinta",
+"englishSubcategory":"Fatigue Management",
+"description":"Väsymys heikentää keskittymiskykyä ja reaktionopeutta.\n\nVäsymyksen varhaisia merkkejä ovat keskittymisvaikeudet ja liikennemerkkien huomiotta jättäminen.\n\nPieni uni voi aiheuttaa hallinnan menetyksen ilman varoitusta.\n\nVäsymys on todennäköisempää myöhään illalla ja iltapäivällä.\n\nJos kuljettajat tuntevat olonsa uneliaaksi, heidän on pysähdyttävä turvalliseen paikkaan ja levättävä.\n\nPitkillä matkoilla säännölliset tauot ja ajamisen jakaminen auttavat vähentämään väsymysriskiä."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Kuljettajan vastuut",
+"subcategory":"Opiskelijan ja väliaikaiset vastuut",
+"englishSubcategory":"Learner and Provisional Responsibilities",
+"description":"Ajo-oppilas- ja väliaikaiskuljettajien on noudatettava kaikkia ajokortin ehtoja.\n\nNämä ehdot on olemassa riskin vähentämiseksi kokemuksen karttuessa.\n\nAjo-oppilaskuljettajat ovat vastuussa liikennesääntöjen noudattamisesta.\n\nJos olet epävarma jostakin säännöstä ajon aikana, oppilaiden tulee valita turvallisin vaihtoehto.\n\nKysymyksistä voi keskustella valvovan kuljettajan kanssa pysähtymisen jälkeen.\n\nLiikennesääntöjen rikkomuksia sovelletaan ajokortin tyypistä riippumatta."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Kuljettajan vastuut",
+"subcategory":"Valvovat kuljettajat",
+"englishSubcategory":"Supervising Drivers",
+"description":"Valvovien kuljettajien on autettava oppilaskuljettajia ajamaan turvallisesti ja lainmukaisesti. .\n\n Heidän tulee pysyä rauhallisina ja antaa selkeitä ohjeita.\n\nJos oppilas stressaantuu, valvojan tulee ohjata hänet turvallisempaan tilanteeseen.\n\nValvovat kuljettajat eivät saa häiritä oppilasta.\n\nHyvä valvonta auttaa kehittämään turvallisia ajotapoja."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Alkoholi, huumeet ja terveys",
+"subcategory":"Veren alkoholipitoisuus (BAC)",
+"englishSubcategory":"Blood Alcohol Concentration (BAC)",
+"description":"Alkoholi heikentää harkintakykyä, koordinaatiokykyä ja reaktionopeutta. ..\n\n Heikentyminen voi tapahtua, vaikka kuljettaja tuntisi olonsa hyväksi. ..\n\n Veren alkoholipitoisuus voi nousta edelleen alkoholin käytön lopettamisen jälkeen. ..\n\n Ruumiinkoko, sukupuoli, ruoan nauttiminen ja juomien välinen aika vaikuttavat veren alkoholipitoisuuteen. ..\n\n Nopea juominen voi nostaa veren alkoholipitoisuutta nopeasti. ..\n\n Ei ole olemassa taattua turvallista juomamäärää. ..\n\n Turvallisin sääntö on, että jos juot alkoholia, älä aja autoa."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Alkoholi, huumeet ja terveys",
+"subcategory":"Satunnainen hengitystestaus",
+"englishSubcategory":"Random Breath Testing",
+"description":"Poliisi voi suorittaa satunnaisia alkometrikokeita milloin tahansa.\n\nKuljettajien on noudatettava ohjeita ja annettava alkometrinäyte, kun se on lain mukaan välttämätöntä.\n\nAlkometrikokeesta kieltäytyminen voi johtaa vakaviin seuraamuksiin.\n\nSatunnaisia alkometrikokeita käytetään rattijuopumuksen estämiseen ja havaitsemiseen.\n\nYleinen ansa on olettaa, että yksi tai kaksi juomaa on aina alle sallitun rajan.\n\nSelvä olo ei tarkoita, että veren alkoholipitoisuus on alhainen."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Alkoholi, huumeet ja terveys",
+"subcategory":"Lääkkeet ja lääkkeet",
+"englishSubcategory":"Drugs and Medicines",
+"description":"Jotkut reseptilääkkeet ja itsehoitolääkkeet voivat heikentää ajokykyä.\n\nYleisiä vaikutuksia ovat uneliaisuus, hitaammat reaktiot ja heikentynyt keskittymiskyky.\n\nAlkoholin sekoittaminen lääkkeiden kanssa voi pahentaa ajokykyä huomattavasti.\n\nKuljettajien tulee tarkistaa lääkkeiden varoitukset ennen ajamista.\n\nJonkun toisen reseptilääkkeen ottaminen ei ole turvallista.\n\nJos lääke aiheuttaa uneliaisuutta, kuljettajien ei tule ajaa ja valita toinen kulkuväline."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Alkoholi, huumeet ja terveys",
+"subcategory":"Väsymys ja uni",
+"englishSubcategory":"Fatigue and Sleep",
+"description":"Väsymys heikentää valppautta ja reaktionopeutta.\n\nVaroitusmerkkejä ovat haukottelu, harhailevat ajatukset ja liikennemerkkien ohittaminen.\n\nLyhyet unet voivat tapahtua varoittamatta ja aiheuttaa hallinnan menetyksen.\n\nVäsymys on todennäköisimmin myöhään illalla ja alkuiltapäivällä.\n\nJos kuljettajat tuntevat olonsa uneliaaksi, heidän on pysähdyttävä turvalliseen paikkaan ja levättävä.\n\nLyhyet päiväunet ja säännölliset tauot ovat turvallisempia kuin väsymyksen läpi ponnistelu."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Alkoholi, huumeet ja terveys",
+"subcategory":"Lääketieteelliset sairaudet",
+"englishSubcategory":"Medical Conditions",
+"description":"Lääketieteelliset sairaudet voivat vaikuttaa kuljettajan kykyyn hallita ajoneuvoa. ..\n\n Oireet, kuten huimaus, näön hämärtyminen tai heikkous, lisäävät riskiä. ..\n\n Sairaudet, allergiat ja jotkut hoidot voivat heikentää valppautta. ..\n\n Kuljettajien tulee hakeutua lääkärin hoitoon, jos he ovat epävarmoja ajokyvystään. ..\n\n Jos oireita ilmenee ajon aikana, turvallisin toiminta on pysähtyä tien sivuun. ..\n\n Kuljettajien ei tule ajaa, ennen kuin heidän tilansa on hallinnassa."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Alkoholi, huumeet ja terveys",
+"subcategory":"Kuntoilua ajamiseen",
+"englishSubcategory":"Fitness to Drive",
+"description":"Ajokyky tarkoittaa valppautta, terveyttä ja normaalia ajokykyä. Riittävä uni parantaa ajokykyä. Laittomat huumeet voivat vaikuttaa vakavasti havaintokykyyn, harkintakykyyn ja reaktionopeuteen. Tunneperäinen ahdistus, kuten viha tai stressi, voi johtaa huonoihin ajopäätöksiin. Kahvi, kylmät suihkut tai energiajuomat eivät vähennä veren alkoholipitoisuutta. Vain aika vähentää alkoholia kehossa. Jos olet epävarma ajokyvystäsi, turvallisin vaihtoehto on olla ajamatta."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Turvalliset ajotavat",
+"subcategory":"Vaaran havaitseminen",
+"englishSubcategory":"Hazard Perception",
+"description":"Vaarojen havaitseminen tarkoittaa mahdollisten vaarojen tunnistamista ja niihin reagoimista varhaisessa vaiheessa.\n\nKuljettajien tulisi tarkkailla edessä olevaa tietä, sivuja ja peilejä vaarojen havaitsemiseksi.\n\nVaarojen ennakointi tarkoittaa odottamista, että jotain saattaa tapahtua, ja valmiutta reagoida.\n\nErityistä varovaisuutta on noudatettava pysäköityjen autojen, ostosalueiden ja asuinkatujen lähellä.\n\nJos jokin esine, kuten pallo, vierii tielle, lapsi voi seurata perässä.\n\nTurvallisin reagointi vaaroihin on hidastaa ajoissa ja olla valmis pysähtymään."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Turvalliset ajotavat",
+"subcategory":"Avaruustyyny",
+"englishSubcategory":"Space Cushion",
+"description":"Välimatkan lisäys antaa kuljettajille aikaa ja tilaa reagoida.\n\nSeuraavan etäisyyden on kasvettava nopeuden kasvaessa.\n\nLisätilaa tarvitaan sateella, sumussa tai huonossa näkyvyydessä.\n\nKuljettajien tulisi välttää ajamista muiden ajoneuvojen kuolleissa kulmissa.\n\nJos toinen kuljettaja ohittaa tien, turvallisin toimintatapa on hidastaa vauhtia ja palauttaa turvaväli.\n\nAjoneuvon ympärillä olevan tilan pitäminen vähentää törmäysriskiä."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Turvalliset ajotavat",
+"subcategory":"Nopeuden valinta",
+"englishSubcategory":"Speed Choice",
+"description":"Turvallinen nopeus riippuu tie-, liikenne- ja sääolosuhteista.\n\nKuljettajien on valittava lain sallimissa rajoissa oleva nopeus, joka mahdollistaa turvallisen hallinnan.\n\nYlinopeus hidastaa reaktioaikaa jopa hieman ja pidentää jarrutusmatkaa.\n\nKuolleet mutkat, tienharjat ja vilkkaat alueet vaativat hidastamista.\n\nKun edessä oleva liikenne hidastuu tai pysähtyy, kuljettajien tulisi vähentää nopeutta ajoissa ja lisätä etäisyyttä.\n\nMyöhässä ajaminen ei ole koskaan syy ajaa ylinopeutta."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Turvalliset ajotavat",
+"subcategory":"Märkällä säällä ajaminen",
+"englishSubcategory":"Wet Weather Driving",
+"description":"Märät tiet heikentävät renkaiden pitoa ja pidentävät jarrutusmatkaa.\n\nKuljettajien tulisi hidastaa ja lisätä etäisyyttä sateella.\n\nJos luistelu alkaa, kaasupolkimen löysääminen ja ohjaaminen varovasti auttavat palauttamaan ajoneuvon hallinnan.\n\nSyvässä vedessä ajaminen voi aiheuttaa hallinnan menetyksen ja ajoneuvovaurioita.\n\nJos näkyvyys huononee liian, kuljettajien tulee pysähtyä turvallisesti ja odottaa olosuhteiden paranemista."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Turvalliset ajotavat",
+"subcategory":"Yöajo",
+"englishSubcategory":"Night Driving",
+"description":"Yöllä ajaminen on vaarallisempaa heikentyneen näkyvyyden vuoksi.\n\nKuljettajien tulisi välttää ajovalojen ylivalaistusta.\n\nKaukovalot on kytkettävä lähivaloihin lähestyttäessä tai seurattaessa toista ajoneuvoa.\n\nVastaan tulevien ajovalojen häikäisyä voidaan vähentää katsomalla kaistan vasemmalle puolelle.\n\nJos tunnet olosi uneliaaksi yöllä, turvallisin vaihtoehto on pysähtyä ja levätä."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Turvalliset ajotavat",
+"subcategory":"Seuraaminen ja jarruttaminen",
+"englishSubcategory":"Following and Braking",
+"description":"Pysähtymismatka sisältää reaktiomatkan ja jarrutusmatkan.\n\nPysähtymismatka kasvaa merkittävästi nopeuden kasvaessa.\n\nHäiriötekijät pidentävät reaktioaikaa ja jarrutusmatkaa.\n\nYlimääräisen tilan jättäminen suurten ajoneuvojen taakse parantaa näkyvyyttä ja turvallisuutta.\n\nJos edellä ajava ajoneuvo jarruttaa äkillisesti, turvallisinta on jarruttaa tasaisesti ja säilyttää auton hallinta."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Turvalliset ajotavat",
+"subcategory":"Puolustava ajaminen",
+"englishSubcategory":"Defensive Driving",
+"description":"Puolustava ajotapa tarkoittaa vaarojen ennakointia ja riskien vähentämistä.\n\nKuljettajien tulisi odottaa muiden tekevän virheitä.\n\nTilan antaminen ja konfrontaation välttäminen on turvallisin vastaus muiden kuljettajien virheisiin.\n\nEnnen kaistanvaihtoa kuljettajien on tarkistettava peilit, kuolleet kulmat ja käännettävä vilkut.\n\nSujuva ohjaus ja jarrutus auttavat säilyttämään hallinnan.\n\nJos peräkärryt ovat auki, turvallisinta on lisätä etäisyyden pituutta ja antaa toisen ajoneuvon ohittaa."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Turvalliset ajotavat",
+"subcategory":"Risteysturvallisuus",
+"englishSubcategory":"Intersection Safety",
+"description":"Kuljettajien tulee tarkistaa, että risteykset ovat esteettömiä myös vihreillä valoilla. .\n\n Risteykseen ajaminen, jossa liittymä on estetty, voi aiheuttaa vaaratilanteita. .\n\n Kääntyessään kuljettajien tulee hidastaa, näyttää vilkku ajoissa ja tarkistaa jalankulkijat.\n\nJos näkyvyys on estynyt käännyttäessä, kuljettajien on odotettava, kunnes se on selvästi turvallista.\n\nTielle astuvat jalankulkijat ovat yleinen vaara vasemmalle käännyttäessä."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Turvalliset ajotavat",
+"subcategory":"Eläinten ja tienpinnan vaarat",
+"englishSubcategory":"Animal and Road Surface Hazards",
+"description":"Eläimet voivat ilmestyä yllättäen, etenkin maaseudulla aamunkoitteessa ja hämärässä. Turvallisin tapa on jarruttaa voimakkaasti, jos se on turvallista ja auton hallinta säilyy. Irtonaista soraa ja karheat alustat heikentävät pitoa. Kuljettajien tulisi hidastaa ja välttää äkkinäisiä ohjausliikkeitä tai jarrutuksia huonoilla pinnoilla. Perässä ajaminen on erityisen vaarallista märillä tai irtonaisilla teillä pidempien jarrutusmatkojen vuoksi."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Turvalliset ajotavat",
+"subcategory":"Istuimen asento ja peilit",
+"englishSubcategory":"Seat Position and Mirrors",
+"description":"Oikea istuinasento parantaa ajoneuvon hallintaa.\n\nPeilien asianmukainen säätö vähentää kuolleita kulmia.\n\nKuljettajien tulee tarkistaa peilit säännöllisesti ja ennen nopeuden tai suunnan muuttamista.\n\nPään tarkistus on välttämätöntä ennen kaistanvaihtoa.\n\nHyvä istuma- ja peilitottumus parantavat tietoisuutta ja turvallisuutta.\n\nRauhallisena pysyminen ja sujuvat, hallitut liikkeet ovat turvallisin tapa reagoida odottamattomiin tapahtumiin."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Risteykset, käännökset ja liikenneympyrät",
+"subcategory":"Väistämisen salliminen risteyksissä",
+"englishSubcategory":"Giving Way at Intersections",
+"description":"Risteyksissä, joissa ei ole opasteita tai merkkejä, kuljettajan on väistettävä oikealta lähestyviä ajoneuvoja.\n\nKääntyessään oikealle risteyksessä kuljettajan on väistettävä suoraan ajavia tai vasemmalle kääntyviä ajoneuvoja.\n\nT-risteyksessä, jossa ei ole opasteita, päättyvän tien kuljettajan on väistettävä kaikkea jatkuvan tien liikennettä.\n\nAjotieltä tai pysäköintialueelta tielle tulevien kuljettajien on väistettävä kaikkia ajoneuvoja, pyöräilijöitä ja jalankulkijoita.\n\nJos liikennevalot eivät ole toiminnassa, risteystä on pidettävä sääntelemättömänä ja väistämissääntöjä sovelletaan."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Risteykset, käännökset ja liikenneympyrät",
+"subcategory":"Kääntymissäännöt",
+"englishSubcategory":"Turning Rules",
+"description":"Ennen vasemmalle tai oikealle kääntymistä kuljettajan on väistettävä muita tienkäyttäjiä ja tarkistettava, onko heillä tienvarsia.\n\nKääntyessään vasemmalle kuljettajan on väistettävä jalankulkijoita, jotka ylittävät tien, jolle hän on kääntymässä.\n\nKääntyessään oikealle kaksisuuntaisella tiellä kuljettajan on pysyttävä mahdollisimman lähellä keskilinjaa.\n\nU-käännöksiä saa tehdä vain sallituissa paikoissa ja turvallisesti.\n\nU-käännöksissä kuljettajan on väistettävä kaikkia muita ajoneuvoja ja jalankulkijoita."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Risteykset, käännökset ja liikenneympyrät",
+"subcategory":"Liukukaistat",
+"englishSubcategory":"Slip Lanes",
+"description":"Liukukaistat sallivat ajoneuvojen kääntyä vasemmalle poispäin pääristeyksestä.\n\nLiukukaistoja ohjataan yleensä ANNA TIETÄ -merkillä.\n\nLiukukaistaa käyttävien kuljettajien on väistettävä liukukaistan ylittäviä jalankulkijoita ja pyöräilijöitä.\n\nKuljettajien on pysähdyttävä liukukaistalle vain, jos STOP-merkki tai -valo sitä vaatii.\n\nYleinen vaara liukukaistoilla on se, että kääntyvät kuljettajat huomaavat jalankulkijat."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Risteykset, käännökset ja liikenneympyrät",
+"subcategory":"Liikenneympyrät",
+"englishSubcategory":"Roundabouts",
+"description":"Liikenneympyrään lähestyttäessä kuljettajan on väistettävä kaikkia liikenneympyrässä jo olevia ajoneuvoja.\n\nKääntyessään liikenneympyrästä vasemmalle kuljettajan on näytettävä vasemmalle liikennemerkki ennen liikenneympyrään tuloa ja kääntyessään.\n\nAjettaessa suoraan liikenneympyrän läpi kuljettajan ei tule näyttää liikennemerkkiä saapuessaan ja hänen on näytettävä vasemmalle poistuessaan.\n\nLiikenneympyrästä oikealle käännyttäessä kuljettajan on näytettävä liikennemerkkiä oikealle saapuessaan ja vasemmalle poistuessaan.\n\nLiikenneympyrästä poistuttaessa kuljettajan on väistettävä jalankulkijoita, jotka ylittävät tulotietä."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Risteykset, käännökset ja liikenneympyrät",
+"subcategory":"Estetyt risteykset",
+"englishSubcategory":"Blocked Intersections",
+"description":"Kuljettajat eivät saa ajaa risteykseen, ellei siellä ole riittävästi tilaa sen täydelliseen poistamiseen.\n\nRisteyksen tukkiminen voi haitata liikennettä ja pelastusajoneuvoja.\n\nJos liikenne pysähtyy kuljettajan ollessa risteyksessä, kuljettajan tulee poistaa se heti, kun se on turvallista.\n\nVilkkaassa liikenteessä kuljettajien tulee odottaa, kunnes risteyksen takana on tilaa, ennen kuin ajaa risteykseen.\n\nRisteyksen tukkiminen voi johtaa sakkoihin liikenteen estämisestä."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Risteykset, käännökset ja liikenneympyrät",
+"subcategory":"Jalankulkijat risteyksissä",
+"englishSubcategory":"Pedestrians at Intersections",
+"description":"Autoilijoiden on aina tarkkailtava jalankulkijoita käännyttäessä risteyksissä.\n\nJos jalankulkijat ylittävät edelleen tietä liikennevalojen vaihtuessa vihreään, autoilijoiden on odotettava, kunnes he ovat ylittäneet tien.\n\nJalankulkijoilla on etusija, kun heillä on jalankulkijavalo liikennevaloissa.\n\nAutoilijoiden tulisi hidastaa käännyttäessä vilkkaille kaduille, joilla jalankulkijat saattavat astua ulos odottamatta.\n\nYleinen virhe risteyksissä on keskittyminen ajoneuvoihin ja jalankulkijoiden ohittaminen."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Risteykset, käännökset ja liikenneympyrät",
+"subcategory":"Oikealle kääntyminen",
+"englishSubcategory":"Right Turns",
+"description":"Oikealle kääntyminen on riskialttiimpaa, koska se tarkoittaa vastaantulevan liikenteen reitin ylittämistä.\n\nKuljettajien on arvioitava turvallinen etäisyys ja väistettävä oikein ennen oikealle kääntymistä.\n\nJos näkymä on estynyt, kuljettajien on odotettava, kunnes se on selvästi turvallista.\n\nTakaa tulevan liikenteen paine ei saa koskaan saada kuljettajaa kääntymään vaarallisesti.\n\nEnnen oikealle kääntymistä kuljettajien on oltava oikein kääntymiskaistalla tai lähellä keskiviivaa."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Risteykset, käännökset ja liikenneympyrät",
+"subcategory":"Vasemmalle kääntymiset",
+"englishSubcategory":"Left Turns",
+"description":"Ennen vasemmalle kääntymistä kuljettajien on tarkistettava jalankulkijat, pyöräilijät ja muu liikenne.\n\nVasemmalle kääntyminen voi silti olla riskialtista, koska jalankulkijat tai pyöräilijät saattavat ylittää tietä.\n\nLiikennevaloissa kuljettajien on vilkutettava, tarkistettava peilit ja väistettävä jalankulkijoita käännyttäessään vasemmalle.\n\nKääntyminen vasemmalle punaisista valoista on sallittu vain, jos liikennemerkki sallii ja se on turvallista.\n\nKuljettajien on väistettävä ylitystä odottavia jalankulkijoita kääntyessään."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Risteykset, käännökset ja liikenneympyrät",
+"subcategory":"Liikenneympyrän vaarat",
+"englishSubcategory":"Roundabout Hazards",
+"description":"Yleinen virhe liikenneympyröissä on väärän vilkun antaminen poistuttaessa.\n\nKuljettajien tulisi lähestyä liikenneympyröitä turvallisella nopeudella, jotta heillä on aikaa väistää.\n\nJos toinen kuljettaja ei väistä, turvallisin tapa on väistää itse törmäyksen välttämiseksi.\n\nOikea kaistankäyttö monikaistaisissa liikenneympyröissä estää konflikteja ja sivuttaispyöräytyksiä.\n\nJos väärä kaista valitaan, kuljettajien tulee seurata kaistaa ja korjata reittinsä myöhemmin."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Risteykset, käännökset ja liikenneympyrät",
+"subcategory":"Yleisten risteysten turvallisuus",
+"englishSubcategory":"General Intersection Safety",
+"description":"Kärsivällisyys risteyksissä vähentää onnettomuusriskiä.\n\nKuljettajien tulisi varautua siihen, että muut tienkäyttäjät saattavat tehdä virheitä.\n\nJarrupolkimen painaminen lähestyttäessä vilkkaita risteyksiä lyhentää reaktioaikaa.\n\nJos kuljettajat eivät ole varmoja, kenellä on etuajo-oikeus, heidän tulee väistää törmäyksen välttämiseksi.\n\nTurvallisin sääntö risteyksissä on jatkaa vain, kun he ovat täysin varmoja siitä, että se on turvallista."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Tiemerkinnät, kaistat ja ohittaminen",
+"subcategory":"Kaistamerkinnät",
+"englishSubcategory":"Lane Markings",
+"description":"Kaistamerkinnät ohjaavat kuljettajia ja hallitsevat ajoneuvojen liikettä.\n\nYksi jatkuva keskiviiva tarkoittaa, että kuljettajat eivät saa ylittää linjaa ohittaakseen.\n\nKatkoviiva tarkoittaa, että kuljettajat voivat ylittää tien, kun se on turvallista ja sallittua.\n\nKaksinkertaista jatkuvaa keskiviivaa ei saa ylittää kukaan kuljettaja.\n\nJos toinen viiva on katkonainen ja toinen jatkuva, vain katkoviivan vieressä oleva kuljettaja saa ylittää tien.\n\nReunaviivat merkitsevät ajoradan rajat ja auttavat määrittelemään ajotilaa."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Tiemerkinnät, kaistat ja ohittaminen",
+"subcategory":"Kaistan käyttö",
+"englishSubcategory":"Lane Use",
+"description":"Kuljettajien on käytettävä kaistoja oikein ja noudatettava tiemerkintöjä.\n\nMonikaistaisilla teillä, joiden nopeusrajoitus on yli 80 km/h, kuljettajien on pysyttävä vasemmalla, elleivät he ohita.\n\nKaistanuotiet osoittavat suunnan, johon ajoneuvojen on ajettava kyseiseltä kaistalta.\n\nYhtenäisillä viivoilla reunustetuilla maalatuilla saarekkeilla ei saa ajaa, ellei estettä väistetä ja se on sallittua.\n\nJos olet väärällä kaistalla, turvallisin vaihtoehto on jatkaa ja vaihtaa kaistaa myöhemmin, kun se on turvallista."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Tiemerkinnät, kaistat ja ohittaminen",
+"subcategory":"Ohittamisen säännöt",
+"englishSubcategory":"Overtaking Rules",
+"description":"Ohittaminen on sallittua vain, kun tiemerkinnät ja -olosuhteet sallivat sen turvallisesti.\n\nKuljettajien on tarkistettava näkyvyys, vastaantuleva liikenne ja tiemerkinnät ennen ohittamista.\n\nOhittaminen tienharjojen, mutkien tai risteysten lähellä on vaarallista rajoitetun näkyvyyden vuoksi.\n\nOhittamisen jälkeen kuljettajien on palattava kaistalleen vasta, kun he ovat poissa toisesta ajoneuvosta.\n\nYleinen ansa on vastaantulevien ajoneuvojen nopeuden aliarviointi."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Tiemerkinnät, kaistat ja ohittaminen",
+"subcategory":"Yhdistäminen",
+"englishSubcategory":"Merging",
+"description":"Kun kaistat yhtyvät ilman liikennemerkkejä, takana olevan ajoneuvon on väistettävä.\n\nKuljettajien tulee säätää nopeuttaan, jotta muut voivat liittyä toisiinsa turvallisesti.\n\nZipper-liittymä mahdollistaa liikenteen yhdistymisen eri kaistoilta vuorotellen.\n\nKuljettajien on suuntavilkulla ennen toiselle kaistalle siirtymistä.\n\nTurvallinen liittyminen vaatii yhteistyötä, kärsivällisyyttä ja ennustettavuutta."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Tiemerkinnät, kaistat ja ohittaminen",
+"subcategory":"Erikoiskaistat",
+"englishSubcategory":"Special Lanes",
+"description":"Erikoiskaistoihin kuuluvat linja-autokaistat ja joukkoliikennekaistat. .\n\n Vain liikennemerkein sallitut ajoneuvot saavat käyttää linja-autokaistoja niiden aukioloaikoina.\n\nYleiskuljettajat saavat ajaa linja-autokaistoilla vain sallittuja käännöksiä varten tai liikennemerkkien salliessa.\n\nT2- ja T3-kaistoilla vaaditaan vähimmäismäärä matkustajia.\n\nMoottoripyörät voivat käyttää T2- ja T3-kaistoja, elleivät liikennemerkit toisin määrää.\n\nKuljettajien on aina tarkistettava liikennemerkit ennen erikoiskaistoille ajamista."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Tiemerkinnät, kaistat ja ohittaminen",
+"subcategory":"Vasemmalla pysyminen",
+"englishSubcategory":"Keeping Left",
+"description":"Vasemmalla puolella pysyminen parantaa liikenteen sujuvuutta ja turvallisuutta monikaistaisilla teillä.\n\nOikea kaista ei ole pysyvä pikakaista.\n\nKuljettajien tulisi poistua oikealta kaistalta ohittamisen jälkeen tai kun sitä ei enää tarvita.\n\nOikean kaistan tarpeeton käyttö voi aiheuttaa ruuhkia ja vaarallisia ohituksia.\n\nVilkkaassa liikenteessä kaikilla kaistoilla kuljettajat voivat käyttää mitä tahansa kaistaa yhteistyössä."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Tiemerkinnät, kaistat ja ohittaminen",
+"subcategory":"Kaistanvaihdot",
+"englishSubcategory":"Lane Changes",
+"description":"Ennen kaistanvaihtoa kuljettajien on tarkistettava peilit, kuolleet kulmat ja käännettävä vilkut.\n\nPään tarkistukset ovat välttämättömiä, koska peilit eivät näytä kaikkia kuolleita kulmia.\n\nJos toinen kuljettaja kiihdyttää, kuljettajien on odotettava ja vaihdettava kaistaa vain, kun se on turvallista.\n\nUsein toistuvat kaistanvaihdot lisäävät onnettomuusriskiä.\n\nVilkut tulee kytkeä pois päältä kaistanvaihdon jälkeen."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Tiemerkinnät, kaistat ja ohittaminen",
+"subcategory":"Ohittamisen turvallisuus",
+"englishSubcategory":"Overtaking Safety",
+"description":"Ohittaminen vasemmalta voi olla riskialtista, koska muut kuljettajat eivät välttämättä osaa odottaa sitä.\n\nKuljettajien tulee olla varovaisia, jos edessä oleva ajoneuvo näyttää oikealle suuntautuvaa merkin ja hidastaa.\n\nOhittaminen risteysten lähellä on vaarallista arvaamattoman liikenneliikkeen vuoksi.\n\nJos ohitusta ei voida suorittaa turvallisesti, kuljettajien on keskeytettävä se ja palattava kaistalleen.\n\nTurvallisin sääntö on ohittaa vain silloin, kun se on laillista ja selvästi turvallista."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Tiemerkinnät, kaistat ja ohittaminen",
+"subcategory":"Yleinen kaistaturvallisuus",
+"englishSubcategory":"General Lane Safety",
+"description":"Kaistan keskellä pysyminen auttaa säilyttämään hallinnan ja välttämään sivuttaissuunnassa ajamista.\n\nKun tiemerkinnät ovat haalistuneita tai epäselviä, kuljettajien on ajettava varovasti ja noudatettava kylttejä ja tien asettelua.\n\nEnnakoitava kaistankäyttö auttaa muita tienkäyttäjiä ennakoimaan liikkeitä.\n\nRuuhkatilanteissa kärsivällisyys ja yhteistyö vähentävät onnettomuusriskiä.\n\nTien pientareita ei ole suunniteltu normaaliin ajoon, ja niitä tulisi käyttää vain hätätilanteissa tai kun merkit sen sallivat."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Tiemerkinnät, kaistat ja ohittaminen",
+"subcategory":"Turvallisen ajon periaatteet",
+"englishSubcategory":"Safe Driving Principles",
+"description":"Kuljettajien ei tulisi koskaan pysähtyä tai peruuttaa, jos he ohittavat käännöksen tai liittymän.\n\nTiemerkinnät ovat olemassa turvallisen ja laillisen liikenteen ohjaamiseksi.\n\nKun kaistat kapenevat, kuljettajien tulisi liittyä kaistalle ajoissa ja turvallisesti liikennesääntöjen mukaisesti.\n\nTurvallisuuden ja lainmukaisuuden on aina mentävä mukavuuden edelle.\n\nTiemerkintöjen ja kaistasääntöjen noudattaminen vähentää konflikteja ja törmäyksiä."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Pysähtyminen, pysäköinti ja tienvarsisäännöt",
+"subcategory":"Pysähtyminen vs. pysäköinti",
+"englishSubcategory":"Stopping vs Parking",
+"description":"Pysähtyminen on paikallaan pysymistä lyhyen aikaa kuljettajan pysyessä ajoneuvossa.\n\nPysäköinti on ajoneuvon jättämistä valvomatta, vaikka vain lyhyeksi ajaksi.\n\nPysähtymisestä tulee pysäköintiä heti, kun kuljettaja poistuu ajoneuvosta.\n\nPysähtymiseen ja pysäköintiin sovelletaan eri merkkejä ja sääntöjä.\n\nTämän eron ymmärtäminen on tärkeää rikkomusten välttämiseksi."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Pysähtyminen, pysäköinti ja tienvarsisäännöt",
+"subcategory":"Pysähtymiskieltoalueet",
+"englishSubcategory":"No Stopping Zones",
+"description":"PYSÄHTYMINEN KIELLETTY -merkki tarkoittaa, että kuljettajat eivät saa pysähtyä ollenkaan, paitsi todellisessa hätätilanteessa.\n\nMatkustajien jättäminen tai ottaminen kyytiin ei ole sallittua pysähtymiskieltoalueilla.\n\nHätävilkut eivät tee pysähtymisestä laillista.\n\nPysähtymiskieltoalueita käytetään liikenteen sujuvuuden ja näkyvyyden ylläpitämiseen.\n\nLaiton pysähtyminen näillä alueilla aiheuttaa turvallisuusriskejä."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Pysähtyminen, pysäköinti ja tienvarsisäännöt",
+"subcategory":"Ei pysäköintialueita",
+"englishSubcategory":"No Parking Zones",
+"description":"KIELLETTY PYSÄKÖINTI -merkki antaa kuljettajille oikeuden pysähtyä lyhyesti, mutta ei jättää ajoneuvoa valvomatta.\n\nKuljettajan on pysyttävä ajoneuvossa koko ajan.\n\nAjoneuvon valvomatta jättäminen muuttuu pysähtymiseksi laittomaksi pysäköinniksi.\n\nPysäköintikieltoalueita käytetään usein risteysten lähellä näkyvyyden parantamiseksi.\n\nKuljettajien tulisi pysähtyä vain tarvittaessa ja jatkaa matkaa ripeästi."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Pysähtyminen, pysäköinti ja tienvarsisäännöt",
+"subcategory":"Läpäisevät väylät",
+"englishSubcategory":"Clearways",
+"description":"Suojakäytävät kieltävät pysähtymisen ja pysäköinnin kyltissä merkittyinä aikoina.\n\nSuojakäytävän aikoina ajoneuvot eivät saa pysähtyä paitsi hätätilanteessa.\n\nMerkittyjen suojakäytävän aikojen ulkopuolella sovelletaan normaaleja pysäköintisääntöjä.\n\nSuojakäytävää käytetään liikenteen pitämiseen käynnissä vilkkailla alueilla.\n\nYleinen ansa on väärinkäsitys suojakäytävän aikojen soveltamisesta."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Pysähtyminen, pysäköinti ja tienvarsisäännöt",
+"subcategory":"Bussipysäkit ja bussialueet",
+"englishSubcategory":"Bus Stops and Bus Zones",
+"description":"Pysähtyminen tai pysäköinti linja-autopysäkkialueilla ei ole sallittua, elleivät liikennemerkit sitä salli.\n\nLinja-autoalueet on pidettävä tyhjinä, jotta linja-autot voivat turvallisesti ottaa matkustajia kyytiin ja jättää ne kyytiin.\n\nPysähtyminen linja-autoalueella on laitonta, vaikka linja-autoa ei olisikaan paikalla.\n\nKuljettajien tulee pitää silmällä jalankulkijoita linja-autopysäkkien lähellä.\n\nLinja-autoalueiden pitäminen tyhjinä parantaa turvallisuutta ja liikenteen sujuvuutta."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Pysähtyminen, pysäköinti ja tienvarsisäännöt",
+"subcategory":"Ajotiet ja risteykset",
+"englishSubcategory":"Driveways and Intersections",
+"description":"Kuljettajat eivät saa pysähtyä tai pysäköidä ajoväylien poikki.\n\nLiian lähelle risteyksiä pysäköinti heikentää kaikkien tienkäyttäjien näkyvyyttä.\n\nRisteysten lähellä on rajoitettuja etäisyyksiä, vaikka opasteita ei olisikaan.\n\nAjoväylien tai risteysten tukkiminen voi estää hätäajoneuvojen pääsyn.\n\nJos olet epävarma, kuljettajien tulisi pysäköidä kauemmas, missä näkyvyys on hyvä."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Pysähtyminen, pysäköinti ja tienvarsisäännöt",
+"subcategory":"Kuormausalueet",
+"englishSubcategory":"Loading Zones",
+"description":"Lastausalueita saavat käyttää vain kyltin sallimat ajoneuvot.\n\nYksityisajoneuvot eivät automaattisesti saa käyttää lastausalueita.\n\nLastausalueet ovat olemassa toimitusten mahdollistamiseksi ilman liikenteen tukkimista.\n\nKuljettajien on tarkistettava kylteistä huolellisesti sallitut ajoneuvot ja ajat.\n\nJos kuljettajat ovat epävarmoja, heidän ei tule pysähtyä lastausalueelle."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Pysähtyminen, pysäköinti ja tienvarsisäännöt",
+"subcategory":"Pysäköintiasento",
+"englishSubcategory":"Parking Position",
+"description":"Taskupysäköinnissä ajoneuvot on sijoitettava lähelle jalkakäytävän reunaa ja sen suuntaisesti.\n\nOsittainen pysäköinti jalkakäytäville on yleensä kiellettyä ja haittaa jalankulkijoita.\n\nRinteessä pysäköidessä pyörät on käännettävä vierimisen estämiseksi.\n\nEnnen oven avaamista kuljettajien on tarkistettava pyöräilijät ja liikenne.\n\nOikea pysäköintiasento parantaa kaikkien tienkäyttäjien turvallisuutta."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Pysähtyminen, pysäköinti ja tienvarsisäännöt",
+"subcategory":"Hätäpysäytys",
+"englishSubcategory":"Emergency Stopping",
+"description":"Kielletyillä alueilla pysähtyminen on sallittua vain todellisessa hätätilanteessa.\n\nJos ajoneuvo hajoaa, se tulee siirtää tieltä, jos mahdollista.\n\nHätävilkut varoittavat muita kuljettajia, mutta eivät tee pysähtymisestä laillista.\n\nHätätilanteessa kuljettajien tulee pysähtyä mahdollisimman kauas liikenteestä.\n\nMuiden tienkäyttäjien varoittaminen vähentää toissijaisten törmäysten riskiä."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Pysähtyminen, pysäköinti ja tienvarsisäännöt",
+"subcategory":"Yleinen pysäköintiturvallisuus",
+"englishSubcategory":"General Parking Safety",
+"description":"Laiton pysäköinti voi haitata liikennettä ja heikentää näkyvyyttä.\n\nPalopostit ja hätäuloskäyntipaikat on aina pidettävä vapaina.\n\nJos pysäköintimerkit ovat epäselviä, kuljettajien tulee olettaa, että pysäköinti ei ole sallittua.\n\nEnnen pysäköidyn ajoneuvon jättämistä kuljettajien tulee tarkistaa ympäristö ja varmistaa ajoneuvon pysyminen turvassa.\n\nTurvallisuuden ja lainmukaisuuden on aina oltava etusijalla mukavuudelle pysäköidessä tai pysäköidessä."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Jalankulkijat, pyöräilijät ja suojattomat tienkäyttäjät",
+"subcategory":"Jalankulkijoiden etuoikeus",
+"englishSubcategory":"Pedestrian Priority",
+"description":"Jalankulkijat ovat haavoittuvimpia tienkäyttäjiä.\n\nAutoilijoiden on väistettävä jalankulkijoita suojateillä tai suojateille saapuessaan.\n\nJos jalankulkijat ylittävät tietä vielä liikennevalojen vaihtuessa vihreään, autoilijoiden on odotettava.\n\nAutoilijoiden tulisi hidastaa ostosalueilla ja vilkkailla kaduilla, joilla jalankulkijat saattavat astua tielle odottamatta.\n\nYleinen virhe on keskittyä liikennevaloihin ja olla huomaamatta jalankulkijoita."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Jalankulkijat, pyöräilijät ja suojattomat tienkäyttäjät",
+"subcategory":"Lapset ja koulualueet",
+"englishSubcategory":"Children and School Areas",
+"description":"Lapset saattavat toimia arvaamattomasti teiden lähellä.\n\nAutoilijoiden on hidastettava ja oltava valppaita koulujen ja leikkikenttien lähellä.\n\nKoulujen suojateiden valvojat valvovat suojateitä liikennemerkein määrättyinä aikoina.\n\nKun valvoja näyttää stop-merkin, autoilijoiden on pysähdyttävä ja väistettävä jalankulkijoita.\n\nPysäköintirajoitukset koulujen suojateiden lähellä parantavat näkyvyyttä ja turvallisuutta."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Jalankulkijat, pyöräilijät ja suojattomat tienkäyttäjät",
+"subcategory":"Pyöräilijät tienkäyttäjinä",
+"englishSubcategory":"Cyclists as Road Users",
+"description":"Pyöräilijät ovat laillisia tienkäyttäjiä ja heitä on kohdeltava varoen.\n\nKuljettajien tulee jättää riittävästi tilaa ohittaessaan pyöräilijöitä.\n\nEnnen ajoneuvon oven avaamista kuljettajien on tarkistettava peilit välttääkseen pyöräilijöiden törmäämisen.\n\nKääntyessään kuljettajien on tarkkailtava suoraan risteysten läpi ajavia pyöräilijöitä.\n\nYleinen virhe on pyöräilijän nopeuden aliarviointi."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Jalankulkijat, pyöräilijät ja suojattomat tienkäyttäjät",
+"subcategory":"Pyörätiet",
+"englishSubcategory":"Bicycle Lanes",
+"description":"Pyörätiet on rakennettu pyöräilijöiden suojaamiseksi. .\n\n Vain pyöräilijät ja liikennemerkeillä sallitut ajoneuvot saavat käyttää pyöräteitä.\n\nKuljettajat saavat ajaa pyörätielle vain käännyttäessä tai liikennemerkkien salliessa.\n\nEnnen pyörätien ylittämistä kuljettajien on väistettävä pyöräilijöitä.\n\nKuljettajien tulee varautua siihen, että pyöräilijät ajavat odotettua nopeammin."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Jalankulkijat, pyöräilijät ja suojattomat tienkäyttäjät",
+"subcategory":"Jaetut polut",
+"englishSubcategory":"Shared Paths",
+"description":"Jalankulkijat, pyöräilijät ja muut voivat käyttää yhteisiä teitä sallitulla tavalla.\n\nAutoilijoiden on hidastettava ja väistettävä lähestyessään yhteisten teiden ylityspaikkoja.\n\nEri käyttäjät ajavat eri nopeuksilla, mikä lisää riskiä.\n\nAutoilijoiden tulee tarkkailla jalankulkijoita ja pyöräilijöitä, jotka tulevat tielle yhteisiltä poluilta.\n\nKärsivällisyys ja valppaus vähentävät törmäysriskiä yhteisten teiden lähellä."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Jalankulkijat, pyöräilijät ja suojattomat tienkäyttäjät",
+"subcategory":"Iäkkäät ja vammaiset jalankulkijat",
+"englishSubcategory":"Elderly and Disabled Pedestrians",
+"description":"Iäkkäät ja vammaiset jalankulkijat saattavat tarvita lisäaikaa tien ylittämiseen.\n\nKuljettajien on odotettava kärsivällisesti, kunnes he ovat ylittäneet tien.\n\nErityistä varovaisuutta on noudatettava sairaaloiden, hoitolaitosten ja suojateiden lähellä.\n\nJos kuljettajat eivät ole varmoja siitä, onko jalankulkija nähnyt ajoneuvon, heidän tulee väistää.\n\nHaavoittuvien jalankulkijoiden nopean liikkumisen olettaminen on vaarallista."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Jalankulkijat, pyöräilijät ja suojattomat tienkäyttäjät",
+"subcategory":"Lyhin ohitusmatka",
+"englishSubcategory":"Minimum Passing Distance",
+"description":"Autoilijoiden on jätettävä riittävästi tilaa pyöräilijöitä ohittaessaan.\n\nJos tie on liian kapea turvalliseen ohittamiseen, autoilijoiden on odotettava.\n\nPyöräilijät voivat siirtyä pois reunakivetykseltä välttääkseen vaaroja tai säilyttääkseen tasapainonsa.\n\nKapeaan kulkuväylään pakottaminen lisää huomattavasti onnettomuusriskiä.\n\nKärsivällisyys ja tila suojelevat sekä kuljettajia että pyöräilijöitä."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Jalankulkijat, pyöräilijät ja suojattomat tienkäyttäjät",
+"subcategory":"Eläimet ja muut haavoittuvat käyttäjät",
+"englishSubcategory":"Animals and Other Vulnerable Users",
+"description":"Eläimet voivat ilmestyä tielle yllättäen, erityisesti aamunkoitteessa ja hämärässä.\n\nKuljettajien tulisi hidastaa alueilla, joilla on eläimiä.\n\nJos eläin ilmestyy eteen, turvallisin toimintatapa on jarruttaa turvallisesti ja säilyttää ajoneuvon hallinta.\n\nÄkillisen jarrutuksen jälkeen kuljettajien tulee tarkistaa takanaan oleva liikenne.\n\nErityinen varovaisuus vähentää hallinnan menettämisen riskiä."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Jalankulkijat, pyöräilijät ja suojattomat tienkäyttäjät",
+"subcategory":"Yleiset turvallisuusperiaatteet",
+"englishSubcategory":"General Safety Principles",
+"description":"Haavoittuvaisilla tienkäyttäjillä on vain vähän suojaa törmäyksessä.\n\nKuljettajien tulisi hidastaa nopeutta ja lisätä valppautta lähellään tienkäyttäjiä.\n\nJos on epävarmaa, kenellä on etuajo-oikeus, väistämisen antaminen estää vahinkoja.\n\nKiirehtiminen lisää vakavien vammojen riskiä.\n\nTurvallisuuden on aina mentävä mukavuuden edelle."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Jalankulkijat, pyöräilijät ja suojattomat tienkäyttäjät",
+"subcategory":"Kuljettajan tietoisuus",
+"englishSubcategory":"Driver Awareness",
+"description":"Kaupunkialueilla pyöräilijät ja jalankulkijat jäävät usein kuolleisiin kulmiin.\n\nKuljettajien on tarkistettava peilit ja kuolleet kulmat ennen kääntymistä tai kaistan vaihtamista.\n\nPyöräilijät ajavat usein suoraan risteysten läpi.\n\nJos pyöräilijä väistää tai horjuu, kuljettajien tulee hidastaa ja antaa ylimääräistä tilaa.\n\nValpas ja kärsivällinen ajaminen luo turvallisemman jaetun tieympäristön."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Erikoistilanteet ja tieympäristöt",
+"subcategory":"Tietyöt",
+"englishSubcategory":"Roadworks",
+"description":"Tietyöalueilla tieolosuhteet ja liikennemallit ovat usein muuttuneet.\n\nKuljettajien on hidastettava ja noudatettava kaikkia väliaikaisia merkkejä ja ohjeita.\n\nTilapäiset nopeusrajoitukset tietyömailla ovat laillisesti täytäntöönpanokelpoisia.\n\nTietyörajoituksia voidaan soveltaa, vaikka työntekijöitä ei olisi näkyvissä.\n\nValtuutettujen liikenteenohjaajien antamia ohjeita on aina noudatettava.\n\nKapenevien kaistojen, epätasaisten pintojen ja työntekijöiden vuoksi on noudatettava erityistä varovaisuutta."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Erikoistilanteet ja tieympäristöt",
+"subcategory":"Rautateiden tasoristeykset",
+"englishSubcategory":"Railway Level Crossings",
+"description":"Kuljettajien on lähestyttävä tasoristeyksiä varoen.\n\nKun varoitusvalot, kellot tai puomit toimivat, kuljettajat eivät saa ajaa tasoristeykseen.\n\nKuljettajat eivät saa koskaan pysähtyä tasoristeykseen.\n\nJos liikenne on ruuhkautunut, kuljettajien on odotettava, kunnes tasoristeyksen poistamiseen on riittävästi tilaa.\n\nJos ajoneuvo pysähtyy tasoristeykseen, matkustajien on poistuttava välittömästi ja siirryttävä turvaan.\n\nJunat ovat usein nopeampia ja lähempänä kuin miltä ne näyttävät."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Erikoistilanteet ja tieympäristöt",
+"subcategory":"Tunnelit",
+"englishSubcategory":"Tunnels",
+"description":"Tunnelit ovat suljettuja tiloja, joista on rajoitetut poistumismahdollisuudet.\n\nKuljettajien tulee pitää turvallinen etäisyys ja välttää äkillisiä kaistanvaihtoja.\n\nJos punainen X-kaistanohjausvalo on näkyvissä, kyseistä kaistaa ei saa käyttää.\n\nPysähtymistä tunnelissa tulee välttää, ellei se ole välttämätöntä.\n\nJos ajoneuvo hajoaa, kuljettajien tulee siirtyä turvalliselle alueelle ja noudattaa hätäohjeita.\n\nPysähdysmatkat eivät lyhene tunneleissa suljetusta ympäristöstä huolimatta."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Erikoistilanteet ja tieympäristöt",
+"subcategory":"Moottoritiet ja rampit",
+"englishSubcategory":"Motorways and Ramps",
+"description":"Moottoritielle saapuessaan kuljettajien tulee käyttää kiihdytyskaistaa liikenteen nopeuden mukaiseksi siellä, missä se on turvallista.\n\nLiittyminen edellyttää peilien ja kuolleiden kulmien tarkistamista sekä turvallisen etäisyyden valitsemista.\n\nKuljettajien ei tule pysähtyä liittymisrampin päähän, ellei se ole välttämätöntä.\n\nMoottoritieltä poistuttaessa kuljettajien tulee hidastaa nopeutta vasta liittymärampille saavuttuaan.\n\nJos liittymää ei saavuteta, kuljettajien on jatkettava seuraavaan liittymään ja muutettava reittiä.\n\nKaistojen ylittäminen viime hetkellä on vaarallista."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Erikoistilanteet ja tieympäristöt",
+"subcategory":"Epäsuotuisa sää",
+"englishSubcategory":"Adverse Weather",
+"description":"Epäsuotuisa sää, kuten sade, sumu ja myrskyt, heikentävät näkyvyyttä ja pitoa.\n\nSumussa kuljettajien tulee hidastaa ja käyttää asianmukaisia valoja.\n\nKaukovalot voivat heikentää näkyvyyttä sumussa heijastusten vuoksi.\n\nTulvavesi voi peittää vaaroja ja aiheuttaa hallinnan menetyksen.\n\nJos veden syvyys on epävarma, kuljettajien ei tule ajaa alueelle ja etsiä toista reittiä.\n\nEnsimmäinen sade kuivan jakson jälkeen voi olla erityisen liukas."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Erikoistilanteet ja tieympäristöt",
+"subcategory":"Häikäisy ja aurinko",
+"englishSubcategory":"Glare and Sun",
+"description":"Auringon häikäisy voi heikentää näkyvyyttä merkittävästi.\n\nKuljettajien on hidastettava, kun häikäisy vaikuttaa näköön.\n\nAurinkoviirien tai aurinkolasien käyttö voi auttaa vähentämään häikäisyä.\n\nHäikäisy voi vaikeuttaa jalankulkijoiden, liikennevalojen ja vaarojen näkyvyyttä.\n\nMäkien ylittäminen voimakkaaseen auringonpaisteeseen vaatii nopeuden hidastamista ja huolellista tarkastelua.\n\nKuljettajien on oltava valmiita pysähtymään, jos näkyvyys heikkenee."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Erikoistilanteet ja tieympäristöt",
+"subcategory":"Eläimet",
+"englishSubcategory":"Animals",
+"description":"Eläimet voivat ilmestyä tielle yllättäen, erityisesti maaseututeillä. Aamunkoitto ja hämärä ovat eläinten liikkumisen kannalta riskialttiimpia aikoja. Jos eläin on lähellä tai tiellä, kuljettajien tulee hidastaa ja olla valmiita pysähtymään. Äkillinen väistöliike voi aiheuttaa hallinnan menetyksen tai törmäyksiä muiden ajoneuvojen kanssa. Voimakas jarrutus, jos se on turvallista, mutta samalla hallinnan säilyttäminen, on yleensä turvallisin reaktio."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Erikoistilanteet ja tieympäristöt",
+"subcategory":"Viat ja hätätilanteet",
+"englishSubcategory":"Breakdowns and Emergencies",
+"description":"Jos ajoneuvo hajoaa, kuljettajien tulee siirtyä tieltä turvalliseen paikkaan, jos mahdollista.\n\nAjokaistalla pysyminen aiheuttaa vakavaa vaaraa.\n\nHätävilkut varoittavat muita kuljettajia, mutta eivät poista riskiä.\n\nKuljettajien tulee asettaa varoituslaitteita, jos ne ovat turvallisia ja saatavilla.\n\nAjoneuvosta poistuttaessa kuljettajien tulee siirtyä kauas liikenteestä."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Erikoistilanteet ja tieympäristöt",
+"subcategory":"Huonon näkyvyyden olosuhteet",
+"englishSubcategory":"Low Visibility Conditions",
+"description":"Huonon näkyvyyden voivat aiheuttaa sumu, savu, pöly tai rankkasade.\n\nKuljettajien on hidastettava nopeutta ja kyettävä pysähtymään näkyvän matkan sisällä.\n\nKaukovalot voivat heikentää näkyvyyttä sumussa tai savussa.\n\nLiian läheltä ajaminen hidastaa reaktioaikaa ja lisää onnettomuusriskiä.\n\nJos näkyvyys huononee erittäin paljon, kuljettajien on pysähdyttävä turvallisesti ja odotettava."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Erikoistilanteet ja tieympäristöt",
+"subcategory":"Yleiset erityistilanteet",
+"englishSubcategory":"General Special Situations",
+"description":"Tuntemattomat tai muuttuvat tieolosuhteet vaativat erityistä varovaisuutta.\n\nKuljettajien tulisi hidastaa ja lisätä havaintokykyä.\n\nÄkilliset liikkeet lisäävät hallinnan menettämisen riskiä, kun pito tai näkyvyys heikkenee.\n\nTavanomaisten tiejärjestelyjen tai nopeuksien edelleen voimassa oleminen on yleinen virhe.\n\nVarovaisuus, ennustettavuus ja pysähtymisvalmius vähentävät parhaiten riskiä erikoistilanteissa."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Hätäajoneuvot ja poliisin ohjeet",
+"subcategory":"Väistämisen salliminen hätäajoneuvoille",
+"englishSubcategory":"Giving Way to Emergency Vehicles",
+"description":"Hätäajoneuvoihin kuuluvat poliisi-, palo- ja ambulanssiajoneuvot, jotka käyttävät vilkkuvaloja tai sireenejä.\n\nKuljettajien on väistettävä lähestyvän hätäajoneuvon tieltä heti, kun se on turvallista.\n\nTarvittaessa kuljettajien on pysähdyttävä, jotta hätäajoneuvo voi ohittaa sen.\n\nKuljettajat eivät saa pysähtyä äkillisesti vaaralliseen asentoon.\n\nHätäajoneuvon perässä ajaminen on vaarallista ja laitonta.\n\nHätäajoneuvot voivat lähestyä mistä tahansa suunnasta."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Hätäajoneuvot ja poliisin ohjeet",
+"subcategory":"Hätäajoneuvot risteyksissä",
+"englishSubcategory":"Emergency Vehicles at Intersections",
+"description":"Hätäajoneuvot voivat ajaa risteyksiin punaisia valoja vasten.\n\nKuljettajien on väistettävä, vaikka heillä olisi vihreät valot.\n\nJos kuljettajat ovat jo risteyksessä, heidän tulee poistaa se turvallisesti.\n\nHätäajoneuvot voivat käyttää tien vastakkaista puolta liikenteen ohittamiseen.\n\nYleinen virhe on olettaa, että liikennevalot antavat aina etuajo-oikeuden."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Hätäajoneuvot ja poliisin ohjeet",
+"subcategory":"Poliisin ohjeet",
+"englishSubcategory":"Police Directions",
+"description":"Poliisit voivat ohjata liikennettä manuaalisesti.\n\nJos poliisin ohjeet ovat ristiriidassa liikennemerkkien tai liikennevalojen kanssa, poliisin ohjeita on noudatettava.\n\nKuljettajien on toteltava merkkejä pysähtyäkseen, jatkaakseen matkaa tai muuttaakseen suuntaa.\n\nLiikennevalojen katsominen poliisin sijaan on yleinen virhe.\n\nPoliisin ohjeet ovat turvallisuuden ja liikenteen sujuvuuden hallitsemiseksi."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Hätäajoneuvot ja poliisin ohjeet",
+"subcategory":"Poliisin pysäyttäminen",
+"englishSubcategory":"Stopping for Police",
+"description":"Jos poliisi antaa kuljettajalle pysähtymismerkin, kuljettajan on pysähdyttävä heti, kun se on turvallista.\n\nKuljettajien tulee pysähtyä turvalliseen paikkaan ohjeiden mukaisesti.\n\nEllei toisin määrätä, kuljettajien tulee pysyä ajoneuvossaan.\n\nAjoneuvosta poistuminen ilman ohjeita voi olla vaarallista.\n\nKuljettajien on noudatettava poliisin antamia ohjeita."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Hätäajoneuvot ja poliisin ohjeet",
+"subcategory":"Alkuhengitys- ja huumetestaus",
+"englishSubcategory":"Breath and Drug Testing",
+"description":"Poliisi voi vaatia kuljettajia suorittamaan alkometri- tai huumetestin milloin tahansa.\n\nKuljettajien on noudatettava laillisia testausohjeita.\n\nTestistä kieltäytymisestä seuraa vakavia rangaistuksia.\n\nPäihtyneenä ajamisen estämiseksi käytetään satunnaisia testejä.\n\nSelvä olo ei tarkoita, että testistä voidaan kieltäytyä."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Hätäajoneuvot ja poliisin ohjeet",
+"subcategory":"Onnettomuus- ja vaaratilanneohjeet",
+"englishSubcategory":"Accident and Incident Directions",
+"description":"Onnettomuuksien tai vaaratilanteiden jälkeen poliisi voi ohjata liikennettä uudelleen.\n\nKuljettajien on noudatettava kaikkia onnettomuuspaikalla annettuja ohjeita.\n\nOhjeiden noudattamatta jättäminen voi lisätä vaaraa tienkäyttäjille ja pelastustyöntekijöille.\n\nKuljettajien tulee ajaa varovasti ja pysyä valppaina.\n\nTapahtumien tarkkailemiseksi pysähtyminen luo lisäriskin."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Hätäajoneuvot ja poliisin ohjeet",
+"subcategory":"Hätäajoneuvot liikenteessä",
+"englishSubcategory":"Emergency Vehicles in Traffic",
+"description":"Useampi kuin yksi hätäajoneuvo saattaa olla reagoimassa onnettomuuteen.\n\nKuljettajien tulee tarkistaa peilit yhden hätäajoneuvon ohitettua.\n\nÄkilliset kaistanvaihdot hätäajoneuvojen lähellä ovat vaarallisia.\n\nKuljettajien tulee jatkaa ajamista tasaisesti hätäajoneuvojen ohitettua.\n\nVaraudu hätähenkilöstön arvaamattomiin liikkeisiin."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Hätäajoneuvot ja poliisin ohjeet",
+"subcategory":"Oikeudelliset seuraukset",
+"englishSubcategory":"Legal Consequences",
+"description":"Hätäajoneuvojen väistämättä jättäminen voi johtaa sakkoihin ja rangaistuksiin.\n\nPoliisin ohjeiden huomiotta jättäminen on vakava rikos.\n\nLaillisia ohjeita on noudatettava, vaikka ne olisivatkin epämukavia.\n\nOhjeiden olettaminen valinnaisiksi on yleinen väärinkäsitys.\n\nLainvalvonta tukee liikenneturvallisuutta ja hätätilanteisiin reagointia."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Hätäajoneuvot ja poliisin ohjeet",
+"subcategory":"Yleinen hätätilannetietoisuus",
+"englishSubcategory":"General Emergency Awareness",
+"description":"Hätätilanteet vaativat rauhallista ja hallittua ajamista.\n\nPaniikki voi johtaa vaarallisiin päätöksiin.\n\nKuljettajien tulisi hidastaa ja tarkkailla huolellisesti hätätilanteiden lähellä.\n\nKaikkien tienkäyttäjien turvallisuuden on ohjattava kuljettajan käyttäytymistä.\n\nYhteistyö ja kärsivällisyys tukevat tehokasta hätätilanteisiin reagointia."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Turvavyöt, lasten turvaistuimet ja matkustajat",
+"subcategory":"Turvavyön perusteet",
+"englishSubcategory":"Seatbelt Basics",
+"description":"Kaikkien matkustajien on käytettävä turvavöitä, jos autossa on turvavyö.\n\nTurvavöitä on käytettävä aina ajoneuvon liikkuessa.\n\nTurvavyöt vähentävät merkittävästi loukkaantumisia ja kuolemia onnettomuuksissa, jopa pienillä nopeuksilla.\n\nLyhyet matkat eivät ole poikkeus turvavyölakeihin.\n\nMyös takaistuimien matkustajien on käytettävä turvavöitä.\n\nOn yleinen virhe olettaa, että turvavyöt ovat tarpeettomia lyhyillä tai hitailla matkoilla."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Turvavyöt, lasten turvaistuimet ja matkustajat",
+"subcategory":"Kuljettajan vastuu",
+"englishSubcategory":"Driver Responsibility",
+"description":"Kuljettaja on lain mukaan vastuussa matkustajien asianmukaisesta turvavyön käytöstä.\n\nKuljettaja ei saa ajaa, jos matkustaja kieltäytyy käyttämästä turvavyötä.\n\nLapset luottavat kuljettajaan turvajärjestelmien oikean käytön varmistamisessa.\n\nMatkustajien olettaminen kiinnittävän turvavyön itse on yleinen virhe.\n\nJos turvavyö on viallinen, kyseistä istumapaikkaa ei saa käyttää.\n\nTurvajärjestelmän vaatimustenmukaisuuden varmistaminen suojelee sekä matkustajia että kuljettajaa."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Turvavyöt, lasten turvaistuimet ja matkustajat",
+"subcategory":"Lasten turvalaitteita koskevat säännöt",
+"englishSubcategory":"Child Restraint Rules",
+"description":"Lasten on käytettävä ikäänsä ja kokoonsa sopivia hyväksyttyjä lasten turvaistuimia.\n\nAikuisten turvavyöt eivät sovi pienille lapsille turvallisesti.\n\nOikea turvaistuin riippuu lapsen pituudesta, iästä ja painosta.\n\nVäärän turvaistuimen käyttö heikentää suojaa.\n\nLasten turvaistuimet on asennettava oikein, jotta ne toimivat tehokkaasti.\n\nVäärin asennetut turvaistuimet ovat merkittävä turvallisuusriski."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Turvavyöt, lasten turvaistuimet ja matkustajat",
+"subcategory":"Etuistuimen säännöt",
+"englishSubcategory":"Front Seat Rules",
+"description":"Takaistuin on yleensä turvallisin paikka lapsille. .\n\n Lapset saavat istua etuistuimella vain, jos lain vaatimukset täyttyvät. .\n\n Turvatyynyt lisäävät riskiä edessä istuville lapsille. .\n\n Ennen kuin kuljettajat sallivat lapsen matkustamisen etuistuimella, heidän on otettava huomioon turvallisuus ja lain määräykset. .\n\n On virheellistä olettaa, että pelkkä turvavyö tekee etuistuimesta turvallisen."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Turvavyöt, lasten turvaistuimet ja matkustajat",
+"subcategory":"Matkustajien käyttäytyminen",
+"englishSubcategory":"Passenger Behaviour",
+"description":"Matkustajien on pysyttävä istuimilla ja asianmukaisesti kiinnitettyinä.\n\nLiikkuminen ajoneuvon sisällä voi häiritä kuljettajaa.\n\nIrtonaiset esineet voivat muuttua vaarallisiksi sinkoutuviksi törmäyksessä.\n\nLemmikkieläimet on pidettävä kiinni, jotta ne eivät häiritse ajamista.\n\nRauhallinen ja yhteistyökykyinen matkustajan käyttäytyminen parantaa kaikkien turvallisuutta."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Turvavyöt, lasten turvaistuimet ja matkustajat",
+"subcategory":"Poikkeukset ja erityistapaukset",
+"englishSubcategory":"Exemptions and Special Cases",
+"description":"Turvavyöpoikkeukset ovat harvinaisia ja niitä sovelletaan vain tietyissä olosuhteissa.\n\nLääketieteelliset poikkeukset edellyttävät asianmukaista lupaa.\n\nJos kuljettajat eivät ole varmoja siitä, soveltuuko poikkeus, heidän tulee olettaa, että turvavyön käyttö on välttämätöntä.\n\nPoikkeusten yleisyyden uskominen on yleinen väärinkäsitys.\n\nTurvavyölait ovat olemassa, koska turvavyöt vähentävät huomattavasti loukkaantumisriskiä."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Turvavyöt, lasten turvaistuimet ja matkustajat",
+"subcategory":"Sakot ja rangaistukset",
+"englishSubcategory":"Fines and Penalties",
+"description":"Kuljettajille voidaan määrätä sakkoja tai muita rangaistustoimenpiteitä, jos matkustajia ei ole kiinnitetty asianmukaisesti.\n\nRangaistuksia sovelletaan, vaikka onnettomuutta ei tapahtuisikaan.\n\nYleinen valvontaan liittyvä ansa on olettaa, ettei takapenkin matkustajia tarkasteta.\n\nKuljettajat ovat yleensä vastuussa lapsiin liittyvistä turvaistuinten käyttörikkomuksista.\n\nTurvaistuinten johdonmukainen käyttö estää rangaistukset ja parantaa turvallisuutta."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Turvavyöt, lasten turvaistuimet ja matkustajat",
+"subcategory":"Turvallisuusperiaatteet",
+"englishSubcategory":"Safety Principles",
+"description":"Turvavyöt rajoittavat liikettä äkillisissä jarrutuksissa tai törmäyksissä.\n\nOikea käyttö vähentää huomattavasti vamman vakavuutta.\n\nTurvavyöt tulee tarkistaa säännöllisesti kulumisen tai vaurioiden varalta.\n\nTurvavyöiden tarkistamisesta tulee tapa vähentää virheitä.\n\nTurvallisuuden tulisi aina olla etusijalla mukavuudessa."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Turvavyöt, lasten turvaistuimet ja matkustajat",
+"subcategory":"Ajoneuvotyypit",
+"englishSubcategory":"Vehicle Types",
+"description":"Turvavyö- ja turvavyösääntöjä sovelletaan useimpiin ajoneuvotyyppeihin, mukaan lukien taksit ja kimppakyytiajoneuvot. .\n\n Matkustajien on käytettävä turvavöitä, jos autossa on turvavyöt. .\n\n Hitaasti nopeita ajoneuvoja ei ole vapautettu turvavöitä koskevista säännöistä. .\n\n Vanhempien ajoneuvojen on edelleen noudatettava sääntöjä, jos niissä on turvavyöt.\n\nJos istumapaikalla ei ole turvavyötä, matkustajaa ei saa kuljettaa siellä."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Turvavyöt, lasten turvaistuimet ja matkustajat",
+"subcategory":"Yleinen tietoisuus",
+"englishSubcategory":"General Awareness",
+"description":"Turvaistuinten tarkastukset ovat yleisiä, koska ne vaikuttavat suoraan onnettomuuksien seurauksiin. .\n\n Ennen lasten kuljettamista uudessa ajoneuvossa turvaistuinten yhteensopivuus tulee tarkistaa.\n\nTurvaistuinten käytön johdonmukaisuus luo turvallisia tapoja.\n\nJos kuljettajat ovat epävarmoja turvaistuimia koskevista säännöistä, heidän tulisi olettaa, että tiukemmat turvallisuusvaatimukset ovat voimassa.\n\nTurvaistuinten oikea käyttö jokaisella matkalla suojaa parhaiten matkustajia."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Ajoneuvojen turvallisuus, viat ja huolto",
+"subcategory":"Ajoneuvon katsastuskelpoisuus",
+"englishSubcategory":"Vehicle Roadworthiness",
+"description":"Kuljettajat ovat lain mukaan vastuussa siitä, että heidän ajamansa ajoneuvo on turvallinen ja tieliikennekelpoinen. .\n\n Ajoneuvoa ei saa ajaa, jos siinä on tiedossa oleva turvallisuusvika. .\n\n Tieliikennekelvottoman ajoneuvon ajaminen lisää onnettomuuksien ja rikkoutumisten riskiä. .\n\n Ajoneuvon olettaminen turvalliseksi, koska se edelleen ajaa, on yleinen virhe. .\n\n Kuljettaja on edelleen vastuussa vioista, vaikka ajaisi lainatulla ajoneuvolla."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Ajoneuvojen turvallisuus, viat ja huolto",
+"subcategory":"Renkaat",
+"englishSubcategory":"Tyres",
+"description":"Renkaat ovat ratkaisevan tärkeitä pidolle, jarrutukselle ja ohjattavuudelle.\n\nRenkaiden kulutuspinnan syvyyden on oltava riittävä, eikä niissä saa olla vakavia vaurioita.\n\nLiian alhaiset tai kuluneet renkaat pidentävät jarrutusmatkaa ja heikentävät hallintaa.\n\nRenkaiden kunto tulee tarkistaa säännöllisesti ja ennen pitkiä matkoja.\n\nRenkaiden kulumisen huomiotta jättäminen siksi, että renkaat näyttävät liian korkeilta, on yleinen turvallisuusongelma."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Ajoneuvojen turvallisuus, viat ja huolto",
+"subcategory":"Jarrut",
+"englishSubcategory":"Brakes",
+"description":"Jarrut ovat välttämättömiä turvallisen pysähtymisen kannalta, erityisesti hätätilanteissa.\n\nVaroitusmerkkejä ovat epätavalliset äänet tai heikentynyt jarrutusteho.\n\nJos jarrut tuntuvat vialliselta ajon aikana, ajoneuvo on pysäytettävä turvallisesti eikä sillä saa ajaa enempää.\n\nAjamisen jatkaminen, vaikka jarrut vielä toimivat vain hieman, on vaarallista.\n\nJarruongelmat on korjattava välittömästi."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Ajoneuvojen turvallisuus, viat ja huolto",
+"subcategory":"Valot ja merkkivalot",
+"englishSubcategory":"Lights and Indicators",
+"description":"Kaikkien valojen ja vilkkujen on toimittava, jotta kuljettaja näkee ja tulee nähdyksi.\n\nVilkut viestivät aikeistaan muille tienkäyttäjille.\n\nYöllä ajaminen epäkunnossa olevalla ajovalolla on vaarallista ja laitonta.\n\nYleinen virhe on olettaa, että valot ovat tarpeettomia päiväsaikaan ajettaessa.\n\nValot ja vilkut tulee tarkistaa säännöllisesti ja ennen yöajoa."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Ajoneuvojen turvallisuus, viat ja huolto",
+"subcategory":"Tuulilasi ja peilit",
+"englishSubcategory":"Windscreen and Mirrors",
+"description":"Tuulilasin on oltava puhdas eikä siinä saa olla halkeamia, jotka estävät kuljettajan näkyvyyttä. Halkeamat voivat heikentää tuulilasia ja vähentää näkyvyyttä. Peilit tarjoavat tietoa ympäröivästä liikenteestä, ja ne on asennettava ja säädettävä oikein. Ajaminen puuttuvilla tai huonosti säädetyillä peileillä on vaarallista. Peilit tulee säätää ennen matkan aloittamista."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Ajoneuvojen turvallisuus, viat ja huolto",
+"subcategory":"Varoitusindikaattorit",
+"englishSubcategory":"Warning Indicators",
+"description":"Kojelaudan varoitusvalot ilmoittavat ajoneuvon mahdollisista vioista. Punaiset varoitusvalot viestivät yleensä vakavista ongelmista, jotka vaativat välittömiä toimia. Varoitusvaloja ei pidä koskaan jättää huomiotta, vaikka ajoneuvo näyttäisi ajavan normaalisti. Ajoneuvon olettaminen turvalliseksi, koska se liikkuu edelleen, on yleinen ansa. Turvallisin reaktio tuntemattomiin varoitusvaloihin on pysähtyä ja hakea ammattilaisen apua."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Ajoneuvojen turvallisuus, viat ja huolto",
+"subcategory":"Nesteiden tasot",
+"englishSubcategory":"Fluid Levels",
+"description":"Oikeat nestetasot ovat välttämättömiä ajoneuvon turvallisen käytön kannalta.\n\nAlhainen moottoriöljyn taso voi aiheuttaa vakavia moottorivaurioita.\n\nNesteet tulee tarkistaa säännöllisesti ja ennen pitkiä matkoja.\n\nNestetarkistusten laiminlyönti varoitusvalojen puuttumisen vuoksi on riskialtista.\n\nValmistajan suositusten noudattaminen on turvallisin tapa huoltaa nesteitä."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Ajoneuvojen turvallisuus, viat ja huolto",
+"subcategory":"Kuorma ja näkyvyys",
+"englishSubcategory":"Load and Visibility",
+"description":"Kuormat eivät saa estää kuljettajan näkyvyyttä tai häiritä ajoneuvon hallintaa.\n\nKuormaa peittävät peilit tai ikkunat on asetettava uudelleen ennen ajoon lähtöä.\n\nIrralliset esineet voivat liikkua äkillisesti ja vaikuttaa hallintaan tai aiheuttaa vammoja.\n\nOsittaisen näkyvyyden olettaminen hyväksyttäväksi on vaarallista.\n\nKuljettajat eivät saa ajaa, ellei näkyvyys ole selkeä."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Ajoneuvojen turvallisuus, viat ja huolto",
+"subcategory":"Huoltotottumukset",
+"englishSubcategory":"Maintenance Habits",
+"description":"Säännöllinen huolto ehkäisee vikoja ja parantaa turvallisuutta.\n\nEpätavallisia ääniä tai muutoksia ajoneuvon käyttäytymisessä ei pidä jättää huomiotta.\n\nKorjausten lykkääminen rahan säästämiseksi on yleinen ja vaarallinen virhe.\n\nEpäillyt viat tulee korjata ennen ajon jatkamista.\n\nEnnakoiva huolto vähentää vikoja ja onnettomuuksia."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Ajoneuvojen turvallisuus, viat ja huolto",
+"subcategory":"Yleiset turvallisuusperiaatteet",
+"englishSubcategory":"General Safety Principles",
+"description":"Vikojen ennaltaehkäisy on turvallisempaa kuin niihin reagoiminen.\n\nKuljettajien tulisi omaksua ennakoiva lähestymistapa ajoneuvon turvallisuuteen.\n\nJos ajoneuvon kunnosta ei ole varmuutta, sillä ei tule ajaa ennen tarkastusta.\n\nTurvallisuuden on aina oltava mukavuuden edelle.\n\nAjoneuvon turvallisuuden varmistaminen ennen jokaista matkaa on kuljettajan ydinvastuu."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Kuormat, hinaus ja raskaiden ajoneuvojen tietoisuus",
+"subcategory":"Kuorman suojaus",
+"englishSubcategory":"Load Security",
+"description":"Kuljettajat ovat lain mukaan vastuussa kaikkien kuormien asianmukaisesta kiinnityksestä. .\n\n Kuormat voivat siirtyä, pudota tai läikkyä, jos niitä ei ole kiinnitetty oikein.\n\nPainavat esineet voivat silti liikkua jarrutuksen tai kaarteiden aikana.\n\nKiinnittämättömät kuormat voivat aiheuttaa onnettomuuksia tai vahingoittaa muita tielläliikkujia.\n\nJos kuorma irtoaa ajon aikana, kuljettajan on pysähdyttävä turvallisesti ja kiinnitettävä se ennen jatkamista."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Kuormat, hinaus ja raskaiden ajoneuvojen tietoisuus",
+"subcategory":"Kuormitusrajat",
+"englishSubcategory":"Load Limits",
+"description":"Ajoneuvoja ei saa kuormata valmistajan määrittelemien rajojen yli. .\n\n Ylikuormitus heikentää ohjattavuutta ja jarrutustehoa. .\n\n Lisäpaino pidentää jarrutusmatkaa.\n\nYleinen väärinkäsitys on, että jos ajoneuvo liikkuu, kuorma on hyväksyttävä.\n\nJos kuormarajoituksista ei ole varmuutta, turvallisin vaihtoehto on vähentää kuormaa."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Kuormat, hinaus ja raskaiden ajoneuvojen tietoisuus",
+"subcategory":"Hinauksen perusteet",
+"englishSubcategory":"Towing Basics",
+"description":"Ennen hinaamista kuljettajien on varmistettava, että ajoneuvo on luokiteltu perävaunun vetämiseen.\n\nHinaaminen muuttaa ajoneuvon käsittelyä, kiihtyvyyttä ja jarrutusta.\n\nHinattaessa on pidettävä tavallista pidempi seurantaetäisyys.\n\nNormaalilla nopeudella ajaminen ilman säätöä on yleinen hinausloukku.\n\nJos perävaunu alkaa heilua, kuljettajien tulee hidastaa vähitellen ja säilyttää ajoneuvon hallinta."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Kuormat, hinaus ja raskaiden ajoneuvojen tietoisuus",
+"subcategory":"Perävaunun varusteet",
+"englishSubcategory":"Trailer Equipment",
+"description":"Perävaunujen on oltava tukevasti kytkettyinä vetoautoon.\n\nTurvaketjuja tarvitaan estämään perävaunujen irtoaminen, jos kytkentä pettää.\n\nPerävaunun valojen on toimittava, jotta muut kuljettajat näkevät jarrutus- ja suuntavalot.\n\nLiitännät on tarkistettava ennen matkan alkua ja matkan aikana.\n\nLiitäntöjen tarkistamatta jättäminen on yleinen ja vaarallinen virhe."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Kuormat, hinaus ja raskaiden ajoneuvojen tietoisuus",
+"subcategory":"Raskaan ajoneuvon tietoisuus",
+"englishSubcategory":"Heavy Vehicle Awareness",
+"description":"Raskaat ajoneuvot tarvitsevat enemmän aikaa ja etäisyyttä pysähtyäkseen.\n\nNiillä on suuret katvealueet, joissa kuljettajat eivät näe muita ajoneuvoja.\n\nJos et näe kuorma-auton peilejä, oleta, ettei kuljettaja näe sinua.\n\nRaskaiden ajoneuvojen eteen leikkaaminen ilman riittävästi tilaa on vaarallista.\n\nYlimääräinen kärsivällisyys ja tila vähentävät onnettomuusriskiä raskaiden ajoneuvojen ympärillä."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Kuormat, hinaus ja raskaiden ajoneuvojen tietoisuus",
+"subcategory":"Ajokäyttäytyminen kuorman kanssa",
+"englishSubcategory":"Driving Behaviour with Loads",
+"description":"Kuormien kuljettaminen tai hinaus vaatii hitaampia nopeuksia ja tasaisempaa ajoa.\n\nÄkillinen ohjaus tai jarrutus voi horjuttaa kuormattua ajoneuvoa.\n\nSeurantaetäisyyksiä tulisi pidentää.\n\nAjaminen ikään kuin ajoneuvo olisi tyhjä, on yleinen virhe.\n\nEnnakointi parantaa turvallisuutta kuormia kuljetettaessa."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Kuormat, hinaus ja raskaiden ajoneuvojen tietoisuus",
+"subcategory":"Oikeudellinen vastuu",
+"englishSubcategory":"Legal Responsibility",
+"description":"Kuljettaja on lain mukaan vastuussa kuorman turvallisuudesta ja hinausmääräysten noudattamisesta.\n\nJos kiinnittämätön kuorma aiheuttaa onnettomuuden, voidaan määrätä sakkoja.\n\nKaikki ajoneuvot eivät ole lain mukaan oikeutettuja vetämään kaikkia perävaunuja.\n\nHinaussäännöt on olemassa vakavien vammojen ja onnettomuuksien estämiseksi.\n\nTurvallisuuden ja lakisääteisten rajoitusten on ohjattava kaikkia hinauspäätöksiä."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Kuormat, hinaus ja raskaiden ajoneuvojen tietoisuus",
+"subcategory":"Tien vuorovaikutus",
+"englishSubcategory":"Road Interaction",
+"description":"Teiden jakaminen raskaiden ajoneuvojen kanssa vaatii erityistä tarkkaavaisuutta.\n\nRaskaiden ajoneuvojen ohittaminen mäissä tai risteysten lähellä lisää riskiä.\n\nJos raskas ajoneuvo antaa liittymismerkkiä, kuljettajien tulee antaa tilaa, kun se on turvallista.\n\nPerässä ajavat kuorma-autot heikentävät näkyvyyttä ja jarrutusmatkaa.\n\nEnnakoitava ja kärsivällinen ajaminen parantaa turvallisuutta suurten ajoneuvojen lähellä."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Kuormat, hinaus ja raskaiden ajoneuvojen tietoisuus",
+"subcategory":"Täytäntöönpano ja seuraamukset",
+"englishSubcategory":"Enforcement and Penalties",
+"description":"Kuorma- ja hinauslakeja noudatetaan tiukasti.\n\nLakisääteisten rajoitusten ylittäminen voi johtaa sakkoihin tai rangaistuksiin.\n\nYleinen valvontaan liittyvä ansa on olettaa pienten kuormien olevan vapautettuja.\n\nJos kuljettajat ovat epävarmoja hinauksen laillisuudesta, heidän ei tule vetää ennen kuin asia on vahvistettu.\n\nLakisääteisten rajoitusten tunteminen ja noudattaminen välttää parhaiten rangaistukset."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Kuormat, hinaus ja raskaiden ajoneuvojen tietoisuus",
+"subcategory":"Yleiset turvallisuusperiaatteet",
+"englishSubcategory":"General Safety Principles",
+"description":"Suunnittelu on välttämätöntä ennen kuormien kuljettamista tai hinaamista.\n\nReitit, mäet ja liikenneolosuhteet vaikuttavat hallintaan ja jarrutukseen.\n\nLopullisten turvallisuustarkastusten tulisi varmistaa kuorman turvallisuus, liitännät ja näkyvyys.\n\nVarovainen ja valmistautunut ajattelutapa vähentää riskejä.\n\nKiinnitä kuormat, pysy rajoitusten sisällä ja aja varovasti aina."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Lisensointi-, oppilas- ja P-Plate-säännöt (NSW)",
+"subcategory":"Lisenssiluokat",
+"englishSubcategory":"Licence Classes",
+"description":"NSW käyttää porrastettua ajokorttijärjestelmää onnettomuusriskin vähentämiseksi.\n\nAjokorttiharjoittelijan ajokortti vaatii täysin ajokortin omaavan kuljettajan valvontaa.\n\nVäliaikaiset ajokortit sallivat valvomattoman ajamisen tietyin rajoituksin.\n\nTäydet ajokortit sallivat rajoittamattoman ajamisen.\n\nAjaminen ilman oikeaa ajokorttia on laitonta.\n\nAjokorttiluokkien ymmärtäminen on välttämätöntä ennen ajamista."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Lisensointi-, oppilas- ja P-Plate-säännöt (NSW)",
+"subcategory":"Oppilasajosäännöt",
+"englishSubcategory":"Learner Driver Rules",
+"description":"Oppilaskulkijoita on aina valvottava pätevällä valvovalla kuljettajalla.\n\nValvojien on täytettävä kokemusvaatimukset.\n\nOppilaskulkijoilla on noudatettava kaikkia liikennesääntöjä ja ajokortin ehtoja.\n\nAjaminen ilman valvontaa on vakava rikkomus.\n\nOppilaskulkijoita koskevia rajoituksia on olemassa kokemattomien kuljettajien suojelemiseksi."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Lisensointi-, oppilas- ja P-Plate-säännöt (NSW)",
+"subcategory":"L-levyt",
+"englishSubcategory":"L-Plates",
+"description":"Oppilaskuljettajien on pidettävä L-kilvet selvästi esillä koko ajan ajon aikana.\n\nKilpien on oltava näkyvissä edestä ja takaa vaadituissa paikoissa.\n\nVäärin esillä olevat tai puuttuvat L-kilvet ovat rikkomus.\n\nJos L-kilpi irtoaa, kuljettajan on pysähdyttävä ja asetettava se takaisin ennen jatkamista.\n\nL-kilvet ilmoittavat muille tienkäyttäjille oppilastilasta."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Lisensointi-, oppilas- ja P-Plate-säännöt (NSW)",
+"subcategory":"Väliaikaiset P1-säännöt",
+"englishSubcategory":"Provisional P1 Rules",
+"description":"P1-kuljettajiin sovelletaan alhaisempia nopeusrajoituksia kuin täysin ajokortilla kuljettajiin.\n\nNopeusrajoitukset ovat voimassa, vaikka liikennemerkit näyttäisivät korkeampia nopeusrajoituksia.\n\nP1-rajoitusten ylittäminen voi johtaa ajokortin peruuttamiseen.\n\nP1-rajoitukset ovat olemassa, koska kuljettajat keräävät vielä kokemusta.\n\nAlennettujen nopeusrajoitusten unohtaminen on yleinen DKT-ansa."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Lisensointi-, oppilas- ja P-Plate-säännöt (NSW)",
+"subcategory":"Matkapuhelimet",
+"englishSubcategory":"Mobile Phones",
+"description":"Oppilas- ja P1-kuljettajat eivät saa käyttää matkapuhelimia ajon aikana. .\n\n Tämä koskee myös handsfree-laitteiden, kaiuttimen ja navigoinnin käyttöä. .\n\n Puhelimet tulee sammuttaa tai asettaa pois ulottuvilta ennen ajamista.\n\nHandsfree-käytön sallimisen uskominen on yleinen virhe.\n\nPuhelinrajoitukset vähentävät kokemattomien kuljettajien häiriötekijöitä."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Lisensointi-, oppilas- ja P-Plate-säännöt (NSW)",
+"subcategory":"Matkustajarajoitukset",
+"englishSubcategory":"Passenger Restrictions",
+"description":"Joillakin väliaikaisilla kuljettajilla on rajoituksia matkustajamäärälle.\n\nYlimääräiset matkustajat lisäävät keskittymisen herpaantumista ja onnettomuusriskiä.\n\nRajoitukset ovat voimassa riippumatta siitä, ovatko matkustajat ystäviä vai perheenjäseniä.\n\nKuljettaja on vastuussa matkustajasääntöjen noudattamisesta.\n\nPerheenjäsenten olettaminen vapautettuina on yleinen ansa."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Lisensointi-, oppilas- ja P-Plate-säännöt (NSW)",
+"subcategory":"Ajotunnit",
+"englishSubcategory":"Driving Hours",
+"description":"Joillakin väliaikaisilla kuljettajilla on rajoituksia ajoaikoihinsa.\n\nYöllä ajaminen on riskialttiimpaa väsymyksen ja heikentyneen näkyvyyden vuoksi.\n\nAikarajoituksia sovelletaan myös lyhyillä matkoilla.\n\nJos olet epävarma siitä, onko ajaminen sallittua, turvallisin vaihtoehto on olla ajamatta.\n\nKuljettajien vastuulla on tietää sallitut ajoaikansa."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Lisensointi-, oppilas- ja P-Plate-säännöt (NSW)",
+"subcategory":"Haittapisteet",
+"englishSubcategory":"Demerit Points",
+"description":"Opiskelija- ja väliaikaiskuljettajilla on alhaisemmat pisterajat.\n\nUseat pienet rikkomukset voivat nopeasti johtaa ajokortin peruutukseen.\n\nRangaistukset ovat ankarampia uusille kuljettajille.\n\nPisteiden nopean nollaamisen olettaminen on väärin.\n\nHuolellinen ja sääntöjä noudattava ajaminen auttaa suojaamaan ajokortin statusta."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Lisensointi-, oppilas- ja P-Plate-säännöt (NSW)",
+"subcategory":"Testit ja lokikirjat",
+"englishSubcategory":"Tests and Logbooks",
+"description":"Oppijoiden on läpäistävä tieto- ja ajokokeet edetäkseen.\n\nAjopäiväkirjat kirjaavat valvotun ajokokemuksen.\n\nAjopäiväkirjamerkintöjen on oltava tarkkoja ja rehellisiä.\n\nVäärät merkinnät voivat viivästyttää ajokortin saamista tai johtaa rangaistukseen.\n\nSääntöjen opiskelu on välttämätöntä, eikä pelkkä kokemus riitä."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Lisensointi-, oppilas- ja P-Plate-säännöt (NSW)",
+"subcategory":"Yleinen vaatimustenmukaisuus",
+"englishSubcategory":"General Compliance",
+"description":"Ajokortin ehtoja on noudatettava aina. Säännöt eivät automaattisesti höllenny kokemuksen myötä. Kuljettajat ovat vastuussa omien ajokorttiensa ehtojen tuntemisesta. Jos olet epävarma jostakin säännöstä, turvallisin vaihtoehto on olla ajamatta ennen kuin se on selvitetty. Säännön noudattaminen suojaa sekä turvallisuutta että ajokortin asemaa."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Lisensointi-, oppilas- ja P-Plate-säännöt (NSW)",
+"subcategory":"Lopulliset turvallisuusperiaatteet",
+"englishSubcategory":"Final Safety Principles",
+"description":"Vakavien onnettomuuksien vähentämiseksi on olemassa porrastettuja ajokorttijärjestelmiä. Kokemattomuus yhdistettynä ylimielisyyteen on merkittävä riskitekijä. Oikotiet ja pienet rikkomukset voivat johtaa vakaviin seurauksiin. Turvallinen eteneminen vaatii kärsivällisyyttä ja sääntöjen noudattamista. Ajokorttiehtojen noudattaminen ja kokemuksen hankkiminen johtavat vähitellen turvallisempaan ajamiseen."
+}
+]
