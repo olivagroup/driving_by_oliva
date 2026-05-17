@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "englishName": "Legend",
+    "category": "Blood Alcohol Concentration (BAC)",
+    "description": "BAC can keep rising after you stop drinking, and consuming alcohol on an empty stomach or being lighter in weight can increase BAC."
+  },
+  {
+    "id": 2,
+    "englishName": "Legend",
+    "category": "Driving in Rain",
+    "description": "In heavy rain, leaving extra space is important because stopping distance increases and visibility may be reduced."
+  },
+  {
+    "id": 3,
+    "englishName": "Legend",
+    "category": "Emergency Vehicle Passing",
+    "description": "When passing a stopped emergency vehicle with flashing lights, you must slow down and pass with caution."
+  },
+  {
+    "id": 4,
+    "englishName": "Legend",
+    "category": "Fitness to Drive",
+    "description": "If you feel sick or unusually tired, do not drive until you are fit and alert, as it can affect your driving ability."
+  },
+  {
+    "id": 5,
+    "englishName": "Legend",
+    "category": "Hazard Perception",
+    "description": "Scanning the road ahead helps detect hazards early, allowing you to plan and respond safely."
+  },
+  {
+    "id": 6,
+    "englishName": "Legend",
+    "category": "Heavy Vehicle Interaction",
+    "description": "When sharing roads with heavy vehicles, you should allow extra time and space to ensure safety."
+  },
+  {
+    "id": 7,
+    "englishName": "Legend",
+    "category": "Load Towing Limits",
+    "description": "Towing beyond legal limits can result in fines or penalties."
+  },
+  {
+    "id": 8,
+    "englishName": "Legend",
+    "category": "No U-Turn Sign",
+    "description": "A NO U-TURN sign indicates that making a U-turn at that location is prohibited."
+  },
+  {
+    "id": 9,
+    "englishName": "Legend",
+    "category": "Parking Near Intersections",
+    "description": "You must not park within the restricted distance from an intersection without signs."
+  },
+  {
+    "id": 10,
+    "englishName": "Legend",
+    "category": "Pedestrian Priority",
+    "description": "At children's crossings, pedestrians have priority when flags are displayed."
+  },
+  {
+    "id": 11,
+    "englishName": "Legend",
+    "category": "Random Breath Testing",
+    "description": "Random breath tests are used to deter and detect drink driving. If required, you must cooperate and provide a breath sample."
+  },
+  {
+    "id": 12,
+    "englishName": "Legend",
+    "category": "School Zone Speed Limits",
+    "description": "In a school zone, you must follow the lower speed limit displayed during the specified times."
+  },
+  {
+    "id": 13,
+    "englishName": "Legend",
+    "category": "STOP Line Rule",
+    "description": "When approaching a stop line at an intersection without a sign, you must stop at the line and give way."
+  },
+  {
+    "id": 14,
+    "englishName": "Legend",
+    "category": "Tailgating in Rain",
+    "description": "In wet conditions, maintain a larger gap between vehicles to prevent accidents due to reduced traction and stopping distance."
+  },
+  {
+    "id": 15,
+    "englishName": "Legend",
+    "category": "Tailgating Trucks",
+    "description": "Avoid tailgating trucks as it reduces visibility and stopping distance."
+  },
+  {
+    "id": 16,
+    "englishName": "Legend",
+    "category": "Work Zone Safety",
+    "description": "When workers are present, you must drive cautiously, even if no temporary speed sign is visible."
+  },
+  {
+    "id": 17,
+    "englishName": "Legend",
+    "category": "Bus Lane Usage",
+    "description": "You may drive in a bus lane only if permitted by signs and during the specified times."
+  },
+  {
+    "id": 18,
+    "englishName": "Legend",
+    "category": "Loading Zones",
+    "description": "Only vehicles permitted by the sign may use loading zones; misuse can result in fines."
+  }
+]
