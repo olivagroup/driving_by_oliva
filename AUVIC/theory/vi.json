@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Luật lệ và quy tắc giao thông đường bộ",
+"subcategory":"Các quy tắc giao thông chung",
+"englishSubcategory":"General Road Rules",
+"description":"Người lái xe phải tuân thủ các quy tắc giao thông chung để đảm bảo an toàn và lưu thông thông suốt. Điều này bao gồm tuân thủ các biển báo, tín hiệu giao thông và vạch kẻ đường. Vi phạm các quy tắc này có thể dẫn đến tai nạn và bị phạt."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Luật lệ và quy tắc giao thông đường bộ",
+"subcategory":"Nhường đường",
+"englishSubcategory":"Giving Way",
+"description":"Người lái xe phải nhường đường cho các phương tiện khác hoặc người đi bộ tại các giao lộ, vòng xuyến và vạch sang đường dành cho người đi bộ, cũng như các địa điểm khác. Không nhường đường là một hành vi vi phạm pháp luật."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Luật lệ và quy tắc giao thông đường bộ",
+"subcategory":"Sử dụng làn đường",
+"englishSubcategory":"Lane Use",
+"description":"Người lái xe phải sử dụng đúng làn đường và tuân thủ vạch kẻ đường. Điều này bao gồm các quy tắc khi chuyển làn, vượt xe và sử dụng làn đường dành cho xe đạp hoặc xe buýt. Vi phạm có thể dẫn đến phạt tiền hoặc tai nạn."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Luật lệ và quy tắc giao thông đường bộ",
+"subcategory":"Xe điện",
+"englishSubcategory":"Trams",
+"description":"Người lái xe phải nắm rõ các quy tắc giao thông đường sắt, bao gồm việc nhường đường cho người đi bộ tại các trạm dừng xe điện, dừng lại khi xe điện đang mở cửa và không được vượt xe điện trong một số trường hợp nhất định."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Luật lệ và quy tắc giao thông đường bộ",
+"subcategory":"Giao lộ",
+"englishSubcategory":"Intersections",
+"description":"Tại các giao lộ, người lái xe phải tuân thủ đúng quy trình nhường đường và dừng lại tại các biển báo dừng hoặc đèn giao thông. Hiểu rõ các quy tắc này rất quan trọng để phòng ngừa tai nạn."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Luật lệ và quy tắc giao thông đường bộ",
+"subcategory":"Quay đầu xe",
+"englishSubcategory":"U-Turns",
+"description":"Chỉ được phép quay đầu xe tại các giao lộ hoặc khi không có biển báo cấm. Người lái xe phải đảm bảo an toàn trước khi thực hiện quay đầu xe."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Luật lệ và quy tắc giao thông đường bộ",
+"subcategory":"Giới hạn tốc độ",
+"englishSubcategory":"Speed Limits",
+"description":"Người lái xe phải tuân thủ giới hạn tốc độ quy định để đảm bảo an toàn trên đường. Vi phạm tốc độ có thể bị phạt tiền, tước giấy phép lái xe và tăng nguy cơ tai nạn."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Luật lệ và quy tắc giao thông đường bộ",
+"subcategory":"An toàn cho người đi bộ",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Người lái xe phải nhường đường cho người đi bộ tại các vạch sang đường và đảm bảo an toàn cho họ khi ở gần khu vực dành cho người đi bộ. Không dừng lại cho người đi bộ tại các vạch sang đường là một hành vi vi phạm pháp luật."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Luật lệ và quy tắc giao thông đường bộ",
+"subcategory":"Đường giao cắt với đường sắt",
+"englishSubcategory":"Railway Crossings",
+"description":"Người lái xe phải dừng lại tại các giao lộ đường sắt khi đèn báo hiệu nhấp nháy hoặc rào chắn hạ xuống. Việc phớt lờ các tín hiệu này là một hành vi vi phạm nghiêm trọng và có thể dẫn đến phạt tiền và tai nạn."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Luật lệ và quy tắc giao thông đường bộ",
+"subcategory":"Xe cứu thương",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Người lái xe phải nhường đường cho các phương tiện khẩn cấp sử dụng đèn nháy và còi báo động, đảm bảo phương tiện này có đường đi thông thoáng để di chuyển trong dòng giao thông."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Biển báo và tín hiệu giao thông",
+"subcategory":"Biển báo quy định",
+"englishSubcategory":"Regulatory Signs",
+"description":"Các biển báo quy định cung cấp hướng dẫn bắt buộc cho người lái xe, chẳng hạn như giới hạn tốc độ, hạn chế rẽ và biển báo cấm vào. Tuân thủ các biển báo này là bắt buộc theo luật để duy trì an toàn và trật tự trên đường."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Biển báo và tín hiệu giao thông",
+"subcategory":"Dấu hiệu cảnh báo",
+"englishSubcategory":"Warning Signs",
+"description":"Các biển báo cảnh báo giúp người lái xe nhận biết các mối nguy hiểm tiềm ẩn, chẳng hạn như khúc cua gấp, khu vực trường học và đường dành cho động vật hoang dã. Những biển báo này giúp người lái xe điều chỉnh cách lái để tránh tai nạn."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Biển báo và tín hiệu giao thông",
+"subcategory":"Biển báo tốc độ",
+"englishSubcategory":"Speed Signs",
+"description":"Biển báo tốc độ chỉ rõ tốc độ tối đa hoặc tối thiểu được phép trên đường. Người lái xe phải tuân thủ các giới hạn này để đảm bảo điều kiện lái xe an toàn và tránh bị phạt."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Biển báo và tín hiệu giao thông",
+"subcategory":"Đèn giao thông",
+"englishSubcategory":"Traffic Lights",
+"description":"Đèn giao thông điều khiển luồng xe cộ và người đi bộ tại các giao lộ. Đèn đỏ nghĩa là dừng lại, đèn xanh nghĩa là đi tiếp, và đèn vàng là tín hiệu cảnh báo chuẩn bị dừng lại."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Biển báo và tín hiệu giao thông",
+"subcategory":"Tín hiệu dành cho người đi bộ",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Tín hiệu dành cho người đi bộ báo hiệu khi nào an toàn để người đi bộ băng qua đường. Các tín hiệu này thường phối hợp với đèn giao thông để đảm bảo an toàn cho người đi bộ."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Biển báo và tín hiệu giao thông",
+"subcategory":"Tín hiệu điều khiển làn đường",
+"englishSubcategory":"Lane Control Signals",
+"description":"Đèn tín hiệu điều khiển làn đường được sử dụng để chỉ báo làn đường đang mở hay đóng. Các tín hiệu này thường được sử dụng trên các tuyến đường nhiều làn và trong đường hầm."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Biển báo và tín hiệu giao thông",
+"subcategory":"Biển báo cấm đỗ xe",
+"englishSubcategory":"No Parking Signs",
+"description":"Biển báo cấm đỗ xe chỉ ra những khu vực cấm dừng hoặc đỗ xe. Điều này thường nhằm đảm bảo giao thông thông suốt và an toàn."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Biển báo và tín hiệu giao thông",
+"subcategory":"Biển báo đường một chiều",
+"englishSubcategory":"One-Way Signs",
+"description":"Biển báo đường một chiều chỉ dẫn rằng giao thông chỉ được phép di chuyển theo một hướng. Việc không tuân thủ các biển báo này có thể dẫn đến tai nạn và hậu quả pháp lý."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Biển báo và tín hiệu giao thông",
+"subcategory":"Biển báo dừng",
+"englishSubcategory":"Stop Signs",
+"description":"Biển báo dừng yêu cầu người lái xe phải dừng hẳn và nhường đường cho các phương tiện khác hoặc người đi bộ trước khi tiếp tục di chuyển."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Biển báo và tín hiệu giao thông",
+"subcategory":"Biển báo nhường đường",
+"englishSubcategory":"Give Way Signs",
+"description":"Biển báo \"Nhường đường\"hướng dẫn người lái xe nhường đường cho người tham gia giao thông khác, có thể là người đi bộ hoặc phương tiện khác, tùy thuộc vào tình huống, để tránh tai nạn."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Quy tắc về tốc độ và khoảng cách",
+"subcategory":"Giới hạn tốc độ",
+"englishSubcategory":"Speed Limits",
+"description":"Tốc độ giới hạn mặc định trong khu vực đô thị ở Victoria là 50 km/h, trừ khi có biển báo khác. Luôn kiểm tra các biển báo để đảm bảo bạn đang lái xe trong giới hạn tốc độ cho phép."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Quy tắc về tốc độ và khoảng cách",
+"subcategory":"Giới hạn tốc độ",
+"englishSubcategory":"Speed Limits",
+"description":"Trong khu vực có biển báo trường học, vào những giờ được ghi trên biển báo, giới hạn tốc độ được giảm xuống còn 40 km/h để đảm bảo an toàn cho trẻ em khi băng qua đường."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Quy tắc về tốc độ và khoảng cách",
+"subcategory":"Khoảng cách tiếp theo",
+"englishSubcategory":"Following Distance",
+"description":"Trong điều kiện lý tưởng, khoảng cách an toàn tối thiểu giữa xe an toàn và xe phía trước là ít nhất hai giây. Điều này cho phép đủ thời gian để phản ứng nếu xe phía trước dừng đột ngột."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Quy tắc về tốc độ và khoảng cách",
+"subcategory":"Giới hạn tốc độ",
+"englishSubcategory":"Speed Limits",
+"description":"Khi đi ngang qua một chiếc xe điện đang dừng tại khu vực an toàn, bạn phải giảm tốc độ xuống 10 km/h để đảm bảo an toàn cho hành khách lên hoặc xuống xe điện."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Quy tắc về tốc độ và khoảng cách",
+"subcategory":"Giới hạn tốc độ",
+"englishSubcategory":"Speed Limits",
+"description":"Trên các tuyến đường nông thôn không có biển báo tốc độ, giới hạn tốc độ mặc định là 100 km/h trừ khi có biển báo địa phương quy định khác. Hãy điều chỉnh tốc độ phù hợp với điều kiện đường xá để đảm bảo an toàn."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Quy tắc về tốc độ và khoảng cách",
+"subcategory":"Khoảng cách tiếp theo",
+"englishSubcategory":"Following Distance",
+"description":"Trong điều kiện thời tiết ẩm ướt, bạn nên tăng khoảng cách an toàn với xe phía trước lên ít nhất bốn giây. Đường ướt làm giảm độ bám đường, đòi hỏi nhiều thời gian hơn để dừng xe an toàn."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Quy tắc về tốc độ và khoảng cách",
+"subcategory":"Giới hạn tốc độ",
+"englishSubcategory":"Speed Limits",
+"description":"Luôn tuân thủ các biển báo giới hạn tốc độ điện tử thay đổi khi chúng đang hoạt động. Các biển báo này điều chỉnh giới hạn tốc độ dựa trên điều kiện giao thông, thời tiết hoặc các sự cố trên đường."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Quy tắc về tốc độ và khoảng cách",
+"subcategory":"Khoảng cách dừng",
+"englishSubcategory":"Stopping Distance",
+"description":"Khi tốc độ tăng lên, quãng đường cần thiết để dừng xe an toàn cũng tăng lên. Luôn đảm bảo bạn có đủ khoảng cách để phản ứng kịp thời trước các mối nguy hiểm."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Quy tắc về tốc độ và khoảng cách",
+"subcategory":"Giới hạn tốc độ",
+"englishSubcategory":"Speed Limits",
+"description":"Tại các khu vực dùng chung, giới hạn tốc độ thường là 10 km/h để đảm bảo an toàn cho người đi bộ và người đi xe đạp tại những khu vực giao thông giữa xe cơ giới và người tham gia giao thông không sử dụng động cơ."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Quy tắc về tốc độ và khoảng cách",
+"subcategory":"Khoảng cách tiếp theo",
+"englishSubcategory":"Following Distance",
+"description":"Việc bám đuôi xe khác rất nguy hiểm vì nó làm giảm thời gian phản ứng và phanh. Luôn luôn giữ khoảng cách an toàn với xe phía trước, đặc biệt khi lái xe phía sau các phương tiện lớn hơn có thể cản trở tầm nhìn của bạn."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Trách nhiệm của tài xế",
+"subcategory":"Nghĩa vụ pháp lý",
+"englishSubcategory":"Legal Obligations",
+"description":"Người lái xe phải thực hiện nhiều nghĩa vụ pháp lý khác nhau, chẳng hạn như hỗ trợ sau tai nạn, trao đổi thông tin sau va chạm và báo cáo sự cố cho cơ quan chức năng theo quy định của pháp luật."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Trách nhiệm của tài xế",
+"subcategory":"Sự chú ý và kiểm soát",
+"englishSubcategory":"Attention & Control",
+"description":"Người lái xe phải luôn kiểm soát được phương tiện của mình, tránh bị phân tâm và duy trì sự tập trung để đảm bảo an toàn cho bản thân và những người tham gia giao thông khác."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Trách nhiệm của tài xế",
+"subcategory":"Nghĩa vụ pháp lý",
+"englishSubcategory":"Legal Obligations",
+"description":"Trong trường hợp xảy ra va chạm gây thương tích, người lái xe phải dừng lại và hỗ trợ nếu có thể. Việc không dừng lại và hỗ trợ trong những tình huống như vậy là vi phạm pháp luật."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Trách nhiệm của tài xế",
+"subcategory":"Sự chú ý và kiểm soát",
+"englishSubcategory":"Attention & Control",
+"description":"Điều cần thiết là người lái xe phải luôn kiểm soát hoàn toàn phương tiện của mình, đảm bảo phản ứng phù hợp với điều kiện giao thông thay đổi và duy trì môi trường lái xe an toàn."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Trách nhiệm của tài xế",
+"subcategory":"Nghĩa vụ pháp lý",
+"englishSubcategory":"Legal Obligations",
+"description":"Người lái xe phải báo cáo vụ tai nạn cho cảnh sát nếu có người bị thương hoặc tài sản bị hư hại và không thể trao đổi thông tin chi tiết. Việc không báo cáo những sự cố này có thể dẫn đến bị phạt."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Trách nhiệm của tài xế",
+"subcategory":"Quản lý mệt mỏi",
+"englishSubcategory":"Fatigue Management",
+"description":"Mệt mỏi là một nguy cơ nghiêm trọng khi lái xe. Người lái xe nên nhận biết các dấu hiệu sớm của sự mệt mỏi, chẳng hạn như ngáp và mất tập trung, và có biện pháp thích hợp để phòng ngừa tai nạn."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Trách nhiệm của tài xế",
+"subcategory":"Nghĩa vụ pháp lý",
+"englishSubcategory":"Legal Obligations",
+"description":"Người lái xe phải xuất trình giấy phép lái xe khi cảnh sát yêu cầu. Từ chối xuất trình giấy phép có thể dẫn đến phạt tiền hoặc các hậu quả pháp lý khác."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Trách nhiệm của tài xế",
+"subcategory":"Sự chú ý và kiểm soát",
+"englishSubcategory":"Attention & Control",
+"description":"Người lái xe nên tránh sử dụng còi xe một cách không cần thiết, vì nó có thể làm giật mình hoặc gây mất tập trung cho những người tham gia giao thông khác. Chỉ nên sử dụng còi để cảnh báo người khác về sự hiện diện của bạn trong những tình huống cần thiết."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Trách nhiệm của tài xế",
+"subcategory":"Quản lý mệt mỏi",
+"englishSubcategory":"Fatigue Management",
+"description":"Nếu cảm thấy quá mệt mỏi không thể tiếp tục lái xe, cách an toàn nhất là dừng lại và nghỉ ngơi trước khi tiếp tục. Lái xe khi mệt mỏi làm tăng đáng kể nguy cơ tai nạn."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Trách nhiệm của tài xế",
+"subcategory":"Nghĩa vụ pháp lý",
+"englishSubcategory":"Legal Obligations",
+"description":"Người lái xe có trách nhiệm đảm bảo hành khách ngồi đúng vị trí và thắt dây an toàn. Điều này bao gồm việc đảm bảo trẻ em được đặt trong ghế an toàn dành cho trẻ em phù hợp và người lớn thắt dây an toàn."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Rượu, Ma túy và Sức khỏe",
+"subcategory":"Giới hạn nồng độ cồn",
+"englishSubcategory":"Alcohol Limits",
+"description":"Tại Victoria, người học lái xe và người lái xe trong thời gian thử việc (P1 và P2) phải duy trì nồng độ cồn trong máu (BAC) ở mức 0.00 mọi lúc. Người lái xe có bằng lái đầy đủ có giới hạn BAC là 0.05, nhưng tốt hơn hết là không nên uống rượu khi lái xe."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Rượu, Ma túy và Sức khỏe",
+"subcategory":"Tác dụng của rượu",
+"englishSubcategory":"Alcohol Effects",
+"description":"Rượu làm suy giảm khả năng phán đoán, thời gian phản xạ và khả năng phối hợp, điều này có thể làm tăng đáng kể nguy cơ tai nạn. Ngay cả một lượng nhỏ rượu cũng có thể làm giảm khả năng lái xe an toàn của bạn."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Rượu, Ma túy và Sức khỏe",
+"subcategory":"Lái xe dưới ảnh hưởng của ma túy",
+"englishSubcategory":"Drug Driving",
+"description":"Lái xe dưới ảnh hưởng của thuốc, bao gồm cả thuốc kê đơn, có thể làm suy giảm khả năng lái xe của bạn, ngay cả khi bạn cảm thấy không bị ảnh hưởng. Điều quan trọng là phải nhận thức được những rủi ro và tránh lái xe sau khi sử dụng thuốc."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Rượu, Ma túy và Sức khỏe",
+"subcategory":"An toàn thuốc",
+"englishSubcategory":"Medication Safety",
+"description":"Trước khi bắt đầu dùng một loại thuốc kê đơn mới, hãy kiểm tra xem thuốc đó có ảnh hưởng đến khả năng lái xe của bạn và tuân thủ lời khuyên của bác sĩ hay không. Một số loại thuốc có thể gây buồn ngủ hoặc làm giảm khả năng tập trung."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Rượu, Ma túy và Sức khỏe",
+"subcategory":"Mệt mỏi & Sức khỏe",
+"englishSubcategory":"Fatigue & Health",
+"description":"Mệt mỏi có thể làm suy giảm khả năng lái xe an toàn của bạn, giống như rượu hoặc ma túy. Hãy đảm bảo bạn ngủ đủ giấc trước khi lái xe và nghỉ ngơi trong những chuyến đi dài để giảm nguy cơ tai nạn do mệt mỏi."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Rượu, Ma túy và Sức khỏe",
+"subcategory":"Tác dụng của rượu",
+"englishSubcategory":"Alcohol Effects",
+"description":"Sau khi uống rượu, chỉ có thời gian mới có thể làm giảm lượng cồn trong cơ thể. Cà phê, tắm nước lạnh hoặc các phương pháp khác không làm tăng tốc quá trình này."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Rượu, Ma túy và Sức khỏe",
+"subcategory":"Giới hạn nồng độ cồn",
+"englishSubcategory":"Alcohol Limits",
+"description":"Tại Victoria, tất cả người học lái xe và người lái xe trong thời gian thử việc phải duy trì nồng độ cồn trong máu (BAC) ở mức 0.00. Đối với người lái xe có bằng lái đầy đủ, giới hạn BAC là 0.05. Tuy nhiên, tránh uống rượu trước khi lái xe luôn là lựa chọn an toàn nhất."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Rượu, Ma túy và Sức khỏe",
+"subcategory":"Lái xe dưới ảnh hưởng của ma túy",
+"englishSubcategory":"Drug Driving",
+"description":"Tại Victoria, bạn có thể bị phạt nếu lái xe khi trong người có một số loại thuốc nhất định, ngay cả khi bạn cảm thấy không bị ảnh hưởng. Việc sử dụng thuốc ảnh hưởng đến khả năng lái xe an toàn và làm tăng nguy cơ tai nạn."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Rượu, Ma túy và Sức khỏe",
+"subcategory":"An toàn thuốc",
+"englishSubcategory":"Medication Safety",
+"description":"Trước khi lái xe, hãy luôn kiểm tra xem các loại thuốc mới có thể ảnh hưởng đến khả năng điều khiển phương tiện của bạn hay không. Một số loại thuốc gây buồn ngủ, làm giảm thời gian phản xạ và giảm khả năng tập trung."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Rượu, Ma túy và Sức khỏe",
+"subcategory":"Mệt mỏi & Sức khỏe",
+"englishSubcategory":"Fatigue & Health",
+"description":"Mệt mỏi có thể gây ảnh hưởng tương tự như rượu bia khi lái xe. Nó làm chậm thời gian phản xạ, làm suy giảm khả năng phán đoán và khả năng đưa ra quyết định, làm tăng nguy cơ tai nạn."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Thực hành lái xe an toàn",
+"subcategory":"Nhận thức nguy hiểm",
+"englishSubcategory":"Hazard Perception",
+"description":"Khi tiếp cận một mối nguy hiểm tiềm tàng, phản ứng an toàn nhất là giảm tốc độ và chuẩn bị dừng lại nếu cần thiết. Điều này giúp bạn có thời gian đánh giá tình hình và phản ứng phù hợp."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Thực hành lái xe an toàn",
+"subcategory":"Nhận thức nguy hiểm",
+"englishSubcategory":"Hazard Perception",
+"description":"Quan sát kỹ phía trước khi lái xe là điều vô cùng quan trọng để phát hiện sớm các mối nguy hiểm tiềm ẩn. Điều này cho phép bạn lên kế hoạch ứng phó và tránh những phản ứng đột ngột."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Thực hành lái xe an toàn",
+"subcategory":"Lái xe phòng thủ",
+"englishSubcategory":"Defensive Driving",
+"description":"Lái xe phòng thủ bao gồm việc dự đoán những sai lầm tiềm tàng của những người tham gia giao thông khác và duy trì khoảng cách an toàn để tránh va chạm."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Thực hành lái xe an toàn",
+"subcategory":"Tình trạng đường xá",
+"englishSubcategory":"Road Conditions",
+"description":"Nếu lốp xe mất độ bám trên đường ướt, hãy nhả chân ga và lái xe nhẹ nhàng. Phanh gấp hoặc rẽ gấp có thể làm tình hình tồi tệ hơn và dẫn đến mất kiểm soát."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Thực hành lái xe an toàn",
+"subcategory":"Nhận thức nguy hiểm",
+"englishSubcategory":"Hazard Perception",
+"description":"Khi lái xe trong điều kiện giao thông đông đúc, vị trí tốt nhất để quan sát các mối nguy hiểm là nhìn xa phía trước và hai bên, chứ không chỉ tập trung vào xe phía trước. Điều này giúp bạn dự đoán rủi ro sớm hơn."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Thực hành lái xe an toàn",
+"subcategory":"Lái xe phòng thủ",
+"englishSubcategory":"Defensive Driving",
+"description":"Nếu xe phía trước đang lạng lách trong làn đường, cách an toàn nhất là tăng khoảng cách an toàn với xe của bạn. Điều này giúp bạn có thêm thời gian phản ứng nếu tình huống trở nên tồi tệ hơn."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Thực hành lái xe an toàn",
+"subcategory":"Tình trạng đường xá",
+"englishSubcategory":"Road Conditions",
+"description":"Mặt đường thường trơn trượt nhất trong vài phút đầu sau khi mưa. Hãy hết sức cẩn thận trong thời gian này, vì dầu và mảnh vụn trên đường có thể khiến việc di chuyển trở nên nguy hiểm hơn."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Thực hành lái xe an toàn",
+"subcategory":"Lái xe ban đêm",
+"englishSubcategory":"Night Driving",
+"description":"Để giảm thiểu hiện tượng chói mắt từ đèn pha xe ngược chiều vào ban đêm, hãy nhìn hơi sang bên trái mép làn đường và giảm tốc độ nếu cần. Điều này giúp tránh tiếp xúc trực tiếp với ánh sáng mạnh."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Thực hành lái xe an toàn",
+"subcategory":"Lái xe phòng thủ",
+"englishSubcategory":"Defensive Driving",
+"description":"Nếu tài xế phía trước đang bám sát xe bạn quá gần, cách an toàn nhất là tăng khoảng cách an toàn với xe phía trước. Điều này sẽ giúp cả bạn và tài xế bám sát có thêm không gian để phản ứng."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Thực hành lái xe an toàn",
+"subcategory":"Tình trạng đường xá",
+"englishSubcategory":"Road Conditions",
+"description":"Khi lái xe trong sương mù, hãy giảm tốc độ và giữ khoảng cách an toàn với các xe khác. Sương mù làm giảm tầm nhìn nghiêm trọng và tăng nguy cơ tai nạn."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Giao lộ, khúc cua và vòng xuyến",
+"subcategory":"Nhường đường",
+"englishSubcategory":"Giving Way",
+"description":"Tại các giao lộ không có biển báo hoặc tín hiệu, xe đi từ bên phải phải nhường đường cho xe đi từ bên trái."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Giao lộ, khúc cua và vòng xuyến",
+"subcategory":"Lượt",
+"englishSubcategory":"Turns",
+"description":"Khi rẽ phải tại đèn giao thông không có mũi tên rẽ phải, bạn phải nhường đường cho xe cộ đi ngược chiều và người đi bộ trước khi tiếp tục di chuyển."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Giao lộ, khúc cua và vòng xuyến",
+"subcategory":"Vòng xoay",
+"englishSubcategory":"Roundabouts",
+"description":"Tại vòng xuyến, các phương tiện đã ở trong vòng xuyến có quyền ưu tiên. Các tài xế đi vào vòng xuyến phải nhường đường cho chúng."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Giao lộ, khúc cua và vòng xuyến",
+"subcategory":"Lượt",
+"englishSubcategory":"Turns",
+"description":"Khi rẽ trái, bạn phải nhường đường cho người đi bộ đang băng qua đường mà bạn đang đi vào, để đảm bảo an toàn cho họ."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Giao lộ, khúc cua và vòng xuyến",
+"subcategory":"Nhường đường",
+"englishSubcategory":"Giving Way",
+"description":"Tại ngã ba hình chữ T, xe trên đường kết thúc phải nhường đường cho xe trên đường tiếp tục."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Giao lộ, khúc cua và vòng xuyến",
+"subcategory":"Lượt",
+"englishSubcategory":"Turns",
+"description":"Khi quay đầu xe, bạn phải nhường đường cho tất cả các phương tiện khác và người đi bộ, đảm bảo an toàn cho họ trong khi bạn quay đầu."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Giao lộ, khúc cua và vòng xuyến",
+"subcategory":"Vòng xoay",
+"englishSubcategory":"Roundabouts",
+"description":"Khi ra khỏi vòng xuyến, hãy bật đèn xi nhan trái ngay trước khi ra khỏi vòng xuyến để thông báo cho những người tham gia giao thông khác biết ý định của bạn."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Giao lộ, khúc cua và vòng xuyến",
+"subcategory":"Nhường đường",
+"englishSubcategory":"Giving Way",
+"description":"Khi đi từ đường vào nhà ra đường chính, bạn phải nhường đường cho tất cả các phương tiện và người đi bộ trên đường để tránh tai nạn."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Giao lộ, khúc cua và vòng xuyến",
+"subcategory":"Lượt",
+"englishSubcategory":"Turns",
+"description":"Trước khi rẽ phải, hãy đưa xe của bạn vào vị trí càng gần vạch kẻ giữa đường càng tốt, đảm bảo việc rẽ diễn ra an toàn và thông thoáng."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Giao lộ, khúc cua và vòng xuyến",
+"subcategory":"Đèn giao thông",
+"englishSubcategory":"Traffic Lights",
+"description":"Mũi tên màu xanh lá cây cho biết bạn có thể tiếp tục đi theo hướng mũi tên mà không cần nhường đường cho các phương tiện giao thông hoặc người đi bộ khác."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Vạch kẻ đường, làn đường và vượt xe",
+"subcategory":"Sử dụng làn đường",
+"englishSubcategory":"Lane Use",
+"description":"Vạch kẻ giữa đường liền mạch thường có nghĩa là bạn không được vượt qua nó, trừ khi đang vào hoặc ra khỏi đường hoặc lối đi riêng."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Vạch kẻ đường, làn đường và vượt xe",
+"subcategory":"Vượt qua",
+"englishSubcategory":"Overtaking",
+"description":"Việc vượt xe bên trái được cho phép trên đường nhiều làn khi các phương tiện giao thông đang di chuyển trên các làn đường riêng biệt đã được đánh dấu và việc đó an toàn."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Vạch kẻ đường, làn đường và vượt xe",
+"subcategory":"Vượt qua",
+"englishSubcategory":"Overtaking",
+"description":"Bạn có thể vượt xe bên trái trên đường một làn khi xe phía trước đang rẽ phải và việc đó an toàn."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Vạch kẻ đường, làn đường và vượt xe",
+"subcategory":"Sử dụng làn đường",
+"englishSubcategory":"Lane Use",
+"description":"Trước khi chuyển làn, hãy bật đèn tín hiệu và đảm bảo an toàn. Điều này giúp những người tham gia giao thông khác biết được ý định của bạn và ngăn ngừa tai nạn."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Vạch kẻ đường, làn đường và vượt xe",
+"subcategory":"Vạch kẻ đường",
+"englishSubcategory":"Road Markings",
+"description":"Vạch sơn phân làn giao thông, hay còn gọi là vạch hình mũi tên, cho biết bạn không được phép lái xe trên đó, nhằm đảm bảo an toàn giao thông."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Vạch kẻ đường, làn đường và vượt xe",
+"subcategory":"Vượt qua",
+"englishSubcategory":"Overtaking",
+"description":"Nếu bạn không chắc chắn việc vượt xe có an toàn hay không, cách an toàn nhất là không vượt. Luôn luôn đánh giá tình huống trước khi thực hiện thao tác."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Vạch kẻ đường, làn đường và vượt xe",
+"subcategory":"Sử dụng làn đường",
+"englishSubcategory":"Lane Use",
+"description":"Vạch kẻ giữa đường đứt đoạn có nghĩa là bạn có thể vượt qua nếu an toàn, cho phép vượt xe hoặc chuyển làn."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Vạch kẻ đường, làn đường và vượt xe",
+"subcategory":"Sử dụng làn đường",
+"englishSubcategory":"Lane Use",
+"description":"Việc đi lấn sang hai làn đường chỉ hợp pháp khi vạch kẻ đường cho phép. Thông thường, điều này không an toàn hoặc không được phép trong hầu hết các điều kiện lái xe."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Vạch kẻ đường, làn đường và vượt xe",
+"subcategory":"Vượt qua",
+"englishSubcategory":"Overtaking",
+"description":"Nếu xe bạn đang vượt bắt đầu tăng tốc, phản ứng an toàn nhất là hủy bỏ việc vượt nếu an toàn và giảm tốc độ."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Vạch kẻ đường, làn đường và vượt xe",
+"subcategory":"Vạch kẻ đường",
+"englishSubcategory":"Road Markings",
+"description":"Vạch kẻ đôi liên tục ở giữa đường có nghĩa là bạn không được phép vượt qua hoặc đi ngang qua nó trong bất kỳ trường hợp nào, đảm bảo giao thông thông suốt và an toàn."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Quy tắc dừng xe, đỗ xe và lưu thông trên đường",
+"subcategory":"Cấm dừng và cấm đỗ xe",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Biển báo \"Cấm dừng\"nghĩa là bạn không được dừng lại chút nào, trong khi biển báo \"Cấm đỗ xe\"cho phép dừng lại trong thời gian ngắn để đón hoặc trả khách."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Quy tắc dừng xe, đỗ xe và lưu thông trên đường",
+"subcategory":"Cấm dừng và cấm đỗ xe",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Trong khu vực cấm đỗ xe, bạn chỉ được phép dừng xe đủ lâu để đón hoặc trả khách."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Quy tắc dừng xe, đỗ xe và lưu thông trên đường",
+"subcategory":"Đỗ xe gần giao lộ",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Việc đỗ xe gần giao lộ thường bị hạn chế vì có thể cản trở tầm nhìn và tạo ra nguy hiểm cho người lái xe và người đi bộ."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Quy tắc dừng xe, đỗ xe và lưu thông trên đường",
+"subcategory":"Cấm dừng và cấm đỗ xe",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Bạn không được phép dừng xe trong khu vực cấm dừng, ngay cả khi bạn đang nghe điện thoại hoặc cần dừng xe nhanh."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Quy tắc dừng xe, đỗ xe và lưu thông trên đường",
+"subcategory":"Đường thông thoáng",
+"englishSubcategory":"Clearways",
+"description":"Làn đường thông thoáng có nghĩa là bạn không được dừng hoặc đỗ xe ở phía đường đó trong thời gian đường hoạt động."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Quy tắc dừng xe, đỗ xe và lưu thông trên đường",
+"subcategory":"Đỗ xe gần các giao lộ",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Dừng xe gần vạch kẻ dành cho người đi bộ rất nguy hiểm vì có thể che khuất người đi bộ khỏi tầm nhìn của người lái xe đang đến gần, làm tăng nguy cơ tai nạn."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Quy tắc dừng xe, đỗ xe và lưu thông trên đường",
+"subcategory":"Dừng lại để đảm bảo an toàn",
+"englishSubcategory":"Stopping for Safety",
+"description":"Bạn chỉ được phép dừng xe ở khu vực cấm dừng nếu điều kiện giao thông yêu cầu hoặc trong trường hợp khẩn cấp."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Quy tắc dừng xe, đỗ xe và lưu thông trên đường",
+"subcategory":"Đỗ xe trên đồi",
+"englishSubcategory":"Parking on Hills",
+"description":"Khi đỗ xe trên dốc, luôn luôn kéo phanh tay và cố định xe để giảm nguy cơ xe bị lật."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Quy tắc dừng xe, đỗ xe và lưu thông trên đường",
+"subcategory":"Đỗ xe gần giao lộ",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Bạn không được đỗ xe quá sát góc đường vì điều đó có thể che khuất tầm nhìn của các phương tiện giao thông và người đi bộ đang đến, gây nguy hiểm."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Quy tắc dừng xe, đỗ xe và lưu thông trên đường",
+"subcategory":"Cấm dừng và cấm đỗ xe",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Biển báo cấm đỗ xe có ghi thời gian nghĩa là quy định này chỉ áp dụng trong khoảng thời gian được hiển thị trên biển báo."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Người đi bộ, người đi xe đạp và người tham gia giao thông dễ bị tổn thương",
+"subcategory":"Người đi bộ",
+"englishSubcategory":"Pedestrians",
+"description":"Khi rẽ, người lái xe phải nhường đường cho người đi bộ đang băng qua đường. Điều này áp dụng ngay cả khi người đi bộ không ở tại vạch sang đường dành riêng."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Người đi bộ, người đi xe đạp và người tham gia giao thông dễ bị tổn thương",
+"subcategory":"Người đi xe đạp",
+"englishSubcategory":"Cyclists",
+"description":"Người lái xe phải chừa thêm khoảng trống khi vượt người đi xe đạp vì họ cần không gian để tránh chướng ngại vật hoặc giữ thăng bằng."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Người đi bộ, người đi xe đạp và người tham gia giao thông dễ bị tổn thương",
+"subcategory":"Người đi bộ",
+"englishSubcategory":"Pedestrians",
+"description":"Gần các khu mua sắm hoặc điểm dừng phương tiện giao thông công cộng, người lái xe nên chú ý đến lượng người đi bộ tăng lên và các trường hợp băng qua đường đột ngột. Luôn luôn cảnh giác ở những khu vực này."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Người đi bộ, người đi xe đạp và người tham gia giao thông dễ bị tổn thương",
+"subcategory":"Người đi xe đạp",
+"englishSubcategory":"Cyclists",
+"description":"Khi người đi xe đạp đang di chuyển trong làn đường dành cho xe đạp đã được đánh dấu, người lái xe ô tô phải tránh lái xe vào làn đường đó trừ khi được phép và an toàn."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Người đi bộ, người đi xe đạp và người tham gia giao thông dễ bị tổn thương",
+"subcategory":"Những đứa trẻ",
+"englishSubcategory":"Children",
+"description":"Người lái xe phải hết sức cẩn thận khi đi gần trường học vì trẻ em có thể hành động khó đoán và phán đoán sai hướng giao thông. Hãy giảm tốc độ khi đi vào khu vực trường học."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Người đi bộ, người đi xe đạp và người tham gia giao thông dễ bị tổn thương",
+"subcategory":"Người đi xe đạp",
+"englishSubcategory":"Cyclists",
+"description":"Nếu người đi xe đạp đang đi ở giữa làn đường hẹp, người lái xe nên đợi đến khi an toàn và có đủ khoảng trống để vượt qua, thay vì cố gắng vượt lên."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Người đi bộ, người đi xe đạp và người tham gia giao thông dễ bị tổn thương",
+"subcategory":"Người đi bộ",
+"englishSubcategory":"Pedestrians",
+"description":"Tại vạch sang đường dành cho trẻ em, người lái xe phải dừng lại khi có cờ hiệu và người đi bộ trên đường, nhằm đảm bảo an toàn cho trẻ em."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Người đi bộ, người đi xe đạp và người tham gia giao thông dễ bị tổn thương",
+"subcategory":"Người đi xe đạp",
+"englishSubcategory":"Cyclists",
+"description":"Người lái xe luôn nên kiểm tra điểm mù trước khi rẽ, vì người đi xe đạp có thể đang di chuyển bên cạnh mà không nhìn thấy, đặc biệt là ở khu vực đô thị."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Người đi bộ, người đi xe đạp và người tham gia giao thông dễ bị tổn thương",
+"subcategory":"Người cao tuổi và người khuyết tật",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Người đi bộ lớn tuổi có thể cần thêm thời gian để qua đường, vì họ có thể đi chậm hơn hoặc gặp khó khăn về khả năng vận động. Hãy dành cho họ không gian và thời gian để qua đường an toàn."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Người đi bộ, người đi xe đạp và người tham gia giao thông dễ bị tổn thương",
+"subcategory":"Người đi xe đạp",
+"englishSubcategory":"Cyclists",
+"description":"Người đi xe đạp có thể khó nhìn thấy hơn khi đến gần các giao lộ, và họ có thể di chuyển rất nhanh. Luôn luôn dành cho người đi xe đạp không gian và thời gian để họ có thể di chuyển an toàn."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Các Tình huống Đặc biệt & Môi trường Đường bộ",
+"subcategory":"Khu vực trường học",
+"englishSubcategory":"School Zones",
+"description":"Giới hạn tốc độ trong khu vực trường học chỉ áp dụng trong khung giờ được ghi trên biển báo. Hãy tuân thủ để đảm bảo an toàn cho trẻ em."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Các Tình huống Đặc biệt & Môi trường Đường bộ",
+"subcategory":"Khu vực trường học",
+"englishSubcategory":"School Zones",
+"description":"Các tài xế phải giảm tốc độ trong khu vực trường học ngay cả khi không nhìn thấy trẻ em, vì trẻ em có thể xuất hiện đột ngột và bất ngờ."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Các Tình huống Đặc biệt & Môi trường Đường bộ",
+"subcategory":"Công trình đường bộ",
+"englishSubcategory":"Roadworks",
+"description":"Khi đến gần khu vực đang thi công đường, hãy giảm tốc độ và tuân theo các biển báo tạm thời để đảm bảo an toàn cho công nhân và những người tham gia giao thông khác."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Các Tình huống Đặc biệt & Môi trường Đường bộ",
+"subcategory":"Công trình đường bộ",
+"englishSubcategory":"Roadworks",
+"description":"Tốc độ giới hạn được giảm trong các khu vực thi công đường để đảm bảo an toàn cho người lao động và phù hợp với những thay đổi về điều kiện đường sá."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Các Tình huống Đặc biệt & Môi trường Đường bộ",
+"subcategory":"Đường nông thôn",
+"englishSubcategory":"Rural Roads",
+"description":"Trên những con đường nông thôn, động vật hoang dã có thể bất ngờ xuất hiện trên đường. Luôn luôn chuẩn bị sẵn sàng dừng lại hoặc giảm tốc độ khi lái xe qua các khu vực nông thôn."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Các Tình huống Đặc biệt & Môi trường Đường bộ",
+"subcategory":"Đường nông thôn",
+"englishSubcategory":"Rural Roads",
+"description":"Đường đất thường có độ bám đường và khả năng phanh kém hơn. Người lái xe nên giảm tốc độ khi lái xe trên những con đường không được trải nhựa."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Các Tình huống Đặc biệt & Môi trường Đường bộ",
+"subcategory":"Đường cao tốc",
+"englishSubcategory":"Freeways",
+"description":"Nếu bạn lỡ lối ra đường cao tốc, hãy tiếp tục đến lối ra tiếp theo và quay đầu xe một cách an toàn. Không được cố gắng dừng lại hoặc lùi xe trên đường cao tốc."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Các Tình huống Đặc biệt & Môi trường Đường bộ",
+"subcategory":"Đường cao tốc",
+"englishSubcategory":"Freeways",
+"description":"Việc dừng xe trên đường cao tốc là bất hợp pháp, trừ trường hợp khẩn cấp. Luôn sử dụng lề đường hoặc lối ra đường cao tốc trong trường hợp xe bị hỏng."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Các Tình huống Đặc biệt & Môi trường Đường bộ",
+"subcategory":"Điều kiện thời tiết",
+"englishSubcategory":"Weather Conditions",
+"description":"Trong điều kiện mưa lớn, hãy giảm tốc độ và tăng khoảng cách an toàn với xe phía trước. Đường ướt có thể làm giảm độ bám đường và kéo dài quãng đường phanh."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Các Tình huống Đặc biệt & Môi trường Đường bộ",
+"subcategory":"Điều kiện thời tiết",
+"englishSubcategory":"Weather Conditions",
+"description":"Sương mù làm giảm tầm nhìn và khả năng nhận biết khoảng cách, khiến việc lái xe trở nên đặc biệt nguy hiểm. Hãy giảm tốc độ và tăng khoảng cách an toàn với xe phía trước khi lái xe trong điều kiện sương mù."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Hướng dẫn dành cho xe cứu thương và cảnh sát",
+"subcategory":"Xe cứu hộ khẩn cấp bị lật",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Khi xe cứu hộ đang đến gần với đèn báo hiệu và/hoặc còi hú, hãy tránh đường và cho phép xe đi qua an toàn."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Hướng dẫn dành cho xe cứu thương và cảnh sát",
+"subcategory":"Xe cứu hộ khẩn cấp bị lật",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Nếu bạn đang dừng đèn đỏ và có xe cứu thương đến từ phía sau, cách an toàn nhất là chuyển làn nếu an toàn và hợp pháp, nếu không thì cứ đứng yên và để xe đi qua nếu có thể."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Hướng dẫn dành cho xe cứu thương và cảnh sát",
+"subcategory":"Hướng dẫn của cảnh sát",
+"englishSubcategory":"Police Directions",
+"description":"Nếu một cảnh sát hướng dẫn bạn khác với biển báo, bạn phải tuân theo hướng dẫn của cảnh sát."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Hướng dẫn dành cho xe cứu thương và cảnh sát",
+"subcategory":"Xe cứu hộ khẩn cấp bị lật",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Nếu thấy xe cứu hộ dừng lại và bật đèn báo hiệu bên vệ đường, hãy giảm tốc độ và vượt qua một cách thận trọng, chuyển làn nếu an toàn."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Hướng dẫn dành cho xe cứu thương và cảnh sát",
+"subcategory":"Hướng dẫn của cảnh sát",
+"englishSubcategory":"Police Directions",
+"description":"Nếu cảnh sát thiết lập chốt chặn tạm thời, hãy tuân theo hướng dẫn của họ và mọi tuyến đường vòng."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Hướng dẫn dành cho xe cứu thương và cảnh sát",
+"subcategory":"Xe cứu hộ khẩn cấp bị lật",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Bạn không nên bám sát phía sau xe cứu thương để vượt qua dòng xe cộ nhanh hơn."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Hướng dẫn dành cho xe cứu thương và cảnh sát",
+"subcategory":"Xe cứu hộ khẩn cấp bị lật",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Nếu bạn nghe thấy tiếng còi báo động nhưng chưa nhìn thấy xe cứu thương, hãy cảnh giác, kiểm tra gương chiếu hậu và sẵn sàng di chuyển một cách an toàn."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Hướng dẫn dành cho xe cứu thương và cảnh sát",
+"subcategory":"Hướng dẫn của cảnh sát",
+"englishSubcategory":"Police Directions",
+"description":"Nếu nhân viên điều khiển giao thông tại khu vực thi công đường đưa ra chỉ dẫn, bạn phải tuân theo chỉ dẫn của nhân viên điều khiển giao thông."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Hướng dẫn dành cho xe cứu thương và cảnh sát",
+"subcategory":"Hướng dẫn của cảnh sát",
+"englishSubcategory":"Police Directions",
+"description":"Nếu cảnh sát yêu cầu bạn dừng xe để kiểm tra giấy phép lái xe, hãy dừng xe an toàn theo hướng dẫn."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Hướng dẫn dành cho xe cứu thương và cảnh sát",
+"subcategory":"Xe cứu hộ khẩn cấp bị lật",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Nếu bạn đang đi trong làn đường đơn và có xe cứu thương đến từ phía sau, hãy bật đèn xi nhan và chuyển sang làn bên trái hoặc đến vị trí an toàn nếu có thể."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Dây an toàn, ghế an toàn cho trẻ em và hành khách",
+"subcategory":"Dây an toàn",
+"englishSubcategory":"Seatbelts",
+"description":"Người lái xe có trách nhiệm đảm bảo tất cả hành khách dưới 16 tuổi thắt dây an toàn."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Dây an toàn, ghế an toàn cho trẻ em và hành khách",
+"subcategory":"Dây an toàn",
+"englishSubcategory":"Seatbelts",
+"description":"Nếu xe có trang bị dây an toàn, người lái phải luôn thắt dây an toàn khi xe đang di chuyển."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Dây an toàn, ghế an toàn cho trẻ em và hành khách",
+"subcategory":"Ghế an toàn cho trẻ em",
+"englishSubcategory":"Child Restraints",
+"description":"Ghế an toàn cho trẻ em là bắt buộc vì nó được thiết kế để phù hợp và bảo vệ kích thước và hình dáng cơ thể của trẻ hiệu quả hơn so với dây an toàn dành cho người lớn."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Dây an toàn, ghế an toàn cho trẻ em và hành khách",
+"subcategory":"Hành khách",
+"englishSubcategory":"Passengers",
+"description":"Hành khách không được phép đặt chân lên bảng điều khiển vì túi khí và lực va chạm có thể gây ra thương tích nghiêm trọng."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Dây an toàn, ghế an toàn cho trẻ em và hành khách",
+"subcategory":"Ghế an toàn cho trẻ em",
+"englishSubcategory":"Child Restraints",
+"description":"Nguyên tắc chung an toàn nhất khi chọn ghế an toàn cho trẻ em là sử dụng loại đã được phê duyệt và phù hợp với độ tuổi và kích thước của trẻ."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Dây an toàn, ghế an toàn cho trẻ em và hành khách",
+"subcategory":"Dây an toàn",
+"englishSubcategory":"Seatbelts",
+"description":"Một dấu hiệu phổ biến cho thấy dây an toàn không được thắt đúng cách là khi dây đai nằm dưới cánh tay hoặc phía sau lưng."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Dây an toàn, ghế an toàn cho trẻ em và hành khách",
+"subcategory":"Hành khách",
+"englishSubcategory":"Passengers",
+"description":"Nếu hành khách làm người lái xe mất tập trung, cách an toàn nhất là yêu cầu họ dừng lại và tập trung lại vào việc lái xe."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Dây an toàn, ghế an toàn cho trẻ em và hành khách",
+"subcategory":"Ghế an toàn cho trẻ em",
+"englishSubcategory":"Child Restraints",
+"description":"Việc bế em bé trên lòng trong xe đang di chuyển là không an toàn vì bạn không thể giữ bé chắc chắn trong trường hợp va chạm."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Dây an toàn, ghế an toàn cho trẻ em và hành khách",
+"subcategory":"Dây an toàn",
+"englishSubcategory":"Seatbelts",
+"description":"Nên thắt dây an toàn sao cho phần ngang hông được đặt thấp xuống để giảm nguy cơ chấn thương vùng bụng trong trường hợp va chạm."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Dây an toàn, ghế an toàn cho trẻ em và hành khách",
+"subcategory":"Hành khách",
+"englishSubcategory":"Passengers",
+"description":"Một rủi ro chính khi mang theo các vật dụng không được cố định trong khoang máy bay là chúng có thể trở thành vật phóng trong trường hợp va chạm hoặc dừng đột ngột."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Những kiến thức cơ bản về an toàn xe, lỗi và bảo dưỡng",
+"subcategory":"Lốp xe",
+"englishSubcategory":"Tyres",
+"description":"Áp suất lốp đúng rất quan trọng đối với sự an toàn vì nó ảnh hưởng đến độ bám đường, khả năng phanh và khả năng điều khiển lái."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Những kiến thức cơ bản về an toàn xe, lỗi và bảo dưỡng",
+"subcategory":"Phanh",
+"englishSubcategory":"Brakes",
+"description":"Nếu bạn cảm thấy bàn đạp phanh bị mềm hoặc lún sâu hơn bình thường, hãy coi đó là một lỗi nghiêm trọng và kiểm tra hệ thống phanh ngay lập tức."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Những kiến thức cơ bản về an toàn xe, lỗi và bảo dưỡng",
+"subcategory":"Ánh sáng và tầm nhìn",
+"englishSubcategory":"Lights & Visibility",
+"description":"Thường xuyên kiểm tra tất cả đèn xe để đảm bảo bạn có thể nhìn thấy và được người khác nhìn thấy."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Những kiến thức cơ bản về an toàn xe, lỗi và bảo dưỡng",
+"subcategory":"Hệ thống lái và hệ thống treo",
+"englishSubcategory":"Steering & Suspension",
+"description":"Dấu hiệu cảnh báo về vấn đề hệ thống lái có thể bao gồm hiện tượng xe bị kéo lệch bất thường, rung lắc hoặc khó điều khiển vô lăng."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Những kiến thức cơ bản về an toàn xe, lỗi và bảo dưỡng",
+"subcategory":"Kính chắn gió và cần gạt nước",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Lưỡi gạt mưa bị mòn là một vấn đề an toàn vì chúng làm giảm tầm nhìn khi trời mưa."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Những kiến thức cơ bản về an toàn xe, lỗi và bảo dưỡng",
+"subcategory":"Lốp xe",
+"englishSubcategory":"Tyres",
+"description":"Dấu hiệu phổ biến cho thấy lốp xe có thể không an toàn là khi gai lốp bị mòn hoặc mòn không đều."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Những kiến thức cơ bản về an toàn xe, lỗi và bảo dưỡng",
+"subcategory":"Gương & Điều chỉnh",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Nên điều chỉnh gương chiếu hậu trước khi lái xe để giảm điểm mù và tăng khả năng quan sát."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Những kiến thức cơ bản về an toàn xe, lỗi và bảo dưỡng",
+"subcategory":"Phanh",
+"englishSubcategory":"Brakes",
+"description":"Nếu phanh xe của bạn phát ra tiếng kêu ken két, hãy kiểm tra chúng càng sớm càng tốt."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Những kiến thức cơ bản về an toàn xe, lỗi và bảo dưỡng",
+"subcategory":"Ánh sáng và tầm nhìn",
+"englishSubcategory":"Lights & Visibility",
+"description":"Hãy bật đèn pha khi tầm nhìn kém để người khác có thể nhìn thấy bạn."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Những kiến thức cơ bản về an toàn xe, lỗi và bảo dưỡng",
+"subcategory":"Kính chắn gió và cần gạt nước",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Nếu kính chắn gió của bạn bị nứt nghiêm trọng, ảnh hưởng đến tầm nhìn, hãy sửa chữa hoặc thay thế nó trước khi tiếp tục lái xe."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Nhận thức về tải trọng, kéo xe và xe tải nặng",
+"subcategory":"Hàng hóa",
+"englishSubcategory":"Loads",
+"description":"Hàng hóa phải được chèn buộc chắc chắn để tránh bị xê dịch hoặc rơi và gây tai nạn."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Nhận thức về tải trọng, kéo xe và xe tải nặng",
+"subcategory":"Hàng hóa",
+"englishSubcategory":"Loads",
+"description":"Hàng hóa không được cố định chắc chắn bên trong xe có thể trở thành vật phóng khi phanh gấp, gây ra rủi ro an toàn đáng kể."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Nhận thức về tải trọng, kéo xe và xe tải nặng",
+"subcategory":"Hàng hóa",
+"englishSubcategory":"Loads",
+"description":"Việc chở quá tải ảnh hưởng đến khả năng phanh bằng cách làm tăng quãng đường dừng xe."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Nhận thức về tải trọng, kéo xe và xe tải nặng",
+"subcategory":"Hàng hóa",
+"englishSubcategory":"Loads",
+"description":"Cách an toàn nhất để mang theo những vật dài là cố định chúng sao cho chúng không thể di chuyển hoặc nhô ra gây nguy hiểm."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Nhận thức về tải trọng, kéo xe và xe tải nặng",
+"subcategory":"Kéo xe",
+"englishSubcategory":"Towing",
+"description":"Việc kéo rơ moóc làm tăng quãng đường phanh vì trọng lượng tăng thêm làm giảm hiệu quả phanh."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Nhận thức về tải trọng, kéo xe và xe tải nặng",
+"subcategory":"Kéo xe",
+"englishSubcategory":"Towing",
+"description":"Trước khi kéo rơ moóc, hãy kiểm tra xem khớp nối, đèn và dây xích an toàn đã được cố định chắc chắn chưa."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Nhận thức về tải trọng, kéo xe và xe tải nặng",
+"subcategory":"Kéo xe",
+"englishSubcategory":"Towing",
+"description":"Hãy chừa thêm khoảng trống khi quay đầu xe trong lúc kéo rơ moóc, vì rơ moóc sẽ di chuyển bên trong đường quay."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Nhận thức về tải trọng, kéo xe và xe tải nặng",
+"subcategory":"Hàng hóa",
+"englishSubcategory":"Loads",
+"description":"Việc chở hàng che khuất tầm nhìn phía sau làm giảm khả năng quan sát giao thông phía sau, làm tăng nguy cơ tai nạn."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Nhận thức về tải trọng, kéo xe và xe tải nặng",
+"subcategory":"Xe tải hạng nặng",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Các phương tiện hạng nặng cần nhiều không gian hơn để dừng lại vì khối lượng lớn hơn của chúng làm tăng quãng đường phanh."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Nhận thức về tải trọng, kéo xe và xe tải nặng",
+"subcategory":"Xe tải hạng nặng",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Khi đi sau xe tải lớn, hãy tăng khoảng cách an toàn để bù đắp cho điểm mù và quãng đường phanh dài hơn của xe tải."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Cấp phép, Quy định về biển số L/P và Những cạm bẫy thực tế khi lái xe (VIC)",
+"subcategory":"Quy tắc giấy phép học lái xe",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Là người học lái xe ở Victoria, bạn chỉ được phép lái xe khi có người lái xe có giấy phép hợp lệ ngồi bên cạnh giám sát."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Cấp phép, Quy định về biển số L/P và Những cạm bẫy thực tế khi lái xe (VIC)",
+"subcategory":"Quy tắc giấy phép học lái xe",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Người học lái xe phải gắn biển L (biển chữ L) rõ ràng để những người khác trên xe có thể nhìn thấy mọi lúc."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Cấp phép, Quy định về biển số L/P và Những cạm bẫy thực tế khi lái xe (VIC)",
+"subcategory":"Quy tắc giấy phép học lái xe",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Nếu người hướng dẫn lái xe ngủ gật trong khi bạn đang lái xe, hãy dừng xe an toàn và không tiếp tục cho đến khi có người giám sát đầy đủ."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Cấp phép, Quy định về biển số L/P và Những cạm bẫy thực tế khi lái xe (VIC)",
+"subcategory":"Điện thoại di động & Thiết bị",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Là người học lái xe ở Victoria, bạn không được phép sử dụng điện thoại di động dưới bất kỳ hình thức nào khi đang lái xe."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Cấp phép, Quy định về biển số L/P và Những cạm bẫy thực tế khi lái xe (VIC)",
+"subcategory":"Quy tắc giấy phép học lái xe",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Nếu biển báo tập lái (L plates) của bạn bị rơi ra khi đang lái xe, hãy dừng xe an toàn và gắn lại trước khi tiếp tục lái."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Cấp phép, Quy định về biển số L/P và Những cạm bẫy thực tế khi lái xe (VIC)",
+"subcategory":"Giám sát",
+"englishSubcategory":"Supervision",
+"description":"Mục đích chính của các quy tắc giám sát người học lái xe là để đảm bảo người lái xe có kinh nghiệm có thể hướng dẫn và can thiệp khi cần thiết."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Cấp phép, Quy định về biển số L/P và Những cạm bẫy thực tế khi lái xe (VIC)",
+"subcategory":"Điều kiện & Tuân thủ",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Nếu người học lái xe bị bắt gặp lái xe mà không có người giám sát theo quy định, họ có thể sẽ phải chịu hình phạt và hậu quả về việc bị cấp giấy phép lái xe."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Cấp phép, Quy định về biển số L/P và Những cạm bẫy thực tế khi lái xe (VIC)",
+"subcategory":"Nhận thức nguy hiểm",
+"englishSubcategory":"Hazard Perception",
+"description":"Một lỗi thường gặp ở các giao lộ đối với người mới lái xe là rẽ mà không kiểm tra xem có người đi bộ băng qua đường hay không."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Cấp phép, Quy định về biển số L/P và Những cạm bẫy thực tế khi lái xe (VIC)",
+"subcategory":"Nhận thức nguy hiểm",
+"englishSubcategory":"Hazard Perception",
+"description":"Ngay cả khi đèn xanh, bạn vẫn phải giảm tốc độ hoặc dừng lại nếu phía trước có tắc đường hoặc người đi bộ đang băng qua đường."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Cấp phép, Quy định về biển số L/P và Những cạm bẫy thực tế khi lái xe (VIC)",
+"subcategory":"Quy tắc giấy phép học lái xe",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Nếu bạn đang hướng dẫn người học lái xe, người hướng dẫn luôn phải ngồi ở ghế phụ phía trước."
+}
+]

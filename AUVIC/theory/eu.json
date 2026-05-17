@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Errepideko arauak eta legeak",
+"subcategory":"Errepideko Arau Orokorrak",
+"englishSubcategory":"General Road Rules",
+"description":"Gidariek errepideko arau orokorrak bete behar dituzte segurtasuna eta trafikoaren fluxu leuna bermatzeko. Horrek trafiko seinaleak, seinaleak eta errei markaketak betetzea barne hartzen du. Arau hauek ez betetzeak istripuak eta isunak ekar ditzake."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Errepideko arauak eta legeak",
+"subcategory":"Bidea Ematea",
+"englishSubcategory":"Giving Way",
+"description":"Gidariek beste ibilgailuei edo oinezkoei lehentasuna eman behar diete bidegurutzeetan, biribilguneetan eta oinezkoentzako pasabideetan, besteak beste. Lehentasuna ez ematea arau-haustea da."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Errepideko arauak eta legeak",
+"subcategory":"Erreiaren erabilera",
+"englishSubcategory":"Lane Use",
+"description":"Gidariek errei egokiak erabili eta errei-markak jarraitu behar dituzte. Horrek errei-aldaketak, aurreratzeak eta bizikleta- edo autobus-erreiak erabiltzearen arauak barne hartzen ditu. Arau-hausteak isunak edo istripuak ekar ditzake."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Errepideko arauak eta legeak",
+"subcategory":"Tranbiak",
+"englishSubcategory":"Trams",
+"description":"Gidariek tranbiaren arauak ezagutu behar dituzte, besteak beste, oinezkoei bidea eman behar diete tranbia geltokietan, ateak irekita dituzten tranbiak gelditzea eta baldintza jakin batzuetan tranbiak ez aurreratzea."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Errepideko arauak eta legeak",
+"subcategory":"Bidegurutzeak",
+"englishSubcategory":"Intersections",
+"description":"Bidegurutzeetan, gidariek prozedura zuzenak jarraitu behar dituzte stop seinaleetan edo semaforoetan lehentasuna emateko eta gelditzeko. Arau hauek ulertzea ezinbestekoa da istripuak saihesteko."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Errepideko arauak eta legeak",
+"subcategory":"Biraka",
+"englishSubcategory":"U-Turns",
+"description":"U-bira egitea bidegurutzeetan edo debekatzen duen seinalerik ez dagoenean bakarrik baimenduta dago. Gidariek ziurtatu behar dute segurua dela U-bira egin aurretik."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Errepideko arauak eta legeak",
+"subcategory":"Abiadura mugak",
+"englishSubcategory":"Speed Limits",
+"description":"Gidariek abiadura mugak errespetatu behar dituzte errepideko segurtasuna bermatzeko. Abiadura gehiegi hartzeak isunak, gidabaimena galtzea eta istripu arriskua areagotzea ekar dezake."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Errepideko arauak eta legeak",
+"subcategory":"Oinezkoen Segurtasuna",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Gidariek oinezkoei eman behar diete bidea pasabideetan eta haien segurtasuna bermatu behar dute oinezkoentzako guneen ondoan daudenean. Oinezkoen pasabideetan gelditzen ez badira, arau-haustea da."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Errepideko arauak eta legeak",
+"subcategory":"Trenbide-pasabideak",
+"englishSubcategory":"Railway Crossings",
+"description":"Gidariek trenbide-pasaguneetan gelditu behar dute semaforoak keinuka ari direnean edo ateak jaitsita daudenean. Seinale hauek ez kontuan hartzea arau-hauste larria da eta isunak eta istripuak ekar ditzake."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Errepideko arauak eta legeak",
+"subcategory":"Larrialdietako ibilgailuak",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Gidariek larrialdietako ibilgailuei eman behar diete bidea argi keinukariak eta sirenak erabiliz, ibilgailuak trafikoan zehar ibiltzeko bidea garbi duela ziurtatuz."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Trafiko Seinaleak eta Seinaleak",
+"subcategory":"Arauzko seinaleak",
+"englishSubcategory":"Regulatory Signs",
+"description":"Errepideetan segurtasuna eta ordena mantentzeko, arauzko seinaleek gidarientzako derrigorrezko argibideak ematen dituzte, hala nola abiadura mugak, biraketa murrizketak eta sarrera debekatuta dauden seinaleak. Seinale hauek betetzea derrigorrezkoa da legez."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Trafiko Seinaleak eta Seinaleak",
+"subcategory":"Abisu seinaleak",
+"englishSubcategory":"Warning Signs",
+"description":"Abisu seinaleek gidariei arrisku potentzialen berri ematen diete, hala nola bihurgune itxiak, eskola eremuak eta faunaren pasabideak. Seinale hauek gidariei gidatzea egokitzen laguntzen diete istripuak saihesteko."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Trafiko Seinaleak eta Seinaleak",
+"subcategory":"Abiadura seinaleak",
+"englishSubcategory":"Speed Signs",
+"description":"Abiadura seinaleak errepide batean baimendutako gehienezko edo gutxieneko abiadura adierazten dute. Gidariek muga hauek errespetatu behar dituzte gidatzeko baldintza seguruak bermatzeko eta isunak saihesteko."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Trafiko Seinaleak eta Seinaleak",
+"subcategory":"Semaforoak",
+"englishSubcategory":"Traffic Lights",
+"description":"Semaforoek ibilgailuen eta oinezkoen fluxua kontrolatzen dute bidegurutzeetan. Gorriak gelditu esan nahi du, berdeak aurrera, eta horiak gelditzeko prestatzeko abisua da."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Trafiko Seinaleak eta Seinaleak",
+"subcategory":"Oinezkoentzako seinaleak",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Oinezkoentzako seinaleek oinezkoek errepidea zeharkatzea noiz den segurua adierazten dute. Seinale hauek normalean semaforoekin koordinatzen dira oinezkoen segurtasuna bermatzeko."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Trafiko Seinaleak eta Seinaleak",
+"subcategory":"Errei Kontrol Seinaleak",
+"englishSubcategory":"Lane Control Signals",
+"description":"Errei-kontrol seinaleak erreia irekita edo itxita dagoen adierazteko erabiltzen dira. Seinale hauek normalean errei anitzeko errepideetan eta tuneletan erabiltzen dira."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Trafiko Seinaleak eta Seinaleak",
+"subcategory":"Aparkalekurik ez seinaleak",
+"englishSubcategory":"No Parking Signs",
+"description":"Aparkatzea debekatuta dagoen seinaleak gelditzea edo aparkatzea debekatuta dagoen eremuak adierazten ditu. Hau normalean trafikoa ondo joan dadin eta segurtasuna mantentzen dela ziurtatzeko da."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Trafiko Seinaleak eta Seinaleak",
+"subcategory":"Noranzko bakarreko seinaleak",
+"englishSubcategory":"One-Way Signs",
+"description":"Noranzko bakarreko seinaleek trafikoa norabide bakarrean joan behar dela adierazten dute. Seinale hauek ez errespetatzeak istripuak eta ondorio legalak ekar ditzake."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Trafiko Seinaleak eta Seinaleak",
+"subcategory":"Gelditu seinaleak",
+"englishSubcategory":"Stop Signs",
+"description":"Stop seinaleek gidariei guztiz gelditzea eta beste ibilgailu edo oinezkoei lehentasuna ematea eskatzen diete aurrera egin aurretik."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Trafiko Seinaleak eta Seinaleak",
+"subcategory":"Eman bide seinaleak",
+"englishSubcategory":"Give Way Signs",
+"description":"Lehentasuna emateko seinaleek gidariei adierazten diete errepideko beste erabiltzaileei, oinezkoei edo ibilgailuei, egoeraren arabera, istripuak saihesteko."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Abiadura eta Distantzia Arauak",
+"subcategory":"Abiadura mugak",
+"englishSubcategory":"Speed Limits",
+"description":"Victoriako hirigune batean abiadura muga 50 km/h da, bestelako seinalerik ez badago. Begiratu beti seinaleak, abiadura muga legalaren barruan gidatzen ari zarela ziurtatzeko."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Abiadura eta Distantzia Arauak",
+"subcategory":"Abiadura mugak",
+"englishSubcategory":"Speed Limits",
+"description":"Eskola-eremu seinaleztatu batean, seinalean zehaztutako ordutegian, abiadura-muga 40 km/h-ra murrizten da errepidea zeharkatzen duten haurren segurtasuna bermatzeko."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Abiadura eta Distantzia Arauak",
+"subcategory":"Jarraitzeko distantzia",
+"englishSubcategory":"Following Distance",
+"description":"Baldintza idealetan, gutxieneko segurtasun-distantzia aurreko ibilgailuaren atzetik bi segundokoa da gutxienez. Horrek denbora nahikoa ematen du aurreko ibilgailua bat-batean gelditzen bada erreakzionatzeko."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Abiadura eta Distantzia Arauak",
+"subcategory":"Abiadura mugak",
+"englishSubcategory":"Speed Limits",
+"description":"Segurtasun-eremu batean geldituta dagoen tranbia bat aurreratzean, abiadura 10 km/h-ra murriztu behar duzu tranbiara igotzen edo jaisten diren bidaiarien segurtasuna bermatzeko."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Abiadura eta Distantzia Arauak",
+"subcategory":"Abiadura mugak",
+"englishSubcategory":"Speed Limits",
+"description":"Abiadura-seinalerik gabeko landa-errepideetan, abiadura-muga lehenetsia 100 km/h da, tokiko seinaleek bestelakorik adierazten ez badute behintzat. Egokitu abiadura errepidearen baldintzetara segurtasuna mantentzeko."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Abiadura eta Distantzia Arauak",
+"subcategory":"Jarraitzeko distantzia",
+"englishSubcategory":"Following Distance",
+"description":"Eguraldi hezean, jarraitzeko distantzia gutxienez lau segundora handitu beharko zenuke. Errepide hezeek trakzioa murrizten dute, eta denbora gehiago behar da segurtasunez gelditzeko."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Abiadura eta Distantzia Arauak",
+"subcategory":"Abiadura mugak",
+"englishSubcategory":"Speed Limits",
+"description":"Errespetatu abiadura mugako seinale elektroniko aldakorrak martxan daudenean uneoro. Seinale hauek abiadura mugak doitzen dituzte trafikoaren egoeraren, eguraldiaren edo errepideko gorabeheren arabera."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Abiadura eta Distantzia Arauak",
+"subcategory":"Gelditzeko distantzia",
+"englishSubcategory":"Stopping Distance",
+"description":"Abiadura handitzen den heinean, ibilgailua segurtasunez gelditzeko behar den gelditze-distantzia ere handitzen da. Ziurtatu beti arriskuei erreakzionatzeko nahikoa distantzia duzula."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Abiadura eta Distantzia Arauak",
+"subcategory":"Abiadura mugak",
+"englishSubcategory":"Speed Limits",
+"description":"Eremu partekatuetan, abiadura muga normalean 10 km/h-koa da, ibilgailuek eta motorrik gabeko errepideko erabiltzaileek elkarreragiten duten eremu horietan oinezkoen eta txirrindularien segurtasuna bermatzeko."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Abiadura eta Distantzia Arauak",
+"subcategory":"Jarraitzeko distantzia",
+"englishSubcategory":"Following Distance",
+"description":"Atzetik gidatzea arriskutsua da, erreakzio eta balaztatze denbora murrizten duelako. Mantendu beti jarraitzeko distantzia seguru bat, batez ere ikusmena oztopatu dezaketen ibilgailu handien atzetik gidatzen duzunean."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Gidariaren erantzukizunak",
+"subcategory":"Legezko betebeharrak",
+"englishSubcategory":"Legal Obligations",
+"description":"Gidariek hainbat legezko betebehar bete behar dituzte, hala nola istripu baten ondoren laguntza ematea, istripuen ondoren xehetasunak trukatzea eta legeak eskatzen duen moduan agintariei gertakarien berri ematea."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Gidariaren erantzukizunak",
+"subcategory":"Arreta eta Kontrola",
+"englishSubcategory":"Attention & Control",
+"description":"Gidariek uneoro ibilgailuaren kontrolpean izan behar dute, arreta mantenduz eta beren segurtasuna eta errepideko beste erabiltzaileena bermatzeko."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Gidariaren erantzukizunak",
+"subcategory":"Legezko betebeharrak",
+"englishSubcategory":"Legal Obligations",
+"description":"Istripu batek lesioak eragiten baditu, gidariek gelditu eta ahal den guztietan laguntza eman behar dute. Halako egoeretan gelditu eta laguntza ez ematea lege-urraketa da."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Gidariaren erantzukizunak",
+"subcategory":"Arreta eta Kontrola",
+"englishSubcategory":"Attention & Control",
+"description":"Ezinbestekoa da gidariek uneoro ibilgailuaren kontrol osoa izatea, trafiko-baldintza aldakorrei behar bezala erantzuten dietela eta gidatzeko ingurune segurua mantentzea bermatuz."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Gidariaren erantzukizunak",
+"subcategory":"Legezko betebeharrak",
+"englishSubcategory":"Legal Obligations",
+"description":"Gidariek istripua poliziari jakinarazi behar diote norbait zauritu bada edo ondasunak kaltetu badira, eta datuak ezin badira trukatu. Gertakari horien berri ez emateak isunak ekar ditzake."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Gidariaren erantzukizunak",
+"subcategory":"Nekearen kudeaketa",
+"englishSubcategory":"Fatigue Management",
+"description":"Nekea arrisku larria da gidatzen ari zaren bitartean. Gidariek nekearen hasierako zantzuak kontuan izan behar dituzte, hala nola bostekoa eta kontzentrazio galera, eta neurri egokiak hartu behar dituzte istripuak saihesteko."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Gidariaren erantzukizunak",
+"subcategory":"Legezko betebeharrak",
+"englishSubcategory":"Legal Obligations",
+"description":"Gidariek gidabaimena erakutsi behar dute poliziak eskatzen dienean. Gidabaimena emateari uko egiteak zigorrak edo ondorio legal gehiago ekar ditzake."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Gidariaren erantzukizunak",
+"subcategory":"Arreta eta Kontrola",
+"englishSubcategory":"Attention & Control",
+"description":"Gidariek saihestu behar dute klaxona beharrezkoa ez bada erabiltzea, errepideko beste erabiltzaileak izutu edo arreta galarazi baititzake. Klaxona beharrezkoa den egoeretan bakarrik erabili behar da besteak zure presentziaz ohartarazteko."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Gidariaren erantzukizunak",
+"subcategory":"Nekearen kudeaketa",
+"englishSubcategory":"Fatigue Management",
+"description":"Gidatzen jarraitzeko nekatuegi sentitzen bazara, erantzunik seguruena gelditu eta atseden hartzea da jarraitu aurretik. Nekatuta gidatzea nabarmen handitzen du istripuen arriskua."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Gidariaren erantzukizunak",
+"subcategory":"Legezko betebeharrak",
+"englishSubcategory":"Legal Obligations",
+"description":"Gidarien ardura da bidaiariak segurtasunez eserita eta lotuta daudela ziurtatzea. Horrek barne hartzen du haurrak haurrentzako segurtasun-uhal egokietan daudela eta helduek segurtasun-uhalak janztea."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkohola, drogak eta osasuna",
+"subcategory":"Alkoholaren mugak",
+"englishSubcategory":"Alcohol Limits",
+"description":"Victorian, gidari hasiberriek eta probaldi-aldian dauden gidariek (P1 eta P2) 0,00ko odol-alkohol-kontzentrazioa (BAC) mantendu behar dute uneoro. Gidari-baimena dutenek 0,05eko BAC muga dute, baina seguruagoa da batere ez edatea gidatzen ari zaren bitartean."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkohola, drogak eta osasuna",
+"subcategory":"Alkoholaren efektuak",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkoholak epaimena, erreakzio-denbora eta koordinazioa kaltetzen ditu, eta horrek istripuen arriskua nabarmen handitu dezake. Alkohol kantitate txikiek ere segurtasunez gidatzeko gaitasuna murriztu dezakete."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkohola, drogak eta osasuna",
+"subcategory":"Drogak gidatzea",
+"englishSubcategory":"Drug Driving",
+"description":"Drogen eraginpean gidatzeak, errezeta bidezko botikak barne, gidatzeko gaitasuna kaltetu dezake, nahiz eta ondo sentitu. Garrantzitsua da arriskuen jakitun izatea eta drogak kontsumitu ondoren gidatzea saihestea."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkohola, drogak eta osasuna",
+"subcategory":"Medikazioen Segurtasuna",
+"englishSubcategory":"Medication Safety",
+"description":"Errezeta-botika berri bat hartzen hasi aurretik, egiaztatu gidatzeko gaitasunean eragiten duen eta jarraitu medikuaren aholkuak. Botika batzuek logura eragin edo kontzentrazioa kaltetu dezakete."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkohola, drogak eta osasuna",
+"subcategory":"Nekea eta Osasuna",
+"englishSubcategory":"Fatigue & Health",
+"description":"Nekeak segurtasunez gidatzeko gaitasuna kaltetu dezake, alkoholak edo drogek bezala. Ziurtatu nahikoa atseden hartzen duzula gidatu aurretik, eta hartu atsedenaldiak bidaia luzeetan nekearekin lotutako istripuen arriskua murrizteko."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Alkohola, drogak eta osasuna",
+"subcategory":"Alkoholaren efektuak",
+"englishSubcategory":"Alcohol Effects",
+"description":"Edan ondoren, denborak bakarrik murriztu dezake gorputzeko alkohol kopurua. Kafeak, dutxa hotzak edo beste metodo batzuek ez dute prozesu hau bizkortzen."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Alkohola, drogak eta osasuna",
+"subcategory":"Alkoholaren mugak",
+"englishSubcategory":"Alcohol Limits",
+"description":"Victorian, gidari hasiberri eta probaldian dauden gidari guztiek 0,00ko alkohol-maila mantendu behar dute. Gidabaimena duten gidarientzat, alkohol-maila muga 0,05ekoa da. Hala ere, gidatu aurretik alkohola saihestea da beti aukerarik seguruena."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Alkohola, drogak eta osasuna",
+"subcategory":"Drogak gidatzea",
+"englishSubcategory":"Drug Driving",
+"description":"Victorian zigorra jaso dezakezu droga batzuk zure gorputzean dituzula gidatzeagatik, nahiz eta ondo sentitu. Droga-menpekotasunak segurtasunez gidatzeko gaitasunean eragiten du eta istripuen arriskua handitzen du."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Alkohola, drogak eta osasuna",
+"subcategory":"Medikazioen Segurtasuna",
+"englishSubcategory":"Medication Safety",
+"description":"Gidatu aurretik, egiaztatu beti botika berriek ibilgailua gidatzeko gaitasunean eraginik izan dezaketen. Botika batzuek logura eragiten dute, erreakzio-denborak oztopatzen dituzte eta kontzentrazioa gutxitzen dute."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Alkohola, drogak eta osasuna",
+"subcategory":"Nekea eta Osasuna",
+"englishSubcategory":"Fatigue & Health",
+"description":"Nekeak alkoholaren antzeko eragina izan dezake gidatzeko orduan. Erreakzio-denbora moteltzen du, epaimena kaltetzen du eta erabakiak hartzeko gaitasuna murrizten du, istripuen arriskua handituz."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Gidatzeko praktika seguruak",
+"subcategory":"Arriskuen pertzepzioa",
+"englishSubcategory":"Hazard Perception",
+"description":"Arrisku potentzial batera hurbiltzean, erantzunik seguruena moteltzea eta behar izanez gero gelditzeko prestatzea da. Horrek egoera ebaluatu eta behar bezala erreakzionatzeko denbora ematen dizu."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Gidatzeko praktika seguruak",
+"subcategory":"Arriskuen pertzepzioa",
+"englishSubcategory":"Hazard Perception",
+"description":"Gidatzen ari zaren bitartean aurrera begiratzea ezinbestekoa da arrisku potentzialak goiz detektatzeko. Horri esker, zure erantzuna planifikatu eta bat-bateko erreakzioak saihestu ahal izango dituzu."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Gidatzeko praktika seguruak",
+"subcategory":"Gidatze defentsiboa",
+"englishSubcategory":"Defensive Driving",
+"description":"Gidatze defentsiboak beste errepideko erabiltzaileek egin ditzaketen akatsak aurreikustea eta talkak saihesteko distantzia segurua mantentzea dakar."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Gidatzeko praktika seguruak",
+"subcategory":"Errepideen egoera",
+"englishSubcategory":"Road Conditions",
+"description":"Errepide bustian pneumatikoek itsaspena galtzen badute, azeleragailua astindu eta gidatu leunki. Bat-bateko balaztatzeak edo bira itxiek egoera okerrera egin dezakete eta kontrola galtzea eragin dezakete."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Gidatzeko praktika seguruak",
+"subcategory":"Arriskuen pertzepzioa",
+"englishSubcategory":"Hazard Perception",
+"description":"Trafikoan gidatzen ari zarenean, arriskuak ikusteko posiziorik onena aurrerago eta alboetara egotea da, ez bakarrik aurreko autoan arreta jartzea. Horrek arriskuak lehenago aurreikusten laguntzen dizu."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Gidatzeko praktika seguruak",
+"subcategory":"Gidatze defentsiboa",
+"englishSubcategory":"Defensive Driving",
+"description":"Ibilgailu bat bere aurreko erreian biratzen ari bada, erantzunik seguruena jarraitzeko distantzia handitzea da. Horrela, egoera okerrera egiten bada erreakzionatzeko denbora gehiago izango duzu."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Gidatzeko praktika seguruak",
+"subcategory":"Errepideen egoera",
+"englishSubcategory":"Road Conditions",
+"description":"Errepidea askotan irristakorrena izaten da euriaren ondorengo lehenengo minutuetan. Kontuz ibili denbora horretan, errepidean dauden olioek eta hondakinek arriskutsuagoa egin baitezakete."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Gidatzeko praktika seguruak",
+"subcategory":"Gaueko gidatzea",
+"englishSubcategory":"Night Driving",
+"description":"Gauez aurrez aurreko faroen distira kudeatzeko, begiratu pixka bat zure erreiaren ezkerreko ertzera eta moteldu behar izanez gero. Horrek argi distiratsuen eraginpean egotea saihesten laguntzen du."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Gidatzeko praktika seguruak",
+"subcategory":"Gidatze defentsiboa",
+"englishSubcategory":"Defensive Driving",
+"description":"Gidari bat gertuegi jarraitzen badizu, ekintzarik seguruena aurreko ibilgailuarekiko jarraipen-distantzia handitzea da. Horrek erreakzionatzeko tarte gehiago ematen dizu bai zuri bai atzetik doan gidariari."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Gidatzeko praktika seguruak",
+"subcategory":"Errepideen egoera",
+"englishSubcategory":"Road Conditions",
+"description":"Lainopean gidatzen ari zarenean, abiadura murriztu eta distantzia mantendu zure ibilgailuaren eta besteen artean. Lainoak ikusgarritasuna asko murrizten du eta istripu arriskua areagotzen du."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Bidegurutzeak, biraketak eta biribilguneak",
+"subcategory":"Bidea Ematea",
+"englishSubcategory":"Giving Way",
+"description":"Seinalerik edo seinalerik ez duten bidegurutzeetan, eskuinetik datorren ibilgailuak ezkerretik datorren ibilgailuari eman behar dio lehentasuna."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Bidegurutzeak, biraketak eta biribilguneak",
+"subcategory":"Birak",
+"englishSubcategory":"Turns",
+"description":"Eskuinera biratzeko gezirik gabeko semaforoetan eskuinera biratzean, aurrera egin aurretik aurrez aurre datorren trafikoari eta oinezkoei bidea eman behar diezu."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Bidegurutzeak, biraketak eta biribilguneak",
+"subcategory":"Biribilguneak",
+"englishSubcategory":"Roundabouts",
+"description":"Biribilgune batean, bertan dauden ibilgailuek lehentasuna dute. Biribilgunera sartzen diren gidariek lehentasuna eman behar diete."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Bidegurutzeak, biraketak eta biribilguneak",
+"subcategory":"Birak",
+"englishSubcategory":"Turns",
+"description":"Ezkerretara biratzean, sartzen ari zaren errepidea zeharkatzen duten oinezkoei eman behar diezu bidea, haien segurtasuna bermatuz."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Bidegurutzeak, biraketak eta biribilguneak",
+"subcategory":"Bidea Ematea",
+"englishSubcategory":"Giving Way",
+"description":"T formako bidegurutze batean, amaierako errepideko ibilgailuak aurreragoko errepideko ibilgailuei eman behar die lehentasuna."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Bidegurutzeak, biraketak eta biribilguneak",
+"subcategory":"Birak",
+"englishSubcategory":"Turns",
+"description":"U-biraketa egiterakoan, beste ibilgailu eta oinezko guztiei eman behar diezu bidea, bira egiten duzun bitartean haien segurtasuna bermatuz."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Bidegurutzeak, biraketak eta biribilguneak",
+"subcategory":"Biribilguneak",
+"englishSubcategory":"Roundabouts",
+"description":"Biribilgune batetik irtetean, irten aurretik ezkerreko seinalea jarri, errepideko beste erabiltzaileei zure asmoen berri emateko."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Bidegurutzeak, biraketak eta biribilguneak",
+"subcategory":"Bidea Ematea",
+"englishSubcategory":"Giving Way",
+"description":"Istripuak saihesteko, errepidera sartzean, oinezko eta ibilgailu guztiei bidea eman behar diezu."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Bidegurutzeak, biraketak eta biribilguneak",
+"subcategory":"Birak",
+"englishSubcategory":"Turns",
+"description":"Eskuinera biratu aurretik, jarri ibilgailua errepidearen erdialdetik ahalik eta hurbilen, biraketa seguru eta garbia bermatuz."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Bidegurutzeak, biraketak eta biribilguneak",
+"subcategory":"Semaforoak",
+"englishSubcategory":"Traffic Lights",
+"description":"Gezi berde batek adierazten du geziaren norabidean aurrera egin dezakezula, beste trafikoari edo oinezkoei bidea eman gabe."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Errepideko markak, erreiak eta aurreratzeak",
+"subcategory":"Erreiaren erabilera",
+"englishSubcategory":"Lane Use",
+"description":"Erdiko lerro jarraitu eta bakarrak, oro har, esan nahi du ezin duzula zeharkatu, errepidera edo bide batera sartzean edo irtetean izan ezik."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Errepideko markak, erreiak eta aurreratzeak",
+"subcategory":"Aurreratzea",
+"englishSubcategory":"Overtaking",
+"description":"Errepide anitzeko batean ezkerretik aurreratzea baimenduta dago, trafikoa markatutako errei bereizietan badago eta hori egitea segurua bada."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Errepideko markak, erreiak eta aurreratzeak",
+"subcategory":"Aurreratzea",
+"englishSubcategory":"Overtaking",
+"description":"Errepide bakarrean, aurreko ibilgailua eskuinera biratzen ari bada eta segurua bada hori egitea, ezkerretik aurreratu dezakezu ibilgailu bat."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Errepideko markak, erreiak eta aurreratzeak",
+"subcategory":"Erreiaren erabilera",
+"englishSubcategory":"Lane Use",
+"description":"Erreia aldatu aurretik, jarri seinaleak eta ziurtatu segurua dela hori egitea. Horrela, errepideko beste erabiltzaileek zure asmoen berri izango dute eta istripuak saihestuko dira."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Errepideko markak, erreiak eta aurreratzeak",
+"subcategory":"Errepideko markaketak",
+"englishSubcategory":"Road Markings",
+"description":"Trafiko-irla margotu batek, edo chevron marka batek, adierazten du ez duzula bertan gidatu behar, trafikoaren mugimendu segurua bermatuz."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Errepideko markak, erreiak eta aurreratzeak",
+"subcategory":"Aurreratzea",
+"englishSubcategory":"Overtaking",
+"description":"Aurreratzea segurua den ziur ez bazaude, ekintzarik seguruena ez aurreratzea da. Beti ebaluatu egoera mugimendua egin aurretik."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Errepideko markak, erreiak eta aurreratzeak",
+"subcategory":"Erreiaren erabilera",
+"englishSubcategory":"Lane Use",
+"description":"Erdiko lerro hautsi batek esan nahi du zeharkatu dezakezula segurua bada, aurreratzeko edo erreia aldatzeko aukera emanez."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Errepideko markak, erreiak eta aurreratzeak",
+"subcategory":"Erreiaren erabilera",
+"englishSubcategory":"Lane Use",
+"description":"Bi erreiren artean ibiltzea legezkoa da soilik errei-markek ahalbidetzen dutenean. Normalean ez da segurua edo baimenduta gidatzeko baldintza gehienetan."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Errepideko markak, erreiak eta aurreratzeak",
+"subcategory":"Aurreratzea",
+"englishSubcategory":"Overtaking",
+"description":"Aurreratzen ari zaren ibilgailuak abiadura hartzen hasten badu, erantzunik seguruena aurreratzea bertan behera uztea eta atzera egitea da, segurua bada."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Errepideko markak, erreiak eta aurreratzeak",
+"subcategory":"Errepideko markaketak",
+"englishSubcategory":"Road Markings",
+"description":"Erdiko lerro bikoitz jarraitu batek esan nahi du ezin duzula inola ere zeharkatu edo gainean jarri, trafikoaren fluxua eta segurtasuna bermatuz."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Gelditzea, aparkatzea eta errepideko arauak",
+"subcategory":"Gelditu eta aparkatu beharrik ez",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Gelditzea debekatuta egoteak esan nahi du ez zarela batere gelditu behar, eta aparkatzea debekatuta egoteak, berriz, geldialdi laburrak baimentzen ditu pertsonak hartzeko edo uzteko."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Gelditzea, aparkatzea eta errepideko arauak",
+"subcategory":"Gelditu eta aparkatu beharrik ez",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Aparkatzea debekatuta dagoen eremu batean, bidaiariak hartu edo uzteko behar den denbora bakarrik gelditu zaitezke."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Gelditzea, aparkatzea eta errepideko arauak",
+"subcategory":"Bidegurutzeetatik gertu aparkatzea",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Bidegurutze baten ondoan aparkatzea askotan mugatuta dago, ikusgarritasuna oztopatu eta gidarientzat eta oinezkoentzat arriskuak sor ditzakeelako."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Gelditzea, aparkatzea eta errepideko arauak",
+"subcategory":"Gelditu eta aparkatu beharrik ez",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Debekatutako eremuan ezin duzu gelditu, telefono dei bati erantzuten ari bazara edo gelditu azkar bat egin behar baduzu ere."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Gelditzea, aparkatzea eta errepideko arauak",
+"subcategory":"Bide libreak",
+"englishSubcategory":"Clearways",
+"description":"Errepide libre batek esan nahi du ezin duzula errepidearen alde horretan gelditu edo aparkatu funtzionamendu-orduetan."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Gelditzea, aparkatzea eta errepideko arauak",
+"subcategory":"Pasabideen ondoko aparkalekua",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Oinezkoen pasabide baten ondoan gelditzea arriskutsua da, oinezkoak gidariengandik ezkutatu ditzakeelako, istripu arriskua handituz."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Gelditzea, aparkatzea eta errepideko arauak",
+"subcategory":"Segurtasunerako gelditzea",
+"englishSubcategory":"Stopping for Safety",
+"description":"Trafikoaren egoerak edo larrialdi egoera batek hala eskatzen badu bakarrik gelditu zaitezke Gelditzea Debekatuta dagoen eremuan."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Gelditzea, aparkatzea eta errepideko arauak",
+"subcategory":"Muinoetan aparkatzea",
+"englishSubcategory":"Parking on Hills",
+"description":"Aldapan aparkatzean, beti erabili esku-balazta eta lotu ibilgailua iraultzeko arriskua murrizteko."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Gelditzea, aparkatzea eta errepideko arauak",
+"subcategory":"Bidegurutzeetatik gertu aparkatzea",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Ez aparkatu izkina batetik oso gertu, aurrez aurre datorren trafikoaren eta oinezkoen ikuspegia oztopatu eta arriskuak sortu baititzake."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Gelditzea, aparkatzea eta errepideko arauak",
+"subcategory":"Gelditu eta aparkatu beharrik ez",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Aparkatzea debekatuta dagoen seinale batek orduak erakusten baditu, murrizketa seinalean agertzen diren orduetan bakarrik aplikatzen da."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Oinezkoak, txirrindulariak eta errepideko erabiltzaile zaurgarriak",
+"subcategory":"Oinezkoak",
+"englishSubcategory":"Pedestrians",
+"description":"Biratzean, gidariek oinezkoei eman behar diete bidea sartzen ari diren errepidea zeharkatzen. Hori aplikatzen da oinezkoa izendatutako pasabide batean ez badago ere."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Oinezkoak, txirrindulariak eta errepideko erabiltzaile zaurgarriak",
+"subcategory":"Txirrindulariak",
+"englishSubcategory":"Cyclists",
+"description":"Gidariek tarte gehigarria utzi behar dute txirrindulariak aurreratzean, arriskuak saihesteko edo oreka mantentzeko lekua behar izan baitezakete."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Oinezkoak, txirrindulariak eta errepideko erabiltzaile zaurgarriak",
+"subcategory":"Oinezkoak",
+"englishSubcategory":"Pedestrians",
+"description":"Erosketa-guneen edo garraio publikoaren geltokien ondoan, gidariek oinezkoen jarduera handiagoa eta bat-bateko gurutzaketak espero beharko lituzkete. Egon beti erne gune hauetan."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Oinezkoak, txirrindulariak eta errepideko erabiltzaile zaurgarriak",
+"subcategory":"Txirrindulariak",
+"englishSubcategory":"Cyclists",
+"description":"Txirrindulari bat bizikleta-bide markatu batean dabilenean, gidariek saihestu egin behar dute erreiletik gidatzea, baimenduta eta segurua ez bada behintzat."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Oinezkoak, txirrindulariak eta errepideko erabiltzaile zaurgarriak",
+"subcategory":"Haurrak",
+"englishSubcategory":"Children",
+"description":"Gidariek kontu handia izan behar dute eskoletatik gertu, haurrek modu ezustekoan joka dezaketelako eta trafikoa gaizki kalkula dezaketelako. Moteldu eskola-eremuetan."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Oinezkoak, txirrindulariak eta errepideko erabiltzaile zaurgarriak",
+"subcategory":"Txirrindulariak",
+"englishSubcategory":"Cyclists",
+"description":"Txirrindulari bat errei estu baten erdian badabil, gidariek behar besteko tartearekin aurreratzea segurua izan arte itxaron beharko lukete, behartuta aurreratu beharrean."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Oinezkoak, txirrindulariak eta errepideko erabiltzaile zaurgarriak",
+"subcategory":"Oinezkoak",
+"englishSubcategory":"Pedestrians",
+"description":"Haurren pasabide batean, gidariek gelditu egin behar dute banderak daudenean eta oinezkoak daudenean, haurren segurtasuna bermatzeko."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Oinezkoak, txirrindulariak eta errepideko erabiltzaile zaurgarriak",
+"subcategory":"Txirrindulariak",
+"englishSubcategory":"Cyclists",
+"description":"Gidariek beti egiaztatu beharko lituzkete beren puntu itsuak biratu aurretik, txirrindulariak ikusezin albotik joan daitezkeelako, batez ere hiriguneetan."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Oinezkoak, txirrindulariak eta errepideko erabiltzaile zaurgarriak",
+"subcategory":"Adinekoak eta Desgaituak",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Adineko oinezkoek denbora gehiago behar izan dezakete zeharkatzeko, astiroago ibil daitezkeelako edo mugikortasun arazoak izan ditzaketelako. Eman iezaiezu espazioa eta denbora segurtasunez zeharkatzeko."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Oinezkoak, txirrindulariak eta errepideko erabiltzaile zaurgarriak",
+"subcategory":"Txirrindulariak",
+"englishSubcategory":"Cyclists",
+"description":"Txirrindulariak zailagoak izan daitezke ikusteko bidegurutzeetara hurbiltzean, eta azkar mugi daitezke. Eman beti txirrindulariei lekua eta denbora segurtasunez ibiltzeko."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Egoera Bereziak eta Errepideko Inguruneak",
+"subcategory":"Eskola Eremuak",
+"englishSubcategory":"School Zones",
+"description":"Eskola-eremuetako abiadura-mugak seinaleetan agertzen diren orduetan bakarrik aplikatzen dira. Ziurtatu horiek betetzen dituzula haurren segurtasuna bermatzeko."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Egoera Bereziak eta Errepideko Inguruneak",
+"subcategory":"Eskola Eremuak",
+"englishSubcategory":"School Zones",
+"description":"Gidariek abiadura moteldu behar dute eskola-eremuetan, nahiz eta umerik ikusten ez den, haurrak bat-batean eta ustekabean ager daitezkeelako."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Egoera Bereziak eta Errepideko Inguruneak",
+"subcategory":"Errepideko lanak",
+"englishSubcategory":"Roadworks",
+"description":"Errepideko lanetara hurbiltzean, moteldu eta jarraitu aldi baterako seinaleei langileen eta errepideko beste erabiltzaileen segurtasuna bermatzeko."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Egoera Bereziak eta Errepideko Inguruneak",
+"subcategory":"Errepideko lanak",
+"englishSubcategory":"Roadworks",
+"description":"Langileen segurtasuna bermatzeko eta errepideen egoeraren aldaketetan murrizten dira abiadura mugak errepideko lan-eremuetan."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Egoera Bereziak eta Errepideko Inguruneak",
+"subcategory":"Landa-errepideak",
+"englishSubcategory":"Rural Roads",
+"description":"Landa-errepideetan, fauna ustekabean sar daiteke errepidera. Beti egon prest gelditzeko edo abiadura moteltzeko landa-eremuetan gidatzen duzunean."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Egoera Bereziak eta Errepideko Inguruneak",
+"subcategory":"Landa-errepideak",
+"englishSubcategory":"Rural Roads",
+"description":"Asfaltatu gabeko errepideek askotan itsaspen eta balaztatze gaitasun txikiagoa izaten dute. Gidariek abiadura murriztu beharko lukete asfaltatu gabeko gainazaletan gidatzen dutenean."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Egoera Bereziak eta Errepideko Inguruneak",
+"subcategory":"Autobideak",
+"englishSubcategory":"Freeways",
+"description":"Autobideko irteera galtzen baduzu, jarraitu hurrengo irteeraraino eta egin buelta segurtasunez. Ez saiatu autobidean gelditzen edo atzera egiten."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Egoera Bereziak eta Errepideko Inguruneak",
+"subcategory":"Autobideak",
+"englishSubcategory":"Freeways",
+"description":"Larrialdi kasuetan izan ezik, debekatuta dago autobidean gelditzea. Erabili beti bazterbidea edo irteera-arrapala matxura baten kasuan."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Egoera Bereziak eta Errepideko Inguruneak",
+"subcategory":"Eguraldi Baldintzak",
+"englishSubcategory":"Weather Conditions",
+"description":"Euri jasa handietan, abiadura murriztu eta jarraitzeko distantzia handitu. Errepide bustiek trakzioa murriztu eta gelditzeko distantziak luzatu ditzakete."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Egoera Bereziak eta Errepideko Inguruneak",
+"subcategory":"Eguraldi Baldintzak",
+"englishSubcategory":"Weather Conditions",
+"description":"Lainoak ikusgarritasuna eta sakonera-pertzepzioa murrizten ditu, eta gidatzea bereziki arriskutsua bihurtzen du. Moteldu eta jarraitu distantzia handitu laino dagoenean."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Larrialdietako ibilgailuak eta poliziaren jarraibideak",
+"subcategory":"Larrialdietako ibilgailuak lehentasuna ematen",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Larrialdi-ibilgailu bat argiekin eta/edo sirenarekin hurbiltzen denean, kendu haren bidetik eta utzi segurtasunez pasatzen."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Larrialdietako ibilgailuak eta poliziaren jarraibideak",
+"subcategory":"Larrialdietako ibilgailuak lehentasuna ematen",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Semaforoetan bazaude eta larrialdi-ibilgailu bat atzetik hurbiltzen bada, ekintzarik seguruena albo batera egitea da, segurua eta legezkoa bada; bestela, geldirik geratu eta ahal den guztietan pasatzen utzi."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Larrialdietako ibilgailuak eta poliziaren jarraibideak",
+"subcategory":"Poliziaren jarraibideak",
+"englishSubcategory":"Police Directions",
+"description":"Polizia-agente batek seinale batetik desberdin adierazten badizu, polizia-agentearen argibideak jarraitu behar dituzu."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Larrialdietako ibilgailuak eta poliziaren jarraibideak",
+"subcategory":"Larrialdietako ibilgailuak lehentasuna ematen",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Larrialdi-ibilgailu bat errepide bazterrean argiak keinuka dituela geldituta badago, moteldu eta kontu handiz aurreratu, segurua bada, alderantz mugituz."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Larrialdietako ibilgailuak eta poliziaren jarraibideak",
+"subcategory":"Poliziaren jarraibideak",
+"englishSubcategory":"Police Directions",
+"description":"Poliziak aldi baterako errepide-blokeo bat jartzen badu, jarraitu haien argibideei eta desbideratzeei."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Larrialdietako ibilgailuak eta poliziaren jarraibideak",
+"subcategory":"Larrialdietako ibilgailuak lehentasuna ematen",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Trafikotik azkarrago igarotzeko, ez zenuke larrialdi-ibilgailu baten atzetik gertu jarraitu behar."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Larrialdietako ibilgailuak eta poliziaren jarraibideak",
+"subcategory":"Larrialdietako ibilgailuak lehentasuna ematen",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Sirena bat entzuten baduzu baina larrialdi-ibilgailua oraindik ezin baduzu ikusi, egon erne, begiratu ispiluak eta prest egon segurtasunez mugitzeko."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Larrialdietako ibilgailuak eta poliziaren jarraibideak",
+"subcategory":"Poliziaren jarraibideak",
+"englishSubcategory":"Police Directions",
+"description":"Errepideko lanetan trafiko-kontrolatzaile batek jarraibideak ematen baditu, trafiko-kontrolatzaileari obeditzea beharrezkoa da."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Larrialdietako ibilgailuak eta poliziaren jarraibideak",
+"subcategory":"Poliziaren jarraibideak",
+"englishSubcategory":"Police Directions",
+"description":"Poliziak gidabaimena egiaztatzeko gelditzeko agindua ematen badizu, gelditu segurtasunez agindu bezala."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Larrialdietako ibilgailuak eta poliziaren jarraibideak",
+"subcategory":"Larrialdietako ibilgailuak lehentasuna ematen",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Erreil bakarrean bazaude eta larrialdi-ibilgailu bat atzetik hurbiltzen bada, eman seinalea eta mugitu ezkerrera edo leku seguru batera ahal den guztietan."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Segurtasun-uhalak, haurrentzako segurtasun-sistemak eta bidaiariak",
+"subcategory":"Segurtasun-uhalak",
+"englishSubcategory":"Seatbelts",
+"description":"Gidariaren ardura da 16 urtetik beherako bidaiari guztiek segurtasun-uhala daramatela ziurtatzea."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Segurtasun-uhalak, haurrentzako segurtasun-sistemak eta bidaiariak",
+"subcategory":"Segurtasun-uhalak",
+"englishSubcategory":"Seatbelts",
+"description":"Segurtasun-uhala jarrita egon behar da ibilgailua martxan dagoenean uneoro, baldin badago."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Segurtasun-uhalak, haurrentzako segurtasun-sistemak eta bidaiariak",
+"subcategory":"Haurren Segurtasun Sistemak",
+"englishSubcategory":"Child Restraints",
+"description":"Haurren segurtasun-uhala beharrezkoa da, helduen segurtasun-uhala baino hobeto egokitu eta haurraren gorputz-tamainara eta formara babesteko diseinatuta dagoelako."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Segurtasun-uhalak, haurrentzako segurtasun-sistemak eta bidaiariak",
+"subcategory":"Bidaiariak",
+"englishSubcategory":"Passengers",
+"description":"Ez da segurua bidaiarientzat oinak aginte-panelean jartzea, airbag-ek eta talka-indarrek lesio larriak eragin ditzaketelako."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Segurtasun-uhalak, haurrentzako segurtasun-sistemak eta bidaiariak",
+"subcategory":"Haurren Segurtasun Sistemak",
+"englishSubcategory":"Child Restraints",
+"description":"Haur-lotura bat aukeratzeko arau orokorrik seguruena haurraren adinerako eta tamainarako egokia den bat erabiltzea da."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Segurtasun-uhalak, haurrentzako segurtasun-sistemak eta bidaiariak",
+"subcategory":"Segurtasun-uhalak",
+"englishSubcategory":"Seatbelts",
+"description":"Segurtasun-uhala behar bezala ez daramala adierazten duen seinale ohikoa da gerriko-uhala besoaren azpian edo bizkarraren atzean egotea."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Segurtasun-uhalak, haurrentzako segurtasun-sistemak eta bidaiariak",
+"subcategory":"Bidaiariak",
+"englishSubcategory":"Passengers",
+"description":"Bidaiari batek gidaria arreta galarazten badu, ekintzarik seguruena gelditzeko eta gidatzen berriro zentratzeko eskatzea da."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Segurtasun-uhalak, haurrentzako segurtasun-sistemak eta bidaiariak",
+"subcategory":"Haurren Segurtasun Sistemak",
+"englishSubcategory":"Child Restraints",
+"description":"Ez da segurua haurtxo bat magalean eramatea mugitzen ari den ibilgailu batean, istripu batean ezin izango bailuke ondo eutsi."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Segurtasun-uhalak, haurrentzako segurtasun-sistemak eta bidaiariak",
+"subcategory":"Segurtasun-uhalak",
+"englishSubcategory":"Seatbelts",
+"description":"Segurtasun-uhala gerrikoan beheko aldea jarri behar da, istripu batean sabelean lesio arriskua murrizteko."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Segurtasun-uhalak, haurrentzako segurtasun-sistemak eta bidaiariak",
+"subcategory":"Bidaiariak",
+"englishSubcategory":"Passengers",
+"description":"Kabinan objektu lotu gabe eramatearen arrisku nagusietako bat da talka edo bat-bateko geldialdi batean jaurtigai bihur daitezkeela."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Ibilgailuen Segurtasuna, Akatsak eta Mantentze-lanen Oinarriak",
+"subcategory":"Pneumatikoak",
+"englishSubcategory":"Tyres",
+"description":"Pneumatikoen presio zuzena garrantzitsua da segurtasunerako, itsaspenean, balaztatzean eta direkzio-kontrolean eragina baitu."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Ibilgailuen Segurtasuna, Akatsak eta Mantentze-lanen Oinarriak",
+"subcategory":"Balaztak",
+"englishSubcategory":"Brakes",
+"description":"Balazta-pedala biguna iruditzen bazaizu edo ohi baino gehiago hondoratzen bada, hartu akats larri gisa eta egiaztatu balaztak berehala."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Ibilgailuen Segurtasuna, Akatsak eta Mantentze-lanen Oinarriak",
+"subcategory":"Argiak eta ikusgarritasuna",
+"englishSubcategory":"Lights & Visibility",
+"description":"Egiaztatu aldizka ibilgailuaren argi guztiak, besteek ikusi ahal izatea eta ikus zaitzatela ziurtatzeko."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Ibilgailuen Segurtasuna, Akatsak eta Mantentze-lanen Oinarriak",
+"subcategory":"Zuzendaritza eta esekidura",
+"englishSubcategory":"Steering & Suspension",
+"description":"Direkzio-arazo baten abisu-seinale izan daitezke tiratze ezohikoa, bibrazioa edo gidatzeko zailtasuna."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Ibilgailuen Segurtasuna, Akatsak eta Mantentze-lanen Oinarriak",
+"subcategory":"Haizetakoa eta garbigailuak",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Higatutako garbigailu-palak segurtasun arazo bat dira, euripean ikusgarritasuna murrizten baitute."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Ibilgailuen Segurtasuna, Akatsak eta Mantentze-lanen Oinarriak",
+"subcategory":"Pneumatikoak",
+"englishSubcategory":"Tyres",
+"description":"Pneumatikoen segurtasunik ezaren seinale ohikoa da errodadura higatuta edo modu irregularrean higatuta egotea."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Ibilgailuen Segurtasuna, Akatsak eta Mantentze-lanen Oinarriak",
+"subcategory":"Ispiluak eta doikuntza",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Gidatu aurretik ispiluak doitu behar dira puntu itsuak murrizteko eta kontzientzia hobetzeko."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Ibilgailuen Segurtasuna, Akatsak eta Mantentze-lanen Oinarriak",
+"subcategory":"Balaztak",
+"englishSubcategory":"Brakes",
+"description":"Balaztak kirrinka-hotsak egiten badituzte, ahalik eta azkarren ikuskatu itzazu."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Ibilgailuen Segurtasuna, Akatsak eta Mantentze-lanen Oinarriak",
+"subcategory":"Argiak eta ikusgarritasuna",
+"englishSubcategory":"Lights & Visibility",
+"description":"Ikusgarritasun txarrekoetan erabili faroak, argi gutxi dagoenean, besteek ikus zaitzaten."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Ibilgailuen Segurtasuna, Akatsak eta Mantentze-lanen Oinarriak",
+"subcategory":"Haizetakoa eta garbigailuak",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Zure haizetakoa ikusmen-eremuan oso pitzatuta badago, konpondu edo ordezkatu jarraitu aurretik."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Kargak, atoian eramatea eta ibilgailu astunen inguruko kontzientziazioa",
+"subcategory":"Kargak",
+"englishSubcategory":"Loads",
+"description":"Kargak behar bezala lotu behar dira mugitu edo eror ez daitezen eta istripuak eragitea saihesteko."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Kargak, atoian eramatea eta ibilgailu astunen inguruko kontzientziazioa",
+"subcategory":"Kargak",
+"englishSubcategory":"Loads",
+"description":"Ibilgailu baten barruko karga lotu gabe bat jaurtigai bihur daiteke bat-bateko balaztatzean, eta segurtasun arrisku handia eragin dezake."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Kargak, atoian eramatea eta ibilgailu astunen inguruko kontzientziazioa",
+"subcategory":"Kargak",
+"englishSubcategory":"Loads",
+"description":"Ibilgailu gainkargatu bat eramateak balaztatzean eragiten du, gelditzeko distantzia handituz."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Kargak, atoian eramatea eta ibilgailu astunen inguruko kontzientziazioa",
+"subcategory":"Kargak",
+"englishSubcategory":"Loads",
+"description":"Objektu luzeak eramateko modurik seguruena mugitu edo arriskutsuki irten ez daitezen lotzea da."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Kargak, atoian eramatea eta ibilgailu astunen inguruko kontzientziazioa",
+"subcategory":"Atoian eramatea",
+"englishSubcategory":"Towing",
+"description":"Atoi bat atoian eramateak gelditzeko distantzia handitzen du, pisu gehigarriak balaztatze-eraginkortasuna murrizten duelako."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Kargak, atoian eramatea eta ibilgailu astunen inguruko kontzientziazioa",
+"subcategory":"Atoian eramatea",
+"englishSubcategory":"Towing",
+"description":"Atoi bat atoian eraman aurretik, egiaztatu akoplamendua, argiak eta segurtasun-katea ondo finkatuta daudela."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Kargak, atoian eramatea eta ibilgailu astunen inguruko kontzientziazioa",
+"subcategory":"Atoian eramatea",
+"englishSubcategory":"Towing",
+"description":"Utzi tarte gehigarria atoian eramaten duzun bitartean biratzean, atoia biraketa-bidearen barruan doalako."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Kargak, atoian eramatea eta ibilgailu astunen inguruko kontzientziazioa",
+"subcategory":"Kargak",
+"englishSubcategory":"Loads",
+"description":"Atzeko ikusmena oztopatzen duen karga batek atzetik datorren trafikoaren kontzientzia murrizten du, istripuen arriskua handituz."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Kargak, atoian eramatea eta ibilgailu astunen inguruko kontzientziazioa",
+"subcategory":"Ibilgailu astunak",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Ibilgailu astunek leku gehiago behar dute gelditzeko, haien masa handiagoak balaztatze-distantzia handitzen duelako."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Kargak, atoian eramatea eta ibilgailu astunen inguruko kontzientziazioa",
+"subcategory":"Ibilgailu astunak",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Kamioi handi bati jarraitzen diozunean, handitu jarraipen-distantzia puntu itsuak kontuan hartzeko eta kamioien gelditzeko distantzia luzeagoa izateko."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Lizentziak, L/P plakaren arauak eta DKT tranpa praktikoak (VIC)",
+"subcategory":"Ikasteko Baimenaren Arauak",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Viktoriar gidari ikasle gisa, auto bat gidatu ahal izango duzu zure ondoan eserita dagoen gidari lizentzia egoki batek gainbegiratzen badu bakarrik."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Lizentziak, L/P plakaren arauak eta DKT tranpa praktikoak (VIC)",
+"subcategory":"Ikasteko Baimenaren Arauak",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Gidari hasiberriek beren L plakak argi erakutsi behar dituzte, ibilgailuan dauden beste pertsonek uneoro ikusgai izan ditzaten."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Lizentziak, L/P plakaren arauak eta DKT tranpa praktikoak (VIC)",
+"subcategory":"Ikasteko Baimenaren Arauak",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Zure gidaria lotan geratzen bada gidatzen ari zaren bitartean, gelditu segurtasunez eta ez jarraitu behar bezala gainbegiratu arte."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Lizentziak, L/P plakaren arauak eta DKT tranpa praktikoak (VIC)",
+"subcategory":"Telefono mugikorrak eta gailuak",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Victorian gidatzen ikasten ari zarenez, debekatuta dago telefono mugikorra erabiltzea gidatzen ari zaren bitartean."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Lizentziak, L/P plakaren arauak eta DKT tranpa praktikoak (VIC)",
+"subcategory":"Ikasteko Baimenaren Arauak",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Gidatzen ari zaren bitartean L plakak erortzen bazaizkizu, gelditu segurtasunez eta jarri berriro gidatzen jarraitu aurretik."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Lizentziak, L/P plakaren arauak eta DKT tranpa praktikoak (VIC)",
+"subcategory":"Gainbegiratzea",
+"englishSubcategory":"Supervision",
+"description":"Ikasleen gainbegiratze-arauen segurtasun-helburu nagusia gidari esperientziadun batek gidatu eta esku hartu ahal izatea da, behar izanez gero."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Lizentziak, L/P plakaren arauak eta DKT tranpa praktikoak (VIC)",
+"subcategory":"Baldintzak eta betetzea",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Gidari ikasten ari den bat beharrezko gainbegiratzerik gabe gidatzen harrapatzen bada, isunak eta gidabaimenaren ondorio posibleak izan daitezke."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Lizentziak, L/P plakaren arauak eta DKT tranpa praktikoak (VIC)",
+"subcategory":"Arriskuen pertzepzioa",
+"englishSubcategory":"Hazard Perception",
+"description":"Gidari hasiberrientzat bidegurutzeetan ohikoa den tranpa bat da sartzear dagoen errepidea gurutzatzen ari diren oinezkoei begiratu gabe biratzea."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Lizentziak, L/P plakaren arauak eta DKT tranpa praktikoak (VIC)",
+"subcategory":"Arriskuen pertzepzioa",
+"englishSubcategory":"Hazard Perception",
+"description":"Semaforoa berde egon arren, moteldu edo gelditu egin behar duzu trafikoa blokeatuta badago edo oinezkoak zeharkatzen ari badira."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Lizentziak, L/P plakaren arauak eta DKT tranpa praktikoak (VIC)",
+"subcategory":"Ikasteko Baimenaren Arauak",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Ikasle bat gainbegiratzen ari bazara, gainbegiralearen gidariak beti aurreko bidaiariaren eserlekuan eseri behar du."
+}
+]

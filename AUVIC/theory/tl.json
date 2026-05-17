@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Mga Panuntunan at Batas sa Kalsada",
+"subcategory":"Pangkalahatang mga Panuntunan sa Kalsada",
+"englishSubcategory":"General Road Rules",
+"description":"Dapat sundin ng mga drayber ang mga pangkalahatang tuntunin sa kalsada upang matiyak ang kaligtasan at maayos na daloy ng trapiko. Kabilang dito ang pagsunod sa mga palatandaan ng trapiko, mga senyales, at mga marka sa lane. Ang hindi pagsunod sa mga tuntuning ito ay maaaring humantong sa mga aksidente at parusa."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Mga Panuntunan at Batas sa Kalsada",
+"subcategory":"Pagbibigay ng Daan",
+"englishSubcategory":"Giving Way",
+"description":"Kinakailangang magbigay daan ang mga drayber sa ibang mga sasakyan o mga naglalakad sa mga interseksyon, rotonda, at tawiran ng mga naglalakad, bukod sa iba pang mga lokasyon. Ang hindi pagbibigay daan ay isang pagkakasala."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Mga Panuntunan at Batas sa Kalsada",
+"subcategory":"Paggamit ng Lane",
+"englishSubcategory":"Lane Use",
+"description":"Dapat gamitin ng mga drayber ang naaangkop na mga linya at sundin ang mga marka sa linya. Kabilang dito ang mga patakaran para sa pagpapalit ng linya, pag-overtake, at paggamit ng mga linya ng bisikleta o bus. Ang mga paglabag ay maaaring magresulta sa mga multa o aksidente."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Mga Panuntunan at Batas sa Kalsada",
+"subcategory":"Mga Tram",
+"englishSubcategory":"Trams",
+"description":"Dapat malaman ng mga drayber ang mga patakaran ng tram, kabilang ang pagbibigay-daan sa mga naglalakad sa mga hintuan ng tram, paghinto para sa mga tram na bukas ang mga pinto, at hindi pag-overtake sa mga tram sa ilang partikular na kondisyon."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Mga Panuntunan at Batas sa Kalsada",
+"subcategory":"Mga Interseksyon",
+"englishSubcategory":"Intersections",
+"description":"Sa mga interseksyon, dapat sundin ng mga drayber ang mga tamang pamamaraan para sa pagbibigay ng daan at paghinto sa mga stop sign o traffic light. Ang pag-unawa sa mga patakarang ito ay mahalaga upang maiwasan ang mga aksidente."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Mga Panuntunan at Batas sa Kalsada",
+"subcategory":"Mga U-Turn",
+"englishSubcategory":"U-Turns",
+"description":"Ang mga U-turn ay pinapayagan lamang sa mga interseksyon o kapag walang karatula na nagbabawal sa mga ito. Dapat tiyakin ng mga drayber na ligtas ito bago magsagawa ng U-turn."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Mga Panuntunan at Batas sa Kalsada",
+"subcategory":"Mga Limitasyon sa Bilis",
+"englishSubcategory":"Speed Limits",
+"description":"Dapat sundin ng mga drayber ang mga itinakdang limitasyon sa bilis upang matiyak ang kaligtasan sa kalsada. Ang pagmamadali ay maaaring magresulta sa mga multa, pagkawala ng lisensya, at mas mataas na panganib ng mga aksidente."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Mga Panuntunan at Batas sa Kalsada",
+"subcategory":"Kaligtasan ng Naglalakad",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Dapat magbigay daan ang mga drayber sa mga naglalakad sa tawiran at tiyakin ang kanilang kaligtasan kapag malapit sa mga sona ng mga naglalakad. Ang hindi paghinto para sa mga naglalakad sa tawiran ay isang pagkakasala."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Mga Panuntunan at Batas sa Kalsada",
+"subcategory":"Mga Tawiran ng Riles",
+"englishSubcategory":"Railway Crossings",
+"description":"Dapat huminto ang mga drayber sa mga tawiran ng tren kapag kumikislap ang mga ilaw o nakababa ang mga boom gate. Ang hindi pagpansin sa mga signal na ito ay isang malubhang pagkakasala at maaaring magresulta sa mga multa at aksidente."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Mga Panuntunan at Batas sa Kalsada",
+"subcategory":"Mga Sasakyang Pang-emerhensya",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Dapat magbigay daan ang mga drayber sa mga sasakyang pang-emergency gamit ang mga kumikislap na ilaw at sirena, tinitiyak na ang sasakyan ay may malinaw na daanan upang makadaan sa trapiko."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Mga Karatula at Senyales ng Trapiko",
+"subcategory":"Mga Palatandaan ng Regulasyon",
+"englishSubcategory":"Regulatory Signs",
+"description":"Ang mga karatula ng regulasyon ay nagbibigay ng mga mandatoryong tagubilin para sa mga drayber, tulad ng mga limitasyon sa bilis, mga paghihigpit sa pagliko, at mga karatula ng bawal pumasok. Ang pagsunod sa mga karatulang ito ay kinakailangan ng batas upang mapanatili ang kaligtasan at kaayusan sa mga kalsada."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Mga Karatula at Senyales ng Trapiko",
+"subcategory":"Mga Babala",
+"englishSubcategory":"Warning Signs",
+"description":"Ang mga babalang palatandaan ay nag-aalerto sa mga drayber tungkol sa mga potensyal na panganib, tulad ng matutulis na kurbada, mga lugar para sa paaralan, at mga tawiran ng mga hayop. Ang mga palatandaang ito ay tumutulong sa mga drayber na isaayos ang kanilang pagmamaneho upang maiwasan ang mga aksidente."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Mga Karatula at Senyales ng Trapiko",
+"subcategory":"Mga Palatandaan ng Bilis",
+"englishSubcategory":"Speed Signs",
+"description":"Ipinapahiwatig ng mga palatandaan ng bilis ang pinakamataas o pinakamababang bilis na pinapayagan sa isang kalsada. Dapat sundin ng mga drayber ang mga limitasyong ito upang matiyak ang ligtas na mga kondisyon sa pagmamaneho at maiwasan ang mga multa."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Mga Karatula at Senyales ng Trapiko",
+"subcategory":"Mga Ilaw Trapiko",
+"englishSubcategory":"Traffic Lights",
+"description":"Kinokontrol ng mga ilaw trapiko ang daloy ng mga sasakyan at mga naglalakad sa mga interseksyon. Ang pula ay nangangahulugang huminto, ang berde ay nangangahulugang umalis, at ang dilaw ay isang babala upang maghanda sa paghinto."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Mga Karatula at Senyales ng Trapiko",
+"subcategory":"Mga Senyales para sa mga Naglalakad",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Ang mga signal para sa mga naglalakad ay nagpapahiwatig kung kailan ligtas na tumawid ang mga naglalakad sa kalsada. Ang mga signal na ito ay karaniwang naaayon sa mga ilaw trapiko upang matiyak ang kaligtasan ng mga naglalakad."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Mga Karatula at Senyales ng Trapiko",
+"subcategory":"Mga Senyales sa Kontrol ng Lane",
+"englishSubcategory":"Lane Control Signals",
+"description":"Ang mga signal na pangkontrol sa lane ay ginagamit upang ipahiwatig kung ang isang lane ay bukas o sarado. Ang mga signal na ito ay karaniwang ginagamit sa mga kalsadang may maraming lane at sa mga tunnel."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Mga Karatula at Senyales ng Trapiko",
+"subcategory":"Mga Karatula na Bawal Mag-parking",
+"englishSubcategory":"No Parking Signs",
+"description":"Ang mga karatula na \"no parking\"ay nagpapahiwatig ng mga lugar kung saan ipinagbabawal ang paghinto o pagparada. Kadalasan, ito ay upang matiyak na maayos ang daloy ng trapiko at mapanatili ang kaligtasan."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Mga Karatula at Senyales ng Trapiko",
+"subcategory":"Mga One-Way na Karatula",
+"englishSubcategory":"One-Way Signs",
+"description":"Ipinapahiwatig ng mga one-way sign na ang trapiko ay dapat dumaan sa isang direksyon lamang. Ang hindi pagsunod sa mga karatulang ito ay maaaring magresulta sa mga aksidente at mga legal na kahihinatnan."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Mga Karatula at Senyales ng Trapiko",
+"subcategory":"Mga Karatula ng Paghinto",
+"englishSubcategory":"Stop Signs",
+"description":"Ang mga stop sign ay nangangailangan sa mga drayber na huminto nang tuluyan at magbigay-daan sa anumang ibang sasakyan o pedestrian bago magpatuloy."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Mga Karatula at Senyales ng Trapiko",
+"subcategory":"Mga Karatula ng Pagbibigay-daan",
+"englishSubcategory":"Give Way Signs",
+"description":"Ang mga karatula para sa pagbibigay-daan ay nagtuturo sa mga drayber na magbigay-daan sa ibang mga gumagamit ng kalsada, pedestrian man o sasakyan, depende sa sitwasyon, upang maiwasan ang mga aksidente."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Bilis at Distansya",
+"subcategory":"Mga Limitasyon sa Bilis",
+"englishSubcategory":"Speed Limits",
+"description":"Ang default na limitasyon sa bilis sa mga mataong lugar sa Victoria ay 50 km/h maliban kung may ibang lagda. Palaging suriin ang mga nakapaskil na karatula upang matiyak na nagmamaneho ka sa loob ng mga legal na limitasyon sa bilis."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Bilis at Distansya",
+"subcategory":"Mga Limitasyon sa Bilis",
+"englishSubcategory":"Speed Limits",
+"description":"Sa isang nilagdaang sona ng paaralan, sa mga oras na nakasaad sa karatula, ang limitasyon sa bilis ay ibinababa sa 40 km/h upang matiyak ang kaligtasan ng mga batang tumatawid sa kalsada."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Bilis at Distansya",
+"subcategory":"Pagsunod sa Distansya",
+"englishSubcategory":"Following Distance",
+"description":"Ang pinakamababang ligtas na distansya sa pagsunod sa ilalim ng mainam na mga kondisyon ay hindi bababa sa dalawang segundo sa likuran ng sasakyan sa unahan. Nagbibigay ito ng sapat na oras upang tumugon kung biglang huminto ang sasakyan sa unahan."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Bilis at Distansya",
+"subcategory":"Mga Limitasyon sa Bilis",
+"englishSubcategory":"Speed Limits",
+"description":"Kapag nadadaanan ang isang humintong tram sa isang safety zone, dapat mong bawasan ang iyong bilis sa 10 km/h upang matiyak ang kaligtasan ng mga pasaherong sumasakay o bumababa mula sa tram."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Bilis at Distansya",
+"subcategory":"Mga Limitasyon sa Bilis",
+"englishSubcategory":"Speed Limits",
+"description":"Sa mga kalsadang rural na walang mga speed sign, ang default na speed limit ay 100 km/h maliban kung may ibang tinukoy ang mga lokal na karatula. Ayusin ang iyong bilis ayon sa mga kondisyon ng kalsada upang mapanatili ang kaligtasan."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Bilis at Distansya",
+"subcategory":"Pagsunod sa Distansya",
+"englishSubcategory":"Following Distance",
+"description":"Sa maulang panahon, dapat mong dagdagan ang distansya ng iyong pagsunod sa hindi bababa sa apat na segundo. Binabawasan ng mga basang kalsada ang traksyon, kaya nangangailangan ng mas maraming oras upang ligtas na huminto."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Bilis at Distansya",
+"subcategory":"Mga Limitasyon sa Bilis",
+"englishSubcategory":"Speed Limits",
+"description":"Sundin ang mga elektronikong karatula ng variable speed limit sa lahat ng oras habang ginagamit ang mga ito. Inaayos ng mga karatulang ito ang mga limitasyon ng bilis batay sa mga kondisyon ng trapiko, panahon, o mga insidente sa kalsada."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Bilis at Distansya",
+"subcategory":"Distansya ng Paghinto",
+"englishSubcategory":"Stopping Distance",
+"description":"Habang tumataas ang iyong bilis, tumataas din ang distansya ng paghinto na kinakailangan upang ligtas na mapahinto ang iyong sasakyan. Palaging siguraduhing mayroon kang sapat na distansya upang tumugon sa mga panganib."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Bilis at Distansya",
+"subcategory":"Mga Limitasyon sa Bilis",
+"englishSubcategory":"Speed Limits",
+"description":"Sa mga sonang pinagsasaluhan, ang limitasyon sa bilis ay karaniwang 10 km/h upang matiyak ang kaligtasan ng mga naglalakad at siklista sa mga lugar na ito kung saan nakikipag-ugnayan ang mga sasakyan at mga gumagamit ng kalsada na hindi de-motor."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Bilis at Distansya",
+"subcategory":"Pagsunod sa Distansya",
+"englishSubcategory":"Following Distance",
+"description":"Mapanganib ang tailgating dahil binabawasan nito ang oras ng reaksyon at pagpreno. Palaging panatilihin ang ligtas na distansya sa pagsunod, lalo na kapag nagmamaneho sa likod ng mas malalaking sasakyan na maaaring makahadlang sa iyong paningin."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Mga Responsibilidad ng Pagmamaneho",
+"subcategory":"Mga Obligasyong Legal",
+"englishSubcategory":"Legal Obligations",
+"description":"Dapat tuparin ng mga drayber ang iba't ibang legal na obligasyon, tulad ng pagbibigay ng tulong pagkatapos ng isang aksidente, pagpapalitan ng mga detalye pagkatapos ng mga banggaan, at pag-uulat ng mga insidente sa mga awtoridad ayon sa hinihingi ng batas."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Mga Responsibilidad ng Pagmamaneho",
+"subcategory":"Atensyon at Kontrol",
+"englishSubcategory":"Attention & Control",
+"description":"Dapat manatiling kontrolado ng mga drayber ang kanilang sasakyan sa lahat ng oras, iniiwasan ang mga pang-abala at pinapanatili ang pokus upang matiyak ang kanilang sariling kaligtasan at ang kaligtasan ng ibang mga gumagamit ng kalsada."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Mga Responsibilidad ng Pagmamaneho",
+"subcategory":"Mga Obligasyong Legal",
+"englishSubcategory":"Legal Obligations",
+"description":"Kung sakaling magkaroon ng aksidente na magdulot ng pinsala, ang mga drayber ay dapat huminto at magbigay ng tulong kung saan posible. Ang hindi paghinto at pagtulong sa ganitong mga sitwasyon ay isang legal na paglabag."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Mga Responsibilidad ng Pagmamaneho",
+"subcategory":"Atensyon at Kontrol",
+"englishSubcategory":"Attention & Control",
+"description":"Mahalaga para sa mga drayber na manatiling may ganap na kontrol sa kanilang sasakyan sa lahat ng oras, tinitiyak na sila ay tumutugon nang naaangkop sa nagbabagong kondisyon ng trapiko at nagpapanatili ng ligtas na kapaligiran sa pagmamaneho."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Mga Responsibilidad ng Pagmamaneho",
+"subcategory":"Mga Obligasyong Legal",
+"englishSubcategory":"Legal Obligations",
+"description":"Dapat iulat ng mga drayber sa pulisya ang isang banggaan kung may sinumang nasugatan o nasira ang ari-arian at hindi maaaring ipagpalit ang mga detalye. Ang hindi pag-uulat ng mga insidenteng ito ay maaaring magresulta sa mga parusa."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Mga Responsibilidad ng Pagmamaneho",
+"subcategory":"Pamamahala ng Pagkapagod",
+"englishSubcategory":"Fatigue Management",
+"description":"Ang pagkapagod ay isang seryosong panganib habang nagmamaneho. Dapat malaman ng mga drayber ang mga maagang senyales ng pagkapagod, tulad ng paghikab at pagkawala ng konsentrasyon, at gumawa ng naaangkop na aksyon upang maiwasan ang mga aksidente."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Mga Responsibilidad ng Pagmamaneho",
+"subcategory":"Mga Obligasyong Legal",
+"englishSubcategory":"Legal Obligations",
+"description":"Dapat ipakita ng mga drayber ang kanilang lisensya kapag hiniling ng pulisya. Ang pagtangging magbigay ng lisensya ay maaaring magresulta sa mga parusa o karagdagang mga legal na kahihinatnan."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Mga Responsibilidad ng Pagmamaneho",
+"subcategory":"Atensyon at Kontrol",
+"englishSubcategory":"Attention & Control",
+"description":"Dapat iwasan ng mga drayber ang paggamit ng busina nang hindi kinakailangan, dahil maaari itong magulat o makagambala sa ibang mga gumagamit ng kalsada. Ang busina ay dapat gamitin lamang upang alertuhan ang iba tungkol sa iyong presensya sa mga sitwasyon kung saan ito kinakailangan."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Mga Responsibilidad ng Pagmamaneho",
+"subcategory":"Pamamahala ng Pagkapagod",
+"englishSubcategory":"Fatigue Management",
+"description":"Kung nakakaramdam ka ng sobrang pagod para magpatuloy sa pagmamaneho, ang pinakaligtas na hakbang ay huminto at magpahinga bago magpatuloy. Ang pagmamaneho nang pagod ay lubos na nagpapataas ng panganib ng mga aksidente."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Mga Responsibilidad ng Pagmamaneho",
+"subcategory":"Mga Obligasyong Legal",
+"englishSubcategory":"Legal Obligations",
+"description":"Responsibilidad ng mga drayber na tiyaking ligtas na nakaupo at nakahawak sa mga upuan ang kanilang mga pasahero. Kabilang dito ang pagtiyak na ang mga bata ay nakasuot ng angkop na child restraint at ang mga matatanda ay nagsusuot ng seatbelt."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkohol, Droga at Kalusugan",
+"subcategory":"Mga Limitasyon sa Alkohol",
+"englishSubcategory":"Alcohol Limits",
+"description":"Sa Victoria, ang mga nag-aaral na drayber at mga probationary driver (P1 at P2) ay dapat magpanatili ng 0.00 na konsentrasyon ng alkohol sa dugo (BAC) sa lahat ng oras. Ang mga ganap na lisensyadong drayber ay may limitasyon sa BAC na 0.05, ngunit mas ligtas na huwag uminom habang nagmamaneho."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkohol, Droga at Kalusugan",
+"subcategory":"Mga Epekto ng Alkohol",
+"englishSubcategory":"Alcohol Effects",
+"description":"Nakakasira ng pagpapasya, oras ng reaksyon, at koordinasyon ang alkohol, na maaaring magpataas nang malaki sa panganib ng mga aksidente. Kahit ang kaunting alkohol ay maaaring makabawas sa iyong kakayahang magmaneho nang ligtas."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkohol, Droga at Kalusugan",
+"subcategory":"Pagmamaneho gamit ang Droga",
+"englishSubcategory":"Drug Driving",
+"description":"Ang pagmamaneho sa ilalim ng impluwensya ng droga, kabilang ang mga gamot na may reseta, ay maaaring makaapekto sa iyong kakayahang magmaneho, kahit na sa tingin mo ay hindi ka naman naapektuhan. Mahalagang malaman ang mga panganib at iwasan ang pagmamaneho pagkatapos gumamit ng droga."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkohol, Droga at Kalusugan",
+"subcategory":"Kaligtasan ng Gamot",
+"englishSubcategory":"Medication Safety",
+"description":"Bago magsimula ng bagong gamot na may reseta, suriin kung nakakaapekto ito sa iyong kakayahang magmaneho at sumunod sa payo ng doktor. Ang ilang mga gamot ay maaaring magdulot ng antok o makasira sa konsentrasyon."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkohol, Droga at Kalusugan",
+"subcategory":"Pagkapagod at Kalusugan",
+"englishSubcategory":"Fatigue & Health",
+"description":"Ang pagkapagod ay maaaring makapinsala sa iyong kakayahang magmaneho nang ligtas, tulad ng alkohol o droga. Siguraduhing nakakakuha ka ng sapat na pahinga bago magmaneho, at magpahinga habang naglalakbay nang malayo upang mabawasan ang panganib ng mga aksidente na may kaugnayan sa pagkapagod."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Alkohol, Droga at Kalusugan",
+"subcategory":"Mga Epekto ng Alkohol",
+"englishSubcategory":"Alcohol Effects",
+"description":"Pagkatapos uminom, tanging oras lang ang makakabawas sa dami ng alkohol sa iyong katawan. Hindi mapabilis ng kape, malamig na pagligo, o iba pang mga pamamaraan ang prosesong ito."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Alkohol, Droga at Kalusugan",
+"subcategory":"Mga Limitasyon sa Alkohol",
+"englishSubcategory":"Alcohol Limits",
+"description":"Sa Victoria, lahat ng mga mag-aaral at probationary driver ay dapat magpanatili ng BAC na 0.00. Para sa mga ganap na lisensyadong driver, ang limitasyon ng BAC ay 0.05. Gayunpaman, ang pag-iwas sa alak bago magmaneho ay palaging ang pinakaligtas na opsyon."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Alkohol, Droga at Kalusugan",
+"subcategory":"Pagmamaneho gamit ang Droga",
+"englishSubcategory":"Drug Driving",
+"description":"Maaari kang maparusahan sa Victoria dahil sa pagmamaneho nang may ilang partikular na droga sa iyong sistema, kahit na sa tingin mo ay hindi ka naman naapektuhan. Ang kawalan ng kakayahang gumamit ng droga ay nakakaapekto sa iyong kakayahang magmaneho nang ligtas at nagpapataas ng panganib ng mga aksidente."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Alkohol, Droga at Kalusugan",
+"subcategory":"Kaligtasan ng Gamot",
+"englishSubcategory":"Medication Safety",
+"description":"Bago magmaneho, palaging suriin kung ang mga bagong gamot ay maaaring makaapekto sa iyong kakayahang magmaneho ng sasakyan. Ang ilang mga gamot ay nagdudulot ng antok, nakakasira sa oras ng reaksyon, at nakakabawas ng konsentrasyon."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Alkohol, Droga at Kalusugan",
+"subcategory":"Pagkapagod at Kalusugan",
+"englishSubcategory":"Fatigue & Health",
+"description":"Ang pagkapagod ay maaaring magkaroon ng katulad na epekto sa pagmamaneho gaya ng alkohol. Pinapabagal nito ang iyong oras ng reaksyon, pinapahina ang iyong paghatol, at binabawasan ang iyong kakayahang gumawa ng mga desisyon, na nagpapataas ng panganib ng mga aksidente."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Mga Ligtas na Gawi sa Pagmamaneho",
+"subcategory":"Persepsyon sa Panganib",
+"englishSubcategory":"Hazard Perception",
+"description":"Kapag papalapit sa isang potensyal na panganib, ang pinakaligtas na tugon ay ang bumagal at maghandang huminto kung kinakailangan. Nagbibigay ito sa iyo ng oras upang masuri ang sitwasyon at tumugon nang naaangkop."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Mga Ligtas na Gawi sa Pagmamaneho",
+"subcategory":"Persepsyon sa Panganib",
+"englishSubcategory":"Hazard Perception",
+"description":"Ang pag-scan nang mabuti sa unahan habang nagmamaneho ay mahalaga para sa maagang pagtukoy ng mga potensyal na panganib. Nagbibigay-daan ito sa iyo na planuhin ang iyong tugon at maiwasan ang mga biglaang reaksyon."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Mga Ligtas na Gawi sa Pagmamaneho",
+"subcategory":"Depensibong Pagmamaneho",
+"englishSubcategory":"Defensive Driving",
+"description":"Ang depensibong pagmamaneho ay kinabibilangan ng pag-asam sa mga posibleng pagkakamali ng ibang mga gumagamit ng kalsada at pagpapanatili ng ligtas na distansya upang maiwasan ang mga banggaan."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Mga Ligtas na Gawi sa Pagmamaneho",
+"subcategory":"Mga Kondisyon sa Kalsada",
+"englishSubcategory":"Road Conditions",
+"description":"Kung mawalan ng kapit ang iyong mga gulong sa basang kalsada, bawasan ang accelerator at magmaneho nang maayos. Ang biglaang pagpreno o matalim na pagliko ay maaaring magpalala ng sitwasyon at humantong sa pagkawala ng kontrol."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Mga Ligtas na Gawi sa Pagmamaneho",
+"subcategory":"Persepsyon sa Panganib",
+"englishSubcategory":"Hazard Perception",
+"description":"Kapag nagmamaneho sa trapiko, ang pinakamagandang posisyon para magbantay sa mga panganib ay nasa unahan at sa gilid, hindi lamang nakatuon sa sasakyan sa harap mo. Makakatulong ito sa iyo na mahulaan ang mga panganib nang mas maaga."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Mga Ligtas na Gawi sa Pagmamaneho",
+"subcategory":"Depensibong Pagmamaneho",
+"englishSubcategory":"Defensive Driving",
+"description":"Kung ang isang sasakyan ay papasok sa linya nito sa unahan, ang pinakaligtas na hakbang ay dagdagan ang distansya na iyong sinusundan. Ito ay magbibigay sa iyo ng mas maraming oras para tumugon kung lumala ang sitwasyon."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Mga Ligtas na Gawi sa Pagmamaneho",
+"subcategory":"Mga Kondisyon sa Kalsada",
+"englishSubcategory":"Road Conditions",
+"description":"Kadalasang madulas ang kalsada sa mga unang minuto pagkatapos ng ulan. Maging mas maingat sa panahong ito, dahil ang mga langis at mga kalat sa kalsada ay maaaring magpalala ng panganib dito."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Mga Ligtas na Gawi sa Pagmamaneho",
+"subcategory":"Pagmamaneho sa Gabi",
+"englishSubcategory":"Night Driving",
+"description":"Para makontrol ang silaw mula sa mga paparating na headlight sa gabi, tumingin nang bahagya sa kaliwang gilid ng iyong lane at bumagal kung kinakailangan. Nakakatulong ito na maiwasan ang direktang pagkakalantad sa maliwanag na mga ilaw."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Mga Ligtas na Gawi sa Pagmamaneho",
+"subcategory":"Depensibong Pagmamaneho",
+"englishSubcategory":"Defensive Driving",
+"description":"Kung masyadong malapit ang sinusundan mong drayber, ang pinakaligtas na hakbang ay dagdagan ang distansya mo mula sa sasakyan sa unahan. Ito ay magbibigay sa iyo at sa drayber na nasa hulihan ng sasakyan ng mas maraming oras para makapag-react."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Mga Ligtas na Gawi sa Pagmamaneho",
+"subcategory":"Mga Kondisyon sa Kalsada",
+"englishSubcategory":"Road Conditions",
+"description":"Kapag nagmamaneho sa gitna ng hamog, bawasan ang bilis at panatilihin ang karagdagang distansya sa pagitan ng iyong sasakyan at ng iba. Ang hamog ay lubhang nakakabawas sa kakayahang makita at nagpapataas ng panganib ng mga aksidente."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Mga Interseksyon, Pagliko at Pag-ikot",
+"subcategory":"Pagbibigay ng Daan",
+"englishSubcategory":"Giving Way",
+"description":"Sa mga interseksyon na walang mga karatula o senyales, ang sasakyang papalapit mula sa kanan ay dapat magbigay daan sa sasakyang nagmumula sa kaliwa."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Mga Interseksyon, Pagliko at Pag-ikot",
+"subcategory":"Mga pagliko",
+"englishSubcategory":"Turns",
+"description":"Kapag lumiko pakanan sa mga ilaw trapiko nang walang palaso na pakanan, dapat kang magbigay daan sa mga paparating na sasakyan at mga naglalakad bago magpatuloy."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Mga Interseksyon, Pagliko at Pag-ikot",
+"subcategory":"Mga Rotonda",
+"englishSubcategory":"Roundabouts",
+"description":"Sa isang rotonda, ang mga sasakyang nasa loob na ng rotonda ang may prayoridad. Ang mga drayber na papasok sa rotonda ay dapat magbigay daan sa mga ito."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Mga Interseksyon, Pagliko at Pag-ikot",
+"subcategory":"Mga pagliko",
+"englishSubcategory":"Turns",
+"description":"Kapag lumiliko pakaliwa, dapat kang magbigay daan sa mga naglalakad na tumatawid sa kalsadang iyong papasukin, upang matiyak ang kanilang kaligtasan."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Mga Interseksyon, Pagliko at Pag-ikot",
+"subcategory":"Pagbibigay ng Daan",
+"englishSubcategory":"Giving Way",
+"description":"Sa isang T-intersection, ang sasakyan sa dulong kalsada ay dapat magbigay daan sa mga sasakyan sa patuloy na kalsada."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Mga Interseksyon, Pagliko at Pag-ikot",
+"subcategory":"Mga pagliko",
+"englishSubcategory":"Turns",
+"description":"Kapag nag-U-turn, dapat kang magbigay daan sa lahat ng iba pang sasakyan at mga naglalakad, tinitiyak ang kanilang kaligtasan habang ikaw ay lumiliko."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Mga Interseksyon, Pagliko at Pag-ikot",
+"subcategory":"Mga Rotonda",
+"englishSubcategory":"Roundabouts",
+"description":"Kapag lalabas ng rotonda, magsenyas bago lumabas upang ipaalam sa ibang mga gumagamit ng kalsada ang iyong mga balak."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Mga Interseksyon, Pagliko at Pag-ikot",
+"subcategory":"Pagbibigay ng Daan",
+"englishSubcategory":"Giving Way",
+"description":"Kapag papasok sa isang kalsada mula sa isang driveway, dapat kang magbigay daan sa lahat ng mga sasakyan at mga naglalakad sa kalsada upang maiwasan ang mga aksidente."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Mga Interseksyon, Pagliko at Pag-ikot",
+"subcategory":"Mga pagliko",
+"englishSubcategory":"Turns",
+"description":"Bago lumiko pakanan, iposisyon ang iyong sasakyan nang malapit hangga't maaari sa gitna ng kalsada, upang matiyak ang ligtas at malinaw na pagliko."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Mga Interseksyon, Pagliko at Pag-ikot",
+"subcategory":"Mga Ilaw Trapiko",
+"englishSubcategory":"Traffic Lights",
+"description":"Ang berdeng palaso ay nagpapahiwatig na maaari kang magpatuloy sa direksyon ng palaso nang hindi nagbibigay daan sa ibang trapiko o mga naglalakad."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Mga Marka sa Kalsada, Mga Daanan at Pag-overtake",
+"subcategory":"Paggamit ng Lane",
+"englishSubcategory":"Lane Use",
+"description":"Ang isang tuloy-tuloy na linya sa gitna ay karaniwang nangangahulugan na hindi mo ito dapat tawirin, maliban na lang kapag papasok o lalabas ng kalsada o driveway."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Mga Marka sa Kalsada, Mga Daanan at Pag-overtake",
+"subcategory":"Pag-overtake",
+"englishSubcategory":"Overtaking",
+"description":"Pinapayagan ang pag-overtake sa kaliwa sa isang kalsadang may maraming linya kapag ang trapiko ay nasa magkahiwalay na markadong linya at ligtas itong gawin."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Mga Marka sa Kalsada, Mga Daanan at Pag-overtake",
+"subcategory":"Pag-overtake",
+"englishSubcategory":"Overtaking",
+"description":"Maaari mong lampasan ang isang sasakyan sa kaliwa sa isang single-lane na kalsada kapag ang sasakyan sa unahan ay lumiliko pakanan at ligtas itong gawin."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Mga Marka sa Kalsada, Mga Daanan at Pag-overtake",
+"subcategory":"Paggamit ng Lane",
+"englishSubcategory":"Lane Use",
+"description":"Bago lumipat ng lane, magbigay ng senyales at siguraduhing ligtas itong gawin. Tinitiyak nito na alam ng ibang mga gumagamit ng kalsada ang iyong mga intensyon at maiiwasan ang mga aksidente."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Mga Marka sa Kalsada, Mga Daanan at Pag-overtake",
+"subcategory":"Mga Marka sa Kalsada",
+"englishSubcategory":"Road Markings",
+"description":"Ang pininturahang traffic island, o chevron marking, ay nagpapahiwatig na hindi ka dapat magmaneho dito, upang matiyak ang ligtas na paggalaw ng trapiko."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Mga Marka sa Kalsada, Mga Daanan at Pag-overtake",
+"subcategory":"Pag-overtake",
+"englishSubcategory":"Overtaking",
+"description":"Kung hindi ka sigurado kung ligtas ang pag-overtake, ang pinakaligtas na gawin ay ang hindi pag-overtake. Palaging suriin ang sitwasyon bago kumilos."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Mga Marka sa Kalsada, Mga Daanan at Pag-overtake",
+"subcategory":"Paggamit ng Lane",
+"englishSubcategory":"Lane Use",
+"description":"Ang ibig sabihin ng sirang gitnang linya ay maaari mo itong tawirin kung ligtas itong gawin, na nagpapahintulot sa pag-overtake o pagpapalit ng lane."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Mga Marka sa Kalsada, Mga Daanan at Pag-overtake",
+"subcategory":"Paggamit ng Lane",
+"englishSubcategory":"Lane Use",
+"description":"Ang pagsakay sa dalawang linya ay legal lamang kapag pinahihintulutan ito ng mga marka sa linya. Karaniwan itong hindi ligtas o pinahihintulutan sa karamihan ng mga kondisyon sa pagmamaneho."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Mga Marka sa Kalsada, Mga Daanan at Pag-overtake",
+"subcategory":"Pag-overtake",
+"englishSubcategory":"Overtaking",
+"description":"Kung ang sasakyang iyong inaabot ay nagsimulang bumilis, ang pinakaligtas na tugon ay ihinto ang pag-overtake kung ligtas at umatras."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Mga Marka sa Kalsada, Mga Daanan at Pag-overtake",
+"subcategory":"Mga Marka sa Kalsada",
+"englishSubcategory":"Road Markings",
+"description":"Ang ibig sabihin ng dobleng tuloy-tuloy na gitnang linya ay hindi mo ito dapat tawirin o sakyan sa anumang pagkakataon, upang matiyak ang daloy at kaligtasan ng trapiko."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Paghinto, Pagparada at Pagtawid sa Kalsada",
+"subcategory":"Bawal Humihinto at Bawal Mag-park",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Ang ibig sabihin ng No Stopping ay hindi ka dapat huminto, samantalang ang No Parking ay nagpapahintulot ng maikling paghinto para sa pagsundo o pagbaba."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Paghinto, Pagparada at Pagtawid sa Kalsada",
+"subcategory":"Bawal Humihinto at Bawal Mag-park",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Sa isang No Parking zone, pinapayagan ka lamang huminto nang sapat na katagalan para magsakay o magbaba ng mga pasahero."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Paghinto, Pagparada at Pagtawid sa Kalsada",
+"subcategory":"Paradahan Malapit sa mga Interseksyon",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Kadalasang pinaghihigpitan ang pagpaparada malapit sa interseksyon dahil maaari itong humarang sa paningin at lumikha ng panganib para sa mga drayber at pedestrian."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Paghinto, Pagparada at Pagtawid sa Kalsada",
+"subcategory":"Bawal Humihinto at Bawal Mag-park",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Hindi ka pinapayagang huminto sa loob ng No Stopping zone, kahit na sumasagot ka ng tawag sa telepono o kailangan mong huminto sandali."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Paghinto, Pagparada at Pagtawid sa Kalsada",
+"subcategory":"Clearways",
+"englishSubcategory":"Clearways",
+"description":"Ang ibig sabihin ng clearway ay hindi ka dapat huminto o mag-park sa gilid na iyon ng kalsada habang tumatakbo ito."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Paghinto, Pagparada at Pagtawid sa Kalsada",
+"subcategory":"Paradahan Malapit sa mga Tawiran",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Mapanganib ang paghinto malapit sa tawiran dahil maaari nitong maitago ang mga naglalakad mula sa mga drayber na papalapit dito, na nagpapataas ng panganib ng mga aksidente."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Paghinto, Pagparada at Pagtawid sa Kalsada",
+"subcategory":"Paghinto para sa Kaligtasan",
+"englishSubcategory":"Stopping for Safety",
+"description":"Maaari ka lamang huminto sa lugar na Bawal ang Paghinto kung kinakailangan ng trapiko o sa isang emergency."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Paghinto, Pagparada at Pagtawid sa Kalsada",
+"subcategory":"Paradahan sa mga Bundok",
+"englishSubcategory":"Parking on Hills",
+"description":"Kapag nagpaparada sa burol, laging pindutin ang handbrake at i-secure ang sasakyan upang mabawasan ang panganib ng paggulong."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Paghinto, Pagparada at Pagtawid sa Kalsada",
+"subcategory":"Paradahan Malapit sa mga Interseksyon",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Hindi ka dapat mag-park nang masyadong malapit sa isang kanto dahil maaari nitong harangan ang paningin ng mga paparating na sasakyan at mga naglalakad, na magdudulot ng panganib."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Mga Panuntunan sa Paghinto, Pagparada at Pagtawid sa Kalsada",
+"subcategory":"Bawal Humihinto at Bawal Mag-park",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Ang karatula na Bawal Mag-parking na may nakasaad na mga oras ay nangangahulugan na ang paghihigpit ay nalalapat lamang sa mga oras na nakasaad sa karatula."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Mga Naglalakad, Siklista at Mahihinang Gumagamit ng Kalsada",
+"subcategory":"Mga naglalakad",
+"englishSubcategory":"Pedestrians",
+"description":"Kapag lumiliko, dapat magbigay daan ang mga drayber sa mga naglalakad na tumatawid sa kalsadang papasukin. Nalalapat ito kahit na ang naglalakad ay wala sa itinalagang tawiran."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Mga Naglalakad, Siklista at Mahihinang Gumagamit ng Kalsada",
+"subcategory":"Mga siklista",
+"englishSubcategory":"Cyclists",
+"description":"Dapat maglaan ng karagdagang espasyo ang mga drayber kapag nadadaanan ang mga siklista dahil maaaring kailanganin nila ng espasyo upang maiwasan ang mga panganib o mapanatili ang balanse."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Mga Naglalakad, Siklista at Mahihinang Gumagamit ng Kalsada",
+"subcategory":"Mga naglalakad",
+"englishSubcategory":"Pedestrians",
+"description":"Malapit sa mga lugar ng pamimili o mga hintuan ng pampublikong transportasyon, dapat asahan ng mga drayber ang pagdami ng mga taong naglalakad at mga biglaang tawiran. Manatiling laging alerto sa mga lugar na ito."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Mga Naglalakad, Siklista at Mahihinang Gumagamit ng Kalsada",
+"subcategory":"Mga siklista",
+"englishSubcategory":"Cyclists",
+"description":"Kapag ang isang siklista ay nagbibisikleta sa isang markadong linya ng bisikleta, dapat iwasan ng mga drayber ang pagmamaneho sa linyang iyon maliban kung pinahihintulutan at ligtas itong gawin."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Mga Naglalakad, Siklista at Mahihinang Gumagamit ng Kalsada",
+"subcategory":"Mga bata",
+"englishSubcategory":"Children",
+"description":"Dapat maging mas maingat ang mga drayber malapit sa mga paaralan dahil maaaring kumilos nang hindi inaasahan ang mga bata at magkamali sa paghuhusga ng trapiko. Bagalan ang mga sasakyan sa mga school zone."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Mga Naglalakad, Siklista at Mahihinang Gumagamit ng Kalsada",
+"subcategory":"Mga siklista",
+"englishSubcategory":"Cyclists",
+"description":"Kung ang isang siklista ay nagbibisikleta sa gitna ng isang makitid na linya, dapat maghintay ang mga drayber hanggang sa ligtas nang dumaan nang may sapat na espasyo, sa halip na pilitin ang pagdaan."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Mga Naglalakad, Siklista at Mahihinang Gumagamit ng Kalsada",
+"subcategory":"Mga naglalakad",
+"englishSubcategory":"Pedestrians",
+"description":"Sa tawiran ng mga bata, dapat huminto ang mga drayber kapag nakataas ang mga watawat at may mga naglalakad na naroon, upang matiyak ang kaligtasan ng mga bata."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Mga Naglalakad, Siklista at Mahihinang Gumagamit ng Kalsada",
+"subcategory":"Mga siklista",
+"englishSubcategory":"Cyclists",
+"description":"Dapat palaging suriin ng mga drayber ang kanilang mga blind spot bago lumiko, dahil maaaring naglalakbay ang mga siklista nang hindi nakikita, lalo na sa mga urban area."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Mga Naglalakad, Siklista at Mahihinang Gumagamit ng Kalsada",
+"subcategory":"Matatanda at May Kapansanan",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Maaaring kailanganin ng mga matatandang naglalakad ng dagdag na oras para tumawid, dahil maaaring mas mabagal silang maglakad o may mga problema sa paggalaw. Bigyan sila ng espasyo at oras para ligtas na makatawid."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Mga Naglalakad, Siklista at Mahihinang Gumagamit ng Kalsada",
+"subcategory":"Mga siklista",
+"englishSubcategory":"Cyclists",
+"description":"Maaaring mas mahirap makita ang mga siklista kapag papalapit sa mga interseksyon, at maaari silang mabilis na gumalaw. Palaging bigyan ang mga siklista ng espasyo at oras upang ligtas na magmaneho."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Mga Espesyal na Sitwasyon at Kapaligiran sa Kalsada",
+"subcategory":"Mga Sona ng Paaralan",
+"englishSubcategory":"School Zones",
+"description":"Ang mga limitasyon sa bilis sa school zone ay nalalapat lamang sa mga oras na nakasaad sa mga karatula. Siguraduhing sundin ang mga ito upang matiyak ang kaligtasan ng mga bata."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Mga Espesyal na Sitwasyon at Kapaligiran sa Kalsada",
+"subcategory":"Mga Sona ng Paaralan",
+"englishSubcategory":"School Zones",
+"description":"Dapat bumagal ang mga drayber sa mga school zone kahit walang mga batang nakikita, dahil maaaring bigla at hindi mahulaan ang mga bata."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Mga Espesyal na Sitwasyon at Kapaligiran sa Kalsada",
+"subcategory":"Mga Paggawa sa Kalsada",
+"englishSubcategory":"Roadworks",
+"description":"Kapag papalapit sa mga ginagawang kalsada, bagalan ang takbo at sundin ang anumang pansamantalang mga palatandaan upang matiyak ang kaligtasan ng mga manggagawa at iba pang gumagamit ng kalsada."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Mga Espesyal na Sitwasyon at Kapaligiran sa Kalsada",
+"subcategory":"Mga Paggawa sa Kalsada",
+"englishSubcategory":"Roadworks",
+"description":"Binabawasan ang mga limitasyon sa bilis sa mga sona ng paggawa sa kalsada upang matiyak ang kaligtasan ng mga manggagawa at upang matugunan ang mga pagbabago sa mga kondisyon ng kalsada."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Mga Espesyal na Sitwasyon at Kapaligiran sa Kalsada",
+"subcategory":"Mga Kalsada sa Kanayunan",
+"englishSubcategory":"Rural Roads",
+"description":"Sa mga kalsada sa kanayunan, maaaring hindi inaasahang makapasok ang mga hayop sa kalsada. Maging handa laging huminto o bumagal kapag nagmamaneho sa mga rural na lugar."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Mga Espesyal na Sitwasyon at Kapaligiran sa Kalsada",
+"subcategory":"Mga Kalsada sa Kanayunan",
+"englishSubcategory":"Rural Roads",
+"description":"Ang mga kalsadang hindi selyado ay kadalasang may mahinang grip at kakayahang magpreno. Dapat bawasan ng mga drayber ang bilis kapag nagmamaneho sa mga kalsadang hindi selyado."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Mga Espesyal na Sitwasyon at Kapaligiran sa Kalsada",
+"subcategory":"Mga freeway",
+"englishSubcategory":"Freeways",
+"description":"Kung hindi mo madaanan ang labasan sa freeway, magpatuloy sa susunod na labasan at ligtas na lumiko. Huwag subukang huminto o umatras sa freeway."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Mga Espesyal na Sitwasyon at Kapaligiran sa Kalsada",
+"subcategory":"Mga freeway",
+"englishSubcategory":"Freeways",
+"description":"Ilegal ang huminto sa freeway maliban kung may emergency. Palaging gamitin ang shoulder ramp o exit ramp kung sakaling magkaroon ng aberya."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Mga Espesyal na Sitwasyon at Kapaligiran sa Kalsada",
+"subcategory":"Mga Kondisyon ng Panahon",
+"englishSubcategory":"Weather Conditions",
+"description":"Sa malakas na ulan, bawasan ang bilis at dagdagan ang distansya ng pagsunod. Ang mga basang kalsada ay maaaring makabawas sa traksyon at makapagpahaba ng distansya ng paghinto."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Mga Espesyal na Sitwasyon at Kapaligiran sa Kalsada",
+"subcategory":"Mga Kondisyon ng Panahon",
+"englishSubcategory":"Weather Conditions",
+"description":"Binabawasan ng hamog ang kakayahang makita at madama ang lalim, kaya lalong nagiging mapanganib ang pagmamaneho. Bagalan at dagdagan ang distansya ng pagsunod sa mga kondisyong mahamog."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Mga Sasakyang Pang-emerhensya at Mga Direksyon ng Pulisya",
+"subcategory":"Pagbibigay-daan ng Sasakyang Pang-emerhensya",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Kapag may paparating na sasakyang pang-emergency na may mga ilaw at/o sirena, lumayo sa dinaraanan nito at hayaan itong ligtas na dumaan."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Mga Sasakyang Pang-emerhensya at Mga Direksyon ng Pulisya",
+"subcategory":"Pagbibigay-daan ng Sasakyang Pang-emerhensya",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Kung ikaw ay nasa traffic lights at may paparating na sasakyang pang-emergency mula sa likuran, ang pinakaligtas na hakbang ay tumabi kung ligtas at naaayon sa batas, kung hindi ay manatili sa isang lugar at hayaan itong dumaan kung maaari."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Mga Sasakyang Pang-emerhensya at Mga Direksyon ng Pulisya",
+"subcategory":"Mga Direksyon ng Pulisya",
+"englishSubcategory":"Police Directions",
+"description":"Kung iba ang direksyon ng isang pulis sa direksyon ng isang karatula, dapat mong sundin ang direksyon ng mga pulis."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Mga Sasakyang Pang-emerhensya at Mga Direksyon ng Pulisya",
+"subcategory":"Pagbibigay-daan ng Sasakyang Pang-emerhensya",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Kung huminto ang isang sasakyang pang-emergency na may kumikislap na ilaw sa tabi ng kalsada, bumagal at maingat na dumaan, at dumaan kung ligtas."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Mga Sasakyang Pang-emerhensya at Mga Direksyon ng Pulisya",
+"subcategory":"Mga Direksyon ng Pulisya",
+"englishSubcategory":"Police Directions",
+"description":"Kung maglalagay ng pansamantalang harang sa kalsada ang pulisya, sundin ang kanilang mga tagubilin at anumang paglihis."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Mga Sasakyang Pang-emerhensya at Mga Direksyon ng Pulisya",
+"subcategory":"Pagbibigay-daan ng Sasakyang Pang-emerhensya",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Hindi ka dapat sumunod nang malapit sa isang sasakyang pang-emergency para mas mabilis na makalagpas sa trapiko."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Mga Sasakyang Pang-emerhensya at Mga Direksyon ng Pulisya",
+"subcategory":"Pagbibigay-daan ng Sasakyang Pang-emerhensya",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Kung may maririnig kang sirena ngunit hindi mo pa nakikita ang sasakyang pang-emergency, manatiling alerto, tingnan ang mga salamin, at maging handa sa ligtas na pagkilos."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Mga Sasakyang Pang-emerhensya at Mga Direksyon ng Pulisya",
+"subcategory":"Mga Direksyon ng Pulisya",
+"englishSubcategory":"Police Directions",
+"description":"Kung ang isang traffic controller sa roadworks ay nagbibigay ng mga direksyon, dapat mong sundin ang traffic controller."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Mga Sasakyang Pang-emerhensya at Mga Direksyon ng Pulisya",
+"subcategory":"Mga Direksyon ng Pulisya",
+"englishSubcategory":"Police Directions",
+"description":"Kung utusan ka ng pulisya na huminto para sa pagsusuri ng lisensya, huminto nang ligtas ayon sa itinagubilin."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Mga Sasakyang Pang-emerhensya at Mga Direksyon ng Pulisya",
+"subcategory":"Pagbibigay-daan ng Sasakyang Pang-emerhensya",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Kung ikaw ay nasa iisang lane lamang at may paparating na sasakyang pang-emerhensya mula sa likuran, magbigay ng senyales at lumipat sa kaliwa o sa isang ligtas na posisyon kung maaari."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Mga Seatbelt, Mga Pampigil sa Bata at mga Pasahero",
+"subcategory":"Mga sinturon ng upuan",
+"englishSubcategory":"Seatbelts",
+"description":"Responsibilidad ng drayber na tiyaking nakasuot ng seatbelt ang lahat ng pasaherong wala pang 16 taong gulang."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Mga Seatbelt, Mga Pampigil sa Bata at mga Pasahero",
+"subcategory":"Mga sinturon ng upuan",
+"englishSubcategory":"Seatbelts",
+"description":"Dapat laging isuot ang seatbelt habang umaandar ang sasakyan, kung mayroon man."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Mga Seatbelt, Mga Pampigil sa Bata at mga Pasahero",
+"subcategory":"Mga Pagpigil sa Bata",
+"englishSubcategory":"Child Restraints",
+"description":"Kinakailangan ang child restraint dahil dinisenyo ito upang mas epektibong magkasya at protektahan ang laki at hugis ng katawan ng bata kaysa sa seatbelt ng isang nasa hustong gulang."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Mga Seatbelt, Mga Pampigil sa Bata at mga Pasahero",
+"subcategory":"Mga Pasahero",
+"englishSubcategory":"Passengers",
+"description":"Hindi ligtas para sa mga pasahero na ilagay ang paa sa dashboard dahil ang mga airbag at puwersa ng pagbangga ay maaaring magdulot ng malubhang pinsala."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Mga Seatbelt, Mga Pampigil sa Bata at mga Pasahero",
+"subcategory":"Mga Pagpigil sa Bata",
+"englishSubcategory":"Child Restraints",
+"description":"Ang pinakaligtas na pangkalahatang tuntunin sa pagpili ng child restraint ay ang paggamit ng isa na aprubado at angkop para sa edad at laki ng bata."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Mga Seatbelt, Mga Pampigil sa Bata at mga Pasahero",
+"subcategory":"Mga sinturon ng upuan",
+"englishSubcategory":"Seatbelts",
+"description":"Isang karaniwang senyales na hindi wastong isinusuot ang seatbelt ay kapag ang sash strap ay nasa ilalim ng braso o sa likod ng likod."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Mga Seatbelt, Mga Pampigil sa Bata at mga Pasahero",
+"subcategory":"Mga Pasahero",
+"englishSubcategory":"Passengers",
+"description":"Kung ang isang pasahero ay makagambala sa drayber, ang pinakaligtas na aksyon ay hilingin sa kanila na huminto at magpokus muli sa pagmamaneho."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Mga Seatbelt, Mga Pampigil sa Bata at mga Pasahero",
+"subcategory":"Mga Pagpigil sa Bata",
+"englishSubcategory":"Child Restraints",
+"description":"Hindi ligtas na kargahin ang sanggol sa iyong kandungan sa isang umaandar na sasakyan dahil hindi mo siya mahawakan nang maayos sa isang aksidente."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Mga Seatbelt, Mga Pampigil sa Bata at mga Pasahero",
+"subcategory":"Mga sinturon ng upuan",
+"englishSubcategory":"Seatbelts",
+"description":"Dapat isuot ang seatbelt nang mababa ang bahagi ng kandungan na nakatapat sa balakang upang mabawasan ang panganib ng pinsala sa tiyan sa isang banggaan."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Mga Seatbelt, Mga Pampigil sa Bata at mga Pasahero",
+"subcategory":"Mga Pasahero",
+"englishSubcategory":"Passengers",
+"description":"Ang isang pangunahing panganib ng pagdadala ng mga bagay na hindi ligtas sa loob ng cabin ay ang maaari itong maging mga projectile kapag may bumagsak o biglaang paghinto."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Mga Pangunahing Kaalaman sa Kaligtasan, mga Depekto at Pagpapanatili ng Sasakyan",
+"subcategory":"Mga Gulong",
+"englishSubcategory":"Tyres",
+"description":"Mahalaga ang tamang presyon ng gulong para sa kaligtasan dahil nakakaapekto ito sa grip, pagpepreno, at kontrol sa manibela."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Mga Pangunahing Kaalaman sa Kaligtasan, mga Depekto at Pagpapanatili ng Sasakyan",
+"subcategory":"Mga preno",
+"englishSubcategory":"Brakes",
+"description":"Kung ang pedal ng iyong preno ay parang espongha o mas lumulubog kaysa karaniwan, ituring ito bilang isang malubhang depekto at ipasuri agad ang preno."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Mga Pangunahing Kaalaman sa Kaligtasan, mga Depekto at Pagpapanatili ng Sasakyan",
+"subcategory":"Mga Ilaw at Kakayahang Makita",
+"englishSubcategory":"Lights & Visibility",
+"description":"Regular na suriin ang lahat ng ilaw ng sasakyan upang matiyak na makikita at mapansin ka ng iba."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Mga Pangunahing Kaalaman sa Kaligtasan, mga Depekto at Pagpapanatili ng Sasakyan",
+"subcategory":"Pagpipiloto at Suspensyon",
+"englishSubcategory":"Steering & Suspension",
+"description":"Ang isang babalang senyales ng problema sa manibela ay maaaring magsama ng hindi pangkaraniwang paghila, panginginig ng boses, o kahirapan sa pagmaniobra."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Mga Pangunahing Kaalaman sa Kaligtasan, mga Depekto at Pagpapanatili ng Sasakyan",
+"subcategory":"Windscreen at mga Wiper",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Ang mga sirang wiper blade ay isang isyu sa kaligtasan dahil binabawasan nito ang visibility kapag umuulan."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Mga Pangunahing Kaalaman sa Kaligtasan, mga Depekto at Pagpapanatili ng Sasakyan",
+"subcategory":"Mga Gulong",
+"englishSubcategory":"Tyres",
+"description":"Ang isang karaniwang senyales na ang mga gulong ay maaaring hindi ligtas ay kung ang tread ay sira na o hindi pantay ang pagkasuot."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Mga Pangunahing Kaalaman sa Kaligtasan, mga Depekto at Pagpapanatili ng Sasakyan",
+"subcategory":"Mga Salamin at Pagsasaayos",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Dapat isaayos ang mga salamin bago magmaneho upang mabawasan ang mga blind spot at mapabuti ang kamalayan."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Mga Pangunahing Kaalaman sa Kaligtasan, mga Depekto at Pagpapanatili ng Sasakyan",
+"subcategory":"Mga preno",
+"englishSubcategory":"Brakes",
+"description":"Kung ang iyong mga preno ay may ingay ng paggiling, ipa-inspeksyon ang mga ito sa lalong madaling panahon."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Mga Pangunahing Kaalaman sa Kaligtasan, mga Depekto at Pagpapanatili ng Sasakyan",
+"subcategory":"Mga Ilaw at Kakayahang Makita",
+"englishSubcategory":"Lights & Visibility",
+"description":"Gumamit ng mga headlight na mahina ang paningin tuwing ito ay mahina para makita ka ng iba."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Mga Pangunahing Kaalaman sa Kaligtasan, mga Depekto at Pagpapanatili ng Sasakyan",
+"subcategory":"Windscreen at mga Wiper",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Kung ang iyong windshield ay lubhang basag na malapit sa iyong paningin, ayusin o palitan ito bago magpatuloy sa pagmamaneho."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Kamalayan sa mga Karga, Paghila at Mabibigat na Sasakyan",
+"subcategory":"Mga karga",
+"englishSubcategory":"Loads",
+"description":"Dapat na maayos na mailagay ang mga kargamento upang maiwasan ang mga ito sa paggalaw o pagbagsak na magdulot ng pagbangga."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Kamalayan sa mga Karga, Paghila at Mabibigat na Sasakyan",
+"subcategory":"Mga karga",
+"englishSubcategory":"Loads",
+"description":"Ang isang hindi ligtas na kargamento sa loob ng sasakyan ay maaaring maging isang bala habang biglaang pagpreno, na nagdudulot ng malaking panganib sa kaligtasan."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Kamalayan sa mga Karga, Paghila at Mabibigat na Sasakyan",
+"subcategory":"Mga karga",
+"englishSubcategory":"Loads",
+"description":"Ang pagdadala ng overloaded na sasakyan ay nakakaapekto sa pagpepreno sa pamamagitan ng pagpapataas ng distansya sa paghinto."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Kamalayan sa mga Karga, Paghila at Mabibigat na Sasakyan",
+"subcategory":"Mga karga",
+"englishSubcategory":"Loads",
+"description":"Ang pinakaligtas na paraan ng pagdadala ng mahahabang gamit ay ang pag-secure ng mga ito nang hindi gumagalaw o nakausli nang mapanganib."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Kamalayan sa mga Karga, Paghila at Mabibigat na Sasakyan",
+"subcategory":"Paghila",
+"englishSubcategory":"Towing",
+"description":"Ang paghila ng trailer ay nagpapataas ng distansya sa paghinto dahil ang sobrang bigat ay nakakabawas sa bisa ng pagpreno."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Kamalayan sa mga Karga, Paghila at Mabibigat na Sasakyan",
+"subcategory":"Paghila",
+"englishSubcategory":"Towing",
+"description":"Bago humila ng trailer, tiyaking maayos ang pagkakabit, mga ilaw, at kadenang pangkaligtasan."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Kamalayan sa mga Karga, Paghila at Mabibigat na Sasakyan",
+"subcategory":"Paghila",
+"englishSubcategory":"Towing",
+"description":"Maglaan ng dagdag na espasyo kapag lumiliko habang hinihila, dahil ang trailer ay sumusubaybay sa loob ng landas ng pagliko."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Kamalayan sa mga Karga, Paghila at Mabibigat na Sasakyan",
+"subcategory":"Mga karga",
+"englishSubcategory":"Loads",
+"description":"Ang kargamento na nakaharang sa iyong paningin sa likuran ay nakakabawas sa kamalayan sa pagsunod sa trapiko, na nagpapataas ng panganib ng mga aksidente."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Kamalayan sa mga Karga, Paghila at Mabibigat na Sasakyan",
+"subcategory":"Mga Mabibigat na Sasakyan",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Ang mabibigat na sasakyan ay nangangailangan ng mas malawak na espasyo upang huminto dahil ang kanilang mas malaking masa ay nagpapataas ng distansya ng pagpreno."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Kamalayan sa mga Karga, Paghila at Mabibigat na Sasakyan",
+"subcategory":"Mga Mabibigat na Sasakyan",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Kapag sinusundan ang isang malaking trak, dagdagan ang distansya ng pagsunod upang isaalang-alang ang mga blind spot at mas malayo ang distansya ng paghinto ng mga trak."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Paglilisensya, Mga Panuntunan sa L/P Plate at Praktikal na mga DKT Trap (VIC)",
+"subcategory":"Mga Panuntunan sa Permit ng Mag-aaral",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Bilang isang mag-aaral na magmaneho na naninirahan sa Victoria, pinapayagan ka lamang magmaneho ng kotse kapag pinangangasiwaan ng isang lisensyadong drayber na nakaupo sa tabi mo."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Paglilisensya, Mga Panuntunan sa L/P Plate at Praktikal na mga DKT Trap (VIC)",
+"subcategory":"Mga Panuntunan sa Permit ng Mag-aaral",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Dapat ipakita nang malinaw ng mga nag-aaral na drayber ang kanilang mga plaka ng L para makita ito ng ibang tao sa sasakyan sa lahat ng oras."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Paglilisensya, Mga Panuntunan sa L/P Plate at Praktikal na mga DKT Trap (VIC)",
+"subcategory":"Mga Panuntunan sa Permit ng Mag-aaral",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Kung makatulog ang iyong superbisor driver habang nagmamaneho ka, huminto nang ligtas at huwag magpatuloy hangga't hindi nasusubaybayan nang maayos."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Paglilisensya, Mga Panuntunan sa L/P Plate at Praktikal na mga DKT Trap (VIC)",
+"subcategory":"Mga Mobile Phone at Device",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Bilang isang nag-aaral na magmaneho sa Victoria, hindi ka pinapayagang gumamit ng mobile phone sa anumang paraan habang nagmamaneho."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Paglilisensya, Mga Panuntunan sa L/P Plate at Praktikal na mga DKT Trap (VIC)",
+"subcategory":"Mga Panuntunan sa Permit ng Mag-aaral",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Kung mahulog ang iyong L plates habang nagmamaneho, huminto nang maingat at ibalik ang mga ito sa pagkakabit bago magpatuloy sa pagmamaneho."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Paglilisensya, Mga Panuntunan sa L/P Plate at Praktikal na mga DKT Trap (VIC)",
+"subcategory":"Superbisyon",
+"englishSubcategory":"Supervision",
+"description":"Ang pangunahing layunin ng kaligtasan ng mga tuntunin sa pangangasiwa ng mga mag-aaral ay upang matiyak na ang isang bihasang drayber ay maaaring gumabay at mamagitan kung kinakailangan."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Paglilisensya, Mga Panuntunan sa L/P Plate at Praktikal na mga DKT Trap (VIC)",
+"subcategory":"Mga Kondisyon at Pagsunod",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Kung ang isang nag-aaral na magmaneho ay mahuli sa pagmamaneho nang walang kinakailangang pangangasiwa, malamang na magkaroon ng mga parusa at posibleng mga kahihinatnan sa paglilisensya."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Paglilisensya, Mga Panuntunan sa L/P Plate at Praktikal na mga DKT Trap (VIC)",
+"subcategory":"Persepsyon sa Panganib",
+"englishSubcategory":"Hazard Perception",
+"description":"Isang karaniwang patibong sa mga interseksyon para sa mga nag-aaral na magmaneho ay ang pagliko nang hindi tinitingnan kung may mga taong tumatawid sa kalsadang iyong papasukin."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Paglilisensya, Mga Panuntunan sa L/P Plate at Praktikal na mga DKT Trap (VIC)",
+"subcategory":"Persepsyon sa Panganib",
+"englishSubcategory":"Hazard Perception",
+"description":"Kahit berde ang ilaw, dapat kang bumagal o huminto kung may nakaharang na trapiko sa unahan o kung may tumatawid na mga naglalakad."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Paglilisensya, Mga Panuntunan sa L/P Plate at Praktikal na mga DKT Trap (VIC)",
+"subcategory":"Mga Panuntunan sa Permit ng Mag-aaral",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Kung ikaw ay nangangasiwa sa isang mag-aaral, ang nangangasiwang drayber ay dapat laging umupo sa upuan ng pasahero sa harap."
+}
+]

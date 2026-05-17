@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Verkeersregels en -wetten",
+"subcategory":"Algemene verkeersregels",
+"englishSubcategory":"General Road Rules",
+"description":"Bestuurders moeten zich aan de algemene verkeersregels houden om de veiligheid en een vlotte doorstroming van het verkeer te garanderen. Dit houdt in dat ze verkeersborden, -lichten en rijstrookmarkeringen moeten respecteren. Het niet naleven van deze regels kan leiden tot ongelukken en boetes."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Verkeersregels en -wetten",
+"subcategory":"Voorrang verlenen",
+"englishSubcategory":"Giving Way",
+"description":"Bestuurders zijn verplicht om voorrang te verlenen aan andere voertuigen en voetgangers op kruispunten, rotondes en zebrapaden, en op andere locaties. Het niet verlenen van voorrang is een overtreding."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Verkeersregels en -wetten",
+"subcategory":"Rijstrookgebruik",
+"englishSubcategory":"Lane Use",
+"description":"Bestuurders moeten de juiste rijstroken gebruiken en de rijstrookmarkeringen volgen. Dit omvat regels voor het wisselen van rijstrook, inhalen en het gebruik van fiets- of busstroken. Overtredingen kunnen leiden tot boetes of ongelukken."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Verkeersregels en -wetten",
+"subcategory":"Trams",
+"englishSubcategory":"Trams",
+"description":"Bestuurders moeten op de hoogte zijn van de tramregels, waaronder het verlenen van voorrang aan voetgangers bij tramhaltes, het stoppen voor trams met open deuren en het niet inhalen van trams onder bepaalde omstandigheden."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Verkeersregels en -wetten",
+"subcategory":"Kruispunten",
+"englishSubcategory":"Intersections",
+"description":"Op kruispunten moeten bestuurders de juiste procedures volgen voor het verlenen van voorrang en het stoppen bij stopborden of verkeerslichten. Het begrijpen van deze regels is essentieel om ongelukken te voorkomen."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Verkeersregels en -wetten",
+"subcategory":"U-bochten",
+"englishSubcategory":"U-Turns",
+"description":"Keerbewegingen zijn alleen toegestaan op kruispunten of wanneer er geen bord staat dat ze verbiedt. Bestuurders moeten zich ervan verzekeren dat het veilig is voordat ze een keerbeweging maken."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Verkeersregels en -wetten",
+"subcategory":"Snelheidslimieten",
+"englishSubcategory":"Speed Limits",
+"description":"Bestuurders moeten zich aan de aangegeven snelheidslimieten houden om de veiligheid op de weg te garanderen. Te hard rijden kan leiden tot boetes, intrekking van het rijbewijs en een verhoogd risico op ongelukken."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Verkeersregels en -wetten",
+"subcategory":"Voetgangersveiligheid",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Bestuurders moeten voetgangers op zebrapaden voorrang verlenen en hun veiligheid garanderen in de buurt van voetgangerszones. Het niet stoppen voor voetgangers op zebrapaden is een overtreding."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Verkeersregels en -wetten",
+"subcategory":"Spoorwegovergangen",
+"englishSubcategory":"Railway Crossings",
+"description":"Bestuurders moeten stoppen bij spoorwegovergangen wanneer de lichten knipperen of de slagbomen gesloten zijn. Het negeren van deze signalen is een ernstige overtreding en kan leiden tot boetes en ongelukken."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Verkeersregels en -wetten",
+"subcategory":"Hulpvoertuigen",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Bestuurders moeten voorrang verlenen aan hulpdiensten die gebruikmaken van zwaailichten en sirenes, zodat het voertuig vrij door het verkeer kan rijden."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Verkeersborden en -signalen",
+"subcategory":"Regelgevende borden",
+"englishSubcategory":"Regulatory Signs",
+"description":"Verkeersborden bevatten verplichte instructies voor bestuurders, zoals snelheidslimieten, afslagbeperkingen en verbodsborden. Het opvolgen van deze borden is wettelijk verplicht om de veiligheid en orde op de weg te waarborgen."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Verkeersborden en -signalen",
+"subcategory":"Waarschuwingssignalen",
+"englishSubcategory":"Warning Signs",
+"description":"Waarschuwingsborden attenderen bestuurders op mogelijke gevaren, zoals scherpe bochten, schoolzones en oversteekplaatsen voor wild. Deze borden helpen bestuurders hun rijgedrag aan te passen om ongelukken te voorkomen."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Verkeersborden en -signalen",
+"subcategory":"Snelheidsborden",
+"englishSubcategory":"Speed Signs",
+"description":"Snelheidsborden geven de maximaal of minimaal toegestane snelheid op een weg aan. Bestuurders moeten zich aan deze limieten houden om de verkeersveiligheid te waarborgen en boetes te voorkomen."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Verkeersborden en -signalen",
+"subcategory":"Verkeerslichten",
+"englishSubcategory":"Traffic Lights",
+"description":"Verkeerslichten regelen de doorstroming van voertuigen en voetgangers op kruispunten. Rood betekent stoppen, groen betekent doorrijden en geel is een waarschuwing om je voor te bereiden op een stop."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Verkeersborden en -signalen",
+"subcategory":"Voetgangerssignalen",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Voetgangerssignalen geven aan wanneer het veilig is voor voetgangers om de weg over te steken. Deze signalen werken meestal samen met verkeerslichten om de veiligheid van voetgangers te garanderen."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Verkeersborden en -signalen",
+"subcategory":"Rijstrookcontrolesignalen",
+"englishSubcategory":"Lane Control Signals",
+"description":"Rijstrooksignalen worden gebruikt om aan te geven of een rijstrook open of gesloten is. Deze signalen worden doorgaans gebruikt op meerbaanswegen en in tunnels."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Verkeersborden en -signalen",
+"subcategory":"Parkeerverbodsborden",
+"englishSubcategory":"No Parking Signs",
+"description":"Borden met 'verboden te parkeren' geven aan waar stoppen of parkeren verboden is. Dit is meestal om een vlotte doorstroming van het verkeer en een veilige omgeving te garanderen."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Verkeersborden en -signalen",
+"subcategory":"Eenrichtingsborden",
+"englishSubcategory":"One-Way Signs",
+"description":"Eenrichtingsverkeer geeft aan dat het verkeer slechts in één richting mag rijden. Het negeren van deze borden kan leiden tot ongelukken en juridische gevolgen."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Verkeersborden en -signalen",
+"subcategory":"Stopborden",
+"englishSubcategory":"Stop Signs",
+"description":"Bij een stopbord moeten bestuurders volledig tot stilstand komen en voorrang verlenen aan andere voertuigen of voetgangers voordat ze verder rijden."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Verkeersborden en -signalen",
+"subcategory":"Voorrangsborden",
+"englishSubcategory":"Give Way Signs",
+"description":"Voorrangsborden instrueren bestuurders om voorrang te verlenen aan andere weggebruikers, of dat nu voetgangers of voertuigen zijn, afhankelijk van de situatie, om ongelukken te voorkomen."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Snelheids- en afstandsregels",
+"subcategory":"Snelheidslimieten",
+"englishSubcategory":"Speed Limits",
+"description":"De standaard maximumsnelheid in bebouwde gebieden in Victoria is 50 km/u, tenzij anders aangegeven. Controleer altijd de verkeersborden om er zeker van te zijn datuzich aan de wettelijke snelheidslimieten houdt."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Snelheids- en afstandsregels",
+"subcategory":"Snelheidslimieten",
+"englishSubcategory":"Speed Limits",
+"description":"In een aangegeven schoolzone geldt gedurende de aangegeven uren een maximumsnelheid van 40 km/u om de veiligheid van overstekende kinderen te garanderen."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Snelheids- en afstandsregels",
+"subcategory":"Volgafstand",
+"englishSubcategory":"Following Distance",
+"description":"De minimale veilige volgafstand onder ideale omstandigheden is minstens twee seconden achter het voertuig ervoor. Dit geeft voldoende tijd om te reageren als het voertuig ervoor plotseling remt."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Snelheids- en afstandsregels",
+"subcategory":"Snelheidslimieten",
+"englishSubcategory":"Speed Limits",
+"description":"Bij het passeren van een stilstaande tram in een veiligheidszone moetuuw snelheid verlagen tot 10 km/u om de veiligheid van passagiers die in- of uitstappen te garanderen."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Snelheids- en afstandsregels",
+"subcategory":"Snelheidslimieten",
+"englishSubcategory":"Speed Limits",
+"description":"Op landwegen zonder snelheidsborden is de standaard maximumsnelheid 100 km/u, tenzij anders aangegeven door lokale borden. Pas uw snelheid aan de wegomstandigheden aan om de veiligheid te waarborgen."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Snelheids- en afstandsregels",
+"subcategory":"Volgafstand",
+"englishSubcategory":"Following Distance",
+"description":"Bij nat weer moetude afstand tot uw voorganger vergroten tot minstens vier seconden. Natte wegen verminderen de grip, waardoorumeer tijd nodig hebt om veilig te stoppen."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Snelheids- en afstandsregels",
+"subcategory":"Snelheidslimieten",
+"englishSubcategory":"Speed Limits",
+"description":"Houdute allen tijde aan de elektronische snelheidslimietborden wanneer deze in werking zijn. Deze borden passen de snelheidslimiet aan op basis van de verkeersomstandigheden, het weer of incidenten op de weg."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Snelheids- en afstandsregels",
+"subcategory":"Remafstand",
+"englishSubcategory":"Stopping Distance",
+"description":"Naarmate uw snelheid toeneemt, neemt ook de benodigde remweg toe om uw voertuig veilig tot stilstand te brengen. Zorg er altijd voor datuvoldoende afstand hebt om te reageren op gevaren."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Snelheids- en afstandsregels",
+"subcategory":"Snelheidslimieten",
+"englishSubcategory":"Speed Limits",
+"description":"In gedeelde zones is de maximumsnelheid over het algemeen 10 km/u om de veiligheid van voetgangers en fietsers te waarborgen in gebieden waar voertuigen en niet-gemotoriseerde weggebruikers elkaar tegenkomen."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Snelheids- en afstandsregels",
+"subcategory":"Volgafstand",
+"englishSubcategory":"Following Distance",
+"description":"Te dicht achter een ander voertuig rijden is gevaarlijk omdat het de reactie- en remtijd verkort. Houd altijd voldoende afstand, vooral wanneeruachter grotere voertuigen rijdt die uw zicht kunnen belemmeren."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Verantwoordelijkheden van de chauffeur",
+"subcategory":"Wettelijke verplichtingen",
+"englishSubcategory":"Legal Obligations",
+"description":"Bestuurders moeten aan diverse wettelijke verplichtingen voldoen, zoals het verlenen van hulp na een ongeval, het uitwisselen van gegevens na een aanrijding en het melden van incidenten aan de autoriteiten zoals wettelijk vereist."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Verantwoordelijkheden van de chauffeur",
+"subcategory":"Aandacht en controle",
+"englishSubcategory":"Attention & Control",
+"description":"Bestuurders moeten te allen tijde de controle over hun voertuig behouden, afleiding vermijden en geconcentreerd blijven om hun eigen veiligheid en die van andere weggebruikers te waarborgen."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Verantwoordelijkheden van de chauffeur",
+"subcategory":"Wettelijke verplichtingen",
+"englishSubcategory":"Legal Obligations",
+"description":"In geval van een ongeval met letselschade zijn bestuurders verplicht te stoppen en, indien mogelijk, hulp te verlenen. Het niet stoppen en hulp verlenen in dergelijke situaties is een wettelijke overtreding."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Verantwoordelijkheden van de chauffeur",
+"subcategory":"Aandacht en controle",
+"englishSubcategory":"Attention & Control",
+"description":"Het is essentieel dat bestuurders te allen tijde de volledige controle over hun voertuig behouden, zodat ze adequaat kunnen reageren op veranderende verkeersomstandigheden en een veilige rijomgeving kunnen handhaven."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Verantwoordelijkheden van de chauffeur",
+"subcategory":"Wettelijke verplichtingen",
+"englishSubcategory":"Legal Obligations",
+"description":"Bestuurders zijn verplicht een ongeval bij de politie te melden als er gewonden zijn gevallen of als er materiële schade is en de gegevens niet kunnen worden uitgewisseld. Het niet melden van deze incidenten kan leiden tot boetes."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Verantwoordelijkheden van de chauffeur",
+"subcategory":"Vermoeidheidsmanagement",
+"englishSubcategory":"Fatigue Management",
+"description":"Vermoeidheid vormt een ernstig risico tijdens het autorijden. Bestuurders moeten zich bewust zijn van de vroege tekenen van vermoeidheid, zoals gapen en concentratieverlies, en passende maatregelen nemen om ongelukken te voorkomen."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Verantwoordelijkheden van de chauffeur",
+"subcategory":"Wettelijke verplichtingen",
+"englishSubcategory":"Legal Obligations",
+"description":"Bestuurders moeten hun rijbewijs tonen wanneer de politie daarom vraagt. Weigering om het rijbewijs te tonen kan leiden tot boetes of andere juridische gevolgen."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Verantwoordelijkheden van de chauffeur",
+"subcategory":"Aandacht en controle",
+"englishSubcategory":"Attention & Control",
+"description":"Bestuurders moeten onnodig claxongebruik vermijden, omdat dit andere weggebruikers kan laten schrikken of afleiden. De claxon mag alleen worden gebruikt om anderen te attenderen op uw aanwezigheid in situaties waarin dit noodzakelijk is."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Verantwoordelijkheden van de chauffeur",
+"subcategory":"Vermoeidheidsmanagement",
+"englishSubcategory":"Fatigue Management",
+"description":"Alsuzich te moe voelt om verder te rijden, is het het veiligst om te stoppen en uit te rusten voordatuverdergaat. Rijden met vermoeidheid vergroot het risico op ongelukken aanzienlijk."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Verantwoordelijkheden van de chauffeur",
+"subcategory":"Wettelijke verplichtingen",
+"englishSubcategory":"Legal Obligations",
+"description":"Bestuurders hebben de verantwoordelijkheid ervoor te zorgen dat hun passagiers veilig zitten en vastgegespt zijn. Dit houdt onder meer in dat kinderen in geschikte kinderzitjes zitten en volwassenen hun veiligheidsgordel dragen."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alcohol, drugs en gezondheid",
+"subcategory":"Alcohollimieten",
+"englishSubcategory":"Alcohol Limits",
+"description":"In Victoria moeten beginnende bestuurders en bestuurders met een voorlopig rijbewijs (P1 en P2) te allen tijde een bloedalcoholconcentratie (BAC) van 0,00 aanhouden. Bestuurders met een volledig rijbewijs hebben een BAC-limiet van 0,05, maar het is veiliger om helemaal geen alcohol te drinken tijdens het autorijden."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alcohol, drugs en gezondheid",
+"subcategory":"Effecten van alcohol",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alcohol beïnvloedt het beoordelingsvermogen, de reactiesnelheid en de coördinatie, wat het risico op ongelukken aanzienlijk kan verhogen. Zelfs kleine hoeveelheden alcohol kunnen uw vermogen om veilig te rijden verminderen."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alcohol, drugs en gezondheid",
+"subcategory":"Rijden onder invloed van drugs",
+"englishSubcategory":"Drug Driving",
+"description":"Rijden onder invloed van drugs, waaronder voorgeschreven medicijnen, kan uw rijvaardigheid beïnvloeden, zelfs alsuzich niet belemmerd voelt. Het is belangrijk omubewust te zijn van de risico's en niet te rijden na drugsgebruik."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alcohol, drugs en gezondheid",
+"subcategory":"Medicijnveiligheid",
+"englishSubcategory":"Medication Safety",
+"description":"Voordatumet een nieuw receptmedicijn begint, controleer dan of het uw rijvaardigheid beïnvloedt en volg het medisch advies op. Sommige medicijnen kunnen slaperigheid veroorzaken of de concentratie verminderen."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alcohol, drugs en gezondheid",
+"subcategory":"Vermoeidheid en gezondheid",
+"englishSubcategory":"Fatigue & Health",
+"description":"Vermoeidheid kan, net als alcohol of drugs, uw vermogen om veilig te rijden beïnvloeden. Zorg ervoor datuvoldoende rust krijgt voordatugaat rijden en neem pauzes tijdens lange ritten om het risico op vermoeidheidsgerelateerde ongelukken te verkleinen."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Alcohol, drugs en gezondheid",
+"subcategory":"Effecten van alcohol",
+"englishSubcategory":"Alcohol Effects",
+"description":"Na het drinken kan alleen de tijd de hoeveelheid alcohol in je lichaam verminderen. Koffie, koude douches of andere methoden versnellen dit proces niet."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Alcohol, drugs en gezondheid",
+"subcategory":"Alcohollimieten",
+"englishSubcategory":"Alcohol Limits",
+"description":"In Victoria moeten alle beginnende en proefbestuurders een bloedalcoholgehalte (BAC) van 0,00 aanhouden. Voor bestuurders met een volledig rijbewijs is de BAC-limiet 0,05. Het is echter altijd het veiligst om geen alcohol te drinken voordat je gaat rijden."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Alcohol, drugs en gezondheid",
+"subcategory":"Rijden onder invloed van drugs",
+"englishSubcategory":"Drug Driving",
+"description":"In Victoria kuntueen boete krijgen voor het rijden onder invloed van bepaalde drugs, zelfs alsuzich niet beïnvloed voelt. Drugsgebruik beïnvloedt uw vermogen om veilig te rijden en verhoogt het risico op ongelukken."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Alcohol, drugs en gezondheid",
+"subcategory":"Medicijnveiligheid",
+"englishSubcategory":"Medication Safety",
+"description":"Controleer vóór het autorijden altijd of nieuwe medicijnen uw rijvaardigheid kunnen beïnvloeden. Sommige medicijnen veroorzaken slaperigheid, vertragen de reactietijd en verminderen de concentratie."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Alcohol, drugs en gezondheid",
+"subcategory":"Vermoeidheid en gezondheid",
+"englishSubcategory":"Fatigue & Health",
+"description":"Vermoeidheid kan een vergelijkbaar effect hebben op het autorijden als alcohol. Het vertraagt je reactietijd, beïnvloedt je beoordelingsvermogen minder goed en vermindert je vermogen om beslissingen te nemen, waardoor het risico op ongelukken toeneemt."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Veilige rijpraktijken",
+"subcategory":"Gevaarperceptie",
+"englishSubcategory":"Hazard Perception",
+"description":"Wanneer je een potentieel gevaar nadert, is de veiligste reactie om vaart te minderen en je voor te bereiden om te stoppen indien nodig. Dit geeft je de tijd om de situatie in te schatten en gepast te reageren."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Veilige rijpraktijken",
+"subcategory":"Gevaarperceptie",
+"englishSubcategory":"Hazard Perception",
+"description":"Goed vooruitkijken tijdens het autorijden is cruciaal om potentiële gevaren vroegtijdig te signaleren. Hierdoor kuntuuw reactie plannen en impulsieve reacties vermijden."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Veilige rijpraktijken",
+"subcategory":"Defensief rijden",
+"englishSubcategory":"Defensive Driving",
+"description":"Defensief rijden houdt in dat je anticipeert op mogelijke fouten van andere weggebruikers en een veilige afstand bewaart om botsingen te voorkomen."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Veilige rijpraktijken",
+"subcategory":"Wegomstandigheden",
+"englishSubcategory":"Road Conditions",
+"description":"Als je banden grip verliezen op een nat wegdek, laat dan het gaspedaal los en stuur soepel. Plotseling remmen of scherpe bochten kunnen de situatie verergeren en leiden tot verlies van controle."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Veilige rijpraktijken",
+"subcategory":"Gevaarperceptie",
+"englishSubcategory":"Hazard Perception",
+"description":"Wanneer je in het verkeer rijdt, kun je het beste ver vooruit en opzij kijken naar mogelijke gevaren, en niet alleen naar de auto voor je. Zo kun je risico's eerder herkennen."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Veilige rijpraktijken",
+"subcategory":"Defensief rijden",
+"englishSubcategory":"Defensive Driving",
+"description":"Als een voertuig vooruslingert op de rijstrook, is het het veiligst om meer afstand te houden. Dit geeftumeer tijd om te reageren als de situatie verergert."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Veilige rijpraktijken",
+"subcategory":"Wegomstandigheden",
+"englishSubcategory":"Road Conditions",
+"description":"De weg is vaak het gladst in de eerste minuten na een regenbui. Wees in deze periode extra voorzichtig, omdat olie en vuil op de weg de situatie gevaarlijker kunnen maken."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Veilige rijpraktijken",
+"subcategory":"s Nachts rijden",
+"englishSubcategory":"Night Driving",
+"description":"Om verblinding door koplampen van tegenliggers 's nachts te verminderen, kijk dan iets naar de linkerkant van uw rijstrook en rem indien nodig af. Dit helpt om directe blootstelling aan de felle lichten te voorkomen."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Veilige rijpraktijken",
+"subcategory":"Defensief rijden",
+"englishSubcategory":"Defensive Driving",
+"description":"Als een andere bestuurder te dicht achterurijdt, is het het veiligst om meer afstand te nemen van de auto voor u. Dit geeft zoweluals de bumperklever meer ruimte om te reageren."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Veilige rijpraktijken",
+"subcategory":"Wegomstandigheden",
+"englishSubcategory":"Road Conditions",
+"description":"Rijd in mistig weer, verlaag dan je snelheid en houd extra afstand tot andere voertuigen. Mist beperkt het zicht aanzienlijk en verhoogt het risico op ongelukken."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Kruispunten, bochten en rotondes",
+"subcategory":"Voorrang verlenen",
+"englishSubcategory":"Giving Way",
+"description":"Bij kruispunten zonder verkeersborden of -lichten moet een voertuig dat van rechts komt, voorrang verlenen aan een voertuig dat van links komt."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Kruispunten, bochten en rotondes",
+"subcategory":"Draait",
+"englishSubcategory":"Turns",
+"description":"Bij het rechtsaf slaan bij een verkeerslicht zonder pijl voor rechtsaf, moetuvoorrang verlenen aan tegemoetkomend verkeer en voetgangers voordatuverder rijdt."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Kruispunten, bochten en rotondes",
+"subcategory":"Rotondes",
+"englishSubcategory":"Roundabouts",
+"description":"Op een rotonde hebben voertuigen die zich al op de rotonde bevinden voorrang. Bestuurders die de rotonde oprijden, moeten hen voorrang verlenen."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Kruispunten, bochten en rotondes",
+"subcategory":"Draait",
+"englishSubcategory":"Turns",
+"description":"Bij het linksaf slaan moetuvoorrang verlenen aan voetgangers die de weg oversteken waarunaartoe wilt rijden, om hun veiligheid te waarborgen."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Kruispunten, bochten en rotondes",
+"subcategory":"Voorrang verlenen",
+"englishSubcategory":"Giving Way",
+"description":"Bij een T-kruising moet het voertuig op de afslaande weg voorrang verlenen aan voertuigen op de doorgaande weg."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Kruispunten, bochten en rotondes",
+"subcategory":"Draait",
+"englishSubcategory":"Turns",
+"description":"Bij het maken van een U-bocht moetuvoorrang verlenen aan alle andere voertuigen en voetgangers, zodat hun veiligheid tijdens het draaien gewaarborgd is."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Kruispunten, bochten en rotondes",
+"subcategory":"Rotondes",
+"englishSubcategory":"Roundabouts",
+"description":"Wanneerueen rotonde verlaat, geef dan vlak voor de afslag richting aan naar links om andere weggebruikers op de hoogte te stellen van uw intentie."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Kruispunten, bochten en rotondes",
+"subcategory":"Voorrang verlenen",
+"englishSubcategory":"Giving Way",
+"description":"Bij het oprijden van een oprit naar een openbare weg moetuvoorrang verlenen aan alle voertuigen en voetgangers op de weg om ongelukken te voorkomen."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Kruispunten, bochten en rotondes",
+"subcategory":"Draait",
+"englishSubcategory":"Turns",
+"description":"Voordaturechtsaf slaat, moetuuw voertuig zo dicht mogelijk bij het midden van de weg positioneren, zodatuveilig en vrij kunt afslaan."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Kruispunten, bochten en rotondes",
+"subcategory":"Verkeerslichten",
+"englishSubcategory":"Traffic Lights",
+"description":"Een groene pijl geeft aan datuin de richting van de pijl mag doorrijden zonder voorrang te verlenen aan ander verkeer of voetgangers."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Wegmarkeringen, rijstroken en inhalen",
+"subcategory":"Rijstrookgebruik",
+"englishSubcategory":"Lane Use",
+"description":"Een doorlopende middenlijn betekent over het algemeen datudeze niet mag overschrijden, behalve bij het op- of afrijden van de weg of een oprit."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Wegmarkeringen, rijstroken en inhalen",
+"subcategory":"Inhalen",
+"englishSubcategory":"Overtaking",
+"description":"Inhalen aan de linkerkant is toegestaan op een meerbaansweg wanneer het verkeer zich in aparte, gemarkeerde rijstroken bevindt en dit veilig is."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Wegmarkeringen, rijstroken en inhalen",
+"subcategory":"Inhalen",
+"englishSubcategory":"Overtaking",
+"description":"Op een eenbaansweg magueen voertuig aan de linkerkant inhalen wanneer het voertuig voorurechtsaf slaat en dit veilig is."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Wegmarkeringen, rijstroken en inhalen",
+"subcategory":"Rijstrookgebruik",
+"englishSubcategory":"Lane Use",
+"description":"Voordatuvan rijstrook wisselt, geef dan richting aan en zorg ervoor dat het veilig is om dit te doen. Zo zijn andere weggebruikers op de hoogte van uw intenties en worden ongelukken voorkomen."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Wegmarkeringen, rijstroken en inhalen",
+"subcategory":"Wegmarkeringen",
+"englishSubcategory":"Road Markings",
+"description":"Een geschilderd verkeersplein, of een chevronmarkering, geeft aan dat je er niet op mag rijden, wat de veilige doorstroming van het verkeer garandeert."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Wegmarkeringen, rijstroken en inhalen",
+"subcategory":"Inhalen",
+"englishSubcategory":"Overtaking",
+"description":"Als je niet zeker weet of inhalen veilig is, kun je het beste niet inhalen. Beoordeel altijd eerst de situatie voordat je een manoeuvre uitvoert."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Wegmarkeringen, rijstroken en inhalen",
+"subcategory":"Rijstrookgebruik",
+"englishSubcategory":"Lane Use",
+"description":"Een onderbroken middenlijn betekent datudeze mag overschrijden als dat veilig is, bijvoorbeeld om in te halen of van rijstrook te wisselen."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Wegmarkeringen, rijstroken en inhalen",
+"subcategory":"Rijstrookgebruik",
+"englishSubcategory":"Lane Use",
+"description":"Het is alleen legaal om over twee rijstroken te rijden als de rijstrookmarkeringen dit toestaan. Het is doorgaans niet veilig en onder de meeste rijomstandigheden niet toegestaan."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Wegmarkeringen, rijstroken en inhalen",
+"subcategory":"Inhalen",
+"englishSubcategory":"Overtaking",
+"description":"Als het voertuig datuinhaalt begint te versnellen, is de veiligste reactie om de inhaalmanoeuvre af te breken (indien mogelijk) en afstand te houden."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Wegmarkeringen, rijstroken en inhalen",
+"subcategory":"Wegmarkeringen",
+"englishSubcategory":"Road Markings",
+"description":"Een dubbele, doorlopende middenlijn betekent datudeze onder geen enkele omstandigheid mag overschrijden of eroverheen mag lopen, om de verkeersdoorstroming en veiligheid te waarborgen."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Stop-, parkeer- en wegregels",
+"subcategory":"Stoppen en parkeren is verboden.",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Verboden te stoppen' betekent datuhelemaal niet mag stoppen, terwijl 'Verboden te parkeren' kortstondig stoppen voor het ophalen of afzetten van passagiers wel is toegestaan."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Stop-, parkeer- en wegregels",
+"subcategory":"Stoppen en parkeren is verboden.",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"In een parkeerverbodzone magualleen stoppen om passagiers in of uit te laten stappen."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Stop-, parkeer- en wegregels",
+"subcategory":"Parkeren in de buurt van kruispunten",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Parkeren in de buurt van een kruispunt is vaak verboden omdat het het zicht kan belemmeren en gevaarlijke situaties kan opleveren voor automobilisten en voetgangers."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Stop-, parkeer- en wegregels",
+"subcategory":"Stoppen en parkeren is verboden.",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"In een stopverbodzone is het niet toegestaan om te stoppen, zelfs niet om een telefoontje te beantwoorden of even snel te stoppen."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Stop-, parkeer- en wegregels",
+"subcategory":"Doorrijroutes",
+"englishSubcategory":"Clearways",
+"description":"Een doorrijstrook betekent datutijdens de openingstijden niet aan die kant van de weg mag stoppen of parkeren."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Stop-, parkeer- en wegregels",
+"subcategory":"Parkeren in de buurt van oversteekplaatsen",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Stoppen vlakbij een zebrapad is gevaarlijk, omdat voetgangers daardoor aan het zicht van naderende automobilisten onttrokken kunnen worden, wat het risico op ongelukken vergroot."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Stop-, parkeer- en wegregels",
+"subcategory":"Stoppen voor de veiligheid",
+"englishSubcategory":"Stopping for Safety",
+"description":"U mag alleen stoppen in een zone waar stoppen verboden is als de verkeersomstandigheden dit vereisen of in een noodsituatie."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Stop-, parkeer- en wegregels",
+"subcategory":"Parkeren op de heuvels",
+"englishSubcategory":"Parking on Hills",
+"description":"Bij het parkeren op een helling moetualtijd de handrem aantrekken en het voertuig vastzetten om het risico op wegrollen te verkleinen."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Stop-, parkeer- en wegregels",
+"subcategory":"Parkeren in de buurt van kruispunten",
+"englishSubcategory":"Parking Near Intersections",
+"description":"U mag niet te dicht bij een hoek parkeren, omdat dit het zicht van het tegemoetkomende verkeer en voetgangers kan belemmeren en gevaarlijke situaties kan opleveren."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Stop-, parkeer- en wegregels",
+"subcategory":"Stoppen en parkeren is verboden.",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Een 'verboden te parkeren'-bord met aangegeven tijden betekent dat de beperking alleen geldt gedurende de tijden die op het bord staan vermeld."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Voetgangers, fietsers en kwetsbare weggebruikers",
+"subcategory":"Voetgangers",
+"englishSubcategory":"Pedestrians",
+"description":"Bij het afslaan moeten bestuurders voorrang verlenen aan voetgangers die de weg oversteken. Dit geldt ook als de voetganger zich niet op een aangewezen oversteekplaats bevindt."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Voetgangers, fietsers en kwetsbare weggebruikers",
+"subcategory":"Fietsers",
+"englishSubcategory":"Cyclists",
+"description":"Automobilisten moeten extra ruimte vrijhouden bij het passeren van fietsers, omdat fietsers mogelijk ruimte nodig hebben om gevaren te vermijden of hun evenwicht te bewaren."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Voetgangers, fietsers en kwetsbare weggebruikers",
+"subcategory":"Voetgangers",
+"englishSubcategory":"Pedestrians",
+"description":"In de buurt van winkelgebieden of haltes van het openbaar vervoer moeten automobilisten rekening houden met meer voetgangers en plotselinge oversteekplaatsen. Blijf in deze gebieden altijd alert."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Voetgangers, fietsers en kwetsbare weggebruikers",
+"subcategory":"Fietsers",
+"englishSubcategory":"Cyclists",
+"description":"Wanneer een fietser zich in een gemarkeerd fietspad bevindt, moeten automobilisten vermijden om in dat fietspad te rijden, tenzij dit is toegestaan en veilig is."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Voetgangers, fietsers en kwetsbare weggebruikers",
+"subcategory":"Kinderen",
+"englishSubcategory":"Children",
+"description":"Automobilisten moeten extra voorzichtig zijn in de buurt van scholen, omdat kinderen onvoorspelbaar kunnen reageren en het verkeer verkeerd kunnen inschatten. Rijd langzamer in schoolzones."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Voetgangers, fietsers en kwetsbare weggebruikers",
+"subcategory":"Fietsers",
+"englishSubcategory":"Cyclists",
+"description":"Als een fietser in het midden van een smalle rijstrook rijdt, moeten automobilisten wachten tot het veilig is om te passeren en er voldoende ruimte is, in plaats van zich er met geweld langs te wringen."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Voetgangers, fietsers en kwetsbare weggebruikers",
+"subcategory":"Voetgangers",
+"englishSubcategory":"Pedestrians",
+"description":"Bij een oversteekplaats voor kinderen moeten bestuurders stoppen wanneer er vlaggen worden getoond en er voetgangers aanwezig zijn, om de veiligheid van kinderen te waarborgen."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Voetgangers, fietsers en kwetsbare weggebruikers",
+"subcategory":"Fietsers",
+"englishSubcategory":"Cyclists",
+"description":"Automobilisten moeten altijd hun dode hoek controleren voordat ze afslaan, omdat fietsers ongemerkt naast hen kunnen rijden, vooral in stedelijke gebieden."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Voetgangers, fietsers en kwetsbare weggebruikers",
+"subcategory":"Ouderen en mensen met een beperking",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Oudere voetgangers hebben mogelijk extra tijd nodig om over te steken, omdat ze langzamer lopen of mobiliteitsproblemen hebben. Geef ze de ruimte en de tijd om veilig over te steken."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Voetgangers, fietsers en kwetsbare weggebruikers",
+"subcategory":"Fietsers",
+"englishSubcategory":"Cyclists",
+"description":"Fietsers zijn bij het naderen van kruispunten soms moeilijker te zien en ze kunnen zich snel verplaatsen. Geef fietsers altijd de ruimte en tijd om veilig te kunnen passeren."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Bijzondere situaties en wegomgevingen",
+"subcategory":"Schoolzones",
+"englishSubcategory":"School Zones",
+"description":"De snelheidslimieten in schoolzones gelden alleen tijdens de tijden die op de borden staan aangegeven. Houduhieraan om de veiligheid van kinderen te waarborgen."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Bijzondere situaties en wegomgevingen",
+"subcategory":"Schoolzones",
+"englishSubcategory":"School Zones",
+"description":"Automobilisten moeten in schoolzones vaart minderen, zelfs als er geen kinderen zichtbaar zijn, omdat kinderen plotseling en onvoorspelbaar kunnen verschijnen."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Bijzondere situaties en wegomgevingen",
+"subcategory":"Wegwerkzaamheden",
+"englishSubcategory":"Roadworks",
+"description":"Wanneeruwegwerkzaamheden nadert, rem dan af en volg de tijdelijke borden om de veiligheid van de wegwerkers en andere weggebruikers te waarborgen."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Bijzondere situaties en wegomgevingen",
+"subcategory":"Wegwerkzaamheden",
+"englishSubcategory":"Roadworks",
+"description":"In wegwerkzones worden de maximumsnelheden verlaagd om de veiligheid van de werknemers te waarborgen en rekening te houden met veranderende wegomstandigheden."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Bijzondere situaties en wegomgevingen",
+"subcategory":"Landwegen",
+"englishSubcategory":"Rural Roads",
+"description":"Op landwegen kunnen wilde dieren onverwacht de rijbaan op lopen. Wees er altijd op voorbereid om te stoppen of vaart te minderen wanneerudoor landelijke gebieden rijdt."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Bijzondere situaties en wegomgevingen",
+"subcategory":"Landwegen",
+"englishSubcategory":"Rural Roads",
+"description":"Onverharde wegen hebben vaak minder grip en remvermogen. Bestuurders moeten hun snelheid verlagen bij het rijden op onverharde wegen."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Bijzondere situaties en wegomgevingen",
+"subcategory":"Snelwegen",
+"englishSubcategory":"Freeways",
+"description":"Alsuuw afslag op de snelweg mist, rijd dan door naar de volgende afslag en keer daar veilig om. Probeer niet te stoppen of achteruit te rijden op de snelweg."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Bijzondere situaties en wegomgevingen",
+"subcategory":"Snelwegen",
+"englishSubcategory":"Freeways",
+"description":"Het is verboden om op een snelweg te stoppen, behalve in geval van nood. Gebruik bij pech altijd de vluchtstrook of de afslag."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Bijzondere situaties en wegomgevingen",
+"subcategory":"Weersomstandigheden",
+"englishSubcategory":"Weather Conditions",
+"description":"Bij hevige regenval is het raadzaam om uw snelheid te verlagen en meer afstand te houden. Natte wegen verminderen de grip en verlengen de remweg."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Bijzondere situaties en wegomgevingen",
+"subcategory":"Weersomstandigheden",
+"englishSubcategory":"Weather Conditions",
+"description":"Mist vermindert het zicht en het diepteperceptie, waardoor autorijden bijzonder gevaarlijk wordt. Rem af en houd meer afstand bij mistig weer."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Aanwijzingen voor hulpdiensten en politie",
+"subcategory":"Hulpvervoertuig verleent voorrang",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Wanneer een hulpvoertuig met zwaailichten en/of sirene nadert, ga dan aan de kant en laat het veilig passeren."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Aanwijzingen voor hulpdiensten en politie",
+"subcategory":"Hulpvervoertuig verleent voorrang",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Alsuvoor een verkeerslicht staat en er komt een hulpvoertuig van achteren aan, is het het veiligst om aan de kant te gaan als dat veilig en wettelijk is toegestaan. Blijf anders staan en laat het voertuig passeren wanneer dat mogelijk is."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Aanwijzingen voor hulpdiensten en politie",
+"subcategory":"Politieaanwijzingen",
+"englishSubcategory":"Police Directions",
+"description":"Als een politieagentueen andere aanwijzing geeft dan op een bord staat, moetude aanwijzingen van de politieagent opvolgen."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Aanwijzingen voor hulpdiensten en politie",
+"subcategory":"Hulpvervoertuig verleent voorrang",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Als een hulpvoertuig met zwaailichten aan de kant van de weg staat, rem dan af en passeer voorzichtig. Ga indien mogelijk aan de kant."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Aanwijzingen voor hulpdiensten en politie",
+"subcategory":"Politieaanwijzingen",
+"englishSubcategory":"Police Directions",
+"description":"Als de politie een tijdelijke wegversperring heeft opgezet, volg dan hun aanwijzingen en eventuele omleidingen."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Aanwijzingen voor hulpdiensten en politie",
+"subcategory":"Hulpvervoertuig verleent voorrang",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Je moet niet vlak achter een hulpvervoertuig rijden om sneller door het verkeer te komen."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Aanwijzingen voor hulpdiensten en politie",
+"subcategory":"Hulpvervoertuig verleent voorrang",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Alsueen sirene hoort maar het hulpvoertuig nog niet ziet, blijf dan alert, controleer uw spiegels en zorg datuklaar bent om veilig weg te rijden."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Aanwijzingen voor hulpdiensten en politie",
+"subcategory":"Politieaanwijzingen",
+"englishSubcategory":"Police Directions",
+"description":"Als een verkeersregelaar bij wegwerkzaamheden aanwijzingen geeft, moetudie opvolgen."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Aanwijzingen voor hulpdiensten en politie",
+"subcategory":"Politieaanwijzingen",
+"englishSubcategory":"Police Directions",
+"description":"Als de politieuverzoekt te stoppen voor een rijbewijscontrole, stop dan veilig zoals aangegeven."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Aanwijzingen voor hulpdiensten en politie",
+"subcategory":"Hulpvervoertuig verleent voorrang",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Alsuzich in één rijstrook bevindt en een hulpvoertuig van achteren nadert, geef dan richting aan en ga naar links of naar een veilige positie wanneer dat mogelijk is."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Veiligheidsgordels, kinderzitjes en passagiers",
+"subcategory":"Veiligheidsgordels",
+"englishSubcategory":"Seatbelts",
+"description":"De bestuurder is verantwoordelijk ervoor te zorgen dat alle passagiers jonger dan 16 jaar een veiligheidsgordel dragen."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Veiligheidsgordels, kinderzitjes en passagiers",
+"subcategory":"Veiligheidsgordels",
+"englishSubcategory":"Seatbelts",
+"description":"Indien aanwezig, dientutijdens het rijden te allen tijde een veiligheidsgordel te dragen."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Veiligheidsgordels, kinderzitjes en passagiers",
+"subcategory":"Kinderzitjes",
+"englishSubcategory":"Child Restraints",
+"description":"Een kinderzitje is verplicht omdat het is ontworpen om beter aan te sluiten op de lichaamsgrootte en -vorm van een kind en deze effectiever te beschermen dan een autogordel voor volwassenen."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Veiligheidsgordels, kinderzitjes en passagiers",
+"subcategory":"Passagiers",
+"englishSubcategory":"Passengers",
+"description":"Het is onveilig voor passagiers om hun voeten op het dashboard te plaatsen, omdat airbags en de krachten die vrijkomen bij een botsing ernstig letsel kunnen veroorzaken."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Veiligheidsgordels, kinderzitjes en passagiers",
+"subcategory":"Kinderzitjes",
+"englishSubcategory":"Child Restraints",
+"description":"De veiligste vuistregel bij het kiezen van een kinderzitje is om er een te gebruiken die goedgekeurd is en geschikt is voor de leeftijd en de grootte van het kind."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Veiligheidsgordels, kinderzitjes en passagiers",
+"subcategory":"Veiligheidsgordels",
+"englishSubcategory":"Seatbelts",
+"description":"Een veelvoorkomend teken dat een veiligheidsgordel niet correct wordt gedragen, is wanneer de gordelriem onder de arm of achter de rug zit."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Veiligheidsgordels, kinderzitjes en passagiers",
+"subcategory":"Passagiers",
+"englishSubcategory":"Passengers",
+"description":"Als een passagier de bestuurder afleidt, is het het veiligst om hem of haar te vragen te stoppen en zich weer op het rijden te concentreren."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Veiligheidsgordels, kinderzitjes en passagiers",
+"subcategory":"Kinderzitjes",
+"englishSubcategory":"Child Restraints",
+"description":"Het is onveilig om een baby op schoot te houden in een rijdend voertuig, omdat je hem of haar bij een botsing niet stevig vast kunt houden."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Veiligheidsgordels, kinderzitjes en passagiers",
+"subcategory":"Veiligheidsgordels",
+"englishSubcategory":"Seatbelts",
+"description":"Een veiligheidsgordel moet zo worden gedragen dat het heupgedeelte laag over de heupen loopt om het risico op buikletsel bij een botsing te verminderen."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Veiligheidsgordels, kinderzitjes en passagiers",
+"subcategory":"Passagiers",
+"englishSubcategory":"Passengers",
+"description":"Een belangrijk risico van het vervoeren van onbeveiligde voorwerpen in de cabine is dat ze bij een botsing of plotselinge stop projectielen kunnen worden."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Basisprincipes van voertuigveiligheid, defecten en onderhoud",
+"subcategory":"Banden",
+"englishSubcategory":"Tyres",
+"description":"De juiste bandenspanning is belangrijk voor de veiligheid, omdat deze van invloed is op de grip, het remvermogen en de stuurcontrole."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Basisprincipes van voertuigveiligheid, defecten en onderhoud",
+"subcategory":"Remmen",
+"englishSubcategory":"Brakes",
+"description":"Als uw rempedaal sponzig aanvoelt of verder wegzakt dan normaal, beschouw dit dan als een ernstig defect en laat de remmen onmiddellijk controleren."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Basisprincipes van voertuigveiligheid, defecten en onderhoud",
+"subcategory":"Verlichting en zichtbaarheid",
+"englishSubcategory":"Lights & Visibility",
+"description":"Controleer regelmatig alle voertuigverlichting om er zeker van te zijn datukunt zien en datudoor anderen gezien wordt."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Basisprincipes van voertuigveiligheid, defecten en onderhoud",
+"subcategory":"Stuurinrichting en ophanging",
+"englishSubcategory":"Steering & Suspension",
+"description":"Een waarschuwingssignaal voor een stuurprobleem kan onder andere een ongewoon trekken aan het stuur, trillingen of moeilijkheden bij het sturen zijn."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Basisprincipes van voertuigveiligheid, defecten en onderhoud",
+"subcategory":"Voorruit en ruitenwissers",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Versleten ruitenwissers vormen een veiligheidsrisico omdat ze het zicht bij regen belemmeren."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Basisprincipes van voertuigveiligheid, defecten en onderhoud",
+"subcategory":"Banden",
+"englishSubcategory":"Tyres",
+"description":"Een veelvoorkomend teken dat banden mogelijk onveilig zijn, is als het profiel versleten of ongelijkmatig versleten is."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Basisprincipes van voertuigveiligheid, defecten en onderhoud",
+"subcategory":"Spiegels en afstelling",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Stel de spiegels af voordatugaat rijden om dode hoeken te verminderen en het overzicht te verbeteren."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Basisprincipes van voertuigveiligheid, defecten en onderhoud",
+"subcategory":"Remmen",
+"englishSubcategory":"Brakes",
+"description":"Als uw remmen schurende geluiden maken, laat ze dan zo snel mogelijk controleren."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Basisprincipes van voertuigveiligheid, defecten en onderhoud",
+"subcategory":"Verlichting en zichtbaarheid",
+"englishSubcategory":"Lights & Visibility",
+"description":"Gebruik je koplampen bij slecht zicht, zodat anderen je kunnen zien."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Basisprincipes van voertuigveiligheid, defecten en onderhoud",
+"subcategory":"Voorruit en ruitenwissers",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Als uw voorruit ernstig beschadigd is in uw gezichtsveld, repareer of vervang deze dan voordatuverder rijdt."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Bewustzijn van ladingen, slepen en zware voertuigen",
+"subcategory":"Heel veel",
+"englishSubcategory":"Loads",
+"description":"Ladingen moeten goed vastgezet worden om te voorkomen dat ze verschuiven of vallen en ongelukken veroorzaken."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Bewustzijn van ladingen, slepen en zware voertuigen",
+"subcategory":"Heel veel",
+"englishSubcategory":"Loads",
+"description":"Een onbeveiligde lading in een voertuig kan bij een plotselinge remmanoeuvre als een projectiel wegvliegen, wat een aanzienlijk veiligheidsrisico vormt."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Bewustzijn van ladingen, slepen en zware voertuigen",
+"subcategory":"Heel veel",
+"englishSubcategory":"Loads",
+"description":"Het vervoeren van een overbeladen voertuig beïnvloedt het remvermogen doordat de remweg langer wordt."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Bewustzijn van ladingen, slepen en zware voertuigen",
+"subcategory":"Heel veel",
+"englishSubcategory":"Loads",
+"description":"De veiligste manier om lange voorwerpen te vervoeren is door ze vast te zetten zodat ze niet kunnen bewegen of gevaarlijk uitsteken."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Bewustzijn van ladingen, slepen en zware voertuigen",
+"subcategory":"Slepen",
+"englishSubcategory":"Towing",
+"description":"Het trekken van een aanhanger verlengt de remweg omdat het extra gewicht de remwerking vermindert."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Bewustzijn van ladingen, slepen en zware voertuigen",
+"subcategory":"Slepen",
+"englishSubcategory":"Towing",
+"description":"Controleer voordatueen aanhanger trekt of de koppeling, verlichting en veiligheidsketting goed vastzitten."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Bewustzijn van ladingen, slepen en zware voertuigen",
+"subcategory":"Slepen",
+"englishSubcategory":"Towing",
+"description":"Houd extra ruimte aan bij het draaien tijdens het trekken van een aanhanger, aangezien de aanhanger binnen de draaicirkel blijft."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Bewustzijn van ladingen, slepen en zware voertuigen",
+"subcategory":"Heel veel",
+"englishSubcategory":"Loads",
+"description":"Een lading die het zicht naar achteren belemmert, vermindert het zicht op het achteropkomende verkeer, waardoor het risico op ongelukken toeneemt."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Bewustzijn van ladingen, slepen en zware voertuigen",
+"subcategory":"Zware voertuigen",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Zware voertuigen hebben meer ruimte nodig om te stoppen, omdat hun grotere massa de remweg vergroot."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Bewustzijn van ladingen, slepen en zware voertuigen",
+"subcategory":"Zware voertuigen",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Houd bij het volgen van een grote vrachtwagen meer afstand om rekening te houden met dode hoeken en de langere remweg van de vrachtwagen."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Rijbewijs, L/P-kentekenplaatregels en praktische DKT-controlepunten (VIC)",
+"subcategory":"Regels voor het leerlingrijbewijs",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Als leerling-bestuurder in Victoria mag je alleen een auto besturen onder toezicht van een bevoegde bestuurder die naast je zit."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Rijbewijs, L/P-kentekenplaatregels en praktische DKT-controlepunten (VIC)",
+"subcategory":"Regels voor het leerlingrijbewijs",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Beginnende bestuurders moeten hun L-platen duidelijk zichtbaar op het voertuig plaatsen, zodat ze te allen tijde voor andere inzittenden zichtbaar zijn."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Rijbewijs, L/P-kentekenplaatregels en praktische DKT-controlepunten (VIC)",
+"subcategory":"Regels voor het leerlingrijbewijs",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Als uw begeleidende chauffeur in slaap valt terwijlurijdt, stop dan op een veilige plek en rijd niet verder totdat er weer voldoende begeleiding is."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Rijbewijs, L/P-kentekenplaatregels en praktische DKT-controlepunten (VIC)",
+"subcategory":"Mobiele telefoons en apparaten",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Als beginnend bestuurder in Victoria is het je op geen enkele manier toegestaan om een mobiele telefoon te gebruiken tijdens het rijden."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Rijbewijs, L/P-kentekenplaatregels en praktische DKT-controlepunten (VIC)",
+"subcategory":"Regels voor het leerlingrijbewijs",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Als uw L-platen tijdens het rijden eraf vallen, stop dan veilig en bevestig ze opnieuw voordatuverder rijdt."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Rijbewijs, L/P-kentekenplaatregels en praktische DKT-controlepunten (VIC)",
+"subcategory":"Overzicht",
+"englishSubcategory":"Supervision",
+"description":"Het belangrijkste doel van de regels voor het begeleiden van leerling-bestuurders is ervoor te zorgen dat een ervaren bestuurder de leerlingen kan begeleiden en indien nodig kan ingrijpen."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Rijbewijs, L/P-kentekenplaatregels en praktische DKT-controlepunten (VIC)",
+"subcategory":"Voorwaarden en naleving",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Als een leerling-bestuurder betrapt wordt op rijden zonder de vereiste begeleiding, zijn er waarschijnlijk straffen en mogelijke gevolgen voor het rijbewijs."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Rijbewijs, L/P-kentekenplaatregels en praktische DKT-controlepunten (VIC)",
+"subcategory":"Gevaarperceptie",
+"englishSubcategory":"Hazard Perception",
+"description":"Een veelgemaakte valkuil voor beginnende bestuurders op kruispunten is afslaan zonder te controleren of er voetgangers de weg oversteken."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Rijbewijs, L/P-kentekenplaatregels en praktische DKT-controlepunten (VIC)",
+"subcategory":"Gevaarperceptie",
+"englishSubcategory":"Hazard Perception",
+"description":"Ook als het licht groen is, moetuvaart minderen of stoppen als er voorueen verkeersopstopping is of als er voetgangers oversteken."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Rijbewijs, L/P-kentekenplaatregels en praktische DKT-controlepunten (VIC)",
+"subcategory":"Regels voor het leerlingrijbewijs",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Als je een leerling begeleidt, moet de begeleidende bestuurder altijd op de passagiersstoel voorin zitten."
+}
+]

@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Przepisy i prawa drogowe",
+"subcategory":"Ogólne zasady ruchu drogowego",
+"englishSubcategory":"General Road Rules",
+"description":"Kierowcy muszą przestrzegać ogólnych przepisów ruchu drogowego, aby zapewnić bezpieczeństwo i płynny przepływ ruchu. Obejmuje to przestrzeganie znaków drogowych, sygnalizacji świetlnej i oznaczeń pasów ruchu. Nieprzestrzeganie tych zasad może prowadzić do wypadków i kar."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Przepisy i prawa drogowe",
+"subcategory":"Ustępowanie",
+"englishSubcategory":"Giving Way",
+"description":"Kierowcy są zobowiązani do ustąpienia pierwszeństwa innym pojazdom lub pieszym na skrzyżowaniach, rondach i przejściach dla pieszych, między innymi. Nieustąpienie pierwszeństwa jest wykroczeniem."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Przepisy i prawa drogowe",
+"subcategory":"Korzystanie z pasa ruchu",
+"englishSubcategory":"Lane Use",
+"description":"Kierowcy muszą korzystać z odpowiednich pasów ruchu i przestrzegać oznaczeń. Dotyczy to również zasad zmiany pasa ruchu, wyprzedzania oraz korzystania z pasów rowerowych lub autobusowych. Naruszenia mogą skutkować mandatami lub wypadkami."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Przepisy i prawa drogowe",
+"subcategory":"Tramwaje",
+"englishSubcategory":"Trams",
+"description":"Kierowcy muszą być świadomi przepisów obowiązujących w tramwajach, w tym ustępowania pierwszeństwa pieszym na przystankach, zatrzymywania się, aby przejechać tramwajem z otwartymi drzwiami, a także niewyprzedzania tramwajów w określonych sytuacjach."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Przepisy i prawa drogowe",
+"subcategory":"Skrzyżowania",
+"englishSubcategory":"Intersections",
+"description":"Na skrzyżowaniach kierowcy muszą przestrzegać procedur ustępowania pierwszeństwa przejazdu i zatrzymywania się na znakach „stop” lub sygnalizacji świetlnej. Zrozumienie tych zasad jest kluczowe dla zapobiegania wypadkom."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Przepisy i prawa drogowe",
+"subcategory":"Zawracanie",
+"englishSubcategory":"U-Turns",
+"description":"Zawracanie jest dozwolone tylko na skrzyżowaniach lub gdy nie ma znaku zakazującego tego. Kierowcy muszą upewnić się, że jest to bezpieczne przed wykonaniem zawracania."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Przepisy i prawa drogowe",
+"subcategory":"Ograniczenia prędkości",
+"englishSubcategory":"Speed Limits",
+"description":"Kierowcy muszą przestrzegać obowiązujących ograniczeń prędkości, aby zapewnić bezpieczeństwo na drodze. Przekroczenie prędkości może skutkować mandatami, utratą prawa jazdy i zwiększonym ryzykiem wypadku."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Przepisy i prawa drogowe",
+"subcategory":"Bezpieczeństwo pieszych",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Kierowcy mają obowiązek ustąpić pierwszeństwa pieszym na przejściach dla pieszych i zapewnić im bezpieczeństwo w pobliżu stref dla pieszych. Niezatrzymanie się dla pieszych na przejściach jest wykroczeniem."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Przepisy i prawa drogowe",
+"subcategory":"Przejazdy kolejowe",
+"englishSubcategory":"Railway Crossings",
+"description":"Kierowcy muszą zatrzymać się na przejazdach kolejowych, gdy migają światła lub zapory są opuszczone. Ignorowanie tych sygnałów jest poważnym wykroczeniem i może skutkować mandatami i wypadkami."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Przepisy i prawa drogowe",
+"subcategory":"Pojazdy uprzywilejowane",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Kierowcy muszą ustąpić pierwszeństwa pojazdom uprzywilejowanym, używając migających świateł i syren, upewniając się, że pojazd ma wolną drogę do poruszania się w ruchu ulicznym."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Znaki i sygnały drogowe",
+"subcategory":"Znaki regulacyjne",
+"englishSubcategory":"Regulatory Signs",
+"description":"Znaki nakazu i zakazu zawierają obowiązkowe instrukcje dla kierowców, takie jak ograniczenia prędkości, zakazy skrętu i zakazy wjazdu. Przestrzeganie tych znaków jest wymagane przez prawo w celu utrzymania bezpieczeństwa i porządku na drogach."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Znaki i sygnały drogowe",
+"subcategory":"Znaki ostrzegawcze",
+"englishSubcategory":"Warning Signs",
+"description":"Znaki ostrzegawcze ostrzegają kierowców o potencjalnych zagrożeniach, takich jak ostre zakręty, strefy szkolne i przejścia dla zwierząt. Pomagają one kierowcom dostosować styl jazdy, aby uniknąć wypadków."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Znaki i sygnały drogowe",
+"subcategory":"Znaki prędkości",
+"englishSubcategory":"Speed Signs",
+"description":"Znaki ograniczenia prędkości wskazują maksymalną lub minimalną dozwoloną prędkość na drodze. Kierowcy muszą przestrzegać tych ograniczeń, aby zapewnić bezpieczne warunki jazdy i uniknąć mandatów."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Znaki i sygnały drogowe",
+"subcategory":"Sygnalizacja świetlna",
+"englishSubcategory":"Traffic Lights",
+"description":"Sygnalizacja świetlna kontroluje ruch pojazdów i pieszych na skrzyżowaniach. Czerwone światło oznacza „stop”, zielone „jazda”, a żółte to sygnał ostrzegawczy, że należy się zatrzymać."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Znaki i sygnały drogowe",
+"subcategory":"Sygnalizacja dla pieszych",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Sygnalizacja świetlna dla pieszych wskazuje, kiedy piesi mogą bezpiecznie przejść przez ulicę. Sygnalizacja ta zazwyczaj współpracuje z sygnalizacją świetlną, aby zapewnić bezpieczeństwo pieszych."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Znaki i sygnały drogowe",
+"subcategory":"Sygnały kontroli pasa ruchu",
+"englishSubcategory":"Lane Control Signals",
+"description":"Sygnały sterujące pasem ruchu służą do sygnalizacji, czy pas jest otwarty, czy zamknięty. Sygnały te są zazwyczaj stosowane na drogach wielopasmowych i w tunelach."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Znaki i sygnały drogowe",
+"subcategory":"Znaki zakazu parkowania",
+"englishSubcategory":"No Parking Signs",
+"description":"Znaki zakazu parkowania wskazują obszary, w których zatrzymywanie się lub parkowanie jest zabronione. Zazwyczaj ma to na celu zapewnienie płynności ruchu i bezpieczeństwa."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Znaki i sygnały drogowe",
+"subcategory":"Znaki jednokierunkowe",
+"englishSubcategory":"One-Way Signs",
+"description":"Znaki jednokierunkowe oznaczają, że ruch może odbywać się tylko w jednym kierunku. Zignorowanie tych znaków może skutkować wypadkami i konsekwencjami prawnymi."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Znaki i sygnały drogowe",
+"subcategory":"Znaki Stop",
+"englishSubcategory":"Stop Signs",
+"description":"Znaki „stop” wymagają od kierowców całkowitego zatrzymania się i ustąpienia pierwszeństwa innym pojazdom lub pieszym przed kontynuowaniem jazdy."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Znaki i sygnały drogowe",
+"subcategory":"Znaki ustąp pierwszeństwa",
+"englishSubcategory":"Give Way Signs",
+"description":"Znaki „ustąp pierwszeństwa” nakazują kierowcom ustąpić pierwszeństwa innym użytkownikom drogi, pieszym lub pojazdom, w zależności od sytuacji, aby uniknąć wypadków."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Zasady dotyczące prędkości i odległości",
+"subcategory":"Ograniczenia prędkości",
+"englishSubcategory":"Speed Limits",
+"description":"Domyślne ograniczenie prędkości na obszarze zabudowanym w Victorii wynosi 50 km/h, chyba że znaki drogowe stanowią inaczej. Zawsze sprawdzaj znaki drogowe, aby upewnić się, że jedziesz zgodnie z przepisami."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Zasady dotyczące prędkości i odległości",
+"subcategory":"Ograniczenia prędkości",
+"englishSubcategory":"Speed Limits",
+"description":"W oznakowanej strefie szkolnej w godzinach wskazanych na znaku obowiązuje ograniczenie prędkości do 40 km/h, aby zapewnić bezpieczeństwo dzieciom przechodzącym przez ulicę."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Zasady dotyczące prędkości i odległości",
+"subcategory":"Odległość podążania",
+"englishSubcategory":"Following Distance",
+"description":"Minimalny bezpieczny odstęp w idealnych warunkach wynosi co najmniej dwie sekundy za pojazdem poprzedzającym. Daje to wystarczająco dużo czasu na reakcję w przypadku nagłego zatrzymania się pojazdu z przodu."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Zasady dotyczące prędkości i odległości",
+"subcategory":"Ograniczenia prędkości",
+"englishSubcategory":"Speed Limits",
+"description":"Przejeżdżając obok zatrzymującego się w strefie bezpieczeństwa tramwaju, należy zmniejszyć prędkość do 10 km/h, aby zapewnić bezpieczeństwo pasażerom wsiadającym do tramwaju lub wysiadającym z niego."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Zasady dotyczące prędkości i odległości",
+"subcategory":"Ograniczenia prędkości",
+"englishSubcategory":"Speed Limits",
+"description":"Na drogach wiejskich bez znaków drogowych, domyślne ograniczenie prędkości wynosi 100 km/h, chyba że znaki lokalne wskazują inaczej. Dostosuj prędkość do warunków drogowych, aby zapewnić bezpieczeństwo."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Zasady dotyczące prędkości i odległości",
+"subcategory":"Odległość podążania",
+"englishSubcategory":"Following Distance",
+"description":"W deszczowe dni należy zwiększyć odstęp od poprzedzającego pojazdu do co najmniej czterech sekund. Mokra nawierzchnia zmniejsza przyczepność, co wydłuża czas bezpiecznego hamowania."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Zasady dotyczące prędkości i odległości",
+"subcategory":"Ograniczenia prędkości",
+"englishSubcategory":"Speed Limits",
+"description":"Zawsze przestrzegaj elektronicznych znaków ograniczenia prędkości, gdy są włączone. Znaki te dostosowują ograniczenia prędkości do warunków ruchu, pogody lub zdarzeń drogowych."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Zasady dotyczące prędkości i odległości",
+"subcategory":"Droga hamowania",
+"englishSubcategory":"Stopping Distance",
+"description":"Wraz ze wzrostem prędkości wydłuża się również droga hamowania wymagana do bezpiecznego zatrzymania pojazdu. Zawsze upewnij się, że masz wystarczającą odległość, aby zareagować na zagrożenie."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Zasady dotyczące prędkości i odległości",
+"subcategory":"Ograniczenia prędkości",
+"englishSubcategory":"Speed Limits",
+"description":"W strefach wspólnego ruchu ograniczenie prędkości wynosi na ogół 10 km/h, aby zapewnić bezpieczeństwo pieszym i rowerzystom w miejscach, w których pojazdy i niezmotoryzowani użytkownicy dróg wchodzą w interakcje."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Zasady dotyczące prędkości i odległości",
+"subcategory":"Odległość podążania",
+"englishSubcategory":"Following Distance",
+"description":"Jazda „na zderzaku” jest niebezpieczna, ponieważ skraca czas reakcji i hamowania. Zawsze zachowuj bezpieczną odległość, zwłaszcza jadąc za większymi pojazdami, które mogą ograniczać widoczność."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Obowiązki kierowcy",
+"subcategory":"Zobowiązania prawne",
+"englishSubcategory":"Legal Obligations",
+"description":"Kierowcy muszą wypełniać różne obowiązki prawne, takie jak udzielanie pomocy w razie wypadku, przekazywanie danych po kolizjach i zgłaszanie zdarzeń władzom zgodnie z wymogami prawa."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Obowiązki kierowcy",
+"subcategory":"Uwaga i kontrola",
+"englishSubcategory":"Attention & Control",
+"description":"Kierowcy muszą cały czas mieć kontrolę nad pojazdem, unikać rozpraszania uwagi i utrzymywać koncentrację, aby zapewnić sobie bezpieczeństwo i bezpieczeństwo innych uczestników ruchu drogowego."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Obowiązki kierowcy",
+"subcategory":"Zobowiązania prawne",
+"englishSubcategory":"Legal Obligations",
+"description":"W razie wypadku, w którym doszło do obrażeń, kierowcy mają obowiązek zatrzymać się i udzielić pomocy, o ile jest to możliwe. Niezatrzymanie się i nieudzielenie pomocy w takich sytuacjach stanowi naruszenie prawa."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Obowiązki kierowcy",
+"subcategory":"Uwaga i kontrola",
+"englishSubcategory":"Attention & Control",
+"description":"Kierowcy muszą zawsze mieć pełną kontrolę nad swoim pojazdem, reagować odpowiednio na zmieniające się warunki ruchu drogowego i utrzymywać bezpieczne warunki jazdy."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Obowiązki kierowcy",
+"subcategory":"Zobowiązania prawne",
+"englishSubcategory":"Legal Obligations",
+"description":"Kierowcy muszą zgłosić wypadek policji, jeśli ktoś został ranny lub doszło do uszkodzenia mienia, a danych nie można przekazać. Niezgłoszenie takich zdarzeń może skutkować karami."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Obowiązki kierowcy",
+"subcategory":"Zarządzanie zmęczeniem",
+"englishSubcategory":"Fatigue Management",
+"description":"Zmęczenie stanowi poważne zagrożenie podczas jazdy. Kierowcy powinni być świadomi wczesnych oznak zmęczenia, takich jak ziewanie i utrata koncentracji, i podejmować odpowiednie działania, aby zapobiegać wypadkom."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Obowiązki kierowcy",
+"subcategory":"Zobowiązania prawne",
+"englishSubcategory":"Legal Obligations",
+"description":"Kierowcy muszą okazać prawo jazdy na żądanie policji. Odmowa okazania prawa jazdy może skutkować karami lub dalszymi konsekwencjami prawnymi."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Obowiązki kierowcy",
+"subcategory":"Uwaga i kontrola",
+"englishSubcategory":"Attention & Control",
+"description":"Kierowcy powinni unikać niepotrzebnego używania klaksonu, ponieważ może to przestraszyć lub rozproszyć uwagę innych użytkowników drogi. Klaksonu należy używać wyłącznie w celu powiadomienia innych o swojej obecności w sytuacjach, gdy jest to konieczne."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Obowiązki kierowcy",
+"subcategory":"Zarządzanie zmęczeniem",
+"englishSubcategory":"Fatigue Management",
+"description":"Jeśli czujesz się zbyt zmęczony, aby kontynuować jazdę, najbezpieczniejszym rozwiązaniem jest zatrzymanie się i odpoczynek przed kontynuowaniem. Jazda w stanie zmęczenia znacznie zwiększa ryzyko wypadku."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Obowiązki kierowcy",
+"subcategory":"Zobowiązania prawne",
+"englishSubcategory":"Legal Obligations",
+"description":"Kierowcy mają obowiązek zapewnić pasażerom bezpieczne siedzenia i zapięcie pasów. Obejmuje to również zapewnienie dzieciom odpowiednich fotelików, a dorosłym zapięcie pasów bezpieczeństwa."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkohol, narkotyki i zdrowie",
+"subcategory":"Limity alkoholu",
+"englishSubcategory":"Alcohol Limits",
+"description":"W stanie Wiktoria kierowcy uczący się i kierowcy w okresie próbnym (P1 i P2) muszą przez cały czas utrzymywać stężenie alkoholu we krwi (BAC) na poziomie 0,00. Kierowcy z pełnym prawem jazdy mają limit 0,05 BAC, ale bezpieczniej jest w ogóle nie pić alkoholu za kierownicą."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkohol, narkotyki i zdrowie",
+"subcategory":"Skutki alkoholu",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkohol upośledza zdolność oceny sytuacji, czas reakcji i koordynację, co może znacznie zwiększyć ryzyko wypadków. Nawet niewielkie ilości alkoholu mogą ograniczyć zdolność do bezpiecznego prowadzenia pojazdu."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkohol, narkotyki i zdrowie",
+"subcategory":"Jazda pod wpływem narkotyków",
+"englishSubcategory":"Drug Driving",
+"description":"Jazda pod wpływem narkotyków, w tym leków na receptę, może upośledzać zdolność prowadzenia pojazdów, nawet jeśli czujesz się nieupośledzony. Ważne jest, aby być świadomym ryzyka i unikać prowadzenia pojazdów po zażyciu narkotyków."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkohol, narkotyki i zdrowie",
+"subcategory":"Bezpieczeństwo leków",
+"englishSubcategory":"Medication Safety",
+"description":"Przed rozpoczęciem przyjmowania nowego leku na receptę sprawdź, czy wpływa on na Twoją zdolność prowadzenia pojazdów i postępuj zgodnie z zaleceniami lekarza. Niektóre leki mogą powodować senność lub upośledzać koncentrację."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkohol, narkotyki i zdrowie",
+"subcategory":"Zmęczenie i zdrowie",
+"englishSubcategory":"Fatigue & Health",
+"description":"Zmęczenie może utrudniać bezpieczną jazdę, podobnie jak alkohol czy narkotyki. Zadbaj o odpowiedni odpoczynek przed jazdą i rób przerwy podczas długich podróży, aby zmniejszyć ryzyko wypadków spowodowanych zmęczeniem."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Alkohol, narkotyki i zdrowie",
+"subcategory":"Skutki alkoholu",
+"englishSubcategory":"Alcohol Effects",
+"description":"Po wypiciu alkoholu, tylko czas może zmniejszyć jego ilość w organizmie. Kawa, zimne prysznice ani inne metody nie przyspieszają tego procesu."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Alkohol, narkotyki i zdrowie",
+"subcategory":"Limity alkoholu",
+"englishSubcategory":"Alcohol Limits",
+"description":"W stanie Wiktoria wszyscy kierowcy uczący się i w okresie próbnym muszą utrzymywać stężenie alkoholu we krwi na poziomie 0,00. Dla kierowców z pełnym prawem jazdy limit wynosi 0,05. Jednak unikanie alkoholu przed jazdą jest zawsze najbezpieczniejszą opcją."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Alkohol, narkotyki i zdrowie",
+"subcategory":"Jazda pod wpływem narkotyków",
+"englishSubcategory":"Drug Driving",
+"description":"W stanie Wiktoria możesz zostać ukarany za prowadzenie pojazdu pod wpływem niektórych narkotyków, nawet jeśli czujesz się nieupośledzony. Upośledzenie pod wpływem narkotyków wpływa na zdolność do bezpiecznego prowadzenia pojazdu i zwiększa ryzyko wypadków."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Alkohol, narkotyki i zdrowie",
+"subcategory":"Bezpieczeństwo leków",
+"englishSubcategory":"Medication Safety",
+"description":"Przed rozpoczęciem jazdy zawsze sprawdź, czy nowe leki mogą wpływać na Twoją zdolność prowadzenia pojazdu. Niektóre leki powodują senność, opóźniają reakcję i zmniejszają koncentrację."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Alkohol, narkotyki i zdrowie",
+"subcategory":"Zmęczenie i zdrowie",
+"englishSubcategory":"Fatigue & Health",
+"description":"Zmęczenie może mieć podobny wpływ na prowadzenie pojazdu jak alkohol. Spowalnia czas reakcji, upośledza zdolność oceny sytuacji i podejmowania decyzji, zwiększając ryzyko wypadków."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Bezpieczne praktyki jazdy",
+"subcategory":"Percepcja zagrożeń",
+"englishSubcategory":"Hazard Perception",
+"description":"Zbliżając się do potencjalnego zagrożenia, najbezpieczniej jest zwolnić i przygotować się do zatrzymania w razie potrzeby. Daje to czas na ocenę sytuacji i odpowiednią reakcję."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Bezpieczne praktyki jazdy",
+"subcategory":"Percepcja zagrożeń",
+"englishSubcategory":"Hazard Perception",
+"description":"Obserwowanie otoczenia przed pojazdem jest kluczowe dla wczesnego wykrywania potencjalnych zagrożeń. Pozwala to zaplanować reakcję i uniknąć nagłych reakcji."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Bezpieczne praktyki jazdy",
+"subcategory":"Jazda defensywna",
+"englishSubcategory":"Defensive Driving",
+"description":"Jazda defensywna polega na przewidywaniu potencjalnych błędów innych uczestników ruchu drogowego i zachowaniu bezpiecznej odległości w celu uniknięcia kolizji."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Bezpieczne praktyki jazdy",
+"subcategory":"Warunki drogowe",
+"englishSubcategory":"Road Conditions",
+"description":"Jeśli opony stracą przyczepność na mokrej nawierzchni, zdejmij nogę z gazu i płynnie kieruj. Nagłe hamowanie lub ostre zakręty mogą pogorszyć sytuację i doprowadzić do utraty kontroli nad pojazdem."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Bezpieczne praktyki jazdy",
+"subcategory":"Percepcja zagrożeń",
+"englishSubcategory":"Hazard Perception",
+"description":"Podczas jazdy w ruchu ulicznym najlepszą pozycją do obserwacji zagrożeń jest pozycja daleko przed i po bokach, a nie tylko skupienie się na samochodzie przed Tobą. Pomaga to wcześniej przewidzieć ryzyko."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Bezpieczne praktyki jazdy",
+"subcategory":"Jazda defensywna",
+"englishSubcategory":"Defensive Driving",
+"description":"Jeśli pojazd z przodu lawiruje na swoim pasie, najbezpieczniej jest zwiększyć odstęp od poprzedzającego pojazdu. Daje to więcej czasu na reakcję w razie pogorszenia sytuacji."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Bezpieczne praktyki jazdy",
+"subcategory":"Warunki drogowe",
+"englishSubcategory":"Road Conditions",
+"description":"Droga jest zazwyczaj najbardziej śliska w pierwszych minutach po deszczu. Zachowaj szczególną ostrożność w tym czasie, ponieważ oleje i zanieczyszczenia na drodze mogą zwiększyć niebezpieczeństwo."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Bezpieczne praktyki jazdy",
+"subcategory":"Jazda nocą",
+"englishSubcategory":"Night Driving",
+"description":"Aby uniknąć oślepienia przez reflektory nadjeżdżających pojazdów w nocy, spójrz lekko na lewą krawędź pasa ruchu i zwolnij, jeśli to konieczne. Pomoże to uniknąć bezpośredniego narażenia na jasne światła."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Bezpieczne praktyki jazdy",
+"subcategory":"Jazda defensywna",
+"englishSubcategory":"Defensive Driving",
+"description":"Jeśli kierowca jedzie za Tobą zbyt blisko, najbezpieczniej jest zwiększyć odstęp od pojazdu z przodu. To da Tobie i kierowcy jadącemu za Tobą więcej miejsca na reakcję."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Bezpieczne praktyki jazdy",
+"subcategory":"Warunki drogowe",
+"englishSubcategory":"Road Conditions",
+"description":"Wjeżdżając we mgłę, zmniejsz prędkość i zachowaj większy dystans od innych pojazdów. Mgła znacznie ogranicza widoczność i zwiększa ryzyko wypadków."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Skrzyżowania, zakręty i ronda",
+"subcategory":"Ustępowanie",
+"englishSubcategory":"Giving Way",
+"description":"Na skrzyżowaniach bez znaków i sygnalizacji świetlnej pojazd nadjeżdżający z prawej strony musi ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Skrzyżowania, zakręty i ronda",
+"subcategory":"Obroty",
+"englishSubcategory":"Turns",
+"description":"Skręcając w prawo na skrzyżowaniu bez strzałki sygnalizującej skręt w prawo, musisz ustąpić pierwszeństwa nadjeżdżającym pojazdom i pieszym, zanim będziesz mógł kontynuować jazdę."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Skrzyżowania, zakręty i ronda",
+"subcategory":"Ronda",
+"englishSubcategory":"Roundabouts",
+"description":"Na rondzie pierwszeństwo mają pojazdy, które już się na nim znajdują. Kierowcy wjeżdżający na rondo muszą im ustąpić pierwszeństwa."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Skrzyżowania, zakręty i ronda",
+"subcategory":"Obroty",
+"englishSubcategory":"Turns",
+"description":"Skręcając w lewo musisz ustąpić pierwszeństwa pieszym przechodzącym przez jezdnię, na którą wjeżdżasz, zapewniając im bezpieczeństwo."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Skrzyżowania, zakręty i ronda",
+"subcategory":"Ustępowanie",
+"englishSubcategory":"Giving Way",
+"description":"Na skrzyżowaniu w kształcie litery T pojazd jadący drogą końcową musi ustąpić pierwszeństwa pojazdom jadącym drogą dalszą."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Skrzyżowania, zakręty i ronda",
+"subcategory":"Obroty",
+"englishSubcategory":"Turns",
+"description":"Wykonując zawracanie, musisz ustąpić pierwszeństwa wszystkim pojazdom i pieszym, zapewniając im bezpieczeństwo podczas wykonywania manewru skrętu."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Skrzyżowania, zakręty i ronda",
+"subcategory":"Ronda",
+"englishSubcategory":"Roundabouts",
+"description":"Zjeżdżając z ronda, włącz lewy kierunkowskaz tuż przed zjazdem, aby poinformować innych użytkowników drogi o swoich zamiarach."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Skrzyżowania, zakręty i ronda",
+"subcategory":"Ustępowanie",
+"englishSubcategory":"Giving Way",
+"description":"Wjeżdżając na drogę z podjazdu, musisz ustąpić pierwszeństwa wszystkim pojazdom i pieszym na drodze, aby uniknąć wypadków."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Skrzyżowania, zakręty i ronda",
+"subcategory":"Obroty",
+"englishSubcategory":"Turns",
+"description":"Przed skrętem w prawo ustaw pojazd jak najbliżej środka drogi, aby zapewnić sobie bezpieczny i wolny przejazd."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Skrzyżowania, zakręty i ronda",
+"subcategory":"Sygnalizacja świetlna",
+"englishSubcategory":"Traffic Lights",
+"description":"Zielona strzałka oznacza, że możesz jechać w kierunku wskazanym przez strzałkę, nie ustępując pierwszeństwa innym pojazdom ani pieszym."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Oznakowanie dróg, pasy ruchu i wyprzedzanie",
+"subcategory":"Korzystanie z pasa ruchu",
+"englishSubcategory":"Lane Use",
+"description":"Ciągła, pojedyncza linia środkowa oznacza, że nie wolno jej przekraczać, z wyjątkiem wjazdu na jezdnię lub zjazdu z podjazdu."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Oznakowanie dróg, pasy ruchu i wyprzedzanie",
+"subcategory":"Wyprzedzanie",
+"englishSubcategory":"Overtaking",
+"description":"Wyprzedzanie z lewej strony jest dozwolone na drodze wielopasmowej, gdy ruch odbywa się na oddzielnych, oznakowanych pasach i jest to bezpieczne."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Oznakowanie dróg, pasy ruchu i wyprzedzanie",
+"subcategory":"Wyprzedzanie",
+"englishSubcategory":"Overtaking",
+"description":"Możesz wyprzedzić pojazd z lewej strony na drodze jednopasmowej, jeśli pojazd przed Tobą skręca w prawo i jest to bezpieczne."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Oznakowanie dróg, pasy ruchu i wyprzedzanie",
+"subcategory":"Korzystanie z pasa ruchu",
+"englishSubcategory":"Lane Use",
+"description":"Przed zmianą pasa ruchu zasygnalizuj i upewnij się, że jest to bezpieczne. Dzięki temu inni użytkownicy drogi będą świadomi Twoich zamiarów i zapobiegniesz wypadkom."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Oznakowanie dróg, pasy ruchu i wyprzedzanie",
+"subcategory":"Oznakowanie dróg",
+"englishSubcategory":"Road Markings",
+"description":"Namalowana wysepka drogowa, zwana również oznakowaniem w kształcie jodełki, oznacza, że nie wolno na niej jeździć, zapewniając w ten sposób bezpieczny ruch uliczny."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Oznakowanie dróg, pasy ruchu i wyprzedzanie",
+"subcategory":"Wyprzedzanie",
+"englishSubcategory":"Overtaking",
+"description":"Jeśli nie masz pewności, czy wyprzedzanie jest bezpieczne, najbezpieczniej jest tego nie robić. Zawsze oceniaj sytuację przed podjęciem decyzji."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Oznakowanie dróg, pasy ruchu i wyprzedzanie",
+"subcategory":"Korzystanie z pasa ruchu",
+"englishSubcategory":"Lane Use",
+"description":"Przerwana linia środkowa oznacza, że możesz ją przekroczyć, jeżeli jest to bezpieczne, umożliwiając wyprzedzanie lub zmianę pasa ruchu."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Oznakowanie dróg, pasy ruchu i wyprzedzanie",
+"subcategory":"Korzystanie z pasa ruchu",
+"englishSubcategory":"Lane Use",
+"description":"Jazda na dwóch pasach ruchu jest dozwolona tylko wtedy, gdy pozwalają na to oznaczenia pasów. Zazwyczaj nie jest to bezpieczne ani dozwolone w większości warunków drogowych."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Oznakowanie dróg, pasy ruchu i wyprzedzanie",
+"subcategory":"Wyprzedzanie",
+"englishSubcategory":"Overtaking",
+"description":"Jeśli wyprzedzany pojazd zaczyna przyspieszać, najbezpieczniejszą reakcją jest przerwanie wyprzedzania (o ile jest to bezpieczne) i zwolnienie."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Oznakowanie dróg, pasy ruchu i wyprzedzanie",
+"subcategory":"Oznakowanie dróg",
+"englishSubcategory":"Road Markings",
+"description":"Podwójna ciągła linia środkowa oznacza, że pod żadnym pozorem nie wolno jej przekraczać ani zajmować jej całej długości, co zapewnia płynność ruchu i bezpieczeństwo."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Zatrzymywanie się, parkowanie i zasady ruchu drogowego",
+"subcategory":"Zakaz zatrzymywania się i parkowania",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Zakaz zatrzymywania oznacza, że nie wolno Ci się wcale zatrzymywać, natomiast zakaz parkowania pozwala na krótki postój w celu odebrania lub wysadzenia kogoś."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Zatrzymywanie się, parkowanie i zasady ruchu drogowego",
+"subcategory":"Zakaz zatrzymywania się i parkowania",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"W strefie zakazu parkowania możesz zatrzymać się jedynie na czas niezbędny do odebrania lub wysadzenia pasażerów."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Zatrzymywanie się, parkowanie i zasady ruchu drogowego",
+"subcategory":"Parkowanie w pobliżu skrzyżowań",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Parkowanie w pobliżu skrzyżowań jest często zabronione, ponieważ może ograniczać widoczność i stwarzać zagrożenie dla kierowców i pieszych."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Zatrzymywanie się, parkowanie i zasady ruchu drogowego",
+"subcategory":"Zakaz zatrzymywania się i parkowania",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Nie wolno zatrzymywać się w strefie zakazu zatrzymywania, nawet jeśli odbierasz rozmowę telefoniczną lub musisz na chwilę się zatrzymać."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Zatrzymywanie się, parkowanie i zasady ruchu drogowego",
+"subcategory":"Clearways",
+"englishSubcategory":"Clearways",
+"description":"Przejście wolne oznacza, że nie wolno zatrzymywać się ani parkować po tej stronie drogi w godzinach jej funkcjonowania."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Zatrzymywanie się, parkowanie i zasady ruchu drogowego",
+"subcategory":"Parking w pobliżu przejść dla pieszych",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Zatrzymywanie się w pobliżu przejścia dla pieszych jest niebezpieczne, ponieważ piesi mogą zostać zasłonięci przed nadjeżdżającymi kierowcami, co zwiększa ryzyko wypadku."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Zatrzymywanie się, parkowanie i zasady ruchu drogowego",
+"subcategory":"Zatrzymanie się dla bezpieczeństwa",
+"englishSubcategory":"Stopping for Safety",
+"description":"Zatrzymanie się w strefie zakazu zatrzymywania jest dozwolone wyłącznie wtedy, gdy wymagają tego warunki ruchu drogowego lub w nagłym wypadku."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Zatrzymywanie się, parkowanie i zasady ruchu drogowego",
+"subcategory":"Parkowanie na wzgórzach",
+"englishSubcategory":"Parking on Hills",
+"description":"Parkując na wzniesieniu, zawsze zaciągnij hamulec ręczny i zabezpiecz pojazd, aby zmniejszyć ryzyko stoczenia się."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Zatrzymywanie się, parkowanie i zasady ruchu drogowego",
+"subcategory":"Parkowanie w pobliżu skrzyżowań",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Nie wolno parkować zbyt blisko narożnika, ponieważ może to blokować widoczność nadjeżdżających pojazdów i pieszych, stwarzając zagrożenie."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Zatrzymywanie się, parkowanie i zasady ruchu drogowego",
+"subcategory":"Zakaz zatrzymywania się i parkowania",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Znak zakazu parkowania z podanymi godzinami oznacza, że ograniczenie obowiązuje tylko w godzinach podanych na znaku."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Piesi, rowerzyści i niechronieni użytkownicy dróg",
+"subcategory":"Piesi",
+"englishSubcategory":"Pedestrians",
+"description":"Podczas skręcania kierowcy mają obowiązek ustąpić pierwszeństwa pieszemu przechodzącemu przez jezdnię, na którą wjeżdżają. Obowiązuje to również wtedy, gdy pieszy nie znajduje się na wyznaczonym przejściu."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Piesi, rowerzyści i niechronieni użytkownicy dróg",
+"subcategory":"Rowerzyści",
+"englishSubcategory":"Cyclists",
+"description":"Kierowcy muszą zapewnić sobie więcej miejsca podczas wyprzedzania rowerzystów, ponieważ mogą potrzebować więcej miejsca, aby uniknąć zagrożeń lub zachować równowagę."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Piesi, rowerzyści i niechronieni użytkownicy dróg",
+"subcategory":"Piesi",
+"englishSubcategory":"Pedestrians",
+"description":"W pobliżu centrów handlowych lub przystanków komunikacji miejskiej kierowcy powinni spodziewać się wzmożonej aktywności pieszych i nagłych przejść. Zawsze zachowuj czujność w tych miejscach."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Piesi, rowerzyści i niechronieni użytkownicy dróg",
+"subcategory":"Rowerzyści",
+"englishSubcategory":"Cyclists",
+"description":"Gdy rowerzysta jedzie po oznakowanym pasie ruchu dla rowerów, kierowcy mają obowiązek unikać jazdy po tym pasie, chyba że mają pozwolenie i jest to bezpieczne."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Piesi, rowerzyści i niechronieni użytkownicy dróg",
+"subcategory":"Dzieci",
+"englishSubcategory":"Children",
+"description":"Kierowcy muszą zachować szczególną ostrożność w pobliżu szkół, ponieważ dzieci mogą zachowywać się nieprzewidywalnie i źle oceniać sytuację na drodze. Zwolnij w strefach szkolnych."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Piesi, rowerzyści i niechronieni użytkownicy dróg",
+"subcategory":"Rowerzyści",
+"englishSubcategory":"Cyclists",
+"description":"Jeśli rowerzysta jedzie środkiem wąskiego pasa, kierowcy powinni poczekać, aż będzie można bezpiecznie wyprzedzić go, mając wystarczająco dużo miejsca, zamiast go wyprzedzać."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Piesi, rowerzyści i niechronieni użytkownicy dróg",
+"subcategory":"Piesi",
+"englishSubcategory":"Pedestrians",
+"description":"Przed przejściem dla dzieci kierowcy muszą się zatrzymać, gdy wywieszone są flagi i w pobliżu znajdują się piesi, aby zapewnić bezpieczeństwo dzieciom."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Piesi, rowerzyści i niechronieni użytkownicy dróg",
+"subcategory":"Rowerzyści",
+"englishSubcategory":"Cyclists",
+"description":"Kierowcy powinni zawsze sprawdzać martwe pola przed skrętem, ponieważ rowerzyści mogą jechać niezauważeni obok, zwłaszcza na obszarach miejskich."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Piesi, rowerzyści i niechronieni użytkownicy dróg",
+"subcategory":"Osoby starsze i niepełnosprawne",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Starsi piesi mogą potrzebować więcej czasu na przejście, ponieważ mogą chodzić wolniej lub mieć problemy z poruszaniem się. Zapewnij im przestrzeń i czas na bezpieczne przejście."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Piesi, rowerzyści i niechronieni użytkownicy dróg",
+"subcategory":"Rowerzyści",
+"englishSubcategory":"Cyclists",
+"description":"Rowerzyści mogą być trudniejsi do zauważenia, zbliżając się do skrzyżowań, i mogą poruszać się szybko. Zawsze dawaj rowerzystom przestrzeń i czas na bezpieczną jazdę."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Sytuacje szczególne i warunki drogowe",
+"subcategory":"Strefy szkolne",
+"englishSubcategory":"School Zones",
+"description":"Ograniczenia prędkości w strefie szkolnej obowiązują tylko w godzinach wskazanych na znakach. Należy ich przestrzegać, aby zapewnić bezpieczeństwo dzieciom."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Sytuacje szczególne i warunki drogowe",
+"subcategory":"Strefy szkolne",
+"englishSubcategory":"School Zones",
+"description":"Kierowcy muszą zwolnić w strefach szkolnych, nawet jeśli nie widać dzieci, ponieważ mogą one pojawić się nagle i nieprzewidywalnie."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Sytuacje szczególne i warunki drogowe",
+"subcategory":"Roboty drogowe",
+"englishSubcategory":"Roadworks",
+"description":"Zbliżając się do miejsca robót drogowych, zwolnij i stosuj się do tymczasowych znaków, aby zapewnić bezpieczeństwo pracownikom i innym użytkownikom drogi."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Sytuacje szczególne i warunki drogowe",
+"subcategory":"Roboty drogowe",
+"englishSubcategory":"Roadworks",
+"description":"W strefach robót drogowych obowiązują ograniczenia prędkości, aby zapewnić bezpieczeństwo pracownikom i dostosować się do zmieniających się warunków drogowych."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Sytuacje szczególne i warunki drogowe",
+"subcategory":"Drogi wiejskie",
+"englishSubcategory":"Rural Roads",
+"description":"Na drogach wiejskich dzikie zwierzęta mogą niespodziewanie wkraść się na jezdnię. Zawsze bądź przygotowany na zatrzymanie się lub zwolnienie podczas jazdy przez tereny wiejskie."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Sytuacje szczególne i warunki drogowe",
+"subcategory":"Drogi wiejskie",
+"englishSubcategory":"Rural Roads",
+"description":"Drogi gruntowe często charakteryzują się gorszą przyczepnością i mniejszą skutecznością hamowania. Kierowcy powinni zmniejszyć prędkość podczas jazdy po nawierzchniach gruntowych."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Sytuacje szczególne i warunki drogowe",
+"subcategory":"Autostrady",
+"englishSubcategory":"Freeways",
+"description":"Jeśli przegapisz zjazd z autostrady, kontynuuj do następnego zjazdu i bezpiecznie zawróć. Nie próbuj zatrzymywać się ani cofać na autostradzie."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Sytuacje szczególne i warunki drogowe",
+"subcategory":"Autostrady",
+"englishSubcategory":"Freeways",
+"description":"Zatrzymywanie się na autostradzie jest zabronione, chyba że w nagłych wypadkach. W razie awarii zawsze korzystaj z pobocza lub zjazdu."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Sytuacje szczególne i warunki drogowe",
+"subcategory":"Warunki atmosferyczne",
+"englishSubcategory":"Weather Conditions",
+"description":"Podczas ulewnego deszczu zmniejsz prędkość i zwiększ odstęp od poprzedzającego pojazdu. Mokra nawierzchnia może zmniejszyć przyczepność i wydłużyć drogę hamowania."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Sytuacje szczególne i warunki drogowe",
+"subcategory":"Warunki atmosferyczne",
+"englishSubcategory":"Weather Conditions",
+"description":"Mgła ogranicza widoczność i percepcję głębi, co sprawia, że jazda samochodem jest szczególnie niebezpieczna. Zwolnij i zwiększ odstęp od poprzedzającego pojazdu w warunkach mgły."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Pojazdy uprzywilejowane i wskazówki policyjne",
+"subcategory":"Ustąpienie pierwszeństwa pojazdowi uprzywilejowanemu",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Kiedy zbliża się pojazd uprzywilejowany z włączonymi światłami i/lub syreną, zejdź mu z drogi i pozwól mu bezpiecznie przejechać."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Pojazdy uprzywilejowane i wskazówki policyjne",
+"subcategory":"Ustąpienie pierwszeństwa pojazdowi uprzywilejowanemu",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Jeśli znajdujesz się na skrzyżowaniu ze światłami i od tyłu nadjeżdża pojazd uprzywilejowany, najbezpieczniej jest zjechać na bok, jeżeli jest to bezpieczne i dozwolone, w przeciwnym wypadku pozostań na miejscu i pozwól mu przejechać, jeżeli to możliwe."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Pojazdy uprzywilejowane i wskazówki policyjne",
+"subcategory":"Wskazówki dla policji",
+"englishSubcategory":"Police Directions",
+"description":"Jeżeli policjant wyda inne polecenie niż wskazane na znaku, należy zastosować się do jego poleceń."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Pojazdy uprzywilejowane i wskazówki policyjne",
+"subcategory":"Ustąpienie pierwszeństwa pojazdowi uprzywilejowanemu",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Jeśli na poboczu drogi zatrzyma się pojazd uprzywilejowany z włączonymi światłami, zwolnij i ostrożnie przejedź obok niego. Jeśli jest to bezpieczne, zejdź mu z drogi."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Pojazdy uprzywilejowane i wskazówki policyjne",
+"subcategory":"Wskazówki dla policji",
+"englishSubcategory":"Police Directions",
+"description":"Jeśli policja ustawi tymczasową blokadę drogi, stosuj się do jej poleceń i ewentualnych objazdów."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Pojazdy uprzywilejowane i wskazówki policyjne",
+"subcategory":"Ustąpienie pierwszeństwa pojazdowi uprzywilejowanemu",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Nie należy jechać zbyt blisko pojazdu uprzywilejowanego, aby szybciej przejechać przez ulicę."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Pojazdy uprzywilejowane i wskazówki policyjne",
+"subcategory":"Ustąpienie pierwszeństwa pojazdowi uprzywilejowanemu",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Jeśli słyszysz syrenę, ale nie widzisz jeszcze pojazdu uprzywilejowanego, zachowaj czujność, sprawdź lusterka i bądź gotowy do bezpiecznej jazdy."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Pojazdy uprzywilejowane i wskazówki policyjne",
+"subcategory":"Wskazówki dla policji",
+"englishSubcategory":"Police Directions",
+"description":"Jeśli podczas robót drogowych polecenia wydaje kontroler ruchu drogowego, należy się do niego stosować."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Pojazdy uprzywilejowane i wskazówki policyjne",
+"subcategory":"Wskazówki dla policji",
+"englishSubcategory":"Police Directions",
+"description":"Jeżeli policja każe Ci zatrzymać się w celu kontroli prawa jazdy, zatrzymaj się bezpiecznie, postępując zgodnie z poleceniem."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Pojazdy uprzywilejowane i wskazówki policyjne",
+"subcategory":"Ustąpienie pierwszeństwa pojazdowi uprzywilejowanemu",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Jeżeli znajdujesz się na jednym pasie ruchu i z tyłu nadjeżdża pojazd uprzywilejowany, włącz kierunkowskaz i zjedź na lewą stronę lub w bezpieczne miejsce, jeżeli to możliwe."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Pasy bezpieczeństwa, foteliki dziecięce i pasażerowie",
+"subcategory":"Pasy bezpieczeństwa",
+"englishSubcategory":"Seatbelts",
+"description":"Kierowca ma obowiązek zapewnić, aby wszyscy pasażerowie poniżej 16 roku życia mieli zapięte pasy bezpieczeństwa."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Pasy bezpieczeństwa, foteliki dziecięce i pasażerowie",
+"subcategory":"Pasy bezpieczeństwa",
+"englishSubcategory":"Seatbelts",
+"description":"Pasy bezpieczeństwa (jeśli pojazd jest w nie wyposażony) muszą być zapięte przez cały czas jazdy."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Pasy bezpieczeństwa, foteliki dziecięce i pasażerowie",
+"subcategory":"Foteliki dziecięce",
+"englishSubcategory":"Child Restraints",
+"description":"Fotelik dziecięcy jest konieczny, ponieważ jest zaprojektowany tak, aby chronić dziecko, dopasowując się do jego rozmiaru i kształtu, skuteczniej niż pas bezpieczeństwa dla dorosłych."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Pasy bezpieczeństwa, foteliki dziecięce i pasażerowie",
+"subcategory":"Pasażerowie",
+"englishSubcategory":"Passengers",
+"description":"Stawianie stóp na desce rozdzielczej jest niebezpieczne dla pasażerów, ponieważ poduszki powietrzne i siły zderzenia mogą spowodować poważne obrażenia."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Pasy bezpieczeństwa, foteliki dziecięce i pasażerowie",
+"subcategory":"Foteliki dziecięce",
+"englishSubcategory":"Child Restraints",
+"description":"Najbezpieczniejszą ogólną zasadą przy wyborze fotelika dziecięcego jest użycie takiego, który jest zatwierdzony i odpowiedni do wieku i rozmiaru dziecka."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Pasy bezpieczeństwa, foteliki dziecięce i pasażerowie",
+"subcategory":"Pasy bezpieczeństwa",
+"englishSubcategory":"Seatbelts",
+"description":"Typową oznaką, że pas bezpieczeństwa nie jest zapięty prawidłowo, jest sytuacja, gdy pasek bezpieczeństwa znajduje się pod pachą lub za plecami."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Pasy bezpieczeństwa, foteliki dziecięce i pasażerowie",
+"subcategory":"Pasażerowie",
+"englishSubcategory":"Passengers",
+"description":"Jeśli pasażer rozprasza kierowcę, najbezpieczniej jest poprosić go o zatrzymanie się i ponowne skoncentrowanie się na prowadzeniu pojazdu."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Pasy bezpieczeństwa, foteliki dziecięce i pasażerowie",
+"subcategory":"Foteliki dziecięce",
+"englishSubcategory":"Child Restraints",
+"description":"Trzymanie dziecka na kolanach w jadącym pojeździe jest niebezpieczne, ponieważ w razie wypadku nie będziesz w stanie go pewnie przytrzymać."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Pasy bezpieczeństwa, foteliki dziecięce i pasażerowie",
+"subcategory":"Pasy bezpieczeństwa",
+"englishSubcategory":"Seatbelts",
+"description":"Pas bezpieczeństwa powinien być zapięty tak, aby jego część biodrowa przebiegała nisko nad biodrami, aby zmniejszyć ryzyko obrażeń brzucha w razie wypadku."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Pasy bezpieczeństwa, foteliki dziecięce i pasażerowie",
+"subcategory":"Pasażerowie",
+"englishSubcategory":"Passengers",
+"description":"Największe ryzyko związane z przewożeniem w kabinie niezabezpieczonych przedmiotów polega na tym, że w razie zderzenia lub nagłego zatrzymania mogą one zamienić się w pociski."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Podstawy bezpieczeństwa, usterek i konserwacji pojazdów",
+"subcategory":"Opony",
+"englishSubcategory":"Tyres",
+"description":"Prawidłowe ciśnienie w oponach jest istotne dla bezpieczeństwa, gdyż wpływa na przyczepność, hamowanie i kontrolę układu kierowniczego."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Podstawy bezpieczeństwa, usterek i konserwacji pojazdów",
+"subcategory":"Hamulce",
+"englishSubcategory":"Brakes",
+"description":"Jeśli pedał hamulca wydaje się miękki lub zapada się głębiej niż zwykle, potraktuj to jako poważną usterkę i natychmiast sprawdź hamulce."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Podstawy bezpieczeństwa, usterek i konserwacji pojazdów",
+"subcategory":"Światła i widoczność",
+"englishSubcategory":"Lights & Visibility",
+"description":"Regularnie sprawdzaj światła wszystkich pojazdów, aby mieć pewność, że widzisz siebie i innych."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Podstawy bezpieczeństwa, usterek i konserwacji pojazdów",
+"subcategory":"Układ kierowniczy i zawieszenie",
+"englishSubcategory":"Steering & Suspension",
+"description":"Objawem ostrzegawczym problemów z układem kierowniczym może być nietypowe ciągnięcie, wibracje lub trudności z kierowaniem."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Podstawy bezpieczeństwa, usterek i konserwacji pojazdów",
+"subcategory":"Szyby przednie i wycieraczki",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Zużyte wycieraczki stanowią zagrożenie dla bezpieczeństwa, gdyż ograniczają widoczność podczas deszczu."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Podstawy bezpieczeństwa, usterek i konserwacji pojazdów",
+"subcategory":"Opony",
+"englishSubcategory":"Tyres",
+"description":"Typową oznaką, że opony mogą być niebezpieczne, jest zużycie bieżnika lub jego nierównomierne zużycie."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Podstawy bezpieczeństwa, usterek i konserwacji pojazdów",
+"subcategory":"Lustra i regulacja",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Przed jazdą należy ustawić lusterka w taki sposób, aby zmniejszyć liczbę martwych pól i poprawić widoczność."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Podstawy bezpieczeństwa, usterek i konserwacji pojazdów",
+"subcategory":"Hamulce",
+"englishSubcategory":"Brakes",
+"description":"Jeśli hamulce wydają dźwięki zgrzytania, należy je jak najszybciej sprawdzić."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Podstawy bezpieczeństwa, usterek i konserwacji pojazdów",
+"subcategory":"Światła i widoczność",
+"englishSubcategory":"Lights & Visibility",
+"description":"Używaj świateł mijania w warunkach ograniczonej widoczności, aby inni mogli cię dostrzec."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Podstawy bezpieczeństwa, usterek i konserwacji pojazdów",
+"subcategory":"Szyby przednie i wycieraczki",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Jeśli przednia szyba w zasięgu wzroku jest poważnie pęknięta, napraw ją lub wymień przed dalszą jazdą."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Ładunki, holowanie i świadomość pojazdów ciężarowych",
+"subcategory":"Masa",
+"englishSubcategory":"Loads",
+"description":"Ładunek musi być odpowiednio zabezpieczony, aby nie dopuścić do jego przesunięcia lub upadku, co mogłoby spowodować wypadek."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Ładunki, holowanie i świadomość pojazdów ciężarowych",
+"subcategory":"Masa",
+"englishSubcategory":"Loads",
+"description":"Niezabezpieczony ładunek w pojeździe może podczas nagłego hamowania wystrzelić pocisk, stwarzając poważne zagrożenie bezpieczeństwa."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Ładunki, holowanie i świadomość pojazdów ciężarowych",
+"subcategory":"Masa",
+"englishSubcategory":"Loads",
+"description":"Jazda przeciążonym pojazdem ma wpływ na hamowanie poprzez wydłużenie drogi hamowania."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Ładunki, holowanie i świadomość pojazdów ciężarowych",
+"subcategory":"Masa",
+"englishSubcategory":"Loads",
+"description":"Najbezpieczniejszym sposobem przewożenia długich przedmiotów jest zabezpieczenie ich w taki sposób, aby nie mogły się przesuwać lub niebezpiecznie wystawać."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Ładunki, holowanie i świadomość pojazdów ciężarowych",
+"subcategory":"Holowniczy",
+"englishSubcategory":"Towing",
+"description":"Holowanie przyczepy wydłuża drogę hamowania, ponieważ dodatkowy ciężar zmniejsza skuteczność hamowania."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Ładunki, holowanie i świadomość pojazdów ciężarowych",
+"subcategory":"Holowniczy",
+"englishSubcategory":"Towing",
+"description":"Przed holowaniem przyczepy należy sprawdzić, czy sprzęg, światła i łańcuch zabezpieczający są bezpieczne."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Ładunki, holowanie i świadomość pojazdów ciężarowych",
+"subcategory":"Holowniczy",
+"englishSubcategory":"Towing",
+"description":"Podczas skręcania podczas holowania należy zachować dodatkową przestrzeń, ponieważ przyczepa porusza się po torze skrętu."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Ładunki, holowanie i świadomość pojazdów ciężarowych",
+"subcategory":"Masa",
+"englishSubcategory":"Loads",
+"description":"Ładunek zasłaniający widoczność do tyłu utrudnia zauważenie pojazdów jadących z tyłu, zwiększając ryzyko wypadku."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Ładunki, holowanie i świadomość pojazdów ciężarowych",
+"subcategory":"Pojazdy ciężkie",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Ciężkie pojazdy potrzebują więcej miejsca do zatrzymania, ponieważ ich większa masa wydłuża drogę hamowania."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Ładunki, holowanie i świadomość pojazdów ciężarowych",
+"subcategory":"Pojazdy ciężkie",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Podczas jazdy za dużą ciężarówką należy zwiększyć odstęp, aby uwzględnić martwe pola i dłuższą drogę hamowania ciężarówki."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Licencjonowanie, zasady dotyczące tablic rejestracyjnych L/P i praktyczne pułapki DKT (Wiktoria)",
+"subcategory":"Zasady dotyczące zezwoleń dla uczniów",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Będąc kierowcą uczącym się w stanie Wiktoria, możesz prowadzić samochód wyłącznie pod nadzorem odpowiednio licencjonowanego kierowcy siedzącego obok Ciebie."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Licencjonowanie, zasady dotyczące tablic rejestracyjnych L/P i praktyczne pułapki DKT (Wiktoria)",
+"subcategory":"Zasady dotyczące zezwoleń dla uczniów",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Kierowcy uczący się jeździć muszą wyraźnie eksponować tablice z literą L, aby były one zawsze widoczne dla innych uczestników ruchu drogowego."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Licencjonowanie, zasady dotyczące tablic rejestracyjnych L/P i praktyczne pułapki DKT (Wiktoria)",
+"subcategory":"Zasady dotyczące zezwoleń dla uczniów",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Jeżeli kierowca sprawujący nadzór zaśnie podczas prowadzenia pojazdu, należy bezpiecznie zatrzymać się i nie kontynuować jazdy, dopóki nie będzie się pod odpowiednim nadzorem."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Licencjonowanie, zasady dotyczące tablic rejestracyjnych L/P i praktyczne pułapki DKT (Wiktoria)",
+"subcategory":"Telefony komórkowe i urządzenia",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Będąc kierowcą uczącym się jazdy w Victorii, nie masz prawa w żaden sposób korzystać z telefonu komórkowego podczas prowadzenia pojazdu."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Licencjonowanie, zasady dotyczące tablic rejestracyjnych L/P i praktyczne pułapki DKT (Wiktoria)",
+"subcategory":"Zasady dotyczące zezwoleń dla uczniów",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Jeżeli tablice rejestracyjne L odpadną podczas jazdy, należy zatrzymać się w bezpiecznym miejscu, założyć je ponownie i dopiero wtedy kontynuować jazdę."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Licencjonowanie, zasady dotyczące tablic rejestracyjnych L/P i praktyczne pułapki DKT (Wiktoria)",
+"subcategory":"Nadzór",
+"englishSubcategory":"Supervision",
+"description":"Głównym celem zasad nadzoru nad osobami uczącymi się jazdy jest zapewnienie, że doświadczony kierowca będzie w stanie pokierować pojazdem i w razie potrzeby interweniować."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Licencjonowanie, zasady dotyczące tablic rejestracyjnych L/P i praktyczne pułapki DKT (Wiktoria)",
+"subcategory":"Warunki i zgodność",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Jeśli osoba ucząca się jazdy zostanie przyłapana na jeździe bez wymaganego nadzoru, istnieje duże prawdopodobieństwo nałożenia na nią kar i możliwych konsekwencji związanych z utratą prawa jazdy."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Licencjonowanie, zasady dotyczące tablic rejestracyjnych L/P i praktyczne pułapki DKT (Wiktoria)",
+"subcategory":"Percepcja zagrożeń",
+"englishSubcategory":"Hazard Perception",
+"description":"Częstą pułapką na skrzyżowaniach, na którą natykają się kierowcy uczący się jazdy, jest skręcanie bez sprawdzenia, czy na jezdni, na którą wjeżdżają, nie przechodzą piesi."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Licencjonowanie, zasady dotyczące tablic rejestracyjnych L/P i praktyczne pułapki DKT (Wiktoria)",
+"subcategory":"Percepcja zagrożeń",
+"englishSubcategory":"Hazard Perception",
+"description":"Nawet jeśli światło jest zielone, musisz zwolnić lub zatrzymać się, jeśli przed Tobą jest zablokowany ruch lub przechodzą piesi."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Licencjonowanie, zasady dotyczące tablic rejestracyjnych L/P i praktyczne pułapki DKT (Wiktoria)",
+"subcategory":"Zasady dotyczące zezwoleń dla uczniów",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Jeżeli sprawujesz nadzór nad uczniem, kierowca sprawujący nadzór powinien zawsze siedzieć na przednim siedzeniu pasażera."
+}
+]

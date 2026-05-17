@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Generelle trafikkregler",
+"englishSubcategory":"General Road Rules",
+"description":"Sjåfører må følge generelle trafikkregler for å sikre sikkerhet og smidig trafikkflyt. Dette inkluderer å adlyde trafikkskilt, signaler og kjørefeltmerkinger. Brudd på disse reglene kan føre til ulykker og bøter."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Vikeplass",
+"englishSubcategory":"Giving Way",
+"description":"Førere har vikeplikt for andre kjøretøy eller fotgjengere i kryss, rundkjøringer og fotgjengeroverganger, blant annet. Det er en forbrytelse å ikke vike."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Filbruk",
+"englishSubcategory":"Lane Use",
+"description":"Sjåfører må bruke riktige kjørefelt og følge kjørefeltmerkingen. Dette inkluderer regler for kjørefeltskift, forbikjøring og bruk av sykkel- eller bussfelt. Brudd kan føre til bøter eller ulykker."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Trikker",
+"englishSubcategory":"Trams",
+"description":"Sjåfører må være oppmerksomme på trikkereglene, inkludert vikeplikt for fotgjengere på trikkeholdeplasser, stopping for trikker med åpne dører og forbud mot forbikjøring av trikker under visse forhold."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Kryss",
+"englishSubcategory":"Intersections",
+"description":"I kryss må sjåfører følge riktige prosedyrer for vikeplikt og stopping ved stoppskilt eller trafikklys. Å forstå disse reglene er viktig for å forhindre ulykker."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"U-svinger",
+"englishSubcategory":"U-Turns",
+"description":"U-svinger er kun tillatt i kryss eller når det ikke er skilt som forbyr det. Førere må forsikre seg om at det er trygt før de utfører en U-sving."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Fartsgrenser",
+"englishSubcategory":"Speed Limits",
+"description":"Sjåfører må overholde oppgitte fartsgrenser for å sikre sikkerheten på veien. Fartsovertredelse kan føre til bøter, tap av førerkort og økt risiko for ulykker."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Fotgjengersikkerhet",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Førere må vike for fotgjengere i kryss og sørge for deres sikkerhet i nærheten av gågater. Det er en forbrytelse å ikke stoppe for fotgjengere i kryss."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Jernbaneoverganger",
+"englishSubcategory":"Railway Crossings",
+"description":"Sjåfører må stoppe ved jernbaneoverganger når lysene blinker eller bomportene er nede. Å ignorere disse signalene er en alvorlig forseelse og kan føre til bøter og ulykker."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Utrykningskjøretøy",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Førere må vike for utrykningskjøretøy ved hjelp av blinkende lys og sirener, og sørge for at kjøretøyet har fri vei gjennom trafikken."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Reguleringsskilt",
+"englishSubcategory":"Regulatory Signs",
+"description":"Skilt gir obligatoriske instruksjoner for sjåfører, som fartsgrenser, svingbegrensninger og innkjøring forbudt-skilt. Det er lovpålagt å følge disse skiltene for å opprettholde sikkerhet og orden på veiene."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Varselskilt",
+"englishSubcategory":"Warning Signs",
+"description":"Varselskilt varsler sjåfører om potensielle farer, som skarpe svinger, skolesoner og kryssinger for vilt. Disse skiltene hjelper sjåfører med å tilpasse kjøringen for å unngå ulykker."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Fartsskilt",
+"englishSubcategory":"Speed Signs",
+"description":"Fartsskilt angir maksimal eller minimal tillatt hastighet på en vei. Sjåfører må overholde disse grensene for å sikre trygge kjøreforhold og unngå bøter."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Trafikklys",
+"englishSubcategory":"Traffic Lights",
+"description":"Trafikklys kontrollerer flyten av kjøretøy og fotgjengere i kryss. Rødt betyr stopp, grønt betyr kjør, og gult er en advarsel om å forberede seg på å stoppe."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Fotgjengersignaler",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Fotgjengersignaler indikerer når det er trygt for fotgjengere å krysse veien. Disse signalene koordineres vanligvis med trafikklys for å sikre fotgjengernes sikkerhet."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Filkontrollsignaler",
+"englishSubcategory":"Lane Control Signals",
+"description":"Filkontrollsignaler brukes til å indikere om et kjørefelt er åpent eller stengt. Disse signalene brukes vanligvis på veier med flere kjørefelt og i tunneler."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Parkering forbudt-skilt",
+"englishSubcategory":"No Parking Signs",
+"description":"Skilt med «Parkering forbudt» angir områder der det er forbudt å stoppe eller parkere. Dette er vanligvis for å sikre at trafikken flyter problemfritt og at sikkerheten ivaretas."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Enveisskilt",
+"englishSubcategory":"One-Way Signs",
+"description":"Enveisskilt indikerer at trafikken kun må gå i én retning. Manglende overholdelse av disse skiltene kan føre til ulykker og juridiske konsekvenser."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Stoppskilt",
+"englishSubcategory":"Stop Signs",
+"description":"Stoppskilt krever at sjåfører stanser helt og viker for andre kjøretøy eller fotgjengere før de fortsetter."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Vikepliktskilt",
+"englishSubcategory":"Give Way Signs",
+"description":"Vikepliktsskilt instruerer sjåfører til å vike for andre trafikanter, enten fotgjengere eller kjøretøy, avhengig av situasjonen, for å forhindre ulykker."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Fartsgrenser",
+"englishSubcategory":"Speed Limits",
+"description":"Standard fartsgrense i tettbygde områder i Victoria er 50 km/t med mindre annet er skiltet. Sjekk alltid skilt for å sikre at du kjører innenfor de lovlige fartsgrensene."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Fartsgrenser",
+"englishSubcategory":"Speed Limits",
+"description":"I en skiltet skolesone i løpet av tidene som er angitt på skiltet, er fartsgrensen redusert til 40 km/t for å sikre sikkerheten til barn som krysser veien."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Følgende avstand",
+"englishSubcategory":"Following Distance",
+"description":"Minste sikre følgeavstand under ideelle forhold er minst to sekunder bak kjøretøyet foran. Dette gir nok tid til å reagere hvis kjøretøyet foran stopper plutselig."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Fartsgrenser",
+"englishSubcategory":"Speed Limits",
+"description":"Når du passerer en stoppet trikk i en sikkerhetssone, må du redusere hastigheten til 10 km/t for å sikre sikkerheten til passasjerene som går på eller av trikken."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Fartsgrenser",
+"englishSubcategory":"Speed Limits",
+"description":"På landeveier uten fartsskilt er standard fartsgrense 100 km/t med mindre annet er spesifisert av lokale skilt. Juster hastigheten etter veiforholdene for å opprettholde sikkerheten."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Følgende avstand",
+"englishSubcategory":"Following Distance",
+"description":"I vått vær bør du øke følgeavstanden til minst fire sekunder. Våte veier reduserer veigrepet, og krever mer tid for å stoppe trygt."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Fartsgrenser",
+"englishSubcategory":"Speed Limits",
+"description":"Følg elektroniske variable fartsgrenseskilt til enhver tid når de er i bruk. Disse skiltene justerer fartsgrensene basert på trafikkforhold, vær eller hendelser på veien."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Stopplengde",
+"englishSubcategory":"Stopping Distance",
+"description":"Etter hvert som hastigheten øker, øker også bremselengden som kreves for å stoppe kjøretøyet trygt. Sørg alltid for at du har tilstrekkelig avstand til å reagere på farer."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Fartsgrenser",
+"englishSubcategory":"Speed Limits",
+"description":"I delte soner er fartsgrensen vanligvis 10 km/t for å sikre sikkerheten til fotgjengere og syklister i disse områdene der kjøretøy og ikke-motoriserte trafikanter samhandler."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Følgende avstand",
+"englishSubcategory":"Following Distance",
+"description":"Det er farlig å kjøre bakover fordi det reduserer reaksjons- og bremsetiden. Hold alltid god avstand til neste kjøretøy, spesielt når du kjører bak større kjøretøy som kan hindre sikten."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Juridiske forpliktelser",
+"englishSubcategory":"Legal Obligations",
+"description":"Sjåfører må oppfylle ulike juridiske forpliktelser, som å yte assistanse etter en ulykke, utveksle detaljer etter kollisjoner og rapportere hendelser til myndighetene slik loven krever."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Oppmerksomhet og kontroll",
+"englishSubcategory":"Attention & Control",
+"description":"Førere må beholde kontrollen over kjøretøyet sitt til enhver tid, unngå distraksjoner og opprettholde fokus for å ivareta sin egen sikkerhet og andre trafikanters sikkerhet."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Juridiske forpliktelser",
+"englishSubcategory":"Legal Obligations",
+"description":"Ved en ulykke som forårsaker personskade, må sjåfører stoppe og yte assistanse der det er mulig. Å unnlate å stoppe og yte assistanse i slike situasjoner er et lovbrudd."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Oppmerksomhet og kontroll",
+"englishSubcategory":"Attention & Control",
+"description":"Det er viktig at sjåfører har full kontroll over kjøretøyet sitt til enhver tid, og sørger for at de reagerer hensiktsmessig på skiftende trafikkforhold og opprettholder et trygt kjøremiljø."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Juridiske forpliktelser",
+"englishSubcategory":"Legal Obligations",
+"description":"Sjåfører må rapportere en kollisjon til politiet hvis noen er skadet eller eiendom er skadet, og opplysningene ikke kan utveksles. Unnlatelse av å rapportere disse hendelsene kan føre til bøter."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Tretthetshåndtering",
+"englishSubcategory":"Fatigue Management",
+"description":"Tretthet er en alvorlig risiko under kjøring. Sjåfører bør være oppmerksomme på tidlige tegn på tretthet, som gjesping og konsentrasjonstap, og iverksette passende tiltak for å forhindre ulykker."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Juridiske forpliktelser",
+"englishSubcategory":"Legal Obligations",
+"description":"Førere må fremvise førerkortet sitt når politiet ber om det. Å nekte å fremvise førerkortet kan føre til straff eller ytterligere juridiske konsekvenser."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Oppmerksomhet og kontroll",
+"englishSubcategory":"Attention & Control",
+"description":"Sjåfører bør unngå å bruke hornet unødvendig, da det kan skremme eller distrahere andre trafikanter. Hornet skal kun brukes til å varsle andre om din tilstedeværelse i situasjoner der det er nødvendig."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Tretthetshåndtering",
+"englishSubcategory":"Fatigue Management",
+"description":"Hvis du føler deg for sliten til å fortsette å kjøre, er det tryggeste å stoppe og hvile før du fortsetter. Tretthet øker risikoen for ulykker betydelig."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Juridiske forpliktelser",
+"englishSubcategory":"Legal Obligations",
+"description":"Sjåfører har et ansvar for å sørge for at passasjerene deres sitter trygt og er fastspent. Dette inkluderer å sørge for at barn er i passende barneseter og at voksne bruker sikkerhetsbelter."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkohol, narkotika og helse",
+"subcategory":"Alkoholgrenser",
+"englishSubcategory":"Alcohol Limits",
+"description":"I Victoria må førere som er i prøvetid og førere på prøvetid (P1 og P2) opprettholde en alkoholkonsentrasjon i blodet (BAC) på 0,00 til enhver tid. Sjåfører med full førerkort har en BAC-grense på 0,05, men det er tryggere å ikke drikke i det hele tatt når de kjører."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkohol, narkotika og helse",
+"subcategory":"Alkoholeffekter",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkohol svekker dømmekraft, reaksjonstid og koordinasjon, noe som kan øke risikoen for ulykker betydelig. Selv små mengder alkohol kan redusere evnen til å kjøre bil på en sikker måte."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkohol, narkotika og helse",
+"subcategory":"Narkotikakjøring",
+"englishSubcategory":"Drug Driving",
+"description":"Kjøring under påvirkning av narkotika, inkludert reseptbelagte medisiner, kan svekke kjøreevnen din, selv om du føler deg upåvirket. Det er viktig å være klar over risikoen og unngå å kjøre bil etter bruk av narkotika."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkohol, narkotika og helse",
+"subcategory":"Medisinsikkerhet",
+"englishSubcategory":"Medication Safety",
+"description":"Før du begynner med nye reseptbelagte medisiner, bør du sjekke om de påvirker kjøreevnen din og følge legens råd. Noen medisiner kan forårsake døsighet eller svekke konsentrasjonen."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkohol, narkotika og helse",
+"subcategory":"Tretthet og helse",
+"englishSubcategory":"Fatigue & Health",
+"description":"Tretthet kan svekke evnen din til å kjøre bil på en sikker måte, akkurat som alkohol eller narkotika. Sørg for at du får nok hvile før du kjører, og ta pauser på lange turer for å redusere risikoen for tretthetsrelaterte ulykker."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Alkohol, narkotika og helse",
+"subcategory":"Alkoholeffekter",
+"englishSubcategory":"Alcohol Effects",
+"description":"Etter å ha drukket, er det bare tid som kan redusere mengden alkohol i kroppen din. Kaffe, kalde dusjer eller andre metoder fremskynder ikke denne prosessen."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Alkohol, narkotika og helse",
+"subcategory":"Alkoholgrenser",
+"englishSubcategory":"Alcohol Limits",
+"description":"I Victoria må alle sjåfører i lære og på prøvetid opprettholde en promille på 0,00. For sjåfører med full førerkort er promillegrensen 0,05. Å unngå alkohol før kjøring er imidlertid alltid det tryggeste alternativet."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Alkohol, narkotika og helse",
+"subcategory":"Narkotikakjøring",
+"englishSubcategory":"Drug Driving",
+"description":"Du kan bli straffet i Victoria for å kjøre med visse rusmidler i kroppen, selv om du føler deg upåvirket. Rusmiddelavhengighet påvirker evnen din til å kjøre trygt og øker risikoen for ulykker."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Alkohol, narkotika og helse",
+"subcategory":"Medisinsikkerhet",
+"englishSubcategory":"Medication Safety",
+"description":"Før du kjører bil, bør du alltid sjekke om nye medisiner kan påvirke evnen din til å kjøre bil. Noen medisiner forårsaker døsighet, svekker reaksjonstiden og reduserer konsentrasjonen."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Alkohol, narkotika og helse",
+"subcategory":"Tretthet og helse",
+"englishSubcategory":"Fatigue & Health",
+"description":"Tretthet kan ha en lignende effekt på kjøring som alkohol. Det senker reaksjonstiden din, svekker dømmekraften din og reduserer evnen din til å ta avgjørelser, noe som øker risikoen for ulykker."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Sikker kjørepraksis",
+"subcategory":"Fareoppfatning",
+"englishSubcategory":"Hazard Perception",
+"description":"Når du nærmer deg en potensiell fare, er den sikreste reaksjonen å senke farten og forberede deg på å stoppe om nødvendig. Dette gir deg tid til å vurdere situasjonen og reagere passende."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Sikker kjørepraksis",
+"subcategory":"Fareoppfatning",
+"englishSubcategory":"Hazard Perception",
+"description":"Det er avgjørende å kunne se godt fremover mens du kjører for å oppdage potensielle farer tidlig. Dette lar deg planlegge responsen din og unngå plutselige reaksjoner."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Sikker kjørepraksis",
+"subcategory":"Defensiv kjøring",
+"englishSubcategory":"Defensive Driving",
+"description":"Defensiv kjøring innebærer å forutse potensielle feil fra andre trafikanter og å holde en trygg avstand for å unngå kollisjoner."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Sikker kjørepraksis",
+"subcategory":"Veiforhold",
+"englishSubcategory":"Road Conditions",
+"description":"Hvis dekkene mister grepet på våt vei, slapp av gasspedalen og styr jevnt. Plutselig oppbremsing eller skarpe svinger kan forverre situasjonen og føre til tap av kontroll."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Sikker kjørepraksis",
+"subcategory":"Fareoppfatning",
+"englishSubcategory":"Hazard Perception",
+"description":"Når du kjører i trafikk, er den beste posisjonen for å se etter farer langt foran og til sidene, ikke bare å fokusere på bilen foran deg. Dette hjelper deg med å forutse risikoer tidligere."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Sikker kjørepraksis",
+"subcategory":"Defensiv kjøring",
+"englishSubcategory":"Defensive Driving",
+"description":"Hvis et kjøretøy beveger seg i kjørefeltet foran, er den sikreste reaksjonen å øke avstanden til deg. Dette gir deg mer tid til å reagere hvis situasjonen forverres."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Sikker kjørepraksis",
+"subcategory":"Veiforhold",
+"englishSubcategory":"Road Conditions",
+"description":"Veien er ofte glattest de første minuttene etter regn. Vær ekstra forsiktig i denne perioden, da olje og rusk på veien kan gjøre den mer farlig."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Sikker kjørepraksis",
+"subcategory":"Nattkjøring",
+"englishSubcategory":"Night Driving",
+"description":"For å håndtere blending fra møtende frontlykter om natten, se litt til venstre side av kjørefeltet og senk farten om nødvendig. Dette bidrar til å unngå direkte eksponering for de sterke lysene."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Sikker kjørepraksis",
+"subcategory":"Defensiv kjøring",
+"englishSubcategory":"Defensive Driving",
+"description":"Hvis en sjåfør følger deg for tett, er det tryggeste å øke avstanden til kjøretøyet foran. Dette gir både deg og sjåføren som følger etter deg mer rom til å reagere."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Sikker kjørepraksis",
+"subcategory":"Veiforhold",
+"englishSubcategory":"Road Conditions",
+"description":"Når du kjører i tåke, reduser farten og hold ekstra avstand mellom kjøretøyet og andre. Tåke reduserer sikten betraktelig og øker risikoen for ulykker."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Kryss, svinger og rundkjøringer",
+"subcategory":"Vikeplass",
+"englishSubcategory":"Giving Way",
+"description":"I kryss uten skilt eller signal, må kjøretøyet som kommer fra høyre vike for kjøretøyet som kommer fra venstre."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Kryss, svinger og rundkjøringer",
+"subcategory":"Svinger",
+"englishSubcategory":"Turns",
+"description":"Når du svinger til høyre i trafikklys uten høyrepil, må du vike for møtende trafikk og fotgjengere før du fortsetter."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Kryss, svinger og rundkjøringer",
+"subcategory":"Rundkjøringer",
+"englishSubcategory":"Roundabouts",
+"description":"I en rundkjøring har kjøretøy som allerede er i rundkjøringen prioritet. Førere som kjører inn i rundkjøringen må vike for dem."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Kryss, svinger og rundkjøringer",
+"subcategory":"Svinger",
+"englishSubcategory":"Turns",
+"description":"Når du svinger til venstre, må du vike for fotgjengere som krysser veien du kjører inn på, for å ivareta deres sikkerhet."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Kryss, svinger og rundkjøringer",
+"subcategory":"Vikeplass",
+"englishSubcategory":"Giving Way",
+"description":"I et T-kryss må kjøretøyet på den avsluttende veien vike for kjøretøy på den fortsettende veien."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Kryss, svinger og rundkjøringer",
+"subcategory":"Svinger",
+"englishSubcategory":"Turns",
+"description":"Når du foretar en U-sving, må du vike for alle andre kjøretøy og fotgjengere, og sørge for deres sikkerhet mens du svinger."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Kryss, svinger og rundkjøringer",
+"subcategory":"Rundkjøringer",
+"englishSubcategory":"Roundabouts",
+"description":"Når du kjører ut av en rundkjøring, blink til venstre rett før du kjører ut for å informere andre trafikanter om dine intensjoner."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Kryss, svinger og rundkjøringer",
+"subcategory":"Vikeplass",
+"englishSubcategory":"Giving Way",
+"description":"Når du kjører inn på en vei fra en innkjørsel, må du vike for alle kjøretøy og fotgjengere på veien for å forhindre ulykker."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Kryss, svinger og rundkjøringer",
+"subcategory":"Svinger",
+"englishSubcategory":"Turns",
+"description":"Før du svinger til høyre, plasser kjøretøyet så nærme midten av veien som mulig, og sørg for en trygg og tydelig sving."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Kryss, svinger og rundkjøringer",
+"subcategory":"Trafikklys",
+"englishSubcategory":"Traffic Lights",
+"description":"En grønn pil indikerer at du kan fortsette i pilens retning uten å vike for annen trafikk eller fotgjengere."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Veimerkinger, kjørefelt og forbikjøring",
+"subcategory":"Filbruk",
+"englishSubcategory":"Lane Use",
+"description":"En sammenhengende, enkelt midtlinje betyr vanligvis at du ikke må krysse den, bortsett fra når du kjører inn på eller ut av veien eller en innkjørsel."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Veimerkinger, kjørefelt og forbikjøring",
+"subcategory":"Forbikjøring",
+"englishSubcategory":"Overtaking",
+"description":"Forbikjøring på venstre side er tillatt på en flerfeltsvei når trafikken går i separate merkede kjørefelt og det er trygt å gjøre det."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Veimerkinger, kjørefelt og forbikjøring",
+"subcategory":"Forbikjøring",
+"englishSubcategory":"Overtaking",
+"description":"Du kan kjøre forbi et kjøretøy på venstre side på en enfeltsvei når kjøretøyet foran svinger til høyre og det er trygt å gjøre det."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Veimerkinger, kjørefelt og forbikjøring",
+"subcategory":"Filbruk",
+"englishSubcategory":"Lane Use",
+"description":"Før du bytter fil, må du gi signal og sørge for at det er trygt å gjøre det. Dette sikrer at andre trafikanter er klar over dine intensjoner og forhindrer ulykker."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Veimerkinger, kjørefelt og forbikjøring",
+"subcategory":"Veimerkinger",
+"englishSubcategory":"Road Markings",
+"description":"En malt trafikkøy, eller chevron-markering, indikerer at du ikke må kjøre på den, noe som sikrer trygg trafikkflyt."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Veimerkinger, kjørefelt og forbikjøring",
+"subcategory":"Forbikjøring",
+"englishSubcategory":"Overtaking",
+"description":"Hvis du er usikker på om det er trygt å forbikjøre, er det sikreste å ikke forbikjøre. Vurder alltid situasjonen før du foretar deg en forbikjøring."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Veimerkinger, kjørefelt og forbikjøring",
+"subcategory":"Filbruk",
+"englishSubcategory":"Lane Use",
+"description":"En ødelagt midtlinje betyr at du kan krysse den hvis det er trygt å gjøre det, slik at du kan forbikjøre eller bytte fil."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Veimerkinger, kjørefelt og forbikjøring",
+"subcategory":"Filbruk",
+"englishSubcategory":"Lane Use",
+"description":"Å kjøre over to kjørefelt er bare lovlig når kjørefeltmarkeringene tillater det. Det er vanligvis ikke trygt eller tillatt under de fleste kjøreforhold."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Veimerkinger, kjørefelt og forbikjøring",
+"subcategory":"Forbikjøring",
+"englishSubcategory":"Overtaking",
+"description":"Hvis kjøretøyet du forbikjører begynner å øke farten, er den sikreste reaksjonen å avbryte forbikjøringen hvis det er trygt og gå tilbake."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Veimerkinger, kjørefelt og forbikjøring",
+"subcategory":"Veimerkinger",
+"englishSubcategory":"Road Markings",
+"description":"En dobbel sammenhengende midtlinje betyr at du ikke må krysse eller gå over den under noen omstendigheter, noe som sikrer trafikkflyt og sikkerhet."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Stopp, parkering og veiregler",
+"subcategory":"Ingen stopping og ingen parkering",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Parkering forbudt betyr at du ikke må stoppe i det hele tatt, mens parkering forbudt tillater korte stopp for henting eller levering."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Stopp, parkering og veiregler",
+"subcategory":"Ingen stopping og ingen parkering",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"I en parkeringsforbudssone har du bare lov til å stoppe lenge nok til å plukke opp eller slippe av passasjerer."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Stopp, parkering og veiregler",
+"subcategory":"Parkering i nærheten av kryss",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Parkering i nærheten av et kryss er ofte begrenset fordi det kan blokkere sikten og skape farer for sjåfører og fotgjengere."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Stopp, parkering og veiregler",
+"subcategory":"Ingen stopping og ingen parkering",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Du har ikke lov til å stoppe i en sone med stoppeforbud, selv om du svarer på en telefonsamtale eller trenger å stoppe raskt."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Stopp, parkering og veiregler",
+"subcategory":"Clearways",
+"englishSubcategory":"Clearways",
+"description":"En ryddet vei betyr at du ikke må stoppe eller parkere på den siden av veien i løpet av dens driftstid."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Stopp, parkering og veiregler",
+"subcategory":"Parkering i nærheten av kryssinger",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Det er farlig å stoppe i nærheten av et fotgjengerfelt, da det kan skjule fotgjengere fra sjåfører som nærmer seg, noe som øker risikoen for ulykker."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Stopp, parkering og veiregler",
+"subcategory":"Stopp for sikkerhets skyld",
+"englishSubcategory":"Stopping for Safety",
+"description":"Du kan bare stoppe i et stoppeforbudsområde hvis trafikkforholdene eller i en nødsituasjon krever det."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Stopp, parkering og veiregler",
+"subcategory":"Parkering på åsene",
+"englishSubcategory":"Parking on Hills",
+"description":"Når du parkerer i en bakke, må du alltid bruke håndbremsen og sikre kjøretøyet for å redusere risikoen for velting."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Stopp, parkering og veiregler",
+"subcategory":"Parkering i nærheten av kryss",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Du må ikke parkere for nærme et hjørne, da det kan blokkere utsikten for møtende trafikk og fotgjengere, noe som skaper farer."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Stopp, parkering og veiregler",
+"subcategory":"Ingen stopping og ingen parkering",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Et parkeringsforbud-skilt med angitte tider betyr at restriksjonen kun gjelder i løpet av tidene som er vist på skiltet."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Fotgjengere, syklister og sårbare trafikanter",
+"subcategory":"Fotgjengere",
+"englishSubcategory":"Pedestrians",
+"description":"Når man svinger, må føreren vike for fotgjengere som krysser veien man kjører inn på. Dette gjelder selv om fotgjengeren ikke befinner seg ved et angitt kryss."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Fotgjengere, syklister og sårbare trafikanter",
+"subcategory":"Syklister",
+"englishSubcategory":"Cyclists",
+"description":"Sjåfører må gi ekstra plass når de passerer syklister, da de kan trenge plass for å unngå farer eller opprettholde balansen."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Fotgjengere, syklister og sårbare trafikanter",
+"subcategory":"Fotgjengere",
+"englishSubcategory":"Pedestrians",
+"description":"I nærheten av shoppingområder eller holdeplasser for offentlig transport bør sjåfører forvente økt fotgjengeraktivitet og plutselige kryssinger. Vær alltid oppmerksom i disse områdene."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Fotgjengere, syklister og sårbare trafikanter",
+"subcategory":"Syklister",
+"englishSubcategory":"Cyclists",
+"description":"Når en syklist sykler i et merket sykkelfelt, må sjåfører unngå å kjøre i kjørefeltet med mindre det er tillatt og trygt."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Fotgjengere, syklister og sårbare trafikanter",
+"subcategory":"Barn",
+"englishSubcategory":"Children",
+"description":"Sjåfører må være ekstra forsiktige i nærheten av skoler, da barn kan oppføre seg uforutsigbart og feilvurdere trafikken. Senk farten i skolesoner."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Fotgjengere, syklister og sårbare trafikanter",
+"subcategory":"Syklister",
+"englishSubcategory":"Cyclists",
+"description":"Hvis en syklist sykler midt i et smalt kjørefelt, bør sjåfører vente til det er trygt å passere med nok plass, i stedet for å tvinge seg forbi."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Fotgjengere, syklister og sårbare trafikanter",
+"subcategory":"Fotgjengere",
+"englishSubcategory":"Pedestrians",
+"description":"Ved et barnefelt må sjåfører stoppe når flagg er vist og fotgjengere er til stede, for å sikre barns sikkerhet."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Fotgjengere, syklister og sårbare trafikanter",
+"subcategory":"Syklister",
+"englishSubcategory":"Cyclists",
+"description":"Sjåfører bør alltid sjekke blindsonene sine før de svinger, da syklister kan kjøre usett ved siden av, spesielt i byområder."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Fotgjengere, syklister og sårbare trafikanter",
+"subcategory":"Eldre og funksjonshemmede",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Eldre fotgjengere kan trenge ekstra tid til å krysse, da de kan gå saktere eller ha mobilitetsproblemer. Gi dem plass og tid til å krysse trygt."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Fotgjengere, syklister og sårbare trafikanter",
+"subcategory":"Syklister",
+"englishSubcategory":"Cyclists",
+"description":"Syklister kan være vanskeligere å se når de nærmer seg kryss, og de kan bevege seg raskt. Gi alltid syklister plass og tid til å navigere trygt."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Spesielle situasjoner og veimiljøer",
+"subcategory":"Skolesoner",
+"englishSubcategory":"School Zones",
+"description":"Fartsgrenser i skolesonen gjelder kun i tidene som er vist på skiltene. Sørg for å følge dem for å sikre barnas sikkerhet."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Spesielle situasjoner og veimiljøer",
+"subcategory":"Skolesoner",
+"englishSubcategory":"School Zones",
+"description":"Sjåfører må senke farten i skolesoner selv om ingen barn er synlige, da barn kan dukke opp plutselig og uforutsigbart."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Spesielle situasjoner og veimiljøer",
+"subcategory":"Veiarbeid",
+"englishSubcategory":"Roadworks",
+"description":"Når du nærmer deg veiarbeid, senk farten og følg eventuelle midlertidige skilt for å sikre sikkerheten til arbeidere og andre trafikanter."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Spesielle situasjoner og veimiljøer",
+"subcategory":"Veiarbeid",
+"englishSubcategory":"Roadworks",
+"description":"Fartsgrensene er redusert i veiarbeidssoner for å sikre arbeidernes sikkerhet og for å imøtekomme endringer i veiforholdene."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Spesielle situasjoner og veimiljøer",
+"subcategory":"Landlige veier",
+"englishSubcategory":"Rural Roads",
+"description":"På landeveier kan dyreliv uventet komme ut i veibanen. Vær alltid forberedt på å stoppe eller senke farten når du kjører gjennom landlige områder."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Spesielle situasjoner og veimiljøer",
+"subcategory":"Landlige veier",
+"englishSubcategory":"Rural Roads",
+"description":"Uasfalterte veier har ofte redusert veigrep og bremseevne. Sjåfører bør redusere farten når de kjører på uasfalterte underlag."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Spesielle situasjoner og veimiljøer",
+"subcategory":"Motorveier",
+"englishSubcategory":"Freeways",
+"description":"Hvis du bommer på motorveiavkjørselen, fortsett til neste avkjørsel og snu trygt. Ikke forsøk å stoppe eller rygge på motorveien."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Spesielle situasjoner og veimiljøer",
+"subcategory":"Motorveier",
+"englishSubcategory":"Freeways",
+"description":"Det er ulovlig å stoppe på motorvei unntatt i nødstilfeller. Bruk alltid veiskulderen eller avkjøringsrampen ved motorveistopp."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Spesielle situasjoner og veimiljøer",
+"subcategory":"Værforhold",
+"englishSubcategory":"Weather Conditions",
+"description":"I kraftig regn, reduser farten og øk følgeavstanden. Våte veier kan redusere veigrepet og forlenge bremselengden."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Spesielle situasjoner og veimiljøer",
+"subcategory":"Værforhold",
+"englishSubcategory":"Weather Conditions",
+"description":"Tåke reduserer sikt og dybdesyn, noe som gjør kjøring spesielt farlig. Senk farten og øk følgeavstanden i tåke."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Utrykningskjøretøy og politiets veibeskrivelse",
+"subcategory":"Vikeplikt for utrykningskjøretøy",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Når et utrykningskjøretøy nærmer seg med lys og/eller sirene, må du kjøre ut av veien og la det passere trygt."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Utrykningskjøretøy og politiets veibeskrivelse",
+"subcategory":"Vikeplikt for utrykningskjøretøy",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Hvis du er ved trafikklys og et utrykningskjøretøy nærmer seg bakfra, er det tryggeste å kjøre til side hvis det er trygt og lovlig, ellers blir du stående og la det passere når det er mulig."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Utrykningskjøretøy og politiets veibeskrivelse",
+"subcategory":"Politiets veibeskrivelse",
+"englishSubcategory":"Police Directions",
+"description":"Hvis en politibetjent gir deg andre instruksjoner enn et skilt, må du følge politibetjentens instruksjoner."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Utrykningskjøretøy og politiets veibeskrivelse",
+"subcategory":"Vikeplikt for utrykningskjøretøy",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Hvis et utrykningskjøretøy stopper med blinkende lys langs veikanten, senk farten og kjør forsiktig forbi. Kjør over hvis det er trygt."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Utrykningskjøretøy og politiets veibeskrivelse",
+"subcategory":"Politiets veibeskrivelse",
+"englishSubcategory":"Police Directions",
+"description":"Hvis politiet setter opp en midlertidig veisperring, følg deres instruksjoner og eventuelle omkjøringer."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Utrykningskjøretøy og politiets veibeskrivelse",
+"subcategory":"Vikeplikt for utrykningskjøretøy",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Du bør ikke kjøre tett bak et utrykningskjøretøy for å komme deg raskere gjennom trafikken."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Utrykningskjøretøy og politiets veibeskrivelse",
+"subcategory":"Vikeplikt for utrykningskjøretøy",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Hvis du hører en sirene, men ikke kan se utrykningskjøretøyet ennå, vær oppmerksom, sjekk speilene og vær klar til å bevege deg trygt."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Utrykningskjøretøy og politiets veibeskrivelse",
+"subcategory":"Politiets veibeskrivelse",
+"englishSubcategory":"Police Directions",
+"description":"Hvis en trafikkleder ved veiarbeid gir anvisninger, må du adlyde trafikklederens anvisninger."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Utrykningskjøretøy og politiets veibeskrivelse",
+"subcategory":"Politiets veibeskrivelse",
+"englishSubcategory":"Police Directions",
+"description":"Hvis politiet ber deg om å stoppe for en førerkortkontroll, stopp på en sikker måte som anvist."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Utrykningskjøretøy og politiets veibeskrivelse",
+"subcategory":"Vikeplikt for utrykningskjøretøy",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Hvis du er i ett kjørefelt og et utrykningskjøretøy nærmer seg bakfra, gi blinklys og kjør til venstre eller til en trygg posisjon når det er mulig."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Sikkerhetsbelter, barneseter og passasjerer",
+"subcategory":"Sikkerhetsbelter",
+"englishSubcategory":"Seatbelts",
+"description":"Sjåføren er ansvarlig for at alle passasjerer under 16 år bruker sikkerhetsbelte."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Sikkerhetsbelter, barneseter og passasjerer",
+"subcategory":"Sikkerhetsbelter",
+"englishSubcategory":"Seatbelts",
+"description":"Sikkerhetsbelte må brukes til enhver tid når kjøretøyet er i bevegelse, hvis det er montert."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Sikkerhetsbelter, barneseter og passasjerer",
+"subcategory":"Barnesikringsutstyr",
+"englishSubcategory":"Child Restraints",
+"description":"Et barnesete er påkrevd fordi det er utformet for å passe og beskytte barnets kroppsstørrelse og -form mer effektivt enn et voksensikkerhetsbelte."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Sikkerhetsbelter, barneseter og passasjerer",
+"subcategory":"Passasjerer",
+"englishSubcategory":"Passengers",
+"description":"Det er utrygt for passasjerer å plassere føtter på dashbordet fordi kollisjonsputer og kollisjonskrefter kan forårsake alvorlige skader."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Sikkerhetsbelter, barneseter og passasjerer",
+"subcategory":"Barnesikringsutstyr",
+"englishSubcategory":"Child Restraints",
+"description":"Den sikreste generelle regelen for valg av barnesete er å bruke et som er godkjent og passende for barnets alder og størrelse."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Sikkerhetsbelter, barneseter og passasjerer",
+"subcategory":"Sikkerhetsbelter",
+"englishSubcategory":"Seatbelts",
+"description":"Et vanlig tegn på at sikkerhetsbeltet ikke brukes riktig, er når beltestroppen sitter under armen eller bak ryggen."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Sikkerhetsbelter, barneseter og passasjerer",
+"subcategory":"Passasjerer",
+"englishSubcategory":"Passengers",
+"description":"Hvis en passasjer distraherer sjåføren, er den tryggeste handlingen å be vedkommende om å stoppe og fokusere på kjøringen igjen."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Sikkerhetsbelter, barneseter og passasjerer",
+"subcategory":"Barnesikringsutstyr",
+"englishSubcategory":"Child Restraints",
+"description":"Det er utrygt å holde en baby på fanget i et kjøretøy i bevegelse, fordi du ikke kan holde dem sikkert fast i en kollisjon."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Sikkerhetsbelter, barneseter og passasjerer",
+"subcategory":"Sikkerhetsbelter",
+"englishSubcategory":"Seatbelts",
+"description":"Sikkerhetsbelte bør brukes med hoftedelen lavt over hoftene for å redusere risikoen for mageskader i en kollisjon."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Sikkerhetsbelter, barneseter og passasjerer",
+"subcategory":"Passasjerer",
+"englishSubcategory":"Passengers",
+"description":"En viktig risiko ved å frakte usikrede gjenstander i kupeen er at de kan bli til prosjektiler i en kollisjon eller bråstopp."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Grunnleggende om kjøretøysikkerhet, defekter og vedlikehold",
+"subcategory":"Dekk",
+"englishSubcategory":"Tyres",
+"description":"Riktig dekktrykk er viktig for sikkerheten fordi det påvirker grep, bremsing og styring."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Grunnleggende om kjøretøysikkerhet, defekter og vedlikehold",
+"subcategory":"Bremser",
+"englishSubcategory":"Brakes",
+"description":"Hvis bremsepedalen føles svampete eller synker lenger ned enn vanlig, bør du behandle det som en alvorlig feil og få bremsene sjekket umiddelbart."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Grunnleggende om kjøretøysikkerhet, defekter og vedlikehold",
+"subcategory":"Lys og synlighet",
+"englishSubcategory":"Lights & Visibility",
+"description":"Sjekk alle bilens lys regelmessig for å sikre at du kan se og bli sett av andre."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Grunnleggende om kjøretøysikkerhet, defekter og vedlikehold",
+"subcategory":"Styring og fjæring",
+"englishSubcategory":"Steering & Suspension",
+"description":"Et varseltegn på et styreproblem kan være uvanlig drag, vibrasjon eller styrevansker."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Grunnleggende om kjøretøysikkerhet, defekter og vedlikehold",
+"subcategory":"Vindusviskere og vindusviskere",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Slitte vindusviskerblader er et sikkerhetsproblem fordi de reduserer sikten i regn."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Grunnleggende om kjøretøysikkerhet, defekter og vedlikehold",
+"subcategory":"Dekk",
+"englishSubcategory":"Tyres",
+"description":"Et vanlig tegn på at dekk kan være utrygge, er hvis mønsteret er slitt eller ujevnt slitt."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Grunnleggende om kjøretøysikkerhet, defekter og vedlikehold",
+"subcategory":"Speil og justering",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Speil bør justeres før kjøring for å redusere blindsoner og forbedre bevisstheten."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Grunnleggende om kjøretøysikkerhet, defekter og vedlikehold",
+"subcategory":"Bremser",
+"englishSubcategory":"Brakes",
+"description":"Hvis bremsene dine lager skurende lyder, bør du få dem inspisert så snart som mulig."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Grunnleggende om kjøretøysikkerhet, defekter og vedlikehold",
+"subcategory":"Lys og synlighet",
+"englishSubcategory":"Lights & Visibility",
+"description":"Bruk frontlyktene ved dårlig sikt, slik at andre kan se deg."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Grunnleggende om kjøretøysikkerhet, defekter og vedlikehold",
+"subcategory":"Vindusviskere og vindusviskere",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Hvis frontruten din er alvorlig sprukket i synsfeltet ditt, bør du reparere eller bytte den ut før du kjører videre."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Last, tauing og bevissthet om tunge kjøretøy",
+"subcategory":"Laster",
+"englishSubcategory":"Loads",
+"description":"Last må sikres forsvarlig for å hindre at den forskyver seg eller faller og forårsaker kollisjoner."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Last, tauing og bevissthet om tunge kjøretøy",
+"subcategory":"Laster",
+"englishSubcategory":"Loads",
+"description":"En usikret last inne i et kjøretøy kan bli et prosjektil ved bråbremsing, noe som utgjør en betydelig sikkerhetsrisiko."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Last, tauing og bevissthet om tunge kjøretøy",
+"subcategory":"Laster",
+"englishSubcategory":"Loads",
+"description":"Å ha et overlastet kjøretøy påvirker bremsingen ved å øke bremselengden."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Last, tauing og bevissthet om tunge kjøretøy",
+"subcategory":"Laster",
+"englishSubcategory":"Loads",
+"description":"Den sikreste måten å bære lange gjenstander på er å sikre dem slik at de ikke kan bevege seg eller stikke farlig ut."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Last, tauing og bevissthet om tunge kjøretøy",
+"subcategory":"Tauing",
+"englishSubcategory":"Towing",
+"description":"Å kjøre tilhenger øker bremselengden fordi den ekstra vekten reduserer bremseeffektiviteten."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Last, tauing og bevissthet om tunge kjøretøy",
+"subcategory":"Tauing",
+"englishSubcategory":"Towing",
+"description":"Før du tauer en tilhenger, kontroller at koplingen, lysene og sikkerhetskjettingen er sikret."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Last, tauing og bevissthet om tunge kjøretøy",
+"subcategory":"Tauing",
+"englishSubcategory":"Towing",
+"description":"Sørg for ekstra plass når du svinger under tauing, ettersom tilhengeren sporer innenfor svingsporet."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Last, tauing og bevissthet om tunge kjøretøy",
+"subcategory":"Laster",
+"englishSubcategory":"Loads",
+"description":"En last som blokkerer sikten bakover reduserer bevisstheten om trafikken bakover, noe som øker risikoen for ulykker."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Last, tauing og bevissthet om tunge kjøretøy",
+"subcategory":"Tunge kjøretøy",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Tunge kjøretøy trenger mer plass til å stoppe fordi den større massen øker bremselengden."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Last, tauing og bevissthet om tunge kjøretøy",
+"subcategory":"Tunge kjøretøy",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Når du følger etter en stor lastebil, øk følgeavstanden for å ta hensyn til blindsoner og lastebilens lengre stoppeavstand."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Lisensering, regler for L/P-skilt og praktiske DKT-feller (VIC)",
+"subcategory":"Regler for lærlingtillatelse",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Som elev i viktoriansk skole har du bare lov til å kjøre bil når du er under oppsyn av en fører med riktig førerkort som sitter ved siden av deg."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Lisensering, regler for L/P-skilt og praktiske DKT-feller (VIC)",
+"subcategory":"Regler for lærlingtillatelse",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Elevførere må vise L-skiltene sine tydelig slik at de er synlige for andre i kjøretøyet til enhver tid."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Lisensering, regler for L/P-skilt og praktiske DKT-feller (VIC)",
+"subcategory":"Regler for lærlingtillatelse",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Hvis den veiledende sjåføren sovner mens du kjører, stopp på en sikker måte og ikke fortsett før du er under skikkelig oppsyn."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Lisensering, regler for L/P-skilt og praktiske DKT-feller (VIC)",
+"subcategory":"Mobiltelefoner og enheter",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Som elevkjører i Victoria har du ikke lov til å bruke mobiltelefon på noen måte mens du kjører."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Lisensering, regler for L/P-skilt og praktiske DKT-feller (VIC)",
+"subcategory":"Regler for lærlingtillatelse",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Hvis L-platene faller av mens du kjører, må du stoppe trygt og montere dem på nytt før du fortsetter å kjøre."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Lisensering, regler for L/P-skilt og praktiske DKT-feller (VIC)",
+"subcategory":"Tilsyn",
+"englishSubcategory":"Supervision",
+"description":"Hovedformålet med regler for elevtilsyn er å sikre at en erfaren sjåfør kan veilede og gripe inn om nødvendig."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Lisensering, regler for L/P-skilt og praktiske DKT-feller (VIC)",
+"subcategory":"Vilkår og samsvar",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Hvis en elev blir tatt for å kjøre uten nødvendig tilsyn, er det sannsynlig at det blir straffet og at førerkortet blir utsatt for konsekvenser."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Lisensering, regler for L/P-skilt og praktiske DKT-feller (VIC)",
+"subcategory":"Fareoppfatning",
+"englishSubcategory":"Hazard Perception",
+"description":"En vanlig felle i kryss for elever er å svinge uten å sjekke om det er fotgjengere som krysser veien du kjører inn i."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Lisensering, regler for L/P-skilt og praktiske DKT-feller (VIC)",
+"subcategory":"Fareoppfatning",
+"englishSubcategory":"Hazard Perception",
+"description":"Selv om lyset er grønt, må du senke farten eller stoppe hvis trafikken er blokkert foran eller fotgjengere krysser."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Lisensering, regler for L/P-skilt og praktiske DKT-feller (VIC)",
+"subcategory":"Regler for lærlingtillatelse",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Hvis du veileder en elev, skal den veiledende sjåføren alltid sitte i passasjersetet foran."
+}
+]

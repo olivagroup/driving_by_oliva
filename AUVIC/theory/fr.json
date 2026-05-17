@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Règles et lois de la route",
+"subcategory":"Règles générales de la route",
+"englishSubcategory":"General Road Rules",
+"description":"Les conducteurs doivent respecter le code de la route afin de garantir la sécurité et la fluidité du trafic. Cela implique notamment de respecter la signalisation, les feux de circulation et le marquage au sol. Le non-respect de ces règles peut entraîner des accidents et des amendes."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Règles et lois de la route",
+"subcategory":"Céder le passage",
+"englishSubcategory":"Giving Way",
+"description":"Les conducteurs sont tenus de céder le passage aux autres véhicules et aux piétons aux intersections, aux ronds-points, aux passages piétons, et à tout autre endroit où ils s'aventurent. Le non-respect de cette règle constitue une infraction."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Règles et lois de la route",
+"subcategory":"Utilisation de la voie",
+"englishSubcategory":"Lane Use",
+"description":"Les conducteurs doivent emprunter les voies appropriées et respecter le marquage au sol. Cela inclut les règles relatives aux changements de voie, aux dépassements et à l'utilisation des voies réservées aux vélos ou aux bus. Les infractions peuvent entraîner des amendes ou des accidents."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Règles et lois de la route",
+"subcategory":"Tramways",
+"englishSubcategory":"Trams",
+"description":"Les conducteurs doivent connaître le code de la route relatif aux tramways, notamment céder le passage aux piétons aux arrêts, s'arrêter pour les tramways dont les portes sont ouvertes et ne pas dépasser les tramways dans certaines conditions."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Règles et lois de la route",
+"subcategory":"Intersections",
+"englishSubcategory":"Intersections",
+"description":"Aux intersections, les conducteurs doivent respecter les règles de priorité et s'arrêter aux panneaux d'arrêt et aux feux de circulation. La connaissance de ces règles est essentielle pour prévenir les accidents."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Règles et lois de la route",
+"subcategory":"Demi-tour",
+"englishSubcategory":"U-Turns",
+"description":"Les demi-tours ne sont autorisés qu'aux intersections ou en l'absence de signalisation les interdisant. Les conducteurs doivent s'assurer que la manœuvre est sans danger avant d'effectuer un demi-tour."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Règles et lois de la route",
+"subcategory":"Limites de vitesse",
+"englishSubcategory":"Speed Limits",
+"description":"Les conducteurs doivent respecter les limitations de vitesse affichées afin de garantir la sécurité routière. Les excès de vitesse peuvent entraîner des amendes, le retrait du permis et un risque accru d'accidents."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Règles et lois de la route",
+"subcategory":"Sécurité des piétons",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Les conducteurs doivent céder le passage aux piétons aux passages piétons et veiller à leur sécurité à proximité des zones piétonnes. Ne pas s'arrêter pour les piétons aux passages piétons constitue une infraction."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Règles et lois de la route",
+"subcategory":"Passages à niveau",
+"englishSubcategory":"Railway Crossings",
+"description":"Les conducteurs doivent s'arrêter aux passages à niveau lorsque les feux clignotent ou que les barrières sont abaissées. Ignorer ces signaux constitue une infraction grave et peut entraîner des amendes et des accidents."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Règles et lois de la route",
+"subcategory":"Véhicules d'urgence",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Les conducteurs doivent céder le passage aux véhicules d'urgence utilisant des gyrophares et des sirènes, en veillant à ce que le véhicule ait le champ libre pour circuler dans la circulation."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Panneaux et signaux de circulation",
+"subcategory":"Panneaux réglementaires",
+"englishSubcategory":"Regulatory Signs",
+"description":"La signalisation réglementaire fournit des instructions obligatoires aux conducteurs, telles que les limitations de vitesse, les interdictions de tourner et les panneaux d'interdiction de circuler. Le respect de cette signalisation est obligatoire pour garantir la sécurité et l'ordre sur les routes."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Panneaux et signaux de circulation",
+"subcategory":"Panneaux d'avertissement",
+"englishSubcategory":"Warning Signs",
+"description":"Les panneaux de signalisation avertissent les conducteurs des dangers potentiels, tels que les virages serrés, les zones scolaires et les passages d'animaux sauvages. Ces panneaux aident les conducteurs à adapter leur conduite afin d'éviter les accidents."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Panneaux et signaux de circulation",
+"subcategory":"Panneaux de limitation de vitesse",
+"englishSubcategory":"Speed Signs",
+"description":"Les panneaux de limitation de vitesse indiquent la vitesse maximale ou minimale autorisée sur une route. Les conducteurs doivent respecter ces limitations afin de garantir la sécurité routière et d'éviter les amendes."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Panneaux et signaux de circulation",
+"subcategory":"Feux de signalisation",
+"englishSubcategory":"Traffic Lights",
+"description":"Les feux de circulation régulent le flux de véhicules et de piétons aux intersections. Le rouge signifie arrêt, le vert signifie passage, et le jaune indique qu'il faut se préparer à s'arrêter."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Panneaux et signaux de circulation",
+"subcategory":"Signalisation piétonne",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Les feux piétons indiquent quand il est possible pour les piétons de traverser la route en toute sécurité. Ces feux sont généralement coordonnés avec les feux de circulation afin de garantir la sécurité des piétons."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Panneaux et signaux de circulation",
+"subcategory":"Feux de contrôle de voie",
+"englishSubcategory":"Lane Control Signals",
+"description":"Les feux de signalisation de voie indiquent si une voie est ouverte ou fermée. Ces feux sont généralement utilisés sur les routes à plusieurs voies et dans les tunnels."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Panneaux et signaux de circulation",
+"subcategory":"Panneaux d'interdiction de stationner",
+"englishSubcategory":"No Parking Signs",
+"description":"Les panneaux d'interdiction de stationner indiquent les zones où l'arrêt ou le stationnement est interdit. Ceci afin de garantir la fluidité du trafic et la sécurité."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Panneaux et signaux de circulation",
+"subcategory":"Panneaux de sens unique",
+"englishSubcategory":"One-Way Signs",
+"description":"Les panneaux « sens unique » indiquent que la circulation doit se faire dans un seul sens. Le non-respect de ces panneaux peut entraîner des accidents et des poursuites judiciaires."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Panneaux et signaux de circulation",
+"subcategory":"Panneaux d'arrêt",
+"englishSubcategory":"Stop Signs",
+"description":"Les panneaux d'arrêt obligent les conducteurs à s'arrêter complètement et à céder le passage à tout autre véhicule ou piéton avant de repartir."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Panneaux et signaux de circulation",
+"subcategory":"Panneaux Cédez le passage",
+"englishSubcategory":"Give Way Signs",
+"description":"Les panneaux « Cédez le passage » indiquent aux conducteurs de céder le passage aux autres usagers de la route, piétons ou véhicules, selon la situation, afin de prévenir les accidents."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Règles de vitesse et de distance",
+"subcategory":"Limites de vitesse",
+"englishSubcategory":"Speed Limits",
+"description":"En agglomération à Victoria, la vitesse est limitée à 50 km/h, sauf indication contraire. Vérifiez toujours la signalisation pour vous assurer de respecter les limitations de vitesse."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Règles de vitesse et de distance",
+"subcategory":"Limites de vitesse",
+"englishSubcategory":"Speed Limits",
+"description":"Dans une zone scolaire signalée, pendant les heures indiquées sur le panneau, la limitation de vitesse est réduite à 40 km/h afin d'assurer la sécurité des enfants traversant la route."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Règles de vitesse et de distance",
+"subcategory":"Distance de suivi",
+"englishSubcategory":"Following Distance",
+"description":"Dans des conditions idéales, la distance de sécurité minimale à respecter est d'au moins deux secondes par rapport au véhicule qui précède. Cela laisse suffisamment de temps pour réagir si ce dernier s'arrête brusquement."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Règles de vitesse et de distance",
+"subcategory":"Limites de vitesse",
+"englishSubcategory":"Speed Limits",
+"description":"Lors du dépassement d'un tramway arrêté dans une zone de sécurité, vous devez réduire votre vitesse à 10 km/h afin d'assurer la sécurité des passagers montant ou descendant du tramway."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Règles de vitesse et de distance",
+"subcategory":"Limites de vitesse",
+"englishSubcategory":"Speed Limits",
+"description":"Sur les routes rurales sans limitation de vitesse, la vitesse est limitée à 100 km/h, sauf indication contraire. Adaptez votre vitesse aux conditions de circulation pour votre sécurité."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Règles de vitesse et de distance",
+"subcategory":"Distance de suivi",
+"englishSubcategory":"Following Distance",
+"description":"Par temps de pluie, il est conseillé d'augmenter la distance de sécurité à au moins quatre secondes. Les routes mouillées réduisent l'adhérence, ce qui allonge le temps de freinage."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Règles de vitesse et de distance",
+"subcategory":"Limites de vitesse",
+"englishSubcategory":"Speed Limits",
+"description":"Respectez en permanence les panneaux de limitation de vitesse à vitesse variable électroniques lorsqu'ils sont en service. Ces panneaux adaptent les limitations de vitesse en fonction des conditions de circulation, des conditions météorologiques ou des incidents sur la route."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Règles de vitesse et de distance",
+"subcategory":"Distance d'arrêt",
+"englishSubcategory":"Stopping Distance",
+"description":"Plus votre vitesse augmente, plus la distance de freinage nécessaire pour immobiliser votre véhicule en toute sécurité augmente également. Assurez-vous toujours d'avoir une distance suffisante pour réagir aux dangers."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Règles de vitesse et de distance",
+"subcategory":"Limites de vitesse",
+"englishSubcategory":"Speed Limits",
+"description":"Dans les zones partagées, la limitation de vitesse est généralement de 10 km/h afin d'assurer la sécurité des piétons et des cyclistes dans ces zones où cohabitent véhicules et usagers non motorisés de la route."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Règles de vitesse et de distance",
+"subcategory":"Distance de suivi",
+"englishSubcategory":"Following Distance",
+"description":"Coller au véhicule qui vous précède est dangereux car cela réduit votre temps de réaction et de freinage. Maintenez toujours une distance de sécurité, surtout lorsque vous suivez des véhicules plus imposants qui peuvent obstruer votre visibilité."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Responsabilités du conducteur",
+"subcategory":"Obligations légales",
+"englishSubcategory":"Legal Obligations",
+"description":"Les conducteurs doivent remplir diverses obligations légales, telles que porter assistance après un accident, échanger leurs coordonnées après une collision et signaler les incidents aux autorités conformément à la loi."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Responsabilités du conducteur",
+"subcategory":"Attention et contrôle",
+"englishSubcategory":"Attention & Control",
+"description":"Les conducteurs doivent rester maîtres de leur véhicule en toutes circonstances, en évitant les distractions et en maintenant leur concentration afin d'assurer leur propre sécurité et celle des autres usagers de la route."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Responsabilités du conducteur",
+"subcategory":"Obligations légales",
+"englishSubcategory":"Legal Obligations",
+"description":"En cas d'accident avec blessés, les conducteurs doivent s'arrêter et porter assistance aux victimes si possible. Le fait de ne pas s'arrêter et de ne pas porter assistance dans une telle situation constitue une infraction."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Responsabilités du conducteur",
+"subcategory":"Attention et contrôle",
+"englishSubcategory":"Attention & Control",
+"description":"Il est essentiel que les conducteurs conservent en permanence la maîtrise totale de leur véhicule, en veillant à réagir de manière appropriée aux conditions de circulation changeantes et à maintenir un environnement de conduite sûr."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Responsabilités du conducteur",
+"subcategory":"Obligations légales",
+"englishSubcategory":"Legal Obligations",
+"description":"En cas d'accident avec blessés ou dégâts matériels, les conducteurs doivent le signaler à la police, et les détails de l'accident ne peuvent être échangés. Le défaut de déclaration est passible de sanctions."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Responsabilités du conducteur",
+"subcategory":"Gestion de la fatigue",
+"englishSubcategory":"Fatigue Management",
+"description":"La fatigue au volant représente un risque important. Les conducteurs doivent être attentifs aux premiers signes de fatigue, tels que les bâillements et les pertes de concentration, et prendre les mesures appropriées pour éviter les accidents."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Responsabilités du conducteur",
+"subcategory":"Obligations légales",
+"englishSubcategory":"Legal Obligations",
+"description":"Les conducteurs doivent présenter leur permis de conduire à la demande de la police. Le refus de le présenter peut entraîner des amendes ou des poursuites judiciaires."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Responsabilités du conducteur",
+"subcategory":"Attention et contrôle",
+"englishSubcategory":"Attention & Control",
+"description":"Les conducteurs doivent éviter d'utiliser le klaxon inutilement, car cela peut surprendre ou distraire les autres usagers de la route. Le klaxon ne doit être utilisé que pour signaler sa présence, et ce, uniquement lorsque cela est nécessaire."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Responsabilités du conducteur",
+"subcategory":"Gestion de la fatigue",
+"englishSubcategory":"Fatigue Management",
+"description":"Si vous vous sentez trop fatigué pour continuer à conduire, la meilleure solution est de vous arrêter et de vous reposer avant de reprendre la route. Conduire en état de fatigue augmente considérablement le risque d'accident."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Responsabilités du conducteur",
+"subcategory":"Obligations légales",
+"englishSubcategory":"Legal Obligations",
+"description":"Les conducteurs ont la responsabilité de veiller à ce que leurs passagers soient correctement installés et attachés. Cela comprend notamment le port de la ceinture de sécurité pour les adultes et l'utilisation de dispositifs de retenue adaptés aux enfants."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alcool, drogues et santé",
+"subcategory":"Limites d'alcool",
+"englishSubcategory":"Alcohol Limits",
+"description":"Au Victoria, les conducteurs en apprentissage et les conducteurs stagiaires (P1 et P2) doivent maintenir un taux d'alcoolémie (TA) de 0,00 en tout temps. Les conducteurs titulaires d'un permis complet ont une limite de TA de 0,05, mais il est plus prudent de ne pas consommer d'alcool du tout avant de conduire."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alcool, drogues et santé",
+"subcategory":"Effets de l'alcool",
+"englishSubcategory":"Alcohol Effects",
+"description":"L'alcool altère le jugement, les réflexes et la coordination, ce qui peut augmenter considérablement le risque d'accidents. Même une petite quantité d'alcool peut réduire votre capacité à conduire en toute sécurité."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alcool, drogues et santé",
+"subcategory":"Conduite sous l'influence de stupéfiants",
+"englishSubcategory":"Drug Driving",
+"description":"Conduire sous l'influence de drogues, y compris de médicaments sur ordonnance, peut altérer vos capacités de conduite, même si vous n'en ressentez aucun effet. Il est important d'être conscient des risques et d'éviter de conduire après avoir consommé des drogues."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alcool, drogues et santé",
+"subcategory":"Sécurité des médicaments",
+"englishSubcategory":"Medication Safety",
+"description":"Avant de commencer un nouveau traitement médicamenteux, vérifiez s'il affecte votre capacité à conduire et à suivre les recommandations médicales. Certains médicaments peuvent provoquer de la somnolence ou des troubles de la concentration."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alcool, drogues et santé",
+"subcategory":"Fatigue et santé",
+"englishSubcategory":"Fatigue & Health",
+"description":"La fatigue peut altérer votre capacité à conduire en toute sécurité, au même titre que l'alcool ou les drogues. Assurez-vous de bien vous reposer avant de prendre le volant et faites des pauses lors des longs trajets afin de réduire les risques d'accidents liés à la fatigue."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Alcool, drogues et santé",
+"subcategory":"Effets de l'alcool",
+"englishSubcategory":"Alcohol Effects",
+"description":"Après avoir bu, seul le temps permet de réduire la quantité d'alcool dans l'organisme. Le café, les douches froides ou toute autre méthode n'accélèrent pas ce processus."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Alcool, drogues et santé",
+"subcategory":"Limites d'alcool",
+"englishSubcategory":"Alcohol Limits",
+"description":"Au Victoria, tous les conducteurs en apprentissage et les conducteurs stagiaires doivent maintenir un taux d'alcoolémie de 0,00. Pour les conducteurs titulaires d'un permis complet, la limite est de 0,05. Cependant, s'abstenir de consommer de l'alcool avant de conduire reste toujours la solution la plus sûre."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Alcool, drogues et santé",
+"subcategory":"Conduite sous l'influence de stupéfiants",
+"englishSubcategory":"Drug Driving",
+"description":"Conduire sous l'influence de certaines drogues est passible d'une amende dans l'État de Victoria, même si vous n'en ressentez aucun effet. La conduite sous l'influence de drogues altère votre capacité à conduire en toute sécurité et augmente le risque d'accident."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Alcool, drogues et santé",
+"subcategory":"Sécurité des médicaments",
+"englishSubcategory":"Medication Safety",
+"description":"Avant de prendre le volant, vérifiez toujours si vos nouveaux médicaments peuvent affecter votre capacité à conduire. Certains médicaments provoquent de la somnolence, altèrent les réflexes et diminuent la concentration."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Alcool, drogues et santé",
+"subcategory":"Fatigue et santé",
+"englishSubcategory":"Fatigue & Health",
+"description":"La fatigue peut avoir un effet similaire à celui de l'alcool sur la conduite. Elle ralentit les réflexes, altère le jugement et diminue la capacité de prendre des décisions, augmentant ainsi le risque d'accidents."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Pratiques de conduite sécuritaires",
+"subcategory":"Perception du danger",
+"englishSubcategory":"Hazard Perception",
+"description":"À l'approche d'un danger potentiel, la meilleure solution consiste à ralentir et à se préparer à s'arrêter si nécessaire. Cela vous donne le temps d'évaluer la situation et de réagir en conséquence."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Pratiques de conduite sécuritaires",
+"subcategory":"Perception du danger",
+"englishSubcategory":"Hazard Perception",
+"description":"En conduisant, il est crucial de bien scruter la route devant soi afin de détecter rapidement les dangers potentiels. Cela permet d'anticiper ses réactions et d'éviter les coups de sang."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Pratiques de conduite sécuritaires",
+"subcategory":"Conduite défensive",
+"englishSubcategory":"Defensive Driving",
+"description":"La conduite défensive consiste à anticiper les erreurs potentielles des autres usagers de la route et à maintenir une distance de sécurité pour éviter les collisions."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Pratiques de conduite sécuritaires",
+"subcategory":"État des routes",
+"englishSubcategory":"Road Conditions",
+"description":"Si vos pneus perdent de l'adhérence sur chaussée mouillée, relâchez l'accélérateur et conduisez en douceur. Un freinage brusque ou des virages serrés peuvent aggraver la situation et entraîner une perte de contrôle."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Pratiques de conduite sécuritaires",
+"subcategory":"Perception du danger",
+"englishSubcategory":"Hazard Perception",
+"description":"En conduisant dans la circulation dense, la meilleure position pour surveiller les dangers est loin devant et sur les côtés, et non pas seulement le véhicule qui vous précède. Cela vous permet d'anticiper les risques plus tôt."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Pratiques de conduite sécuritaires",
+"subcategory":"Conduite défensive",
+"englishSubcategory":"Defensive Driving",
+"description":"Si un véhicule zigzague sur sa voie, la meilleure solution est d'augmenter la distance de sécurité. Cela vous donnera plus de temps pour réagir si la situation s'aggrave."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Pratiques de conduite sécuritaires",
+"subcategory":"État des routes",
+"englishSubcategory":"Road Conditions",
+"description":"La chaussée est souvent très glissante dans les premières minutes suivant la pluie. Redoublez de prudence pendant ce temps, car les huiles et les débris présents sur la route peuvent la rendre plus dangereuse."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Pratiques de conduite sécuritaires",
+"subcategory":"Conduite de nuit",
+"englishSubcategory":"Night Driving",
+"description":"Pour atténuer l'éblouissement des phares des véhicules venant en sens inverse la nuit, regardez légèrement à gauche de votre voie et ralentissez si nécessaire. Cela permet d'éviter l'exposition directe aux phares."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Pratiques de conduite sécuritaires",
+"subcategory":"Conduite défensive",
+"englishSubcategory":"Defensive Driving",
+"description":"Si un conducteur vous suit de trop près, la solution la plus sûre est d'augmenter la distance qui vous sépare du véhicule qui vous précède. Cela vous donnera, ainsi qu'au conducteur qui vous colle au pare-chocs, plus d'espace pour réagir."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Pratiques de conduite sécuritaires",
+"subcategory":"État des routes",
+"englishSubcategory":"Road Conditions",
+"description":"En cas de brouillard, réduisez votre vitesse et augmentez les distances de sécurité. Le brouillard réduit considérablement la visibilité et accroît le risque d'accidents."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Intersections, virages et ronds-points",
+"subcategory":"Céder le passage",
+"englishSubcategory":"Giving Way",
+"description":"Aux intersections sans panneaux ni feux de signalisation, le véhicule venant de la droite doit céder le passage au véhicule venant de la gauche."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Intersections, virages et ronds-points",
+"subcategory":"Tours",
+"englishSubcategory":"Turns",
+"description":"Lorsque vous tournez à droite à un feu de circulation sans flèche indiquant la direction à droite, vous devez céder le passage aux véhicules venant en sens inverse et aux piétons avant de vous engager."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Intersections, virages et ronds-points",
+"subcategory":"Ronds-points",
+"englishSubcategory":"Roundabouts",
+"description":"À un rond-point, les véhicules déjà engagés sont prioritaires. Les conducteurs qui s'y engagent doivent leur céder le passage."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Intersections, virages et ronds-points",
+"subcategory":"Tours",
+"englishSubcategory":"Turns",
+"description":"Lorsque vous tournez à gauche, vous devez céder le passage aux piétons qui traversent la route sur laquelle vous vous engagez, afin d'assurer leur sécurité."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Intersections, virages et ronds-points",
+"subcategory":"Céder le passage",
+"englishSubcategory":"Giving Way",
+"description":"À une intersection en T, le véhicule circulant sur la voie qui aboutit doit céder le passage aux véhicules circulant sur la voie qui continue."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Intersections, virages et ronds-points",
+"subcategory":"Tours",
+"englishSubcategory":"Turns",
+"description":"Lors d'un demi-tour, vous devez céder le passage à tous les autres véhicules et piétons, en veillant à leur sécurité pendant votre manœuvre."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Intersections, virages et ronds-points",
+"subcategory":"Ronds-points",
+"englishSubcategory":"Roundabouts",
+"description":"En sortant d'un rond-point, actionnez votre clignotant gauche juste avant de sortir afin d'informer les autres usagers de la route de vos intentions."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Intersections, virages et ronds-points",
+"subcategory":"Céder le passage",
+"englishSubcategory":"Giving Way",
+"description":"Lorsque vous vous engagez sur une route depuis une allée, vous devez céder le passage à tous les véhicules et piétons présents sur la chaussée afin d'éviter les accidents."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Intersections, virages et ronds-points",
+"subcategory":"Tours",
+"englishSubcategory":"Turns",
+"description":"Avant de tourner à droite, positionnez votre véhicule aussi près que possible du centre de la route, afin de garantir un virage sûr et dégagé."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Intersections, virages et ronds-points",
+"subcategory":"Feux de signalisation",
+"englishSubcategory":"Traffic Lights",
+"description":"Une flèche verte indique que vous pouvez circuler dans la direction indiquée sans céder le passage aux autres véhicules ni aux piétons."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Marquages routiers, voies et dépassement",
+"subcategory":"Utilisation de la voie",
+"englishSubcategory":"Lane Use",
+"description":"Une ligne médiane continue signifie généralement qu'il est interdit de la franchir, sauf pour entrer ou sortir de la route ou d'une allée."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Marquages routiers, voies et dépassement",
+"subcategory":"Dépassement",
+"englishSubcategory":"Overtaking",
+"description":"Le dépassement par la gauche est autorisé sur une route à plusieurs voies lorsque la circulation se fait sur des voies séparées et délimitées par un marquage au sol, et que les conditions de sécurité sont réunies."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Marquages routiers, voies et dépassement",
+"subcategory":"Dépassement",
+"englishSubcategory":"Overtaking",
+"description":"Sur une route à une seule voie, vous pouvez dépasser un véhicule par la gauche lorsque le véhicule qui vous précède tourne à droite et que la manœuvre peut être effectuée en toute sécurité."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Marquages routiers, voies et dépassement",
+"subcategory":"Utilisation de la voie",
+"englishSubcategory":"Lane Use",
+"description":"Avant de changer de voie, actionnez votre clignotant et assurez-vous que la manœuvre est sans danger. Cela permet aux autres usagers de la route d'être informés de vos intentions et prévient les accidents."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Marquages routiers, voies et dépassement",
+"subcategory":"Marquages routiers",
+"englishSubcategory":"Road Markings",
+"description":"Un îlot de circulation peint, ou marquage en chevron, indique qu'il est interdit d'y circuler, assurant ainsi la sécurité du trafic."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Marquages routiers, voies et dépassement",
+"subcategory":"Dépassement",
+"englishSubcategory":"Overtaking",
+"description":"En cas de doute sur la sécurité d'un dépassement, la solution la plus sûre est de s'abstenir. Évaluez toujours la situation avant d'effectuer une manœuvre."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Marquages routiers, voies et dépassement",
+"subcategory":"Utilisation de la voie",
+"englishSubcategory":"Lane Use",
+"description":"Une ligne médiane discontinue signifie que vous pouvez la franchir si cela ne présente aucun danger, permettant ainsi les dépassements ou les changements de voie."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Marquages routiers, voies et dépassement",
+"subcategory":"Utilisation de la voie",
+"englishSubcategory":"Lane Use",
+"description":"La circulation à cheval sur deux voies n'est légale que lorsque le marquage au sol le permet. Elle est généralement dangereuse et interdite dans la plupart des conditions de conduite."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Marquages routiers, voies et dépassement",
+"subcategory":"Dépassement",
+"englishSubcategory":"Overtaking",
+"description":"Si le véhicule que vous dépassez commence à accélérer, la réaction la plus sûre est d'interrompre le dépassement si cela est possible en toute sécurité et de ralentir."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Marquages routiers, voies et dépassement",
+"subcategory":"Marquages routiers",
+"englishSubcategory":"Road Markings",
+"description":"Une double ligne médiane continue signifie qu'il est strictement interdit de la franchir ou de l'enjamber, quelles que soient les circonstances, garantissant ainsi la fluidité du trafic et la sécurité."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Règles d'arrêt, de stationnement et d'entretien des abords de la route",
+"subcategory":"Arrêt et stationnement interdits",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"L'interdiction de s'arrêter signifie que vous ne devez absolument pas vous arrêter, tandis que l'interdiction de stationner autorise un bref arrêt pour prendre ou déposer des passagers."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Règles d'arrêt, de stationnement et d'entretien des abords de la route",
+"subcategory":"Arrêt et stationnement interdits",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Dans une zone où le stationnement est interdit, vous n'êtes autorisé à vous arrêter que le temps nécessaire pour prendre ou déposer des passagers."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Règles d'arrêt, de stationnement et d'entretien des abords de la route",
+"subcategory":"Stationnement près des intersections",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Le stationnement à proximité d'une intersection est souvent réglementé car il peut obstruer la visibilité et créer des dangers pour les conducteurs et les piétons."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Règles d'arrêt, de stationnement et d'entretien des abords de la route",
+"subcategory":"Arrêt et stationnement interdits",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Il est interdit de s'arrêter dans une zone d'arrêt interdit, même pour répondre à un appel téléphonique ou pour faire un arrêt rapide."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Règles d'arrêt, de stationnement et d'entretien des abords de la route",
+"subcategory":"Voies claires",
+"englishSubcategory":"Clearways",
+"description":"Une voie réservée signifie que vous ne devez ni vous arrêter ni stationner de ce côté de la route pendant ses heures de fonctionnement."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Règles d'arrêt, de stationnement et d'entretien des abords de la route",
+"subcategory":"Stationnement près des passages piétons",
+"englishSubcategory":"Parking Near Crossings",
+"description":"S'arrêter près d'un passage piéton est dangereux car cela peut cacher les piétons aux conducteurs qui approchent, augmentant ainsi le risque d'accidents."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Règles d'arrêt, de stationnement et d'entretien des abords de la route",
+"subcategory":"S'arrêter pour des raisons de sécurité",
+"englishSubcategory":"Stopping for Safety",
+"description":"Vous ne pouvez vous arrêter dans une zone d'arrêt interdit que si les conditions de circulation l'exigent ou en cas d'urgence."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Règles d'arrêt, de stationnement et d'entretien des abords de la route",
+"subcategory":"Stationnement sur les collines",
+"englishSubcategory":"Parking on Hills",
+"description":"Lors du stationnement en pente, serrez toujours le frein à main et immobilisez le véhicule afin de réduire le risque de renversement."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Règles d'arrêt, de stationnement et d'entretien des abords de la route",
+"subcategory":"Stationnement près des intersections",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Il ne faut pas se garer trop près d'un coin de rue car cela peut obstruer la vue des véhicules venant en sens inverse et des piétons, créant ainsi des dangers."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Règles d'arrêt, de stationnement et d'entretien des abords de la route",
+"subcategory":"Arrêt et stationnement interdits",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Un panneau « Stationnement interdit » avec indication des horaires signifie que l'interdiction ne s'applique que pendant les heures affichées sur le panneau."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Piétons, cyclistes et usagers vulnérables de la route",
+"subcategory":"Piétons",
+"englishSubcategory":"Pedestrians",
+"description":"Lorsqu'ils tournent, les conducteurs doivent céder le passage aux piétons qui traversent la chaussée sur laquelle ils s'engagent. Cette règle s'applique même si le piéton ne se trouve pas à un passage piéton."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Piétons, cyclistes et usagers vulnérables de la route",
+"subcategory":"Cyclistes",
+"englishSubcategory":"Cyclists",
+"description":"Les automobilistes doivent laisser plus d'espace lorsqu'ils dépassent des cyclistes, car ces derniers peuvent avoir besoin de place pour éviter des dangers ou maintenir leur équilibre."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Piétons, cyclistes et usagers vulnérables de la route",
+"subcategory":"Piétons",
+"englishSubcategory":"Pedestrians",
+"description":"À proximité des zones commerçantes ou des arrêts de transports en commun, les conducteurs doivent s'attendre à une augmentation du nombre de piétons et à des traversées soudaines. Soyez toujours vigilants dans ces zones."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Piétons, cyclistes et usagers vulnérables de la route",
+"subcategory":"Cyclistes",
+"englishSubcategory":"Cyclists",
+"description":"Lorsqu'un cycliste circule sur une piste cyclable balisée, les automobilistes doivent éviter d'y circuler, sauf autorisation et en toute sécurité."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Piétons, cyclistes et usagers vulnérables de la route",
+"subcategory":"Enfants",
+"englishSubcategory":"Children",
+"description":"Les conducteurs doivent redoubler de prudence aux abords des écoles, car les enfants peuvent avoir un comportement imprévisible et mal évaluer la circulation. Ralentissez dans les zones scolaires."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Piétons, cyclistes et usagers vulnérables de la route",
+"subcategory":"Cyclistes",
+"englishSubcategory":"Cyclists",
+"description":"Si un cycliste circule au milieu d'une voie étroite, les automobilistes doivent attendre qu'il soit possible de le dépasser en toute sécurité et avec suffisamment d'espace, plutôt que de forcer le passage."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Piétons, cyclistes et usagers vulnérables de la route",
+"subcategory":"Piétons",
+"englishSubcategory":"Pedestrians",
+"description":"Aux passages piétons pour enfants, les conducteurs doivent s'arrêter lorsque les drapeaux sont déployés et que des piétons sont présents, afin de garantir la sécurité des enfants."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Piétons, cyclistes et usagers vulnérables de la route",
+"subcategory":"Cyclistes",
+"englishSubcategory":"Cyclists",
+"description":"Les conducteurs doivent toujours vérifier leurs angles morts avant de tourner, car des cyclistes peuvent circuler à proximité sans être vus, surtout en zone urbaine."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Piétons, cyclistes et usagers vulnérables de la route",
+"subcategory":"Personnes âgées et handicapées",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Les piétons âgés peuvent avoir besoin de plus de temps pour traverser, car ils peuvent marcher plus lentement ou avoir des difficultés à se déplacer. Laissez-leur l'espace et le temps nécessaires pour traverser en toute sécurité."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Piétons, cyclistes et usagers vulnérables de la route",
+"subcategory":"Cyclistes",
+"englishSubcategory":"Cyclists",
+"description":"Les cyclistes peuvent être plus difficiles à voir à l'approche des intersections et ils peuvent se déplacer rapidement. Laissez-leur toujours suffisamment d'espace et de temps pour traverser en toute sécurité."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Situations particulières et environnements routiers",
+"subcategory":"Zones scolaires",
+"englishSubcategory":"School Zones",
+"description":"Les limitations de vitesse en zone scolaire ne s'appliquent qu'aux heures indiquées sur les panneaux. Veillez à les respecter pour la sécurité des enfants."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Situations particulières et environnements routiers",
+"subcategory":"Zones scolaires",
+"englishSubcategory":"School Zones",
+"description":"Les conducteurs doivent ralentir aux abords des écoles même si aucun enfant n'est visible, car des enfants peuvent apparaître soudainement et de manière imprévisible."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Situations particulières et environnements routiers",
+"subcategory":"Travaux",
+"englishSubcategory":"Roadworks",
+"description":"À l'approche des travaux routiers, ralentissez et suivez la signalisation temporaire afin d'assurer la sécurité des travailleurs et des autres usagers de la route."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Situations particulières et environnements routiers",
+"subcategory":"Travaux",
+"englishSubcategory":"Roadworks",
+"description":"Les limitations de vitesse sont réduites dans les zones de travaux routiers afin d'assurer la sécurité des travailleurs et de tenir compte des changements d'état de la chaussée."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Situations particulières et environnements routiers",
+"subcategory":"Routes rurales",
+"englishSubcategory":"Rural Roads",
+"description":"Sur les routes de campagne, les animaux sauvages peuvent surgir inopinément. Soyez toujours prêt à vous arrêter ou à ralentir lorsque vous traversez des zones rurales."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Situations particulières et environnements routiers",
+"subcategory":"Routes rurales",
+"englishSubcategory":"Rural Roads",
+"description":"Les routes non revêtues offrent souvent une adhérence et un freinage réduits. Il est conseillé aux conducteurs de réduire leur vitesse sur ces surfaces."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Situations particulières et environnements routiers",
+"subcategory":"Autoroutes",
+"englishSubcategory":"Freeways",
+"description":"Si vous ratez votre sortie d'autoroute, continuez jusqu'à la prochaine sortie et faites demi-tour en toute sécurité. N'essayez pas de vous arrêter ou de faire marche arrière sur l'autoroute."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Situations particulières et environnements routiers",
+"subcategory":"Autoroutes",
+"englishSubcategory":"Freeways",
+"description":"Il est interdit de s'arrêter sur une autoroute, sauf en cas d'urgence. En cas de panne, utilisez toujours la bande d'arrêt d'urgence ou la bretelle de sortie."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Situations particulières et environnements routiers",
+"subcategory":"Conditions météorologiques",
+"englishSubcategory":"Weather Conditions",
+"description":"En cas de fortes pluies, réduisez votre vitesse et augmentez les distances de sécurité. Les routes mouillées peuvent réduire l'adhérence et allonger les distances de freinage."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Situations particulières et environnements routiers",
+"subcategory":"Conditions météorologiques",
+"englishSubcategory":"Weather Conditions",
+"description":"Le brouillard réduit la visibilité et la perception des distances, rendant la conduite particulièrement dangereuse. Ralentissez et augmentez la distance de sécurité par temps de brouillard."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Véhicules d'urgence et indications de la police",
+"subcategory":"Passage pour les véhicules d'urgence",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Lorsqu'un véhicule d'urgence approche, gyrophares et/ou sirène allumés, écartez-vous de son chemin et laissez-le passer en toute sécurité."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Véhicules d'urgence et indications de la police",
+"subcategory":"Passage pour les véhicules d'urgence",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Si vous êtes arrêté à un feu rouge et qu'un véhicule d'urgence approche par derrière, la solution la plus sûre est de vous écarter si cela est possible et légal ; sinon, restez sur place et laissez-le passer si possible."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Véhicules d'urgence et indications de la police",
+"subcategory":"Instructions de la police",
+"englishSubcategory":"Police Directions",
+"description":"Si un agent de police vous donne des instructions différentes de celles indiquées par un panneau, vous devez suivre ses instructions."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Véhicules d'urgence et indications de la police",
+"subcategory":"Passage pour les véhicules d'urgence",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Si un véhicule d'urgence est arrêté sur le bord de la route, gyrophares allumés, ralentissez et dépassez-le prudemment, en vous déportant si la situation est sans danger."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Véhicules d'urgence et indications de la police",
+"subcategory":"Instructions de la police",
+"englishSubcategory":"Police Directions",
+"description":"Si la police met en place un barrage routier temporaire, suivez ses instructions et les déviations éventuelles."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Véhicules d'urgence et indications de la police",
+"subcategory":"Passage pour les véhicules d'urgence",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Il ne faut pas suivre de trop près un véhicule d'urgence pour se faufiler plus rapidement dans la circulation."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Véhicules d'urgence et indications de la police",
+"subcategory":"Passage pour les véhicules d'urgence",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Si vous entendez une sirène mais que vous ne voyez pas encore le véhicule d'urgence, restez vigilant, vérifiez vos rétroviseurs et soyez prêt à vous déplacer en toute sécurité."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Véhicules d'urgence et indications de la police",
+"subcategory":"Instructions de la police",
+"englishSubcategory":"Police Directions",
+"description":"Si un agent de la circulation sur un chantier donne des instructions, vous devez lui obéir."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Véhicules d'urgence et indications de la police",
+"subcategory":"Instructions de la police",
+"englishSubcategory":"Police Directions",
+"description":"Si la police vous demande de vous arrêter pour un contrôle de permis de conduire, arrêtez-vous en toute sécurité comme indiqué."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Véhicules d'urgence et indications de la police",
+"subcategory":"Passage pour les véhicules d'urgence",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Si vous circulez sur une voie à une seule voie et qu'un véhicule d'urgence approche par derrière, signalez votre intention et déplacez-vous vers la gauche ou vers un endroit sûr si possible."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Ceintures de sécurité, dispositifs de retenue pour enfants et passagers",
+"subcategory":"La ceinture de sécurité",
+"englishSubcategory":"Seatbelts",
+"description":"Le conducteur est responsable de s'assurer que tous les passagers de moins de 16 ans portent une ceinture de sécurité."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Ceintures de sécurité, dispositifs de retenue pour enfants et passagers",
+"subcategory":"La ceinture de sécurité",
+"englishSubcategory":"Seatbelts",
+"description":"Le port de la ceinture de sécurité est obligatoire en permanence lorsque le véhicule est en mouvement, si celui-ci en est équipé."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Ceintures de sécurité, dispositifs de retenue pour enfants et passagers",
+"subcategory":"Dispositifs de retenue pour enfants",
+"englishSubcategory":"Child Restraints",
+"description":"Un dispositif de retenue pour enfant est nécessaire car il est conçu pour s'adapter à la morphologie de l'enfant et le protéger plus efficacement qu'une ceinture de sécurité pour adulte."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Ceintures de sécurité, dispositifs de retenue pour enfants et passagers",
+"subcategory":"Passagers",
+"englishSubcategory":"Passengers",
+"description":"Il est dangereux pour les passagers de placer leurs pieds sur le tableau de bord car les airbags et les forces d'impact peuvent causer des blessures graves."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Ceintures de sécurité, dispositifs de retenue pour enfants et passagers",
+"subcategory":"Dispositifs de retenue pour enfants",
+"englishSubcategory":"Child Restraints",
+"description":"La règle générale la plus sûre pour choisir un dispositif de retenue pour enfant est d'utiliser un modèle homologué et adapté à l'âge et à la taille de l'enfant."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Ceintures de sécurité, dispositifs de retenue pour enfants et passagers",
+"subcategory":"La ceinture de sécurité",
+"englishSubcategory":"Seatbelts",
+"description":"Un signe courant indiquant qu'une ceinture de sécurité n'est pas portée correctement est lorsque la sangle se trouve sous le bras ou derrière le dos."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Ceintures de sécurité, dispositifs de retenue pour enfants et passagers",
+"subcategory":"Passagers",
+"englishSubcategory":"Passengers",
+"description":"Si un passager distrait le conducteur, la solution la plus sûre est de lui demander de s'arrêter et de se reconcentrer sur la conduite."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Ceintures de sécurité, dispositifs de retenue pour enfants et passagers",
+"subcategory":"Dispositifs de retenue pour enfants",
+"englishSubcategory":"Child Restraints",
+"description":"Il est dangereux de tenir un bébé sur ses genoux dans un véhicule en mouvement car vous ne pourrez pas le maintenir en toute sécurité en cas d'accident."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Ceintures de sécurité, dispositifs de retenue pour enfants et passagers",
+"subcategory":"La ceinture de sécurité",
+"englishSubcategory":"Seatbelts",
+"description":"La ceinture de sécurité doit être portée avec la partie ventrale positionnée bas sur les hanches afin de réduire les risques de blessures à l'abdomen en cas d'accident."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Ceintures de sécurité, dispositifs de retenue pour enfants et passagers",
+"subcategory":"Passagers",
+"englishSubcategory":"Passengers",
+"description":"L'un des principaux risques liés au transport d'objets non fixés en cabine est qu'ils peuvent se transformer en projectiles en cas de collision ou de freinage brusque."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Principes de base de la sécurité, des défauts et de l'entretien des véhicules",
+"subcategory":"Pneus",
+"englishSubcategory":"Tyres",
+"description":"Une pression de pneus correcte est importante pour la sécurité car elle influe sur l'adhérence, le freinage et la tenue de route."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Principes de base de la sécurité, des défauts et de l'entretien des véhicules",
+"subcategory":"Freins",
+"englishSubcategory":"Brakes",
+"description":"Si votre pédale de frein vous semble molle ou s'enfonce plus que d'habitude, considérez cela comme un défaut grave et faites vérifier vos freins immédiatement."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Principes de base de la sécurité, des défauts et de l'entretien des véhicules",
+"subcategory":"Éclairage et visibilité",
+"englishSubcategory":"Lights & Visibility",
+"description":"Vérifiez régulièrement tous les feux de votre véhicule pour vous assurer de pouvoir voir et être vu par les autres."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Principes de base de la sécurité, des défauts et de l'entretien des véhicules",
+"subcategory":"Direction et suspension",
+"englishSubcategory":"Steering & Suspension",
+"description":"Les signes avant-coureurs d'un problème de direction peuvent inclure un tirage inhabituel, des vibrations ou une difficulté à diriger le véhicule."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Principes de base de la sécurité, des défauts et de l'entretien des véhicules",
+"subcategory":"Pare-brise et essuie-glaces",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Des essuie-glaces usés constituent un problème de sécurité car ils réduisent la visibilité sous la pluie."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Principes de base de la sécurité, des défauts et de l'entretien des véhicules",
+"subcategory":"Pneus",
+"englishSubcategory":"Tyres",
+"description":"Un signe courant indiquant que des pneus peuvent être dangereux est une usure irrégulière ou une usure anormale de la bande de roulement."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Principes de base de la sécurité, des défauts et de l'entretien des véhicules",
+"subcategory":"Miroirs et réglages",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Il convient de régler ses rétroviseurs avant de conduire afin de réduire les angles morts et d'améliorer la visibilité."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Principes de base de la sécurité, des défauts et de l'entretien des véhicules",
+"subcategory":"Freins",
+"englishSubcategory":"Brakes",
+"description":"Si vos freins font un bruit de grincement, faites-les inspecter dès que possible."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Principes de base de la sécurité, des défauts et de l'entretien des véhicules",
+"subcategory":"Éclairage et visibilité",
+"englishSubcategory":"Lights & Visibility",
+"description":"Utilisez vos phares par faible visibilité dès que celle-ci est réduite afin que les autres puissent vous voir."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Principes de base de la sécurité, des défauts et de l'entretien des véhicules",
+"subcategory":"Pare-brise et essuie-glaces",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Si votre pare-brise est fortement fissuré dans votre champ de vision, réparez-le ou remplacez-le avant de poursuivre votre route."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Sensibilisation au chargement, au remorquage et aux véhicules lourds",
+"subcategory":"Charges",
+"englishSubcategory":"Loads",
+"description":"Les charges doivent être correctement arrimées afin d'éviter qu'elles ne se déplacent ou ne tombent et ne provoquent des accidents."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Sensibilisation au chargement, au remorquage et aux véhicules lourds",
+"subcategory":"Charges",
+"englishSubcategory":"Loads",
+"description":"Une charge non arrimée à l'intérieur d'un véhicule peut se transformer en projectile lors d'un freinage brusque, ce qui représente un risque important pour la sécurité."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Sensibilisation au chargement, au remorquage et aux véhicules lourds",
+"subcategory":"Charges",
+"englishSubcategory":"Loads",
+"description":"Le transport d'un véhicule surchargé affecte le freinage en augmentant la distance d'arrêt."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Sensibilisation au chargement, au remorquage et aux véhicules lourds",
+"subcategory":"Charges",
+"englishSubcategory":"Loads",
+"description":"La méthode la plus sûre pour transporter des objets longs est de les fixer de manière à ce qu'ils ne puissent ni bouger ni dépasser dangereusement."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Sensibilisation au chargement, au remorquage et aux véhicules lourds",
+"subcategory":"Remorquage",
+"englishSubcategory":"Towing",
+"description":"Le remorquage d'une remorque augmente la distance de freinage car le poids supplémentaire réduit l'efficacité du freinage."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Sensibilisation au chargement, au remorquage et aux véhicules lourds",
+"subcategory":"Remorquage",
+"englishSubcategory":"Towing",
+"description":"Avant de tracter une remorque, vérifiez que l'attelage, les feux et la chaîne de sécurité sont bien fixés."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Sensibilisation au chargement, au remorquage et aux véhicules lourds",
+"subcategory":"Remorquage",
+"englishSubcategory":"Towing",
+"description":"Prévoyez plus d'espace lors des virages avec une remorque, car celle-ci se déplace à l'intérieur de la trajectoire de virage."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Sensibilisation au chargement, au remorquage et aux véhicules lourds",
+"subcategory":"Charges",
+"englishSubcategory":"Loads",
+"description":"Un chargement qui obstrue votre vision arrière réduit la vigilance face à la circulation qui suit, augmentant ainsi le risque d'accidents."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Sensibilisation au chargement, au remorquage et aux véhicules lourds",
+"subcategory":"Véhicules lourds",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Les véhicules lourds nécessitent plus d'espace pour s'arrêter car leur masse plus importante augmente la distance de freinage."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Sensibilisation au chargement, au remorquage et aux véhicules lourds",
+"subcategory":"Véhicules lourds",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Lorsque vous suivez un gros camion, augmentez la distance de sécurité pour tenir compte des angles morts et de la distance de freinage plus longue du camion."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Permis, règles relatives aux plaques d'immatriculation L/P et pièges DKT pratiques (VIC)",
+"subcategory":"Règles relatives au permis d'apprenti conducteur",
+"englishSubcategory":"Learner Permit Rules",
+"description":"En tant qu'apprenti conducteur victorien, vous n'êtes autorisé à conduire une voiture que sous la supervision d'un conducteur titulaire d'un permis de conduire valide, assis à vos côtés."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Permis, règles relatives aux plaques d'immatriculation L/P et pièges DKT pratiques (VIC)",
+"subcategory":"Règles relatives au permis d'apprenti conducteur",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Les conducteurs en apprentissage doivent afficher clairement leur plaque L afin qu'elle soit visible en permanence par les autres occupants du véhicule."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Permis, règles relatives aux plaques d'immatriculation L/P et pièges DKT pratiques (VIC)",
+"subcategory":"Règles relatives au permis d'apprenti conducteur",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Si votre conducteur superviseur s'endort pendant que vous conduisez, arrêtez-vous en toute sécurité et ne redémarrez pas avant d'être correctement supervisé."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Permis, règles relatives aux plaques d'immatriculation L/P et pièges DKT pratiques (VIC)",
+"subcategory":"Téléphones et appareils mobiles",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"En tant qu'apprenti conducteur dans l'État de Victoria, vous n'êtes absolument pas autorisé à utiliser un téléphone portable au volant."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Permis, règles relatives aux plaques d'immatriculation L/P et pièges DKT pratiques (VIC)",
+"subcategory":"Règles relatives au permis d'apprenti conducteur",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Si vos plaques L se détachent en conduisant, arrêtez-vous en toute sécurité et remettez-les en place avant de reprendre la route."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Permis, règles relatives aux plaques d'immatriculation L/P et pièges DKT pratiques (VIC)",
+"subcategory":"Surveillance",
+"englishSubcategory":"Supervision",
+"description":"L’objectif principal des règles de supervision des apprentis conducteurs est de garantir qu’un conducteur expérimenté puisse les guider et intervenir si nécessaire."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Permis, règles relatives aux plaques d'immatriculation L/P et pièges DKT pratiques (VIC)",
+"subcategory":"Conditions et conformité",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Si un conducteur en apprentissage est surpris à conduire sans la supervision requise, il s'expose à des sanctions et à d'éventuelles conséquences sur son permis de conduire."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Permis, règles relatives aux plaques d'immatriculation L/P et pièges DKT pratiques (VIC)",
+"subcategory":"Perception du danger",
+"englishSubcategory":"Hazard Perception",
+"description":"Un piège courant aux intersections pour les conducteurs débutants est de tourner sans vérifier la présence de piétons traversant la route sur laquelle on s'engage."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Permis, règles relatives aux plaques d'immatriculation L/P et pièges DKT pratiques (VIC)",
+"subcategory":"Perception du danger",
+"englishSubcategory":"Hazard Perception",
+"description":"Même si le feu est vert, vous devez ralentir ou vous arrêter si la circulation est bloquée plus loin ou si des piétons traversent."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Permis, règles relatives aux plaques d'immatriculation L/P et pièges DKT pratiques (VIC)",
+"subcategory":"Règles relatives au permis d'apprenti conducteur",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Si vous supervisez un apprenti conducteur, le conducteur superviseur doit toujours s'asseoir sur le siège passager avant."
+}
+]

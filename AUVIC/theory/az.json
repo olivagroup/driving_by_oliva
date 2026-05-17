@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Yol Qaydaları və Qanunları",
+"subcategory":"Ümumi Yol Qaydaları",
+"englishSubcategory":"General Road Rules",
+"description":"Sürücülər təhlükəsizliyi və rahat nəqliyyat axınını təmin etmək üçün ümumi yol qaydalarına əməl etməlidirlər. Buraya yol nişanlarına, siqnallarına və zolaq işarələrinə əməl etmək daxildir. Bu qaydalara əməl edilməməsi qəzalara və cərimələrə səbəb ola bilər."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Yol Qaydaları və Qanunları",
+"subcategory":"Yol vermək",
+"englishSubcategory":"Giving Way",
+"description":"Sürücülər digər yerlərdə, o cümlədən yol ayrıclarında, dairəvi yollarda və piyada keçidlərində digər nəqliyyat vasitələrinə və ya piyadalara yol verməlidirlər. Yol verməmək qayda pozuntusudur."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Yol Qaydaları və Qanunları",
+"subcategory":"Zolaqdan İstifadə",
+"englishSubcategory":"Lane Use",
+"description":"Sürücülər müvafiq zolaqlardan istifadə etməli və zolaq işarələrinə əməl etməlidirlər. Buraya zolaq dəyişikliyi, ötmə və velosiped və ya avtobus zolaqlarından istifadə qaydaları daxildir. Qayda pozuntuları cərimələrə və ya qəzalara səbəb ola bilər."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Yol Qaydaları və Qanunları",
+"subcategory":"Tramvaylar",
+"englishSubcategory":"Trams",
+"description":"Sürücülər tramvay qaydalarından xəbərdar olmalıdırlar, o cümlədən tramvay dayanacaqlarında piyadalara yol vermək, açıq qapılı tramvaylar üçün dayanmaq və müəyyən şəraitdə tramvayları ötməmək."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Yol Qaydaları və Qanunları",
+"subcategory":"Kəsişmələr",
+"englishSubcategory":"Intersections",
+"description":"Yol ayrıclarında sürücülər yol vermək və dayanma nişanlarında və ya svetoforda dayanmaq üçün düzgün prosedurlara əməl etməlidirlər. Bu qaydaları anlamaq qəzaların qarşısını almaq üçün vacibdir."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Yol Qaydaları və Qanunları",
+"subcategory":"U-Dönüşlər",
+"englishSubcategory":"U-Turns",
+"description":"Geri dönməyə yalnız yol ayrıclarında və ya qadağan edən nişan olmadıqda icazə verilir. Sürücülər geri dönməzdən əvvəl yolun təhlükəsiz olduğundan əmin olmalıdırlar."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Yol Qaydaları və Qanunları",
+"subcategory":"Sürət limitləri",
+"englishSubcategory":"Speed Limits",
+"description":"Sürücülər yolda təhlükəsizliyi təmin etmək üçün göstərilən sürət həddinə əməl etməlidirlər. Sürət həddini aşmaq cərimələrə, sürücülük vəsiqəsinin itirilməsinə və qəza riskinin artmasına səbəb ola bilər."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Yol Qaydaları və Qanunları",
+"subcategory":"Piyada Təhlükəsizliyi",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Sürücülər keçidlərdə piyadalara yol verməli və piyada zonalarına yaxın olduqda onların təhlükəsizliyini təmin etməlidirlər. Keçidlərdə piyadalar üçün dayanmamaq qayda pozuntusudur."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Yol Qaydaları və Qanunları",
+"subcategory":"Dəmir Yolu Keçidləri",
+"englishSubcategory":"Railway Crossings",
+"description":"Sürücülər işıqforlar yanıb-sönərkən və ya amortizator qapıları aşağı olduqda dəmir yolu keçidlərində dayanmalıdırlar. Bu siqnallara məhəl qoymamaq ciddi bir qanun pozuntusudur və cərimələrə və qəzalara səbəb ola bilər."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Yol Qaydaları və Qanunları",
+"subcategory":"Təcili yardım maşınları",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Sürücülər yanıb-sönən işıqlar və sirenlərdən istifadə edərək təcili yardım maşınlarına yol verməlidirlər ki, nəqliyyat vasitəsinin hərəkəti üçün boş bir yolu olsun."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Yol Nişanları və Siqnalları",
+"subcategory":"Tənzimləyici Nişanlar",
+"englishSubcategory":"Regulatory Signs",
+"description":"Tənzimləyici nişanlar sürücülər üçün sürət həddi, dönmə məhdudiyyəti və giriş qadağan nişanları kimi məcburi təlimatlar verir. Yollarda təhlükəsizliyi və asayişi qorumaq üçün bu nişanlara əməl etmək qanunla tələb olunur."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Yol Nişanları və Siqnalları",
+"subcategory":"Xəbərdarlıq əlamətləri",
+"englishSubcategory":"Warning Signs",
+"description":"Xəbərdarlıq nişanları sürücüləri kəskin döngələr, məktəb zonaları və vəhşi təbiət keçidləri kimi potensial təhlükələr barədə xəbərdar edir. Bu nişanlar sürücülərə qəzaların qarşısını almaq üçün sürücülüklərini tənzimləməyə kömək edir."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Yol Nişanları və Siqnalları",
+"subcategory":"Sürət İşarələri",
+"englishSubcategory":"Speed Signs",
+"description":"Sürət nişanları yolda icazə verilən maksimum və ya minimum sürəti göstərir. Sürücülər təhlükəsiz sürücülük şəraitini təmin etmək və cərimələrdən yayınmaq üçün bu hədlərə riayət etməlidirlər."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Yol Nişanları və Siqnalları",
+"subcategory":"Svetofor",
+"englishSubcategory":"Traffic Lights",
+"description":"Svetoforlar kəsişmələrdə nəqliyyat vasitələrinin və piyadaların hərəkətini idarə edir. Qırmızı dayanmaq, yaşıl getmək, sarı isə dayanmağa hazırlaşmaq üçün xəbərdarlıq siqnalıdır."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Yol Nişanları və Siqnalları",
+"subcategory":"Piyada Siqnalları",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Piyada siqnalları piyadaların yolu keçməsinin nə vaxt təhlükəsiz olduğunu göstərir. Bu siqnallar adətən piyada təhlükəsizliyini təmin etmək üçün svetoforlarla uyğunlaşdırılır."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Yol Nişanları və Siqnalları",
+"subcategory":"Zolaq Nəzarəti Siqnalları",
+"englishSubcategory":"Lane Control Signals",
+"description":"Zolaq idarəetmə siqnalları zolağın açıq və ya bağlı olduğunu göstərmək üçün istifadə olunur. Bu siqnallar adətən çoxzolaqlı yollarda və tunellərdə istifadə olunur."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Yol Nişanları və Siqnalları",
+"subcategory":"Parklanma qadağandır",
+"englishSubcategory":"No Parking Signs",
+"description":"Parklanma nişanları dayanma və ya parklanmanın qadağan olunduğu yerləri göstərir. Bu, adətən nəqliyyatın rahat hərəkətini və təhlükəsizliyin qorunmasını təmin etmək üçündür."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Yol Nişanları və Siqnalları",
+"subcategory":"Birtərəfli Yol Nişanları",
+"englishSubcategory":"One-Way Signs",
+"description":"Birtərəfli hərəkət nişanları nəqliyyatın yalnız bir istiqamətdə hərəkət etməli olduğunu göstərir. Bu nişanlara məhəl qoymamaq qəzalara və hüquqi nəticələrə səbəb ola bilər."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Yol Nişanları və Siqnalları",
+"subcategory":"Dayanma İşarələri",
+"englishSubcategory":"Stop Signs",
+"description":"Dayanma nişanları sürücülərdən tam dayanmağı və irəliləməzdən əvvəl digər nəqliyyat vasitələrinə və ya piyadalara yol verməyi tələb edir."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Yol Nişanları və Siqnalları",
+"subcategory":"Yol nişanları verin",
+"englishSubcategory":"Give Way Signs",
+"description":"Yol nişanları sürücülərə vəziyyətdən asılı olaraq digər yol istifadəçilərinə, ya piyadalara, ya da nəqliyyat vasitələrinə yol verməyi tapşırır ki, qəzaların qarşısını alsınlar."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Sürət və Məsafə Qaydaları",
+"subcategory":"Sürət limitləri",
+"englishSubcategory":"Speed Limits",
+"description":"Viktoriya ştatındakı yaşayış məntəqələrində standart sürət həddi başqa cür imzalanmadığı təqdirdə 50 km/saatdır. Qanuni sürət hədləri daxilində sürdüyünüzdən əmin olmaq üçün həmişə asılmış işarələri yoxlayın."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Sürət və Məsafə Qaydaları",
+"subcategory":"Sürət limitləri",
+"englishSubcategory":"Speed Limits",
+"description":"Nişanlı məktəb zonasında, yolu keçən uşaqların təhlükəsizliyini təmin etmək üçün nişanda göstərilən saatlarda sürət həddi 40 km/saat-a endirilir."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Sürət və Məsafə Qaydaları",
+"subcategory":"Məsafəni izləmək",
+"englishSubcategory":"Following Distance",
+"description":"İdeal şəraitdə minimum təhlükəsiz məsafə qarşıdakı nəqliyyat vasitəsindən ən azı iki saniyə geridə olmalıdır. Bu, qarşıdakı nəqliyyat vasitəsinin qəfil dayanması halında reaksiya vermək üçün kifayət qədər vaxt verir."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Sürət və Məsafə Qaydaları",
+"subcategory":"Sürət limitləri",
+"englishSubcategory":"Speed Limits",
+"description":"Təhlükəsizlik zonasında dayanmış tramvayı keçərkən, sərnişinlərin tramvaya minməsi və ya düşməsi təhlükəsizliyini təmin etmək üçün sürətinizi saatda 10 km-ə endirməlisiniz."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Sürət və Məsafə Qaydaları",
+"subcategory":"Sürət limitləri",
+"englishSubcategory":"Speed Limits",
+"description":"Sürət nişanları olmayan kənd yollarında, yerli nişanlarda başqa cür göstərilmədiyi təqdirdə, standart sürət həddi 100 km/saatdır. Təhlükəsizliyi təmin etmək üçün sürətinizi yol şəraitinə uyğunlaşdırın."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Sürət və Məsafə Qaydaları",
+"subcategory":"Məsafəni izləmək",
+"englishSubcategory":"Following Distance",
+"description":"Yağışlı hava şəraitində məsafəni ən azı dörd saniyəyə qədər artırmalısınız. Yaş yollar dartma qüvvəsini azaldır və təhlükəsiz dayanmaq üçün daha çox vaxt tələb edir."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Sürət və Məsafə Qaydaları",
+"subcategory":"Sürət limitləri",
+"englishSubcategory":"Speed Limits",
+"description":"Elektron dəyişkən sürət həddi nişanları işləyərkən onlara həmişə əməl edin. Bu nişanlar sürət həddini yol şəraitinə, hava şəraitinə və ya yolda baş verən hadisələrə əsasən tənzimləyir."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Sürət və Məsafə Qaydaları",
+"subcategory":"Dayanma Məsafəsi",
+"englishSubcategory":"Stopping Distance",
+"description":"Sürətiniz artdıqca, nəqliyyat vasitənizi təhlükəsiz şəkildə dayandırmaq üçün tələb olunan dayanma məsafəsi də artır. Təhlükələrə reaksiya vermək üçün həmişə kifayət qədər məsafəniz olduğundan əmin olun."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Sürət və Məsafə Qaydaları",
+"subcategory":"Sürət limitləri",
+"englishSubcategory":"Speed Limits",
+"description":"Nəqliyyat vasitələrinin və motorsuz yol istifadəçilərinin qarşılıqlı əlaqədə olduğu bu ərazilərdə piyadaların və velosipedçilərin təhlükəsizliyini təmin etmək üçün ortaq zonalarda sürət həddi ümumiyyətlə 10 km/saatdır."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Sürət və Məsafə Qaydaları",
+"subcategory":"Məsafəni izləmək",
+"englishSubcategory":"Following Distance",
+"description":"Arxa qapıdan keçmək təhlükəlidir, çünki reaksiya və əyləc müddətini azaldır. Xüsusilə də görünüşünüzə mane ola biləcək daha böyük nəqliyyat vasitələrinin arxasında sürərkən həmişə təhlükəsiz məsafəni saxlayın."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Sürücünün məsuliyyətləri",
+"subcategory":"Hüquqi Öhdəliklər",
+"englishSubcategory":"Legal Obligations",
+"description":"Sürücülər qəzadan sonra yardım göstərmək, qəzadan sonra məlumat mübadiləsi aparmaq və qanunla tələb olunduğu kimi hadisələr barədə səlahiyyətli orqanlara məlumat vermək kimi müxtəlif hüquqi öhdəlikləri yerinə yetirməlidirlər."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Sürücünün məsuliyyətləri",
+"subcategory":"Diqqət və Nəzarət",
+"englishSubcategory":"Attention & Control",
+"description":"Sürücülər diqqətlərini yayındıran amillərdən qaçınmalı və özlərinin və digər yol istifadəçilərinin təhlükəsizliyini təmin etmək üçün nəqliyyat vasitələrinə hər zaman nəzarət etməlidirlər."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Sürücünün məsuliyyətləri",
+"subcategory":"Hüquqi Öhdəliklər",
+"englishSubcategory":"Legal Obligations",
+"description":"Xəsarətə səbəb olan qəza halında, sürücülər mümkün olduqda dayanmalı və kömək göstərməlidirlər. Belə hallarda dayanmamaq və kömək etməmək qanun pozuntusudur."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Sürücünün məsuliyyətləri",
+"subcategory":"Diqqət və Nəzarət",
+"englishSubcategory":"Attention & Control",
+"description":"Sürücülərin hər zaman nəqliyyat vasitələrinə tam nəzarət etmələri, dəyişən yol şəraitinə uyğun reaksiya vermələri və təhlükəsiz sürücülük mühitini qorumaları vacibdir."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Sürücünün məsuliyyətləri",
+"subcategory":"Hüquqi Öhdəliklər",
+"englishSubcategory":"Legal Obligations",
+"description":"Sürücülərdən kimsə xəsarət alıbsa və ya əmlaka ziyan dəyibsə və detallar dəyişdirilə bilmirsə, qəza barədə polisə məlumat verməlidirlər. Bu hadisələri bildirməmək cərimə ilə nəticələnə bilər."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Sürücünün məsuliyyətləri",
+"subcategory":"Yorğunluğun İdarə Edilməsi",
+"englishSubcategory":"Fatigue Management",
+"description":"Yorğunluq avtomobil idarə edərkən ciddi riskdir. Sürücülər əsnəmə və diqqətin itirilməsi kimi yorğunluğun ilkin əlamətlərindən xəbərdar olmalı və qəzaların qarşısını almaq üçün müvafiq tədbirlər görməlidirlər."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Sürücünün məsuliyyətləri",
+"subcategory":"Hüquqi Öhdəliklər",
+"englishSubcategory":"Legal Obligations",
+"description":"Sürücülər polis tələb etdikdə sürücülük vəsiqələrini təqdim etməlidirlər. Vəsiqəni verməkdən imtina etmək cərimələrə və ya əlavə hüquqi nəticələrə səbəb ola bilər."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Sürücünün məsuliyyətləri",
+"subcategory":"Diqqət və Nəzarət",
+"englishSubcategory":"Attention & Control",
+"description":"Sürücülər siqnalı lazımsız yerə istifadə etməkdən çəkinməlidirlər, çünki bu, digər yol istifadəçilərini qorxuda və ya diqqətini yayındıra bilər. Siqnal yalnız zəruri hallarda başqalarını sizin varlığınız barədə xəbərdar etmək üçün istifadə olunmalıdır."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Sürücünün məsuliyyətləri",
+"subcategory":"Yorğunluğun İdarə Edilməsi",
+"englishSubcategory":"Fatigue Management",
+"description":"Əgər özünüzü çox yorğun hiss edirsinizsə, sürməyə davam etməzdən əvvəl ən təhlükəsiz cavab dayanıb dincəlməkdir. Yorğun halda sürmək qəza riskini əhəmiyyətli dərəcədə artırır."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Sürücünün məsuliyyətləri",
+"subcategory":"Hüquqi Öhdəliklər",
+"englishSubcategory":"Legal Obligations",
+"description":"Sürücülər sərnişinlərinin təhlükəsiz şəkildə oturmasını və avtomobillərini saxlamasını təmin etmək məsuliyyətindədirlər. Buraya uşaqların müvafiq uşaq oturacaqlarında olmasını və böyüklərin təhlükəsizlik kəmərlərindən istifadə etməsini təmin etmək daxildir."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkoqol, Narkotiklər və Sağlamlıq",
+"subcategory":"Alkoqol limitləri",
+"englishSubcategory":"Alcohol Limits",
+"description":"Viktoriyada sürücülük təcrübəsi keçən və sınaq müddəti keçən sürücülər (P1 və P2) hər zaman qanda spirt konsentrasiyasını (BAC) 0,00 səviyyəsində saxlamalıdırlar. Tam lisenziyalı sürücülərin BAC limiti 0,05-dir, lakin maşın sürərkən heç içki içməmək daha təhlükəsizdir."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkoqol, Narkotiklər və Sağlamlıq",
+"subcategory":"Alkoqolun təsirləri",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkoqol mühakimə qabiliyyətini, reaksiya müddətini və koordinasiyanı zəiflədir ki, bu da qəza riskini əhəmiyyətli dərəcədə artıra bilər. Hətta az miqdarda alkoqol belə təhlükəsiz şəkildə avtomobil idarə etmək qabiliyyətinizi azalda bilər."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkoqol, Narkotiklər və Sağlamlıq",
+"subcategory":"Narkotik vasitələrlə idarəetmə",
+"englishSubcategory":"Drug Driving",
+"description":"Reçeteli dərmanlar da daxil olmaqla, narkotik maddələrin təsiri altında avtomobil idarə etmək, özünüzü zəif hiss etməsəniz belə, sürücülük qabiliyyətinizə mənfi təsir göstərə bilər. Risklərdən xəbərdar olmaq və narkotik istifadəsindən sonra avtomobil idarə etməkdən çəkinmək vacibdir."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkoqol, Narkotiklər və Sağlamlıq",
+"subcategory":"Dərman Təhlükəsizliyi",
+"englishSubcategory":"Medication Safety",
+"description":"Yeni reseptli dərman qəbul etməyə başlamazdan əvvəl, bunun avtomobil idarə etmə qabiliyyətinizə təsir edib-etmədiyini yoxlayın və tibbi məsləhətlərə əməl edin. Bəzi dərmanlar yuxululuğa səbəb ola bilər və ya diqqəti cəmləşdirməyi poza bilər."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkoqol, Narkotiklər və Sağlamlıq",
+"subcategory":"Yorğunluq və Sağlamlıq",
+"englishSubcategory":"Fatigue & Health",
+"description":"Yorğunluq, spirtli içki və ya narkotik kimi, təhlükəsiz şəkildə avtomobil idarə etmək qabiliyyətinizə mənfi təsir göstərə bilər. Yorğunluqla əlaqəli qəza riskini azaltmaq üçün avtomobil idarə etməzdən əvvəl kifayət qədər istirahət etdiyinizə əmin olun və uzun səfərlər zamanı fasilələr verin."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Alkoqol, Narkotiklər və Sağlamlıq",
+"subcategory":"Alkoqolun təsirləri",
+"englishSubcategory":"Alcohol Effects",
+"description":"İçki içdikdən sonra yalnız zaman bədəninizdəki spirt miqdarını azalda bilər. Qəhvə, soyuq duş və ya digər üsullar bu prosesi sürətləndirmir."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Alkoqol, Narkotiklər və Sağlamlıq",
+"subcategory":"Alkoqol limitləri",
+"englishSubcategory":"Alcohol Limits",
+"description":"Viktoriyada bütün sürücülər və təcrübəli sürücülər üçün qan şəkərinin 0,00 həddi olmalıdır. Tam lisenziyalı sürücülər üçün qan şəkərinin 0,05 həddi var. Bununla belə, sürücülük etməzdən əvvəl spirtli içki qəbul etməmək həmişə ən təhlükəsiz seçimdir."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Alkoqol, Narkotiklər və Sağlamlıq",
+"subcategory":"Narkotik vasitələrlə idarəetmə",
+"englishSubcategory":"Drug Driving",
+"description":"Viktoriyada özünüzü pis hiss etməsəniz belə, orqanizminizdə müəyyən narkotik maddələr olduğuna görə cərimələnə bilərsiniz. Narkotik maddələrin təsiri altında avtomobil idarə etmək təhlükəsiz idarəetmə qabiliyyətinizə təsir göstərir və qəza riskini artırır."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Alkoqol, Narkotiklər və Sağlamlıq",
+"subcategory":"Dərman Təhlükəsizliyi",
+"englishSubcategory":"Medication Safety",
+"description":"Sürücülük etməzdən əvvəl həmişə yeni dərmanların nəqliyyat vasitəsini idarə etmə qabiliyyətinizə təsir edib-etmədiyini yoxlayın. Bəzi dərmanlar yuxululuğa səbəb olur, reaksiya müddətini pozur və diqqəti azaldır."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Alkoqol, Narkotiklər və Sağlamlıq",
+"subcategory":"Yorğunluq və Sağlamlıq",
+"englishSubcategory":"Fatigue & Health",
+"description":"Yorğunluq da alkoqol kimi sürücülüyə də oxşar təsir göstərə bilər. Bu, reaksiya müddətinizi yavaşladır, mühakimə qabiliyyətinizi pozur və qərar qəbul etmək qabiliyyətinizi azaldır, qəza riskini artırır."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Təhlükəsiz Sürücülük Təcrübələri",
+"subcategory":"Təhlükə Qavrayışı",
+"englishSubcategory":"Hazard Perception",
+"description":"Potensial təhlükəyə yaxınlaşarkən ən təhlükəsiz reaksiya yavaşlamaq və lazım gələrsə dayanmağa hazırlaşmaqdır. Bu, vəziyyəti qiymətləndirmək və müvafiq reaksiya vermək üçün sizə vaxt verir."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Təhlükəsiz Sürücülük Təcrübələri",
+"subcategory":"Təhlükə Qavrayışı",
+"englishSubcategory":"Hazard Perception",
+"description":"Sürücülük edərkən irəliyə baxmaq potensial təhlükələri erkən aşkar etmək üçün vacibdir. Bu, reaksiyanızı planlaşdırmağa və qəfil reaksiyaların qarşısını almağa imkan verir."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Təhlükəsiz Sürücülük Təcrübələri",
+"subcategory":"Müdafiə Sürücülüyü",
+"englishSubcategory":"Defensive Driving",
+"description":"Müdafiəedici sürücülük, digər yol istifadəçilərinin potensial səhvlərini əvvəlcədən görməyi və toqquşmaların qarşısını almaq üçün təhlükəsiz məsafəni qorumağı əhatə edir."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Təhlükəsiz Sürücülük Təcrübələri",
+"subcategory":"Yol Şərtləri",
+"englishSubcategory":"Road Conditions",
+"description":"Təkərləriniz yaş yolda ilişməni itirirsə, qaz pedalını azaldın və rahat şəkildə sükanı idarə edin. Qəfil əyləcləmə və ya kəskin dönüşlər vəziyyəti daha da pisləşdirə və idarəetmənin itirilməsinə səbəb ola bilər."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Təhlükəsiz Sürücülük Təcrübələri",
+"subcategory":"Təhlükə Qavrayışı",
+"englishSubcategory":"Hazard Perception",
+"description":"Tıxacda avtomobil idarə edərkən, təhlükələrə diqqət yetirmək üçün ən yaxşı mövqe yalnız qarşınızdakı avtomobilə diqqət yetirmək deyil, daha irəlidə və yanlardadır. Bu, riskləri daha əvvəldən təxmin etməyə kömək edir."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Təhlükəsiz Sürücülük Təcrübələri",
+"subcategory":"Müdafiə Sürücülüyü",
+"englishSubcategory":"Defensive Driving",
+"description":"Əgər nəqliyyat vasitəsi qarşıdakı zolaqda hərəkət edirsə, ən təhlükəsiz cavab məsafəni artırmaqdır. Bu, vəziyyət pisləşərsə, reaksiya vermək üçün daha çox vaxt verir."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Təhlükəsiz Sürücülük Təcrübələri",
+"subcategory":"Yol Şərtləri",
+"englishSubcategory":"Road Conditions",
+"description":"Yağışdan sonrakı ilk dəqiqələrdə yol çox vaxt sürüşkən olur. Bu müddət ərzində xüsusilə diqqətli olun, çünki yoldakı yağlar və zibil onu daha təhlükəli edə bilər."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Təhlükəsiz Sürücülük Təcrübələri",
+"subcategory":"Gecə Sürücülüyü",
+"englishSubcategory":"Night Driving",
+"description":"Gecələr qarşıdan gələn faraların parıltısını idarə etmək üçün zolağınızın sol kənarına bir az baxın və lazım gələrsə, sürəti azaldın. Bu, parlaq işıqlara birbaşa məruz qalmamaq üçün kömək edir."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Təhlükəsiz Sürücülük Təcrübələri",
+"subcategory":"Müdafiə Sürücülüyü",
+"englishSubcategory":"Defensive Driving",
+"description":"Əgər sürücü sizi çox yaxından izləyirsə, ən təhlükəsiz addım qarşıdakı nəqliyyat vasitəsindən məsafəni artırmaqdır. Bu, həm sizə, həm də arxa qapıda gedən sürücüyə reaksiya vermək üçün daha çox imkan verir."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Təhlükəsiz Sürücülük Təcrübələri",
+"subcategory":"Yol Şərtləri",
+"englishSubcategory":"Road Conditions",
+"description":"Dumanlı havada avtomobil idarə edərkən sürəti azaldın və avtomobilinizlə digər nəqliyyat vasitələri arasında əlavə məsafə saxlayın. Duman görünürlüyü ciddi şəkildə azaldır və qəza riskini artırır."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Yol ayrıcları, döngələr və dairələr",
+"subcategory":"Yol vermək",
+"englishSubcategory":"Giving Way",
+"description":"Yol nişanları və ya siqnalları olmayan yol ayrıclarında sağdan yaxınlaşan nəqliyyat vasitəsi soldan gələn nəqliyyat vasitəsinə yol verməlidir."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Yol ayrıcları, döngələr və dairələr",
+"subcategory":"Dönüşlər",
+"englishSubcategory":"Turns",
+"description":"Sağa dönüş oxu olmadan svetoforda sağa dönərkən, irəliləməzdən əvvəl qarşıdan gələn nəqliyyat vasitələrinə və piyadalara yol verməlisiniz."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Yol ayrıcları, döngələr və dairələr",
+"subcategory":"Dairəvi yollar",
+"englishSubcategory":"Roundabouts",
+"description":"Dairəvi yolda artıq dairədə olan nəqliyyat vasitələri üstünlük təşkil edir. Dairəvi yola daxil olan sürücülər onlara yol verməlidirlər."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Yol ayrıcları, döngələr və dairələr",
+"subcategory":"Dönüşlər",
+"englishSubcategory":"Turns",
+"description":"Sola dönərkən, girdiyiniz yolu keçən piyadalara yol verməlisiniz və onların təhlükəsizliyini təmin etməlisiniz."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Yol ayrıcları, döngələr və dairələr",
+"subcategory":"Yol vermək",
+"englishSubcategory":"Giving Way",
+"description":"T-şəkilli kəsişmədə, son yolda olan nəqliyyat vasitəsi davam edən yolda olan nəqliyyat vasitələrinə yol verməlidir."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Yol ayrıcları, döngələr və dairələr",
+"subcategory":"Dönüşlər",
+"englishSubcategory":"Turns",
+"description":"Geri dönərkən, bütün digər nəqliyyat vasitələrinə və piyadalara yol verməlisiniz və dönərkən onların təhlükəsizliyini təmin etməlisiniz."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Yol ayrıcları, döngələr və dairələr",
+"subcategory":"Dairəvi yollar",
+"englishSubcategory":"Roundabouts",
+"description":"Dairəvi yoldan çıxarkən, digər yol istifadəçilərinə niyyətləriniz barədə məlumat vermək üçün çıxmazdan əvvəl soldakı işıqforu istifadə edin."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Yol ayrıcları, döngələr və dairələr",
+"subcategory":"Yol vermək",
+"englishSubcategory":"Giving Way",
+"description":"Yola giriş yolundan daxil olarkən qəzaların qarşısını almaq üçün yoldakı bütün nəqliyyat vasitələrinə və piyadalara yol verməlisiniz."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Yol ayrıcları, döngələr və dairələr",
+"subcategory":"Dönüşlər",
+"englishSubcategory":"Turns",
+"description":"Sağa dönməzdən əvvəl, təhlükəsiz və aydın bir dönüş təmin etmək üçün nəqliyyat vasitənizi yolun mərkəzinə mümkün qədər yaxın yerləşdirin."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Yol ayrıcları, döngələr və dairələr",
+"subcategory":"Svetofor",
+"englishSubcategory":"Traffic Lights",
+"description":"Yaşıl ox, digər nəqliyyat vasitələrinə və ya piyadalara yol vermədən oxun göstərilən istiqamətdə hərəkət edə biləcəyinizi göstərir."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Yol Nişanları, Zolaqlar və Ötmələr",
+"subcategory":"Zolaqdan İstifadə",
+"englishSubcategory":"Lane Use",
+"description":"Davamlı tək mərkəz xətti, ümumiyyətlə, yola və ya giriş yoluna girərkən və ya çıxarkən istisna olmaqla, onu keçməməli olduğunuz deməkdir."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Yol Nişanları, Zolaqlar və Ötmələr",
+"subcategory":"Ötmə",
+"englishSubcategory":"Overtaking",
+"description":"Çoxzolaqlı yolda hərəkət ayrı-ayrı işarələnmiş zolaqlarda olduqda və təhlükəsiz olduqda solda ötməyə icazə verilir."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Yol Nişanları, Zolaqlar və Ötmələr",
+"subcategory":"Ötmə",
+"englishSubcategory":"Overtaking",
+"description":"Qarşıdakı nəqliyyat vasitəsi sağa dönərkən və təhlükəsiz olduqda, tək zolaqlı yolda soldakı nəqliyyat vasitəsini ötüb keçə bilərsiniz."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Yol Nişanları, Zolaqlar və Ötmələr",
+"subcategory":"Zolaqdan İstifadə",
+"englishSubcategory":"Lane Use",
+"description":"Zolaqları dəyişməzdən əvvəl siqnal verin və təhlükəsiz olduğundan əmin olun. Bu, digər yol istifadəçilərinin sizin niyyətlərinizdən xəbərdar olmasını və qəzaların qarşısını almasını təmin edir."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Yol Nişanları, Zolaqlar və Ötmələr",
+"subcategory":"Yol nişanları",
+"englishSubcategory":"Road Markings",
+"description":"Rəngli yol hərəkəti adası və ya şevron işarəsi, nəqliyyatın təhlükəsiz hərəkətini təmin etmək üçün orada maşın sürməməli olduğunuzu göstərir."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Yol Nişanları, Zolaqlar və Ötmələr",
+"subcategory":"Ötmə",
+"englishSubcategory":"Overtaking",
+"description":"Ötmənin təhlükəsiz olub-olmadığından əmin deyilsinizsə, ən təhlükəsiz hərəkət ötməməkdir. Hərəkət etməzdən əvvəl həmişə vəziyyəti qiymətləndirin."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Yol Nişanları, Zolaqlar və Ötmələr",
+"subcategory":"Zolaqdan İstifadə",
+"englishSubcategory":"Lane Use",
+"description":"Qırılmış mərkəz xətti, təhlükəsiz olduğu təqdirdə, ötmə və ya zolaq dəyişikliyinə icazə verildiyi təqdirdə onu keçə biləcəyiniz deməkdir."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Yol Nişanları, Zolaqlar və Ötmələr",
+"subcategory":"Zolaqdan İstifadə",
+"englishSubcategory":"Lane Use",
+"description":"İki zolaqda hərəkət etmək yalnız zolaq işarələri icazə verdikdə qanunidir. Bu, adətən təhlükəsiz deyil və ya əksər sürücülük şəraitində icazə verilmir."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Yol Nişanları, Zolaqlar və Ötmələr",
+"subcategory":"Ötmə",
+"englishSubcategory":"Overtaking",
+"description":"Ötmək istədiyiniz nəqliyyat vasitəsi sürətlənməyə başlayarsa, ən təhlükəsiz cavab, təhlükəsiz olduğu təqdirdə ötməni dayandırmaq və geri çəkilməkdir."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Yol Nişanları, Zolaqlar və Ötmələr",
+"subcategory":"Yol nişanları",
+"englishSubcategory":"Road Markings",
+"description":"İkiqat kəsilməz mərkəz xətti o deməkdir ki, heç bir halda onu keçməməli və ya onun üzərindən keçməməlisiniz, bu da nəqliyyat axınını və təhlükəsizliyi təmin edir."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Dayanma, Parklanma və Yol Kənarında Qaydalar",
+"subcategory":"Dayanmaq və Park etmək qadağandır",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Dayanma Qadağandır o deməkdir ki, ümumiyyətlə dayanmamalısınız, Parklanma Qadağandır isə götürmə və ya düşmə üçün qısa dayanmağa icazə verir."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Dayanma, Parklanma və Yol Kənarında Qaydalar",
+"subcategory":"Dayanmaq və Park etmək qadağandır",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Parklanma Qadağan olunmuş zonada sərnişinləri mindirmək və ya düşürmək üçün kifayət qədər dayana bilərsiniz."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Dayanma, Parklanma və Yol Kənarında Qaydalar",
+"subcategory":"Yol ayrıclarının yaxınlığında dayanacaq",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Yol ayrıcının yaxınlığında parklanma çox vaxt məhdudlaşdırılır, çünki bu, görünürlüyü məhdudlaşdıra və sürücülər və piyadalar üçün təhlükə yarada bilər."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Dayanma, Parklanma və Yol Kənarında Qaydalar",
+"subcategory":"Dayanmaq və Park etmək qadağandır",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Telefon zənginə cavab verərkən və ya tez dayanmaq lazım olsa belə, Dayanmaq Qadağan olunmuş zonada dayana bilməzsiniz."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Dayanma, Parklanma və Yol Kənarında Qaydalar",
+"subcategory":"Klirveys",
+"englishSubcategory":"Clearways",
+"description":"Yolun açıq olması o deməkdir ki, işlədiyi müddətdə yolun həmin tərəfində dayanmamalı və ya park etməməlisiniz."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Dayanma, Parklanma və Yol Kənarında Qaydalar",
+"subcategory":"Keçidlərin Yaxınlığında Parkinq",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Piyada keçidinin yaxınlığında dayanmaq təhlükəlidir, çünki bu, piyadaları yaxınlaşan sürücülərdən gizlədə bilər və qəza riskini artıra bilər."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Dayanma, Parklanma və Yol Kənarında Qaydalar",
+"subcategory":"Təhlükəsizlik üçün dayanma",
+"englishSubcategory":"Stopping for Safety",
+"description":"Dayanmaq Qadağan olunmuş ərazidə yalnız yol hərəkəti şəraiti və ya təcili vəziyyət tələb etdikdə dayana bilərsiniz."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Dayanma, Parklanma və Yol Kənarında Qaydalar",
+"subcategory":"Təpələrdə Parkinq",
+"englishSubcategory":"Parking on Hills",
+"description":"Təpədə park edərkən, yuvarlanma riskini azaltmaq üçün həmişə əl əyləcini çəkin və nəqliyyat vasitəsini bərkidin."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Dayanma, Parklanma və Yol Kənarında Qaydalar",
+"subcategory":"Yol ayrıclarının yaxınlığında dayanacaq",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Küncdə çox yaxın park etməməlisiniz, çünki bu, qarşıdan gələn nəqliyyat vasitələrinin və piyadaların görünüşünü bağlayaraq təhlükə yarada bilər."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Dayanma, Parklanma və Yol Kənarında Qaydalar",
+"subcategory":"Dayanmaq və Park etmək qadağandır",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Göstərilən vaxtlarda Parklanma Qadağandır işarəsi məhdudiyyətin yalnız işarədə göstərilən vaxtlara şamil edildiyini bildirir."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Piyadalar, Velosipedçilər və Həssas Yol İstifadəçiləri",
+"subcategory":"Piyadalar",
+"englishSubcategory":"Pedestrians",
+"description":"Sürücülər dönərkən yolu keçən piyadalara yol verməlidirlər. Bu, piyadanın təyin olunmuş keçiddə olmamasına belə aiddir."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Piyadalar, Velosipedçilər və Həssas Yol İstifadəçiləri",
+"subcategory":"Velosipedçilər",
+"englishSubcategory":"Cyclists",
+"description":"Sürücülər velosipedçiləri ötərkən əlavə yer buraxmalıdırlar, çünki təhlükələrdən qaçmaq və ya tarazlığı qorumaq üçün onlara yer lazım ola bilər."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Piyadalar, Velosipedçilər və Həssas Yol İstifadəçiləri",
+"subcategory":"Piyadalar",
+"englishSubcategory":"Pedestrians",
+"description":"Alış-veriş mərkəzlərinin və ya ictimai nəqliyyat dayanacaqlarının yaxınlığında sürücülər piyadaların hərəkətinin artması və qəfil keçidlərin baş verməsi ehtimalını nəzərə almalıdırlar. Bu ərazilərdə həmişə diqqətli olun."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Piyadalar, Velosipedçilər və Həssas Yol İstifadəçiləri",
+"subcategory":"Velosipedçilər",
+"englishSubcategory":"Cyclists",
+"description":"Velosipedçi işarələnmiş velosiped zolağında hərəkət edərkən, sürücülər icazə verilmədikcə və təhlükəsiz olmadıqca zolaqda hərəkət etməkdən çəkinməlidirlər."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Piyadalar, Velosipedçilər və Həssas Yol İstifadəçiləri",
+"subcategory":"Uşaqlar",
+"englishSubcategory":"Children",
+"description":"Sürücülər məktəblərin yaxınlığında xüsusilə diqqətli olmalıdırlar, çünki uşaqlar gözlənilməz hərəkətlər edə və nəqliyyat vasitələrini səhv qiymətləndirə bilərlər. Məktəb zonalarında sürəti azaldın."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Piyadalar, Velosipedçilər və Həssas Yol İstifadəçiləri",
+"subcategory":"Velosipedçilər",
+"englishSubcategory":"Cyclists",
+"description":"Əgər velosipedçi dar zolağın mərkəzində hərəkət edirsə, sürücülər onu keçmək üçün kifayət qədər yer olana qədər gözləməli və ya keçməyə məcbur etməməlidirlər."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Piyadalar, Velosipedçilər və Həssas Yol İstifadəçiləri",
+"subcategory":"Piyadalar",
+"englishSubcategory":"Pedestrians",
+"description":"Uşaqların təhlükəsizliyini təmin etmək üçün sürücülər bayraqlar asıldıqda və piyadalar olduqda uşaqlar üçün keçiddə dayanmalıdırlar."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Piyadalar, Velosipedçilər və Həssas Yol İstifadəçiləri",
+"subcategory":"Velosipedçilər",
+"englishSubcategory":"Cyclists",
+"description":"Sürücülər dönməzdən əvvəl həmişə \"ölü zonalar\"ı yoxlamalıdırlar, çünki velosipedçilər, xüsusən də şəhər yerlərində, görünməz şəkildə hərəkət edə bilərlər."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Piyadalar, Velosipedçilər və Həssas Yol İstifadəçiləri",
+"subcategory":"Yaşlılar və Əlillər",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Yaşlı piyadaların yolu keçməsi üçün əlavə vaxta ehtiyacı ola bilər, çünki onlar daha yavaş gedə və ya hərəkət problemləri ilə qarşılaşa bilərlər. Onlara təhlükəsiz şəkildə yolu keçmək üçün yer və vaxt verin."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Piyadalar, Velosipedçilər və Həssas Yol İstifadəçiləri",
+"subcategory":"Velosipedçilər",
+"englishSubcategory":"Cyclists",
+"description":"Velosipedçiləri yol ayrıclarına yaxınlaşarkən görmək çətin ola bilər və onlar tez hərəkət edə bilərlər. Velosipedçilərə həmişə təhlükəsiz şəkildə hərəkət etmək üçün yer və vaxt verin."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Xüsusi Vəziyyətlər və Yol Mühitləri",
+"subcategory":"Məktəb Zonaları",
+"englishSubcategory":"School Zones",
+"description":"Məktəb zonası sürət limitləri yalnız işarələrdə göstərilən vaxtlarda tətbiq olunur. Uşaqların təhlükəsizliyini təmin etmək üçün onlara əməl etdiyinizə əmin olun."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Xüsusi Vəziyyətlər və Yol Mühitləri",
+"subcategory":"Məktəb Zonaları",
+"englishSubcategory":"School Zones",
+"description":"Uşaqlar qəfil və gözlənilməz şəkildə peyda ola biləcəyi üçün sürücülər məktəb zonalarında uşaqlar görünməsə belə, sürətlərini azaltmalıdırlar."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Xüsusi Vəziyyətlər və Yol Mühitləri",
+"subcategory":"Yol işləri",
+"englishSubcategory":"Roadworks",
+"description":"Yol işlərinə yaxınlaşarkən, işçilərin və digər yol istifadəçilərinin təhlükəsizliyini təmin etmək üçün sürəti azaldın və müvəqqəti işarələrə əməl edin."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Xüsusi Vəziyyətlər və Yol Mühitləri",
+"subcategory":"Yol işləri",
+"englishSubcategory":"Roadworks",
+"description":"İşçilərin təhlükəsizliyini təmin etmək və yol şəraitindəki dəyişikliklərə uyğunlaşmaq üçün yol işləri zonalarında sürət həddi azaldılır."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Xüsusi Vəziyyətlər və Yol Mühitləri",
+"subcategory":"Kənd Yolları",
+"englishSubcategory":"Rural Roads",
+"description":"Kənd yollarında vəhşi heyvanlar gözlənilmədən yola daxil ola bilərlər. Kənd yerlərindən keçərkən həmişə dayanmağa və ya sürəti azaltmağa hazır olun."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Xüsusi Vəziyyətlər və Yol Mühitləri",
+"subcategory":"Kənd Yolları",
+"englishSubcategory":"Rural Roads",
+"description":"Bağlanmamış yollarda çox vaxt yol tutma və əyləc qabiliyyəti azalır. Sürücülər bağlanmamış səthlərdə hərəkət edərkən sürəti azaltmalıdırlar."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Xüsusi Vəziyyətlər və Yol Mühitləri",
+"subcategory":"Avtomagistrallar",
+"englishSubcategory":"Freeways",
+"description":"Əgər magistral yol çıxışını qaçırsanız, növbəti çıxışa qədər davam edin və təhlükəsiz şəkildə geri dönün. Magistral yolda dayanmağa və ya geri dönməyə çalışmayın."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Xüsusi Vəziyyətlər və Yol Mühitləri",
+"subcategory":"Avtomagistrallar",
+"englishSubcategory":"Freeways",
+"description":"Təcili hallar istisna olmaqla, avtomagistralda dayanmaq qanunsuzdur. Yol qəzası halında həmişə çiyin və ya çıxış rampasından istifadə edin."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Xüsusi Vəziyyətlər və Yol Mühitləri",
+"subcategory":"Hava Şərtləri",
+"englishSubcategory":"Weather Conditions",
+"description":"Güclü yağışda sürəti azaldın və məsafəni artırın. Yaş yollar dartma qüvvəsini azalda və dayanma məsafələrini uzada bilər."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Xüsusi Vəziyyətlər və Yol Mühitləri",
+"subcategory":"Hava Şərtləri",
+"englishSubcategory":"Weather Conditions",
+"description":"Duman görünürlüyü və dərinlik qavrayışını azaldır və bu da sürücülüyü xüsusilə təhlükəli edir. Dumanlı şəraitdə sürəti azaldın və məsafəni artırın."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Təcili yardım maşınları və polis istiqamətləri",
+"subcategory":"Təcili yardım avtomobili üçün yol",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Təcili yardım maşını işıqlar və/və ya sirenlə yaxınlaşdıqda, onun yolundan kənara çıxın və təhlükəsiz şəkildə keçməsinə icazə verin."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Təcili yardım maşınları və polis istiqamətləri",
+"subcategory":"Təcili yardım avtomobili üçün yol",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Əgər işıqforda olsanız və arxadan təcili yardım maşını yaxınlaşırsa, ən təhlükəsiz tədbir, təhlükəsiz və qanuni olduğu təqdirdə kənara çəkilməkdir, əks halda yerində qalıb mümkün olduqda onun keçməsinə icazə verin."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Təcili yardım maşınları və polis istiqamətləri",
+"subcategory":"Polis Təlimatları",
+"englishSubcategory":"Police Directions",
+"description":"Əgər polis məmuru sizi işarədən fərqli istiqamətləndirirsə, polis məmurunun göstərişinə əməl etməlisiniz."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Təcili yardım maşınları və polis istiqamətləri",
+"subcategory":"Təcili yardım avtomobili üçün yol",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Təcili yardım maşını yol kənarında işıqları yanıb-sönən halda saxlanılarsa, sürəti azaldın və ehtiyatla keçin, təhlükəsizdirsə, qarşıdan keçin."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Təcili yardım maşınları və polis istiqamətləri",
+"subcategory":"Polis Təlimatları",
+"englishSubcategory":"Police Directions",
+"description":"Polis müvəqqəti yol tıxacını yaradarsa, onların təlimatlarına və bütün dolama yollarına əməl edin."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Təcili yardım maşınları və polis istiqamətləri",
+"subcategory":"Təcili yardım avtomobili üçün yol",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Trafikdən daha sürətli keçmək üçün təcili yardım maşınının arxasınca yaxın getməməlisiniz."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Təcili yardım maşınları və polis istiqamətləri",
+"subcategory":"Təcili yardım avtomobili üçün yol",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Siren səsi eşidirsinizsə, amma hələ təcili yardım maşınını görə bilmirsinizsə, ayıq olun, güzgülərə baxın və təhlükəsiz hərəkət etməyə hazır olun."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Təcili yardım maşınları və polis istiqamətləri",
+"subcategory":"Polis Təlimatları",
+"englishSubcategory":"Police Directions",
+"description":"Yol işləri sahəsindəki yol hərəkəti nəzarətçisi təlimat verirsə, siz də ona tabe olmalısınız."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Təcili yardım maşınları və polis istiqamətləri",
+"subcategory":"Polis Təlimatları",
+"englishSubcategory":"Police Directions",
+"description":"Əgər polis sizə sürücülük vəsiqəsi yoxlaması üçün dayanmağı tapşırırsa, təlimata uyğun olaraq təhlükəsiz şəkildə dayanın."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Təcili yardım maşınları və polis istiqamətləri",
+"subcategory":"Təcili yardım avtomobili üçün yol",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Əgər tək zolaqda olsanız və arxadan təcili yardım maşını yaxınlaşırsa, siqnal verin və mümkün olduqda sola və ya təhlükəsiz mövqeyə keçin."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Təhlükəsizlik kəmərləri, uşaq təhlükəsizlik kəmərləri və sərnişinlər",
+"subcategory":"Təhlükəsizlik kəmərləri",
+"englishSubcategory":"Seatbelts",
+"description":"Sürücü 16 yaşdan kiçik bütün sərnişinlərin təhlükəsizlik kəmərindən istifadə etməsindən məsuldur."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Təhlükəsizlik kəmərləri, uşaq təhlükəsizlik kəmərləri və sərnişinlər",
+"subcategory":"Təhlükəsizlik kəmərləri",
+"englishSubcategory":"Seatbelts",
+"description":"Təhlükəsizlik kəməri, əgər varsa, nəqliyyat vasitəsi hərəkət edərkən hər zaman taxılmalıdır."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Təhlükəsizlik kəmərləri, uşaq təhlükəsizlik kəmərləri və sərnişinlər",
+"subcategory":"Uşaq məhdudiyyətləri",
+"englishSubcategory":"Child Restraints",
+"description":"Uşaq təhlükəsizlik kəməri tələb olunur, çünki o, uşağın bədən ölçüsünə və formasına böyüklər üçün nəzərdə tutulmuş təhlükəsizlik kəmərindən daha effektiv şəkildə uyğunlaşmaq və qorumaq üçün nəzərdə tutulub."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Təhlükəsizlik kəmərləri, uşaq təhlükəsizlik kəmərləri və sərnişinlər",
+"subcategory":"Sərnişinlər",
+"englishSubcategory":"Passengers",
+"description":"Sərnişinlərin ayaqları idarəetmə panelinə qoyması təhlükəlidir, çünki hava yastıqları və toqquşma qüvvələri ağır xəsarətlərə səbəb ola bilər."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Təhlükəsizlik kəmərləri, uşaq təhlükəsizlik kəmərləri və sərnişinlər",
+"subcategory":"Uşaq məhdudiyyətləri",
+"englishSubcategory":"Child Restraints",
+"description":"Uşaq oturacağının seçilməsi üçün ən təhlükəsiz ümumi qayda, təsdiqlənmiş və uşağın yaşına və ölçüsünə uyğun olan birindən istifadə etməkdir."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Təhlükəsizlik kəmərləri, uşaq təhlükəsizlik kəmərləri və sərnişinlər",
+"subcategory":"Təhlükəsizlik kəmərləri",
+"englishSubcategory":"Seatbelts",
+"description":"Təhlükəsizlik kəmərinin düzgün taxılmadığının ümumi bir əlaməti, kəmərin qoltuğun altında və ya arxada olmasıdır."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Təhlükəsizlik kəmərləri, uşaq təhlükəsizlik kəmərləri və sərnişinlər",
+"subcategory":"Sərnişinlər",
+"englishSubcategory":"Passengers",
+"description":"Əgər sərnişin sürücünün diqqətini yayındırırsa, ən təhlükəsiz hərəkət ondan dayanmağı və diqqətini yenidən sürücülüyə yönəltməyi xahiş etməkdir."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Təhlükəsizlik kəmərləri, uşaq təhlükəsizlik kəmərləri və sərnişinlər",
+"subcategory":"Uşaq məhdudiyyətləri",
+"englishSubcategory":"Child Restraints",
+"description":"Qəza zamanı körpəni qucağınıza almaq mümkün olmadığı üçün hərəkətdə olan nəqliyyat vasitəsində qucağınıza almaq təhlükəlidir."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Təhlükəsizlik kəmərləri, uşaq təhlükəsizlik kəmərləri və sərnişinlər",
+"subcategory":"Təhlükəsizlik kəmərləri",
+"englishSubcategory":"Seatbelts",
+"description":"Qəza zamanı qarın nahiyəsinin zədələnmə riskini azaltmaq üçün təhlükəsizlik kəməri diz hissəsi omba nahiyəsindən aşağı olmaqla taxılmalıdır."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Təhlükəsizlik kəmərləri, uşaq təhlükəsizlik kəmərləri və sərnişinlər",
+"subcategory":"Sərnişinlər",
+"englishSubcategory":"Passengers",
+"description":"Kabinədə təhlükəsiz olmayan əşyaların daşınmasının əsas risklərindən biri də onların toqquşma və ya qəfil dayanma zamanı mərmiyə çevrilə bilməsidir."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Nəqliyyat Vasitələrinin Təhlükəsizliyi, Qüsurları və Texniki Baxım Əsasları",
+"subcategory":"Təkərlər",
+"englishSubcategory":"Tyres",
+"description":"Düzgün təkər təzyiqi təhlükəsizlik üçün vacibdir, çünki o, tutuşa, əyləcə və sükan idarəetməsinə təsir göstərir."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Nəqliyyat Vasitələrinin Təhlükəsizliyi, Qüsurları və Texniki Baxım Əsasları",
+"subcategory":"Əyləclər",
+"englishSubcategory":"Brakes",
+"description":"Əyləc pedalınız süngər kimi hiss olunursa və ya adi haldan daha çox əyilirsə, bunu ciddi bir nasazlıq kimi qəbul edin və dərhal əyləcləri yoxlayın."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Nəqliyyat Vasitələrinin Təhlükəsizliyi, Qüsurları və Texniki Baxım Əsasları",
+"subcategory":"İşıqlar və Görünürlük",
+"englishSubcategory":"Lights & Visibility",
+"description":"Başqalarının görə biləcəyindən və göründüyündən əmin olmaq üçün bütün nəqliyyat vasitələrinin işıqlarını mütəmadi olaraq yoxlayın."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Nəqliyyat Vasitələrinin Təhlükəsizliyi, Qüsurları və Texniki Baxım Əsasları",
+"subcategory":"Sükan və asma",
+"englishSubcategory":"Steering & Suspension",
+"description":"Sükan probleminin xəbərdarlıq əlaməti qeyri-adi dartma, vibrasiya və ya sükan idarəetməsində çətinlik çəkmə ola bilər."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Nəqliyyat Vasitələrinin Təhlükəsizliyi, Qüsurları və Texniki Baxım Əsasları",
+"subcategory":"Şüşə və silənlər",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Aşınmış şüşə silən bıçaqlar təhlükəsizlik problemidir, çünki yağışda görünürlüyü azaldır."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Nəqliyyat Vasitələrinin Təhlükəsizliyi, Qüsurları və Texniki Baxım Əsasları",
+"subcategory":"Təkərlər",
+"englishSubcategory":"Tyres",
+"description":"Təkərlərin təhlükəli ola biləcəyinə dair ümumi bir əlamət, protektorun aşınması və ya qeyri-bərabər aşınmasıdır."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Nəqliyyat Vasitələrinin Təhlükəsizliyi, Qüsurları və Texniki Baxım Əsasları",
+"subcategory":"Güzgülər və Tənzimləmə",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Görünməyən zonaları azaltmaq və diqqəti artırmaq üçün avtomobil sürməzdən əvvəl güzgülər tənzimlənməlidir."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Nəqliyyat Vasitələrinin Təhlükəsizliyi, Qüsurları və Texniki Baxım Əsasları",
+"subcategory":"Əyləclər",
+"englishSubcategory":"Brakes",
+"description":"Əyləcləriniz cingilti səsləri çıxarırsa, onları mümkün qədər tez yoxlatdırın."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Nəqliyyat Vasitələrinin Təhlükəsizliyi, Qüsurları və Texniki Baxım Əsasları",
+"subcategory":"İşıqlar və Görünürlük",
+"englishSubcategory":"Lights & Visibility",
+"description":"Başqalarının sizi görə bilməsi üçün, görünürlük zəif olan yerlərdə işıqlardan istifadə edin."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Nəqliyyat Vasitələrinin Təhlükəsizliyi, Qüsurları və Texniki Baxım Əsasları",
+"subcategory":"Şüşə və silənlər",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Əgər ön şüşəniz görmə xəttinizdə ciddi şəkildə çatlayıbsa, daha irəli getməzdən əvvəl onu təmir edin və ya dəyişdirin."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Yük, Yedək və Ağır Nəqliyyat Vasitələri ilə bağlı Məlumatlılıq",
+"subcategory":"Yüklər",
+"englishSubcategory":"Loads",
+"description":"Yüklərin yerdəyişməsinin və ya düşməsinin və qəzaya səbəb olmasının qarşısını almaq üçün onları düzgün şəkildə bərkitmək lazımdır."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Yük, Yedək və Ağır Nəqliyyat Vasitələri ilə bağlı Məlumatlılıq",
+"subcategory":"Yüklər",
+"englishSubcategory":"Loads",
+"description":"Nəqliyyat vasitəsinin içərisindəki bərkidilməmiş yük qəfil əyləc zamanı mərmiyə çevrilə bilər və bu da əhəmiyyətli təhlükəsizlik riski yaradır."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Yük, Yedək və Ağır Nəqliyyat Vasitələri ilə bağlı Məlumatlılıq",
+"subcategory":"Yüklər",
+"englishSubcategory":"Loads",
+"description":"Həddindən artıq yüklənmiş nəqliyyat vasitəsini daşımaq, dayanma məsafəsini artırmaqla əyləcə təsir göstərir."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Yük, Yedək və Ağır Nəqliyyat Vasitələri ilə bağlı Məlumatlılıq",
+"subcategory":"Yüklər",
+"englishSubcategory":"Loads",
+"description":"Uzun əşyaları daşımağın ən təhlükəsiz yolu onları təhlükəsiz şəkildə bərkitməkdir ki, təhlükəli şəkildə hərəkət etməsinlər və ya çıxmasınlar."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Yük, Yedək və Ağır Nəqliyyat Vasitələri ilə bağlı Məlumatlılıq",
+"subcategory":"Yedəkləmə",
+"englishSubcategory":"Towing",
+"description":"Əlavə çəki əyləc effektivliyini azaltdığı üçün qoşqunun çəkilməsi dayanma məsafəsini artırır."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Yük, Yedək və Ağır Nəqliyyat Vasitələri ilə bağlı Məlumatlılıq",
+"subcategory":"Yedəkləmə",
+"englishSubcategory":"Towing",
+"description":"Qoşqunu çəkməzdən əvvəl, muftanın, işıqların və təhlükəsizlik zəncirinin etibarlı olduğundan əmin olun."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Yük, Yedək və Ağır Nəqliyyat Vasitələri ilə bağlı Məlumatlılıq",
+"subcategory":"Yedəkləmə",
+"englishSubcategory":"Towing",
+"description":"Qoşqu dönmə yolunun içərisində hərəkət etdiyi üçün yedəkləyərkən dönərkən əlavə yer saxlayın."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Yük, Yedək və Ağır Nəqliyyat Vasitələri ilə bağlı Məlumatlılıq",
+"subcategory":"Yüklər",
+"englishSubcategory":"Loads",
+"description":"Arxa görünüşünüzü bağlayan yük, nəqliyyat vasitələrinin hərəkətini izləmək barədə məlumatlılığı azaldır və qəza riskini artırır."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Yük, Yedək və Ağır Nəqliyyat Vasitələri ilə bağlı Məlumatlılıq",
+"subcategory":"Ağır Nəqliyyat Vasitələri",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Ağır nəqliyyat vasitələrinin daha böyük kütləsi əyləc məsafəsini artırdığı üçün dayanmaq üçün daha çox yerə ehtiyac duyur."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Yük, Yedək və Ağır Nəqliyyat Vasitələri ilə bağlı Məlumatlılıq",
+"subcategory":"Ağır Nəqliyyat Vasitələri",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Böyük bir yük maşınının arxasınca gedərkən, görünməyən zonaları və yük maşınlarının daha uzun dayanma məsafəsini nəzərə almaq üçün növbəti məsafəni artırın."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Lisenziyalaşdırma, L/P Plate Qaydaları və Praktik DKT Tələləri (VIC)",
+"subcategory":"Tələbə İcazəsi Qaydaları",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Viktoriya dövründə sürücülük təcrübəsi olan bir şəxs olaraq, yalnız yanınızda oturan müvafiq lisenziyalı sürücünün nəzarəti altında avtomobil idarə edə bilərsiniz."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Lisenziyalaşdırma, L/P Plate Qaydaları və Praktik DKT Tələləri (VIC)",
+"subcategory":"Tələbə İcazəsi Qaydaları",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Sürücülük təcrübəsi keçənlər L nişanlarını nəqliyyat vasitəsindəki digər şəxslərin hər zaman görə bilməsi üçün aydın şəkildə göstərməlidirlər."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Lisenziyalaşdırma, L/P Plate Qaydaları və Praktik DKT Tələləri (VIC)",
+"subcategory":"Tələbə İcazəsi Qaydaları",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Əgər nəzarətçi sürücünüz avtomobil idarə edərkən yuxuya gedərsə, təhlükəsiz şəkildə dayanın və lazımi nəzarət altında olana qədər davam etməyin."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Lisenziyalaşdırma, L/P Plate Qaydaları və Praktik DKT Tələləri (VIC)",
+"subcategory":"Mobil Telefonlar və Cihazlar",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Viktoriyada sürücülük təcrübəsi keçən bir şəxs olaraq, avtomobil idarə edərkən heç bir şəkildə mobil telefondan istifadə edə bilməzsiniz."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Lisenziyalaşdırma, L/P Plate Qaydaları və Praktik DKT Tələləri (VIC)",
+"subcategory":"Tələbə İcazəsi Qaydaları",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Əgər L nömrə nişanlarınız avtomobil idarə edərkən düşərsə, təhlükəsiz şəkildə dayanın və avtomobil idarə etməyə davam etməzdən əvvəl onları yenidən taxın."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Lisenziyalaşdırma, L/P Plate Qaydaları və Praktik DKT Tələləri (VIC)",
+"subcategory":"Nəzarət",
+"englishSubcategory":"Supervision",
+"description":"Tələbə nəzarət qaydalarının əsas təhlükəsizlik məqsədi təcrübəli sürücünün lazım olduqda yol göstərə və müdaxilə edə bilməsini təmin etməkdir."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Lisenziyalaşdırma, L/P Plate Qaydaları və Praktik DKT Tələləri (VIC)",
+"subcategory":"Şərtlər və Uyğunluq",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Əgər sürücülük təcrübəsi tələb olunan nəzarət olmadan sürücülük edərkən tutularsa, cərimələr və mümkün lisenziyalaşdırma nəticələri ehtimal olunur."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Lisenziyalaşdırma, L/P Plate Qaydaları və Praktik DKT Tələləri (VIC)",
+"subcategory":"Təhlükə Qavrayışı",
+"englishSubcategory":"Hazard Perception",
+"description":"Yol ayrıclarında sürücülük təcrübəsini öyrənənlər üçün ümumi bir tələ, girdiyiniz yolu keçən piyadaları yoxlamadan dönməkdir."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Lisenziyalaşdırma, L/P Plate Qaydaları və Praktik DKT Tələləri (VIC)",
+"subcategory":"Təhlükə Qavrayışı",
+"englishSubcategory":"Hazard Perception",
+"description":"İşıqfor yaşıl yansa belə, qarşıda nəqliyyatın hərəkəti məhdudlaşdırılıbsa və ya piyadalar yolu keçibsə, sürəti azaltmalı və ya dayanmalısınız."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Lisenziyalaşdırma, L/P Plate Qaydaları və Praktik DKT Tələləri (VIC)",
+"subcategory":"Tələbə İcazəsi Qaydaları",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Əgər öyrənənə nəzarət edirsinizsə, nəzarətçi sürücü həmişə ön sərnişin oturacağında oturmalıdır."
+}
+]

@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Cestna pravila in zakoni",
+"subcategory":"Splošna cestnoprometna pravila",
+"englishSubcategory":"General Road Rules",
+"description":"Vozniki morajo upoštevati splošna cestnoprometna pravila, da zagotovijo varnost in nemoten promet. To vključuje upoštevanje prometnih znakov, semaforjev in označb voznih pasov. Neupoštevanje teh pravil lahko povzroči nesreče in kazni."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Cestna pravila in zakoni",
+"subcategory":"Dajanje prednosti",
+"englishSubcategory":"Giving Way",
+"description":"Vozniki morajo dati prednost drugim vozilom ali pešcem na križiščih, krožiščih in prehodih za pešce ter na drugih mestih. Nedajanje prednosti je prekršek."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Cestna pravila in zakoni",
+"subcategory":"Uporaba voznega pasu",
+"englishSubcategory":"Lane Use",
+"description":"Vozniki morajo uporabljati ustrezne vozne pasove in upoštevati označbe voznih pasov. To vključuje pravila za menjavo voznih pasov, prehitevanje in uporabo kolesarskih ali avtobusnih pasov. Kršitve lahko povzročijo globe ali nesreče."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Cestna pravila in zakoni",
+"subcategory":"Tramvaji",
+"englishSubcategory":"Trams",
+"description":"Vozniki morajo biti seznanjeni s pravili za tramvaje, vključno s tem, da dajo prednost pešcem na postajališčih, ustavljajo pred tramvaji z odprtimi vrati in ne prehitevajo tramvajev v določenih pogojih."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Cestna pravila in zakoni",
+"subcategory":"Križišča",
+"englishSubcategory":"Intersections",
+"description":"Na križiščih morajo vozniki upoštevati pravilne postopke za dajanje prednosti in ustavljanje pred znaki stop ali semaforji. Razumevanje teh pravil je ključnega pomena za preprečevanje nesreč."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Cestna pravila in zakoni",
+"subcategory":"Obrnjenja v 180 cm",
+"englishSubcategory":"U-Turns",
+"description":"Polkrožni obračanji so dovoljeni le na križiščih ali kadar ni znaka, ki bi jih prepovedoval. Vozniki se morajo pred polkrožnim obračanjem prepričati, da je varno."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Cestna pravila in zakoni",
+"subcategory":"Omejitve hitrosti",
+"englishSubcategory":"Speed Limits",
+"description":"Vozniki morajo upoštevati objavljene omejitve hitrosti, da zagotovijo varnost na cesti. Prehitra vožnja lahko povzroči globe, izgubo vozniškega dovoljenja in povečano tveganje za nesreče."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Cestna pravila in zakoni",
+"subcategory":"Varnost pešcev",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Vozniki morajo dati prednost pešcem na prehodih za pešce in zagotoviti njihovo varnost v bližini peš con. Če se na prehodih za pešce ne ustavijo, je to prekršek."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Cestna pravila in zakoni",
+"subcategory":"Železniški prehodi",
+"englishSubcategory":"Railway Crossings",
+"description":"Vozniki se morajo ustaviti na železniških prehodih, ko utripajo luči ali so zapornice spuščene. Neupoštevanje teh signalov je resen prekršek in lahko povzroči globe in nesreče."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Cestna pravila in zakoni",
+"subcategory":"Reševalna vozila",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Vozniki morajo dati prednost reševalnim vozilom z uporabo utripajočih luči in siren ter zagotoviti, da ima vozilo prosto pot za premikanje skozi promet."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Prometni znaki in signali",
+"subcategory":"Predpisni znaki",
+"englishSubcategory":"Regulatory Signs",
+"description":"Predpisni znaki dajejo voznikom obvezna navodila, kot so omejitve hitrosti, omejitve zavijanja in znaki za prepoved vstopa. Upoštevanje teh znakov je zakonsko obvezno za ohranjanje varnosti in reda na cestah."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Prometni znaki in signali",
+"subcategory":"Opozorilni znaki",
+"englishSubcategory":"Warning Signs",
+"description":"Opozorilni znaki voznike opozarjajo na morebitne nevarnosti, kot so ostri ovinki, šolska območja in prehodi za divje živali. Ti znaki voznikom pomagajo prilagoditi vožnjo, da se izognejo nesrečam."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Prometni znaki in signali",
+"subcategory":"Znaki za omejitev hitrosti",
+"englishSubcategory":"Speed Signs",
+"description":"Znaki za omejitev hitrosti označujejo najvišjo ali najnižjo dovoljeno hitrost na cesti. Vozniki se morajo teh omejitev držati, da zagotovijo varne vozne razmere in se izognejo globam."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Prometni znaki in signali",
+"subcategory":"Semaforji",
+"englishSubcategory":"Traffic Lights",
+"description":"Semaforji uravnavajo pretok vozil in pešcev na križiščih. Rdeča pomeni ustavi, zelena pomeni naprej, rumena pa opozarja na pripravo na ustavitev."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Prometni znaki in signali",
+"subcategory":"Signali za pešce",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Semaforji za pešce označujejo, kdaj je varno za pešce prečkati cesto. Ti signali so običajno usklajeni s semaforji, da se zagotovi varnost pešcev."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Prometni znaki in signali",
+"subcategory":"Signali za nadzor voznega pasu",
+"englishSubcategory":"Lane Control Signals",
+"description":"Signali za nadzor voznega pasu se uporabljajo za označevanje, ali je vozni pas odprt ali zaprt. Ti signali se običajno uporabljajo na večpasovnih cestah in v predorih."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Prometni znaki in signali",
+"subcategory":"Znaki prepovedi parkiranja",
+"englishSubcategory":"No Parking Signs",
+"description":"Znaki za prepoved parkiranja označujejo območja, kjer je ustavljanje ali parkiranje prepovedano. To je običajno namenjeno zagotavljanju nemotenega poteka prometa in ohranjanju varnosti."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Prometni znaki in signali",
+"subcategory":"Enosmerni znaki",
+"englishSubcategory":"One-Way Signs",
+"description":"Enosmerni prometni znaki označujejo, da mora promet potekati samo v eno smer. Neupoštevanje teh znakov lahko povzroči nesreče in pravne posledice."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Prometni znaki in signali",
+"subcategory":"Znaki Stop",
+"englishSubcategory":"Stop Signs",
+"description":"Znaki Stop zahtevajo, da se vozniki popolnoma ustavijo in dajo prednost drugim vozilom ali pešcem, preden nadaljujejo vožnjo."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Prometni znaki in signali",
+"subcategory":"Znaki za prednost",
+"englishSubcategory":"Give Way Signs",
+"description":"Znaki za prednost voznikom naročajo, naj dajo prednost drugim udeležencem v prometu, bodisi pešcem bodisi vozilom, odvisno od situacije, da preprečijo nesreče."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Pravila hitrosti in razdalje",
+"subcategory":"Omejitve hitrosti",
+"englishSubcategory":"Speed Limits",
+"description":"Privzeta omejitev hitrosti v naseljenem območju v Viktoriji je 50 km/h, razen če ni drugače označeno. Vedno preverite, ali so postavljeni znaki, da se prepričate, da vozite znotraj zakonsko dovoljenih omejitev hitrosti."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Pravila hitrosti in razdalje",
+"subcategory":"Omejitve hitrosti",
+"englishSubcategory":"Speed Limits",
+"description":"V označenem šolskem območju je v času, navedenem na znaku, omejitev hitrosti zmanjšana na 40 km/h, da se zagotovi varnost otrok, ki prečkajo cesto."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Pravila hitrosti in razdalje",
+"subcategory":"Sledenje razdalji",
+"englishSubcategory":"Following Distance",
+"description":"Najmanjša varna razdalja za vozilom pred seboj je v idealnih pogojih vsaj dve sekundi. To omogoča dovolj časa za odziv, če se vozilo pred seboj nenadoma ustavi."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Pravila hitrosti in razdalje",
+"subcategory":"Omejitve hitrosti",
+"englishSubcategory":"Speed Limits",
+"description":"Pri prehitevanju tramvaja, ki je ustavljen na varnostnem območju, morate zmanjšati hitrost na 10 km/h, da zagotovite varnost potnikov, ki vstopajo ali izstopajo iz tramvaja."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Pravila hitrosti in razdalje",
+"subcategory":"Omejitve hitrosti",
+"englishSubcategory":"Speed Limits",
+"description":"Na podeželskih cestah brez prometnih znakov je privzeta omejitev hitrosti 100 km/h, razen če lokalni znaki ne določajo drugače. Za ohranitev varnosti prilagodite hitrost razmeram na cesti."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Pravila hitrosti in razdalje",
+"subcategory":"Sledenje razdalji",
+"englishSubcategory":"Following Distance",
+"description":"V mokrem vremenu povečajte razdaljo za vozilom na vsaj štiri sekunde. Mokre ceste zmanjšujejo oprijem, zato je za varno zaviranje potrebno več časa."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Pravila hitrosti in razdalje",
+"subcategory":"Omejitve hitrosti",
+"englishSubcategory":"Speed Limits",
+"description":"Vedno upoštevajte elektronske znake za omejitev hitrosti, ko so v uporabi. Ti znaki prilagajajo omejitve hitrosti glede na prometne razmere, vreme ali dogodke na cesti."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Pravila hitrosti in razdalje",
+"subcategory":"Zavorna pot",
+"englishSubcategory":"Stopping Distance",
+"description":"Z naraščanjem hitrosti se povečuje tudi zavorna pot, potrebna za varno ustavitev vozila. Vedno se prepričajte, da imate dovolj razdalje za odzivanje na nevarnosti."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Pravila hitrosti in razdalje",
+"subcategory":"Omejitve hitrosti",
+"englishSubcategory":"Speed Limits",
+"description":"V skupnih območjih je omejitev hitrosti običajno 10 km/h, da se zagotovi varnost pešcev in kolesarjev na teh območjih, kjer se srečujejo vozila in nemotorizirani udeleženci v prometu."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Pravila hitrosti in razdalje",
+"subcategory":"Sledenje razdalji",
+"englishSubcategory":"Following Distance",
+"description":"Vožnja za večjimi vozili, ki lahko ovirajo vaš pogled, je nevarna, ker zmanjšuje čas reakcije in zaviranja. Vedno vzdržujte varno razdaljo za vozilom."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Odgovornosti voznika",
+"subcategory":"Pravne obveznosti",
+"englishSubcategory":"Legal Obligations",
+"description":"Vozniki morajo izpolnjevati različne zakonske obveznosti, kot so nudenje pomoči po nesreči, izmenjava podatkov po nesrečah in poročanje o incidentih organom, kot to zahteva zakon."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Odgovornosti voznika",
+"subcategory":"Pozornost in nadzor",
+"englishSubcategory":"Attention & Control",
+"description":"Vozniki morajo ves čas imeti nadzor nad svojim vozilom, se izogibati motnjam in ostati osredotočeni, da zagotovijo svojo varnost in varnost drugih udeležencev v prometu."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Odgovornosti voznika",
+"subcategory":"Pravne obveznosti",
+"englishSubcategory":"Legal Obligations",
+"description":"V primeru nesreče, ki povzroči poškodbo, morajo vozniki po možnosti ustaviti in nuditi pomoč. Če se v takšnih situacijah ne ustavijo in ne pomagajo, je to kršitev zakona."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Odgovornosti voznika",
+"subcategory":"Pozornost in nadzor",
+"englishSubcategory":"Attention & Control",
+"description":"Za voznike je bistveno, da ves čas ohranijo popoln nadzor nad svojim vozilom, se ustrezno odzovejo na spreminjajoče se prometne razmere in ohranijo varno vozno okolje."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Odgovornosti voznika",
+"subcategory":"Pravne obveznosti",
+"englishSubcategory":"Legal Obligations",
+"description":"Vozniki morajo nesrečo prijaviti policiji, če je kdo poškodovan ali je materialna škoda, podatkov pa ni mogoče izmenjati. Če teh incidentov ne prijavite, se lahko naložijo kazni."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Odgovornosti voznika",
+"subcategory":"Obvladovanje utrujenosti",
+"englishSubcategory":"Fatigue Management",
+"description":"Utrujenost med vožnjo je resno tveganje. Vozniki se morajo zavedati zgodnjih znakov utrujenosti, kot sta zehanje in izguba koncentracije, ter ustrezno ukrepati za preprečevanje nesreč."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Odgovornosti voznika",
+"subcategory":"Pravne obveznosti",
+"englishSubcategory":"Legal Obligations",
+"description":"Vozniki morajo na zahtevo policije pokazati svoje vozniško dovoljenje. Zavrnitev predložitve dovoljenja lahko povzroči kazni ali nadaljnje pravne posledice."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Odgovornosti voznika",
+"subcategory":"Pozornost in nadzor",
+"englishSubcategory":"Attention & Control",
+"description":"Vozniki naj se izogibajo nepotrebni uporabi hupe, saj lahko prestraši ali zmoti druge udeležence v prometu. Hupo uporabljajte le za opozarjanje drugih na vašo prisotnost v situacijah, ko je to potrebno."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Odgovornosti voznika",
+"subcategory":"Obvladovanje utrujenosti",
+"englishSubcategory":"Fatigue Management",
+"description":"Če ste preveč utrujeni za nadaljevanje vožnje, je najvarnejši odziv, da se ustavite in spočijete, preden nadaljujete. Vožnja utrujena znatno poveča tveganje za nesreče."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Odgovornosti voznika",
+"subcategory":"Pravne obveznosti",
+"englishSubcategory":"Legal Obligations",
+"description":"Vozniki so odgovorni za to, da njihovi potniki varno sedijo in so pripeti. To vključuje zagotavljanje, da so otroci v ustreznih otroških avtosedežih in da odrasli uporabljajo varnostne pasove."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkohol, droge in zdravje",
+"subcategory":"Omejitve alkohola",
+"englishSubcategory":"Alcohol Limits",
+"description":"V Viktoriji morajo vozniki pripravniki in vozniki na preizkusu (P1 in P2) ves čas vzdrževati koncentracijo alkohola v krvi (BAC) 0,00. Vozniki s polnim vozniškim dovoljenjem imajo omejitev BAC 0,05, vendar je varneje, da med vožnjo sploh ne pijete."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkohol, droge in zdravje",
+"subcategory":"Učinki alkohola",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkohol poslabša presojo, reakcijski čas in koordinacijo, kar lahko znatno poveča tveganje za nesreče. Že majhne količine alkohola lahko zmanjšajo vašo sposobnost varne vožnje."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkohol, droge in zdravje",
+"subcategory":"Vožnja pod vplivom drog",
+"englishSubcategory":"Drug Driving",
+"description":"Vožnja pod vplivom drog, vključno z zdravili na recept, lahko poslabša vašo sposobnost vožnje, tudi če se ne počutite oslabljeno. Pomembno je, da se zavedate tveganj in se izogibate vožnji po uporabi drog."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkohol, droge in zdravje",
+"subcategory":"Varnost zdravil",
+"englishSubcategory":"Medication Safety",
+"description":"Preden začnete jemati novo zdravilo na recept, preverite, ali vpliva na vašo sposobnost vožnje, in upoštevajte zdravniška navodila. Nekatera zdravila lahko povzročijo zaspanost ali poslabšajo koncentracijo."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkohol, droge in zdravje",
+"subcategory":"Utrujenost in zdravje",
+"englishSubcategory":"Fatigue & Health",
+"description":"Utrujenost lahko zmanjša vašo sposobnost varne vožnje, tako kot alkohol ali droge. Pred vožnjo si zagotovite dovolj počitka in si vzemite odmore med dolgimi vožnjami, da zmanjšate tveganje za nesreče zaradi utrujenosti."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Alkohol, droge in zdravje",
+"subcategory":"Učinki alkohola",
+"englishSubcategory":"Alcohol Effects",
+"description":"Po pitju lahko le čas zmanjša količino alkohola v telesu. Kava, hladni tuši ali druge metode tega procesa ne pospešijo."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Alkohol, droge in zdravje",
+"subcategory":"Omejitve alkohola",
+"englishSubcategory":"Alcohol Limits",
+"description":"V Viktoriji morajo vsi vozniki, ki se učijo vožnje, in vozniki na poskusnem vozniškem dovoljenju vzdrževati koncentracijo alkohola v krvi 0,00. Za voznike s polnim vozniškim dovoljenjem je omejitev 0,05. Vendar pa je izogibanje alkoholu pred vožnjo vedno najvarnejša možnost."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Alkohol, droge in zdravje",
+"subcategory":"Vožnja pod vplivom drog",
+"englishSubcategory":"Drug Driving",
+"description":"V Viktoriji vas lahko kaznujejo za vožnjo z določenimi drogami v telesu, tudi če se ne počutite oslabljeni. Pod vplivom drog se zmanjša vaša sposobnost varne vožnje in poveča tveganje za nesreče."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Alkohol, droge in zdravje",
+"subcategory":"Varnost zdravil",
+"englishSubcategory":"Medication Safety",
+"description":"Pred vožnjo vedno preverite, ali nova zdravila lahko vplivajo na vašo sposobnost upravljanja vozila. Nekatera zdravila povzročajo zaspanost, poslabšajo reakcijski čas in zmanjšajo koncentracijo."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Alkohol, droge in zdravje",
+"subcategory":"Utrujenost in zdravje",
+"englishSubcategory":"Fatigue & Health",
+"description":"Utrujenost ima lahko podoben učinek na vožnjo kot alkohol. Upočasni vaš reakcijski čas, poslabša vašo presojo in zmanjša vašo sposobnost odločanja, kar poveča tveganje za nesreče."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Varne vozne prakse",
+"subcategory":"Zaznavanje nevarnosti",
+"englishSubcategory":"Hazard Perception",
+"description":"Ko se približujete potencialni nevarnosti, je najvarnejši odziv upočasniti in se pripraviti na ustavitev, če je potrebno. To vam daje čas, da ocenite situacijo in se ustrezno odzovete."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Varne vozne prakse",
+"subcategory":"Zaznavanje nevarnosti",
+"englishSubcategory":"Hazard Perception",
+"description":"Daleč pogled naprej med vožnjo je ključnega pomena za zgodnje odkrivanje morebitnih nevarnosti. To vam omogoča, da načrtujete svoj odziv in se izognete nenadnim reakcijam."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Varne vozne prakse",
+"subcategory":"Defenzivna vožnja",
+"englishSubcategory":"Defensive Driving",
+"description":"Defenzivna vožnja vključuje predvidevanje morebitnih napak drugih udeležencev v prometu in ohranjanje varne razdalje, da se prepreči trčenje."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Varne vozne prakse",
+"subcategory":"Razmere na cesti",
+"englishSubcategory":"Road Conditions",
+"description":"Če pnevmatike izgubijo oprijem na mokri cesti, popustite pedal za plin in vozite gladko. Nenadno zaviranje ali ostri zavoji lahko poslabšajo situacijo in povzročijo izgubo nadzora."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Varne vozne prakse",
+"subcategory":"Zaznavanje nevarnosti",
+"englishSubcategory":"Hazard Perception",
+"description":"Med vožnjo v prometu je najboljši položaj za opazovanje nevarnosti daleč pred seboj in ob straneh, ne le na avtomobilu pred vami. To vam pomaga, da prej predvidite tveganja."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Varne vozne prakse",
+"subcategory":"Defenzivna vožnja",
+"englishSubcategory":"Defensive Driving",
+"description":"Če vozilo vijuga po voznem pasu pred seboj, je najvarnejši odziv povečati razdaljo do vozila. To vam daje več časa za odziv, če se situacija poslabša."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Varne vozne prakse",
+"subcategory":"Razmere na cesti",
+"englishSubcategory":"Road Conditions",
+"description":"Cesta je pogosto najbolj spolzka v prvih nekaj minutah po dežju. V tem času bodite še posebej previdni, saj lahko olje in umazanija na cesti povečajo nevarnost."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Varne vozne prakse",
+"subcategory":"Nočna vožnja",
+"englishSubcategory":"Night Driving",
+"description":"Da bi ponoči zmanjšali bleščanje nasproti vozečih žarometov, poglejte rahlo proti levemu robu voznega pasu in po potrebi upočasnite. To pomaga preprečiti neposredno izpostavljenost močnim lučem."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Varne vozne prakse",
+"subcategory":"Defenzivna vožnja",
+"englishSubcategory":"Defensive Driving",
+"description":"Če vam voznik vozi preblizu, je najvarneje povečati razdaljo do vozila pred vami. To daje tako vam kot vozniku, ki vozi od zadaj, več prostora za reakcijo."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Varne vozne prakse",
+"subcategory":"Razmere na cesti",
+"englishSubcategory":"Road Conditions",
+"description":"Pri vožnji v meglo zmanjšajte hitrost in ohranjajte dodatno razdaljo med svojim vozilom in drugimi vozili. Megla močno zmanjša vidljivost in poveča tveganje za nesreče."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Križišča, zavoji in krožišča",
+"subcategory":"Dajanje prednosti",
+"englishSubcategory":"Giving Way",
+"description":"Na križiščih brez prometnih znakov ali semaforjev mora vozilo, ki se približuje z desne, dati prednost vozilu, ki prihaja z leve."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Križišča, zavoji in krožišča",
+"subcategory":"Zavoji",
+"englishSubcategory":"Turns",
+"description":"Ko zavijate desno na semaforju brez puščice za zavijanje desno, morate dati prednost nasproti vozečim vozilom in pešcem, preden nadaljujete vožnjo."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Križišča, zavoji in krožišča",
+"subcategory":"Krožišča",
+"englishSubcategory":"Roundabouts",
+"description":"Na krožišču imajo prednost vozila, ki so že v krožišču. Vozniki, ki vstopajo v krožišče, jim morajo dati prednost."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Križišča, zavoji in krožišča",
+"subcategory":"Zavoji",
+"englishSubcategory":"Turns",
+"description":"Pri zavijanju levo morate dati prednost pešcem, ki prečkajo cesto, na katero vstopate, in tako zagotoviti njihovo varnost."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Križišča, zavoji in krožišča",
+"subcategory":"Dajanje prednosti",
+"englishSubcategory":"Giving Way",
+"description":"Na križišču v obliki črke T mora vozilo na končni cesti dati prednost vozilom na nadaljevalni cesti."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Križišča, zavoji in krožišča",
+"subcategory":"Zavoji",
+"englishSubcategory":"Turns",
+"description":"Pri obračanju morate dati prednost vsem drugim vozilom in pešcem ter zagotoviti njihovo varnost med obračanjem."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Križišča, zavoji in krožišča",
+"subcategory":"Krožišča",
+"englishSubcategory":"Roundabouts",
+"description":"Pri izvozu iz krožišča dajte levi smernik tik pred izvozom, da o svojih namenih obvestite druge udeležence v prometu."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Križišča, zavoji in krožišča",
+"subcategory":"Dajanje prednosti",
+"englishSubcategory":"Giving Way",
+"description":"Pri vstopu na cesto z dovoza morate dati prednost vsem vozilom in pešcem na cesti, da preprečite nesreče."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Križišča, zavoji in krožišča",
+"subcategory":"Zavoji",
+"englishSubcategory":"Turns",
+"description":"Preden zavijete desno, postavite vozilo čim bližje sredini cestišča, da zagotovite varno in neovirano zavijanje."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Križišča, zavoji in krožišča",
+"subcategory":"Semaforji",
+"englishSubcategory":"Traffic Lights",
+"description":"Zelena puščica označuje, da lahko nadaljujete v smeri puščice, ne da bi dali prednost drugim udeležencem v prometu ali pešcem."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Cestne oznake, vozni pasovi in prehitevanje",
+"subcategory":"Uporaba voznega pasu",
+"englishSubcategory":"Lane Use",
+"description":"Neprekinjena enojna sredinska črta na splošno pomeni, da je ne smete prečkati, razen pri vstopu na cesto ali dovoz ali izstopu z nje."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Cestne oznake, vozni pasovi in prehitevanje",
+"subcategory":"Prehitevanje",
+"englishSubcategory":"Overtaking",
+"description":"Prehitevanje na levi je dovoljeno na večpasovni cesti, kadar promet poteka po ločenih označenih pasovih in je to varno."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Cestne oznake, vozni pasovi in prehitevanje",
+"subcategory":"Prehitevanje",
+"englishSubcategory":"Overtaking",
+"description":"Vozilo na levi strani na enopasovni cesti lahko prehitevate, če vozilo pred vami zavija desno in je to varno."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Cestne oznake, vozni pasovi in prehitevanje",
+"subcategory":"Uporaba voznega pasu",
+"englishSubcategory":"Lane Use",
+"description":"Preden menjate vozni pas, dajte smerokaz in se prepričajte, da je to varno. Tako zagotovite, da se drugi udeleženci v prometu zavedajo vaših namenov, in preprečite nesreče."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Cestne oznake, vozni pasovi in prehitevanje",
+"subcategory":"Cestne oznake",
+"englishSubcategory":"Road Markings",
+"description":"Naslikan prometni otok ali oznaka s ševronom pomeni, da po njem ne smete voziti, kar zagotavlja varno gibanje prometa."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Cestne oznake, vozni pasovi in prehitevanje",
+"subcategory":"Prehitevanje",
+"englishSubcategory":"Overtaking",
+"description":"Če niste prepričani, ali je prehitevanje varno, je najvarneje, da ne prehitevate. Preden se lotite prehitevanja, vedno ocenite situacijo."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Cestne oznake, vozni pasovi in prehitevanje",
+"subcategory":"Uporaba voznega pasu",
+"englishSubcategory":"Lane Use",
+"description":"Prekinjena sredinska črta pomeni, da jo lahko prečkate, če je to varno, kar omogoča prehitevanje ali menjavo voznega pasu."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Cestne oznake, vozni pasovi in prehitevanje",
+"subcategory":"Uporaba voznega pasu",
+"englishSubcategory":"Lane Use",
+"description":"Vožnja čez dva vozna pasova je dovoljena le, če to dovoljujejo oznake voznega pasu. V večini voznih razmer običajno ni varna ali dovoljena."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Cestne oznake, vozni pasovi in prehitevanje",
+"subcategory":"Prehitevanje",
+"englishSubcategory":"Overtaking",
+"description":"Če vozilo, ki ga prehitevate, začne pospeševati, je najvarnejši odziv, da prekinete prehitevanje, če je varno, in se umaknete."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Cestne oznake, vozni pasovi in prehitevanje",
+"subcategory":"Cestne oznake",
+"englishSubcategory":"Road Markings",
+"description":"Dvojna neprekinjena sredinska črta pomeni, da je v nobenem primeru ne smete prečkati ali sestopiti čeznjo, kar zagotavlja pretočnost in varnost prometa."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Pravila za ustavljanje, parkiranje in obcestne prometne prekrške",
+"subcategory":"Prepovedano ustavljanje in parkiranje",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Prepoved ustavljanja pomeni, da se sploh ne smete ustaviti, medtem ko prepoved parkiranja dovoljuje kratkotrajno ustavljanje za vstop ali izstop potnikov."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Pravila za ustavljanje, parkiranje in obcestne prometne prekrške",
+"subcategory":"Prepovedano ustavljanje in parkiranje",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"V območju prepovedi parkiranja se lahko ustavite le toliko časa, da poberete ali izstopite potnike."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Pravila za ustavljanje, parkiranje in obcestne prometne prekrške",
+"subcategory":"Parkiranje v bližini križišč",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Parkiranje v bližini križišča je pogosto omejeno, ker lahko ovira vidljivost in ustvarja nevarnosti za voznike in pešce."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Pravila za ustavljanje, parkiranje in obcestne prometne prekrške",
+"subcategory":"Prepovedano ustavljanje in parkiranje",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"V območju prepovedi ustavljanja se ne smete ustaviti, tudi če se odzivate na telefonski klic ali se morate hitro ustaviti."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Pravila za ustavljanje, parkiranje in obcestne prometne prekrške",
+"subcategory":"Proste poti",
+"englishSubcategory":"Clearways",
+"description":"Prosta cesta pomeni, da se na tej strani ceste ne smete ustavljati ali parkirati med njenim obratovalnim časom."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Pravila za ustavljanje, parkiranje in obcestne prometne prekrške",
+"subcategory":"Parkiranje v bližini prehodov za pešce",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Ustavljanje v bližini prehoda za pešce je nevarno, saj lahko skrije pešce pred bližajočimi se vozniki, kar poveča tveganje za nesreče."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Pravila za ustavljanje, parkiranje in obcestne prometne prekrške",
+"subcategory":"Ustavljanje zaradi varnosti",
+"englishSubcategory":"Stopping for Safety",
+"description":"Na območju prepovedi ustavljanja se lahko ustavite le, če to zahtevajo prometne razmere ali v nujnih primerih."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Pravila za ustavljanje, parkiranje in obcestne prometne prekrške",
+"subcategory":"Parkiranje na hribih",
+"englishSubcategory":"Parking on Hills",
+"description":"Pri parkiranju na klancu vedno zategnite ročno zavoro in zavarujte vozilo, da zmanjšate nevarnost prevračanja."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Pravila za ustavljanje, parkiranje in obcestne prometne prekrške",
+"subcategory":"Parkiranje v bližini križišč",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Ne parkirajte preblizu vogalu, saj lahko to zakrije pogled na prihajajoči promet in pešce ter povzroči nevarnosti."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Pravila za ustavljanje, parkiranje in obcestne prometne prekrške",
+"subcategory":"Prepovedano ustavljanje in parkiranje",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Znak »Prepovedano parkiranje« s prikazanimi časi pomeni, da omejitev velja le v času, prikazanem na znaku."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Pešci, kolesarji in ranljivi udeleženci v prometu",
+"subcategory":"Pešci",
+"englishSubcategory":"Pedestrians",
+"description":"Pri zavijanju morajo vozniki dati prednost pešcem, ki prečkajo cesto, na katero vstopajo. To velja tudi, če pešec ni na označenem prehodu za pešce."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Pešci, kolesarji in ranljivi udeleženci v prometu",
+"subcategory":"Kolesarji",
+"englishSubcategory":"Cyclists",
+"description":"Vozniki morajo pri prehitevanju kolesarjev zagotoviti dodaten prostor, saj ti morda potrebujejo prostor za izogibanje nevarnostim ali ohranjanje ravnotežja."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Pešci, kolesarji in ranljivi udeleženci v prometu",
+"subcategory":"Pešci",
+"englishSubcategory":"Pedestrians",
+"description":"V bližini nakupovalnih središč ali postajališč javnega prevoza naj vozniki pričakujejo povečano aktivnost pešcev in nenadna prečkanja ceste. Na teh območjih bodite vedno pozorni."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Pešci, kolesarji in ranljivi udeleženci v prometu",
+"subcategory":"Kolesarji",
+"englishSubcategory":"Cyclists",
+"description":"Ko kolesar vozi po označenem kolesarskem pasu, se morajo vozniki izogibati vožnji po tem pasu, razen če je to dovoljeno in varno."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Pešci, kolesarji in ranljivi udeleženci v prometu",
+"subcategory":"Otroci",
+"englishSubcategory":"Children",
+"description":"Vozniki morajo biti v bližini šol še posebej previdni, saj se otroci lahko obnašajo nepredvidljivo in napačno ocenijo promet. V šolskih conah upočasnite vožnjo."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Pešci, kolesarji in ranljivi udeleženci v prometu",
+"subcategory":"Kolesarji",
+"englishSubcategory":"Cyclists",
+"description":"Če kolesar vozi po sredini ozkega voznega pasu, naj vozniki počakajo, da je varno prehiteti in da je dovolj prostora, namesto da silijo mimo."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Pešci, kolesarji in ranljivi udeleženci v prometu",
+"subcategory":"Pešci",
+"englishSubcategory":"Pedestrians",
+"description":"Na otroškem prehodu se morajo vozniki ustaviti, ko so izobešene zastave in so prisotni pešci, da se zagotovi varnost otrok."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Pešci, kolesarji in ranljivi udeleženci v prometu",
+"subcategory":"Kolesarji",
+"englishSubcategory":"Cyclists",
+"description":"Vozniki naj pred zavijanjem vedno preverijo svoje mrtve kote, saj lahko kolesarji vozijo ob njih neopaženo, zlasti v urbanih območjih."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Pešci, kolesarji in ranljivi udeleženci v prometu",
+"subcategory":"Starejši in invalidi",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Starejši pešci bodo morda potrebovali več časa za prečkanje ceste, saj hodijo počasneje ali imajo težave z mobilnostjo. Dajte jim prostor in čas za varno prečkanje."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Pešci, kolesarji in ranljivi udeleženci v prometu",
+"subcategory":"Kolesarji",
+"englishSubcategory":"Cyclists",
+"description":"Kolesarje je pri približevanju križiščem morda težje videti in se lahko premikajo hitro. Kolesarjem vedno dajte prostor in čas za varno navigacijo."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Posebne situacije in cestna okolja",
+"subcategory":"Šolske cone",
+"englishSubcategory":"School Zones",
+"description":"Omejitve hitrosti v šolskem območju veljajo le v času, ki je prikazan na znakih. Za zagotovitev varnosti otrok jih upoštevajte."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Posebne situacije in cestna okolja",
+"subcategory":"Šolske cone",
+"englishSubcategory":"School Zones",
+"description":"Vozniki morajo v šolskih conah upočasniti vožnjo, tudi če ni vidnih otrok, saj se otroci lahko pojavijo nenadoma in nepredvidljivo."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Posebne situacije in cestna okolja",
+"subcategory":"Cestna dela",
+"englishSubcategory":"Roadworks",
+"description":"Ko se približujete cestnim delom, upočasnite in upoštevajte morebitne začasne znake, da zagotovite varnost delavcev in drugih udeležencev v prometu."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Posebne situacije in cestna okolja",
+"subcategory":"Cestna dela",
+"englishSubcategory":"Roadworks",
+"description":"Omejitve hitrosti so na območjih cestnih del znižane, da se zagotovi varnost delavcev in prilagodijo spremenjenim razmeram na cesti."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Posebne situacije in cestna okolja",
+"subcategory":"Podeželske ceste",
+"englishSubcategory":"Rural Roads",
+"description":"Na podeželskih cestah lahko divje živali nepričakovano vstopijo na cestišče. Med vožnjo skozi podeželska območja bodite vedno pripravljeni ustaviti ali upočasniti."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Posebne situacije in cestna okolja",
+"subcategory":"Podeželske ceste",
+"englishSubcategory":"Rural Roads",
+"description":"Neasfaltirane ceste imajo pogosto slabši oprijem in zavorno sposobnost. Vozniki naj pri vožnji po neutrjenih površinah zmanjšajo hitrost."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Posebne situacije in cestna okolja",
+"subcategory":"Avtoceste",
+"englishSubcategory":"Freeways",
+"description":"Če zgrešite izvoz z avtoceste, nadaljujte do naslednjega izvoza in se varno obrnite. Ne poskušajte se ustaviti ali voziti vzvratno na avtocesti."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Posebne situacije in cestna okolja",
+"subcategory":"Avtoceste",
+"englishSubcategory":"Freeways",
+"description":"Ustavljanje na avtocesti je nezakonito, razen v nujnih primerih. V primeru okvare vedno uporabite bankino ali izvozno rampo."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Posebne situacije in cestna okolja",
+"subcategory":"Vremenske razmere",
+"englishSubcategory":"Weather Conditions",
+"description":"V močnem dežju zmanjšajte hitrost in povečajte razdaljo za vozilom. Mokre ceste lahko zmanjšajo oprijem in podaljšajo zavorno pot."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Posebne situacije in cestna okolja",
+"subcategory":"Vremenske razmere",
+"englishSubcategory":"Weather Conditions",
+"description":"Megla zmanjšuje vidljivost in zaznavanje globine, zaradi česar je vožnja še posebej nevarna. V megli upočasnite in povečajte varnostno razdaljo."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Reševalna vozila in navodila za policijo",
+"subcategory":"Reševalno vozilo daje prednost",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Ko se približuje vozilo nujne medicinske pomoči z utripajočimi lučmi in/ali sireno, se mu umaknite s poti in mu pustite, da varno prehiti."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Reševalna vozila in navodila za policijo",
+"subcategory":"Reševalno vozilo daje prednost",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Če stojite na semaforju in se vam od zadaj približuje vozilo nujne medicinske pomoči, je najvarneje, da se umaknete, če je to varno in zakonito, sicer pa ostanite na mestu in ga pustite mimo, ko je le mogoče."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Reševalna vozila in navodila za policijo",
+"subcategory":"Policijska navodila",
+"englishSubcategory":"Police Directions",
+"description":"Če vas policist usmeri drugače od znaka, morate upoštevati navodila policista."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Reševalna vozila in navodila za policijo",
+"subcategory":"Reševalno vozilo daje prednost",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Če se vozilo za nujne primere ustavi z utripajočimi lučmi ob cesti, upočasnite in previdno prehitite vozilo, pri čemer se po možnosti umaknite, če je varno."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Reševalna vozila in navodila za policijo",
+"subcategory":"Policijska navodila",
+"englishSubcategory":"Police Directions",
+"description":"Če policija postavi začasno cestno zaporo, upoštevajte njihova navodila in morebitne obvoze."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Reševalna vozila in navodila za policijo",
+"subcategory":"Reševalno vozilo daje prednost",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Da bi se hitreje prebili skozi promet, ne smete tesno slediti vozilu za nujne primere."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Reševalna vozila in navodila za policijo",
+"subcategory":"Reševalno vozilo daje prednost",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Če slišite sireno, vendar še ne vidite reševalnega vozila, bodite pozorni, preverite ogledala in bodite pripravljeni na varno premikanje."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Reševalna vozila in navodila za policijo",
+"subcategory":"Policijska navodila",
+"englishSubcategory":"Police Directions",
+"description":"Če prometni regulator na cestnih delih daje navodila, ga morate ubogati."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Reševalna vozila in navodila za policijo",
+"subcategory":"Policijska navodila",
+"englishSubcategory":"Police Directions",
+"description":"Če vam policija naroči, da se ustavite zaradi preverjanja vozniškega dovoljenja, se varno ustavite v skladu z navodili."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Reševalna vozila in navodila za policijo",
+"subcategory":"Reševalno vozilo daje prednost",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Če vozite v enem voznem pasu in se vam od zadaj približuje vozilo nujne medicinske pomoči, dajte smerokaz in se po možnosti premaknite levo ali na varno mesto."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Varnostni pasovi, otroški sedeži in potniki",
+"subcategory":"Varnostni pasovi",
+"englishSubcategory":"Seatbelts",
+"description":"Voznik je odgovoren za to, da vsi potniki, mlajši od 16 let, nosijo varnostni pas."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Varnostni pasovi, otroški sedeži in potniki",
+"subcategory":"Varnostni pasovi",
+"englishSubcategory":"Seatbelts",
+"description":"Varnostni pas mora biti pripet ves čas vožnje, če je nameščen."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Varnostni pasovi, otroški sedeži in potniki",
+"subcategory":"Otroški varnostni sedeži",
+"englishSubcategory":"Child Restraints",
+"description":"Otroški varnostni pas je potreben, ker je zasnovan tako, da se prilega in zaščiti otrokovo telesno velikost in obliko učinkoviteje kot varnostni pas za odrasle."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Varnostni pasovi, otroški sedeži in potniki",
+"subcategory":"Potniki",
+"englishSubcategory":"Passengers",
+"description":"Za potnike ni varno postavljati nog na armaturno ploščo, saj lahko zračne blazine in sile trčenja povzročijo hude poškodbe."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Varnostni pasovi, otroški sedeži in potniki",
+"subcategory":"Otroški varnostni sedeži",
+"englishSubcategory":"Child Restraints",
+"description":"Najvarnejše splošno pravilo pri izbiri otroškega varnostnega sistema je uporaba tistega, ki je odobren in primeren za otrokovo starost in velikost."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Varnostni pasovi, otroški sedeži in potniki",
+"subcategory":"Varnostni pasovi",
+"englishSubcategory":"Seatbelts",
+"description":"Pogost znak, da varnostni pas ni pravilno pripet, je, če je varnostni pas pod roko ali za hrbtom."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Varnostni pasovi, otroški sedeži in potniki",
+"subcategory":"Potniki",
+"englishSubcategory":"Passengers",
+"description":"Če sopotnik zmoti voznika, je najvarneje, da ga prosite, naj se ustavi in se ponovno osredotoči na vožnjo."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Varnostni pasovi, otroški sedeži in potniki",
+"subcategory":"Otroški varnostni sedeži",
+"englishSubcategory":"Child Restraints",
+"description":"V premikajočem se vozilu ni varno držati dojenčka v naročju, ker ga v primeru trčenja ne morete varno držati."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Varnostni pasovi, otroški sedeži in potniki",
+"subcategory":"Varnostni pasovi",
+"englishSubcategory":"Seatbelts",
+"description":"Varnostni pas je treba uporabljati tako, da je trebušni del nizko čez boke, da se zmanjša tveganje poškodb trebuha v primeru trčenja."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Varnostni pasovi, otroški sedeži in potniki",
+"subcategory":"Potniki",
+"englishSubcategory":"Passengers",
+"description":"Ključno tveganje pri prevozu nezavarovanih predmetov v kabini je, da se lahko v primeru trčenja ali nenadnega zaviranja spremenijo v izstrelke."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Osnove varnosti, okvar in vzdrževanja vozil",
+"subcategory":"Pnevmatike",
+"englishSubcategory":"Tyres",
+"description":"Pravilen tlak v pnevmatikah je pomemben za varnost, saj vpliva na oprijem, zaviranje in krmiljenje."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Osnove varnosti, okvar in vzdrževanja vozil",
+"subcategory":"Zavore",
+"englishSubcategory":"Brakes",
+"description":"Če se vam zavorni pedal zdi mehak ali se pogreza bolj kot običajno, to obravnavajte kot resno napako in nemudoma preverite zavore."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Osnove varnosti, okvar in vzdrževanja vozil",
+"subcategory":"Luči in vidljivost",
+"englishSubcategory":"Lights & Visibility",
+"description":"Redno preverjajte vse luči vozila, da zagotovite, da lahko vidite in da vas vidijo drugi."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Osnove varnosti, okvar in vzdrževanja vozil",
+"subcategory":"Krmiljenje in vzmetenje",
+"englishSubcategory":"Steering & Suspension",
+"description":"Opozorilni znak težave s krmiljenjem lahko vključuje nenavadno vlečenje, vibracije ali težave pri krmiljenju."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Osnove varnosti, okvar in vzdrževanja vozil",
+"subcategory":"Vetrobransko steklo in brisalci",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Obrabljene metlice brisalcev predstavljajo varnostno tveganje, saj zmanjšujejo vidljivost v dežju."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Osnove varnosti, okvar in vzdrževanja vozil",
+"subcategory":"Pnevmatike",
+"englishSubcategory":"Tyres",
+"description":"Pogost znak, da pnevmatike morda niso varne, je obrabljena ali neenakomerno obrabljena tekalna plast."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Osnove varnosti, okvar in vzdrževanja vozil",
+"subcategory":"Ogledala in nastavitev",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Pred vožnjo je treba nastaviti ogledala, da zmanjšate mrtve kote in izboljšate vidljivost."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Osnove varnosti, okvar in vzdrževanja vozil",
+"subcategory":"Zavore",
+"englishSubcategory":"Brakes",
+"description":"Če vaše zavore oddajajo škripajoče zvoke, jih čim prej pregledajte."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Osnove varnosti, okvar in vzdrževanja vozil",
+"subcategory":"Luči in vidljivost",
+"englishSubcategory":"Lights & Visibility",
+"description":"Pri slabi vidljivosti uporabljajte žaromete, kadar je le-ta zmanjšana, da vas lahko drugi vidijo."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Osnove varnosti, okvar in vzdrževanja vozil",
+"subcategory":"Vetrobransko steklo in brisalci",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Če je vaše vetrobransko steklo močno razpokano v vašem vidnem polju, ga popravite ali zamenjajte, preden nadaljujete vožnjo."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Tovor, vleka in ozaveščenost o težkih vozilih",
+"subcategory":"Tovori",
+"englishSubcategory":"Loads",
+"description":"Tovor mora biti ustrezno pritrjen, da se prepreči njegovo premikanje ali padec in povzročitev trkov."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Tovor, vleka in ozaveščenost o težkih vozilih",
+"subcategory":"Tovori",
+"englishSubcategory":"Loads",
+"description":"Nezavarovan tovor v vozilu lahko med nenadnim zaviranjem postane izstrelek, kar predstavlja znatno varnostno tveganje."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Tovor, vleka in ozaveščenost o težkih vozilih",
+"subcategory":"Tovori",
+"englishSubcategory":"Loads",
+"description":"Prevoz preobremenjenega vozila vpliva na zaviranje, saj poveča zavorno pot."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Tovor, vleka in ozaveščenost o težkih vozilih",
+"subcategory":"Tovori",
+"englishSubcategory":"Loads",
+"description":"Najvarnejši način prenašanja dolgih predmetov je, da jih pritrdite, da se ne morejo premikati ali nevarno štrleti."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Tovor, vleka in ozaveščenost o težkih vozilih",
+"subcategory":"Vleka",
+"englishSubcategory":"Towing",
+"description":"Vleka prikolice poveča zavorno pot, ker dodatna teža zmanjša učinkovitost zaviranja."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Tovor, vleka in ozaveščenost o težkih vozilih",
+"subcategory":"Vleka",
+"englishSubcategory":"Towing",
+"description":"Pred vleko prikolice preverite, ali so sklopka, luči in varnostna veriga varno pritrjeni."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Tovor, vleka in ozaveščenost o težkih vozilih",
+"subcategory":"Vleka",
+"englishSubcategory":"Towing",
+"description":"Pri zavijanju med vleko pustite dodaten prostor, saj se prikolica premika znotraj poti zavijanja."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Tovor, vleka in ozaveščenost o težkih vozilih",
+"subcategory":"Tovori",
+"englishSubcategory":"Loads",
+"description":"Tovor, ki vam ovira pogled nazaj, zmanjšuje pozornost do prometa za vami in povečuje tveganje za nesreče."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Tovor, vleka in ozaveščenost o težkih vozilih",
+"subcategory":"Težka vozila",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Težka vozila potrebujejo več prostora za ustavljanje, ker njihova večja masa poveča zavorno pot."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Tovor, vleka in ozaveščenost o težkih vozilih",
+"subcategory":"Težka vozila",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Pri sledenju velikemu tovornjaku povečajte razdaljo za njim, da upoštevate mrtve kote in daljšo zavorno pot tovornjaka."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Licenciranje, pravila za L/P tablice in praktične DKT pasti (VIC)",
+"subcategory":"Pravila za dovoljenja za učence",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Kot vozniški učenec v Viktoriji lahko vozite avtomobil le pod nadzorom voznika z ustrezno licenco, ki sedi poleg vas."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Licenciranje, pravila za L/P tablice in praktične DKT pasti (VIC)",
+"subcategory":"Pravila za dovoljenja za učence",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Vozniki začetniki morajo jasno imeti svoje tablice L, da jih drugi vozniki v vozilu ves čas vidijo."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Licenciranje, pravila za L/P tablice in praktične DKT pasti (VIC)",
+"subcategory":"Pravila za dovoljenja za učence",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Če voznik, ki vas nadzoruje, med vožnjo zaspi, se varno ustavite in ne nadaljujte vožnje, dokler ni ustrezno nadzorovan."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Licenciranje, pravila za L/P tablice in praktične DKT pasti (VIC)",
+"subcategory":"Mobilni telefoni in naprave",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Kot voznik učenec v Viktoriji med vožnjo ne smete na noben način uporabljati mobilnega telefona."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Licenciranje, pravila za L/P tablice in praktične DKT pasti (VIC)",
+"subcategory":"Pravila za dovoljenja za učence",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Če vam med vožnjo odpadejo tablice L, se pred nadaljevanjem vožnje varno ustavite in jih namestite nazaj."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Licenciranje, pravila za L/P tablice in praktične DKT pasti (VIC)",
+"subcategory":"Nadzor",
+"englishSubcategory":"Supervision",
+"description":"Glavni varnostni namen pravil za nadzor učencev je zagotoviti, da lahko izkušen voznik vodi in po potrebi posreduje."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Licenciranje, pravila za L/P tablice in praktične DKT pasti (VIC)",
+"subcategory":"Pogoji in skladnost",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Če voznika učenca zalotijo pri vožnji brez potrebnega nadzora, so verjetne kazni in morebitne posledice za pridobitev vozniškega dovoljenja."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Licenciranje, pravila za L/P tablice in praktične DKT pasti (VIC)",
+"subcategory":"Zaznavanje nevarnosti",
+"englishSubcategory":"Hazard Perception",
+"description":"Pogosta past na križiščih za voznike začetnike je zavijanje, ne da bi preverili pešce, ki prečkajo cesto, na katero vstopajo."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Licenciranje, pravila za L/P tablice in praktične DKT pasti (VIC)",
+"subcategory":"Zaznavanje nevarnosti",
+"englishSubcategory":"Hazard Perception",
+"description":"Tudi če je luč na semaforju zelena, morate upočasniti ali se ustaviti, če je promet pred vami blokiran ali če pešci prečkajo cesto."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Licenciranje, pravila za L/P tablice in praktične DKT pasti (VIC)",
+"subcategory":"Pravila za dovoljenja za učence",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Če nadzirate učenca, mora nadzorni voznik vedno sedeti na sovoznikovem sedežu."
+}
+]

@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"一般的な道路交通法",
+"englishSubcategory":"General Road Rules",
+"description":"運転者は、安全と円滑な交通の流れを確保するために、一般的な道路交通規則を遵守する必要があります。これには、交通標識、信号、車線区分の遵守が含まれます。これらの規則を遵守しないと、事故や罰金につながる可能性があります。"
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"道を譲る",
+"englishSubcategory":"Giving Way",
+"description":"交差点、ラウンドアバウト、横断歩道などでは、運転者は他の車両や歩行者に道を譲る必要があります。道を譲らない場合は違反となります。"
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"車線の使用",
+"englishSubcategory":"Lane Use",
+"description":"運転者は適切な車線を使用し、車線標示を遵守しなければなりません。これには、車線変更、追い越し、自転車レーンやバスレーンの利用に関する規則が含まれます。違反は罰金や事故につながる可能性があります。"
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"路面電車",
+"englishSubcategory":"Trams",
+"description":"運転手は、路面電車の停留所で歩行者に道を譲ること、ドアが開いている路面電車の場合は停止すること、特定の状況では路面電車を追い越さないことなど、路面電車のルールを認識しておく必要があります。"
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"交差点",
+"englishSubcategory":"Intersections",
+"description":"交差点では、ドライバーは正しい手順で道を譲り、一時停止標識や信号で停止しなければなりません。これらのルールを理解することは、事故を防ぐために不可欠です。"
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"Uターン",
+"englishSubcategory":"U-Turns",
+"description":"Uターンは交差点またはUターンを禁止する標識がない場合のみ許可されます。Uターンを行う前に、必ず安全を確認してください。"
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"速度制限",
+"englishSubcategory":"Speed Limits",
+"description":"運転者は道路上の安全を確保するために、表示されている速度制限を守らなければなりません。速度超過は罰金、免許の取り消し、事故のリスク増加につながる可能性があります。"
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"歩行者の安全",
+"englishSubcategory":"Pedestrian Safety",
+"description":"運転者は横断歩道上の歩行者に道を譲り、歩行者専用区域付近では歩行者の安全を確保しなければなりません。横断歩道で歩行者のために停止しなかった場合、違反となります。"
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"踏切",
+"englishSubcategory":"Railway Crossings",
+"description":"踏切では、信号が点滅しているとき、または遮断機が下りているときは、運転者は必ず停止しなければなりません。これらの信号を無視することは重大な違反であり、罰金や事故につながる可能性があります。"
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"緊急車両",
+"englishSubcategory":"Emergency Vehicles",
+"description":"運転手は、点滅灯とサイレンを使用して緊急車両に道を譲り、車両が交通の流れの中で移動するための明確な経路を確保する必要があります。"
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"規制標識",
+"englishSubcategory":"Regulatory Signs",
+"description":"規制標識は、速度制限、右左折禁止、進入禁止など、運転者への義務的な指示を示します。道路上の安全と秩序を維持するために、これらの標識に従うことは法律で義務付けられています。"
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"警告サイン",
+"englishSubcategory":"Warning Signs",
+"description":"警告標識は、急カーブ、スクールゾーン、野生動物の横断など、潜在的な危険をドライバーに警告します。これらの標識は、ドライバーが事故を回避するために運転を調整するのに役立ちます。"
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"速度標識",
+"englishSubcategory":"Speed Signs",
+"description":"速度標識は、道路上で許可されている最高速度または最低速度を示しています。運転者は、安全な運転を確保し、罰金を回避するために、これらの制限を遵守する必要があります。"
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"信号機",
+"englishSubcategory":"Traffic Lights",
+"description":"信号は交差点における車両と歩行者の流れを制御します。赤は停止、緑は進行、黄色は停止準備を促す警告です。"
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"歩行者用信号",
+"englishSubcategory":"Pedestrian Signals",
+"description":"歩行者用信号は、歩行者が道路を安全に横断できることを示します。これらの信号は通常、歩行者の安全を確保するために信号機と連動しています。"
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"車線制御信号",
+"englishSubcategory":"Lane Control Signals",
+"description":"車線制御信号は、車線が開いているか閉じているかを示すために使用されます。これらの信号は、通常、複数車線の道路やトンネル内で使用されます。"
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"駐車禁止標識",
+"englishSubcategory":"No Parking Signs",
+"description":"駐車禁止標識は、停車または駐車が禁止されている区域を示しています。これは通常、交通の流れを円滑にし、安全を確保するためです。"
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"一方通行標識",
+"englishSubcategory":"One-Way Signs",
+"description":"一方通行の標識は、交通が一方通行であることを示します。これらの標識を無視すると、事故や法的措置につながる可能性があります。"
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"一時停止標識",
+"englishSubcategory":"Stop Signs",
+"description":"一時停止の標識では、運転者は完全に停止し、他の車両や歩行者に道を譲ってから進む必要があります。"
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"譲歩標識",
+"englishSubcategory":"Give Way Signs",
+"description":"譲歩標識は、事故を防ぐために、状況に応じて運転者に歩行者または車両のいずれか他の道路利用者に道を譲るよう指示します。"
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"速度制限",
+"englishSubcategory":"Speed Limits",
+"description":"ビクトリア州の市街地では、別途標識がない限り、デフォルトの制限速度は時速50キロです。必ず標識を確認し、法定速度内で運転してください。"
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"速度制限",
+"englishSubcategory":"Speed Limits",
+"description":"標識のある学校区域では、標識に指定された時間帯に道路を横断する児童の安全を確保するため、制限速度が時速 40 キロメートルに制限されます。"
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"追従距離",
+"englishSubcategory":"Following Distance",
+"description":"理想的な状況下では、安全な車間距離は前方車両から少なくとも2秒離れています。これにより、前方車両が急停止した場合でも、十分な対応時間を確保できます。"
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"速度制限",
+"englishSubcategory":"Speed Limits",
+"description":"安全区域で停車中の路面電車を通過するときは、乗降客の安全を確保するため、速度を時速 10 キロメートルに減速しなければなりません。"
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"速度制限",
+"englishSubcategory":"Speed Limits",
+"description":"速度標識のない地方道路では、地域の標識で別途指定がない限り、デフォルトの制限速度は時速100キロメートルです。安全を確保するため、道路状況に合わせて速度を調整してください。"
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"追従距離",
+"englishSubcategory":"Following Distance",
+"description":"雨天時は、車間距離を少なくとも4秒に広げてください。濡れた路面ではトラクションが低下するため、安全に停止するにはより長い時間が必要になります。"
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"速度制限",
+"englishSubcategory":"Speed Limits",
+"description":"電子式可変速度制限標識が作動中は、必ずそれに従ってください。これらの標識は、交通状況、天候、または道路上の事故に基づいて速度制限を調整します。"
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"停止距離",
+"englishSubcategory":"Stopping Distance",
+"description":"速度が上がると、車を安全に停止させるために必要な停止距離も長くなります。常に、危険に対処できるよう十分な車間距離を確保してください。"
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"速度制限",
+"englishSubcategory":"Speed Limits",
+"description":"共用ゾーンでは、車両と非自動車道路利用者が相互に作用するエリアで歩行者と自転車利用者の安全を確保するため、制限速度は通常 10 km/h です。"
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"追従距離",
+"englishSubcategory":"Following Distance",
+"description":"追突は反応時間とブレーキ時間を短縮するため危険です。特に視界を遮る可能性のある大型車の後ろを走行する場合は、常に安全な車間距離を保ってください。"
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"法的義務",
+"englishSubcategory":"Legal Obligations",
+"description":"ドライバーは、事故後の援助の提供、衝突後の詳細の交換、法律で義務付けられている当局への事故の報告など、さまざまな法的義務を果たさなければなりません。"
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"注意と制御",
+"englishSubcategory":"Attention & Control",
+"description":"運転者は、常に車両を制御し、気を散らさず、自分自身と他の道路利用者の安全を確保するために集中力を維持する必要があります。"
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"法的義務",
+"englishSubcategory":"Legal Obligations",
+"description":"衝突により負傷者が出た場合、運転者は可能な限り停止し、救助を行う必要があります。このような状況で停止して救助を行わないことは、法律違反となります。"
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"注意と制御",
+"englishSubcategory":"Attention & Control",
+"description":"ドライバーは常に車両を完全に制御し、変化する交通状況に適切に対応し、安全な運転環境を維持することが重要です。"
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"法的義務",
+"englishSubcategory":"Legal Obligations",
+"description":"負傷者や物的損害が発生し、詳細を交換できない場合は、運転者は警察に事故を報告しなければなりません。報告を怠ると、罰則が科せられる可能性があります。"
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"疲労管理",
+"englishSubcategory":"Fatigue Management",
+"description":"運転中の疲労は深刻なリスクとなります。運転者は、あくびや集中力の低下といった疲労の初期兆候を認識し、適切な行動をとって事故を防ぐ必要があります。"
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"法的義務",
+"englishSubcategory":"Legal Obligations",
+"description":"運転者は警察の要請があった場合、運転免許証を提示しなければなりません。提示を拒否した場合、罰金やさらなる法的措置が科せられる可能性があります。"
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"注意と制御",
+"englishSubcategory":"Attention & Control",
+"description":"運転者は、他の道路利用者を驚かせたり、注意をそらしたりする可能性があるため、不必要にクラクションを鳴らさないようにしてください。クラクションは、必要な場合にのみ、他の運転者に自分の存在を知らせるために使用してください。"
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"疲労管理",
+"englishSubcategory":"Fatigue Management",
+"description":"運転を続けるのが辛すぎると感じたら、最も安全な対応は、運転を再開する前に停止して休憩することです。疲労した状態で運転すると、事故のリスクが大幅に高まります。"
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"法的義務",
+"englishSubcategory":"Legal Obligations",
+"description":"運転者は、乗客が安全に座席に座り、シートベルトを着用していることを確認する責任があります。これには、子供が適切なチャイルドシートに座っていること、大人がシートベルトを着用していることの確認も含まれます。"
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"アルコール、薬物、健康",
+"subcategory":"アルコール制限",
+"englishSubcategory":"Alcohol Limits",
+"description":"ビクトリア州では、教習生および仮免許取得者(P1およびP2)は、常に血中アルコール濃度(BAC)を0.00以下に維持する必要があります。正規免許取得者のBAC制限は0.05ですが、運転中は飲酒しない方が安全です。"
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"アルコール、薬物、健康",
+"subcategory":"アルコールの影響",
+"englishSubcategory":"Alcohol Effects",
+"description":"アルコールは判断力、反応時間、協調性を低下させ、事故のリスクを大幅に高めます。少量のアルコールでも、安全運転能力を低下させる可能性があります。"
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"アルコール、薬物、健康",
+"subcategory":"薬物運転",
+"englishSubcategory":"Drug Driving",
+"description":"処方薬を含む薬物の影響下での運転は、たとえ運転能力に問題がないと感じていても、運転能力を低下させる可能性があります。リスクを認識し、薬物使用後の運転を避けることが重要です。"
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"アルコール、薬物、健康",
+"subcategory":"医薬品の安全性",
+"englishSubcategory":"Medication Safety",
+"description":"新しい処方薬を服用する前に、運転能力に影響がないか確認し、医師の指示に従ってください。薬によっては、眠気を引き起こしたり、集中力を低下させたりすることがあります。"
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"アルコール、薬物、健康",
+"subcategory":"疲労と健康",
+"englishSubcategory":"Fatigue & Health",
+"description":"疲労は、アルコールや薬物と同様に、安全運転能力を低下させる可能性があります。運転前には十分な休息を取り、長距離運転中は休憩を取ることで、疲労に起因する事故のリスクを軽減できます。"
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"アルコール、薬物、健康",
+"subcategory":"アルコールの影響",
+"englishSubcategory":"Alcohol Effects",
+"description":"飲酒後は、体内のアルコール量を減らすには時間をかけるしかありません。コーヒーや冷水シャワーなどの方法では、このプロセスを早めることはできません。"
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"アルコール、薬物、健康",
+"subcategory":"アルコール制限",
+"englishSubcategory":"Alcohol Limits",
+"description":"ビクトリア州では、すべての教習生および仮免許取得者は血中アルコール濃度(BAC)を0.00以下に維持する必要があります。正規免許取得者の場合、BAC制限は0.05です。しかし、運転前に飲酒を避けることが常に最も安全な選択肢です。"
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"アルコール、薬物、健康",
+"subcategory":"薬物運転",
+"englishSubcategory":"Drug Driving",
+"description":"ビクトリア州では、特定の薬物を体内に摂取した状態で運転すると、たとえ運転能力に異常を感じていなくても、罰せられる可能性があります。薬物の影響は安全運転能力に影響を与え、事故のリスクを高めます。"
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"アルコール、薬物、健康",
+"subcategory":"医薬品の安全性",
+"englishSubcategory":"Medication Safety",
+"description":"運転する前に、新しい薬が運転能力に影響を与える可能性がないか必ず確認してください。薬の中には、眠気、反応時間の低下、集中力の低下を引き起こすものがあります。"
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"アルコール、薬物、健康",
+"subcategory":"疲労と健康",
+"englishSubcategory":"Fatigue & Health",
+"description":"疲労はアルコールと同様に運転に影響を与える可能性があります。反応時間が遅くなり、判断力が鈍り、意思決定能力が低下し、事故のリスクが高まります。"
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"安全運転の実践",
+"subcategory":"危険認識",
+"englishSubcategory":"Hazard Perception",
+"description":"潜在的な危険に近づいたとき、最も安全な対応は速度を落とし、必要に応じて停止する準備をすることです。これにより、状況を評価し、適切な対応をとる時間を確保できます。"
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"安全運転の実践",
+"subcategory":"危険認識",
+"englishSubcategory":"Hazard Perception",
+"description":"運転中は前方をよく確認することが、潜在的な危険を早期に発見するために不可欠です。これにより、対応を計画し、突然の反応を避けることができます。"
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"安全運転の実践",
+"subcategory":"守備運転",
+"englishSubcategory":"Defensive Driving",
+"description":"防御運転には、他の道路利用者の潜在的なミスを予測し、衝突を避けるために安全な距離を維持することが含まれます。"
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"安全運転の実践",
+"subcategory":"道路状況",
+"englishSubcategory":"Road Conditions",
+"description":"濡れた路面でタイヤのグリップが失われた場合は、アクセルを緩めてスムーズにハンドルを切ってください。急ブレーキや急旋回は状況を悪化させ、制御不能につながる可能性があります。"
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"安全運転の実践",
+"subcategory":"危険認識",
+"englishSubcategory":"Hazard Perception",
+"description":"交通渋滞の中を運転する際、危険を察知する最適な位置は、前方の車だけに注目するのではなく、はるか前方と左右の視界を確保することです。そうすることで、より早くリスクを予測できるようになります。"
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"安全運転の実践",
+"subcategory":"守備運転",
+"englishSubcategory":"Defensive Driving",
+"description":"前方の車が車線を蛇行している場合、最も安全な対応は車間距離を広げることです。これにより、状況が悪化した場合でも、より多くの時間で対応できます。"
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"安全運転の実践",
+"subcategory":"道路状況",
+"englishSubcategory":"Road Conditions",
+"description":"雨が降った直後の数分間は、道路が最も滑りやすいことがよくあります。路面に油やゴミが付着すると、さらに危険な状態になる可能性があるため、この時間帯は特に注意してください。"
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"安全運転の実践",
+"subcategory":"夜間運転",
+"englishSubcategory":"Night Driving",
+"description":"夜間に対向車のヘッドライトの眩しさを抑えるには、車線の左端を少し確認し、必要に応じて減速してください。こうすることで、明るいヘッドライトの直撃を避けることができます。"
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"安全運転の実践",
+"subcategory":"守備運転",
+"englishSubcategory":"Defensive Driving",
+"description":"後ろから追いかけてくるドライバーが近すぎる場合、最も安全な行動は、前の車との車間距離を広げることです。そうすることで、あなたと後ろから追いかけてくるドライバーの両方が反応する余裕が生まれます。"
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"安全運転の実践",
+"subcategory":"道路状況",
+"englishSubcategory":"Road Conditions",
+"description":"霧の中で運転する際は、速度を落とし、他の車両との車間距離を十分に保ってください。霧は視界を著しく低下させ、事故のリスクを高めます。"
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"交差点、ターン、ラウンドアバウト",
+"subcategory":"道を譲る",
+"englishSubcategory":"Giving Way",
+"description":"標識や信号のない交差点では、右側から来る車両は左側から来る車両に道を譲らなければなりません。"
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"交差点、ターン、ラウンドアバウト",
+"subcategory":"ターン",
+"englishSubcategory":"Turns",
+"description":"右折矢印のない信号で右折する場合は、進む前に対向車や歩行者に道を譲らなければなりません。"
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"交差点、ターン、ラウンドアバウト",
+"subcategory":"ラウンドアバウト",
+"englishSubcategory":"Roundabouts",
+"description":"ラウンドアバウトでは、すでにラウンドアバウト内にいる車両が優先されます。ラウンドアバウトに進入する車両は、それらの車両に道を譲らなければなりません。"
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"交差点、ターン、ラウンドアバウト",
+"subcategory":"ターン",
+"englishSubcategory":"Turns",
+"description":"左折するときは、進入する道路を横断する歩行者に道を譲り、その安全を確保しなければなりません。"
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"交差点、ターン、ラウンドアバウト",
+"subcategory":"道を譲る",
+"englishSubcategory":"Giving Way",
+"description":"T 字路では、終端道路上の車両は継続道路上の車両に道を譲らなければなりません。"
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"交差点、ターン、ラウンドアバウト",
+"subcategory":"ターン",
+"englishSubcategory":"Turns",
+"description":"U ターンをするときは、他のすべての車両と歩行者に道を譲り、曲がる間は彼らの安全を確保する必要があります。"
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"交差点、ターン、ラウンドアバウト",
+"subcategory":"ラウンドアバウト",
+"englishSubcategory":"Roundabouts",
+"description":"ラウンドアバウトを出るときは、出る直前に左折の合図を出して、他の道路利用者に自分の意図を知らせます。"
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"交差点、ターン、ラウンドアバウト",
+"subcategory":"道を譲る",
+"englishSubcategory":"Giving Way",
+"description":"車道から道路に入るときは、事故を防ぐために、道路上のすべての車両と歩行者に道を譲る必要があります。"
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"交差点、ターン、ラウンドアバウト",
+"subcategory":"ターン",
+"englishSubcategory":"Turns",
+"description":"右折する前に、車を道路の中央にできるだけ近づけて、安全でスムーズに曲がれるようにしてください。"
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"交差点、ターン、ラウンドアバウト",
+"subcategory":"信号機",
+"englishSubcategory":"Traffic Lights",
+"description":"緑の矢印は、他の交通や歩行者に道を譲ることなく、矢印の方向に進むことができることを示します。"
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線の使用",
+"englishSubcategory":"Lane Use",
+"description":"通常、連続した単一のセンターラインは、道路または私道に出入りする場合を除いて、そのラインを越えてはならないことを意味します。"
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"道路標示、車線、追い越し",
+"subcategory":"追い越し",
+"englishSubcategory":"Overtaking",
+"description":"複数車線の道路では、交通が別々の車線を走行しており、安全であれば、左側からの追い越しが許可されます。"
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"道路標示、車線、追い越し",
+"subcategory":"追い越し",
+"englishSubcategory":"Overtaking",
+"description":"前方の車両が右折していて、安全な場合は、片側一車線の道路で左側の車両を追い越すことができます。"
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線の使用",
+"englishSubcategory":"Lane Use",
+"description":"車線変更をする前に、ウィンカーを出し、安全を確認してください。そうすることで、他の道路利用者があなたの意図を理解し、事故を防ぐことができます。"
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"道路標示、車線、追い越し",
+"subcategory":"道路標示",
+"englishSubcategory":"Road Markings",
+"description":"ペイントされた交通島、またはV字型のマークは、その上を運転してはならないことを示し、交通の安全な流れを確保します。"
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"道路標示、車線、追い越し",
+"subcategory":"追い越し",
+"englishSubcategory":"Overtaking",
+"description":"追い越しが安全かどうかわからない場合は、追い越さないことが最も安全な行動です。行動を起こす前に、必ず状況を評価してください。"
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線の使用",
+"englishSubcategory":"Lane Use",
+"description":"センターラインが破線で示されている場合は、安全であればセンターラインを越えて追い越しや車線変更ができることを意味します。"
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線の使用",
+"englishSubcategory":"Lane Use",
+"description":"2車線をまたぐ走行は、車線区分が許可している場合のみ合法です。通常、ほとんどの運転状況では安全ではなく、許可もされません。"
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"道路標示、車線、追い越し",
+"subcategory":"追い越し",
+"englishSubcategory":"Overtaking",
+"description":"追い越し先の車両がスピードを上げ始めた場合、最も安全な対応は、安全であれば追い越しを中止して後退することです。"
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"道路標示、車線、追い越し",
+"subcategory":"道路標示",
+"englishSubcategory":"Road Markings",
+"description":"二重の連続したセンターラインは、いかなる状況でもそのラインを横切ったりまたいだりしてはならないことを意味し、交通の流れと安全を確保します。"
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"停止、駐車、路側帯のルール",
+"subcategory":"駐車禁止",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"「停車禁止」は絶対に停車してはならないことを意味しますが、「駐車禁止」は乗降のために短時間の停車が許可されます。"
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"停止、駐車、路側帯のルール",
+"subcategory":"駐車禁止",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"駐車禁止区域では、乗客を乗降させるために必要な時間のみ停車できます。"
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"停止、駐車、路側帯のルール",
+"subcategory":"交差点付近の駐車",
+"englishSubcategory":"Parking Near Intersections",
+"description":"交差点付近での駐車は、視界を遮り、運転手や歩行者に危険を及ぼす可能性があるため、制限されることが多いです。"
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"停止、駐車、路側帯のルール",
+"subcategory":"駐車禁止",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"電話に出たり、急停車する必要がある場合でも、停車禁止区域内では停車できません。"
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"停止、駐車、路側帯のルール",
+"subcategory":"クリアウェイズ",
+"englishSubcategory":"Clearways",
+"description":"クリアウェイとは、その道路の営業時間中にその側に停車したり駐車したりしてはならないことを意味します。"
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"停止、駐車、路側帯のルール",
+"subcategory":"交差点付近の駐車",
+"englishSubcategory":"Parking Near Crossings",
+"description":"横断歩道の近くで停止すると、歩行者が接近するドライバーから隠れてしまう可能性があり、事故のリスクが高まるため危険です。"
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"停止、駐車、路側帯のルール",
+"subcategory":"安全のために停止する",
+"englishSubcategory":"Stopping for Safety",
+"description":"交通状況により必要な場合、または緊急事態の場合にのみ、停車禁止区域に停車することができます。"
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"停止、駐車、路側帯のルール",
+"subcategory":"丘の上の駐車",
+"englishSubcategory":"Parking on Hills",
+"description":"坂道に駐車する場合は、必ずサイドブレーキをかけ、車両を固定して転倒の危険を減らしてください。"
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"停止、駐車、路側帯のルール",
+"subcategory":"交差点付近の駐車",
+"englishSubcategory":"Parking Near Intersections",
+"description":"角に近すぎる場所に駐車しないでください。対向車や歩行者の視界を遮り、危険が生じる可能性があります。"
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"停止、駐車、路側帯のルール",
+"subcategory":"駐車禁止",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"駐車禁止標識に時間が表示されている場合は、標識に表示されている時間のみ駐車禁止が適用されることを意味します。"
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"歩行者、自転車利用者、および道路弱者",
+"subcategory":"歩行者",
+"englishSubcategory":"Pedestrians",
+"description":"右左折する際、運転者は進入しようとする道路を横断する歩行者に道を譲らなければなりません。これは、歩行者が指定された横断歩道上にいない場合でも適用されます。"
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"歩行者、自転車利用者、および道路弱者",
+"subcategory":"サイクリスト",
+"englishSubcategory":"Cyclists",
+"description":"運転者は、自転車が危険を回避したりバランスを保ったりするのにスペースを必要とする可能性があるため、追い越しの際には余分なスペースを確保する必要があります。"
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"歩行者、自転車利用者、および道路弱者",
+"subcategory":"歩行者",
+"englishSubcategory":"Pedestrians",
+"description":"ショッピングエリアや公共交通機関の停留所付近では、歩行者の増加や急な横断が予想されるため、常に注意を払うようにしてください。"
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"歩行者、自転車利用者、および道路弱者",
+"subcategory":"サイクリスト",
+"englishSubcategory":"Cyclists",
+"description":"自転車が指定された自転車レーンを走行している場合、運転者は許可され安全である場合を除き、そのレーンでの走行を避けなければなりません。"
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"歩行者、自転車利用者、および道路弱者",
+"subcategory":"子供たち",
+"englishSubcategory":"Children",
+"description":"学校の近くでは、子どもたちが予測できない行動をとったり、交通状況を誤って判断したりする可能性があるため、運転者は特に注意が必要です。スクールゾーンでは速度を落としてください。"
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"歩行者、自転車利用者、および道路弱者",
+"subcategory":"サイクリスト",
+"englishSubcategory":"Cyclists",
+"description":"自転車が狭い車線の中央を走行している場合、ドライバーは無理に追い越すのではなく、十分なスペースが確保されて安全に追い越せるまで待つ必要があります。"
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"歩行者、自転車利用者、および道路弱者",
+"subcategory":"歩行者",
+"englishSubcategory":"Pedestrians",
+"description":"児童横断歩道では、旗が掲示され歩行者がいる場合は、子供の安全を確保するために運転者は停止しなければなりません。"
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"歩行者、自転車利用者、および道路弱者",
+"subcategory":"サイクリスト",
+"englishSubcategory":"Cyclists",
+"description":"特に都市部では、自転車が見えずに併走している可能性があるため、運転者は曲がる前に必ず死角を確認する必要があります。"
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"歩行者、自転車利用者、および道路弱者",
+"subcategory":"高齢者と障害者",
+"englishSubcategory":"Elderly & Disabled",
+"description":"高齢の歩行者は歩くのが遅かったり、移動に問題があったりするため、横断に時間がかかる場合があります。安全に横断できるよう、十分なスペースと時間を与えてください。"
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"歩行者、自転車利用者、および道路弱者",
+"subcategory":"サイクリスト",
+"englishSubcategory":"Cyclists",
+"description":"交差点に差し掛かると、自転車が見えにくくなる場合があり、また、動きが速いこともあります。自転車が安全に移動できるよう、常にスペースと時間を空けてください。"
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"特殊な状況と道路環境",
+"subcategory":"スクールゾーン",
+"englishSubcategory":"School Zones",
+"description":"スクールゾーンの速度制限は、標識に表示されている時間帯のみ適用されます。お子様の安全を確保するため、必ず速度制限を守ってください。"
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"特殊な状況と道路環境",
+"subcategory":"スクールゾーン",
+"englishSubcategory":"School Zones",
+"description":"子どもが突然、予期せず現れることもあるため、運転者はスクールゾーンでは子どもが見えなくても速度を落とさなければなりません。"
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"特殊な状況と道路環境",
+"subcategory":"道路工事",
+"englishSubcategory":"Roadworks",
+"description":"道路工事現場に近づくときは、作業員や他の道路利用者の安全を確保するために、速度を落とし、一時的な標識に従ってください。"
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"特殊な状況と道路環境",
+"subcategory":"道路工事",
+"englishSubcategory":"Roadworks",
+"description":"作業員の安全を確保し、道路状況の変化に対応するために、道路工事現場では制限速度が引き下げられます。"
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"特殊な状況と道路環境",
+"subcategory":"田舎道",
+"englishSubcategory":"Rural Roads",
+"description":"田舎道では、野生動物が予期せず道路に侵入することがあります。田舎を運転する際は、常に停止または減速する準備をしておきましょう。"
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"特殊な状況と道路環境",
+"subcategory":"田舎道",
+"englishSubcategory":"Rural Roads",
+"description":"未舗装道路では、グリップ力とブレーキ力が低下することがよくあります。未舗装路面を走行する際は、運転者は速度を落とす必要があります。"
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"特殊な状況と道路環境",
+"subcategory":"高速道路",
+"englishSubcategory":"Freeways",
+"description":"高速道路の出口を通り過ぎた場合は、次の出口まで進み、安全に方向転換してください。高速道路上で停止したり、後退したりしないでください。"
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"特殊な状況と道路環境",
+"subcategory":"高速道路",
+"englishSubcategory":"Freeways",
+"description":"緊急時を除き、高速道路上での停車は違法です。故障の際は、必ず路肩または出口ランプをご利用ください。"
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"特殊な状況と道路環境",
+"subcategory":"気象条件",
+"englishSubcategory":"Weather Conditions",
+"description":"大雨の場合は、速度を落とし、車間距離を長くしてください。濡れた路面はトラクションが低下し、制動距離が長くなる可能性があります。"
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"特殊な状況と道路環境",
+"subcategory":"気象条件",
+"englishSubcategory":"Weather Conditions",
+"description":"霧は視界と奥行きの知覚を低下させ、運転を特に危険にします。霧が出ているときは、速度を落とし、車間距離を長くしてください。"
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"緊急車両と警察の案内",
+"subcategory":"緊急車両への道譲り",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"緊急車両がライトやサイレンを鳴らしながら近づいてきたら、進路を外れて安全に通過させてください。"
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"緊急車両と警察の案内",
+"subcategory":"緊急車両への道譲り",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"信号機がある場所で緊急車両が後方から近づいてきた場合、最も安全な行動は、安全かつ合法であれば脇に移動することです。そうでない場合は、その場に留まり、可能であれば緊急車両が通過できるようにします。"
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"緊急車両と警察の案内",
+"subcategory":"警察の指示",
+"englishSubcategory":"Police Directions",
+"description":"警察官が標識と異なる指示をした場合は、警察官の指示に従わなければなりません。"
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"緊急車両と警察の案内",
+"subcategory":"緊急車両への道譲り",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"緊急車両が道路脇で点滅灯を点灯して停止している場合は、速度を落として慎重に通過し、安全であれば車線変更してください。"
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"緊急車両と警察の案内",
+"subcategory":"警察の指示",
+"englishSubcategory":"Police Directions",
+"description":"警察が一時的に検問を設けた場合は、その指示に従って迂回してください。"
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"緊急車両と警察の案内",
+"subcategory":"緊急車両への道譲り",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"交通を早く通過するために緊急車両のすぐ後ろを走るべきではありません。"
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"緊急車両と警察の案内",
+"subcategory":"緊急車両への道譲り",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"サイレンが聞こえても緊急車両がまだ見えない場合は、注意を怠らず、ミラーを確認して、安全に移動できるように準備してください。"
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"緊急車両と警察の案内",
+"subcategory":"警察の指示",
+"englishSubcategory":"Police Directions",
+"description":"道路工事で交通誘導員が指示をした場合は、それに従わなければなりません。"
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"緊急車両と警察の案内",
+"subcategory":"警察の指示",
+"englishSubcategory":"Police Directions",
+"description":"警察から免許証の確認のために停止するよう指示された場合は、指示に従って安全に停止してください。"
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"緊急車両と警察の案内",
+"subcategory":"緊急車両への道譲り",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"単一車線を走行中に後方から緊急車両が近づいてきたら、合図を出し、可能であれば左に移動するか、安全な位置に移動してください。"
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"シートベルト",
+"englishSubcategory":"Seatbelts",
+"description":"運転手は 16 歳未満の乗客全員がシートベルトを着用するように徹底する責任があります。"
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"シートベルト",
+"englishSubcategory":"Seatbelts",
+"description":"シートベルトが装備されている場合、車両が走行中は常にシートベルトを着用しなければなりません。"
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"チャイルドシート",
+"englishSubcategory":"Child Restraints",
+"description":"チャイルドシートが必要なのは、大人のシートベルトよりも効果的に子供の体の大きさや形にフィットして保護するように設計されているためです。"
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"乗客",
+"englishSubcategory":"Passengers",
+"description":"エアバッグや衝突の衝撃により重傷を負う可能性があるため、乗客がダッシュボードに足を置くのは安全ではありません。"
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"チャイルドシート",
+"englishSubcategory":"Child Restraints",
+"description":"チャイルドシートを選ぶ際の最も安全な一般的なルールは、承認されており、お子様の年齢とサイズに適したものを使用することです。"
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"シートベルト",
+"englishSubcategory":"Seatbelts",
+"description":"シートベルトが正しく着用されていないことを示す一般的な兆候は、サッシュストラップが腕の下または背中の後ろに位置していることです。"
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"乗客",
+"englishSubcategory":"Passengers",
+"description":"乗客が運転手の注意をそらす場合、最も安全な対応は、乗客に車を止めて運転に再び集中するように頼むことです。"
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"チャイルドシート",
+"englishSubcategory":"Child Restraints",
+"description":"走行中の車内で赤ちゃんを膝の上に抱くのは危険です。衝突の際に赤ちゃんをしっかりと抱きかかえることができないからです。"
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"シートベルト",
+"englishSubcategory":"Seatbelts",
+"description":"衝突時に腹部を負傷するリスクを減らすために、シートベルトは膝部分が腰の低い位置で着用する必要があります。"
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"乗客",
+"englishSubcategory":"Passengers",
+"description":"機内に固定されていない物体を持ち込むことの主なリスクは、衝突や急停止の際に物体が飛び散る可能性があることです。"
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"車両の安全性、欠陥、メンテナンスの基礎",
+"subcategory":"タイヤ",
+"englishSubcategory":"Tyres",
+"description":"正しいタイヤ空気圧は、グリップ、ブレーキ、ステアリング制御に影響するため、安全にとって重要です。"
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"車両の安全性、欠陥、メンテナンスの基礎",
+"subcategory":"ブレーキ",
+"englishSubcategory":"Brakes",
+"description":"ブレーキ ペダルがスポンジのように柔らかくなったり、通常よりも深く沈み込んだりする場合は、重大な故障とみなして、直ちにブレーキを点検してもらってください。"
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"車両の安全性、欠陥、メンテナンスの基礎",
+"subcategory":"ライトと視認性",
+"englishSubcategory":"Lights & Visibility",
+"description":"定期的にすべての車両のライトを確認し、自分や他の車両から自分が見えるようにしてください。"
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"車両の安全性、欠陥、メンテナンスの基礎",
+"subcategory":"ステアリングとサスペンション",
+"englishSubcategory":"Steering & Suspension",
+"description":"ステアリングの問題の警告サインには、異常な引っ張り、振動、ステアリングの困難などがあります。"
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"車両の安全性、欠陥、メンテナンスの基礎",
+"subcategory":"フロントガラスとワイパー",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"ワイパーブレードが摩耗すると、雨天時の視界が悪くなるため、安全上の問題となります。"
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"車両の安全性、欠陥、メンテナンスの基礎",
+"subcategory":"タイヤ",
+"englishSubcategory":"Tyres",
+"description":"タイヤが安全でないことを示す一般的な兆候は、トレッドが摩耗しているか、不均一に摩耗していることです。"
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"車両の安全性、欠陥、メンテナンスの基礎",
+"subcategory":"ミラーと調整",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"死角を減らして認識力を向上させるために、運転前にミラーを調整する必要があります。"
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"車両の安全性、欠陥、メンテナンスの基礎",
+"subcategory":"ブレーキ",
+"englishSubcategory":"Brakes",
+"description":"ブレーキからきしむような音がする場合は、できるだけ早く点検してもらってください。"
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"車両の安全性、欠陥、メンテナンスの基礎",
+"subcategory":"ライトと視認性",
+"englishSubcategory":"Lights & Visibility",
+"description":"視界が悪いときは、他の人に見られるようにヘッドライトを点灯してください。"
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"車両の安全性、欠陥、メンテナンスの基礎",
+"subcategory":"フロントガラスとワイパー",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"視界内でフロントガラスがひどくひび割れている場合は、運転を続ける前に修理または交換してください。"
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"荷物、牽引、大型車両の認識",
+"subcategory":"負荷",
+"englishSubcategory":"Loads",
+"description":"荷物は、移動したり落下したりして衝突を引き起こすことを防ぐために適切に固定する必要があります。"
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"荷物、牽引、大型車両の認識",
+"subcategory":"負荷",
+"englishSubcategory":"Loads",
+"description":"車内の荷物が固定されていない場合、急ブレーキをかけた際に飛び散り、重大な安全上のリスクが生じる可能性があります。"
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"荷物、牽引、大型車両の認識",
+"subcategory":"負荷",
+"englishSubcategory":"Loads",
+"description":"過積載の車両を運ぶと、停止距離が長くなり、ブレーキに影響を及ぼします。"
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"荷物、牽引、大型車両の認識",
+"subcategory":"負荷",
+"englishSubcategory":"Loads",
+"description":"長い物を運ぶ最も安全な方法は、物が動いたり危険なほど突き出たりしないように固定することです。"
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"荷物、牽引、大型車両の認識",
+"subcategory":"曳航",
+"englishSubcategory":"Towing",
+"description":"トレーラーを牽引すると、余分な重量によってブレーキの効き目が悪くなり、停止距離が長くなります。"
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"荷物、牽引、大型車両の認識",
+"subcategory":"曳航",
+"englishSubcategory":"Towing",
+"description":"トレーラーを牽引する前に、カップリング、ライト、安全チェーンが固定されていることを確認してください。"
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"荷物、牽引、大型車両の認識",
+"subcategory":"曳航",
+"englishSubcategory":"Towing",
+"description":"牽引中に旋回する場合は、トレーラーが旋回経路内を進むため、余分なスペースを確保してください。"
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"荷物、牽引、大型車両の認識",
+"subcategory":"負荷",
+"englishSubcategory":"Loads",
+"description":"後方視界を遮る荷物があると、後続車への注意力が低下し、事故のリスクが高まります。"
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"荷物、牽引、大型車両の認識",
+"subcategory":"大型車両",
+"englishSubcategory":"Heavy Vehicles",
+"description":"大型車両は質量が大きいため、制動距離が長くなるため、停止するのに広いスペースが必要になります。"
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"荷物、牽引、大型車両の認識",
+"subcategory":"大型車両",
+"englishSubcategory":"Heavy Vehicles",
+"description":"大型トラックの後ろを走るときは、死角やトラックの長い停止距離を考慮して車間距離を長くしてください。"
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"ライセンス、L/P プレート ルール、実用的な DKT トラップ (VIC)",
+"subcategory":"学習許可証のルール",
+"englishSubcategory":"Learner Permit Rules",
+"description":"ビクトリア州の教習運転者は、適切な免許を持つ運転手が隣に座って監督している場合にのみ車を運転できます。"
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"ライセンス、L/P プレート ルール、実用的な DKT トラップ (VIC)",
+"subcategory":"学習許可証のルール",
+"englishSubcategory":"Learner Permit Rules",
+"description":"教習生ドライバーは、車内の他の人から常に見えるように L プレートをはっきりと表示する必要があります。"
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"ライセンス、L/P プレート ルール、実用的な DKT トラップ (VIC)",
+"subcategory":"学習許可証のルール",
+"englishSubcategory":"Learner Permit Rules",
+"description":"運転中に監督ドライバーが居眠りしてしまった場合は、安全に停止し、適切な監督を受けるまで運転を続行しないでください。"
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"ライセンス、L/P プレート ルール、実用的な DKT トラップ (VIC)",
+"subcategory":"携帯電話とデバイス",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"ビクトリア州の教習運転者は、運転中に携帯電話を使用することはいかなる場合も許可されていません。"
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"ライセンス、L/P プレート ルール、実用的な DKT トラップ (VIC)",
+"subcategory":"学習許可証のルール",
+"englishSubcategory":"Learner Permit Rules",
+"description":"運転中に L プレートが外れた場合は、安全に停止し、再度取り付けてから運転を続けてください。"
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"ライセンス、L/P プレート ルール、実用的な DKT トラップ (VIC)",
+"subcategory":"監督",
+"englishSubcategory":"Supervision",
+"description":"学習者監督ルールの主な安全上の目的は、経験豊富なドライバーが必要に応じて指導や介入を行えるようにすることです。"
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"ライセンス、L/P プレート ルール、実用的な DKT トラップ (VIC)",
+"subcategory":"条件とコンプライアンス",
+"englishSubcategory":"Conditions & Compliance",
+"description":"教習生が必要な監督なしで運転しているところを捕まると、罰則が科せられ、免許が取り消される可能性もあります。"
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"ライセンス、L/P プレート ルール、実用的な DKT トラップ (VIC)",
+"subcategory":"危険認識",
+"englishSubcategory":"Hazard Perception",
+"description":"交差点で運転教習生が陥りやすい落とし穴は、進入しようとする道路を横断する歩行者がいないか確認せずに曲がってしまうことです。"
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"ライセンス、L/P プレート ルール、実用的な DKT トラップ (VIC)",
+"subcategory":"危険認識",
+"englishSubcategory":"Hazard Perception",
+"description":"信号が青であっても、前方に交通が遮断されていたり、歩行者が横断していたりする場合は、減速または停止する必要があります。"
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"ライセンス、L/P プレート ルール、実用的な DKT トラップ (VIC)",
+"subcategory":"学習許可証のルール",
+"englishSubcategory":"Learner Permit Rules",
+"description":"教習生を監督する場合、監督する運転手は常に助手席に座ってください。"
+}
+]

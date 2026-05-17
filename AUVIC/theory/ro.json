@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Reguli și legi rutiere",
+"subcategory":"Reguli generale de circulație",
+"englishSubcategory":"General Road Rules",
+"description":"Șoferii trebuie să respecte regulile rutiere generale pentru a asigura siguranța și fluiditatea traficului. Aceasta include respectarea semnelor de circulație, a semnalelor și a marcajelor rutiere. Nerespectarea acestor reguli poate duce la accidente și sancțiuni."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Reguli și legi rutiere",
+"subcategory":"Dând Loc",
+"englishSubcategory":"Giving Way",
+"description":"Șoferii sunt obligați să acorde prioritate altor vehicule sau pietonilor la intersecții, sensuri giratorii și treceri de pietoni, printre alte locuri. Neacordarea dreptului de trecere constituie contravenție."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Reguli și legi rutiere",
+"subcategory":"Utilizarea benzii de rulare",
+"englishSubcategory":"Lane Use",
+"description":"Șoferii trebuie să folosească benzile corespunzătoare și să respecte marcajele de circulație. Acestea includ reguli pentru schimbarea benzii, depășiri și utilizarea benzilor pentru biciclete sau autobuze. Încălcările pot duce la amenzi sau accidente."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Reguli și legi rutiere",
+"subcategory":"Tramvaie",
+"englishSubcategory":"Trams",
+"description":"Șoferii trebuie să fie conștienți de regulile tramvaielor, inclusiv acordarea prioritate pietonilor în stațiile de tramvai, oprirea tramvaielor cu ușile deschise și nedepășirea tramvaielor în anumite condiții."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Reguli și legi rutiere",
+"subcategory":"Intersecții",
+"englishSubcategory":"Intersections",
+"description":"La intersecții, șoferii trebuie să respecte procedurile corecte pentru acordarea trecerii și oprirea la semnele de oprire sau la semafoare. Înțelegerea acestor reguli este vitală pentru prevenirea accidentelor."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Reguli și legi rutiere",
+"subcategory":"Întoarceri în U",
+"englishSubcategory":"U-Turns",
+"description":"Întoarcerile în U sunt permise doar la intersecții sau atunci când nu există niciun indicator care să le interzică. Șoferii trebuie să se asigure că este în siguranță înainte de a efectua o întoarcere în U."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Reguli și legi rutiere",
+"subcategory":"Limite de viteză",
+"englishSubcategory":"Speed Limits",
+"description":"Șoferii trebuie să respecte limitele de viteză afișate pentru a asigura siguranța pe șosea. Excesul de viteză poate duce la amenzi, pierderea permisului și la creșterea riscului de accidente."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Reguli și legi rutiere",
+"subcategory":"Siguranța pietonilor",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Șoferii trebuie să acorde prioritate pietonilor la trecerile de pietoni și să le asigure siguranța în apropierea zonelor pietonale. Nerespectarea regulilor de oprire pentru pietoni la trecerile de pietoni constituie contravenție."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Reguli și legi rutiere",
+"subcategory":"Treceri de cale ferată",
+"englishSubcategory":"Railway Crossings",
+"description":"Șoferii trebuie să oprească la trecerile de cale ferată atunci când semafoarele clipesc sau barierele de siguranță sunt coborâte. Ignorarea acestor semnale este o abatere gravă și poate duce la amenzi și accidente."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Reguli și legi rutiere",
+"subcategory":"Vehicule de urgență",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Șoferii trebuie să acorde prioritate vehiculelor de urgență folosind luminile intermitente și sirenele, asigurându-se că vehiculul are o cale liberă pentru a se deplasa prin trafic."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Semnale și semne de circulație",
+"subcategory":"Semne de reglementare",
+"englishSubcategory":"Regulatory Signs",
+"description":"Indicatoarele rutiere oferă instrucțiuni obligatorii pentru șoferi, cum ar fi limitele de viteză, restricțiile de viraj și indicatoarele de interzicere a accesului. Respectarea acestor indicatoare este impusă prin lege pentru a menține siguranța și ordinea pe drumuri."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Semnale și semne de circulație",
+"subcategory":"Semne de avertizare",
+"englishSubcategory":"Warning Signs",
+"description":"Semnele de avertizare avertizează șoferii cu privire la potențialele pericole, cum ar fi curbele strânse, zonele școlare și trecerile de pietoni cu animale sălbatice. Aceste semne îi ajută pe șoferi să își adapteze modul de condus pentru a evita accidentele."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Semnale și semne de circulație",
+"subcategory":"Semne de viteză",
+"englishSubcategory":"Speed Signs",
+"description":"Indicatoarele de viteză indică viteza maximă sau minimă permisă pe un drum. Șoferii trebuie să respecte aceste limite pentru a asigura condiții de conducere sigure și pentru a evita amenzile."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Semnale și semne de circulație",
+"subcategory":"Semafoare",
+"englishSubcategory":"Traffic Lights",
+"description":"Semafoarele controlează fluxul de vehicule și pietoni la intersecții. Roșu înseamnă oprire, verde înseamnă pornire, iar galben este un avertisment pentru a vă pregăti să opriți."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Semnale și semne de circulație",
+"subcategory":"Semnale pietonale",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Semnalele pietonale indică momentul în care este sigur pentru pietoni să traverseze strada. Aceste semnale se coordonează de obicei cu semafoarele pentru a asigura siguranța pietonilor."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Semnale și semne de circulație",
+"subcategory":"Semnale de control al benzii de rulare",
+"englishSubcategory":"Lane Control Signals",
+"description":"Semnalele de control al benzilor de circulație sunt folosite pentru a indica dacă o bandă este deschisă sau închisă. Aceste semnale sunt de obicei utilizate pe drumurile cu mai multe benzi și în tuneluri."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Semnale și semne de circulație",
+"subcategory":"Semne de parcare interzise",
+"englishSubcategory":"No Parking Signs",
+"description":"Indicatoarele de parcare interzisă indică zonele în care oprirea sau parcarea este interzisă. Acest lucru este de obicei pentru a asigura fluiditatea traficului și menținerea siguranței."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Semnale și semne de circulație",
+"subcategory":"Semne cu sens unic",
+"englishSubcategory":"One-Way Signs",
+"description":"Indicatoarele cu sens unic indică faptul că traficul trebuie să circule într-o singură direcție. Nerespectarea acestor indicatoare poate duce la accidente și la consecințe legale."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Semnale și semne de circulație",
+"subcategory":"Semne de oprire",
+"englishSubcategory":"Stop Signs",
+"description":"Semnele de oprire obligă șoferii să oprească complet și să cedeze trecerea oricăror alte vehicule sau pietoni înainte de a continua."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Semnale și semne de circulație",
+"subcategory":"Semne de trecere",
+"englishSubcategory":"Give Way Signs",
+"description":"Semnele de trecere le indică șoferilor să acorde prioritate celorlalți participanți la trafic, fie pietoni, fie vehicule, în funcție de situație, pentru a preveni accidentele."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Reguli de viteză și distanță",
+"subcategory":"Limite de viteză",
+"englishSubcategory":"Speed Limits",
+"description":"Limita de viteză implicită într-o zonă construită din Victoria este de 50 km/h, cu excepția cazului în care există indicatoare contrare. Verificați întotdeauna indicatoarele afișate pentru a vă asigura că conduceți în limitele de viteză legale."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Reguli de viteză și distanță",
+"subcategory":"Limite de viteză",
+"englishSubcategory":"Speed Limits",
+"description":"Într-o zonă școlară semnalizată, în orele specificate pe indicator, limita de viteză este redusă la 40 km/h pentru a asigura siguranța copiilor care traversează strada."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Reguli de viteză și distanță",
+"subcategory":"Distanța de urmărire",
+"englishSubcategory":"Following Distance",
+"description":"Distanța minimă de siguranță în condiții ideale este de cel puțin două secunde în spatele vehiculului din față. Acest lucru oferă suficient timp pentru a reacționa dacă vehiculul din față se oprește brusc."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Reguli de viteză și distanță",
+"subcategory":"Limite de viteză",
+"englishSubcategory":"Speed Limits",
+"description":"Când depășiți un tramvai oprit într-o zonă de siguranță, trebuie să reduceți viteza la 10 km/h pentru a asigura siguranța pasagerilor care urcă sau coboară din tramvai."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Reguli de viteză și distanță",
+"subcategory":"Limite de viteză",
+"englishSubcategory":"Speed Limits",
+"description":"Pe drumurile rurale fără indicatoare de viteză, limita de viteză implicită este de 100 km/h, cu excepția cazului în care indicatoarele locale specifică altfel. Adaptați viteza în funcție de condițiile de drum pentru a menține siguranța."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Reguli de viteză și distanță",
+"subcategory":"Distanța de urmărire",
+"englishSubcategory":"Following Distance",
+"description":"În condiții de vreme umedă, ar trebui să măriți distanța de urmărire la cel puțin patru secunde. Drumurile ude reduc aderența, necesitând mai mult timp pentru a opri în siguranță."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Reguli de viteză și distanță",
+"subcategory":"Limite de viteză",
+"englishSubcategory":"Speed Limits",
+"description":"Respectați în permanență indicatoarele electronice de limitare a vitezei variabile, cât timp acestea sunt în funcțiune. Aceste indicatoare ajustează limitele de viteză în funcție de condițiile de trafic, de vreme sau de incidentele rutiere."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Reguli de viteză și distanță",
+"subcategory":"Distanța de oprire",
+"englishSubcategory":"Stopping Distance",
+"description":"Pe măsură ce viteza crește, crește și distanța de frânare necesară pentru a opri în siguranță vehiculul. Asigurați-vă întotdeauna că aveți o distanță suficientă pentru a reacționa la pericole."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Reguli de viteză și distanță",
+"subcategory":"Limite de viteză",
+"englishSubcategory":"Speed Limits",
+"description":"În zonele comune, limita de viteză este în general de 10 km/h pentru a asigura siguranța pietonilor și a bicicliștilor în aceste zone în care interacționează vehicule și participanți la trafic nemotorizați."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Reguli de viteză și distanță",
+"subcategory":"Distanța de urmărire",
+"englishSubcategory":"Following Distance",
+"description":"Conducerea în spatele vehiculelor mai mari este periculoasă deoarece reduce timpul de reacție și de frânare. Mențineți întotdeauna o distanță sigură de urmat, mai ales când conduceți în spatele unor vehicule mai mari care vă pot obstrucționa vizibilitatea."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Responsabilitățile șoferului",
+"subcategory":"Obligații legale",
+"englishSubcategory":"Legal Obligations",
+"description":"Șoferii trebuie să îndeplinească diverse obligații legale, cum ar fi oferirea de asistență după un accident, schimbul de detalii după accidente și raportarea incidentelor către autorități, conform legii."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Responsabilitățile șoferului",
+"subcategory":"Atenție și control",
+"englishSubcategory":"Attention & Control",
+"description":"Șoferii trebuie să își păstreze controlul asupra vehiculului în permanență, evitând distragerile și menținându-și concentrarea pentru a-și asigura propria siguranță și pe cea a celorlalți participanți la trafic."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Responsabilitățile șoferului",
+"subcategory":"Obligații legale",
+"englishSubcategory":"Legal Obligations",
+"description":"În cazul unui accident care provoacă vătămări corporale, șoferii trebuie să oprească și să ofere asistență, acolo unde este posibil. Nerespectarea regulilor de oprire și neacordarea de asistență în astfel de situații constituie o încălcare a legii."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Responsabilitățile șoferului",
+"subcategory":"Atenție și control",
+"englishSubcategory":"Attention & Control",
+"description":"Este esențial ca șoferii să dețină controlul deplin asupra vehiculului lor în orice moment, asigurându-se că reacționează corespunzător la condițiile de trafic în schimbare și mențin un mediu de condus sigur."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Responsabilitățile șoferului",
+"subcategory":"Obligații legale",
+"englishSubcategory":"Legal Obligations",
+"description":"Șoferii trebuie să raporteze un accident la poliție dacă cineva este rănit sau dacă sunt deteriorate proprietăți, iar detaliile nu pot fi schimbate. Neraportarea acestor incidente poate duce la sancțiuni."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Responsabilitățile șoferului",
+"subcategory":"Managementul oboselii",
+"englishSubcategory":"Fatigue Management",
+"description":"Oboseala este un risc serios în timpul conducerii. Șoferii ar trebui să fie conștienți de semnele timpurii ale oboselii, cum ar fi căscatul și pierderea concentrării, și să ia măsurile adecvate pentru a preveni accidentele."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Responsabilitățile șoferului",
+"subcategory":"Obligații legale",
+"englishSubcategory":"Legal Obligations",
+"description":"Șoferii trebuie să prezinte permisul atunci când poliția le solicită. Refuzul de a-l prezenta poate duce la sancțiuni sau la consecințe legale suplimentare."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Responsabilitățile șoferului",
+"subcategory":"Atenție și control",
+"englishSubcategory":"Attention & Control",
+"description":"Șoferii ar trebui să evite utilizarea claxonului în mod inutil, deoarece poate speria sau distrage atenția altor participanți la trafic. Claxonul ar trebui folosit doar pentru a alerta alte persoane de prezența dumneavoastră în situațiile în care este necesar."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Responsabilitățile șoferului",
+"subcategory":"Managementul oboselii",
+"englishSubcategory":"Fatigue Management",
+"description":"Dacă vă simțiți prea obosit(ă) pentru a continua să conduceți, cel mai sigur răspuns este să opriți și să vă odihniți înainte de a continua. Condusul în stare de oboseală crește semnificativ riscul de accidente."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Responsabilitățile șoferului",
+"subcategory":"Obligații legale",
+"englishSubcategory":"Legal Obligations",
+"description":"Șoferii au responsabilitatea de a se asigura că pasagerii lor sunt așezați și fixați în siguranță. Aceasta include asigurarea că copiii sunt instalați în sisteme de siguranță adecvate și că adulții poartă centuri de siguranță."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alcool, droguri și sănătate",
+"subcategory":"Limitele de alcool",
+"englishSubcategory":"Alcohol Limits",
+"description":"În Victoria, șoferii începători și șoferii stagiari (P1 și P2) trebuie să mențină o concentrație de alcool în sânge (BAC) de 0,00 în permanență. Șoferii cu permis complet au o limită de alcoolemie de 0,05, dar este mai sigur să nu consumați deloc alcool în timp ce conduceți."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alcool, droguri și sănătate",
+"subcategory":"Efectele alcoolului",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alcoolul afectează judecata, timpul de reacție și coordonarea, ceea ce poate crește semnificativ riscul de accidente. Chiar și cantități mici de alcool vă pot reduce capacitatea de a conduce în siguranță."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alcool, droguri și sănătate",
+"subcategory":"Conducerea sub influența drogurilor",
+"englishSubcategory":"Drug Driving",
+"description":"Condusul sub influența drogurilor, inclusiv a medicamentelor eliberate pe bază de rețetă, vă poate afecta capacitatea de a conduce, chiar dacă vă simțiți neafectat. Este important să fiți conștienți de riscuri și să evitați să conduceți după consumul de droguri."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alcool, droguri și sănătate",
+"subcategory":"Siguranța medicamentelor",
+"englishSubcategory":"Medication Safety",
+"description":"Înainte de a începe să luați un nou medicament eliberat pe bază de rețetă, verificați dacă acesta vă afectează capacitatea de a conduce și urmați sfatul medicului. Unele medicamente pot provoca somnolență sau pot afecta concentrarea."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alcool, droguri și sănătate",
+"subcategory":"Oboseală și sănătate",
+"englishSubcategory":"Fatigue & Health",
+"description":"Oboseala vă poate afecta capacitatea de a conduce în siguranță, la fel ca alcoolul sau drogurile. Asigurați-vă că vă odihniți suficient înainte de a conduce și faceți pauze în timpul călătoriilor lungi pentru a reduce riscul de accidente legate de oboseală."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Alcool, droguri și sănătate",
+"subcategory":"Efectele alcoolului",
+"englishSubcategory":"Alcohol Effects",
+"description":"După ce ai băut alcool, doar timpul poate reduce cantitatea de alcool din organism. Cafeaua, dușurile reci sau alte metode nu accelerează acest proces."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Alcool, droguri și sănătate",
+"subcategory":"Limitele de alcool",
+"englishSubcategory":"Alcohol Limits",
+"description":"În Victoria, toți șoferii începători și cei aflați în perioada de probă trebuie să mențină o alcoolemie de 0,00. Pentru șoferii cu permis de conducere complet, limita alcoolemiei este de 0,05. Cu toate acestea, evitarea consumului de alcool înainte de a conduce este întotdeauna cea mai sigură opțiune."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Alcool, droguri și sănătate",
+"subcategory":"Conducerea sub influența drogurilor",
+"englishSubcategory":"Drug Driving",
+"description":"În Victoria, poți fi penalizat pentru conducerea cu anumite droguri în organism, chiar dacă te simți neafectat. Sub influența drogurilor îți afectează capacitatea de a conduce în siguranță și crește riscul de accidente."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Alcool, droguri și sănătate",
+"subcategory":"Siguranța medicamentelor",
+"englishSubcategory":"Medication Safety",
+"description":"Înainte de a conduce, verificați întotdeauna dacă medicamentele noi v-ar putea afecta capacitatea de a conduce un vehicul. Unele medicamente provoacă somnolență, afectează timpul de reacție și reduc concentrarea."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Alcool, droguri și sănătate",
+"subcategory":"Oboseală și sănătate",
+"englishSubcategory":"Fatigue & Health",
+"description":"Oboseala poate avea un efect similar asupra condusului ca și alcoolul. Îți încetinește timpul de reacție, îți afectează judecata și reduce capacitatea de a lua decizii, crescând riscul de accidente."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Practici de conducere în siguranță",
+"subcategory":"Percepția pericolului",
+"englishSubcategory":"Hazard Perception",
+"description":"Când vă apropiați de un pericol potențial, cel mai sigur răspuns este să încetiniți și să vă pregătiți să opriți dacă este necesar. Acest lucru vă oferă timp să evaluați situația și să reacționați în mod corespunzător."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Practici de conducere în siguranță",
+"subcategory":"Percepția pericolului",
+"englishSubcategory":"Hazard Perception",
+"description":"Scanarea cu mult înainte în timp ce conduceți este crucială pentru detectarea timpurie a potențialelor pericole. Acest lucru vă permite să vă planificați răspunsul și să evitați reacțiile bruște."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Practici de conducere în siguranță",
+"subcategory":"Conducerea defensivă",
+"englishSubcategory":"Defensive Driving",
+"description":"Condusul defensiv implică anticiparea potențialelor greșeli ale celorlalți participanți la trafic și menținerea unei distanțe de siguranță pentru a evita coliziunile."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Practici de conducere în siguranță",
+"subcategory":"Condițiile drumurilor",
+"englishSubcategory":"Road Conditions",
+"description":"Dacă anvelopele pierd aderența pe un drum ud, reduceți accelerația și virați lin. Frânarea bruscă sau virajele strânse pot agrava situația și pot duce la pierderea controlului."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Practici de conducere în siguranță",
+"subcategory":"Percepția pericolului",
+"englishSubcategory":"Hazard Perception",
+"description":"Când conduceți în trafic, cea mai bună poziție pentru a fi atenți la pericole este mult în față și în lateral, nu doar să vă concentrați asupra mașinii din fața dumneavoastră. Acest lucru vă ajută să anticipați riscurile mai devreme."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Practici de conducere în siguranță",
+"subcategory":"Conducerea defensivă",
+"englishSubcategory":"Defensive Driving",
+"description":"Dacă un vehicul serpentează pe banda din față, cel mai sigur răspuns este să măriți distanța de urmărire. Acest lucru vă oferă mai mult timp de reacție dacă situația se înrăutățește."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Practici de conducere în siguranță",
+"subcategory":"Condițiile drumurilor",
+"englishSubcategory":"Road Conditions",
+"description":"Drumul este adesea cel mai alunecos în primele minute după ploaie. Fiți foarte atenți în această perioadă, deoarece uleiurile și resturile de pe drum îl pot face mai periculos."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Practici de conducere în siguranță",
+"subcategory":"Conducerea pe timp de noapte",
+"englishSubcategory":"Night Driving",
+"description":"Pentru a gestiona strălucirea provocată de farurile din sens opus pe timp de noapte, priviți ușor spre marginea stângă a benzii de circulație și încetiniți dacă este necesar. Acest lucru ajută la evitarea expunerii directe la luminile puternice."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Practici de conducere în siguranță",
+"subcategory":"Conducerea defensivă",
+"englishSubcategory":"Defensive Driving",
+"description":"Dacă un șofer vă urmează prea îndeaproape, cea mai sigură măsură este să măriți distanța de urmărire față de vehiculul din față. Acest lucru vă oferă atât dumneavoastră, cât și șoferului care vă urmează mai mult spațiu de reacție."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Practici de conducere în siguranță",
+"subcategory":"Condițiile drumurilor",
+"englishSubcategory":"Road Conditions",
+"description":"Când conduceți în ceață, reduceți viteza și păstrați o distanță suplimentară între vehiculul dumneavoastră și ceilalți. Ceața reduce considerabil vizibilitatea și crește riscul de accidente."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Intersecții, viraje și sensuri giratorii",
+"subcategory":"Dând Loc",
+"englishSubcategory":"Giving Way",
+"description":"La intersecțiile fără indicatoare sau semnalizare, vehiculul care vine din dreapta trebuie să cedeze trecerea vehiculului care vine din stânga."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Intersecții, viraje și sensuri giratorii",
+"subcategory":"Viraje",
+"englishSubcategory":"Turns",
+"description":"Când virați la dreapta la semafor fără o săgeată de viraj la dreapta, trebuie să acordați prioritate traficului care vine din sens opus și pietonilor înainte de a continua."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Intersecții, viraje și sensuri giratorii",
+"subcategory":"Sensuri giratorii",
+"englishSubcategory":"Roundabouts",
+"description":"La un sens giratoriu, vehiculele aflate deja în sensul giratoriu au prioritate. Șoferii care intră în sensul giratoriu trebuie să le acorde prioritate."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Intersecții, viraje și sensuri giratorii",
+"subcategory":"Viraje",
+"englishSubcategory":"Turns",
+"description":"Când virați la stânga, trebuie să acordați prioritate pietonilor care traversează drumul pe care intrați, asigurându-le siguranța."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Intersecții, viraje și sensuri giratorii",
+"subcategory":"Dând Loc",
+"englishSubcategory":"Giving Way",
+"description":"La o intersecție în T, vehiculul de pe drumul final trebuie să cedeze trecerea vehiculelor de pe drumul următor."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Intersecții, viraje și sensuri giratorii",
+"subcategory":"Viraje",
+"englishSubcategory":"Turns",
+"description":"Când efectuați o întoarcere în U, trebuie să acordați prioritate tuturor celorlalte vehicule și pietoni, asigurându-le siguranța în timp ce virați."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Intersecții, viraje și sensuri giratorii",
+"subcategory":"Sensuri giratorii",
+"englishSubcategory":"Roundabouts",
+"description":"La ieșirea dintr-un sens giratoriu, semnalizați la stânga chiar înainte de ieșire pentru a-i informa pe ceilalți participanți la trafic cu privire la intențiile dumneavoastră."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Intersecții, viraje și sensuri giratorii",
+"subcategory":"Dând Loc",
+"englishSubcategory":"Giving Way",
+"description":"Când intrați pe un drum de pe o alee auto, trebuie să acordați prioritate tuturor vehiculelor și pietonilor de pe carosabil pentru a preveni accidentele."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Intersecții, viraje și sensuri giratorii",
+"subcategory":"Viraje",
+"englishSubcategory":"Turns",
+"description":"Înainte de a vira la dreapta, poziționați vehiculul cât mai aproape de centrul drumului, asigurându-vă o virare sigură și liberă."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Intersecții, viraje și sensuri giratorii",
+"subcategory":"Semafoare",
+"englishSubcategory":"Traffic Lights",
+"description":"O săgeată verde indică faptul că puteți continua în direcția indicată de săgeată fără a ceda trecerea celorlalți participanți la trafic sau pietoni."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Marcaje rutiere, benzi de circulație și depășiri",
+"subcategory":"Utilizarea benzii de rulare",
+"englishSubcategory":"Lane Use",
+"description":"O linie centrală unică și continuă înseamnă, în general, că nu trebuie să o traversați, cu excepția cazului în care intrați sau ieșiți de pe drum sau de pe o alee de acces."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Marcaje rutiere, benzi de circulație și depășiri",
+"subcategory":"Depăşire",
+"englishSubcategory":"Overtaking",
+"description":"Depășirea pe stânga este permisă pe un drum cu mai multe benzi atunci când traficul se desfășoară pe benzi separate, marcate, și este sigură."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Marcaje rutiere, benzi de circulație și depășiri",
+"subcategory":"Depăşire",
+"englishSubcategory":"Overtaking",
+"description":"Puteți depăși un vehicul pe partea stângă pe un drum cu o singură bandă atunci când vehiculul din față virează la dreapta și este sigur să faceți acest lucru."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Marcaje rutiere, benzi de circulație și depășiri",
+"subcategory":"Utilizarea benzii de rulare",
+"englishSubcategory":"Lane Use",
+"description":"Înainte de a schimba banda, semnalizați și asigurați-vă că acest lucru este sigur. Acest lucru vă asigură că ceilalți participanți la trafic sunt conștienți de intențiile dumneavoastră și previne accidentele."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Marcaje rutiere, benzi de circulație și depășiri",
+"subcategory":"Marcaje rutiere",
+"englishSubcategory":"Road Markings",
+"description":"Un insulă de trafic pictată, sau marcajul în formă de chevron, indică faptul că nu trebuie să conduceți pe ea, asigurând circulația în siguranță a traficului."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Marcaje rutiere, benzi de circulație și depășiri",
+"subcategory":"Depăşire",
+"englishSubcategory":"Overtaking",
+"description":"Dacă nu sunteți sigur dacă este sigur să depășiți, cea mai sigură acțiune este să nu depășiți. Evaluați întotdeauna situația înainte de a face mișcarea."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Marcaje rutiere, benzi de circulație și depășiri",
+"subcategory":"Utilizarea benzii de rulare",
+"englishSubcategory":"Lane Use",
+"description":"O linie centrală întreruptă înseamnă că o puteți traversa dacă este sigur să faceți acest lucru, permițând depășiri sau schimbări de bandă."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Marcaje rutiere, benzi de circulație și depășiri",
+"subcategory":"Utilizarea benzii de rulare",
+"englishSubcategory":"Lane Use",
+"description":"Ocolirea a două benzi este legală doar atunci când marcajele benzilor permit acest lucru. De obicei, nu este sigură sau permisă în majoritatea condițiilor de conducere."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Marcaje rutiere, benzi de circulație și depășiri",
+"subcategory":"Depăşire",
+"englishSubcategory":"Overtaking",
+"description":"Dacă vehiculul pe care îl depășiți începe să accelereze, cel mai sigur răspuns este să abandonați depășirea, dacă este în siguranță, și să renunțați."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Marcaje rutiere, benzi de circulație și depășiri",
+"subcategory":"Marcaje rutiere",
+"englishSubcategory":"Road Markings",
+"description":"O linie centrală dublă continuă înseamnă că nu trebuie să o traversați sau să o călcați în nicio circumstanță, asigurând fluiditatea și siguranța traficului."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Reguli de oprire, parcare și circulație rutieră",
+"subcategory":"Oprirea și parcarea interzise",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Oprirea interzisă înseamnă că nu trebuie să opriți deloc, în timp ce parcarea interzisă permite opriri scurte pentru preluarea sau debarcarea unui pasager."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Reguli de oprire, parcare și circulație rutieră",
+"subcategory":"Oprirea și parcarea interzise",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Într-o zonă cu parcarea interzisă, aveți voie să opriți doar suficient timp pentru a prelua sau a coborî pasageri."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Reguli de oprire, parcare și circulație rutieră",
+"subcategory":"Parcare în apropierea intersecțiilor",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Parcarea în apropierea unei intersecții este adesea restricționată, deoarece poate bloca vizibilitatea și poate crea pericole pentru șoferi și pietoni."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Reguli de oprire, parcare și circulație rutieră",
+"subcategory":"Oprirea și parcarea interzise",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Nu aveți voie să opriți într-o zonă cu oprire interzisă, chiar dacă răspundeți la un apel telefonic sau trebuie să faceți o oprire rapidă."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Reguli de oprire, parcare și circulație rutieră",
+"subcategory":"Alei libere",
+"englishSubcategory":"Clearways",
+"description":"O zonă de trecere liberă înseamnă că nu trebuie să opriți sau să parcați pe acea parte a drumului în timpul orelor de funcționare ale acestuia."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Reguli de oprire, parcare și circulație rutieră",
+"subcategory":"Parcare lângă treceri de pietoni",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Oprirea lângă o trecere de pietoni este periculoasă, deoarece poate ascunde pietonii de șoferii care se apropie, crescând riscul de accidente."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Reguli de oprire, parcare și circulație rutieră",
+"subcategory":"Oprirea pentru siguranță",
+"englishSubcategory":"Stopping for Safety",
+"description":"Puteți opri într-o zonă cu oprire interzisă doar dacă este necesar din cauza condițiilor de trafic sau într-o situație de urgență."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Reguli de oprire, parcare și circulație rutieră",
+"subcategory":"Parcare pe dealuri",
+"englishSubcategory":"Parking on Hills",
+"description":"Când parcați pe o pantă, acționați întotdeauna frâna de mână și asigurați vehiculul pentru a reduce riscul de răsturnare."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Reguli de oprire, parcare și circulație rutieră",
+"subcategory":"Parcare în apropierea intersecțiilor",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Nu trebuie să parchezi prea aproape de un colț, deoarece poate bloca vederea traficului care vine din sens opus și a pietonilor, creând pericole."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Reguli de oprire, parcare și circulație rutieră",
+"subcategory":"Oprirea și parcarea interzise",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Un indicator „Parcarea interzisă” cu orele afișate înseamnă că restricția se aplică numai în intervalul orar afișat pe indicator."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Pietoni, bicicliști și utilizatori vulnerabili ai drumurilor",
+"subcategory":"Pietoni",
+"englishSubcategory":"Pedestrians",
+"description":"La virare, șoferii trebuie să acorde prioritate pietonilor care traversează drumul pe care intră. Acest lucru se aplică chiar dacă pietonul nu se află la trecerea desemnată."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Pietoni, bicicliști și utilizatori vulnerabili ai drumurilor",
+"subcategory":"Cicliști",
+"englishSubcategory":"Cyclists",
+"description":"Șoferii trebuie să acorde spațiu suplimentar atunci când depășesc bicicliști, deoarece aceștia ar putea avea nevoie de spațiu pentru a evita pericolele sau pentru a-și menține echilibrul."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Pietoni, bicicliști și utilizatori vulnerabili ai drumurilor",
+"subcategory":"Pietoni",
+"englishSubcategory":"Pedestrians",
+"description":"În apropierea zonelor comerciale sau a stațiilor de transport public, șoferii ar trebui să se aștepte la o activitate pietonală sporită și la traversări bruște. Fiți întotdeauna atenți în aceste zone."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Pietoni, bicicliști și utilizatori vulnerabili ai drumurilor",
+"subcategory":"Cicliști",
+"englishSubcategory":"Cyclists",
+"description":"Când un biciclist se deplasează pe o pistă marcată pentru biciclete, șoferii trebuie să evite să circule pe banda respectivă, cu excepția cazului în care acest lucru este permis și în condiții de siguranță."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Pietoni, bicicliști și utilizatori vulnerabili ai drumurilor",
+"subcategory":"Copii",
+"englishSubcategory":"Children",
+"description":"Șoferii trebuie să fie foarte atenți în apropierea școlilor, deoarece copiii se pot comporta imprevizibil și pot evalua greșit traficul. Încetiniți în zonele școlare."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Pietoni, bicicliști și utilizatori vulnerabili ai drumurilor",
+"subcategory":"Cicliști",
+"englishSubcategory":"Cyclists",
+"description":"Dacă un biciclist circulă pe centrul unei benzi înguste, șoferii ar trebui să aștepte până când este sigur să îl depășească, cu suficient spațiu, în loc să îl forțeze."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Pietoni, bicicliști și utilizatori vulnerabili ai drumurilor",
+"subcategory":"Pietoni",
+"englishSubcategory":"Pedestrians",
+"description":"La o trecere de pietoni pentru copii, șoferii trebuie să oprească atunci când sunt afișate steaguri și sunt prezenți pietoni, asigurând siguranța copiilor."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Pietoni, bicicliști și utilizatori vulnerabili ai drumurilor",
+"subcategory":"Cicliști",
+"englishSubcategory":"Cyclists",
+"description":"Șoferii ar trebui să își verifice întotdeauna unghiurile moarte înainte de a vira, deoarece bicicliștii pot circula nevăzuți pe alăturate, în special în zonele urbane."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Pietoni, bicicliști și utilizatori vulnerabili ai drumurilor",
+"subcategory":"Vârstnici și persoane cu dizabilități",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Pietonii în vârstă ar putea avea nevoie de timp suplimentar pentru a traversa, deoarece ar putea merge mai încet sau ar putea avea probleme de mobilitate. Acordați-le spațiu și timp pentru a traversa în siguranță."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Pietoni, bicicliști și utilizatori vulnerabili ai drumurilor",
+"subcategory":"Cicliști",
+"englishSubcategory":"Cyclists",
+"description":"Cicliștii pot fi mai greu de văzut la apropierea de intersecții și se pot deplasa rapid. Acordați întotdeauna bicicliștilor spațiu și timp pentru a se deplasa în siguranță."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Situații speciale și medii rutiere",
+"subcategory":"Zone școlare",
+"englishSubcategory":"School Zones",
+"description":"Limitele de viteză în zonele școlare se aplică numai în intervalul orar indicat pe indicatoare. Asigurați-vă că le respectați pentru a asigura siguranța copiilor."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Situații speciale și medii rutiere",
+"subcategory":"Zone școlare",
+"englishSubcategory":"School Zones",
+"description":"Șoferii trebuie să încetinească în zonele școlare chiar dacă nu sunt vizibili copii, deoarece aceștia pot apărea brusc și imprevizibil."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Situații speciale și medii rutiere",
+"subcategory":"Lucrări rutiere",
+"englishSubcategory":"Roadworks",
+"description":"Când vă apropiați de lucrări rutiere, încetiniți și urmați toate indicatoarele temporare pentru a asigura siguranța lucrătorilor și a celorlalți participanți la trafic."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Situații speciale și medii rutiere",
+"subcategory":"Lucrări rutiere",
+"englishSubcategory":"Roadworks",
+"description":"Limitele de viteză sunt reduse în zonele cu lucrări rutiere pentru a asigura siguranța lucrătorilor și pentru a adapta schimbările condițiilor de drum."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Situații speciale și medii rutiere",
+"subcategory":"Drumuri rurale",
+"englishSubcategory":"Rural Roads",
+"description":"Pe drumurile rurale, animalele sălbatice pot intra pe neașteptate pe carosabil. Fiți întotdeauna pregătiți să opriți sau să încetiniți atunci când conduceți prin zone rurale."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Situații speciale și medii rutiere",
+"subcategory":"Drumuri rurale",
+"englishSubcategory":"Rural Roads",
+"description":"Drumurile neasfaltate au adesea o aderență și o capacitate de frânare reduse. Șoferii ar trebui să reducă viteza atunci când conduc pe suprafețe neasfaltate."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Situații speciale și medii rutiere",
+"subcategory":"Autostrăzi",
+"englishSubcategory":"Freeways",
+"description":"Dacă ratați ieșirea de pe autostradă, continuați până la următoarea ieșire și întoarceți-vă în siguranță. Nu încercați să opriți sau să dați cu spatele pe autostradă."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Situații speciale și medii rutiere",
+"subcategory":"Autostrăzi",
+"englishSubcategory":"Freeways",
+"description":"Este ilegal să opriți pe autostradă, cu excepția cazurilor de urgență. Folosiți întotdeauna acostamentul sau rampa de ieșire în caz de pană."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Situații speciale și medii rutiere",
+"subcategory":"Condiții meteorologice",
+"englishSubcategory":"Weather Conditions",
+"description":"În ploaie torențială, reduceți viteza și măriți distanța de urmărire. Drumurile umede pot reduce aderența și pot prelungi distanțele de frânare."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Situații speciale și medii rutiere",
+"subcategory":"Condiții meteorologice",
+"englishSubcategory":"Weather Conditions",
+"description":"Ceața reduce vizibilitatea și percepția adâncimii, ceea ce face ca șofatul să fie deosebit de periculos. Încetiniți și măriți distanța de urmărire în condiții de ceață."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Vehicule de urgență și indicații ale poliției",
+"subcategory":"Vehicul de urgență cedând trecerea",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Când se apropie un vehicul de urgență cu lumini și/sau sirenă, dați-vă la o parte din calea sa și permiteți-i să treacă în siguranță."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Vehicule de urgență și indicații ale poliției",
+"subcategory":"Vehicul de urgență cedând trecerea",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Dacă vă aflați la semafor și un vehicul de urgență se apropie din spate, cea mai sigură acțiune este să vă deplasați într-o parte dacă este sigur și legal, altfel rămâneți pe loc și lăsați vehiculul să treacă atunci când este posibil."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Vehicule de urgență și indicații ale poliției",
+"subcategory":"Indicații ale poliției",
+"englishSubcategory":"Police Directions",
+"description":"Dacă un ofițer de poliție vă dă indicații diferite față de un indicator, trebuie să urmați instrucțiunile ofițerului de poliție."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Vehicule de urgență și indicații ale poliției",
+"subcategory":"Vehicul de urgență cedând trecerea",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Dacă un vehicul de urgență este oprit cu luminile intermitente pe marginea drumului, încetiniți și depășiți cu prudență, trecând pe dreapta dacă este în siguranță."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Vehicule de urgență și indicații ale poliției",
+"subcategory":"Indicații ale poliției",
+"englishSubcategory":"Police Directions",
+"description":"Dacă poliția instalează un blocaj rutier temporar, urmați instrucțiunile acestora și orice ocolișuri."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Vehicule de urgență și indicații ale poliției",
+"subcategory":"Vehicul de urgență cedând trecerea",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Nu ar trebui să urmați îndeaproape un vehicul de urgență pentru a trece mai repede prin trafic."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Vehicule de urgență și indicații ale poliției",
+"subcategory":"Vehicul de urgență cedând trecerea",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Dacă auziți o sirenă, dar nu puteți vedea încă vehiculul de urgență, fiți atenți, verificați oglinzile și fiți pregătiți să vă deplasați în siguranță."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Vehicule de urgență și indicații ale poliției",
+"subcategory":"Indicații ale poliției",
+"englishSubcategory":"Police Directions",
+"description":"Dacă un controlor de trafic la lucrări rutiere dă indicații, trebuie să respectați controlorul de trafic."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Vehicule de urgență și indicații ale poliției",
+"subcategory":"Indicații ale poliției",
+"englishSubcategory":"Police Directions",
+"description":"Dacă poliția vă ordonă să opriți pentru verificarea permisului, opriți-vă în siguranță conform instrucțiunilor."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Vehicule de urgență și indicații ale poliției",
+"subcategory":"Vehicul de urgență cedând trecerea",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Dacă vă aflați pe o singură bandă și un vehicul de urgență se apropie din spate, semnalizați și deplasați-vă la stânga sau într-o poziție sigură atunci când este posibil."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Centuri de siguranță, sisteme de siguranță pentru copii și pasageri",
+"subcategory":"Centuri de siguranță",
+"englishSubcategory":"Seatbelts",
+"description":"Șoferul este responsabil să se asigure că toți pasagerii sub 16 ani poartă centură de siguranță."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Centuri de siguranță, sisteme de siguranță pentru copii și pasageri",
+"subcategory":"Centuri de siguranță",
+"englishSubcategory":"Seatbelts",
+"description":"Centura de siguranță trebuie purtată în permanență în mișcare, dacă este cazul."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Centuri de siguranță, sisteme de siguranță pentru copii și pasageri",
+"subcategory":"Sisteme de siguranță pentru copii",
+"englishSubcategory":"Child Restraints",
+"description":"Un sistem de siguranță pentru copii este necesar deoarece este conceput să se potrivească și să protejeze dimensiunea și forma corpului copilului mai eficient decât o centură de siguranță pentru adulți."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Centuri de siguranță, sisteme de siguranță pentru copii și pasageri",
+"subcategory":"Pasageri",
+"englishSubcategory":"Passengers",
+"description":"Nu este sigur ca pasagerii să pună picioarele pe bord, deoarece airbag-urile și forțele de impact pot provoca răni grave."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Centuri de siguranță, sisteme de siguranță pentru copii și pasageri",
+"subcategory":"Sisteme de siguranță pentru copii",
+"englishSubcategory":"Child Restraints",
+"description":"Cea mai sigură regulă generală pentru alegerea unui sistem de siguranță pentru copii este utilizarea unuia omologat și adecvat vârstei și mărimii copilului."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Centuri de siguranță, sisteme de siguranță pentru copii și pasageri",
+"subcategory":"Centuri de siguranță",
+"englishSubcategory":"Seatbelts",
+"description":"Un semn frecvent că centura de siguranță nu este purtată corect este atunci când cureaua se află sub braț sau în spatele scaunului."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Centuri de siguranță, sisteme de siguranță pentru copii și pasageri",
+"subcategory":"Pasageri",
+"englishSubcategory":"Passengers",
+"description":"Dacă un pasager îl distrage pe șofer, cea mai sigură acțiune este să îi cereți să oprească și să se concentreze din nou asupra condusului."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Centuri de siguranță, sisteme de siguranță pentru copii și pasageri",
+"subcategory":"Sisteme de siguranță pentru copii",
+"englishSubcategory":"Child Restraints",
+"description":"Este nesigur să ții un bebeluș în poală într-un vehicul în mișcare, deoarece nu îl poți ține în siguranță în caz de accident."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Centuri de siguranță, sisteme de siguranță pentru copii și pasageri",
+"subcategory":"Centuri de siguranță",
+"englishSubcategory":"Seatbelts",
+"description":"Centura de siguranță trebuie purtată cu partea transversală jos, peste șolduri, pentru a reduce riscul de rănire a abdomenului în caz de accident."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Centuri de siguranță, sisteme de siguranță pentru copii și pasageri",
+"subcategory":"Pasageri",
+"englishSubcategory":"Passengers",
+"description":"Un risc cheie al transportului de obiecte neasigurate în cabină este acela că acestea pot deveni proiectile în caz de accident sau oprire bruscă."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Noțiuni de bază despre siguranța vehiculelor, defecte și întreținere",
+"subcategory":"Anvelope",
+"englishSubcategory":"Tyres",
+"description":"Presiunea corectă în anvelope este importantă pentru siguranță, deoarece afectează aderența, frânarea și controlul direcției."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Noțiuni de bază despre siguranța vehiculelor, defecte și întreținere",
+"subcategory":"Frâne",
+"englishSubcategory":"Brakes",
+"description":"Dacă pedala de frână este spongioasă sau se afundă mai mult decât de obicei, tratați-o ca pe o defecțiune gravă și verificați imediat frânele."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Noțiuni de bază despre siguranța vehiculelor, defecte și întreținere",
+"subcategory":"Lumini și vizibilitate",
+"englishSubcategory":"Lights & Visibility",
+"description":"Verificați periodic toate luminile vehiculului pentru a vă asigura că puteți vedea și că puteți fi văzut de ceilalți."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Noțiuni de bază despre siguranța vehiculelor, defecte și întreținere",
+"subcategory":"Direcție și suspensie",
+"englishSubcategory":"Steering & Suspension",
+"description":"Un semn de avertizare al unei probleme cu direcția poate include tracțiunea neobișnuită, vibrațiile sau dificultățile de direcție."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Noțiuni de bază despre siguranța vehiculelor, defecte și întreținere",
+"subcategory":"Parbriz și ștergătoare",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Lamele ștergătoarelor uzate reprezintă o problemă de siguranță, deoarece reduc vizibilitatea în ploaie."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Noțiuni de bază despre siguranța vehiculelor, defecte și întreținere",
+"subcategory":"Anvelope",
+"englishSubcategory":"Tyres",
+"description":"Un semn frecvent că anvelopele pot fi nesigure este dacă banda de rulare este uzată sau uzată neuniform."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Noțiuni de bază despre siguranța vehiculelor, defecte și întreținere",
+"subcategory":"Oglinzi și reglare",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Oglinzile trebuie reglate înainte de a porni la drum pentru a reduce unghiurile moarte și a îmbunătăți vigilența."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Noțiuni de bază despre siguranța vehiculelor, defecte și întreținere",
+"subcategory":"Frâne",
+"englishSubcategory":"Brakes",
+"description":"Dacă frânele scot zgomote de scrâșnet, verificați-le cât mai curând posibil."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Noțiuni de bază despre siguranța vehiculelor, defecte și întreținere",
+"subcategory":"Lumini și vizibilitate",
+"englishSubcategory":"Lights & Visibility",
+"description":"Folosiți farurile în condiții de vizibilitate redusă ori de câte ori lumina este redusă, pentru ca ceilalți să vă poată vedea."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Noțiuni de bază despre siguranța vehiculelor, defecte și întreținere",
+"subcategory":"Parbriz și ștergătoare",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Dacă parbrizul este crăpat grav în raza vizuală, reparați-l sau înlocuiți-l înainte de a continua să conduceți."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Încărcături, remorcare și conștientizare privind vehiculele grele",
+"subcategory":"Încărcări",
+"englishSubcategory":"Loads",
+"description":"Încărcăturile trebuie fixate corespunzător pentru a preveni deplasarea sau căderea lor și provocarea accidentelor."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Încărcături, remorcare și conștientizare privind vehiculele grele",
+"subcategory":"Încărcări",
+"englishSubcategory":"Loads",
+"description":"O încărcătură neasigurată în interiorul unui vehicul poate deveni un proiectil în timpul unei frânări bruște, reprezentând un risc semnificativ pentru siguranță."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Încărcături, remorcare și conștientizare privind vehiculele grele",
+"subcategory":"Încărcări",
+"englishSubcategory":"Loads",
+"description":"Transportul unui vehicul supraîncărcat afectează frânarea prin creșterea distanței de frânare."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Încărcături, remorcare și conștientizare privind vehiculele grele",
+"subcategory":"Încărcări",
+"englishSubcategory":"Loads",
+"description":"Cea mai sigură modalitate de a transporta obiecte lungi este să le fixați astfel încât să nu se poată mișca sau să iasă periculos."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Încărcături, remorcare și conștientizare privind vehiculele grele",
+"subcategory":"Remorcare",
+"englishSubcategory":"Towing",
+"description":"Tractarea unei remorci crește distanța de frânare deoarece greutatea suplimentară reduce eficiența frânării."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Încărcături, remorcare și conștientizare privind vehiculele grele",
+"subcategory":"Remorcare",
+"englishSubcategory":"Towing",
+"description":"Înainte de a tracta o remorcă, verificați dacă cuplajul, luminile și lanțul de siguranță sunt fixate."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Încărcături, remorcare și conștientizare privind vehiculele grele",
+"subcategory":"Remorcare",
+"englishSubcategory":"Towing",
+"description":"Lăsați spațiu suplimentar la virare în timpul remorcării, deoarece remorca se deplasează în interiorul traiectoriei de viraj."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Încărcături, remorcare și conștientizare privind vehiculele grele",
+"subcategory":"Încărcări",
+"englishSubcategory":"Loads",
+"description":"O încărcătură care vă blochează vizibilitatea din spate reduce gradul de conștientizare a traficului din față, crescând riscul de accidente."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Încărcături, remorcare și conștientizare privind vehiculele grele",
+"subcategory":"Vehicule grele",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Vehiculele grele au nevoie de mai mult spațiu pentru a opri, deoarece masa lor mai mare crește distanța de frânare."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Încărcături, remorcare și conștientizare privind vehiculele grele",
+"subcategory":"Vehicule grele",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Când urmăriți un camion mare, măriți distanța de urmărire pentru a ține cont de unghiurile moarte și de o distanță de frânare mai mare pentru camion."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Înmatriculare, reguli pentru plăcuțele de înmatriculare L/P și capcane practice DKT (VIC)",
+"subcategory":"Regulile permisului de începător",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Ca șofer începător în Victoria, aveți voie să conduceți o mașină doar sub supravegherea unui șofer cu permis corespunzător, așezat lângă dumneavoastră."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Înmatriculare, reguli pentru plăcuțele de înmatriculare L/P și capcane practice DKT (VIC)",
+"subcategory":"Regulile permisului de începător",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Șoferii începători trebuie să își afișeze clar plăcuțele de înmatriculare cu numărul L, astfel încât să fie vizibile pentru ceilalți șoferi din vehicul în orice moment."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Înmatriculare, reguli pentru plăcuțele de înmatriculare L/P și capcane practice DKT (VIC)",
+"subcategory":"Regulile permisului de începător",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Dacă șoferul care vă supraveghează adoarme în timp ce conduceți, opriți în siguranță și nu continuați până nu sunteți supravegheat corespunzător."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Înmatriculare, reguli pentru plăcuțele de înmatriculare L/P și capcane practice DKT (VIC)",
+"subcategory":"Telefoane mobile și dispozitive",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Ca șofer începător în Victoria, nu aveți voie să utilizați un telefon mobil în niciun fel în timp ce conduceți."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Înmatriculare, reguli pentru plăcuțele de înmatriculare L/P și capcane practice DKT (VIC)",
+"subcategory":"Regulile permisului de începător",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Dacă plăcuțele de protecție în formă de L vă cad în timpul mersului, opriți-vă în siguranță și montați-le la loc înainte de a continua să conduceți."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Înmatriculare, reguli pentru plăcuțele de înmatriculare L/P și capcane practice DKT (VIC)",
+"subcategory":"Supraveghere",
+"englishSubcategory":"Supervision",
+"description":"Principalul scop de siguranță al regulilor de supraveghere a cursanților este de a asigura că un șofer experimentat poate ghida și interveni, dacă este necesar."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Înmatriculare, reguli pentru plăcuțele de înmatriculare L/P și capcane practice DKT (VIC)",
+"subcategory":"Condiții și conformitate",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Dacă un șofer începător este prins conducând fără supravegherea necesară, sunt probabile sancțiuni și posibile consecințe asupra permisului."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Înmatriculare, reguli pentru plăcuțele de înmatriculare L/P și capcane practice DKT (VIC)",
+"subcategory":"Percepția pericolului",
+"englishSubcategory":"Hazard Perception",
+"description":"O capcană frecventă la intersecții pentru șoferii începători este virarea fără a verifica dacă pietonii traversează drumul pe care intri."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Înmatriculare, reguli pentru plăcuțele de înmatriculare L/P și capcane practice DKT (VIC)",
+"subcategory":"Percepția pericolului",
+"englishSubcategory":"Hazard Perception",
+"description":"Chiar dacă semaforul este verde, trebuie să încetiniți sau să opriți dacă traficul este blocat în față sau dacă pietonii traversează."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Înmatriculare, reguli pentru plăcuțele de înmatriculare L/P și capcane practice DKT (VIC)",
+"subcategory":"Regulile permisului de începător",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Dacă supravegheați un elev, șoferul supraveghetor trebuie să stea întotdeauna pe scaunul pasagerului din față."
+}
+]

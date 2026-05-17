@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Pravidlá a zákony cestnej premávky",
+"subcategory":"Všeobecné pravidlá cestnej premávky",
+"englishSubcategory":"General Road Rules",
+"description":"Vodiči musia dodržiavať všeobecné pravidlá cestnej premávky, aby zabezpečili bezpečnosť a plynulý chod premávky. To zahŕňa dodržiavanie dopravných značiek, signálov a vodorovného dopravného značenia. Nedodržiavanie týchto pravidiel môže viesť k nehodám a pokutám."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Pravidlá a zákony cestnej premávky",
+"subcategory":"Ustupovanie",
+"englishSubcategory":"Giving Way",
+"description":"Vodiči sú povinní dať prednosť iným vozidlám alebo chodcom na križovatkách, kruhových objazdoch a priechodoch pre chodcov, okrem iného. Nedať prednosť je priestupok."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Pravidlá a zákony cestnej premávky",
+"subcategory":"Používanie jazdných pruhov",
+"englishSubcategory":"Lane Use",
+"description":"Vodiči musia používať príslušné jazdné pruhy a dodržiavať vodorovné dopravné značenie. To zahŕňa pravidlá pre zmenu jazdného pruhu, predbiehanie a používanie pruhov pre cyklistov alebo autobusy. Porušenia môžu viesť k pokutám alebo nehodám."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Pravidlá a zákony cestnej premávky",
+"subcategory":"Električky",
+"englishSubcategory":"Trams",
+"description":"Vodiči musia poznať pravidlá pre električky vrátane udeľovania prednosti chodcom na električkových zastávkach, zastavovania pred električkami s otvorenými dverami a zákazu predbiehania električiek za určitých podmienok."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Pravidlá a zákony cestnej premávky",
+"subcategory":"Križovatky",
+"englishSubcategory":"Intersections",
+"description":"Na križovatkách musia vodiči dodržiavať správne postupy pre udeľovanie prednosti v jazde a zastavenie na značkách stop alebo na semaforoch. Pochopenie týchto pravidiel je nevyhnutné pre predchádzanie nehodám."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Pravidlá a zákony cestnej premávky",
+"subcategory":"Otočenie v protismere",
+"englishSubcategory":"U-Turns",
+"description":"Otáčanie v protismere je povolené iba na križovatkách alebo tam, kde ho nezakazuje žiadna značka. Vodiči sa musia pred vykonaním otáčania uistiť, že je to bezpečné."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Pravidlá a zákony cestnej premávky",
+"subcategory":"Rýchlostné limity",
+"englishSubcategory":"Speed Limits",
+"description":"Vodiči musia dodržiavať stanovené rýchlostné limity, aby zaistili bezpečnosť na cestách. Prekročenie rýchlosti môže mať za následok pokuty, stratu vodičského preukazu a zvýšené riziko nehôd."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Pravidlá a zákony cestnej premávky",
+"subcategory":"Bezpečnosť chodcov",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Vodiči musia dať prednosť chodcom na priechodoch a zabezpečiť ich bezpečnosť v blízkosti peších zón. Nezastavenie pred chodcami na priechodoch je priestupkom."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Pravidlá a zákony cestnej premávky",
+"subcategory":"Železničné priecestia",
+"englishSubcategory":"Railway Crossings",
+"description":"Vodiči musia zastaviť na železničných priecestiach, keď blikajú svetlá alebo sú spustené závory. Ignorovanie týchto signálov je vážnym priestupkom a môže mať za následok pokuty a nehody."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Pravidlá a zákony cestnej premávky",
+"subcategory":"Záchranné vozidlá",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Vodiči musia dať prednosť vozidlám záchrannej služby pomocou blikajúcich svetiel a sirén a zabezpečiť, aby vozidlo malo voľnú cestu na pohyb v premávke."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Dopravné značky a signály",
+"subcategory":"Regulačné značky",
+"englishSubcategory":"Regulatory Signs",
+"description":"Regulačné značky poskytujú vodičom povinné pokyny, ako sú napríklad rýchlostné obmedzenia, obmedzenia odbočovania a značky zákazu vjazdu. Dodržiavanie týchto značiek je zo zákona povinné na udržanie bezpečnosti a poriadku na cestách."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Dopravné značky a signály",
+"subcategory":"Výstražné signály",
+"englishSubcategory":"Warning Signs",
+"description":"Výstražné značky upozorňujú vodičov na potenciálne nebezpečenstvá, ako sú ostré zákruty, školské zóny a priechody pre divokú zver. Tieto značky pomáhajú vodičom prispôsobiť jazdu, aby sa predišlo nehodám."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Dopravné značky a signály",
+"subcategory":"Značky rýchlosti",
+"englishSubcategory":"Speed Signs",
+"description":"Značky rýchlosti označujú maximálnu alebo minimálnu povolenú rýchlosť na ceste. Vodiči musia tieto obmedzenia dodržiavať, aby zabezpečili bezpečné jazdné podmienky a vyhli sa pokutám."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Dopravné značky a signály",
+"subcategory":"Semafory",
+"englishSubcategory":"Traffic Lights",
+"description":"Semafory riadia tok vozidiel a chodcov na križovatkách. Červená znamená stop, zelená znamená jazdu a žltá je upozornenie na prípravu na zastavenie."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Dopravné značky a signály",
+"subcategory":"Signály pre chodcov",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Semafory pre chodcov označujú, kedy je bezpečné prechádzať cez cestu. Tieto signály zvyčajne fungujú koordinovane so semaformi, aby sa zabezpečila bezpečnosť chodcov."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Dopravné značky a signály",
+"subcategory":"Signály pre riadenie jazdných pruhov",
+"englishSubcategory":"Lane Control Signals",
+"description":"Signály ovládajúce jazdný pruh sa používajú na označenie, či je jazdný pruh otvorený alebo uzavretý. Tieto signály sa zvyčajne používajú na viacpruhových cestách a v tuneloch."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Dopravné značky a signály",
+"subcategory":"Značky zákazu parkovania",
+"englishSubcategory":"No Parking Signs",
+"description":"Značky „žiadne parkovanie“ označujú oblasti, kde je zastavenie alebo parkovanie zakázané. Zvyčajne sa tak robí na zabezpečenie plynulého chodu premávky a zachovanie bezpečnosti."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Dopravné značky a signály",
+"subcategory":"Jednosmerné značky",
+"englishSubcategory":"One-Way Signs",
+"description":"Jednosmerné značky označujú, že premávka musí prebiehať iba jedným smerom. Nedodržiavanie týchto značiek môže viesť k nehodám a právnym následkom."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Dopravné značky a signály",
+"subcategory":"Značky Stop",
+"englishSubcategory":"Stop Signs",
+"description":"Značky Stop vyžadujú, aby vodiči úplne zastavili a dali prednosť iným vozidlám alebo chodcom pred pokračovaním v jazde."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Dopravné značky a signály",
+"subcategory":"Značky Dajte prednosť v jazde",
+"englishSubcategory":"Give Way Signs",
+"description":"Značky „daj prednosť v premávke“ vyzývajú vodičov, aby dali prednosť ostatným účastníkom cestnej premávky, či už chodcom alebo vozidlám, v závislosti od situácie, aby sa predišlo nehodám."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Pravidlá rýchlosti a vzdialenosti",
+"subcategory":"Rýchlostné limity",
+"englishSubcategory":"Speed Limits",
+"description":"Predvolený rýchlostný limit v zastavanej oblasti vo Viktórii je 50 km/h, pokiaľ nie je vyznačené inak. Vždy skontrolujte, či nie sú na vozidle umiestnené dopravné značky, aby ste sa uistili, že jazdíte v rámci zákonných rýchlostných limitov."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Pravidlá rýchlosti a vzdialenosti",
+"subcategory":"Rýchlostné limity",
+"englishSubcategory":"Speed Limits",
+"description":"V označenej školskej zóne počas hodín uvedených na značke je rýchlostný limit znížený na 40 km/h, aby sa zabezpečila bezpečnosť detí prechádzajúcich cez cestu."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Pravidlá rýchlosti a vzdialenosti",
+"subcategory":"Sledovacia vzdialenosť",
+"englishSubcategory":"Following Distance",
+"description":"Minimálna bezpečná vzdialenosť za ideálnych podmienok je aspoň dve sekundy za vozidlom pred vami. To poskytuje dostatok času na reakciu, ak vozidlo pred vami náhle zastaví."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Pravidlá rýchlosti a vzdialenosti",
+"subcategory":"Rýchlostné limity",
+"englishSubcategory":"Speed Limits",
+"description":"Pri míňaní zastavenej električky v bezpečnostnej zóne musíte znížiť rýchlosť na 10 km/h, aby ste zaistili bezpečnosť cestujúcich nastupujúcich alebo vystupujúcich z električky."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Pravidlá rýchlosti a vzdialenosti",
+"subcategory":"Rýchlostné limity",
+"englishSubcategory":"Speed Limits",
+"description":"Na vidieckych cestách bez dopravných značiek je predvolený rýchlostný limit 100 km/h, pokiaľ miestne dopravné značky neurčujú inak. Pre zachovanie bezpečnosti prispôsobte rýchlosť podmienkam vozovky."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Pravidlá rýchlosti a vzdialenosti",
+"subcategory":"Sledovacia vzdialenosť",
+"englishSubcategory":"Following Distance",
+"description":"Za mokrého počasia by ste mali zvýšiť odstup od vozidla aspoň na štyri sekundy. Mokré vozovky znižujú trakciu, čo si vyžaduje viac času na bezpečné zastavenie."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Pravidlá rýchlosti a vzdialenosti",
+"subcategory":"Rýchlostné limity",
+"englishSubcategory":"Speed Limits",
+"description":"Vždy dodržiavajte elektronické značky s premenlivým obmedzením rýchlosti, keď sú v prevádzke. Tieto značky upravujú rýchlostné limity na základe dopravných podmienok, počasia alebo dopravných nehôd."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Pravidlá rýchlosti a vzdialenosti",
+"subcategory":"Brzdná dráha",
+"englishSubcategory":"Stopping Distance",
+"description":"S rastúcou rýchlosťou sa zvyšuje aj brzdná dráha potrebná na bezpečné zastavenie vozidla. Vždy sa uistite, že máte dostatočný odstup na reakciu na nebezpečenstvo."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Pravidlá rýchlosti a vzdialenosti",
+"subcategory":"Rýchlostné limity",
+"englishSubcategory":"Speed Limits",
+"description":"V zdieľaných zónach je rýchlostný limit vo všeobecnosti 10 km/h, aby sa zabezpečila bezpečnosť chodcov a cyklistov v týchto oblastiach, kde dochádza k interakcii vozidiel a nemotorizovaných účastníkov cestnej premávky."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Pravidlá rýchlosti a vzdialenosti",
+"subcategory":"Sledovacia vzdialenosť",
+"englishSubcategory":"Following Distance",
+"description":"Jazda za vozidlom s chvostovým spojom je nebezpečná, pretože znižuje reakčný čas a čas brzdenia. Vždy dodržiavajte bezpečnú vzdialenosť od vozidla, najmä pri jazde za väčšími vozidlami, ktoré vám môžu brániť vo výhľade."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Zodpovednosti vodiča",
+"subcategory":"Právne povinnosti",
+"englishSubcategory":"Legal Obligations",
+"description":"Vodiči musia spĺňať rôzne zákonné povinnosti, ako napríklad poskytovanie pomoci po nehode, výmena údajov po nehodách a hlásenie incidentov orgánom podľa zákona."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Zodpovednosti vodiča",
+"subcategory":"Pozornosť a kontrola",
+"englishSubcategory":"Attention & Control",
+"description":"Vodiči musia mať neustále kontrolu nad svojím vozidlom, vyhýbať sa rozptyľovaniu a sústrediť sa, aby zaistili svoju vlastnú bezpečnosť a bezpečnosť ostatných účastníkov cestnej premávky."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Zodpovednosti vodiča",
+"subcategory":"Právne povinnosti",
+"englishSubcategory":"Legal Obligations",
+"description":"V prípade nehody, ktorá spôsobí zranenie, musia vodiči zastaviť a poskytnúť pomoc, ak je to možné. Neposkytnutie pomoci v takýchto situáciách je porušením zákona."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Zodpovednosti vodiča",
+"subcategory":"Pozornosť a kontrola",
+"englishSubcategory":"Attention & Control",
+"description":"Je nevyhnutné, aby vodiči mali neustále plnú kontrolu nad svojím vozidlom, aby mohli primerane reagovať na meniace sa dopravné podmienky a udržiavať bezpečné prostredie pre jazdu."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Zodpovednosti vodiča",
+"subcategory":"Právne povinnosti",
+"englishSubcategory":"Legal Obligations",
+"description":"Vodiči musia nahlásiť nehodu polícii, ak sa niekto zraní alebo dôjde k poškodeniu majetku, a údaje nie je možné vymieňať. Nenahlásenie týchto incidentov môže mať za následok pokuty."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Zodpovednosti vodiča",
+"subcategory":"Zvládanie únavy",
+"englishSubcategory":"Fatigue Management",
+"description":"Únava predstavuje vážne riziko počas jazdy. Vodiči by si mali byť vedomí včasných príznakov únavy, ako je zívanie a strata sústredenia, a mali by podniknúť vhodné kroky na predchádzanie nehodám."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Zodpovednosti vodiča",
+"subcategory":"Právne povinnosti",
+"englishSubcategory":"Legal Obligations",
+"description":"Vodiči musia na požiadanie polície predložiť svoj vodičský preukaz. Odmietnutie predložiť vodičský preukaz môže mať za následok pokuty alebo ďalšie právne následky."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Zodpovednosti vodiča",
+"subcategory":"Pozornosť a kontrola",
+"englishSubcategory":"Attention & Control",
+"description":"Vodiči by sa mali vyhýbať zbytočnému používaniu klaksónu, pretože môže vyľakať alebo rozptýliť ostatných účastníkov cestnej premávky. Klaksón by sa mal používať na upozornenie ostatných na vašu prítomnosť iba v situáciách, keď je to nevyhnutné."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Zodpovednosti vodiča",
+"subcategory":"Zvládanie únavy",
+"englishSubcategory":"Fatigue Management",
+"description":"Ak sa cítite príliš unavení na to, aby ste pokračovali v jazde, najbezpečnejšou reakciou je zastaviť a oddýchnuť si pred pokračovaním. Jazda v únave výrazne zvyšuje riziko nehôd."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Zodpovednosti vodiča",
+"subcategory":"Právne povinnosti",
+"englishSubcategory":"Legal Obligations",
+"description":"Vodiči sú zodpovední za to, aby ich cestujúci bezpečne sedeli a boli pripútaní. To zahŕňa aj zabezpečenie toho, aby deti boli vo vhodných detských autosedačkách a aby dospelí používali bezpečnostné pásy."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkohol, drogy a zdravie",
+"subcategory":"Limity alkoholu",
+"englishSubcategory":"Alcohol Limits",
+"description":"Vo Viktórii musia mať vodiči v skúšobnej dobe (P1 a P2) neustále koncentráciu alkoholu v krvi (BAC) na úrovni 0,00. Vodiči s plne licencovaným vodičským preukazom majú limit BAC 0,05, ale je bezpečnejšie počas jazdy vôbec nepiť."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkohol, drogy a zdravie",
+"subcategory":"Účinky alkoholu",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkohol zhoršuje úsudok, reakčný čas a koordináciu, čo môže výrazne zvýšiť riziko nehôd. Aj malé množstvo alkoholu môže znížiť vašu schopnosť bezpečne šoférovať."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkohol, drogy a zdravie",
+"subcategory":"Jazda pod vplyvom drog",
+"englishSubcategory":"Drug Driving",
+"description":"Jazda pod vplyvom drog, vrátane liekov na predpis, môže zhoršiť vašu schopnosť šoférovať, aj keď sa necítite ovplyvnení. Je dôležité si byť vedomý rizík a vyhnúť sa šoférovaniu po užití drog."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkohol, drogy a zdravie",
+"subcategory":"Bezpečnosť liekov",
+"englishSubcategory":"Medication Safety",
+"description":"Pred začatím užívania nového lieku na predpis si overte, či neovplyvňuje vašu schopnosť viesť vozidlo a riaďte sa lekárskymi radami. Niektoré lieky môžu spôsobiť ospalosť alebo zhoršiť koncentráciu."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkohol, drogy a zdravie",
+"subcategory":"Únava a zdravie",
+"englishSubcategory":"Fatigue & Health",
+"description":"Únava môže znížiť vašu schopnosť bezpečne šoférovať, rovnako ako alkohol alebo drogy. Pred jazdou si zabezpečte dostatočný odpočinok a počas dlhých ciest si robte prestávky, aby ste znížili riziko nehôd súvisiacich s únavou."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Alkohol, drogy a zdravie",
+"subcategory":"Účinky alkoholu",
+"englishSubcategory":"Alcohol Effects",
+"description":"Po požití alkoholu môže množstvo alkoholu vo vašom tele znížiť iba čas. Káva, studené sprchy ani iné metódy tento proces neurýchlia."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Alkohol, drogy a zdravie",
+"subcategory":"Limity alkoholu",
+"englishSubcategory":"Alcohol Limits",
+"description":"Vo Viktórii musia všetci vodiči v skúšobnej dobe a uchádzači o jazdu udržiavať hladinu alkoholu v krvi na úrovni 0,00. Pre vodičov s plne oprávneným vodičským preukazom je limit BAC 0,05. Najbezpečnejšou možnosťou je však vždy vyhýbať sa alkoholu pred jazdou."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Alkohol, drogy a zdravie",
+"subcategory":"Jazda pod vplyvom drog",
+"englishSubcategory":"Drug Driving",
+"description":"Vo Viktórii môžete byť potrestaní za vedenie vozidla s určitými drogami v tele, aj keď sa necítite ovplyvnení. Pod vplyvom drog ovplyvňuje vašu schopnosť bezpečne šoférovať a zvyšuje riziko nehôd."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Alkohol, drogy a zdravie",
+"subcategory":"Bezpečnosť liekov",
+"englishSubcategory":"Medication Safety",
+"description":"Pred jazdou si vždy overte, či nové lieky nemôžu ovplyvniť vašu schopnosť viesť vozidlo. Niektoré lieky spôsobujú ospalosť, zhoršujú reakčné časy a znižujú koncentráciu."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Alkohol, drogy a zdravie",
+"subcategory":"Únava a zdravie",
+"englishSubcategory":"Fatigue & Health",
+"description":"Únava môže mať na vedenie vozidla podobný vplyv ako alkohol. Spomaľuje reakčný čas, zhoršuje úsudok a znižuje schopnosť robiť rozhodnutia, čím zvyšuje riziko nehôd."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Bezpečné jazdné postupy",
+"subcategory":"Vnímanie nebezpečenstva",
+"englishSubcategory":"Hazard Perception",
+"description":"Pri priblížení sa k potenciálnemu nebezpečenstvu je najbezpečnejšou reakciou spomaliť a pripraviť sa na zastavenie, ak je to potrebné. To vám dá čas na vyhodnotenie situácie a vhodnú reakciu."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Bezpečné jazdné postupy",
+"subcategory":"Vnímanie nebezpečenstva",
+"englishSubcategory":"Hazard Perception",
+"description":"Dôkladné sledovanie pred sebou počas jazdy je kľúčové pre včasné odhalenie potenciálnych nebezpečenstiev. To vám umožňuje naplánovať si reakciu a vyhnúť sa náhlym reakciám."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Bezpečné jazdné postupy",
+"subcategory":"Defenzívna jazda",
+"englishSubcategory":"Defensive Driving",
+"description":"Defenzívna jazda zahŕňa predvídanie potenciálnych chýb ostatných účastníkov cestnej premávky a udržiavanie bezpečnej vzdialenosti, aby sa predišlo zrážkam."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Bezpečné jazdné postupy",
+"subcategory":"Stav vozovky",
+"englishSubcategory":"Road Conditions",
+"description":"Ak vaše pneumatiky stratia priľnavosť na mokrej vozovke, uvoľnite plynový pedál a plynulo riaďte. Náhle brzdenie alebo ostré zákruty môžu situáciu zhoršiť a viesť k strate kontroly nad vozidlom."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Bezpečné jazdné postupy",
+"subcategory":"Vnímanie nebezpečenstva",
+"englishSubcategory":"Hazard Perception",
+"description":"Pri jazde v premávke je najlepším miestom na sledovanie nebezpečenstiev ďaleko vpredu a po stranách, nielen na auto pred vami. To vám pomôže predvídať riziká skôr."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Bezpečné jazdné postupy",
+"subcategory":"Defenzívna jazda",
+"englishSubcategory":"Defensive Driving",
+"description":"Ak sa vozidlo pred vami kľukatí v jazdnom pruhu, najbezpečnejšou reakciou je zväčšiť odstup od neho. To vám dá viac času na reakciu, ak sa situácia zhorší."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Bezpečné jazdné postupy",
+"subcategory":"Stav vozovky",
+"englishSubcategory":"Road Conditions",
+"description":"Cesta je často najšmykľavejšia v prvých minútach po daždi. Počas tohto obdobia buďte obzvlášť opatrní, pretože oleje a nečistoty na ceste ju môžu zvýšiť."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Bezpečné jazdné postupy",
+"subcategory":"Nočná jazda",
+"englishSubcategory":"Night Driving",
+"description":"Aby ste v noci predišli oslneniu od protiidúcich svetlometov, pozrite sa mierne na ľavý okraj jazdného pruhu a v prípade potreby spomalte. Pomôže to vyhnúť sa priamemu vystaveniu jasným svetlám."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Bezpečné jazdné postupy",
+"subcategory":"Defenzívna jazda",
+"englishSubcategory":"Defensive Driving",
+"description":"Ak vás vodič sleduje príliš tesne, najbezpečnejším postupom je zväčšiť odstup od vozidla pred vami. To vám aj vodičovi idúcemu zozadu poskytne viac priestoru na reakciu."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Bezpečné jazdné postupy",
+"subcategory":"Stav vozovky",
+"englishSubcategory":"Road Conditions",
+"description":"Pri jazde do hmly znížte rýchlosť a dodržiavajte dostatočný odstup od ostatných vozidiel. Hmla výrazne znižuje viditeľnosť a zvyšuje riziko nehôd."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Križovatky, odbočky a kruhové objazdy",
+"subcategory":"Ustupovanie",
+"englishSubcategory":"Giving Way",
+"description":"Na križovatkách bez značenia alebo signálov musí vozidlo prichádzajúce sprava dať prednosť vozidlu prichádzajúcemu zľava."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Križovatky, odbočky a kruhové objazdy",
+"subcategory":"Otáča sa",
+"englishSubcategory":"Turns",
+"description":"Pri odbočovaní doprava na semaforoch bez šípky pre odbočovanie vpravo musíte dať prednosť protiidúcim vozidlám a chodcom pred pokračovaním v jazde."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Križovatky, odbočky a kruhové objazdy",
+"subcategory":"Kruhové objazdy",
+"englishSubcategory":"Roundabouts",
+"description":"Na kruhovom objazde majú prednosť vozidlá, ktoré sa už nachádzajú v kruhovom objazde. Vodiči vchádzajúci do kruhového objazdu im musia dať prednosť."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Križovatky, odbočky a kruhové objazdy",
+"subcategory":"Otáča sa",
+"englishSubcategory":"Turns",
+"description":"Pri odbočovaní doľava musíte dať prednosť chodcom prechádzajúcim cez cestu, na ktorú vchádzate, a zabezpečiť ich bezpečnosť."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Križovatky, odbočky a kruhové objazdy",
+"subcategory":"Ustupovanie",
+"englishSubcategory":"Giving Way",
+"description":"Na križovatke v tvare T musí vozidlo na končiacej ceste dať prednosť vozidlám na pokračujúcej ceste."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Križovatky, odbočky a kruhové objazdy",
+"subcategory":"Otáča sa",
+"englishSubcategory":"Turns",
+"description":"Pri otáčaní v protismere musíte dať prednosť všetkým ostatným vozidlám a chodcom a zabezpečiť ich bezpečnosť počas odbočovania."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Križovatky, odbočky a kruhové objazdy",
+"subcategory":"Kruhové objazdy",
+"englishSubcategory":"Roundabouts",
+"description":"Pri výjazde z kruhového objazdu dajte tesne pred výjazdom smerovku doľava, aby ste informovali ostatných účastníkov cestnej premávky o svojom zámere."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Križovatky, odbočky a kruhové objazdy",
+"subcategory":"Ustupovanie",
+"englishSubcategory":"Giving Way",
+"description":"Pri vjazde na cestu z príjazdovej cesty musíte dať prednosť všetkým vozidlám a chodcom na ceste, aby ste predišli nehodám."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Križovatky, odbočky a kruhové objazdy",
+"subcategory":"Otáča sa",
+"englishSubcategory":"Turns",
+"description":"Pred odbočením doprava umiestnite vozidlo čo najbližšie k stredu vozovky, aby ste zabezpečili bezpečné a jasné odbočenie."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Križovatky, odbočky a kruhové objazdy",
+"subcategory":"Semafory",
+"englishSubcategory":"Traffic Lights",
+"description":"Zelená šípka označuje, že môžete pokračovať v smere šípky bez toho, aby ste dali prednosť iným cestným premávkam alebo chodcom."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Dopravné značenie, jazdné pruhy a predbiehanie",
+"subcategory":"Používanie jazdných pruhov",
+"englishSubcategory":"Lane Use",
+"description":"Súvislá stredová čiara vo všeobecnosti znamená, že ju nesmiete prekročiť, s výnimkou vjazdu na cestu alebo príjazdovú cestu alebo výjazdu z nej."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Dopravné značenie, jazdné pruhy a predbiehanie",
+"subcategory":"Predbiehanie",
+"englishSubcategory":"Overtaking",
+"description":"Predbiehanie vľavo je povolené na viacpruhovej ceste, ak premávka prebieha v samostatných vyznačených jazdných pruhoch a je to bezpečné."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Dopravné značenie, jazdné pruhy a predbiehanie",
+"subcategory":"Predbiehanie",
+"englishSubcategory":"Overtaking",
+"description":"Vozidlo vľavo na jednopruhovej ceste môžete predbiehať, keď vozidlo pred vami odbočuje doprava a je to bezpečné."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Dopravné značenie, jazdné pruhy a predbiehanie",
+"subcategory":"Používanie jazdných pruhov",
+"englishSubcategory":"Lane Use",
+"description":"Pred zmenou jazdného pruhu dajte znamenie a uistite sa, že je to bezpečné. Tým sa zabezpečí, že ostatní účastníci cestnej premávky budú vedieť o vašich zámeroch a predíde sa nehodám."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Dopravné značenie, jazdné pruhy a predbiehanie",
+"subcategory":"Dopravné značenie",
+"englishSubcategory":"Road Markings",
+"description":"Natretý dopravný ostrovček alebo šípové označenie označuje, že na ňom nesmiete jazdiť, čím sa zabezpečuje bezpečný pohyb premávky."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Dopravné značenie, jazdné pruhy a predbiehanie",
+"subcategory":"Predbiehanie",
+"englishSubcategory":"Overtaking",
+"description":"Ak si nie ste istí, či je bezpečné predbiehať, najbezpečnejším krokom je nepredbiehať. Pred predbehnutím vždy zhodnoťte situáciu."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Dopravné značenie, jazdné pruhy a predbiehanie",
+"subcategory":"Používanie jazdných pruhov",
+"englishSubcategory":"Lane Use",
+"description":"Prerušovaná stredová čiara znamená, že ju môžete prekročiť, ak je to bezpečné, čo umožňuje predbiehanie alebo zmenu jazdného pruhu."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Dopravné značenie, jazdné pruhy a predbiehanie",
+"subcategory":"Používanie jazdných pruhov",
+"englishSubcategory":"Lane Use",
+"description":"Jazda v dvoch jazdných pruhoch je povolená iba vtedy, ak to umožňuje vodorovné dopravné značenie. Vo väčšine jazdných podmienok to zvyčajne nie je bezpečné ani povolené."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Dopravné značenie, jazdné pruhy a predbiehanie",
+"subcategory":"Predbiehanie",
+"englishSubcategory":"Overtaking",
+"description":"Ak vozidlo, ktoré predbiehate, začne zrýchľovať, najbezpečnejšou reakciou je prerušiť predbiehanie, ak je to bezpečné, a cúvnuť."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Dopravné značenie, jazdné pruhy a predbiehanie",
+"subcategory":"Dopravné značenie",
+"englishSubcategory":"Road Markings",
+"description":"Dvojitá súvislá stredová čiara znamená, že ju za žiadnych okolností nesmiete prekročiť ani prekročiť, čím sa zabezpečí plynulosť a bezpečnosť premávky."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Pravidlá zastavenia, parkovania a cestnej premávky",
+"subcategory":"Zákaz zastavenia a parkovania",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Zákaz zastavenia znamená, že nesmiete vôbec zastaviť, zatiaľ čo zákaz parkovania umožňuje krátke zastavenie na nástup alebo výstup."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Pravidlá zastavenia, parkovania a cestnej premávky",
+"subcategory":"Zákaz zastavenia a parkovania",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"V zóne so zákazom parkovania je povolené zastaviť len na tak dlho, aby ste mohli nastúpiť alebo vystúpiť."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Pravidlá zastavenia, parkovania a cestnej premávky",
+"subcategory":"Parkovanie v blízkosti križovatiek",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Parkovanie v blízkosti križovatky je často obmedzené, pretože môže obmedziť viditeľnosť a vytvoriť nebezpečenstvo pre vodičov aj chodcov."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Pravidlá zastavenia, parkovania a cestnej premávky",
+"subcategory":"Zákaz zastavenia a parkovania",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"V zóne so zákazom zastavenia nesmiete zastaviť, a to ani v prípade, že telefonujete alebo potrebujete rýchlo zastaviť."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Pravidlá zastavenia, parkovania a cestnej premávky",
+"subcategory":"Priechody",
+"englishSubcategory":"Clearways",
+"description":"Voľný priestor znamená, že počas prevádzkových hodín nesmiete na danej strane cesty zastaviť ani parkovať."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Pravidlá zastavenia, parkovania a cestnej premávky",
+"subcategory":"Parkovanie v blízkosti križovatiek",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Zastavenie v blízkosti priechodu pre chodcov je nebezpečné, pretože môže skryť chodcov pred prichádzajúcimi vodičmi, čím sa zvyšuje riziko nehôd."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Pravidlá zastavenia, parkovania a cestnej premávky",
+"subcategory":"Zastavenie z bezpečnostných dôvodov",
+"englishSubcategory":"Stopping for Safety",
+"description":"V zóne so zákazom zastavenia smiete zastaviť iba v prípade, ak to vyžadujú dopravné podmienky alebo v núdzovej situácii."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Pravidlá zastavenia, parkovania a cestnej premávky",
+"subcategory":"Parkovanie na kopcoch",
+"englishSubcategory":"Parking on Hills",
+"description":"Pri parkovaní na kopci vždy zatiahnite ručnú brzdu a zaistite vozidlo, aby ste znížili riziko prevrátenia."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Pravidlá zastavenia, parkovania a cestnej premávky",
+"subcategory":"Parkovanie v blízkosti križovatiek",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Nesmiete parkovať príliš blízko rohu, pretože to môže blokovať výhľad na protiidúcu premávku a chodcov, čím vytvára nebezpečenstvo."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Pravidlá zastavenia, parkovania a cestnej premávky",
+"subcategory":"Zákaz zastavenia a parkovania",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Značka Zákaz státia s vyznačenými časmi znamená, že obmedzenie platí iba v časoch zobrazených na značke."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Chodci, cyklisti a zraniteľní účastníci cestnej premávky",
+"subcategory":"Chodci",
+"englishSubcategory":"Pedestrians",
+"description":"Pri odbočovaní musia vodiči dať prednosť chodcom prechádzajúcim cez cestu, na ktorú vchádzajú. Toto platí aj v prípade, že chodec nie je na vyhradenom priechode."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Chodci, cyklisti a zraniteľní účastníci cestnej premávky",
+"subcategory":"Cyklisti",
+"englishSubcategory":"Cyclists",
+"description":"Vodiči musia pri predbiehaní cyklistov nechať viac miesta, pretože tí môžu potrebovať priestor na vyhýbanie sa nebezpečenstvu alebo udržiavanie rovnováhy."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Chodci, cyklisti a zraniteľní účastníci cestnej premávky",
+"subcategory":"Chodci",
+"englishSubcategory":"Pedestrians",
+"description":"V blízkosti nákupných zón alebo zastávok verejnej dopravy by vodiči mali počítať so zvýšenou aktivitou chodcov a náhlym prechádzaním cez cestu. V týchto oblastiach buďte vždy ostražití."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Chodci, cyklisti a zraniteľní účastníci cestnej premávky",
+"subcategory":"Cyklisti",
+"englishSubcategory":"Cyclists",
+"description":"Keď cyklista jazdí vo vyznačenom cyklistickom pruhu, vodiči sa musia vyhýbať jazde v tomto pruhu, pokiaľ to nie je povolené a bezpečné."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Chodci, cyklisti a zraniteľní účastníci cestnej premávky",
+"subcategory":"Deti",
+"englishSubcategory":"Children",
+"description":"Vodiči musia byť v blízkosti škôl obzvlášť opatrní, pretože deti sa môžu správať nepredvídateľne a nesprávne odhadnúť premávku. V školských zónach spomaľte."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Chodci, cyklisti a zraniteľní účastníci cestnej premávky",
+"subcategory":"Cyklisti",
+"englishSubcategory":"Cyclists",
+"description":"Ak cyklista jazdí stredom úzkeho pruhu, vodiči by mali počkať, kým bude bezpečné predbehnúť ho s dostatočným priestorom, a nie ho predbiehať násilím."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Chodci, cyklisti a zraniteľní účastníci cestnej premávky",
+"subcategory":"Chodci",
+"englishSubcategory":"Pedestrians",
+"description":"Na detskom priechode musia vodiči zastaviť, keď sú vyvesené vlajky a sú prítomní chodci, aby sa zabezpečila bezpečnosť detí."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Chodci, cyklisti a zraniteľní účastníci cestnej premávky",
+"subcategory":"Cyklisti",
+"englishSubcategory":"Cyclists",
+"description":"Vodiči by si mali pred odbočením vždy skontrolovať svoje mŕtve uhly, pretože cyklisti môžu jazdiť vedľa nich neviditeľne, najmä v mestských oblastiach."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Chodci, cyklisti a zraniteľní účastníci cestnej premávky",
+"subcategory":"Seniori a osoby so zdravotným postihnutím",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Starší chodci môžu potrebovať na prechod cez cestu viac času, pretože môžu kráčať pomalšie alebo mať problémy s pohyblivosťou. Dajte im priestor a čas na bezpečný prechod cez cestu."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Chodci, cyklisti a zraniteľní účastníci cestnej premávky",
+"subcategory":"Cyklisti",
+"englishSubcategory":"Cyclists",
+"description":"Cyklistov môže byť ťažšie vidieť pri priblížení sa ku križovatkám a môžu sa pohybovať rýchlo. Vždy dajte cyklistom priestor a čas na bezpečnú jazdu."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Špeciálne situácie a cestné prostredie",
+"subcategory":"Školské zóny",
+"englishSubcategory":"School Zones",
+"description":"Rýchlostné obmedzenia v školskej zóne platia iba v časoch uvedených na značkách. Pre zaistenie bezpečnosti detí ich dodržiavajte."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Špeciálne situácie a cestné prostredie",
+"subcategory":"Školské zóny",
+"englishSubcategory":"School Zones",
+"description":"Vodiči musia v školských zónach spomaliť, aj keď nie sú viditeľné žiadne deti, pretože deti sa môžu objaviť náhle a nepredvídateľne."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Špeciálne situácie a cestné prostredie",
+"subcategory":"Práce na ceste",
+"englishSubcategory":"Roadworks",
+"description":"Pri približovaní sa k cestným prácam spomaľte a riaďte sa všetkými dočasnými značkami, aby ste zaistili bezpečnosť pracovníkov a ostatných účastníkov cestnej premávky."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Špeciálne situácie a cestné prostredie",
+"subcategory":"Práce na ceste",
+"englishSubcategory":"Roadworks",
+"description":"V zónach cestných prác sú rýchlostné limity znížené, aby sa zabezpečila bezpečnosť pracovníkov a prispôsobili sa zmenám v podmienkach na cestách."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Špeciálne situácie a cestné prostredie",
+"subcategory":"Vidiecke cesty",
+"englishSubcategory":"Rural Roads",
+"description":"Na vidieckych cestách sa môže divá zver objaviť na vozovke nečakane. Pri jazde cez vidiecke oblasti buďte vždy pripravení zastaviť alebo spomaliť."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Špeciálne situácie a cestné prostredie",
+"subcategory":"Vidiecke cesty",
+"englishSubcategory":"Rural Roads",
+"description":"Nespevnené cesty majú často zníženú priľnavosť a brzdnú schopnosť. Vodiči by mali pri jazde na neupravenom povrchu znížiť rýchlosť."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Špeciálne situácie a cestné prostredie",
+"subcategory":"Diaľnice",
+"englishSubcategory":"Freeways",
+"description":"Ak minete výjazd z diaľnice, pokračujte k ďalšiemu výjazdu a bezpečne sa otočte. Nepokúšajte sa na diaľnici zastaviť ani cúvať."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Špeciálne situácie a cestné prostredie",
+"subcategory":"Diaľnice",
+"englishSubcategory":"Freeways",
+"description":"Zastavenie na diaľnici je nezákonné, s výnimkou núdzových situácií. V prípade poruchy vždy použite krajnicu alebo výjazdovú rampu."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Špeciálne situácie a cestné prostredie",
+"subcategory":"Poveternostné podmienky",
+"englishSubcategory":"Weather Conditions",
+"description":"Za silného dažďa znížte rýchlosť a zvýšte odstup od vozidla. Mokré vozovky môžu znížiť trakciu a predĺžiť brzdnú dráhu."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Špeciálne situácie a cestné prostredie",
+"subcategory":"Poveternostné podmienky",
+"englishSubcategory":"Weather Conditions",
+"description":"Hmla znižuje viditeľnosť a vnímanie hĺbky, čím sa šoférovanie robí obzvlášť nebezpečným. V hmlistých podmienkach spomaľte a zväčšite odstup od vozidla."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Záchranné vozidlá a pokyny pre políciu",
+"subcategory":"Záchranné vozidlo dáva prednosť",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Keď sa blíži záchranné vozidlo so zapnutými majákmi a/alebo sirénou, uhnite mu z dráhy a nechajte ho bezpečne prejsť."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Záchranné vozidlá a pokyny pre políciu",
+"subcategory":"Záchranné vozidlo dáva prednosť",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Ak stojíte na semafore a zozadu sa k vám blíži záchranné vozidlo, najbezpečnejším krokom je uhnúť nabok, ak je to bezpečné a v súlade so zákonom, inak zostať na mieste a nechať ho prejsť, ak je to možné."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Záchranné vozidlá a pokyny pre políciu",
+"subcategory":"Pokyny polície",
+"englishSubcategory":"Police Directions",
+"description":"Ak vám policajt dá iný pokyn ako na značke, musíte sa riadiť jeho pokynmi."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Záchranné vozidlá a pokyny pre políciu",
+"subcategory":"Záchranné vozidlo dáva prednosť",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Ak vozidlo záchrannej služby stojí s blikajúcimi svetlami na krajnici, spomaľte a opatrne ho predbiehajte, ak je to bezpečné, prejdite na druhú stranu."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Záchranné vozidlá a pokyny pre políciu",
+"subcategory":"Pokyny polície",
+"englishSubcategory":"Police Directions",
+"description":"Ak polícia zriadi dočasnú zátarasy, riaďte sa jej pokynmi a prípadnými obchádzkami."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Záchranné vozidlá a pokyny pre políciu",
+"subcategory":"Záchranné vozidlo dáva prednosť",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Nemali by ste jazdiť tesne za vozidlom záchrannej služby, aby ste sa rýchlejšie dostali cez premávku."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Záchranné vozidlá a pokyny pre políciu",
+"subcategory":"Záchranné vozidlo dáva prednosť",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Ak počujete sirénu, ale ešte nevidíte vozidlo záchrannej služby, buďte ostražití, skontrolujte zrkadlá a buďte pripravení na bezpečný pohyb."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Záchranné vozidlá a pokyny pre políciu",
+"subcategory":"Pokyny polície",
+"englishSubcategory":"Police Directions",
+"description":"Ak vám dopravný dispečer pri cestných prácach dáva pokyny, musíte ho poslúchnuť."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Záchranné vozidlá a pokyny pre políciu",
+"subcategory":"Pokyny polície",
+"englishSubcategory":"Police Directions",
+"description":"Ak vám polícia nariadi zastaviť kvôli kontrole vodičského preukazu, bezpečne zastavte podľa pokynov."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Záchranné vozidlá a pokyny pre políciu",
+"subcategory":"Záchranné vozidlo dáva prednosť",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Ak sa nachádzate v jednom jazdnom pruhu a zozadu sa k vám blíži vozidlo záchrannej služby, dajte smerovku a podľa možnosti sa presuňte doľava alebo na bezpečné miesto."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Bezpečnostné pásy, detské sedačky a spolujazdci",
+"subcategory":"Bezpečnostné pásy",
+"englishSubcategory":"Seatbelts",
+"description":"Vodič je zodpovedný za to, aby všetci cestujúci mladší ako 16 rokov používali bezpečnostný pás."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Bezpečnostné pásy, detské sedačky a spolujazdci",
+"subcategory":"Bezpečnostné pásy",
+"englishSubcategory":"Seatbelts",
+"description":"Bezpečnostný pás musí byť zapnutý vždy, keď sa vozidlo pohybuje, ak je nainštalovaný."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Bezpečnostné pásy, detské sedačky a spolujazdci",
+"subcategory":"Detské zadržiavacie systémy",
+"englishSubcategory":"Child Restraints",
+"description":"Detský zádržný systém je potrebný, pretože je navrhnutý tak, aby sa prispôsobil veľkosti a tvaru tela dieťaťa a chránil ho účinnejšie ako bezpečnostný pás pre dospelých."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Bezpečnostné pásy, detské sedačky a spolujazdci",
+"subcategory":"Cestujúci",
+"englishSubcategory":"Passengers",
+"description":"Pre cestujúcich je nebezpečné klásť si nohy na palubnú dosku, pretože airbagy a nárazové sily môžu spôsobiť vážne zranenia."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Bezpečnostné pásy, detské sedačky a spolujazdci",
+"subcategory":"Detské zadržiavacie systémy",
+"englishSubcategory":"Child Restraints",
+"description":"Najbezpečnejším všeobecným pravidlom pri výbere detskej autosedačky je použiť takú, ktorá je schválená a vhodná pre vek a veľkosť dieťaťa."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Bezpečnostné pásy, detské sedačky a spolujazdci",
+"subcategory":"Bezpečnostné pásy",
+"englishSubcategory":"Seatbelts",
+"description":"Bežným znakom nesprávneho zapnutia bezpečnostného pásu je, keď je pás zavesený pod pazuchou alebo za chrbtom."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Bezpečnostné pásy, detské sedačky a spolujazdci",
+"subcategory":"Cestujúci",
+"englishSubcategory":"Passengers",
+"description":"Ak spolujazdec rozptyľuje vodiča, najbezpečnejším postupom je požiadať ho, aby zastavil a opäť sa sústredil na riadenie."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Bezpečnostné pásy, detské sedačky a spolujazdci",
+"subcategory":"Detské zadržiavacie systémy",
+"englishSubcategory":"Child Restraints",
+"description":"Nie je bezpečné držať dieťa na kolenách v pohybujúcom sa vozidle, pretože ho v prípade nehody nemôžete bezpečne udržať."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Bezpečnostné pásy, detské sedačky a spolujazdci",
+"subcategory":"Bezpečnostné pásy",
+"englishSubcategory":"Seatbelts",
+"description":"Bezpečnostný pás by mal byť pripútaný panvovou časťou nízko cez boky, aby sa znížilo riziko poranenia brucha pri nehode."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Bezpečnostné pásy, detské sedačky a spolujazdci",
+"subcategory":"Cestujúci",
+"englishSubcategory":"Passengers",
+"description":"Hlavným rizikom prepravy nezaistených predmetov v kabíne je, že sa pri nehode alebo náhlom zastavení môžu stať projektilmi."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Základy bezpečnosti, porúch a údržby vozidiel",
+"subcategory":"Pneumatiky",
+"englishSubcategory":"Tyres",
+"description":"Správny tlak v pneumatikách je dôležitý pre bezpečnosť, pretože ovplyvňuje priľnavosť, brzdenie a ovládateľnosť riadenia."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Základy bezpečnosti, porúch a údržby vozidiel",
+"subcategory":"Brzdy",
+"englishSubcategory":"Brakes",
+"description":"Ak sa vám brzdový pedál zdá byť mäkký alebo sa prepadá viac ako zvyčajne, berte to ako vážnu poruchu a ihneď si nechajte skontrolovať brzdy."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Základy bezpečnosti, porúch a údržby vozidiel",
+"subcategory":"Svetlá a viditeľnosť",
+"englishSubcategory":"Lights & Visibility",
+"description":"Pravidelne kontrolujte všetky svetlá vozidla, aby ste videli a aby vás videli aj ostatní."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Základy bezpečnosti, porúch a údržby vozidiel",
+"subcategory":"Riadenie a zavesenie kolies",
+"englishSubcategory":"Steering & Suspension",
+"description":"Varovným signálom problému s riadením môže byť nezvyčajné ťahanie, vibrácie alebo ťažkosti s riadením."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Základy bezpečnosti, porúch a údržby vozidiel",
+"subcategory":"Čelné sklo a stierače",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Opotrebované stierače predstavujú bezpečnostný problém, pretože znižujú viditeľnosť v daždi."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Základy bezpečnosti, porúch a údržby vozidiel",
+"subcategory":"Pneumatiky",
+"englishSubcategory":"Tyres",
+"description":"Bežným znakom toho, že pneumatiky môžu byť nebezpečné, je opotrebovaný alebo nerovnomerne opotrebovaný dezén."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Základy bezpečnosti, porúch a údržby vozidiel",
+"subcategory":"Zrkadlá a nastavenie",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Pred jazdou by sa mali nastaviť zrkadlá, aby sa znížili mŕtve uhly a zlepšila sa viditeľnosť."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Základy bezpečnosti, porúch a údržby vozidiel",
+"subcategory":"Brzdy",
+"englishSubcategory":"Brakes",
+"description":"Ak vaše brzdy vydávajú škrípavé zvuky, nechajte ich čo najskôr skontrolovať."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Základy bezpečnosti, porúch a údržby vozidiel",
+"subcategory":"Svetlá a viditeľnosť",
+"englishSubcategory":"Lights & Visibility",
+"description":"Používajte svetlomety za zníženej viditeľnosti vždy, keď je znížená, aby vás ostatní videli."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Základy bezpečnosti, porúch a údržby vozidiel",
+"subcategory":"Čelné sklo a stierače",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Ak je vaše čelné sklo vo vašom zornom poli značne prasknuté, pred ďalšou jazdou ho opravte alebo vymeňte."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Informovanosť o nákladoch, odťahovaní a ťažkých vozidlách",
+"subcategory":"Zaťaženia",
+"englishSubcategory":"Loads",
+"description":"Náklady musia byť riadne zaistené, aby sa zabránilo ich posunutiu alebo pádu a nespôsobeniu pádov."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Informovanosť o nákladoch, odťahovaní a ťažkých vozidlách",
+"subcategory":"Zaťaženia",
+"englishSubcategory":"Loads",
+"description":"Nezaistený náklad vo vnútri vozidla sa môže pri náhlom brzdení stať projektilom, čo predstavuje značné bezpečnostné riziko."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Informovanosť o nákladoch, odťahovaní a ťažkých vozidlách",
+"subcategory":"Zaťaženia",
+"englishSubcategory":"Loads",
+"description":"Preprava preťaženého vozidla ovplyvňuje brzdenie predlžovaním brzdnej dráhy."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Informovanosť o nákladoch, odťahovaní a ťažkých vozidlách",
+"subcategory":"Zaťaženia",
+"englishSubcategory":"Loads",
+"description":"Najbezpečnejší spôsob prepravy dlhých predmetov je zabezpečiť ich tak, aby sa nemohli pohybovať ani nebezpečne vyčnievať."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Informovanosť o nákladoch, odťahovaní a ťažkých vozidlách",
+"subcategory":"Odťahovanie",
+"englishSubcategory":"Towing",
+"description":"Ťahanie prívesu predlžuje brzdnú dráhu, pretože dodatočná hmotnosť znižuje účinnosť brzdenia."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Informovanosť o nákladoch, odťahovaní a ťažkých vozidlách",
+"subcategory":"Odťahovanie",
+"englishSubcategory":"Towing",
+"description":"Pred ťahaním prívesu skontrolujte, či sú spojka, svetlá a bezpečnostná reťaz bezpečne upevnené."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Informovanosť o nákladoch, odťahovaní a ťažkých vozidlách",
+"subcategory":"Odťahovanie",
+"englishSubcategory":"Towing",
+"description":"Pri otáčaní počas ťahania nechajte príves viac miesta, pretože sa pohybuje vo vnútri dráhy otáčania."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Informovanosť o nákladoch, odťahovaní a ťažkých vozidlách",
+"subcategory":"Zaťaženia",
+"englishSubcategory":"Loads",
+"description":"Náklad, ktorý blokuje výhľad dozadu, znižuje vnímanie premávky za vami, čím zvyšuje riziko nehôd."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Informovanosť o nákladoch, odťahovaní a ťažkých vozidlách",
+"subcategory":"Ťažké vozidlá",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Ťažké vozidlá potrebujú viac miesta na zastavenie, pretože ich väčšia hmotnosť predlžuje brzdnú dráhu."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Informovanosť o nákladoch, odťahovaní a ťažkých vozidlách",
+"subcategory":"Ťažké vozidlá",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Pri jazde za veľkým nákladným vozidlom zväčšite odstup, aby ste zohľadnili mŕtve uhly a predĺžili brzdnú dráhu nákladného vozidla."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Pravidlá pre licencie, platničky L/P a praktické pasce DKT (VIC)",
+"subcategory":"Pravidlá pre povolenia pre študentov",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Ako viktoriánsky vodičský začiatočník smiete šoférovať auto iba pod dohľadom vodiča s príslušnou licenciou, ktorý sedí vedľa vás."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Pravidlá pre licencie, platničky L/P a praktické pasce DKT (VIC)",
+"subcategory":"Pravidlá pre povolenia pre študentov",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Vodiči-začiatočníci musia mať svoje ŠPZ označené ako L jasne umiestnenými, aby boli pre ostatných vodičov vo vozidle vždy viditeľné."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Pravidlá pre licencie, platničky L/P a praktické pasce DKT (VIC)",
+"subcategory":"Pravidlá pre povolenia pre študentov",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Ak váš dohliadajúci vodič počas jazdy zaspí, bezpečne zastavte a nepokračujte v jazde, kým nebudete pod riadnym dohľadom."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Pravidlá pre licencie, platničky L/P a praktické pasce DKT (VIC)",
+"subcategory":"Mobilné telefóny a zariadenia",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Ako vodičský začiatočník vo Victorii nesmiete počas jazdy žiadnym spôsobom používať mobilný telefón."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Pravidlá pre licencie, platničky L/P a praktické pasce DKT (VIC)",
+"subcategory":"Pravidlá pre povolenia pre študentov",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Ak vám počas jazdy spadnú evidenčné čísla L, bezpečne zastavte a pred pokračovaním v jazde ich namontujte späť."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Pravidlá pre licencie, platničky L/P a praktické pasce DKT (VIC)",
+"subcategory":"Dohľad",
+"englishSubcategory":"Supervision",
+"description":"Hlavným bezpečnostným účelom pravidiel dohľadu nad učňom je zabezpečiť, aby skúsený vodič mohol v prípade potreby viesť a zasiahnuť."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Pravidlá pre licencie, platničky L/P a praktické pasce DKT (VIC)",
+"subcategory":"Podmienky a súlad",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Ak je vodič-začiatočník prichytený pri šoférovaní bez potrebného dozoru, je pravdepodobný trest a možné následky pre udelenie vodičského preukazu."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Pravidlá pre licencie, platničky L/P a praktické pasce DKT (VIC)",
+"subcategory":"Vnímanie nebezpečenstva",
+"englishSubcategory":"Hazard Perception",
+"description":"Častou pascou na križovatkách pre začínajúcich vodičov je odbočovanie bez toho, aby si overili chodcov, ktorí prechádzajú cez cestu, na ktorú vchádzajú."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Pravidlá pre licencie, platničky L/P a praktické pasce DKT (VIC)",
+"subcategory":"Vnímanie nebezpečenstva",
+"englishSubcategory":"Hazard Perception",
+"description":"Aj keď svieti zelená, musíte spomaliť alebo zastaviť, ak je premávka pred vami blokovaná alebo chodci prechádzajú cez cestu."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Pravidlá pre licencie, platničky L/P a praktické pasce DKT (VIC)",
+"subcategory":"Pravidlá pre povolenia pre študentov",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Ak dohliadate na študenta, dohliadajúci vodič by mal vždy sedieť na sedadle spolujazdca."
+}
+]

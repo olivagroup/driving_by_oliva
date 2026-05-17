@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Yo'l harakati qoidalari va qonunlari",
+"subcategory":"Umumiy yo'l qoidalari",
+"englishSubcategory":"General Road Rules",
+"description":"Haydovchilar xavfsizlik va uzluksiz harakatlanishni ta'minlash uchun umumiy yo'l qoidalariga rioya qilishlari shart. Bunga yo'l belgilari, svetoforlar va yo'lak belgilariga rioya qilish kiradi. Ushbu qoidalarga rioya qilmaslik baxtsiz hodisalar va jarimalarga olib kelishi mumkin."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Yo'l harakati qoidalari va qonunlari",
+"subcategory":"Yo'l berish",
+"englishSubcategory":"Giving Way",
+"description":"Haydovchilar chorrahalarda, aylanma yo'llarda va piyodalar o'tish joylarida va boshqa joylarda boshqa transport vositalariga yoki piyodalarga yo'l berishlari shart. Yo'l bermaslik qoidabuzarlik hisoblanadi."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Yo'l harakati qoidalari va qonunlari",
+"subcategory":"Yo'lakdan foydalanish",
+"englishSubcategory":"Lane Use",
+"description":"Haydovchilar tegishli bo'laklardan foydalanishlari va yo'lak belgilariga rioya qilishlari shart. Bunga yo'lakni almashtirish, quvib o'tish va velosiped yoki avtobus yo'laklaridan foydalanish qoidalari kiradi. Qoidabuzarliklar jarima yoki baxtsiz hodisalarga olib kelishi mumkin."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Yo'l harakati qoidalari va qonunlari",
+"subcategory":"Tramvaylar",
+"englishSubcategory":"Trams",
+"description":"Haydovchilar tramvay qoidalarini, jumladan, tramvay bekatlarida piyodalarga yo'l berish, ochiq eshikli tramvaylar uchun to'xtash va ma'lum sharoitlarda tramvaylarni quvib o'tmaslik qoidalarini bilishlari kerak."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Yo'l harakati qoidalari va qonunlari",
+"subcategory":"Chorrahalarda",
+"englishSubcategory":"Intersections",
+"description":"Chorrahalarda haydovchilar yo'l berish va to'xtash belgilari yoki svetoforda to'xtash uchun to'g'ri tartib-qoidalarga rioya qilishlari kerak. Ushbu qoidalarni tushunish baxtsiz hodisalarning oldini olish uchun juda muhimdir."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Yo'l harakati qoidalari va qonunlari",
+"subcategory":"U-burilishlar",
+"englishSubcategory":"U-Turns",
+"description":"Qaytib burilishlarga faqat chorrahalarda yoki taqiqlovchi belgi bo'lmagan hollarda ruxsat beriladi. Haydovchilar qaytib burilishdan oldin uning xavfsiz ekanligiga ishonch hosil qilishlari kerak."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Yo'l harakati qoidalari va qonunlari",
+"subcategory":"Tezlik cheklovlari",
+"englishSubcategory":"Speed Limits",
+"description":"Haydovchilar yo'lda xavfsizlikni ta'minlash uchun belgilangan tezlik chegaralariga rioya qilishlari shart. Tezlikni oshirish jarimalarga, haydovchilik guvohnomasidan mahrum bo'lishga va baxtsiz hodisalar xavfini oshirishga olib kelishi mumkin."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Yo'l harakati qoidalari va qonunlari",
+"subcategory":"Piyodalar xavfsizligi",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Haydovchilar o'tish joylarida piyodalarga yo'l berishlari va piyodalar zonalari yaqinida ularning xavfsizligini ta'minlashlari kerak. O'tish joylarida piyodalar uchun to'xtamaslik qoidabuzarlik hisoblanadi."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Yo'l harakati qoidalari va qonunlari",
+"subcategory":"Temir yo'l kesishmalari",
+"englishSubcategory":"Railway Crossings",
+"description":"Haydovchilar temir yo'l kesishmalarida chiroqlar yonib-o'chib turganda yoki bom eshiklari tushirilganda to'xtashlari kerak. Ushbu signallarga e'tibor bermaslik jiddiy qonunbuzarlik hisoblanadi va jarima va baxtsiz hodisalarga olib kelishi mumkin."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Yo'l harakati qoidalari va qonunlari",
+"subcategory":"Favqulodda transport vositalari",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Haydovchilar miltillovchi chiroqlar va sirenalar yordamida favqulodda vaziyatlar transport vositalariga yo'l berishlari kerak, bu esa transport vositasining transport vositalarida harakatlanishi uchun bo'sh yo'lga ega bo'lishiga ishonch hosil qilishlari kerak."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Yo'l belgilari va signallari",
+"subcategory":"Normativ belgilar",
+"englishSubcategory":"Regulatory Signs",
+"description":"Tartibga soluvchi belgilar haydovchilar uchun tezlik chegaralari, burilish cheklovlari va kirish taqiqlangan belgilar kabi majburiy ko'rsatmalarni beradi. Yo'llarda xavfsizlik va tartibni saqlash uchun ushbu belgilarga rioya qilish qonun bilan talab qilinadi."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Yo'l belgilari va signallari",
+"subcategory":"Ogohlantirish belgilari",
+"englishSubcategory":"Warning Signs",
+"description":"Ogohlantirish belgilari haydovchilarni keskin burilishlar, maktab zonalari va yovvoyi tabiat o'tish joylari kabi potentsial xavflar haqida ogohlantiradi. Ushbu belgilar haydovchilarga baxtsiz hodisalarning oldini olish uchun haydashni sozlashga yordam beradi."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Yo'l belgilari va signallari",
+"subcategory":"Tezlik belgilari",
+"englishSubcategory":"Speed Signs",
+"description":"Tezlik belgilari yo'lda ruxsat etilgan maksimal yoki minimal tezlikni bildiradi. Haydovchilar xavfsiz haydash sharoitlarini ta'minlash va jarimalardan qochish uchun ushbu cheklovlarga rioya qilishlari shart."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Yo'l belgilari va signallari",
+"subcategory":"Svetoforlar",
+"englishSubcategory":"Traffic Lights",
+"description":"Svetoforlar chorrahalarda transport vositalari va piyodalar oqimini boshqaradi. Qizil rang to'xtashni, yashil rang ketishni va sariq rang to'xtashga tayyorgarlik ko'rish uchun ogohlantirishdir."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Yo'l belgilari va signallari",
+"subcategory":"Piyodalar signallari",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Piyodalar uchun yo'lni kesib o'tish xavfsiz bo'lgan vaqtni piyodalar uchun signallar ko'rsatadi. Ushbu signallar odatda piyodalar xavfsizligini ta'minlash uchun svetoforlar bilan mos keladi."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Yo'l belgilari va signallari",
+"subcategory":"Yo'lakni boshqarish signallari",
+"englishSubcategory":"Lane Control Signals",
+"description":"Yo'lakni boshqarish signallari yo'lak ochiq yoki yopiq ekanligini ko'rsatish uchun ishlatiladi. Bu signallar odatda ko'p yo'lakli yo'llarda va tunnellarda qo'llaniladi."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Yo'l belgilari va signallari",
+"subcategory":"To'xtash taqiqlangan belgilar",
+"englishSubcategory":"No Parking Signs",
+"description":"To'xtash joyi yo'qligi belgilari to'xtash yoki to'xtash taqiqlangan joylarni ko'rsatadi. Bu odatda transport harakatining uzluksiz o'tishini va xavfsizlikni ta'minlash uchun amalga oshiriladi."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Yo'l belgilari va signallari",
+"subcategory":"Bir tomonlama yo'l belgilari",
+"englishSubcategory":"One-Way Signs",
+"description":"Bir tomonlama harakatlanish belgilari transport faqat bir yo'nalishda harakatlanishi kerakligini bildiradi. Ushbu belgilarga e'tibor bermaslik baxtsiz hodisalar va huquqiy oqibatlarga olib kelishi mumkin."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Yo'l belgilari va signallari",
+"subcategory":"To'xtash belgilari",
+"englishSubcategory":"Stop Signs",
+"description":"To'xtash belgilari haydovchilardan to'liq to'xtashni va harakatlanishdan oldin boshqa transport vositalari yoki piyodalarga yo'l berishni talab qiladi."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Yo'l belgilari va signallari",
+"subcategory":"Yo'l belgilarini bering",
+"englishSubcategory":"Give Way Signs",
+"description":"Yo'l belgilari haydovchilarga baxtsiz hodisalarning oldini olish uchun vaziyatga qarab boshqa yo'l foydalanuvchilariga, piyodalarga yoki transport vositalariga yo'l berishni buyuradi."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Tezlik va masofa qoidalari",
+"subcategory":"Tezlik cheklovlari",
+"englishSubcategory":"Speed Limits",
+"description":"Viktoriya shtatidagi aholi punktlarida standart tezlik chegarasi, agar boshqacha ko'rsatilmagan bo'lsa, soatiga 50 km ni tashkil qiladi. Qonuniy tezlik chegaralarida haydashingizga ishonch hosil qilish uchun har doim o'rnatilgan belgilarni tekshiring."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Tezlik va masofa qoidalari",
+"subcategory":"Tezlik cheklovlari",
+"englishSubcategory":"Speed Limits",
+"description":"Belgilangan maktab zonasida, belgida ko'rsatilgan soatlarda, yo'lni kesib o'tayotgan bolalar xavfsizligini ta'minlash uchun tezlik chegarasi soatiga 40 km gacha tushiriladi."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Tezlik va masofa qoidalari",
+"subcategory":"Masofadan keyin",
+"englishSubcategory":"Following Distance",
+"description":"Ideal sharoitlarda minimal xavfsiz masofa oldingi transport vositasidan kamida ikki soniya orqada bo'lishi kerak. Bu oldingi transport vositasi to'satdan to'xtab qolsa, reaksiya ko'rsatish uchun yetarli vaqt beradi."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Tezlik va masofa qoidalari",
+"subcategory":"Tezlik cheklovlari",
+"englishSubcategory":"Speed Limits",
+"description":"Xavfsizlik zonasida to'xtab qolgan tramvaydan o'tayotganda, tramvayga chiqayotgan yoki tushayotgan yo'lovchilarning xavfsizligini ta'minlash uchun tezlikni soatiga 10 km gacha kamaytirishingiz kerak."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Tezlik va masofa qoidalari",
+"subcategory":"Tezlik cheklovlari",
+"englishSubcategory":"Speed Limits",
+"description":"Tezlik belgilari bo'lmagan qishloq yo'llarida, agar mahalliy belgilarda boshqacha ko'rsatilmagan bo'lsa, standart tezlik chegarasi soatiga 100 km ni tashkil qiladi. Xavfsizlikni ta'minlash uchun tezlikni yo'l sharoitlariga qarab sozlang."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Tezlik va masofa qoidalari",
+"subcategory":"Masofadan keyin",
+"englishSubcategory":"Following Distance",
+"description":"Nam ob-havo sharoitida siz keyingi masofani kamida to'rt soniyagacha oshirishingiz kerak. Nam yo'llar tortishishni kamaytiradi, bu esa xavfsiz to'xtash uchun ko'proq vaqt talab etadi."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Tezlik va masofa qoidalari",
+"subcategory":"Tezlik cheklovlari",
+"englishSubcategory":"Speed Limits",
+"description":"Elektron o'zgaruvchan tezlik chegarasi belgilari ishlayotgan vaqtda ularga doimo amal qiling. Ushbu belgilar tezlik chegaralarini yo'l harakati sharoitlari, ob-havo yoki yo'ldagi hodisalarga qarab sozlaydi."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Tezlik va masofa qoidalari",
+"subcategory":"To'xtash masofasi",
+"englishSubcategory":"Stopping Distance",
+"description":"Tezligingiz oshgani sayin, transport vositangizni xavfsiz to'xtatish uchun zarur bo'lgan to'xtash masofasi ham oshadi. Xavflarga javob berish uchun har doim yetarli masofaga ega ekanligingizga ishonch hosil qiling."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Tezlik va masofa qoidalari",
+"subcategory":"Tezlik cheklovlari",
+"englishSubcategory":"Speed Limits",
+"description":"Umumiy foydalanish zonalarida, transport vositalari va motorsiz yo'l foydalanuvchilari o'zaro aloqada bo'ladigan bu joylarda piyodalar va velosipedchilar xavfsizligini ta'minlash uchun tezlik chegarasi odatda soatiga 10 km ni tashkil qiladi."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Tezlik va masofa qoidalari",
+"subcategory":"Masofadan keyin",
+"englishSubcategory":"Following Distance",
+"description":"Orqa eshikdan o'tish xavfli, chunkiureaksiya va tormozlash vaqtini kamaytiradi. Har doim xavfsiz masofani saqlang, ayniqsa ko'rinishingizni to'sib qo'yishi mumkin bo'lgan katta transport vositalarining orqasida harakatlanayotganda."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Haydovchining majburiyatlari",
+"subcategory":"Huquqiy majburiyatlar",
+"englishSubcategory":"Legal Obligations",
+"description":"Haydovchilar turli xil qonuniy majburiyatlarni bajarishlari kerak, masalan, baxtsiz hodisadan keyin yordam ko'rsatish, baxtsiz hodisalardan keyin ma'lumotlar almashish va qonun talab qilganidek, hodisalar haqida rasmiylarga xabar berish."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Haydovchining majburiyatlari",
+"subcategory":"Diqqat va nazorat",
+"englishSubcategory":"Attention & Control",
+"description":"Haydovchilar o'zlari va boshqa yo'l harakati ishtirokchilari xavfsizligini ta'minlash uchun doimo transport vositasini boshqarishlari, chalg'itadigan narsalardan qochishlari va diqqatlarini jamlashlari kerak."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Haydovchining majburiyatlari",
+"subcategory":"Huquqiy majburiyatlar",
+"englishSubcategory":"Legal Obligations",
+"description":"Agar avtohalokat natijasida jarohat olgan bo'lsa, haydovchilar iloji boricha to'xtab, yordam ko'rsatishlari shart. Bunday vaziyatlarda to'xtab, yordam bermaslik qonunbuzarlik hisoblanadi."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Haydovchining majburiyatlari",
+"subcategory":"Diqqat va nazorat",
+"englishSubcategory":"Attention & Control",
+"description":"Haydovchilar har doim transport vositasini to'liq nazorat qilishlari, o'zgaruvchan yo'l harakati sharoitlariga mos ravishda javob berishlari va xavfsiz haydash muhitini saqlab qolishlari juda muhimdir."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Haydovchining majburiyatlari",
+"subcategory":"Huquqiy majburiyatlar",
+"englishSubcategory":"Legal Obligations",
+"description":"Agar kimdir jarohat olsa yoki mulkka zarar yetsa va tafsilotlarni almashish imkoni bo'lmasa, haydovchilar avtohalokat haqida politsiyaga xabar berishlari shart. Ushbu hodisalar haqida xabar bermaslik jarimaga olib kelishi mumkin."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Haydovchining majburiyatlari",
+"subcategory":"Charchoqni boshqarish",
+"englishSubcategory":"Fatigue Management",
+"description":"Haydash paytida charchoq jiddiy xavf tug'diradi. Haydovchilar charchoqning dastlabki belgilari, masalan, esnash va diqqatni jamlashni yo'qotishdan xabardor bo'lishlari va baxtsiz hodisalarning oldini olish uchun tegishli choralarni ko'rishlari kerak."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Haydovchining majburiyatlari",
+"subcategory":"Huquqiy majburiyatlar",
+"englishSubcategory":"Legal Obligations",
+"description":"Haydovchilar politsiya talab qilganda o'z guvohnomalarini taqdim etishlari shart. Guvohnoma berishdan bosh tortish jarimaga yoki qo'shimcha huquqiy oqibatlarga olib kelishi mumkin."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Haydovchining majburiyatlari",
+"subcategory":"Diqqat va nazorat",
+"englishSubcategory":"Attention & Control",
+"description":"Haydovchilar signalni keraksiz ishlatishdan qochishlari kerak, chunkiuboshqa yo'l foydalanuvchilarini qo'rqitishi yoki chalg'itishi mumkin. Signal faqat zarur bo'lgan hollarda boshqalarni sizning borligingiz haqida ogohlantirish uchun ishlatilishi kerak."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Haydovchining majburiyatlari",
+"subcategory":"Charchoqni boshqarish",
+"englishSubcategory":"Fatigue Management",
+"description":"Agar haydashni davom ettirish uchun juda charchagan bo'lsangiz, eng xavfsiz chora - to'xtab, davom etishdan oldin dam olishdir. Charchagan holda haydash baxtsiz hodisalar xavfini sezilarli darajada oshiradi."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Haydovchining majburiyatlari",
+"subcategory":"Huquqiy majburiyatlar",
+"englishSubcategory":"Legal Obligations",
+"description":"Haydovchilar yo'lovchilarning xavfsiz o'tirishi va tiyilishi uchun javobgardirlar. Bunga bolalarning tegishli bolalar o'rindiqlarida bo'lishini va kattalar xavfsizlik kamarlarini taqishini ta'minlash kiradi."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Spirtli ichimliklar, giyohvand moddalar va sog'liq",
+"subcategory":"Spirtli ichimliklar cheklovlari",
+"englishSubcategory":"Alcohol Limits",
+"description":"Viktoriyada haydovchilikni o'rganayotgan va sinov muddatini o'tab bo'lgan haydovchilar (P1 va P2) har doim qonda alkogol konsentratsiyasini (BAC) 0,00 ga teng darajada ushlab turishlari shart. To'liq litsenziyaga ega haydovchilarning BAC chegarasi 0,05 ni tashkil qiladi, ammo mashina boshqarayotganda umuman ichmaslik xavfsizroq."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Spirtli ichimliklar, giyohvand moddalar va sog'liq",
+"subcategory":"Spirtli ichimliklar ta'siri",
+"englishSubcategory":"Alcohol Effects",
+"description":"Spirtli ichimliklar fikrlash, reaksiya vaqti va muvofiqlashtirishni buzadi, bu esa baxtsiz hodisalar xavfini sezilarli darajada oshirishi mumkin. Hatto oz miqdordagi spirtli ichimliklar ham xavfsiz haydash qobiliyatingizni pasaytirishi mumkin."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Spirtli ichimliklar, giyohvand moddalar va sog'liq",
+"subcategory":"Giyohvand moddalarni boshqarish",
+"englishSubcategory":"Drug Driving",
+"description":"Retsept bo'yicha beriladigan dorilarni o'z ichiga olgan giyohvand moddalar ta'sirida mashina boshqarish, hatto o'zingizni nogiron his qilmasangiz ham, haydash qobiliyatingizga putur yetkazishi mumkin. Xavflardan xabardor bo'lish va giyohvand moddalarni iste'mol qilgandan keyin mashina boshqarishdan saqlanish muhimdir."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Spirtli ichimliklar, giyohvand moddalar va sog'liq",
+"subcategory":"Dori vositalarining xavfsizligi",
+"englishSubcategory":"Medication Safety",
+"description":"Yangi retsept bo'yicha dori-darmonlarni qabul qilishni boshlashdan oldin, bu sizning mashina haydash qobiliyatingizga ta'sir qiladimi yoki yo'qligini tekshirib ko'ring va tibbiy tavsiyalarga amal qiling. Ba'zi dorilar uyquchanlikka olib kelishi yoki diqqatni jamlashni buzishi mumkin."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Spirtli ichimliklar, giyohvand moddalar va sog'liq",
+"subcategory":"Charchoq va sog'liq",
+"englishSubcategory":"Fatigue & Health",
+"description":"Charchoq, xuddi alkogol yoki giyohvand moddalar singari, xavfsiz haydash qobiliyatingizga putur yetkazishi mumkin. Haydashdan oldin yetarlicha dam oling va charchoq bilan bog'liq baxtsiz hodisalar xavfini kamaytirish uchun uzoq safarlar paytida tanaffus qiling."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Spirtli ichimliklar, giyohvand moddalar va sog'liq",
+"subcategory":"Spirtli ichimliklar ta'siri",
+"englishSubcategory":"Alcohol Effects",
+"description":"Ichimlikdan keyin faqat vaqt tanangizdagi alkogol miqdorini kamaytirishi mumkin. Kofe, sovuq dush yoki boshqa usullar bu jarayonni tezlashtirmaydi."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Spirtli ichimliklar, giyohvand moddalar va sog'liq",
+"subcategory":"Spirtli ichimliklar cheklovlari",
+"englishSubcategory":"Alcohol Limits",
+"description":"Viktoriyada barcha o'quvchilar va sinov muddatini o'tab turgan haydovchilar uchun qon shakarining qondagi qand miqdori 0,00 ga teng bo'lishi shart. To'liq litsenziyaga ega haydovchilar uchun qon shakarining qondagi qand miqdori 0,05 ga teng. Biroq, haydashdan oldin spirtli ichimliklardan saqlanish har doim eng xavfsiz variant hisoblanadi."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Spirtli ichimliklar, giyohvand moddalar va sog'liq",
+"subcategory":"Giyohvand moddalarni boshqarish",
+"englishSubcategory":"Drug Driving",
+"description":"Viktoriyada siz o'zingizni nogiron his qilmasangiz ham, tanangizda ma'lum giyohvand moddalar bilan mashina boshqarganingiz uchun jarimaga tortilishingiz mumkin. Giyohvand moddalarni iste'mol qilish sizning xavfsiz haydash qobiliyatingizga ta'sir qiladi va baxtsiz hodisalar xavfini oshiradi."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Spirtli ichimliklar, giyohvand moddalar va sog'liq",
+"subcategory":"Dori vositalarining xavfsizligi",
+"englishSubcategory":"Medication Safety",
+"description":"Haydashdan oldin, har doim yangi dorilar sizning transport vositasini boshqarish qobiliyatingizga ta'sir qilishi mumkinligini tekshirib ko'ring. Ba'zi dorilar uyquchanlikka olib keladi, reaksiya vaqtini pasaytiradi va diqqatni jamlashni kamaytiradi."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Spirtli ichimliklar, giyohvand moddalar va sog'liq",
+"subcategory":"Charchoq va sog'liq",
+"englishSubcategory":"Fatigue & Health",
+"description":"Charchoq ham mashina haydashga alkogol kabi ta'sir qilishi mumkin. Bu sizning reaksiya vaqtingizni sekinlashtiradi, hukmingizni buzadi va qaror qabul qilish qobiliyatingizni pasaytiradi, bu esa avtohalokatlar xavfini oshiradi."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Xavfsiz haydash amaliyotlari",
+"subcategory":"Xavfni idrok etish",
+"englishSubcategory":"Hazard Perception",
+"description":"Potentsial xavfga yaqinlashganda, eng xavfsiz javob - bu sekinlashish va kerak bo'lganda to'xtashga tayyorgarlik ko'rishdir. Bu sizga vaziyatni baholash va tegishli ravishda reaksiya ko'rsatish uchun vaqt beradi."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Xavfsiz haydash amaliyotlari",
+"subcategory":"Xavfni idrok etish",
+"englishSubcategory":"Hazard Perception",
+"description":"Haydash paytida oldinga qarab harakatlanish potentsial xavflarni erta aniqlash uchun juda muhimdir. Bu sizga javobingizni rejalashtirish va to'satdan reaktsiyalardan qochish imkonini beradi."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Xavfsiz haydash amaliyotlari",
+"subcategory":"Himoyaviy haydash",
+"englishSubcategory":"Defensive Driving",
+"description":"Himoyaviy haydash boshqa yo'l foydalanuvchilarining mumkin bo'lgan xatolarini oldindan bilishni va to'qnashuvlarning oldini olish uchun xavfsiz masofani saqlashni o'z ichiga oladi."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Xavfsiz haydash amaliyotlari",
+"subcategory":"Yo'l sharoitlari",
+"englishSubcategory":"Road Conditions",
+"description":"Agar shinalaringiz ho'l yo'lda ushlanib qolsa, gaz pedalini tushiring va muammosiz boshqaring. To'satdan tormozlash yoki keskin burilishlar vaziyatni yomonlashtirishi va boshqaruvni yo'qotishiga olib kelishi mumkin."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Xavfsiz haydash amaliyotlari",
+"subcategory":"Xavfni idrok etish",
+"englishSubcategory":"Hazard Perception",
+"description":"Tirbandlikda harakatlanayotganda, xavf-xatarlarni kuzatish uchun eng yaxshi pozitsiya oldinda va yon tomonda bo'ladi, faqat oldingizdagi mashinaga e'tibor qaratish emas. Bu sizga xavflarni oldindan bilishga yordam beradi."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Xavfsiz haydash amaliyotlari",
+"subcategory":"Himoyaviy haydash",
+"englishSubcategory":"Defensive Driving",
+"description":"Agar transport vositasi oldingi bo'lakda harakatlanayotgan bo'lsa, eng xavfsiz chora - bu keyingi masofani oshirishdir. Bu sizga vaziyat yomonlashganda reaksiya ko'rsatish uchun ko'proq vaqt beradi."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Xavfsiz haydash amaliyotlari",
+"subcategory":"Yo'l sharoitlari",
+"englishSubcategory":"Road Conditions",
+"description":"Yomg'irdan keyingi dastlabki daqiqalarda yo'l ko'pincha eng sirpanchiq bo'ladi. Bu vaqtda juda ehtiyot bo'ling, chunki yo'ldagi yog'lar va axlat uni yanada xavfli qilishi mumkin."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Xavfsiz haydash amaliyotlari",
+"subcategory":"Tungi haydash",
+"englishSubcategory":"Night Driving",
+"description":"Kechasi qarama-qarshi faralarning porlashini boshqarish uchun yo'lakning chap chetiga biroz qarang va agar kerak bo'lsa, tezlikni pasaytiring. Bu yorqin chiroqlarga to'g'ridan-to'g'ri ta'sir qilishdan saqlanishga yordam beradi."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Xavfsiz haydash amaliyotlari",
+"subcategory":"Himoyaviy haydash",
+"englishSubcategory":"Defensive Driving",
+"description":"Agar haydovchi sizni juda yaqindan kuzatib borayotgan bo'lsa, eng xavfsiz chora - oldingizdagi transport vositasidan orqaga qarab masofani oshirishdir. Bu sizga ham, orqaga qarab ketayotgan haydovchiga ham reaksiya ko'rsatish uchun ko'proq imkoniyat beradi."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Xavfsiz haydash amaliyotlari",
+"subcategory":"Yo'l sharoitlari",
+"englishSubcategory":"Road Conditions",
+"description":"Tumanli hududda haydashda tezlikni kamaytiring va transport vositangiz bilan boshqalar orasida qo'shimcha masofani saqlang. Tuman ko'rinishni sezilarli darajada pasaytiradi va baxtsiz hodisalar xavfini oshiradi."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Chorrahalarda, burilishlarda va aylanma yo'llarda",
+"subcategory":"Yo'l berish",
+"englishSubcategory":"Giving Way",
+"description":"Belgilar yoki svetoforlar bo'lmagan chorrahalarda o'ngdan yaqinlashayotgan transport vositasi chapdan kelayotgan transport vositasiga yo'l berishi kerak."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Chorrahalarda, burilishlarda va aylanma yo'llarda",
+"subcategory":"Burilishlar",
+"englishSubcategory":"Turns",
+"description":"Svetoforda o'ngga burilish strelkasi bo'lmagan holda o'ngga burilganda, oldinga siljishdan oldin qarama-qarshi transport vositalari va piyodalarga yo'l berishingiz kerak."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Chorrahalarda, burilishlarda va aylanma yo'llarda",
+"subcategory":"Aylanma yo'llar",
+"englishSubcategory":"Roundabouts",
+"description":"Aylanma chorrahada aylanma chorrahada bo'lgan transport vositalariga ustuvorlik beriladi. Aylanma chorrahaga kirayotgan haydovchilar ularga yo'l berishlari kerak."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Chorrahalarda, burilishlarda va aylanma yo'llarda",
+"subcategory":"Burilishlar",
+"englishSubcategory":"Turns",
+"description":"Chapga burilayotganda, siz kirayotgan yo'lni kesib o'tayotgan piyodalarga yo'l berishingiz kerak, bu ularning xavfsizligini ta'minlashi kerak."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Chorrahalarda, burilishlarda va aylanma yo'llarda",
+"subcategory":"Yo'l berish",
+"englishSubcategory":"Giving Way",
+"description":"T-shaklidagi chorrahada, tugash yo'lidagi transport vositasi davom etayotgan yo'ldagi transport vositalariga yo'l berishi kerak."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Chorrahalarda, burilishlarda va aylanma yo'llarda",
+"subcategory":"Burilishlar",
+"englishSubcategory":"Turns",
+"description":"Qaytib ketayotganda, boshqa barcha transport vositalari va piyodalarga yo'l berishingiz kerak, bunda burilish paytida ularning xavfsizligini ta'minlashingiz kerak."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Chorrahalarda, burilishlarda va aylanma yo'llarda",
+"subcategory":"Aylanma yo'llar",
+"englishSubcategory":"Roundabouts",
+"description":"Aylanma yo'ldan chiqayotganda, boshqa yo'l foydalanuvchilariga niyatlaringiz haqida xabar berish uchun chiqishdan oldin chapga ishora qiling."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Chorrahalarda, burilishlarda va aylanma yo'llarda",
+"subcategory":"Yo'l berish",
+"englishSubcategory":"Giving Way",
+"description":"Yo'lga kirishda, avtohalokatlarning oldini olish uchun yo'ldagi barcha transport vositalari va piyodalarga yo'l berishingiz kerak."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Chorrahalarda, burilishlarda va aylanma yo'llarda",
+"subcategory":"Burilishlar",
+"englishSubcategory":"Turns",
+"description":"O'ngga burilishdan oldin, xavfsiz va ravshan burilishga ishonch hosil qilish uchun transport vositangizni yo'lning o'rtasiga iloji boricha yaqinroq joylashtiring."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Chorrahalarda, burilishlarda va aylanma yo'llarda",
+"subcategory":"Svetoforlar",
+"englishSubcategory":"Traffic Lights",
+"description":"Yashil strelka boshqa transport vositalari yoki piyodalarga yo'l bermasdan strelka yo'nalishi bo'yicha harakatlanish mumkinligini bildiradi."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Yo'l belgilari, bo'laklar va quvib o'tish",
+"subcategory":"Yo'lakdan foydalanish",
+"englishSubcategory":"Lane Use",
+"description":"Uzluksiz bitta markaziy chiziq odatda yo'lga yoki avtomagistralga kirish yoki chiqishdan tashqari, uni kesib o'tmaslik kerakligini anglatadi."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Yo'l belgilari, bo'laklar va quvib o'tish",
+"subcategory":"O'tib ketish",
+"englishSubcategory":"Overtaking",
+"description":"Chap tomonda quvib o'tishga ko'p polosali yo'lda alohida belgilangan bo'laklarda harakatlanayotganda va xavfsiz bo'lganda ruxsat beriladi."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Yo'l belgilari, bo'laklar va quvib o'tish",
+"subcategory":"O'tib ketish",
+"englishSubcategory":"Overtaking",
+"description":"Oldinda turgan transport vositasi o'ngga burilayotganda va bu xavfsiz bo'lganda, bir qatorli yo'lda chap tomonda harakatlanayotgan transport vositasini quvib o'tishingiz mumkin."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Yo'l belgilari, bo'laklar va quvib o'tish",
+"subcategory":"Yo'lakdan foydalanish",
+"englishSubcategory":"Lane Use",
+"description":"Yo'lakni almashtirishdan oldin, signal bering va buni xavfsiz bajarishingizga ishonch hosil qiling. Bu boshqa yo'l foydalanuvchilari sizning niyatlaringizdan xabardor bo'lishlarini va baxtsiz hodisalarning oldini olishlarini ta'minlaydi."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Yo'l belgilari, bo'laklar va quvib o'tish",
+"subcategory":"Yo'l belgilari",
+"englishSubcategory":"Road Markings",
+"description":"Bo'yalgan yo'l harakati oroli yoki chevron belgisi, sizuyerda mashina haydamasligingiz kerakligini bildiradi va bu transport vositalarining xavfsiz harakatlanishini ta'minlaydi."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Yo'l belgilari, bo'laklar va quvib o'tish",
+"subcategory":"O'tib ketish",
+"englishSubcategory":"Overtaking",
+"description":"Agar quvib o'tish xavfsizmi yoki yo'qmi, amin bo'lmasangiz, eng xavfsiz harakat - quvib o'tmaslikdir. Harakat qilishdan oldin har doim vaziyatni baholang."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Yo'l belgilari, bo'laklar va quvib o'tish",
+"subcategory":"Yo'lakdan foydalanish",
+"englishSubcategory":"Lane Use",
+"description":"Markaziy chiziq uzilgan bo'lsa, agar xavfsiz bo'lsa, uni kesib o'tishingiz mumkin, bunda quvib o'tish yoki yo'lakni almashtirish mumkin."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Yo'l belgilari, bo'laklar va quvib o'tish",
+"subcategory":"Yo'lakdan foydalanish",
+"englishSubcategory":"Lane Use",
+"description":"Ikki bo'lakda yurish faqat yo'lak belgilari ruxsat bergan taqdirdagina qonuniydir. Odatda bu xavfsiz emas yoki ko'pgina haydash sharoitlarida ruxsat etilmaydi."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Yo'l belgilari, bo'laklar va quvib o'tish",
+"subcategory":"O'tib ketish",
+"englishSubcategory":"Overtaking",
+"description":"Agar siz quvib o'tayotgan transport vositasi tezlikni oshira boshlasa, eng xavfsiz chora - agar xavfsiz bo'lsa, quvib o'tishni to'xtatish va orqaga chekinish."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Yo'l belgilari, bo'laklar va quvib o'tish",
+"subcategory":"Yo'l belgilari",
+"englishSubcategory":"Road Markings",
+"description":"Ikkita uzluksiz markaziy chiziq hech qanday holatda uni kesib o'tmasligingiz yoki bo'ylab yurmasligingizni anglatadi, bu esa transport oqimi va xavfsizligini ta'minlaydi."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"To'xtash, to'xtash joyi va yo'l chetidagi qoidalar",
+"subcategory":"To'xtash va to'xtash taqiqlangan",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"To'xtash taqiqlangan degani, umuman to'xtamaslik kerakligini anglatadi, \"To'xtash taqiqlangan\"esa mashinani olib ketish yoki tushirish uchun qisqa muddatli to'xtashga imkon beradi."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"To'xtash, to'xtash joyi va yo'l chetidagi qoidalar",
+"subcategory":"To'xtash va to'xtash taqiqlangan",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"To'xtash taqiqlangan hududda siz yo'lovchilarni olish yoki tushirish uchun yetarli vaqt ichida to'xtashingiz mumkin."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"To'xtash, to'xtash joyi va yo'l chetidagi qoidalar",
+"subcategory":"Chorrahalarga yaqin to'xtash joyi",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Chorraha yaqinida to'xtash joylari ko'pincha cheklangan, chunki bu ko'rinishni to'sib qo'yishi va haydovchilar va piyodalar uchun xavf tug'dirishi mumkin."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"To'xtash, to'xtash joyi va yo'l chetidagi qoidalar",
+"subcategory":"To'xtash va to'xtash taqiqlangan",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"To'xtash taqiqlangan hududda to'xtashga ruxsat berilmaydi, hatto qo'ng'iroqqa javob berayotgan bo'lsangiz ham yoki tezda to'xtashingiz kerak bo'lsa ham."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"To'xtash, to'xtash joyi va yo'l chetidagi qoidalar",
+"subcategory":"Klirveys",
+"englishSubcategory":"Clearways",
+"description":"To'siqsiz yo'l degani, siz yo'lning ish vaqtidautomonida to'xtamasligingiz yoki to'xtamasligingiz kerakligini anglatadi."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"To'xtash, to'xtash joyi va yo'l chetidagi qoidalar",
+"subcategory":"Chorrahalar yaqinida to'xtash joyi",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Piyodalar o'tish joyi yaqinida to'xtash xavfli, chunki bu piyodalarni yaqinlashib kelayotgan haydovchilardan yashirishi va baxtsiz hodisalar xavfini oshirishi mumkin."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"To'xtash, to'xtash joyi va yo'l chetidagi qoidalar",
+"subcategory":"Xavfsizlik uchun to'xtash",
+"englishSubcategory":"Stopping for Safety",
+"description":"To'xtash taqiqlangan hududda faqat yo'l harakati sharoitlari talab qilganda yoki favqulodda vaziyatlarda to'xtashingiz mumkin."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"To'xtash, to'xtash joyi va yo'l chetidagi qoidalar",
+"subcategory":"Tepaliklarda to'xtash joyi",
+"englishSubcategory":"Parking on Hills",
+"description":"Tepalikda to'xtab turganda, ag'darilish xavfini kamaytirish uchun har doim qo'l tormozini qo'ying va transport vositasini mahkamlang."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"To'xtash, to'xtash joyi va yo'l chetidagi qoidalar",
+"subcategory":"Chorrahalarga yaqin to'xtash joyi",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Burchakka juda yaqin to'xtab turmasligingiz kerak, chunki bu qarama-qarshi transport vositalari va piyodalarning ko'rinishini to'sib qo'yishi va xavf tug'dirishi mumkin."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"To'xtash, to'xtash joyi va yo'l chetidagi qoidalar",
+"subcategory":"To'xtash va to'xtash taqiqlangan",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Vaqtlar ko'rsatilgan \"To'xtash taqiqlangan\"belgisi cheklov faqat belgida ko'rsatilgan vaqtlarga nisbatan qo'llanilishini anglatadi."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Piyodalar, velosipedchilar va zaif yo'l foydalanuvchilari",
+"subcategory":"Piyodalar",
+"englishSubcategory":"Pedestrians",
+"description":"Burilish paytida haydovchilar yo'lni kesib o'tayotgan piyodalarga yo'l berishlari kerak. Bu hatto piyoda belgilangan o'tish joyida bo'lmasa ham amal qiladi."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Piyodalar, velosipedchilar va zaif yo'l foydalanuvchilari",
+"subcategory":"Velosipedchilar",
+"englishSubcategory":"Cyclists",
+"description":"Haydovchilar velosipedchilarni quvib o'tayotganda qo'shimcha joy qoldirishlari kerak, chunki ularga xavfdan qochish yoki muvozanatni saqlash uchun joy kerak bo'lishi mumkin."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Piyodalar, velosipedchilar va zaif yo'l foydalanuvchilari",
+"subcategory":"Piyodalar",
+"englishSubcategory":"Pedestrians",
+"description":"Savdo markazlari yoki jamoat transporti bekatlari yaqinida haydovchilar piyodalar harakatining ko'payishi va to'satdan yo'lni kesib o'tishlari mumkinligiga e'tibor berishlari kerak. Bu joylarda doimo hushyor bo'ling."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Piyodalar, velosipedchilar va zaif yo'l foydalanuvchilari",
+"subcategory":"Velosipedchilar",
+"englishSubcategory":"Cyclists",
+"description":"Velosipedchi belgilangan velosiped yo'lagida ketayotganda, haydovchilar ruxsat berilmagan va xavfsiz bo'lmagan hollarda, yo'lakda haydashdan qochishlari kerak."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Piyodalar, velosipedchilar va zaif yo'l foydalanuvchilari",
+"subcategory":"Bolalar",
+"englishSubcategory":"Children",
+"description":"Haydovchilar maktablar yaqinida juda ehtiyot bo'lishlari kerak, chunki bolalar oldindan aytib bo'lmaydigan tarzda harakat qilishlari va transport harakatini noto'g'ri baholashlari mumkin. Maktab hududlarida tezlikni pasaytiring."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Piyodalar, velosipedchilar va zaif yo'l foydalanuvchilari",
+"subcategory":"Velosipedchilar",
+"englishSubcategory":"Cyclists",
+"description":"Agar velosipedchi tor yo'lakning o'rtasida ketayotgan bo'lsa, haydovchilar uni zo'rg'a bosib o'tish o'rniga, yetarli joy bilan o'tib ketish xavfsiz bo'lguncha kutishlari kerak."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Piyodalar, velosipedchilar va zaif yo'l foydalanuvchilari",
+"subcategory":"Piyodalar",
+"englishSubcategory":"Pedestrians",
+"description":"Bolalar o'tish joyida haydovchilar bayroqlar ko'tarilganda va piyodalar bo'lganda to'xtashlari kerak, bu esa bolalar xavfsizligini ta'minlaydi."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Piyodalar, velosipedchilar va zaif yo'l foydalanuvchilari",
+"subcategory":"Velosipedchilar",
+"englishSubcategory":"Cyclists",
+"description":"Haydovchilar burilishdan oldin har doim ko'r joylarni tekshirishlari kerak, chunki velosipedchilar, ayniqsa shahar joylarida, ko'rinmas holda harakatlanishlari mumkin."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Piyodalar, velosipedchilar va zaif yo'l foydalanuvchilari",
+"subcategory":"Qariyalar va nogironlar",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Keksa piyodalar sekinroq yurishlari yoki harakatlanishda muammolarga duch kelishlari mumkinligi sababli, ular yo'lni kesib o'tish uchun qo'shimcha vaqt talab qilishi mumkin. Ularga xavfsiz o'tish uchun joy va vaqt bering."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Piyodalar, velosipedchilar va zaif yo'l foydalanuvchilari",
+"subcategory":"Velosipedchilar",
+"englishSubcategory":"Cyclists",
+"description":"Velosipedchilar chorrahalarga yaqinlashganda ularni ko'rish qiyinroq bo'lishi mumkin va ular tezda harakatlana oladilar. Velosipedchilarga har doim xavfsiz harakatlanish uchun joy va vaqt bering."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Maxsus vaziyatlar va yo'l muhitlari",
+"subcategory":"Maktab zonalari",
+"englishSubcategory":"School Zones",
+"description":"Maktab hududidagi tezlik cheklovlari faqat belgilarda ko'rsatilgan vaqtlarda qo'llaniladi. Bolalar xavfsizligini ta'minlash uchun ularga rioya qiling."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Maxsus vaziyatlar va yo'l muhitlari",
+"subcategory":"Maktab zonalari",
+"englishSubcategory":"School Zones",
+"description":"Haydovchilar maktab hududlarida, hatto bolalar ko'rinmasa ham, tezlikni pasaytirishlari kerak, chunki bolalar to'satdan va oldindan aytib bo'lmaydigan tarzda paydo bo'lishi mumkin."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Maxsus vaziyatlar va yo'l muhitlari",
+"subcategory":"Yo'l ishlari",
+"englishSubcategory":"Roadworks",
+"description":"Yo'l ishlari olib borilayotgan joyga yaqinlashayotganda, ishchilar va boshqa yo'l foydalanuvchilari xavfsizligini ta'minlash uchun tezlikni pasaytiring va vaqtinchalik belgilarga amal qiling."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Maxsus vaziyatlar va yo'l muhitlari",
+"subcategory":"Yo'l ishlari",
+"englishSubcategory":"Roadworks",
+"description":"Yo'l harakati zonalarida ishchilar xavfsizligini ta'minlash va yo'l sharoitidagi o'zgarishlarga moslashish uchun tezlik cheklovlari kamaytiriladi."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Maxsus vaziyatlar va yo'l muhitlari",
+"subcategory":"Qishloq yo'llari",
+"englishSubcategory":"Rural Roads",
+"description":"Qishloq yo'llarida yovvoyi hayvonlar kutilmaganda yo'lga kirib ketishi mumkin. Qishloq joylaridan o'tayotganda har doim to'xtashga yoki sekinlashishga tayyor bo'ling."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Maxsus vaziyatlar va yo'l muhitlari",
+"subcategory":"Qishloq yo'llari",
+"englishSubcategory":"Rural Roads",
+"description":"Yopiq yo'llarda ko'pincha ushlash va tormozlash qobiliyati pasayadi. Haydovchilar yopiq yo'llarda harakatlanayotganda tezlikni pasaytirishlari kerak."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Maxsus vaziyatlar va yo'l muhitlari",
+"subcategory":"Avtomagistrallar",
+"englishSubcategory":"Freeways",
+"description":"Agar siz avtomagistral chiqish joyini o'tkazib yuborsangiz, keyingi chiqish joyiga o'ting va xavfsiz tarzda orqaga buriling. Avtomagistralda to'xtashga yoki orqaga burilishga urinmang."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Maxsus vaziyatlar va yo'l muhitlari",
+"subcategory":"Avtomagistrallar",
+"englishSubcategory":"Freeways",
+"description":"Favqulodda holatlardan tashqari avtomagistralda to'xtash noqonuniy hisoblanadi. Buzilib qolgan taqdirda har doim yo'l chetidan yoki chiqish pandusidan foydalaning."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Maxsus vaziyatlar va yo'l muhitlari",
+"subcategory":"Ob-havo sharoitlari",
+"englishSubcategory":"Weather Conditions",
+"description":"Kuchli yomg'irda tezlikni pasaytiring va keyingi masofani oshiring. Nam yo'llar tortish kuchini kamaytirishi va to'xtash masofalarini uzaytirishi mumkin."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Maxsus vaziyatlar va yo'l muhitlari",
+"subcategory":"Ob-havo sharoitlari",
+"englishSubcategory":"Weather Conditions",
+"description":"Tuman ko'rinishni va chuqurlikni idrok etishni kamaytiradi, bu esa haydashni ayniqsa xavfli qiladi. Tumanli sharoitda sekinlashing va masofani oshiring."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Favqulodda transport vositalari va politsiya yo'nalishlari",
+"subcategory":"Favqulodda vaziyatlarda transport vositasini berish yo'li",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Favqulodda vaziyatlar mashinasi chiroqlar va/yoki sirenalar bilan yaqinlashib kelayotganda, uning yo'lidan chetga chiqing va xavfsiz o'tib ketishiga yo'l qo'ying."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Favqulodda transport vositalari va politsiya yo'nalishlari",
+"subcategory":"Favqulodda vaziyatlarda transport vositasini berish yo'li",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Agar siz svetoforda bo'lsangiz va orqangizdan favqulodda vaziyatlar mashinasi yaqinlashib kelsa, eng xavfsiz harakat, agar bu xavfsiz va qonuniy bo'lsa, chetga chiqishdir, aks holda iloji bo'lsa, o'sha yerda qoling va uni o'tkazib yuboring."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Favqulodda transport vositalari va politsiya yo'nalishlari",
+"subcategory":"Politsiya yo'nalishlari",
+"englishSubcategory":"Police Directions",
+"description":"Agar politsiya xodimi sizni belgidan boshqacha yo'naltirsa, siz politsiya xodimining ko'rsatmalariga amal qilishingiz kerak."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Favqulodda transport vositalari va politsiya yo'nalishlari",
+"subcategory":"Favqulodda vaziyatlarda transport vositasini berish yo'li",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Agar favqulodda vaziyatlar mashinasi yo'l chetida chiroqlari yonib-o'chib to'xtab qolsa, tezlikni pasaytiring va ehtiyotkorlik bilan o'tib keting, agar xavfsiz bo'lsa, harakatlaning."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Favqulodda transport vositalari va politsiya yo'nalishlari",
+"subcategory":"Politsiya yo'nalishlari",
+"englishSubcategory":"Police Directions",
+"description":"Agar politsiya vaqtinchalik to'siq qo'ysa, ularning ko'rsatmalariga va har qanday aylanma yo'llarga amal qiling."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Favqulodda transport vositalari va politsiya yo'nalishlari",
+"subcategory":"Favqulodda vaziyatlarda transport vositasini berish yo'li",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Tezroq tirbandlikdan o'tish uchun favqulodda vaziyatlar mashinasining orqasidan yaqindan ergashmasligingiz kerak."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Favqulodda transport vositalari va politsiya yo'nalishlari",
+"subcategory":"Favqulodda vaziyatlarda transport vositasini berish yo'li",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Agar sirenani eshitsangiz, lekin hali tez yordam mashinasini ko'ra olmasangiz, hushyor bo'ling, oynalarni tekshiring va xavfsiz harakatlanishga tayyor bo'ling."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Favqulodda transport vositalari va politsiya yo'nalishlari",
+"subcategory":"Politsiya yo'nalishlari",
+"englishSubcategory":"Police Directions",
+"description":"Agar yo'l harakati nazoratchisi yo'l harakati nazoratchisiga ko'rsatma bersa, siz unga bo'ysunishingiz kerak."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Favqulodda transport vositalari va politsiya yo'nalishlari",
+"subcategory":"Politsiya yo'nalishlari",
+"englishSubcategory":"Police Directions",
+"description":"Agar politsiya sizga haydovchilik guvohnomasini tekshirish uchun to'xtashni buyursa, ko'rsatmalarga muvofiq xavfsiz to'xtang."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Favqulodda transport vositalari va politsiya yo'nalishlari",
+"subcategory":"Favqulodda vaziyatlarda transport vositasini berish yo'li",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Agar siz bitta bo'lakda bo'lsangiz va favqulodda vaziyatlar mashinasi orqadan yaqinlashsa, signal bering va iloji bo'lsa, chapga yoki xavfsiz joyga o'ting."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Xavfsizlik kamarlari, bolalar uchun xavfsizlik kamarlari va yo'lovchilar",
+"subcategory":"Havfsizlik kamarlari",
+"englishSubcategory":"Seatbelts",
+"description":"Haydovchi 16 yoshgacha bo'lgan barcha yo'lovchilarning xavfsizlik kamarini taqishini ta'minlash uchun javobgardir."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Xavfsizlik kamarlari, bolalar uchun xavfsizlik kamarlari va yo'lovchilar",
+"subcategory":"Havfsizlik kamarlari",
+"englishSubcategory":"Seatbelts",
+"description":"Agar o'rnatilgan bo'lsa, transport vositasi harakatlanayotganda har doim xavfsizlik kamarini taqish kerak."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Xavfsizlik kamarlari, bolalar uchun xavfsizlik kamarlari va yo'lovchilar",
+"subcategory":"Bolalar uchun cheklovlar",
+"englishSubcategory":"Child Restraints",
+"description":"Bolalar uchun xavfsizlik kamari talab qilinadi, chunkiukattalar xavfsizlik kamariga qaraganda bolaning tanasining o'lchami va shakliga ko'proq mos kelishi va himoya qilishi uchun mo'ljallangan."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Xavfsizlik kamarlari, bolalar uchun xavfsizlik kamarlari va yo'lovchilar",
+"subcategory":"Yo'lovchilar",
+"englishSubcategory":"Passengers",
+"description":"Yo'lovchilar uchun asboblar paneliga oyoq qo'yish xavfli, chunki xavfsizlik yostiqchalari va to'qnashuv kuchlari jiddiy jarohatlarga olib kelishi mumkin."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Xavfsizlik kamarlari, bolalar uchun xavfsizlik kamarlari va yo'lovchilar",
+"subcategory":"Bolalar uchun cheklovlar",
+"englishSubcategory":"Child Restraints",
+"description":"Bolalar uchun mo'ljallangan o'rindiqni tanlashning eng xavfsiz umumiy qoidasi - bu tasdiqlangan va bolaning yoshi va o'lchamiga mos keladigan o'rindiqdan foydalanishdir."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Xavfsizlik kamarlari, bolalar uchun xavfsizlik kamarlari va yo'lovchilar",
+"subcategory":"Havfsizlik kamarlari",
+"englishSubcategory":"Seatbelts",
+"description":"Xavfsizlik kamari to'g'ri taqilmaganligining keng tarqalgan belgisi - bu xavfsizlik kamarining qo'ltiq ostida yoki orqada bo'lishi."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Xavfsizlik kamarlari, bolalar uchun xavfsizlik kamarlari va yo'lovchilar",
+"subcategory":"Yo'lovchilar",
+"englishSubcategory":"Passengers",
+"description":"Agar yo'lovchi haydovchining e'tiborini chalg'itsa, eng xavfsiz harakat - undan to'xtashni va haydashga e'tiborini qaratishni so'rash."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Xavfsizlik kamarlari, bolalar uchun xavfsizlik kamarlari va yo'lovchilar",
+"subcategory":"Bolalar uchun cheklovlar",
+"englishSubcategory":"Child Restraints",
+"description":"Avtohalokat paytida chaqaloqni xavfsiz ushlab tura olmasligingiz sababli, harakatlanayotgan transport vositasida uni tizzangizga qo'yish xavfli."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Xavfsizlik kamarlari, bolalar uchun xavfsizlik kamarlari va yo'lovchilar",
+"subcategory":"Havfsizlik kamarlari",
+"englishSubcategory":"Seatbelts",
+"description":"Avtohalokat paytida qorin bo'shlig'iga shikast yetkazish xavfini kamaytirish uchun xavfsizlik kamarini tizza qismi kestirib pastga qaratib taqish kerak."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Xavfsizlik kamarlari, bolalar uchun xavfsizlik kamarlari va yo'lovchilar",
+"subcategory":"Yo'lovchilar",
+"englishSubcategory":"Passengers",
+"description":"Salonda mahkamlanmagan narsalarni olib yurishning asosiy xavfi shundaki, ular to'qnashuv yoki to'satdan to'xtash paytida snaryadlarga aylanishi mumkin."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Avtomobil xavfsizligi, nuqsonlari va texnik xizmat ko'rsatish asoslari",
+"subcategory":"Shinalar",
+"englishSubcategory":"Tyres",
+"description":"Shinalarning to'g'ri bosimi xavfsizlik uchun muhimdir, chunkiututqich, tormozlash va rulni boshqarishga ta'sir qiladi."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Avtomobil xavfsizligi, nuqsonlari va texnik xizmat ko'rsatish asoslari",
+"subcategory":"Tormozlar",
+"englishSubcategory":"Brakes",
+"description":"Agar tormoz pedalingiz odatdagidan ko'proq cho'kib ketsa yoki g'ovak bo'lib qolsa, buni jiddiy nosozlik deb biling va darhol tormozlarni tekshirtiring."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Avtomobil xavfsizligi, nuqsonlari va texnik xizmat ko'rsatish asoslari",
+"subcategory":"Yorug'lik va ko'rinish",
+"englishSubcategory":"Lights & Visibility",
+"description":"Boshqalar sizni ko'rishi va ko'rishi uchun barcha transport vositalarining chiroqlarini muntazam ravishda tekshirib turing."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Avtomobil xavfsizligi, nuqsonlari va texnik xizmat ko'rsatish asoslari",
+"subcategory":"Rul boshqaruvi va osma tizim",
+"englishSubcategory":"Steering & Suspension",
+"description":"Rul boshqaruvi bilan bog'liq muammoning ogohlantiruvchi belgisi g'ayrioddiy tortish, tebranish yoki rul boshqaruvidagi qiyinchiliklarni o'z ichiga olishi mumkin."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Avtomobil xavfsizligi, nuqsonlari va texnik xizmat ko'rsatish asoslari",
+"subcategory":"Old oyna va artgichlar",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Eskirgan artib oluvchi pichoqlar xavfsizlik muammosi hisoblanadi, chunki ular yomg'irda ko'rinishni kamaytiradi."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Avtomobil xavfsizligi, nuqsonlari va texnik xizmat ko'rsatish asoslari",
+"subcategory":"Shinalar",
+"englishSubcategory":"Tyres",
+"description":"Shinalar xavfli bo'lishi mumkinligi haqida keng tarqalgan belgi - bu protektorning eskirganligi yoki notekis kiyilganligi."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Avtomobil xavfsizligi, nuqsonlari va texnik xizmat ko'rsatish asoslari",
+"subcategory":"Ko'zgular va sozlash",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Ko'rinmas joylarni kamaytirish va xabardorlikni oshirish uchun haydashdan oldin oynalarni sozlash kerak."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Avtomobil xavfsizligi, nuqsonlari va texnik xizmat ko'rsatish asoslari",
+"subcategory":"Tormozlar",
+"englishSubcategory":"Brakes",
+"description":"Agar tormozlaringiz g'ichirlash tovushlarini chiqarsa, ularni iloji boricha tezroq tekshirtiring."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Avtomobil xavfsizligi, nuqsonlari va texnik xizmat ko'rsatish asoslari",
+"subcategory":"Yorug'lik va ko'rinish",
+"englishSubcategory":"Lights & Visibility",
+"description":"Boshqalar sizni ko'rishi uchun ko'rinish yomon bo'lgan joylarda har safar faralardan foydalaning."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Avtomobil xavfsizligi, nuqsonlari va texnik xizmat ko'rsatish asoslari",
+"subcategory":"Old oyna va artgichlar",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Agar old oynangiz ko'rish chizig'ida qattiq yorilgan bo'lsa, uni ta'mirlang yoki boshqa joyga o'tkazing."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Yuklar, evakuator va og'ir transport vositalari haqida xabardorlik",
+"subcategory":"Yuklar",
+"englishSubcategory":"Loads",
+"description":"Yuklarning siljishi yoki yiqilishi va avariyaga olib kelishining oldini olish uchun ularni to'g'ri mahkamlash kerak."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Yuklar, evakuator va og'ir transport vositalari haqida xabardorlik",
+"subcategory":"Yuklar",
+"englishSubcategory":"Loads",
+"description":"Transport vositasi ichidagi mahkamlanmagan yuk to'satdan tormozlash paytida o'qga aylanishi mumkin, bu esa jiddiy xavfsizlik xavfini tug'diradi."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Yuklar, evakuator va og'ir transport vositalari haqida xabardorlik",
+"subcategory":"Yuklar",
+"englishSubcategory":"Loads",
+"description":"Haddan tashqari yuklangan transport vositasini tashish to'xtash masofasini oshirish orqali tormozlashga ta'sir qiladi."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Yuklar, evakuator va og'ir transport vositalari haqida xabardorlik",
+"subcategory":"Yuklar",
+"englishSubcategory":"Loads",
+"description":"Uzoq buyumlarni tashishning eng xavfsiz usuli - ularni xavfli tarzda harakatlanmasligi yoki chiqib ketmasligi uchun mahkamlashdir."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Yuklar, evakuator va og'ir transport vositalari haqida xabardorlik",
+"subcategory":"Evakuator",
+"englishSubcategory":"Towing",
+"description":"Treylerni tortish to'xtash masofasini oshiradi, chunki qo'shimcha og'irlik tormozlash samaradorligini pasaytiradi."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Yuklar, evakuator va og'ir transport vositalari haqida xabardorlik",
+"subcategory":"Evakuator",
+"englishSubcategory":"Towing",
+"description":"Treylerni tortishdan oldin, mufta, chiroqlar va xavfsizlik zanjiri mahkamlanganligini tekshiring."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Yuklar, evakuator va og'ir transport vositalari haqida xabardorlik",
+"subcategory":"Evakuator",
+"englishSubcategory":"Towing",
+"description":"Treyler burilish yo'lining ichida harakatlanayotganligi sababli, tortish paytida burilishda qo'shimcha joy qoldiring."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Yuklar, evakuator va og'ir transport vositalari haqida xabardorlik",
+"subcategory":"Yuklar",
+"englishSubcategory":"Loads",
+"description":"Orqa ko'rinishingizni to'sib qo'yadigan yuk transport vositalariga ergashish haqidagi xabardorlikni pasaytiradi va baxtsiz hodisalar xavfini oshiradi."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Yuklar, evakuator va og'ir transport vositalari haqida xabardorlik",
+"subcategory":"Og'ir transport vositalari",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Og'ir transport vositalarining to'xtash joyi ko'proq bo'lishi kerak, chunki ularning katta massasi tormozlash masofasini oshiradi."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Yuklar, evakuator va og'ir transport vositalari haqida xabardorlik",
+"subcategory":"Og'ir transport vositalari",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Katta yuk mashinasini ta'qib qilayotganda, ko'r joylarni va yuk mashinalarining to'xtash masofasini uzaytirishni hisobga olish uchun keyingi masofani oshiring."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Litsenziyalash, L/P plastinka qoidalari va amaliy DKT tuzoqlari (VIC)",
+"subcategory":"O'quvchi ruxsatnomasi qoidalari",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Viktoriya shtatida haydovchilikni o'rganayotgan sifatida, sizga faqat yoningizda o'tirgan tegishli litsenziyaga ega haydovchi nazorati ostida mashina boshqarishga ruxsat beriladi."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Litsenziyalash, L/P plastinka qoidalari va amaliy DKT tuzoqlari (VIC)",
+"subcategory":"O'quvchi ruxsatnomasi qoidalari",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Haydovchilikni o'rganayotganlar L raqamli belgilarni transport vositasidagi boshqalar har doim ko'rishlari uchun aniq ko'rsatishlari kerak."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Litsenziyalash, L/P plastinka qoidalari va amaliy DKT tuzoqlari (VIC)",
+"subcategory":"O'quvchi ruxsatnomasi qoidalari",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Agar siz boshqarayotgan haydovchi uxlab qolsa, xavfsiz to'xtang va to'g'ri nazorat qilinmaguncha davom etmang."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Litsenziyalash, L/P plastinka qoidalari va amaliy DKT tuzoqlari (VIC)",
+"subcategory":"Mobil telefonlar va qurilmalar",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Viktoriyada haydovchilikni o'rganayotgan sifatida sizga haydash paytida mobil telefondan hech qanday tarzda foydalanishga ruxsat berilmaydi."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Litsenziyalash, L/P plastinka qoidalari va amaliy DKT tuzoqlari (VIC)",
+"subcategory":"O'quvchi ruxsatnomasi qoidalari",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Agar haydash paytida L raqamli belgilaringiz tushib ketsa, xavfsiz to'xtang va haydashni davom ettirishdan oldin ularni qayta o'rnating."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Litsenziyalash, L/P plastinka qoidalari va amaliy DKT tuzoqlari (VIC)",
+"subcategory":"Nazorat",
+"englishSubcategory":"Supervision",
+"description":"O'quvchilarni nazorat qilish qoidalarining asosiy xavfsizlik maqsadi tajribali haydovchi kerak bo'lganda yo'l-yo'riq ko'rsatishi va aralashishini ta'minlashdir."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Litsenziyalash, L/P plastinka qoidalari va amaliy DKT tuzoqlari (VIC)",
+"subcategory":"Shartlar va muvofiqlik",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Agar haydovchilikni o'rganayotgan shaxs kerakli nazoratsiz mashina boshqarayotgani aniqlansa, jarimalar va haydovchilik guvohnomasini olish bilan bog'liq oqibatlar bo'lishi mumkin."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Litsenziyalash, L/P plastinka qoidalari va amaliy DKT tuzoqlari (VIC)",
+"subcategory":"Xavfni idrok etish",
+"englishSubcategory":"Hazard Perception",
+"description":"Chorrahalarda haydovchilikni o'rganuvchilar uchun keng tarqalgan tuzoq - bu siz kirayotgan yo'lni kesib o'tayotgan piyodalarni tekshirmasdan burilish."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Litsenziyalash, L/P plastinka qoidalari va amaliy DKT tuzoqlari (VIC)",
+"subcategory":"Xavfni idrok etish",
+"englishSubcategory":"Hazard Perception",
+"description":"Agar svetofor yashil yonib tursa ham, oldinda transport to'silgan bo'lsa yoki piyodalar o'tayotgan bo'lsa, tezlikni sekinlashtirishingiz yoki to'xtashingiz kerak."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Litsenziyalash, L/P plastinka qoidalari va amaliy DKT tuzoqlari (VIC)",
+"subcategory":"O'quvchi ruxsatnomasi qoidalari",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Agar siz o'quvchini nazorat qilsangiz, nazoratchi haydovchi har doim oldingi yo'lovchi o'rindig'ida o'tirishi kerak."
+}
+]

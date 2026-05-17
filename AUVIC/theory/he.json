@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"חוקים וחוקי תנועה",
+"subcategory":"חוקי דרך כלליים",
+"englishSubcategory":"General Road Rules",
+"description":"נהגים חייבים לציית לחוקי התנועה הכלליים כדי להבטיח בטיחות וזרימת תנועה חלקה. זה כולל ציות לתמרורים, רמזורים וסימוני נתיב. אי ציות לכללים אלה עלול להוביל לתאונות ועונשים."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"חוקים וחוקי תנועה",
+"subcategory":"וַתְרָנוּת",
+"englishSubcategory":"Giving Way",
+"description":"נהגים נדרשים לתת זכות קדימה לכלי רכב אחרים או להולכי רגל בצמתים, כיכרות ומעברי חצייה, בין היתר. אי מתן זכות קדימה מהווה עבירה."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"חוקים וחוקי תנועה",
+"subcategory":"שימוש בנתיב",
+"englishSubcategory":"Lane Use",
+"description":"על נהגים להשתמש בנתיבים המתאימים ולפעול לפי סימוני הנתיב. זה כולל כללים להחלפת נתיבים, עקיפה ושימוש בנתיבי אופניים או אוטובוס. הפרות עלולות לגרור קנסות או תאונות."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"חוקים וחוקי תנועה",
+"subcategory":"חשמליות",
+"englishSubcategory":"Trams",
+"description":"על נהגים להיות מודעים לחוקי החשמלית, כולל מתן זכות קדימה להולכי רגל בתחנות חשמלית, עצירה לחשמליות עם דלתות פתוחות, ואי עקיפת חשמליות בתנאים מסוימים."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"חוקים וחוקי תנועה",
+"subcategory":"צמתים",
+"englishSubcategory":"Intersections",
+"description":"בצמתים, על הנהגים לפעול לפי הנהלים הנכונים של מתן זכות קדימה ועצירה בתמרורי עצור או רמזורים. הבנת כללים אלה חיונית למניעת תאונות."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"חוקים וחוקי תנועה",
+"subcategory":"פניות פרסה",
+"englishSubcategory":"U-Turns",
+"description":"פניות פרסה מותרות רק בצמתים או כאשר אין שלט האוסר זאת. על הנהגים לוודא שהדבר בטוח לפני ביצוע פניית פרסה."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"חוקים וחוקי תנועה",
+"subcategory":"מגבלות מהירות",
+"englishSubcategory":"Speed Limits",
+"description":"נהגים חייבים לציית למגבלות המהירות המותרות כדי להבטיח את בטיחותם בכביש. נהיגה במהירות מופרזת עלולה לגרום לקנסות, לשלילת רישיון ולעלייה בסיכון לתאונות."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"חוקים וחוקי תנועה",
+"subcategory":"בטיחות הולכי רגל",
+"englishSubcategory":"Pedestrian Safety",
+"description":"נהגים חייבים לתת זכות קדימה להולכי רגל במעברי חציה ולהבטיח את שלומם בקרבת אזורי הולכי רגל. אי עצירה עבור הולכי רגל במעברי חציה מהווה עבירה."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"חוקים וחוקי תנועה",
+"subcategory":"מעברי רכבת",
+"englishSubcategory":"Railway Crossings",
+"description":"נהגים חייבים לעצור במעברי רכבת כאשר הרמזורים מהבהבים או שערי הכניסה פתוחים. התעלמות מאותות אלה מהווה עבירה חמורה ועלולה לגרום לקנסות ותאונות."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"חוקים וחוקי תנועה",
+"subcategory":"רכבי חירום",
+"englishSubcategory":"Emergency Vehicles",
+"description":"נהגים חייבים לתת זכות קדימה לרכבי חירום באמצעות אורות מהבהבים וסירנות, תוך הקפדה על נתיב תנועה פנוי לרכב."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"תמרורים ורמזורים",
+"subcategory":"שלטי רגולציה",
+"englishSubcategory":"Regulatory Signs",
+"description":"שלטי תקינה מספקים הוראות חובה לנהגים, כגון מגבלות מהירות, הגבלות פנייה ושלטי \"אין כניסה\". ציות לשלטים אלה נדרש על פי חוק לשמירה על בטיחות וסדר בכבישים."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"תמרורים ורמזורים",
+"subcategory":"סימני אזהרה",
+"englishSubcategory":"Warning Signs",
+"description":"שלטי אזהרה מתריעים על נהגים מפני סכנות אפשריות, כגון פניות חדות, אזורי לימוד ומעברי חציה של חיות בר. שלטים אלה עוזרים לנהגים להתאים את נהיגתם כדי למנוע תאונות."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"תמרורים ורמזורים",
+"subcategory":"שלטי מהירות",
+"englishSubcategory":"Speed Signs",
+"description":"שלטי מהירות מציינים את המהירות המרבית או המינימלית המותרת בכביש. נהגים חייבים לציית למגבלות אלו כדי להבטיח תנאי נהיגה בטוחים ולהימנע מקנסות."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"תמרורים ורמזורים",
+"subcategory":"רַמזוֹר",
+"englishSubcategory":"Traffic Lights",
+"description":"רמזורים שולטים בזרימת כלי הרכב והולכי הרגל בצמתים. אדום פירושו עצירה, ירוק פירושו נסיעה, וצהוב הוא אזהרה להתכונן לעצירה."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"תמרורים ורמזורים",
+"subcategory":"רמזורים להולכי רגל",
+"englishSubcategory":"Pedestrian Signals",
+"description":"רמזורים להולכי רגל מציינים מתי בטוח להולכי רגל לחצות את הכביש. רמזורים אלה בדרך כלל מתואמים עם רמזורים כדי להבטיח את בטיחות הולכי הרגל."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"תמרורים ורמזורים",
+"subcategory":"איתותי בקרת נתיבים",
+"englishSubcategory":"Lane Control Signals",
+"description":"אותות בקרת נתיבים משמשים כדי לציין האם נתיב פתוח או סגור. אותות אלה משמשים בדרך כלל בכבישים מרובי נתיבים ובמנהרות."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"תמרורים ורמזורים",
+"subcategory":"שלטי \"אין חניה\"",
+"englishSubcategory":"No Parking Signs",
+"description":"שלטי \"אין חניה\"מציינים אזורים בהם עצירה או חניה אסורים. זה בדרך כלל כדי להבטיח שהתנועה תזרום בצורה חלקה ושמירת הבטיחות."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"תמרורים ורמזורים",
+"subcategory":"שלטי חד-סטריים",
+"englishSubcategory":"One-Way Signs",
+"description":"שלטי חד-סטריים מציינים כי התנועה חייבת לנסוע בכיוון אחד בלבד. התעלמות משלטים אלה עלולה לגרום לתאונות ולהשלכות משפטיות."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"תמרורים ורמזורים",
+"subcategory":"שלטי עצור",
+"englishSubcategory":"Stop Signs",
+"description":"תמרורי עצור מחייבים את הנהגים לעצור לחלוטין ולסגת כיוון לכל כלי רכב או הולך רגל אחרים לפני המשך דרכם."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"תמרורים ורמזורים",
+"subcategory":"שלטי \"תן זכות קדימה\"",
+"englishSubcategory":"Give Way Signs",
+"description":"שלטי \"תן זכות קדימה\"מורים לנהגים לתת זכות קדימה למשתמשי דרך אחרים, הולכי רגל או כלי רכב, בהתאם למצב, כדי למנוע תאונות."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"חוקי מהירות ומרחק",
+"subcategory":"מגבלות מהירות",
+"englishSubcategory":"Speed Limits",
+"description":"מגבלת המהירות המוגדרת כברירת מחדל באזור בנוי בוויקטוריה היא 50 קמ\"ש אלא אם כן שילוט אחר. יש לבדוק תמיד את השילוט המוצב כדי לוודא שאתם נוהגים במסגרת מגבלות המהירות החוקיות."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"חוקי מהירות ומרחק",
+"subcategory":"מגבלות מהירות",
+"englishSubcategory":"Speed Limits",
+"description":"באזור בית ספר מסומן, בשעות המצוינות בתמרור, מגבלת המהירות מופחתת ל-40 קמ\"ש כדי להבטיח את בטיחותם של ילדים החוצים את הכביש."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"חוקי מהירות ומרחק",
+"subcategory":"מרחק עוקב",
+"englishSubcategory":"Following Distance",
+"description":"מרחק המעקב המינימלי הבטוח בתנאים אידיאליים הוא לפחות שתי שניות מאחורי הרכב שלפניו. זה מאפשר מספיק זמן להגיב אם הרכב שלפניו עוצר בפתאומיות."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"חוקי מהירות ומרחק",
+"subcategory":"מגבלות מהירות",
+"englishSubcategory":"Speed Limits",
+"description":"בעת עקיפת חשמלית שעצרה באזור בטיחות, עליך להפחית את מהירותך ל-10 קמ\"ש כדי להבטיח את בטיחות הנוסעים העולים או היורדים ממנה."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"חוקי מהירות ומרחק",
+"subcategory":"מגבלות מהירות",
+"englishSubcategory":"Speed Limits",
+"description":"בכבישים כפריים ללא שלטי מהירות, מגבלת המהירות המוגדרת כברירת מחדל היא 100 קמ\"ש אלא אם כן צוין אחרת בשלטים המקומיים. התאם את מהירותך לתנאי הדרך כדי לשמור על בטיחותך."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"חוקי מהירות ומרחק",
+"subcategory":"מרחק עוקב",
+"englishSubcategory":"Following Distance",
+"description":"בתנאי מזג אוויר רטובים, עליך להגדיל את מרחק המעקב שלך לארבע שניות לפחות. כבישים רטובים מפחיתים את האחיזה, ודורשים זמן רב יותר לעצירה בטוחה."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"חוקי מהירות ומרחק",
+"subcategory":"מגבלות מהירות",
+"englishSubcategory":"Speed Limits",
+"description":"יש לציית לשלטי הגבלת מהירות אלקטרוניים משתנים בכל עת שהם פועלים. שלטים אלה מתאימים את מגבלות המהירות בהתאם לתנאי התנועה, מזג האוויר או תקריות בכביש."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"חוקי מהירות ומרחק",
+"subcategory":"מרחק עצירה",
+"englishSubcategory":"Stopping Distance",
+"description":"ככל שמהירותך עולה, מרחק העצירה הנדרש לעצירה בטוחה של רכבך גדל גם הוא. ודא תמיד שיש לך מרחק מספיק כדי להגיב לסכנות."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"חוקי מהירות ומרחק",
+"subcategory":"מגבלות מהירות",
+"englishSubcategory":"Speed Limits",
+"description":"באזורים משותפים, מגבלת המהירות היא בדרך כלל 10 קמ\"ש כדי להבטיח את בטיחותם של הולכי רגל ורוכבי אופניים באזורים אלה שבהם כלי רכב ומשתמשי דרך שאינם ממונעים מקיימים אינטראקציה."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"חוקי מהירות ומרחק",
+"subcategory":"מרחק עוקב",
+"englishSubcategory":"Following Distance",
+"description":"נסיעה מאחורי רכבים (Tailgating) מסוכנת משום שהיא מפחיתה את זמן התגובה והבלימה. יש לשמור תמיד על מרחק מעקב בטוח, במיוחד בעת נהיגה מאחורי כלי רכב גדולים יותר שעלולים לחסום את שדה הראייה."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"אחריות הנהג",
+"subcategory":"התחייבויות משפטיות",
+"englishSubcategory":"Legal Obligations",
+"description":"נהגים חייבים למלא מגוון חובות חוקיות, כגון מתן סיוע לאחר תאונה, חילופי פרטים לאחר תאונות ודיווח על אירועים לרשויות כנדרש על פי חוק."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"אחריות הנהג",
+"subcategory":"קשב ושליטה",
+"englishSubcategory":"Attention & Control",
+"description":"על הנהגים לשמור על שליטה ברכבם בכל עת, להימנע מהסחות דעת ולשמור על ריכוז כדי להבטיח את בטיחותם ובטיחותם של משתמשי הדרך האחרים."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"אחריות הנהג",
+"subcategory":"התחייבויות משפטיות",
+"englishSubcategory":"Legal Obligations",
+"description":"במקרה של תאונה הגורמת לפציעה, על הנהגים לעצור ולספק סיוע במידת האפשר. אי עצירה וסיוע במצבים כאלה מהווים עבירה על החוק."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"אחריות הנהג",
+"subcategory":"קשב ושליטה",
+"englishSubcategory":"Attention & Control",
+"description":"חיוני שנהגים יישארו בשליטה מלאה על רכבם בכל עת, ויבטיחו שהם מגיבים כראוי לתנאי תנועה משתנים וישמרו על סביבת נהיגה בטוחה."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"אחריות הנהג",
+"subcategory":"התחייבויות משפטיות",
+"englishSubcategory":"Legal Obligations",
+"description":"נהגים חייבים לדווח למשטרה על תאונה אם מישהו נפגע או ניזוק לרכוש ולא ניתן להעביר את הפרטים. אי דיווח על אירועים אלה עלול להוביל לעונשים."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"אחריות הנהג",
+"subcategory":"ניהול עייפות",
+"englishSubcategory":"Fatigue Management",
+"description":"עייפות היא סיכון חמור בזמן נהיגה. נהגים צריכים להיות מודעים לסימנים המוקדמים של עייפות, כגון פיהוק ואובדן ריכוז, ולנקוט בפעולה מתאימה כדי למנוע תאונות."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"אחריות הנהג",
+"subcategory":"התחייבויות משפטיות",
+"englishSubcategory":"Legal Obligations",
+"description":"נהגים חייבים להציג את רישיונם כאשר המשטרה דורשת זאת. סירוב להציג את הרישיון עלול לגרור עונשים או השלכות משפטיות נוספות."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"אחריות הנהג",
+"subcategory":"קשב ושליטה",
+"englishSubcategory":"Attention & Control",
+"description":"על נהגים להימנע משימוש בצופר שלא לצורך, שכן הדבר עלול להבהיל או להסיח את דעתם של משתמשי דרך אחרים. יש להשתמש בצופר רק כדי להתריע בפני אחרים על נוכחותכם במצבים בהם הדבר הכרחי."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"אחריות הנהג",
+"subcategory":"ניהול עייפות",
+"englishSubcategory":"Fatigue Management",
+"description":"אם אתם מרגישים עייפים מדי מכדי להמשיך לנהוג, התגובה הבטוחה ביותר היא לעצור ולנוח לפני המשך הנהיגה. נהיגה בזמן עייפות מגדילה משמעותית את הסיכון לתאונות."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"אחריות הנהג",
+"subcategory":"התחייבויות משפטיות",
+"englishSubcategory":"Legal Obligations",
+"description":"נהגים אחראים לוודא שנוסעיהם יושבים בבטחה ומחוברים לבטיחות. זה כולל לוודא שילדים נמצאים במושבי בטיחות מתאימים ומבוגרים חוברים חגורות בטיחות."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"אלכוהול, סמים ובריאות",
+"subcategory":"מגבלות אלכוהול",
+"englishSubcategory":"Alcohol Limits",
+"description":"בוויקטוריה, נהגים מתלמדים ונהגים על תנאי (P1 ו-P2) חייבים לשמור על ריכוז אלכוהול בדם (BAC) של 0.00 בכל עת. נהגים בעלי רישיון מלא צריכים לשמור על ריכוז אלכוהול בדם של 0.05, אך בטוח יותר לא לשתות כלל בזמן נהיגה."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"אלכוהול, סמים ובריאות",
+"subcategory":"השפעות אלכוהול",
+"englishSubcategory":"Alcohol Effects",
+"description":"אלכוהול פוגע בשיקול הדעת, בזמן התגובה ובקואורדינציה, מה שיכול להגביר משמעותית את הסיכון לתאונות. אפילו כמויות קטנות של אלכוהול יכולות להפחית את יכולתך לנהוג בבטחה."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"אלכוהול, סמים ובריאות",
+"subcategory":"נהיגה בסמים",
+"englishSubcategory":"Drug Driving",
+"description":"נהיגה תחת השפעת סמים, כולל תרופות מרשם, עלולה לפגוע ביכולת הנהיגה שלך, גם אם אתה מרגיש שאין לך בעיה. חשוב להיות מודעים לסיכונים ולהימנע מנהיגה לאחר שימוש בסמים."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"אלכוהול, סמים ובריאות",
+"subcategory":"בטיחות תרופות",
+"englishSubcategory":"Medication Safety",
+"description":"לפני תחילת נטילת תרופה חדשה במרשם, בדקו אם היא משפיעה על יכולתכם לנהוג ופעל לפי הנחיות רפואיות. תרופות מסוימות עלולות לגרום לנמנום או לפגוע בריכוז."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"אלכוהול, סמים ובריאות",
+"subcategory":"עייפות ובריאות",
+"englishSubcategory":"Fatigue & Health",
+"description":"עייפות יכולה לפגוע ביכולתך לנהוג בבטחה, בדיוק כמו אלכוהול או סמים. ודאו שאתם מקבלים מספיק מנוחה לפני הנהיגה, ולקחת הפסקות במהלך נסיעות ארוכות כדי להפחית את הסיכון לתאונות הקשורות לעייפות."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"אלכוהול, סמים ובריאות",
+"subcategory":"השפעות אלכוהול",
+"englishSubcategory":"Alcohol Effects",
+"description":"לאחר שתיית אלכוהול, רק זמן יכול להפחית את כמות האלכוהול בגוף. קפה, מקלחות קרות או שיטות אחרות אינן מאיצות תהליך זה."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"אלכוהול, סמים ובריאות",
+"subcategory":"מגבלות אלכוהול",
+"englishSubcategory":"Alcohol Limits",
+"description":"בוויקטוריה, כל הנהגים הלומדים והנהגים על תנאי חייבים לשמור על ריכוז אלכוהול בדם של 0.00. עבור נהגים בעלי רישיון מלא, רמת האלכוהול המותרת היא 0.05. עם זאת, הימנעות מאלכוהול לפני נהיגה היא תמיד האפשרות הבטוחה ביותר."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"אלכוהול, סמים ובריאות",
+"subcategory":"נהיגה בסמים",
+"englishSubcategory":"Drug Driving",
+"description":"בוויקטוריה, ייתכן שתיענש על נהיגה עם סמים מסוימים במערכת העיכול שלך, גם אם אתה מרגיש שאין לך בעיה. שימוש בסמים משפיע על יכולתך לנהוג בבטחה ומגביר את הסיכון לתאונות."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"אלכוהול, סמים ובריאות",
+"subcategory":"בטיחות תרופות",
+"englishSubcategory":"Medication Safety",
+"description":"לפני נהיגה, יש לבדוק תמיד אם תרופות חדשות עלולות להשפיע על יכולתך להפעיל רכב. תרופות מסוימות גורמות לנמנום, פוגעות בזמני תגובה ומפחיתות את הריכוז."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"אלכוהול, סמים ובריאות",
+"subcategory":"עייפות ובריאות",
+"englishSubcategory":"Fatigue & Health",
+"description":"עייפות יכולה להיות בעלת השפעה דומה על נהיגה כמו אלכוהול. היא מאטה את זמן התגובה, פוגעת בשיקול הדעת ומפחיתה את יכולת קבלת החלטות, מה שמגדיל את הסיכון לתאונות."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"נוהלי נהיגה בטוחים",
+"subcategory":"תפיסת סכנה",
+"englishSubcategory":"Hazard Perception",
+"description":"כשמתקרבים לסכנה פוטנציאלית, התגובה הבטוחה ביותר היא להאט ולהתכונן לעצירה במידת הצורך. זה נותן לך זמן להעריך את המצב ולהגיב כראוי."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"נוהלי נהיגה בטוחים",
+"subcategory":"תפיסת סכנה",
+"englishSubcategory":"Hazard Perception",
+"description":"סריקה טובה קדימה בזמן נהיגה חיונית לזיהוי מוקדם של סכנות פוטנציאליות. זה מאפשר לך לתכנן את תגובתך ולהימנע מתגובות פתאומיות."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"נוהלי נהיגה בטוחים",
+"subcategory":"נהיגה הגנתית",
+"englishSubcategory":"Defensive Driving",
+"description":"נהיגה הגנתית כרוכה בציפייה לטעויות פוטנציאליות של משתמשי דרך אחרים ושמירה על מרחק בטוח כדי למנוע התנגשויות."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"נוהלי נהיגה בטוחים",
+"subcategory":"תנאי הדרך",
+"englishSubcategory":"Road Conditions",
+"description":"אם הצמיגים שלכם מאבדים אחיזה על כביש רטוב, שחררו את דוושת הגז והנהגו בצורה חלקה. בלימה פתאומית או פניות חדות עלולות להחמיר את המצב ולהוביל לאובדן שליטה."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"נוהלי נהיגה בטוחים",
+"subcategory":"תפיסת סכנה",
+"englishSubcategory":"Hazard Perception",
+"description":"בעת נהיגה בפקק, המיקום הטוב ביותר לשים לב לסכנות הוא הרחק קדימה ולצדדים, ולא רק להתמקד במכונית שלפניך. זה עוזר לך לצפות סיכונים מוקדם יותר."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"נוהלי נהיגה בטוחים",
+"subcategory":"נהיגה הגנתית",
+"englishSubcategory":"Defensive Driving",
+"description":"אם רכב מתפתל בנתיב שלפניו, התגובה הבטוחה ביותר היא להגדיל את מרחק המעקב. זה נותן לך יותר זמן להגיב אם המצב מחמיר."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"נוהלי נהיגה בטוחים",
+"subcategory":"תנאי הדרך",
+"englishSubcategory":"Road Conditions",
+"description":"הכביש לרוב חלקלק במיוחד בדקות הראשונות לאחר גשם. יש לנקוט משנה זהירות בתקופה זו, שכן שמנים ופסולת על הכביש עלולים להפוך אותו למסוכן יותר."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"נוהלי נהיגה בטוחים",
+"subcategory":"נהיגה לילית",
+"englishSubcategory":"Night Driving",
+"description":"כדי להתמודד עם סנוור מאורות קדמיים בלילה, הסתכלו מעט לקצה השמאלי של הנתיב והאטו במידת הצורך. זה עוזר להימנע מחשיפה ישירה לאורות הבהירים."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"נוהלי נהיגה בטוחים",
+"subcategory":"נהיגה הגנתית",
+"englishSubcategory":"Defensive Driving",
+"description":"אם נהג עוקב אחריך קרוב מדי, הפעולה הבטוחה ביותר היא להגדיל את מרחק המעקב שלך מהרכב שלפניך. זה נותן לך ולנהג העוקב יותר מרחב להגיב."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"נוהלי נהיגה בטוחים",
+"subcategory":"תנאי הדרך",
+"englishSubcategory":"Road Conditions",
+"description":"בעת נהיגה בערפל, יש להפחית את המהירות ולשמור על מרחק נוסף בין רכבכם לאחרים. ערפל מפחית באופן משמעותי את הראות ומגביר את הסיכון לתאונות."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"צמתים, פניות וכיכרות",
+"subcategory":"וַתְרָנוּת",
+"englishSubcategory":"Giving Way",
+"description":"בצמתים ללא שלטים או רמזורים, הרכב המתקרב מימין חייב לתת זכות קדימה לרכב המגיע משמאל."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"צמתים, פניות וכיכרות",
+"subcategory":"סיבובים",
+"englishSubcategory":"Turns",
+"description":"כשפונים ימינה ברמזור ללא חץ לפנייה ימינה, חובה לתת זכות קדימה לתנועה המתקרבת ממול ולהולכי רגל לפני שתמשיכו בנסיעה."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"צמתים, פניות וכיכרות",
+"subcategory":"כיכרות",
+"englishSubcategory":"Roundabouts",
+"description":"בכיכר תנועה, כלי רכב שכבר נמצאים בכיכר מקבלים עדיפות. נהגים הנכנסים לכיכר חייבים לתת להם זכות קדימה."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"צמתים, פניות וכיכרות",
+"subcategory":"סיבובים",
+"englishSubcategory":"Turns",
+"description":"בפנייה שמאלה, עליך לתת זכות קדימה להולכי רגל החוצים את הכביש אליו אתה נכנס, תוך הבטחת שלומם."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"צמתים, פניות וכיכרות",
+"subcategory":"וַתְרָנוּת",
+"englishSubcategory":"Giving Way",
+"description":"בצומת T, הרכב בכביש המסיים חייב לתת זכות קדימה לכלי רכב בכביש הממשיך."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"צמתים, פניות וכיכרות",
+"subcategory":"סיבובים",
+"englishSubcategory":"Turns",
+"description":"בעת ביצוע פניית פרסה, עליך לתת זכות קדימה לכל כלי הרכב והולכי הרגל האחרים, תוך הבטחת שלומם בזמן שאתה פונה."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"צמתים, פניות וכיכרות",
+"subcategory":"כיכרות",
+"englishSubcategory":"Roundabouts",
+"description":"ביציאה מכיכר תנועה, אותת שמאלה ממש לפני היציאה כדי ליידע משתמשי דרך אחרים על כוונותיך."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"צמתים, פניות וכיכרות",
+"subcategory":"וַתְרָנוּת",
+"englishSubcategory":"Giving Way",
+"description":"בעת כניסה לכביש משביל גישה, עליך לתת זכות קדימה לכל כלי הרכב והולכי הרגל בכביש כדי למנוע תאונות."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"צמתים, פניות וכיכרות",
+"subcategory":"סיבובים",
+"englishSubcategory":"Turns",
+"description":"לפני הפנייה ימינה, מקם את רכבך קרוב ככל האפשר למרכז הכביש, תוך הבטחת פנייה בטוחה ופנויה."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"צמתים, פניות וכיכרות",
+"subcategory":"רַמזוֹר",
+"englishSubcategory":"Traffic Lights",
+"description":"חץ ירוק מציין שמותר לך להמשיך בכיוון החץ מבלי לתת זכות קדימה לתנועה אחרת או להולכי רגל."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"סימוני דרך, נתיבים ועקיפות",
+"subcategory":"שימוש בנתיב",
+"englishSubcategory":"Lane Use",
+"description":"קו מרכז יחיד ורציף פירושו בדרך כלל שאסור לחצות אותו, למעט בעת כניסה או יציאה מהכביש או מחניה."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"סימוני דרך, נתיבים ועקיפות",
+"subcategory":"עֲקִיפָה",
+"englishSubcategory":"Overtaking",
+"description":"עקיפה שמאלה מותרת בכביש רב-נתיבי כאשר התנועה נמצאת בנתיבים מסומנים נפרדים ולעשות זאת בבטחה."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"סימוני דרך, נתיבים ועקיפות",
+"subcategory":"עֲקִיפָה",
+"englishSubcategory":"Overtaking",
+"description":"מותר לך לעקוף רכב משמאל בכביש חד-נתיבי כאשר הרכב שלפניך פונה ימינה וזה בטוח לעשות זאת."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"סימוני דרך, נתיבים ועקיפות",
+"subcategory":"שימוש בנתיב",
+"englishSubcategory":"Lane Use",
+"description":"לפני שינוי נתיב, אותת וודא שזה בטוח לעשות זאת. זה מבטיח שמשתמשי דרך אחרים מודעים לכוונותיך ומונע תאונות."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"סימוני דרך, נתיבים ועקיפות",
+"subcategory":"סימוני דרך",
+"englishSubcategory":"Road Markings",
+"description":"אי תנועה צבוע, או סימון שברון, מציין שאסור לנהוג עליו, ומבטיח תנועה בטוחה של התנועה."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"סימוני דרך, נתיבים ועקיפות",
+"subcategory":"עֲקִיפָה",
+"englishSubcategory":"Overtaking",
+"description":"אם אינך בטוח אם זה בטוח לעקוף, הפעולה הבטוחה ביותר היא לא לעקוף. תמיד יש להעריך את המצב לפני ביצוע התנועה."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"סימוני דרך, נתיבים ועקיפות",
+"subcategory":"שימוש בנתיב",
+"englishSubcategory":"Lane Use",
+"description":"קו אמצע שבור פירושו שמותר לך לחצות אותו אם זה בטוח לעשות זאת, מה שיאפשר עקיפה או החלפת נתיב."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"סימוני דרך, נתיבים ועקיפות",
+"subcategory":"שימוש בנתיב",
+"englishSubcategory":"Lane Use",
+"description":"ריחוף בין שני נתיבים חוקי רק כאשר סימוני הנתיב מאפשרים זאת. זה בדרך כלל לא בטוח או מותר ברוב תנאי הנהיגה."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"סימוני דרך, נתיבים ועקיפות",
+"subcategory":"עֲקִיפָה",
+"englishSubcategory":"Overtaking",
+"description":"אם הרכב שאתה עוקף מתחיל להאיץ, התגובה הבטוחה ביותר היא לבטל את העקיפה אם זה בטוח ולסגת לאחור."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"סימוני דרך, נתיבים ועקיפות",
+"subcategory":"סימוני דרך",
+"englishSubcategory":"Road Markings",
+"description":"קו מרכז כפול ורציף פירושו שאסור לחצות אותו או לפסוע עליו בשום פנים ואופן, מה שמבטיח את זרימת התנועה והבטיחות."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"עצירה, חניה וחוקי צד הדרך",
+"subcategory":"אין עצירה ואסור חניה",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"\"אין עצירה\"פירושו שאסור לעצור כלל, בעוד שאסור חניה מאפשר עצירה קצרה לאיסוף או הורדה."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"עצירה, חניה וחוקי צד הדרך",
+"subcategory":"אין עצירה ואסור חניה",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"באזור אסור חניה, מותר לעצור רק למשך זמן מספיק כדי להעלות או להוריד נוסעים."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"עצירה, חניה וחוקי צד הדרך",
+"subcategory":"חניה ליד צמתים",
+"englishSubcategory":"Parking Near Intersections",
+"description":"חניה ליד צומת מוגבלת לעיתים קרובות משום שהיא עלולה לחסום את הראות וליצור סכנות לנהגים ולהולכי רגל."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"עצירה, חניה וחוקי צד הדרך",
+"subcategory":"אין עצירה ואסור חניה",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"אסור לך לעצור באזור אסור לעצור, גם אם אתה עונה לשיחת טלפון או צריך לעצור במהירות."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"עצירה, חניה וחוקי צד הדרך",
+"subcategory":"קלירווייז",
+"englishSubcategory":"Clearways",
+"description":"כביש פנוי פירושו שאסור לעצור או לחנות בצד זה של הכביש במהלך שעות הפעילות שלו."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"עצירה, חניה וחוקי צד הדרך",
+"subcategory":"חניה ליד מעברי חציה",
+"englishSubcategory":"Parking Near Crossings",
+"description":"עצירה ליד מעבר חציה מסוכנת מכיוון שהיא עלולה להסתיר הולכי רגל מפני נהגים מתקרבים, מה שמגדיל את הסיכון לתאונות."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"עצירה, חניה וחוקי צד הדרך",
+"subcategory":"עצירה למען בטיחות",
+"englishSubcategory":"Stopping for Safety",
+"description":"מותר לעצור באזור אסור לעצור רק אם תנאי התנועה או במצב חירום מחייבים זאת."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"עצירה, חניה וחוקי צד הדרך",
+"subcategory":"חניה על הגבעות",
+"englishSubcategory":"Parking on Hills",
+"description":"בעת חניה בגבעה, יש תמיד להפעיל את בלם היד ולאבטח את הרכב כדי להפחית את הסיכון להתהפכות."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"עצירה, חניה וחוקי צד הדרך",
+"subcategory":"חניה ליד צמתים",
+"englishSubcategory":"Parking Near Intersections",
+"description":"אסור לחנות קרוב מדי לפינה מכיוון שזה עלול לחסום את שדה הראייה של הולכי רגל ותנועה מתקרבת וליצור סכנות."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"עצירה, חניה וחוקי צד הדרך",
+"subcategory":"אין עצירה ואסור חניה",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"שלט \"אין חניה\"עם זמנים מוצגים פירושו שהאיסור חל רק בזמנים המוצגים בשלט."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"הולכי רגל, רוכבי אופניים ומשתמשי דרך פגיעים",
+"subcategory":"הולכי רגל",
+"englishSubcategory":"Pedestrians",
+"description":"בעת פנייה, נהגים חייבים לתת זכות קדימה להולכי רגל החוצים את הכביש הנכנסים אליו. זה חל גם אם הולך הרגל אינו נמצא במעבר חציה המיועד לכך."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"הולכי רגל, רוכבי אופניים ומשתמשי דרך פגיעים",
+"subcategory":"רוכבי אופניים",
+"englishSubcategory":"Cyclists",
+"description":"על נהגים לאפשר מרווח נוסף בעת עקיפת רוכבי אופניים, שכן ייתכן שיידרש להם מקום כדי להימנע מסכנות או לשמור על שיווי משקל."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"הולכי רגל, רוכבי אופניים ומשתמשי דרך פגיעים",
+"subcategory":"הולכי רגל",
+"englishSubcategory":"Pedestrians",
+"description":"ליד אזורי קניות או תחנות תחבורה ציבורית, על נהגים לצפות לפעילות מוגברת של הולכי רגל ולחציית כבישים פתאומית. יש לשמור על ערנות תמיד באזורים אלה."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"הולכי רגל, רוכבי אופניים ומשתמשי דרך פגיעים",
+"subcategory":"רוכבי אופניים",
+"englishSubcategory":"Cyclists",
+"description":"כאשר רוכב אופניים רוכב בנתיב מסומן לאופניים, על הנהגים להימנע מנהיגה בנתיב אלא אם כן הדבר מותר ובטוח."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"הולכי רגל, רוכבי אופניים ומשתמשי דרך פגיעים",
+"subcategory":"יְלָדִים",
+"englishSubcategory":"Children",
+"description":"על נהגים לנקוט משנה זהירות ליד בתי ספר, שכן ילדים עלולים להתנהג באופן בלתי צפוי ולהעריך באופן שגוי את התנועה. האטו באזורי לימוד."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"הולכי רגל, רוכבי אופניים ומשתמשי דרך פגיעים",
+"subcategory":"רוכבי אופניים",
+"englishSubcategory":"Cyclists",
+"description":"אם רוכב אופניים רוכב במרכז נתיב צר, על הנהגים להמתין עד שיהיה בטוח לעקוף ויש מספיק מקום, במקום לעבור בכוח."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"הולכי רגל, רוכבי אופניים ומשתמשי דרך פגיעים",
+"subcategory":"הולכי רגל",
+"englishSubcategory":"Pedestrians",
+"description":"במעבר חציה לילדים, על הנהגים לעצור כאשר דגלים מתנוססים והולכי רגל נוכחים, כדי להבטיח את בטיחות הילדים."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"הולכי רגל, רוכבי אופניים ומשתמשי דרך פגיעים",
+"subcategory":"רוכבי אופניים",
+"englishSubcategory":"Cyclists",
+"description":"על נהגים לבדוק תמיד את השטחים המתים שלהם לפני שהם פונים, שכן רוכבי אופניים עלולים לנסוע לצידם באופן בלתי נראה, במיוחד באזורים עירוניים."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"הולכי רגל, רוכבי אופניים ומשתמשי דרך פגיעים",
+"subcategory":"קשישים ונכים",
+"englishSubcategory":"Elderly & Disabled",
+"description":"הולכי רגל קשישים עשויים להזדקק לזמן נוסף כדי לחצות, מכיוון שהם עלולים ללכת לאט יותר או לסבול מבעיות ניידות. תנו להם מקום וזמן לחצות בבטחה."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"הולכי רגל, רוכבי אופניים ומשתמשי דרך פגיעים",
+"subcategory":"רוכבי אופניים",
+"englishSubcategory":"Cyclists",
+"description":"רוכבי אופניים עשויים להיות קשים יותר לזיהוי כשהם מתקרבים לצמתים, והם יכולים לנוע במהירות. תנו תמיד לרוכבי אופניים מרחב וזמן לנווט בבטחה."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"מצבים מיוחדים וסביבות כביש",
+"subcategory":"אזורי בית ספר",
+"englishSubcategory":"School Zones",
+"description":"מגבלות המהירות באזורי בית הספר חלות רק בשעות המוצגות בשלטים. יש להקפיד עליהן כדי להבטיח את בטיחות הילדים."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"מצבים מיוחדים וסביבות כביש",
+"subcategory":"אזורי בית ספר",
+"englishSubcategory":"School Zones",
+"description":"נהגים חייבים להאט באזורי לימודים גם אם אין ילדים נראים לעין, מכיוון שילדים עלולים להופיע בפתאומיות ובצורה בלתי צפויה."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"מצבים מיוחדים וסביבות כביש",
+"subcategory":"עבודות בכביש",
+"englishSubcategory":"Roadworks",
+"description":"כשאתם מתקרבים לעבודות בכביש, האטו את הנסיעה ועקבו אחר השילוט הזמני כדי להבטיח את בטיחותם של העובדים ומשתמשי הדרך האחרים."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"מצבים מיוחדים וסביבות כביש",
+"subcategory":"עבודות בכביש",
+"englishSubcategory":"Roadworks",
+"description":"מגבלות המהירות מופחתות באזורי עבודות בכביש כדי להבטיח את בטיחות העובדים ולהתאים את עצמן לשינויים בתנאי הדרך."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"מצבים מיוחדים וסביבות כביש",
+"subcategory":"כבישים כפריים",
+"englishSubcategory":"Rural Roads",
+"description":"בכבישים כפריים, חיות בר עלולות להיכנס לכביש באופן בלתי צפוי. היו תמיד מוכנים לעצור או להאט את הקצב בעת נהיגה באזורים כפריים."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"מצבים מיוחדים וסביבות כביש",
+"subcategory":"כבישים כפריים",
+"englishSubcategory":"Rural Roads",
+"description":"לכבישים לא סולריים יש לעיתים קרובות אחיזה ויכולת בלימה מופחתות. נהגים צריכים להפחית את המהירות בעת נהיגה על משטחים לא סולריים."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"מצבים מיוחדים וסביבות כביש",
+"subcategory":"כבישים מהירים",
+"englishSubcategory":"Freeways",
+"description":"אם פספסתם את היציאה מהכביש המהיר, המשיכו ליציאה הבאה ופנו בבטחה. אל תנסו לעצור או לנסוע לאחור בכביש המהיר."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"מצבים מיוחדים וסביבות כביש",
+"subcategory":"כבישים מהירים",
+"englishSubcategory":"Freeways",
+"description":"אסור לעצור בכביש מהיר אלא במקרה חירום. יש להשתמש תמיד בשוליים או ברמפת היציאה במקרה של תקלה."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"מצבים מיוחדים וסביבות כביש",
+"subcategory":"תנאי מזג האוויר",
+"englishSubcategory":"Weather Conditions",
+"description":"בגשם כבד, יש להפחית את המהירות ולהגדיל את מרחק הנסיעה. כבישים רטובים עלולים להפחית את האחיזה ולהאריך את מרחקי העצירה."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"מצבים מיוחדים וסביבות כביש",
+"subcategory":"תנאי מזג האוויר",
+"englishSubcategory":"Weather Conditions",
+"description":"ערפל מפחית את הראות ואת תפיסת העומק, מה שהופך את הנהיגה למסוכנת במיוחד. האטו את הנסיעה והגדילו את מרחק המעקב בתנאי ערפל."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"רכבי חירום והוראות הגעה למשטרה",
+"subcategory":"מעניק זכות קדימה לרכבי חירום",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"כאשר רכב חירום מתקרב עם אורות ו/או סירנה, יש לסטות מנתיב הרכב ואפשרו לו לעבור בבטחה."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"רכבי חירום והוראות הגעה למשטרה",
+"subcategory":"מעניק זכות קדימה לרכבי חירום",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"אם אתם נמצאים ברמזור ורכב חירום מתקרב מאחור, הפעולה הבטוחה ביותר היא לזוז הצידה אם זה בטוח וחוקי, אחרת להישאר במקום ולתת לו לחלוף במידת האפשר."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"רכבי חירום והוראות הגעה למשטרה",
+"subcategory":"הנחיות המשטרה",
+"englishSubcategory":"Police Directions",
+"description":"אם שוטר מורה לך אחרת מהשלט, עליך לציית להוראות השוטר."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"רכבי חירום והוראות הגעה למשטרה",
+"subcategory":"מעניק זכות קדימה לרכבי חירום",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"אם רכב חירום עוצר כשאורות מהבהבים בצד הדרך, האט את הנסיעה ועקוף בזהירות, ועבור לצד השני אם זה בטוח."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"רכבי חירום והוראות הגעה למשטרה",
+"subcategory":"הנחיות המשטרה",
+"englishSubcategory":"Police Directions",
+"description":"אם המשטרה הקימה מחסום זמני, יש לפעול לפי הוראותיה ולפעול לפי כל עיקוף."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"רכבי חירום והוראות הגעה למשטרה",
+"subcategory":"מעניק זכות קדימה לרכבי חירום",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"אסור לך לעקוף מקרוב רכב חירום כדי לעבור את התנועה מהר יותר."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"רכבי חירום והוראות הגעה למשטרה",
+"subcategory":"מעניק זכות קדימה לרכבי חירום",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"אם אתם שומעים סירנה אך עדיין אינכם רואים את רכב החירום, הישארו ערניים, בדקו את המראות והיו מוכנים לנוע בבטחה."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"רכבי חירום והוראות הגעה למשטרה",
+"subcategory":"הנחיות המשטרה",
+"englishSubcategory":"Police Directions",
+"description":"אם פקח תנועה בעבודות בכביש נותן הנחיות, עליך לציית לפקח התנועה."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"רכבי חירום והוראות הגעה למשטרה",
+"subcategory":"הנחיות המשטרה",
+"englishSubcategory":"Police Directions",
+"description":"אם המשטרה הורתה לך לעצור לצורך בדיקת רישיון, עצור בבטחה בהתאם להוראות."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"רכבי חירום והוראות הגעה למשטרה",
+"subcategory":"מעניק זכות קדימה לרכבי חירום",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"אם אתם נוהגים בנתיב יחיד ורכב חירום מתקרב מאחור, אותתו ופנו שמאלה או למיקום בטוח במידת האפשר."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"חגורות בטיחות, מושבי בטיחות לילדים ונוסעים",
+"subcategory":"חגורות בטיחות",
+"englishSubcategory":"Seatbelts",
+"description":"הנהג אחראי לוודא שכל הנוסעים מתחת לגיל 16 חוגרים חגורת בטיחות."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"חגורות בטיחות, מושבי בטיחות לילדים ונוסעים",
+"subcategory":"חגורות בטיחות",
+"englishSubcategory":"Seatbelts",
+"description":"יש לחגור חגורת בטיחות בכל עת בעת תנועה, אם קיימת."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"חגורות בטיחות, מושבי בטיחות לילדים ונוסעים",
+"subcategory":"מושבי בטיחות לילדים",
+"englishSubcategory":"Child Restraints",
+"description":"מושב בטיחות לילדים נדרש משום שהוא נועד להתאים ולהגן על גודל גופו וצורת גופו בצורה יעילה יותר מאשר חגורת בטיחות למבוגרים."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"חגורות בטיחות, מושבי בטיחות לילדים ונוסעים",
+"subcategory":"נוסעים",
+"englishSubcategory":"Passengers",
+"description":"זה לא בטוח לנוסעים להניח רגליים על לוח המחוונים מכיוון שכריות אוויר וכוחות התנגשות עלולים לגרום לפציעות קשות."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"חגורות בטיחות, מושבי בטיחות לילדים ונוסעים",
+"subcategory":"מושבי בטיחות לילדים",
+"englishSubcategory":"Child Restraints",
+"description":"הכלל הבטוח ביותר לבחירת מושב בטיחות לילדים הוא להשתמש במושב שאושר ומתאים לגילו ולגודלו של הילד."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"חגורות בטיחות, מושבי בטיחות לילדים ונוסעים",
+"subcategory":"חגורות בטיחות",
+"englishSubcategory":"Seatbelts",
+"description":"סימן נפוץ לכך שחגורת בטיחות אינה נחגרת כראוי הוא כאשר רצועת החגורה נמצאת מתחת לזרוע או מאחורי הגב."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"חגורות בטיחות, מושבי בטיחות לילדים ונוסעים",
+"subcategory":"נוסעים",
+"englishSubcategory":"Passengers",
+"description":"אם נוסע מסיח את דעתו של הנהג, הפעולה הבטוחה ביותר היא לבקש ממנו לעצור ולהתמקד מחדש בנהיגה."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"חגורות בטיחות, מושבי בטיחות לילדים ונוסעים",
+"subcategory":"מושבי בטיחות לילדים",
+"englishSubcategory":"Child Restraints",
+"description":"לא בטוח להחזיק תינוק על הברכיים ברכב נוסע מכיוון שלא ניתן להחזיק אותו בבטחה במקרה של תאונה."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"חגורות בטיחות, מושבי בטיחות לילדים ונוסעים",
+"subcategory":"חגורות בטיחות",
+"englishSubcategory":"Seatbelts",
+"description":"יש לחגור חגורת בטיחות כאשר חלק הירכיים נמוך על פני הירכיים כדי להפחית את הסיכון לפגיעה בבטן במקרה של תאונה."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"חגורות בטיחות, מושבי בטיחות לילדים ונוסעים",
+"subcategory":"נוסעים",
+"englishSubcategory":"Passengers",
+"description":"סיכון מרכזי בנשיאת חפצים לא מאובטחים בתא הנוסעים הוא שהם עלולים להפוך לקליעים במקרה של התנגשות או עצירה פתאומית."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"יסודות בטיחות, פגמים ותחזוקה של רכב",
+"subcategory":"צמיגים",
+"englishSubcategory":"Tyres",
+"description":"לחץ אוויר נכון בצמיגים חשוב לבטיחות משום שהוא משפיע על האחיזה, הבלימה והיגוי."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"יסודות בטיחות, פגמים ותחזוקה של רכב",
+"subcategory":"בַּלָמִים",
+"englishSubcategory":"Brakes",
+"description":"אם דוושת הבלם שלך מרגישה ספוגית או שוקעת עמוק יותר מהרגיל, התייחס לכך כאל תקלה חמורה ובדוק את הבלמים מיד."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"יסודות בטיחות, פגמים ותחזוקה של רכב",
+"subcategory":"אורות וראות",
+"englishSubcategory":"Lights & Visibility",
+"description":"בדקו באופן קבוע את כל אורות הרכב כדי לוודא שאתם יכולים לראות ולהיראות על ידי אחרים."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"יסודות בטיחות, פגמים ותחזוקה של רכב",
+"subcategory":"היגוי ומתלים",
+"englishSubcategory":"Steering & Suspension",
+"description":"סימן אזהרה לבעיית היגוי יכול לכלול משיכה חריגה, רעידות או קושי בהיגוי."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"יסודות בטיחות, פגמים ותחזוקה של רכב",
+"subcategory":"שמשות ומגבים",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"להבי מגב שחוקים מהווים בעיית בטיחות משום שהם מפחיתים את הראות בגשם."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"יסודות בטיחות, פגמים ותחזוקה של רכב",
+"subcategory":"צמיגים",
+"englishSubcategory":"Tyres",
+"description":"סימן נפוץ לכך שצמיגים אינם בטוחים הוא אם שכבת הדריכה שחוקה או שחוקה באופן לא אחיד."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"יסודות בטיחות, פגמים ותחזוקה של רכב",
+"subcategory":"מראות וכיוונון",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"יש לכוון את המראות לפני הנסיעה כדי להפחית שטחים מתים ולשפר את המודעות."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"יסודות בטיחות, פגמים ותחזוקה של רכב",
+"subcategory":"בַּלָמִים",
+"englishSubcategory":"Brakes",
+"description":"אם הבלמים שלך משמיעים רעשי חריקה, בדוק אותם בהקדם האפשרי."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"יסודות בטיחות, פגמים ותחזוקה של רכב",
+"subcategory":"אורות וראות",
+"englishSubcategory":"Lights & Visibility",
+"description":"השתמש באורות קדמיים במצבי ראות ירודה, כדי שאחרים יוכלו לראות אותך."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"יסודות בטיחות, פגמים ותחזוקה של רכב",
+"subcategory":"שמשות ומגבים",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"אם השמשה הקדמית שלך סדוקה קשות בטווח הראייה שלך, תקן או החלף אותה לפני שתמשיך בנסיעה."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"מטענים, גרירה ומודעות לרכבים כבדים",
+"subcategory":"עומסים",
+"englishSubcategory":"Loads",
+"description":"יש לאבטח את המטענים כראוי כדי למנוע מהם תזוזה או נפילה ולגרום לתאונות."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"מטענים, גרירה ומודעות לרכבים כבדים",
+"subcategory":"עומסים",
+"englishSubcategory":"Loads",
+"description":"מטען לא מאובטח בתוך רכב עלול להפוך לקליע במהלך בלימה פתאומית, וליצור סיכון בטיחותי משמעותי."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"מטענים, גרירה ומודעות לרכבים כבדים",
+"subcategory":"עומסים",
+"englishSubcategory":"Loads",
+"description":"נשיאת רכב עמוס יתר משפיעה על הבלימה על ידי הגדלת מרחק העצירה."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"מטענים, גרירה ומודעות לרכבים כבדים",
+"subcategory":"עומסים",
+"englishSubcategory":"Loads",
+"description":"הדרך הבטוחה ביותר לשאת חפצים ארוכים היא לאבטח אותם כך שלא יוכלו לזוז או לבלוט בצורה מסוכנת."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"מטענים, גרירה ומודעות לרכבים כבדים",
+"subcategory":"גְרִירָה",
+"englishSubcategory":"Towing",
+"description":"גרירת גרור מגדילה את מרחק הבלימה משום שהמשקל הנוסף מפחית את יעילות הבלימה."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"מטענים, גרירה ומודעות לרכבים כבדים",
+"subcategory":"גְרִירָה",
+"englishSubcategory":"Towing",
+"description":"לפני גרירת גרור, ודאו שהחיבור, האורות ושרשרת הבטיחות מאובטחים."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"מטענים, גרירה ומודעות לרכבים כבדים",
+"subcategory":"גְרִירָה",
+"englishSubcategory":"Towing",
+"description":"השאירו מרווח נוסף בעת פנייה בזמן גרירה, מכיוון שהגרור עוקב בתוך נתיב הפנייה."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"מטענים, גרירה ומודעות לרכבים כבדים",
+"subcategory":"עומסים",
+"englishSubcategory":"Loads",
+"description":"מטען החוסם את שדה הראייה לאחור מפחית את המודעות לתנועה שלפניך, ומגביר את הסיכון לתאונות."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"מטענים, גרירה ומודעות לרכבים כבדים",
+"subcategory":"כלי רכב כבדים",
+"englishSubcategory":"Heavy Vehicles",
+"description":"כלי רכב כבדים זקוקים ליותר מקום לעצירה מכיוון שמסה גדולה יותר שלהם מגדילה את מרחק הבלימה."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"מטענים, גרירה ומודעות לרכבים כבדים",
+"subcategory":"כלי רכב כבדים",
+"englishSubcategory":"Heavy Vehicles",
+"description":"כשאתה עוקב אחר משאית גדולה, הגדל את מרחק העקיבה כדי להתחשב בנקודות מתות ולאפשר למשאית לבלום את מרחק העצירה שלה."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"רישוי, חוקי לוחית רישוי L/P ומלכודות DKT מעשיות (VIC)",
+"subcategory":"כללי היתר למידה",
+"englishSubcategory":"Learner Permit Rules",
+"description":"כלומד נהיגה בוויקטוריה, מותר לך לנהוג ברכב רק תחת פיקוחו של נהג בעל רישיון מתאים היושב לצידך."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"רישוי, חוקי לוחית רישוי L/P ומלכודות DKT מעשיות (VIC)",
+"subcategory":"כללי היתר למידה",
+"englishSubcategory":"Learner Permit Rules",
+"description":"נהגים מתלמדים חייבים להציג את לוחיות הרישוי שלהם בבירור כך שיהיו גלויות לאחרים ברכב בכל עת."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"רישוי, חוקי לוחית רישוי L/P ומלכודות DKT מעשיות (VIC)",
+"subcategory":"כללי היתר למידה",
+"englishSubcategory":"Learner Permit Rules",
+"description":"אם הנהג המפקח עליך נרדם בזמן הנהיגה, עצור בבטחה ואל תמשיך לנסוע עד שתהיה לך פיקוח הולם."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"רישוי, חוקי לוחית רישוי L/P ומלכודות DKT מעשיות (VIC)",
+"subcategory":"טלפונים ניידים ומכשירים",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"כנהג מתלמד בוויקטוריה, אסור לך להשתמש בטלפון נייד בשום צורה בזמן נהיגה."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"רישוי, חוקי לוחית רישוי L/P ומלכודות DKT מעשיות (VIC)",
+"subcategory":"כללי היתר למידה",
+"englishSubcategory":"Learner Permit Rules",
+"description":"אם לוחיות ה-L שלך נופלות בזמן נהיגה, עצור בבטחה והתקן אותן מחדש לפני שתמשיך לנהוג."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"רישוי, חוקי לוחית רישוי L/P ומלכודות DKT מעשיות (VIC)",
+"subcategory":"הַשׁגָחָה",
+"englishSubcategory":"Supervision",
+"description":"מטרת הבטיחות העיקרית של כללי פיקוח על תלמידים היא להבטיח שנהג מנוסה יוכל להדריך ולהתערב במידת הצורך."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"רישוי, חוקי לוחית רישוי L/P ומלכודות DKT מעשיות (VIC)",
+"subcategory":"תנאים ותאימות",
+"englishSubcategory":"Conditions & Compliance",
+"description":"אם תלמיד נהיגה נתפס נוהג ללא הפיקוח הנדרש, סביר להניח כי עונשים והשלכות אפשריות על הרישוי צפויים."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"רישוי, חוקי לוחית רישוי L/P ומלכודות DKT מעשיות (VIC)",
+"subcategory":"תפיסת סכנה",
+"englishSubcategory":"Hazard Perception",
+"description":"מלכודת נפוצה בצמתים עבור נהגים מתלמדים היא פנייה מבלי לבדוק אם יש הולכי רגל שחוצים את הכביש שאליו אתם נכנסים."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"רישוי, חוקי לוחית רישוי L/P ומלכודות DKT מעשיות (VIC)",
+"subcategory":"תפיסת סכנה",
+"englishSubcategory":"Hazard Perception",
+"description":"גם אם הרמזור ירוק, עליך להאט או לעצור אם התנועה חסומה מלפנים או הולכי רגל חוצים את הכביש."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"רישוי, חוקי לוחית רישוי L/P ומלכודות DKT מעשיות (VIC)",
+"subcategory":"כללי היתר למידה",
+"englishSubcategory":"Learner Permit Rules",
+"description":"אם אתה מפקח על תלמיד, הנהג המפקח צריך תמיד לשבת במושב הנוסע הקדמי."
+}
+]

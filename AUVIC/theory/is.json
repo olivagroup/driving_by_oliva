@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Umferðarreglur og lög",
+"subcategory":"Almennar umferðarreglur",
+"englishSubcategory":"General Road Rules",
+"description":"Ökumenn verða að fylgja almennum umferðarreglum til að tryggja öryggi og greiða umferð. Þetta felur í sér að hlýða umferðarmerkjum, umferðarljósum og akreinamerkingum. Brot á þessum reglum getur leitt til slysa og refsinga."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Umferðarreglur og lög",
+"subcategory":"Vígja leið",
+"englishSubcategory":"Giving Way",
+"description":"Ökumenn eru skyldir að víkja fyrir öðrum ökutækjum eða gangandi vegfarendum á gatnamótum, hringtorgum og gangbrautum, svo eitthvað sé nefnt. Að víkja ekki er refsivert brot."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Umferðarreglur og lög",
+"subcategory":"Notkun akreina",
+"englishSubcategory":"Lane Use",
+"description":"Ökumenn verða að nota viðeigandi akreinar og fylgja akreinamerkingum. Þetta felur í sér reglur um akreinaskipti, framúrakstur og notkun hjólreiða- eða strætóakreina. Brot geta leitt til sekta eða slysa."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Umferðarreglur og lög",
+"subcategory":"Sporvagnar",
+"englishSubcategory":"Trams",
+"description":"Ökumenn verða að vera meðvitaðir um reglur um sporvagna, þar á meðal að víkja fyrir gangandi vegfarendum á stoppistöðvum, stoppa fyrir sporvögnum með opnar dyr og að aka ekki fram úr sporvögnum við ákveðnar aðstæður."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Umferðarreglur og lög",
+"subcategory":"Gatnamót",
+"englishSubcategory":"Intersections",
+"description":"Á gatnamótum verða ökumenn að fylgja réttum verklagsreglum um forgang og stöðvun við stöðvunarmerki eða umferðarljós. Að skilja þessar reglur er mikilvægt til að koma í veg fyrir slys."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Umferðarreglur og lög",
+"subcategory":"U-beygjur",
+"englishSubcategory":"U-Turns",
+"description":"Beygjur í óbeinu horni eru aðeins leyfðar á gatnamótum eða þegar ekkert skilti er sem bannar þær. Ökumenn verða að ganga úr skugga um að það sé öruggt áður en beygjan er framkvæmd."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Umferðarreglur og lög",
+"subcategory":"Hraðatakmarkanir",
+"englishSubcategory":"Speed Limits",
+"description":"Ökumenn verða að virða hraðatakmarkanir til að tryggja öryggi á veginum. Hraðakstur getur leitt til sekta, sviptingar ökuréttinda og aukinnar slysahættu."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Umferðarreglur og lög",
+"subcategory":"Öryggi gangandi vegfarenda",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Ökumenn verða að víkja fyrir gangandi vegfarendum á gangbrautum og tryggja öryggi þeirra nálægt gangbrautarsvæðum. Að stoppa ekki fyrir gangandi vegfarendum á gangbrautum er brot."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Umferðarreglur og lög",
+"subcategory":"Járnbrautarleiðir",
+"englishSubcategory":"Railway Crossings",
+"description":"Ökumenn verða að nema staðar við járnbrautarstöðvar þegar ljósin blikka eða hliðin eru niðri. Að hunsa þessi ljós er alvarlegt brot og getur leitt til sekta og slysa."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Umferðarreglur og lög",
+"subcategory":"Neyðarbílar",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Ökumenn verða að víkja fyrir neyðarbílum með blikkljósum og sírenum og tryggja að ökutækið hafi greiða leið í gegnum umferðina."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Umferðarskilti og umferðarljós",
+"subcategory":"Reglugerðarmerki",
+"englishSubcategory":"Regulatory Signs",
+"description":"Skilti með reglugerðum veita ökumönnum skyldubundnar leiðbeiningar, svo sem hraðatakmarkanir, beygjutakmarkanir og skilti með akstursbanni. Samkvæmt lögum er skylt að fylgja þessum skiltum til að viðhalda öryggi og reglu á vegum."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Umferðarskilti og umferðarljós",
+"subcategory":"Viðvörunarmerki",
+"englishSubcategory":"Warning Signs",
+"description":"Viðvörunarskilti vara ökumenn við hugsanlegum hættum, svo sem kröppum beygjum, skólasvæðum og vegamótum þar sem dýralíf er ekki í boði. Þessi skilti hjálpa ökumönnum að aðlaga akstur sinn til að forðast slys."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Umferðarskilti og umferðarljós",
+"subcategory":"Hraðaskilti",
+"englishSubcategory":"Speed Signs",
+"description":"Hraðaskilti gefa til kynna hámarks- eða lágmarkshraða sem leyfilegur er á vegi. Ökumenn verða að fylgja þessum takmörkunum til að tryggja öruggar akstursskilyrði og forðast sektir."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Umferðarskilti og umferðarljós",
+"subcategory":"Umferðarljós",
+"englishSubcategory":"Traffic Lights",
+"description":"Umferðarljós stjórna flæði ökutækja og gangandi vegfarenda á gatnamótum. Rautt ljós þýðir að stoppa, grænt ljós þýðir að fara og gult ljós er viðvörun um að undirbúa stöðvun."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Umferðarskilti og umferðarljós",
+"subcategory":"Gangandi vegfarendur",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Gönguljós gefa til kynna hvenær það er óhætt fyrir gangandi vegfarendur að fara yfir götuna. Þessi ljós eru venjulega í samræmi við umferðarljós til að tryggja öryggi gangandi vegfarenda."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Umferðarskilti og umferðarljós",
+"subcategory":"Akreinavarnaljós",
+"englishSubcategory":"Lane Control Signals",
+"description":"Akreinastýringarljós eru notuð til að gefa til kynna hvort akrein er opin eða lokuð. Þessi ljós eru yfirleitt notuð á fjölakreinavegum og í göngum."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Umferðarskilti og umferðarljós",
+"subcategory":"Skilti fyrir bílastæði bannaðar",
+"englishSubcategory":"No Parking Signs",
+"description":"Skilti með bílastæðum gefa til kynna svæði þar sem bannað er að stoppa eða leggja. Þetta er venjulega gert til að tryggja greiða umferð og öryggi."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Umferðarskilti og umferðarljós",
+"subcategory":"Einstefnuskilti",
+"englishSubcategory":"One-Way Signs",
+"description":"Einstefnuskilti gefa til kynna að umferð megi aðeins fara í eina átt. Að hunsa þessi skilti getur leitt til slysa og lagalegra afleiðinga."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Umferðarskilti og umferðarljós",
+"subcategory":"Stöðvunarskilti",
+"englishSubcategory":"Stop Signs",
+"description":"Stöðvunarmerki kveða á um að ökumenn verði að stöðva alveg og víkja fyrir öðrum ökutækjum eða gangandi vegfarendum áður en haldið er áfram."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Umferðarskilti og umferðarljós",
+"subcategory":"Skilti fyrir víkja",
+"englishSubcategory":"Give Way Signs",
+"description":"Skilti sem gefa ökumönnum forgang gefa þeim fyrirmæli um að víkja fyrir öðrum vegfarendum, annað hvort gangandi vegfarendum eða ökutækjum, eftir aðstæðum, til að koma í veg fyrir slys."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Reglur um hraða og vegalengd",
+"subcategory":"Hraðatakmarkanir",
+"englishSubcategory":"Speed Limits",
+"description":"Sjálfgefinn hámarkshraði í þéttbýli í Viktoríu er 50 km/klst nema annað sé skilti. Athugið alltaf hvort skilti séu sett upp til að tryggja að þið akið innan löglegra hraðatakmarkana."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Reglur um hraða og vegalengd",
+"subcategory":"Hraðatakmarkanir",
+"englishSubcategory":"Speed Limits",
+"description":"Á skiltum skólasvæðum á þeim tímum sem tilgreindir eru á skilti er hámarkshraði lækkaður í 40 km/klst til að tryggja öryggi barna sem fara yfir götuna."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Reglur um hraða og vegalengd",
+"subcategory":"Eftirfylgnifjarlægð",
+"englishSubcategory":"Following Distance",
+"description":"Lágmarks örugg fjarlægð við næstu akstursaðstæður er að minnsta kosti tvær sekúndur á eftir ökutækinu fyrir framan. Þetta gefur nægan tíma til að bregðast við ef ökutækið fyrir framan stoppar skyndilega."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Reglur um hraða og vegalengd",
+"subcategory":"Hraðatakmarkanir",
+"englishSubcategory":"Speed Limits",
+"description":"Þegar ekið er fram úr kyrrstæðum sporvagni á öryggissvæði verður að lækka hraðann niður í 10 km/klst til að tryggja öryggi farþega sem eru að fara inn í eða út úr sporvagninum."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Reglur um hraða og vegalengd",
+"subcategory":"Hraðatakmarkanir",
+"englishSubcategory":"Speed Limits",
+"description":"Á sveitavegum án hraðaskilta er sjálfgefinn hámarkshraði 100 km/klst nema annað sé tekið fram með skiltum á staðnum. Aðlagaðu hraðann að aðstæðum vegarins til að viðhalda öryggi."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Reglur um hraða og vegalengd",
+"subcategory":"Eftirfylgnifjarlægð",
+"englishSubcategory":"Following Distance",
+"description":"Í votviðri ættirðu að auka fylgnifjarlægðina í að minnsta kosti fjórar sekúndur. Blautir vegir draga úr veggripi og það tekur meiri tíma að stöðva á öruggan hátt."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Reglur um hraða og vegalengd",
+"subcategory":"Hraðatakmarkanir",
+"englishSubcategory":"Speed Limits",
+"description":"Fylgið rafrænum skiltum með breytilegum hraðatakmörkunum alltaf þegar þau eru í notkun. Þessi skilti aðlaga hraðatakmarkanir út frá umferðaraðstæðum, veðri eða atvikum á veginum."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Reglur um hraða og vegalengd",
+"subcategory":"Stöðvunarvegalengd",
+"englishSubcategory":"Stopping Distance",
+"description":"Þegar hraðinn eykst eykst einnig stöðvunarvegalengdin sem þarf til að stöðva ökutækið á öruggan hátt. Gakktu alltaf úr skugga um að þú hafir nægilegt bil til að bregðast við hættum."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Reglur um hraða og vegalengd",
+"subcategory":"Hraðatakmarkanir",
+"englishSubcategory":"Speed Limits",
+"description":"Á sameiginlegum svæðum er hámarkshraði almennt 10 km/klst til að tryggja öryggi gangandi vegfarenda og hjólreiðamanna á þessum svæðum þar sem ökutæki og óvélknúnir vegfarendur eiga samskipti."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Reglur um hraða og vegalengd",
+"subcategory":"Eftirfylgnifjarlægð",
+"englishSubcategory":"Following Distance",
+"description":"Það er hættulegt að aka á eftir öðrum bílum því það dregur úr viðbragðs- og hemlunartíma. Haldið alltaf öruggri fjarlægð eftir akstri, sérstaklega þegar ekið er á eftir stærri ökutækjum sem gætu hindrað útsýni."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Ábyrgð ökumanns",
+"subcategory":"Lagalegar skyldur",
+"englishSubcategory":"Legal Obligations",
+"description":"Ökumenn verða að uppfylla ýmsar lagaskyldur, svo sem að veita aðstoð eftir slys, skiptast á upplýsingum eftir slys og tilkynna atvik til yfirvalda eins og lög kveða á um."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Ábyrgð ökumanns",
+"subcategory":"Athygli og stjórn",
+"englishSubcategory":"Attention & Control",
+"description":"Ökumenn verða að hafa stjórn á ökutæki sínu ávallt, forðast truflanir og viðhalda einbeitingu til að tryggja eigið öryggi og öryggi annarra vegfarenda."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Ábyrgð ökumanns",
+"subcategory":"Lagalegar skyldur",
+"englishSubcategory":"Legal Obligations",
+"description":"Ef slys verður og veldur meiðslum verða ökumenn að nema staðar og veita aðstoð ef mögulegt er. Að nema ekki staðar og veita ekki aðstoð í slíkum aðstæðum er brot á lögum."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Ábyrgð ökumanns",
+"subcategory":"Athygli og stjórn",
+"englishSubcategory":"Attention & Control",
+"description":"Það er mikilvægt fyrir ökumenn að hafa fulla stjórn á ökutæki sínu allan tímann, tryggja að þeir bregðist viðeigandi við breyttum umferðaraðstæðum og viðhaldi öruggu akstursumhverfi."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Ábyrgð ökumanns",
+"subcategory":"Lagalegar skyldur",
+"englishSubcategory":"Legal Obligations",
+"description":"Ökumenn verða að tilkynna slys til lögreglu ef einhver slasast eða eignir skemmast og ekki er hægt að miðla upplýsingum um þau. Ef slík atvik eru ekki tilkynnt getur það leitt til sektar."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Ábyrgð ökumanns",
+"subcategory":"Þreytustjórnun",
+"englishSubcategory":"Fatigue Management",
+"description":"Þreyta er alvarleg hætta við akstur. Ökumenn ættu að vera meðvitaðir um fyrstu merki um þreytu, svo sem geispa og einbeitingarleysi, og grípa til viðeigandi aðgerða til að koma í veg fyrir slys."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Ábyrgð ökumanns",
+"subcategory":"Lagalegar skyldur",
+"englishSubcategory":"Legal Obligations",
+"description":"Ökumenn verða að framvísa ökuskírteini sínu þegar lögreglan krefst þess. Að neita að framvísa ökuskírteininu getur leitt til sekta eða frekari lagalegra afleiðinga."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Ábyrgð ökumanns",
+"subcategory":"Athygli og stjórn",
+"englishSubcategory":"Attention & Control",
+"description":"Ökumenn ættu að forðast að nota lúðurinn að óþörfu, þar sem það getur hrætt aðra vegfarendur eða truflað þá. Lúðrinn ætti aðeins að nota til að láta aðra vita af nærveru þinni í aðstæðum þar sem það er nauðsynlegt."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Ábyrgð ökumanns",
+"subcategory":"Þreytustjórnun",
+"englishSubcategory":"Fatigue Management",
+"description":"Ef þreyta er of mikil til að halda áfram akstri er öruggasta viðbrögðin að stoppa og hvíla sig áður en haldið er áfram. Þreyttur akstur eykur verulega hættuna á slysum."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Ábyrgð ökumanns",
+"subcategory":"Lagalegar skyldur",
+"englishSubcategory":"Legal Obligations",
+"description":"Ökumenn bera ábyrgð á að tryggja að farþegar þeirra séu öruggir í sætum sínum og spenntir. Þetta felur í sér að tryggja að börn séu í viðeigandi barnaöryggisbúnaði og að fullorðnir noti öryggisbelti."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Áfengi, fíkniefni og heilsa",
+"subcategory":"Áfengismörk",
+"englishSubcategory":"Alcohol Limits",
+"description":"Í Viktoríu verða ökunemar og reynslulausnir (P1 og P2) að viðhalda 0,00 áfengismagni í blóði (BAC) allan tímann. Ökumenn með full ökuréttindi mega hafa 0,05 áfengismagn í blóði, en það er öruggara að drekka alls ekki áfengi við akstur."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Áfengi, fíkniefni og heilsa",
+"subcategory":"Áhrif áfengis",
+"englishSubcategory":"Alcohol Effects",
+"description":"Áfengi skerðir dómgreind, viðbragðstíma og samhæfingu, sem getur aukið slysahættuna verulega. Jafnvel lítið magn áfengis getur dregið úr hæfni til að aka örugglega."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Áfengi, fíkniefni og heilsa",
+"subcategory":"Akstur undir áhrifum fíkniefna",
+"englishSubcategory":"Drug Driving",
+"description":"Akstur undir áhrifum fíkniefna, þar á meðal lyfseðilsskyldra lyfja, getur skert aksturshæfni þína, jafnvel þótt þér finnist þú óskertur. Það er mikilvægt að vera meðvitaður um áhættuna og forðast akstur eftir neyslu fíkniefna."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Áfengi, fíkniefni og heilsa",
+"subcategory":"Lyfjaöryggi",
+"englishSubcategory":"Medication Safety",
+"description":"Áður en þú byrjar að taka ný lyfseðilsskyld lyf skaltu athuga hvort þau hafi áhrif á hæfni þína til aksturs og fylgja ráðleggingum læknis. Sum lyf geta valdið syfju eða skert einbeitingu."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Áfengi, fíkniefni og heilsa",
+"subcategory":"Þreyta og heilsa",
+"englishSubcategory":"Fatigue & Health",
+"description":"Þreyta getur skert hæfni þína til að aka örugglega, rétt eins og áfengi eða fíkniefni. Gakktu úr skugga um að þú fáir næga hvíld áður en þú ekur og taktu þér hlé á löngum ferðum til að draga úr hættu á slysum sem tengjast þreytu."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Áfengi, fíkniefni og heilsa",
+"subcategory":"Áhrif áfengis",
+"englishSubcategory":"Alcohol Effects",
+"description":"Eftir drykkju er það aðeins tími sem getur dregið úr magni áfengis í líkamanum. Kaffi, kaldar sturtur eða aðrar aðferðir flýta ekki fyrir þessu ferli."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Áfengi, fíkniefni og heilsa",
+"subcategory":"Áfengismörk",
+"englishSubcategory":"Alcohol Limits",
+"description":"Í Viktoríu verða allir ökunemar og reynsluboltar að viðhalda áfengismagni í blóði upp á 0,00. Fyrir ökumenn með full ökuréttindi er áfengismagnið 0,05. Hins vegar er alltaf öruggast að forðast áfengi áður en ekið er."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Áfengi, fíkniefni og heilsa",
+"subcategory":"Akstur undir áhrifum fíkniefna",
+"englishSubcategory":"Drug Driving",
+"description":"Þú getur verið sektaður í Viktoríu fyrir að aka undir áhrifum ákveðinna fíkniefna, jafnvel þótt þér finnist þú óskertur. Misnotkun fíkniefna hefur áhrif á hæfni þína til að aka örugglega og eykur hættu á slysum."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Áfengi, fíkniefni og heilsa",
+"subcategory":"Lyfjaöryggi",
+"englishSubcategory":"Medication Safety",
+"description":"Áður en ekið er skal alltaf athuga hvort ný lyf geti haft áhrif á hæfni þína til að stjórna ökutæki. Sum lyf valda syfju, skerða viðbragðstíma og minnka einbeitingu."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Áfengi, fíkniefni og heilsa",
+"subcategory":"Þreyta og heilsa",
+"englishSubcategory":"Fatigue & Health",
+"description":"Þreyta getur haft svipuð áhrif á akstur og áfengi. Hún hægir á viðbragðstíma, skerðir dómgreind og dregur úr hæfni til að taka ákvarðanir, sem eykur hættuna á slysum."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Öruggar akstursvenjur",
+"subcategory":"Hættuskynjun",
+"englishSubcategory":"Hazard Perception",
+"description":"Þegar nálgast er hugsanlega hættu er öruggasta viðbrögðin að hægja á sér og búa sig undir að stoppa ef þörf krefur. Þetta gefur þér tíma til að meta aðstæður og bregðast við á viðeigandi hátt."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Öruggar akstursvenjur",
+"subcategory":"Hættuskynjun",
+"englishSubcategory":"Hazard Perception",
+"description":"Að geta fylgst vel með akstrinum er afar mikilvægt til að greina hugsanlegar hættur snemma. Þetta gerir þér kleift að skipuleggja viðbrögð þín og forðast skyndileg viðbrögð."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Öruggar akstursvenjur",
+"subcategory":"Varnarakstur",
+"englishSubcategory":"Defensive Driving",
+"description":"Varnarakstur felur í sér að sjá fyrir hugsanleg mistök annarra vegfarenda og halda öruggri fjarlægð til að forðast árekstra."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Öruggar akstursvenjur",
+"subcategory":"Aðstæður á vegum",
+"englishSubcategory":"Road Conditions",
+"description":"Ef dekkin missa grip á blautum vegi skaltu slaka á bensíngjöfinni og stýra mjúklega. Skyndileg hemlun eða skarpar beygjur geta gert ástandið verra og leitt til þess að þú missir stjórn á bílnum."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Öruggar akstursvenjur",
+"subcategory":"Hættuskynjun",
+"englishSubcategory":"Hazard Perception",
+"description":"Þegar ekið er í umferð er best að vera langt framundan og til hliðanna til að fylgjast með hættum, ekki bara að einbeita sér að bílnum fyrir framan. Þetta hjálpar þér að sjá fyrir hættur fyrr."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Öruggar akstursvenjur",
+"subcategory":"Varnarakstur",
+"englishSubcategory":"Defensive Driving",
+"description":"Ef ökutæki sveiflast í akreininni fyrir framan þig er öruggasta viðbrögðin að auka fjarlægðina á eftir. Þetta gefur þér meiri tíma til að bregðast við ef aðstæður versna."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Öruggar akstursvenjur",
+"subcategory":"Aðstæður á vegum",
+"englishSubcategory":"Road Conditions",
+"description":"Vegurinn er oft hálastur fyrstu mínúturnar eftir rigningu. Verið sérstaklega varkár á þessum tíma, þar sem olía og rusl á veginum geta gert hann hættulegri."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Öruggar akstursvenjur",
+"subcategory":"Næturakstur",
+"englishSubcategory":"Night Driving",
+"description":"Til að stjórna glampa frá aðkomandi aðalljósum á nóttunni skaltu líta örlítið til vinstri brún akreinarinnar og hægja á þér ef þörf krefur. Þetta hjálpar til við að forðast beina útsetningu fyrir björtum ljósum."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Öruggar akstursvenjur",
+"subcategory":"Varnarakstur",
+"englishSubcategory":"Defensive Driving",
+"description":"Ef ökumaður fylgir þér of nálægt er öruggasta aðgerðin að auka fjarlægðina frá ökutækinu fyrir framan. Þetta gefur bæði þér og ökumanninum sem fylgir eftir meira svigrúm til að bregðast við."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Öruggar akstursvenjur",
+"subcategory":"Aðstæður á vegum",
+"englishSubcategory":"Road Conditions",
+"description":"Þegar ekið er í þoku skal hægja á hraða og halda auknu fjarlægð milli ökutækisins og annarra. Þoka dregur verulega úr sýnileika og eykur hættu á slysum."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Gatnamót, beygjur og hringtorg",
+"subcategory":"Vígja leið",
+"englishSubcategory":"Giving Way",
+"description":"Á gatnamótum þar sem engin skilti eða ljósastæði eru skal ökutæki sem kemur frá hægri víkja fyrir ökutæki sem kemur frá vinstri."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Gatnamót, beygjur og hringtorg",
+"subcategory":"Beygjur",
+"englishSubcategory":"Turns",
+"description":"Þegar beygt er til hægri við umferðarljós án hægribeygjuörvar verður að víkja fyrir umferð á móti og gangandi vegfarendum áður en haldið er áfram."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Gatnamót, beygjur og hringtorg",
+"subcategory":"Hringtorg",
+"englishSubcategory":"Roundabouts",
+"description":"Í hringtorgi hafa ökutæki sem eru þegar í hringtorgi forgang. Ökumenn sem aka inn í hringtorgið verða að víkja fyrir þeim."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Gatnamót, beygjur og hringtorg",
+"subcategory":"Beygjur",
+"englishSubcategory":"Turns",
+"description":"Þegar þú beygir til vinstri verður þú að víkja fyrir gangandi vegfarendum sem fara yfir götuna sem þú ert að fara inn á og tryggja öryggi þeirra."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Gatnamót, beygjur og hringtorg",
+"subcategory":"Vígja leið",
+"englishSubcategory":"Giving Way",
+"description":"Á T-gatnamótum verður ökutæki á endavegi að víkja fyrir ökutækjum á áframhaldandi vegi."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Gatnamót, beygjur og hringtorg",
+"subcategory":"Beygjur",
+"englishSubcategory":"Turns",
+"description":"Þegar þú tekur U-beygju verður þú að víkja fyrir öllum öðrum ökutækjum og gangandi vegfarendum og tryggja öryggi þeirra á meðan þú beygir."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Gatnamót, beygjur og hringtorg",
+"subcategory":"Hringtorg",
+"englishSubcategory":"Roundabouts",
+"description":"Þegar þú ferð út úr hringtorginu skaltu gefa vinstri ljós rétt áður en þú ferð út til að láta aðra vegfarendur vita af áformum þínum."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Gatnamót, beygjur og hringtorg",
+"subcategory":"Vígja leið",
+"englishSubcategory":"Giving Way",
+"description":"Þegar ekið er inn á götu af innkeyrslu verður að víkja fyrir öllum ökutækjum og gangandi vegfarendum til að koma í veg fyrir slys."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Gatnamót, beygjur og hringtorg",
+"subcategory":"Beygjur",
+"englishSubcategory":"Turns",
+"description":"Áður en þú beygir til hægri skaltu staðsetja ökutækið eins nálægt miðju vegarins og mögulegt er og tryggja örugga og greiða beygju."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Gatnamót, beygjur og hringtorg",
+"subcategory":"Umferðarljós",
+"englishSubcategory":"Traffic Lights",
+"description":"Græn ör gefur til kynna að þú megir halda áfram í þeirri átt sem örin sýnir án þess að víkja fyrir annarri umferð eða gangandi vegfarendum."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Vegmerkingar, akreinar og framúrakstur",
+"subcategory":"Notkun akreina",
+"englishSubcategory":"Lane Use",
+"description":"Ein samfelld miðlína þýðir almennt að ekki má fara yfir hana nema þegar ekið er inn á eða út af vegi eða innkeyrslu."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Vegmerkingar, akreinar og framúrakstur",
+"subcategory":"Framúrakstur",
+"englishSubcategory":"Overtaking",
+"description":"Leyfilegt er að aka fram úr til vinstri á fjölakreinavegi þegar umferð er á aðskildum merktum akreinum og það er óhætt."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Vegmerkingar, akreinar og framúrakstur",
+"subcategory":"Framúrakstur",
+"englishSubcategory":"Overtaking",
+"description":"Þú mátt aka fram úr ökutæki vinstra megin á einbreiðri vegi þegar ökutækið á undan er að beygja til hægri og það er óhætt."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Vegmerkingar, akreinar og framúrakstur",
+"subcategory":"Notkun akreina",
+"englishSubcategory":"Lane Use",
+"description":"Áður en þú skiptir um akrein skaltu gefa merki og ganga úr skugga um að það sé óhætt. Þetta tryggir að aðrir vegfarendur séu meðvitaðir um áform þín og kemur í veg fyrir slys."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Vegmerkingar, akreinar og framúrakstur",
+"subcategory":"Vegmerkingar",
+"englishSubcategory":"Road Markings",
+"description":"Máluð umferðareyja, eða chevron-merking, gefur til kynna að ekki megi aka á henni og tryggir örugga umferð."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Vegmerkingar, akreinar og framúrakstur",
+"subcategory":"Framúrakstur",
+"englishSubcategory":"Overtaking",
+"description":"Ef þú ert óviss um hvort það sé óhætt að aka fram úr, þá er öruggasta ráðið að sleppa því. Metið alltaf aðstæður áður en þið takið af stað."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Vegmerkingar, akreinar og framúrakstur",
+"subcategory":"Notkun akreina",
+"englishSubcategory":"Lane Use",
+"description":"Brotin miðlína þýðir að þú mátt fara yfir hana ef það er óhætt, sem gerir kleift að aka fram úr eða skipta um akrein."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Vegmerkingar, akreinar og framúrakstur",
+"subcategory":"Notkun akreina",
+"englishSubcategory":"Lane Use",
+"description":"Það er aðeins löglegt að aka á tvær akreinar þegar akreinamerkingar leyfa það. Það er yfirleitt ekki öruggt eða leyfilegt við flestar akstursaðstæður."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Vegmerkingar, akreinar og framúrakstur",
+"subcategory":"Framúrakstur",
+"englishSubcategory":"Overtaking",
+"description":"Ef ökutækið sem þú ert að aka fram úr byrjar að auka hraðann er öruggasta viðbrögðin að hætta við framúraksturinn ef það er öruggt og færa sig aftur á bak."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Vegmerkingar, akreinar og framúrakstur",
+"subcategory":"Vegmerkingar",
+"englishSubcategory":"Road Markings",
+"description":"Tvöföld samfelld miðlína þýðir að þú mátt ekki fara yfir hana eða klofvega undir neinum kringumstæðum, til að tryggja umferðarflæði og öryggi."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Stöðvun, bílastæði og reglur um vegi",
+"subcategory":"Bannað að stoppa og ekki leggja",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Stöðvunarbann þýðir að þú mátt alls ekki stoppa, en bílastæðisbann leyfir stutta stöðvun til að sækja eða skila bíl."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Stöðvun, bílastæði og reglur um vegi",
+"subcategory":"Bannað að stoppa og ekki leggja",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Í svæði þar sem bílastæðabann er leyfilegt að stoppa aðeins nógu lengi til að taka upp eða sleppa farþegum."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Stöðvun, bílastæði og reglur um vegi",
+"subcategory":"Bílastæði nálægt gatnamótum",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Bílastæði nálægt gatnamótum eru oft takmörkuð þar sem þau geta hindrað útsýni og skapað hættu fyrir ökumenn og gangandi vegfarendur."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Stöðvun, bílastæði og reglur um vegi",
+"subcategory":"Bannað að stoppa og ekki leggja",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Þú mátt ekki stoppa á stöðvunarbannsvæði, jafnvel þótt þú sért að svara símtali eða þurfir að stoppa snöggt."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Stöðvun, bílastæði og reglur um vegi",
+"subcategory":"Clearways",
+"englishSubcategory":"Clearways",
+"description":"Hrein akbraut þýðir að þú mátt ekki stoppa eða leggja á þeirri hlið vegarins á meðan hún er opin."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Stöðvun, bílastæði og reglur um vegi",
+"subcategory":"Bílastæði nálægt gatnamótum",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Það er hættulegt að stoppa nálægt gangbraut þar sem það getur falið gangandi vegfarendur fyrir ökumönnum sem nálgast og aukið hættuna á slysum."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Stöðvun, bílastæði og reglur um vegi",
+"subcategory":"Að stoppa til öryggis",
+"englishSubcategory":"Stopping for Safety",
+"description":"Þú mátt aðeins stoppa á stöðvunarbannsvæði ef umferðaraðstæður eða í neyðartilvikum krefjast þess."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Stöðvun, bílastæði og reglur um vegi",
+"subcategory":"Bílastæði á hæðum",
+"englishSubcategory":"Parking on Hills",
+"description":"Þegar lagt er í brekku skal alltaf nota handbremsuna og tryggja öryggi ökutækisins til að draga úr hættu á veltu."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Stöðvun, bílastæði og reglur um vegi",
+"subcategory":"Bílastæði nálægt gatnamótum",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Ekki má leggja of nálægt horni því það getur skyggt á útsýni fyrir umferð og gangandi vegfarendur sem kemur á móti og skapað hættu."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Stöðvun, bílastæði og reglur um vegi",
+"subcategory":"Bannað að stoppa og ekki leggja",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Skilti með bönnuðum bílastæðum sem sýna tíma þýðir að takmörkunin gildir aðeins á þeim tímum sem birtast á skiltinu."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Gangandi vegfarendur, hjólreiðamenn og viðkvæmir vegfarendur",
+"subcategory":"Gangandi vegfarendur",
+"englishSubcategory":"Pedestrians",
+"description":"Þegar ökumenn beygja verða þeir að víkja fyrir gangandi vegfarendum sem fara yfir götuna sem þeir eru að fara inn á. Þetta á við jafnvel þótt gangandi vegfarandinn sé ekki á tilgreindri gangbraut."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Gangandi vegfarendur, hjólreiðamenn og viðkvæmir vegfarendur",
+"subcategory":"Hjólreiðamenn",
+"englishSubcategory":"Cyclists",
+"description":"Ökumenn verða að gefa sér auka pláss þegar þeir fara fram úr hjólreiðamönnum þar sem þeir gætu þurft pláss til að forðast hættur eða viðhalda jafnvægi."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Gangandi vegfarendur, hjólreiðamenn og viðkvæmir vegfarendur",
+"subcategory":"Gangandi vegfarendur",
+"englishSubcategory":"Pedestrians",
+"description":"Nálægt verslunarsvæðum eða stoppistöðvum almenningssamgangna ættu ökumenn að búast við aukinni umferð gangandi vegfarenda og skyndilegum yfirgöngum. Verið alltaf á varðbergi á þessum svæðum."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Gangandi vegfarendur, hjólreiðamenn og viðkvæmir vegfarendur",
+"subcategory":"Hjólreiðamenn",
+"englishSubcategory":"Cyclists",
+"description":"Þegar hjólreiðamaður hjólar á merktri hjólreiðastíg skal ökumaður forðast að aka á þeirri akrein nema það sé heimilt og óhætt."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Gangandi vegfarendur, hjólreiðamenn og viðkvæmir vegfarendur",
+"subcategory":"Börn",
+"englishSubcategory":"Children",
+"description":"Ökumenn verða að gæta sérstakrar varúðar nálægt skólum þar sem börn geta hagað sér ófyrirsjáanlega og metið umferðina rangt. Hægið á ykkur á skólasvæðum."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Gangandi vegfarendur, hjólreiðamenn og viðkvæmir vegfarendur",
+"subcategory":"Hjólreiðamenn",
+"englishSubcategory":"Cyclists",
+"description":"Ef hjólreiðamaður hjólar í miðri þröngri akrein ættu ökumenn að bíða þar til það er óhætt að fara fram úr með nægilegt pláss, frekar en að þvinga fram hjá."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Gangandi vegfarendur, hjólreiðamenn og viðkvæmir vegfarendur",
+"subcategory":"Gangandi vegfarendur",
+"englishSubcategory":"Pedestrians",
+"description":"Á göngustígum fyrir börn verða ökumenn að nema staðar þegar fánar eru dregnir upp og gangandi vegfarendur eru viðstaddir, til að tryggja öryggi barna."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Gangandi vegfarendur, hjólreiðamenn og viðkvæmir vegfarendur",
+"subcategory":"Hjólreiðamenn",
+"englishSubcategory":"Cyclists",
+"description":"Ökumenn ættu alltaf að athuga blindsvæði sín áður en þeir beygja, þar sem hjólreiðamenn gætu verið óséðir samhliða, sérstaklega í þéttbýli."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Gangandi vegfarendur, hjólreiðamenn og viðkvæmir vegfarendur",
+"subcategory":"Aldraðir og fatlaðir",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Aldraðir gangandi vegfarendur gætu þurft lengri tíma til að fara yfir götuna, þar sem þeir gætu gengið hægar eða átt í erfiðleikum með hreyfigetu. Gefðu þeim pláss og tíma til að fara örugglega yfir götuna."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Gangandi vegfarendur, hjólreiðamenn og viðkvæmir vegfarendur",
+"subcategory":"Hjólreiðamenn",
+"englishSubcategory":"Cyclists",
+"description":"Hjólreiðamenn geta verið erfiðari að sjá þegar þeir nálgast gatnamót og þeir geta hreyft sig hratt. Gefið hjólreiðamönnum alltaf pláss og tíma til að rata á öruggan hátt."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Sérstakar aðstæður og vegaumhverfi",
+"subcategory":"Skólasvæði",
+"englishSubcategory":"School Zones",
+"description":"Hraðatakmarkanir á skólasvæðum gilda aðeins á þeim tímum sem sýndir eru á skilti. Gætið þess að fylgja þeim til að tryggja öryggi barna."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Sérstakar aðstæður og vegaumhverfi",
+"subcategory":"Skólasvæði",
+"englishSubcategory":"School Zones",
+"description":"Ökumenn verða að hægja á sér á skólasvæðum jafnvel þótt engin börn séu sjáanleg, þar sem börn geta birst skyndilega og ófyrirsjáanlega."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Sérstakar aðstæður og vegaumhverfi",
+"subcategory":"Vegavinna",
+"englishSubcategory":"Roadworks",
+"description":"Þegar þú nálgast vegavinnu skaltu hægja á þér og fylgja öllum tímabundnum skiltum til að tryggja öryggi starfsmanna og annarra vegfarenda."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Sérstakar aðstæður og vegaumhverfi",
+"subcategory":"Vegavinna",
+"englishSubcategory":"Roadworks",
+"description":"Hraðatakmarkanir eru lækkaðar á vinnusvæðum til að tryggja öryggi starfsmanna og til að bregðast við breytingum á vegaaðstæðum."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Sérstakar aðstæður og vegaumhverfi",
+"subcategory":"Sveitavegir",
+"englishSubcategory":"Rural Roads",
+"description":"Á sveitavegum geta dýralíf óvænt komið út á veginn. Verið alltaf reiðubúin að stoppa eða hægja á ykkur þegar ekið er um dreifbýli."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Sérstakar aðstæður og vegaumhverfi",
+"subcategory":"Sveitavegir",
+"englishSubcategory":"Rural Roads",
+"description":"Ómalbikaðar vegir hafa oft minni veggrip og hemlunargetu. Ökumenn ættu að hægja á hraða þegar þeir aka á ómalbikuðu yfirborði."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Sérstakar aðstæður og vegaumhverfi",
+"subcategory":"Hraðbrautir",
+"englishSubcategory":"Freeways",
+"description":"Ef þú missir af útgönguleiðinni á hraðbrautinni skaltu halda áfram að næstu útgönguleið og snúa við á öruggan hátt. Reyndu ekki að stoppa eða bakka á hraðbrautinni."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Sérstakar aðstæður og vegaumhverfi",
+"subcategory":"Hraðbrautir",
+"englishSubcategory":"Freeways",
+"description":"Það er ólöglegt að stoppa á hraðbraut nema í neyðartilvikum. Notið alltaf akbrautina eða útkeyrslurampana ef bíllinn bilar."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Sérstakar aðstæður og vegaumhverfi",
+"subcategory":"Veðurskilyrði",
+"englishSubcategory":"Weather Conditions",
+"description":"Í mikilli rigningu skal draga úr hraða og auka neðarfjarlægð. Blautir vegir geta dregið úr veggripi og lengt stöðvunarvegalengd."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Sérstakar aðstæður og vegaumhverfi",
+"subcategory":"Veðurskilyrði",
+"englishSubcategory":"Weather Conditions",
+"description":"Þoka dregur úr sýnileika og dýptarskyni, sem gerir akstur sérstaklega hættulegan. Hægðu á þér og aukið fjarlægðina sem fylgir í þoku."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Neyðarbílar og leiðbeiningar lögreglu",
+"subcategory":"Neyðarbílar víkja fyrir",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Þegar neyðarbíll nálgast með ljósum og/eða sírenu skal færa sig úr akrein hans og leyfa honum að komast örugglega fram hjá."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Neyðarbílar og leiðbeiningar lögreglu",
+"subcategory":"Neyðarbílar víkja fyrir",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Ef þú ert við umferðarljós og neyðarbíll nálgast að aftan er öruggasta aðgerðin að færa sig til hliðar ef það er öruggt og löglegt, annars að standa kyrr og láta ökutækið fram úr ef mögulegt er."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Neyðarbílar og leiðbeiningar lögreglu",
+"subcategory":"Leiðbeiningar lögreglu",
+"englishSubcategory":"Police Directions",
+"description":"Ef lögreglumaður gefur þér aðrar leiðbeiningar en gefið er upp á skilti, verður þú að fylgja fyrirmælum lögreglumannsins."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Neyðarbílar og leiðbeiningar lögreglu",
+"subcategory":"Neyðarbílar víkja fyrir",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Ef neyðarbíll er stöðvaður með blikkandi ljós við vegkantinn, hægja skal á sér og fara varlega fram úr, keyra yfir ef það er öruggt."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Neyðarbílar og leiðbeiningar lögreglu",
+"subcategory":"Leiðbeiningar lögreglu",
+"englishSubcategory":"Police Directions",
+"description":"Ef lögreglan setur upp tímabundna vegatálmu skal fylgja fyrirmælum þeirra og öllum hjáleiðum."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Neyðarbílar og leiðbeiningar lögreglu",
+"subcategory":"Neyðarbílar víkja fyrir",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Þú ættir ekki að elta neyðarbíl fast á eftir honum til að komast hraðar í gegnum umferðina."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Neyðarbílar og leiðbeiningar lögreglu",
+"subcategory":"Neyðarbílar víkja fyrir",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Ef þú heyrir sírenu en sérð ekki neyðarbílinn ennþá, vertu á varðbergi, athugaðu spegla og vertu tilbúinn til að aka örugglega."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Neyðarbílar og leiðbeiningar lögreglu",
+"subcategory":"Leiðbeiningar lögreglu",
+"englishSubcategory":"Police Directions",
+"description":"Ef umferðarstjóri við vegavinnu gefur fyrirmæli verður þú að hlýða honum."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Neyðarbílar og leiðbeiningar lögreglu",
+"subcategory":"Leiðbeiningar lögreglu",
+"englishSubcategory":"Police Directions",
+"description":"Ef lögreglan fyrirskipar þér að stoppa til að athuga ökuskírteini skaltu stoppa á öruggan hátt samkvæmt fyrirmælum."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Neyðarbílar og leiðbeiningar lögreglu",
+"subcategory":"Neyðarbílar víkja fyrir",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Ef þú ert á einni akrein og neyðarbíll nálgast að aftan skaltu gefa ljós og færa þig til vinstri eða á öruggan stað ef mögulegt er."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Öryggisbelti, barnaöryggisbúnaður og farþegar",
+"subcategory":"Öryggisbelti",
+"englishSubcategory":"Seatbelts",
+"description":"Ökumaður ber ábyrgð á að allir farþegar yngri en 16 ára noti öryggisbelti."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Öryggisbelti, barnaöryggisbúnaður og farþegar",
+"subcategory":"Öryggisbelti",
+"englishSubcategory":"Seatbelts",
+"description":"Öryggisbelti skal alltaf vera notað þegar ökutækið er á hreyfingu, ef það er til staðar."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Öryggisbelti, barnaöryggisbúnaður og farþegar",
+"subcategory":"Barnaöryggisbúnaður",
+"englishSubcategory":"Child Restraints",
+"description":"Barnaöryggisbelti er nauðsynlegt því það er hannað til að passa við og vernda líkamsstærð og lögun barnsins betur en öryggisbelti fyrir fullorðna."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Öryggisbelti, barnaöryggisbúnaður og farþegar",
+"subcategory":"Farþegar",
+"englishSubcategory":"Passengers",
+"description":"Það er óöruggt fyrir farþega að setja fætur á mælaborðið því loftpúðar og árekstur geta valdið alvarlegum meiðslum."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Öryggisbelti, barnaöryggisbúnaður og farþegar",
+"subcategory":"Barnaöryggisbúnaður",
+"englishSubcategory":"Child Restraints",
+"description":"Öruggasta almenna reglan við val á barnaöryggisstól er að nota einn sem er samþykktur og hentar aldri og stærð barnsins."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Öryggisbelti, barnaöryggisbúnaður og farþegar",
+"subcategory":"Öryggisbelti",
+"englishSubcategory":"Seatbelts",
+"description":"Algengt merki um að öryggisbelti sé ekki rétt spennt er þegar beltisólin er undir handleggnum eða fyrir aftan bakið."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Öryggisbelti, barnaöryggisbúnaður og farþegar",
+"subcategory":"Farþegar",
+"englishSubcategory":"Passengers",
+"description":"Ef farþegi truflar ökumanninn er öruggasta aðgerðin að biðja hann um að stoppa og einbeita sér aftur að akstrinum."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Öryggisbelti, barnaöryggisbúnaður og farþegar",
+"subcategory":"Barnaöryggisbúnaður",
+"englishSubcategory":"Child Restraints",
+"description":"Það er óöruggt að halda barni í kjöltu sér í bíl á ferð því það er ekki hægt að halda því örugglega í slysi."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Öryggisbelti, barnaöryggisbúnaður og farþegar",
+"subcategory":"Öryggisbelti",
+"englishSubcategory":"Seatbelts",
+"description":"Öryggisbelti ætti að vera notað þannig að mjaðmahlutinn sé lágt yfir mjöðmunum til að draga úr hættu á kviðslysum í árekstri."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Öryggisbelti, barnaöryggisbúnaður og farþegar",
+"subcategory":"Farþegar",
+"englishSubcategory":"Passengers",
+"description":"Helsta áhætta við að flytja ótryggða hluti í farþegarýminu er að þeir geta orðið að skotum í árekstri eða skyndilegri stöðvun."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Öryggi, gallar og viðhald ökutækja grunnatriði",
+"subcategory":"Dekk",
+"englishSubcategory":"Tyres",
+"description":"Rétt loftþrýstingur í dekkjum er mikilvægur fyrir öryggið því hann hefur áhrif á veggrip, hemlun og stýringu."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Öryggi, gallar og viðhald ökutækja grunnatriði",
+"subcategory":"Bremsur",
+"englishSubcategory":"Brakes",
+"description":"Ef bremsupedalinn þinn finnst svampkenndur eða sekkur lengra en venjulega skaltu líta á það sem alvarlegt bilun og láta athuga bremsurnar tafarlaust."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Öryggi, gallar og viðhald ökutækja grunnatriði",
+"subcategory":"Ljós og sýnileiki",
+"englishSubcategory":"Lights & Visibility",
+"description":"Athugið reglulega öll ljós ökutækisins til að tryggja að þið sjáið og að aðrir sjái ykkur."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Öryggi, gallar og viðhald ökutækja grunnatriði",
+"subcategory":"Stýri og fjöðrun",
+"englishSubcategory":"Steering & Suspension",
+"description":"Viðvörunarmerki um stýrisvandamál geta verið óvenjuleg togkraftur, titringur eða erfiðleikar við stýri."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Öryggi, gallar og viðhald ökutækja grunnatriði",
+"subcategory":"Rúður og rúðuþurrkur",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Slitnar rúðuþurrkur eru öryggisvandamál því þær draga úr sýnileika í rigningu."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Öryggi, gallar og viðhald ökutækja grunnatriði",
+"subcategory":"Dekk",
+"englishSubcategory":"Tyres",
+"description":"Algengt merki um að dekk séu óörugg er ef slitið eða ójafnt er á þeim."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Öryggi, gallar og viðhald ökutækja grunnatriði",
+"subcategory":"Speglar og stillingar",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Stilla ætti spegla fyrir akstur til að draga úr blindum blettum og auka meðvitund."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Öryggi, gallar og viðhald ökutækja grunnatriði",
+"subcategory":"Bremsur",
+"englishSubcategory":"Brakes",
+"description":"Ef bremsurnar þínar gefa frá sér nötrandi hljóð skaltu láta skoða þær eins fljótt og auðið er."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Öryggi, gallar og viðhald ökutækja grunnatriði",
+"subcategory":"Ljós og sýnileiki",
+"englishSubcategory":"Lights & Visibility",
+"description":"Notið aðalljósin í lélegu skyggni þegar hún er minnkuð svo aðrir geti séð ykkur."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Öryggi, gallar og viðhald ökutækja grunnatriði",
+"subcategory":"Rúður og rúðuþurrkur",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Ef framrúðan er illa sprungin í sjónlínu skaltu gera við hana eða skipta henni út áður en þú ekur lengra."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Hleðsla, dráttur og vitundarvakning um þungaflutninga",
+"subcategory":"Hleðsla",
+"englishSubcategory":"Loads",
+"description":"Festa þarf farm vel til að koma í veg fyrir að hann færist til eða detti og valdi árekstri."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Hleðsla, dráttur og vitundarvakning um þungaflutninga",
+"subcategory":"Hleðsla",
+"englishSubcategory":"Loads",
+"description":"Ótryggður farmur inni í ökutæki getur orðið að skoti við skyndilega hemlun og skapað verulega öryggisáhættu."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Hleðsla, dráttur og vitundarvakning um þungaflutninga",
+"subcategory":"Hleðsla",
+"englishSubcategory":"Loads",
+"description":"Að aka ofhlaðnum ökutæki hefur áhrif á hemlun með því að auka hemlunarvegalengd."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Hleðsla, dráttur og vitundarvakning um þungaflutninga",
+"subcategory":"Hleðsla",
+"englishSubcategory":"Loads",
+"description":"Öruggasta leiðin til að bera langa hluti er að festa þá þannig að þeir geti ekki hreyfst eða staðið hættulega út."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Hleðsla, dráttur og vitundarvakning um þungaflutninga",
+"subcategory":"Dráttur",
+"englishSubcategory":"Towing",
+"description":"Að draga eftirvagn eykur hemlunarvegalengdina þar sem aukaþyngdin dregur úr hemlunarvirkni."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Hleðsla, dráttur og vitundarvakning um þungaflutninga",
+"subcategory":"Dráttur",
+"englishSubcategory":"Towing",
+"description":"Áður en þú dregur eftirvagn skaltu ganga úr skugga um að tengibúnaður, ljós og öryggiskeðja séu örugg."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Hleðsla, dráttur og vitundarvakning um þungaflutninga",
+"subcategory":"Dráttur",
+"englishSubcategory":"Towing",
+"description":"Geymið auka pláss þegar beygt er á meðan dregið er, þar sem eftirvagninn fer innan beygjuslóðarinnar."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Hleðsla, dráttur og vitundarvakning um þungaflutninga",
+"subcategory":"Hleðsla",
+"englishSubcategory":"Loads",
+"description":"Farmur sem skyggir á útsýni aftur fyrir akstur dregur úr meðvitund um umferð á eftir og eykur hættu á slysum."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Hleðsla, dráttur og vitundarvakning um þungaflutninga",
+"subcategory":"Þungaflutningabílar",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Þungabílar þurfa meira pláss til að stoppa því meiri massi þeirra eykur hemlunarvegalengd."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Hleðsla, dráttur og vitundarvakning um þungaflutninga",
+"subcategory":"Þungaflutningabílar",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Þegar þú eltir stóran vörubíl skal auka fjarlægðina til að taka tillit til blindsvæða og lengri stöðvunarfjarlægðar vörubílanna."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Leyfisveitingar, reglur um skráningarmerki og hagnýtar DKT-gildrur (VIC)",
+"subcategory":"Reglur um námsleyfi",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Sem ökunemi í Viktoríuríki er þér aðeins heimilt að aka bíl undir eftirliti ökumanns með viðeigandi leyfi sem situr við hlið þína."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Leyfisveitingar, reglur um skráningarmerki og hagnýtar DKT-gildrur (VIC)",
+"subcategory":"Reglur um námsleyfi",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Ökunemar í námi verða að sýna L-númeraplöturnar sínar greinilega svo að þær séu alltaf sýnilegar öðrum í ökutækinu."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Leyfisveitingar, reglur um skráningarmerki og hagnýtar DKT-gildrur (VIC)",
+"subcategory":"Reglur um námsleyfi",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Ef ökumaður sem þú hefur umsjón með sofnar á meðan þú ekur skaltu stöðva á öruggan hátt og ekki halda áfram fyrr en þú ert undir nægilegu eftirliti."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Leyfisveitingar, reglur um skráningarmerki og hagnýtar DKT-gildrur (VIC)",
+"subcategory":"Farsímar og tæki",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Sem ökunemi í Viktoríu er óheimilt að nota farsíma á nokkurn hátt við akstur."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Leyfisveitingar, reglur um skráningarmerki og hagnýtar DKT-gildrur (VIC)",
+"subcategory":"Reglur um námsleyfi",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Ef L-plöturnar detta af við akstur skaltu stoppa á öruggan hátt og setja þær aftur á áður en þú heldur áfram akstri."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Leyfisveitingar, reglur um skráningarmerki og hagnýtar DKT-gildrur (VIC)",
+"subcategory":"Eftirlit",
+"englishSubcategory":"Supervision",
+"description":"Helsta öryggistilgangur reglna um eftirlit nemenda er að tryggja að reyndur ökumaður geti leiðbeint og gripið inn í ef þörf krefur."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Leyfisveitingar, reglur um skráningarmerki og hagnýtar DKT-gildrur (VIC)",
+"subcategory":"Skilyrði og fylgni",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Ef ökunemi er gripinn við að aka án tilskilins eftirlits, eru sektir og hugsanlegar afleiðingar fyrir ökuréttindi líklegar."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Leyfisveitingar, reglur um skráningarmerki og hagnýtar DKT-gildrur (VIC)",
+"subcategory":"Hættuskynjun",
+"englishSubcategory":"Hazard Perception",
+"description":"Algeng gildra á gatnamótum fyrir ökunema er að beygja án þess að athuga hvort gangandi vegfarendur séu að fara yfir götuna sem ekið er inn á."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Leyfisveitingar, reglur um skráningarmerki og hagnýtar DKT-gildrur (VIC)",
+"subcategory":"Hættuskynjun",
+"englishSubcategory":"Hazard Perception",
+"description":"Jafnvel þótt ljósið sé grænt verður þú að hægja á þér eða stoppa ef umferð er í teppum fyrir framan þig eða gangandi vegfarendur eru að fara yfir."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Leyfisveitingar, reglur um skráningarmerki og hagnýtar DKT-gildrur (VIC)",
+"subcategory":"Reglur um námsleyfi",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Ef þú hefur umsjón með nemanda ætti umsjónarökumaðurinn alltaf að sitja í farþegasætinu að framan."
+}
+]

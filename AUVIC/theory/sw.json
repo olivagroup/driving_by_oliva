@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Sheria na Sheria za Barabarani",
+"subcategory":"Sheria za Barabara Kuu",
+"englishSubcategory":"General Road Rules",
+"description":"Madereva lazima wafuate sheria za barabarani ili kuhakikisha usalama na mtiririko mzuri wa magari. Hii inajumuisha kutii alama za barabarani, ishara, na alama za njia. Kushindwa kufuata sheria hizi kunaweza kusababisha ajali na adhabu."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Sheria na Sheria za Barabarani",
+"subcategory":"Njia ya Kutoa",
+"englishSubcategory":"Giving Way",
+"description":"Madereva wanatakiwa kutoa nafasi kwa magari mengine au watembea kwa miguu katika makutano, njia za mzunguko, na vivuko vya watembea kwa miguu, miongoni mwa maeneo mengine. Kutotoa nafasi ni kosa."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Sheria na Sheria za Barabarani",
+"subcategory":"Matumizi ya Njia",
+"englishSubcategory":"Lane Use",
+"description":"Madereva lazima watumie njia zinazofaa na kufuata alama za njia. Hii inajumuisha sheria za kubadilisha njia, kupita njia, na kutumia njia za baiskeli au basi. Ukiukaji unaweza kusababisha faini au ajali."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Sheria na Sheria za Barabarani",
+"subcategory":"Tramu",
+"englishSubcategory":"Trams",
+"description":"Madereva lazima wafahamu sheria za tramu, ikiwa ni pamoja na kuwapa nafasi watembea kwa miguu kwenye vituo vya tramu, kusimama kwa tramu zenye milango iliyo wazi, na kutozidi tramu katika hali fulani."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Sheria na Sheria za Barabarani",
+"subcategory":"Makutano",
+"englishSubcategory":"Intersections",
+"description":"Katika makutano ya barabara, madereva lazima wafuate taratibu sahihi za kuacha njia na kusimama kwenye alama za kusimama au taa za trafiki. Kuelewa sheria hizi ni muhimu kwa kuzuia ajali."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Sheria na Sheria za Barabarani",
+"subcategory":"Kugeuka U",
+"englishSubcategory":"U-Turns",
+"description":"Kugeuka U kunaruhusiwa tu kwenye makutano ya barabara au wakati hakuna ishara inayowakataza. Madereva lazima wahakikishe kuwa ni salama kabla ya kufanya U-turn."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Sheria na Sheria za Barabarani",
+"subcategory":"Vikomo vya Kasi",
+"englishSubcategory":"Speed Limits",
+"description":"Madereva lazima watii mipaka ya mwendo kasi ili kuhakikisha usalama barabarani. Kuendesha gari kwa mwendo kasi kunaweza kusababisha faini, kupoteza leseni, na hatari kubwa ya ajali."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Sheria na Sheria za Barabarani",
+"subcategory":"Usalama wa Watembea kwa Miguu",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Madereva lazima wawape nafasi watembea kwa miguu kwenye vivuko na kuhakikisha usalama wao wanapokuwa karibu na maeneo ya watembea kwa miguu. Kushindwa kusimama kwa watembea kwa miguu kwenye vivuko ni kosa."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Sheria na Sheria za Barabarani",
+"subcategory":"Vivuko vya Reli",
+"englishSubcategory":"Railway Crossings",
+"description":"Madereva lazima wasimame kwenye vivuko vya reli wakati taa zinawaka au milango ya bomu imezimwa. Kupuuza ishara hizi ni kosa kubwa na kunaweza kusababisha faini na ajali."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Sheria na Sheria za Barabarani",
+"subcategory":"Magari ya Dharura",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Madereva lazima waachie nafasi magari ya dharura kwa kutumia taa zinazomulika na ving'ora, kuhakikisha gari lina njia iliyo wazi ya kupita kwenye msongamano wa magari."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Ishara na Ishara za Trafiki",
+"subcategory":"Ishara za Udhibiti",
+"englishSubcategory":"Regulatory Signs",
+"description":"Ishara za udhibiti hutoa maagizo ya lazima kwa madereva, kama vile mipaka ya mwendo kasi, vikwazo vya kugeuka, na hakuna ishara za kuingia. Kufuata ishara hizi kunahitajika kisheria ili kudumisha usalama na utulivu barabarani."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Ishara na Ishara za Trafiki",
+"subcategory":"Ishara za Onyo",
+"englishSubcategory":"Warning Signs",
+"description":"Ishara za tahadhari huwaonya madereva kuhusu hatari zinazoweza kutokea, kama vile mikunjo mikali, maeneo ya shule, na vivuko vya wanyamapori. Ishara hizi huwasaidia madereva kurekebisha uendeshaji wao ili kuepuka ajali."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Ishara na Ishara za Trafiki",
+"subcategory":"Ishara za Kasi",
+"englishSubcategory":"Speed Signs",
+"description":"Ishara za mwendo kasi zinaonyesha kasi ya juu au ya chini kabisa inayoruhusiwa barabarani. Madereva lazima wazingatie mipaka hii ili kuhakikisha hali salama ya kuendesha gari na kuepuka faini."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Ishara na Ishara za Trafiki",
+"subcategory":"Taa za Trafiki",
+"englishSubcategory":"Traffic Lights",
+"description":"Taa za barabarani hudhibiti mtiririko wa magari na watembea kwa miguu katika makutano ya barabara. Nyekundu inamaanisha simama, kijani inamaanisha nenda, na njano ni tahadhari ya kujiandaa kusimama."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Ishara na Ishara za Trafiki",
+"subcategory":"Ishara za Watembea kwa Miguu",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Ishara za watembea kwa miguu zinaonyesha wakati ni salama kwa watembea kwa miguu kuvuka barabara. Ishara hizi kwa kawaida hushirikiana na taa za trafiki ili kuhakikisha usalama wa watembea kwa miguu."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Ishara na Ishara za Trafiki",
+"subcategory":"Ishara za Kudhibiti Njia",
+"englishSubcategory":"Lane Control Signals",
+"description":"Ishara za udhibiti wa njia hutumika kuonyesha kama njia imefunguliwa au imefungwa. Ishara hizi kwa kawaida hutumika kwenye barabara zenye njia nyingi na kwenye handaki."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Ishara na Ishara za Trafiki",
+"subcategory":"Hakuna Maegesho ya Magari",
+"englishSubcategory":"No Parking Signs",
+"description":"Hakuna alama za kuegesha magari zinazoonyesha maeneo ambayo kusimama au kuegesha magari ni marufuku. Hii kwa kawaida ni kuhakikisha kwamba trafiki inapita vizuri na usalama unadumishwa."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Ishara na Ishara za Trafiki",
+"subcategory":"Ishara za Njia Moja",
+"englishSubcategory":"One-Way Signs",
+"description":"Ishara za njia moja zinaonyesha kwamba trafiki lazima isafiri upande mmoja tu. Kupuuza ishara hizi kunaweza kusababisha ajali na matokeo ya kisheria."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Ishara na Ishara za Trafiki",
+"subcategory":"Ishara za Kusimama",
+"englishSubcategory":"Stop Signs",
+"description":"Ishara za kusimama zinawataka madereva kusimama kabisa na kuacha magari mengine au watembea kwa miguu kabla ya kuendelea."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Ishara na Ishara za Trafiki",
+"subcategory":"Toa Ishara",
+"englishSubcategory":"Give Way Signs",
+"description":"Toa ishara za njia uwaambie madereva wakubali watumiaji wengine wa barabara, iwe watembea kwa miguu au magari, kulingana na hali, ili kuzuia ajali."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Sheria za Kasi na Umbali",
+"subcategory":"Vikomo vya Kasi",
+"englishSubcategory":"Speed Limits",
+"description":"Kikomo cha kasi chaguo-msingi katika eneo lililojengwa huko Victoria ni kilomita 50 kwa saa isipokuwa kama imetiwa saini vinginevyo. Daima angalia mabango yaliyobandikwa ili kuhakikisha unaendesha gari ndani ya mipaka ya kasi halali."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Sheria za Kasi na Umbali",
+"subcategory":"Vikomo vya Kasi",
+"englishSubcategory":"Speed Limits",
+"description":"Katika eneo la shule lililosainiwa wakati wa saa zilizoainishwa kwenye bango, kikomo cha mwendo hupunguzwa hadi kilomita 40 kwa saa ili kuhakikisha usalama wa watoto wanaovuka barabara."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Sheria za Kasi na Umbali",
+"subcategory":"Umbali wa Kufuata",
+"englishSubcategory":"Following Distance",
+"description":"Umbali wa chini kabisa wa kufuata kwa usalama chini ya hali bora ni angalau sekunde mbili nyuma ya gari lililo mbele. Hii inaruhusu muda wa kutosha kujibu ikiwa gari lililo mbele litasimama ghafla."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Sheria za Kasi na Umbali",
+"subcategory":"Vikomo vya Kasi",
+"englishSubcategory":"Speed Limits",
+"description":"Unapopita tramu iliyosimama katika eneo la usalama, lazima upunguze kasi yako hadi kilomita 10 kwa saa ili kuhakikisha usalama wa abiria wanaopanda au kushuka kutoka kwenye tramu."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Sheria za Kasi na Umbali",
+"subcategory":"Vikomo vya Kasi",
+"englishSubcategory":"Speed Limits",
+"description":"Katika barabara za vijijini bila alama za mwendo kasi, kikomo cha kasi chaguo-msingi ni kilomita 100 kwa saa isipokuwa kama imeainishwa vinginevyo na alama za eneo husika. Rekebisha kasi yako kulingana na hali ya barabara ili kudumisha usalama."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Sheria za Kasi na Umbali",
+"subcategory":"Umbali wa Kufuata",
+"englishSubcategory":"Following Distance",
+"description":"Katika hali ya hewa ya mvua, unapaswa kuongeza umbali wako unaofuata hadi angalau sekunde nne. Barabara zenye mvua hupunguza mvutano, na kuhitaji muda zaidi kusimama salama."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Sheria za Kasi na Umbali",
+"subcategory":"Vikomo vya Kasi",
+"englishSubcategory":"Speed Limits",
+"description":"Tii alama za kielektroniki za kikomo cha kasi kinachobadilika wakati wote zinapofanya kazi. Ishara hizi hurekebisha mipaka ya kasi kulingana na hali ya trafiki, hali ya hewa, au matukio barabarani."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Sheria za Kasi na Umbali",
+"subcategory":"Umbali wa Kusimama",
+"englishSubcategory":"Stopping Distance",
+"description":"Kadri mwendo wako unavyoongezeka, umbali unaohitajika kusimama ili kusimamisha gari lako kwa usalama pia huongezeka. Daima hakikisha una umbali wa kutosha kukabiliana na hatari."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Sheria za Kasi na Umbali",
+"subcategory":"Vikomo vya Kasi",
+"englishSubcategory":"Speed Limits",
+"description":"Katika maeneo yanayoshirikiwa, kikomo cha kasi kwa ujumla ni kilomita 10 kwa saa ili kuhakikisha usalama wa watembea kwa miguu na waendesha baiskeli katika maeneo haya ambapo magari na watumiaji wa barabara zisizotumia injini huingiliana."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Sheria za Kasi na Umbali",
+"subcategory":"Umbali wa Kufuata",
+"englishSubcategory":"Following Distance",
+"description":"Kuweka mkia nyuma ya gari ni hatari kwa sababu hupunguza muda wa kusimama na kuchukua breki. Daima fuata umbali salama, hasa unapoendesha gari nyuma ya magari makubwa ambayo yanaweza kuzuia mtazamo wako."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Majukumu ya Dereva",
+"subcategory":"Majukumu ya Kisheria",
+"englishSubcategory":"Legal Obligations",
+"description":"Madereva lazima watimize majukumu mbalimbali ya kisheria, kama vile kutoa msaada baada ya ajali, kubadilishana maelezo baada ya ajali, na kuripoti matukio kwa mamlaka kama inavyohitajika na sheria."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Majukumu ya Dereva",
+"subcategory":"Umakinifu na Udhibiti",
+"englishSubcategory":"Attention & Control",
+"description":"Madereva lazima waendelee kudhibiti magari yao wakati wote, wakiepuka vikengeushio na kudumisha umakini ili kuhakikisha usalama wao na wa watumiaji wengine wa barabara."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Majukumu ya Dereva",
+"subcategory":"Majukumu ya Kisheria",
+"englishSubcategory":"Legal Obligations",
+"description":"Katika tukio la ajali inayosababisha majeraha, madereva lazima wasimame na kutoa msaada inapowezekana. Kushindwa kusimama na kusaidia katika hali kama hizo ni ukiukaji wa kisheria."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Majukumu ya Dereva",
+"subcategory":"Umakinifu na Udhibiti",
+"englishSubcategory":"Attention & Control",
+"description":"Ni muhimu kwa madereva kuendelea kudhibiti magari yao kikamilifu wakati wote, kuhakikisha kwamba wanaitikia ipasavyo mabadiliko ya hali ya trafiki na kudumisha mazingira salama ya kuendesha gari."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Majukumu ya Dereva",
+"subcategory":"Majukumu ya Kisheria",
+"englishSubcategory":"Legal Obligations",
+"description":"Madereva lazima waripoti ajali kwa polisi ikiwa mtu yeyote amejeruhiwa au mali imeharibika na maelezo hayawezi kubadilishwa. Kushindwa kuripoti matukio haya kunaweza kusababisha adhabu."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Majukumu ya Dereva",
+"subcategory":"Usimamizi wa Uchovu",
+"englishSubcategory":"Fatigue Management",
+"description":"Uchovu ni hatari kubwa wakati wa kuendesha gari. Madereva wanapaswa kufahamu dalili za awali za uchovu, kama vile kupiga miayo na kupoteza umakini, na kuchukua hatua zinazofaa kuzuia ajali."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Majukumu ya Dereva",
+"subcategory":"Majukumu ya Kisheria",
+"englishSubcategory":"Legal Obligations",
+"description":"Madereva lazima watoe leseni yao wanapoombwa na polisi. Kukataa kutoa leseni kunaweza kusababisha adhabu au matokeo zaidi ya kisheria."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Majukumu ya Dereva",
+"subcategory":"Umakinifu na Udhibiti",
+"englishSubcategory":"Attention & Control",
+"description":"Madereva wanapaswa kuepuka kutumia honi bila sababu, kwani inaweza kuwashtua au kuwavuruga watumiaji wengine wa barabara. Honi inapaswa kutumika tu kuwatahadharisha wengine kuhusu uwepo wako katika hali ambapo ni lazima."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Majukumu ya Dereva",
+"subcategory":"Usimamizi wa Uchovu",
+"englishSubcategory":"Fatigue Management",
+"description":"Ukihisi uchovu sana kuendelea kuendesha gari, jibu salama zaidi ni kusimama na kupumzika kabla ya kuendelea. Kuendesha gari ukiwa umechoka huongeza hatari ya ajali kwa kiasi kikubwa."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Majukumu ya Dereva",
+"subcategory":"Majukumu ya Kisheria",
+"englishSubcategory":"Legal Obligations",
+"description":"Madereva wana jukumu la kuhakikisha kwamba abiria wao wamekaa na kuzuiliwa salama. Hii inajumuisha kuhakikisha watoto wako kwenye vizuizi vya watoto vinavyofaa na watu wazima huvaa mikanda ya usalama."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Pombe, Dawa za Kulevya na Afya",
+"subcategory":"Vikwazo vya Pombe",
+"englishSubcategory":"Alcohol Limits",
+"description":"Huko Victoria, madereva wanaojifunza na madereva walio katika majaribio (P1 na P2) lazima wadumishe kiwango cha pombe kwenye damu (BAC) cha 0.00 wakati wote. Madereva walio na leseni kamili wana kikomo cha BAC cha 0.05, lakini ni salama zaidi kutokunywa pombe kabisa wakati wa kuendesha gari."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Pombe, Dawa za Kulevya na Afya",
+"subcategory":"Athari za Pombe",
+"englishSubcategory":"Alcohol Effects",
+"description":"Pombe hudhoofisha uamuzi, muda wa athari, na uratibu, jambo ambalo linaweza kuongeza kwa kiasi kikubwa hatari ya ajali. Hata kiasi kidogo cha pombe kinaweza kupunguza uwezo wako wa kuendesha gari kwa usalama."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Pombe, Dawa za Kulevya na Afya",
+"subcategory":"Kuendesha Gari la Dawa za Kulevya",
+"englishSubcategory":"Drug Driving",
+"description":"Kuendesha gari ukiwa umetumia dawa za kulevya, ikiwa ni pamoja na dawa za agizo la daktari, kunaweza kuathiri uwezo wako wa kuendesha gari, hata kama unajisikia vizuri. Ni muhimu kufahamu hatari na kuepuka kuendesha gari baada ya kutumia dawa za kulevya."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Pombe, Dawa za Kulevya na Afya",
+"subcategory":"Usalama wa Dawa",
+"englishSubcategory":"Medication Safety",
+"description":"Kabla ya kuanza dawa mpya ya agizo la daktari, angalia kama inaathiri uwezo wako wa kuendesha gari na fuata ushauri wa daktari. Baadhi ya dawa zinaweza kusababisha usingizi au kupunguza umakini."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Pombe, Dawa za Kulevya na Afya",
+"subcategory":"Uchovu na Afya",
+"englishSubcategory":"Fatigue & Health",
+"description":"Uchovu unaweza kuathiri uwezo wako wa kuendesha gari kwa usalama, kama vile pombe au dawa za kulevya. Hakikisha unapumzika vya kutosha kabla ya kuendesha gari, na pumzika wakati wa safari ndefu ili kupunguza hatari ya ajali zinazohusiana na uchovu."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Pombe, Dawa za Kulevya na Afya",
+"subcategory":"Athari za Pombe",
+"englishSubcategory":"Alcohol Effects",
+"description":"Baada ya kunywa, ni muda tu unaoweza kupunguza kiasi cha pombe mwilini mwako. Kahawa, kuoga kwa maji baridi, au njia zingine haziharakishi mchakato huu."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Pombe, Dawa za Kulevya na Afya",
+"subcategory":"Vikwazo vya Pombe",
+"englishSubcategory":"Alcohol Limits",
+"description":"Huko Victoria, wanafunzi wote na madereva wa majaribio lazima wawe na BAC ya 0.00. Kwa madereva wenye leseni kamili, kikomo cha BAC ni 0.05. Hata hivyo, kuepuka pombe kabla ya kuendesha gari daima ndio chaguo salama zaidi."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Pombe, Dawa za Kulevya na Afya",
+"subcategory":"Kuendesha Gari la Dawa za Kulevya",
+"englishSubcategory":"Drug Driving",
+"description":"Unaweza kuadhibiwa huko Victoria kwa kuendesha gari ukiwa na dawa fulani kwenye mfumo wako, hata kama unajisikia vizuri. Upungufu wa dawa huathiri uwezo wako wa kuendesha gari kwa usalama na huongeza hatari ya ajali."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Pombe, Dawa za Kulevya na Afya",
+"subcategory":"Usalama wa Dawa",
+"englishSubcategory":"Medication Safety",
+"description":"Kabla ya kuendesha gari, angalia kila mara ikiwa dawa mpya zinaweza kuathiri uwezo wako wa kuendesha gari. Baadhi ya dawa husababisha usingizi, hupunguza muda wa athari, na kupunguza umakini."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Pombe, Dawa za Kulevya na Afya",
+"subcategory":"Uchovu na Afya",
+"englishSubcategory":"Fatigue & Health",
+"description":"Uchovu unaweza kuwa na athari sawa na ule wa pombe. Hupunguza muda wa majibu yako, hupunguza uamuzi wako, na hupunguza uwezo wako wa kufanya maamuzi, na kuongeza hatari ya ajali."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Mazoea ya Kuendesha Gari Salama",
+"subcategory":"Mtazamo wa Hatari",
+"englishSubcategory":"Hazard Perception",
+"description":"Unapokaribia hatari inayoweza kutokea, jibu salama zaidi ni kupunguza mwendo na kujiandaa kuacha inapohitajika. Hii inakupa muda wa kutathmini hali hiyo na kuchukua hatua ipasavyo."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Mazoea ya Kuendesha Gari Salama",
+"subcategory":"Mtazamo wa Hatari",
+"englishSubcategory":"Hazard Perception",
+"description":"Kuchanganua mbele yako wakati wa kuendesha gari ni muhimu kwa kugundua hatari zinazoweza kutokea mapema. Hii hukuruhusu kupanga majibu yako na kuepuka athari za ghafla."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Mazoea ya Kuendesha Gari Salama",
+"subcategory":"Kuendesha Gari kwa Ulinzi",
+"englishSubcategory":"Defensive Driving",
+"description":"Kuendesha gari kwa kujihami kunahusisha kutarajia makosa yanayoweza kutokea kutoka kwa watumiaji wengine wa barabara na kudumisha umbali salama ili kuepuka migongano."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Mazoea ya Kuendesha Gari Salama",
+"subcategory":"Hali ya Barabara",
+"englishSubcategory":"Road Conditions",
+"description":"Ikiwa matairi yako yatapoteza mshiko barabarani yenye unyevunyevu, punguza kasi ya gari na uelekeze vizuri. Kusimama ghafla au kugeuka ghafla kunaweza kuzidisha hali hiyo na kusababisha kupoteza udhibiti."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Mazoea ya Kuendesha Gari Salama",
+"subcategory":"Mtazamo wa Hatari",
+"englishSubcategory":"Hazard Perception",
+"description":"Unapoendesha gari kwenye msongamano wa magari, nafasi nzuri ya kuangalia hatari ni mbele na pembeni, si kuzingatia tu gari lililo mbele yako. Hii inakusaidia kutabiri hatari mapema."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Mazoea ya Kuendesha Gari Salama",
+"subcategory":"Kuendesha Gari kwa Ulinzi",
+"englishSubcategory":"Defensive Driving",
+"description":"Ikiwa gari linaelekea kwenye njia yake mbele, jibu salama zaidi ni kuongeza umbali unaofuata. Hii inakupa muda zaidi wa kuchukua hatua ikiwa hali itazidi kuwa mbaya."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Mazoea ya Kuendesha Gari Salama",
+"subcategory":"Hali ya Barabara",
+"englishSubcategory":"Road Conditions",
+"description":"Barabara mara nyingi huwa na utelezi zaidi katika dakika chache za kwanza baada ya mvua. Kuwa mwangalifu zaidi wakati huu, kwani mafuta na uchafu barabarani vinaweza kuifanya iwe hatari zaidi."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Mazoea ya Kuendesha Gari Salama",
+"subcategory":"Kuendesha Gari Usiku",
+"englishSubcategory":"Night Driving",
+"description":"Ili kudhibiti mwangaza kutoka kwa taa za mbele zinazokuja usiku, angalia kidogo upande wa kushoto wa njia yako na upunguze mwendo inapohitajika. Hii husaidia kuepuka kukabiliwa moja kwa moja na taa angavu."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Mazoea ya Kuendesha Gari Salama",
+"subcategory":"Kuendesha Gari kwa Ulinzi",
+"englishSubcategory":"Defensive Driving",
+"description":"Ikiwa dereva anakufuata kwa karibu sana, hatua salama zaidi ni kuongeza umbali wako wa kufuata kutoka kwa gari lililo mbele. Hii inakupa wewe na dereva anayefuata nyuma nafasi zaidi ya kujibu."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Mazoea ya Kuendesha Gari Salama",
+"subcategory":"Hali ya Barabara",
+"englishSubcategory":"Road Conditions",
+"description":"Unapoendesha gari kwenye ukungu, punguza mwendo na weka umbali wa ziada kati ya gari lako na gari lingine. Ukungu hupunguza sana mwonekano na huongeza hatari ya ajali."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Makutano, Mageuko na Mizunguko",
+"subcategory":"Njia ya Kutoa",
+"englishSubcategory":"Giving Way",
+"description":"Katika makutano yasiyo na ishara au ishara, gari linalokaribia kutoka kulia lazima litoe njia kwa gari linalokuja kutoka kushoto."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Makutano, Mageuko na Mizunguko",
+"subcategory":"Zamu",
+"englishSubcategory":"Turns",
+"description":"Unapogeuka kulia kwenye taa za trafiki bila mshale wa kugeuka kulia, lazima uache njia kwa trafiki inayokuja na watembea kwa miguu kabla ya kuendelea."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Makutano, Mageuko na Mizunguko",
+"subcategory":"Mizunguko",
+"englishSubcategory":"Roundabouts",
+"description":"Katika mzunguko wa magari, magari ambayo tayari yako kwenye mzunguko wa magari yana kipaumbele. Madereva wanaoingia kwenye mzunguko wa magari lazima wawaachie njia."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Makutano, Mageuko na Mizunguko",
+"subcategory":"Zamu",
+"englishSubcategory":"Turns",
+"description":"Unapogeuka kushoto, lazima uwape njia watembea kwa miguu wanaovuka barabara unayoingia, ili kuhakikisha usalama wao."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Makutano, Mageuko na Mizunguko",
+"subcategory":"Njia ya Kutoa",
+"englishSubcategory":"Giving Way",
+"description":"Katika makutano ya T, gari lililo kwenye barabara inayoisha lazima litoe njia kwa magari yaliyo kwenye barabara inayoendelea."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Makutano, Mageuko na Mizunguko",
+"subcategory":"Zamu",
+"englishSubcategory":"Turns",
+"description":"Unapogeuza U, lazima uachie nafasi magari mengine yote na watembea kwa miguu, ukihakikisha usalama wao unapogeuza."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Makutano, Mageuko na Mizunguko",
+"subcategory":"Mizunguko",
+"englishSubcategory":"Roundabouts",
+"description":"Unapotoka kwenye mzunguko, toa ishara ya kushoto kabla tu ya kutoka ili kuwajulisha watumiaji wengine wa barabara kuhusu nia yako."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Makutano, Mageuko na Mizunguko",
+"subcategory":"Njia ya Kutoa",
+"englishSubcategory":"Giving Way",
+"description":"Unapoingia barabarani kutoka kwenye njia ya kuingilia, lazima uache magari yote na watembea kwa miguu barabarani ili kuzuia ajali."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Makutano, Mageuko na Mizunguko",
+"subcategory":"Zamu",
+"englishSubcategory":"Turns",
+"description":"Kabla ya kugeuka kulia, weka gari lako karibu iwezekanavyo katikati ya barabara, ukihakikisha kugeuka salama na wazi."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Makutano, Mageuko na Mizunguko",
+"subcategory":"Taa za Trafiki",
+"englishSubcategory":"Traffic Lights",
+"description":"Mshale wa kijani unaonyesha kwamba unaweza kuendelea kuelekea upande wa mshale bila kutoa njia kwa trafiki nyingine au watembea kwa miguu."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Alama za Barabara, Njia na Kupita Njia",
+"subcategory":"Matumizi ya Njia",
+"englishSubcategory":"Lane Use",
+"description":"Mstari mmoja wa katikati unaoendelea kwa ujumla unamaanisha kwamba hupaswi kuuvuka, isipokuwa unapoingia au kutoka barabarani au njia ya kuingilia."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Alama za Barabara, Njia na Kupita Njia",
+"subcategory":"Kupita",
+"englishSubcategory":"Overtaking",
+"description":"Kupita upande wa kushoto kunaruhusiwa kwenye barabara yenye njia nyingi wakati trafiki iko katika njia tofauti zilizo na alama na ni salama kufanya hivyo."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Alama za Barabara, Njia na Kupita Njia",
+"subcategory":"Kupita",
+"englishSubcategory":"Overtaking",
+"description":"Unaweza kuipita gari upande wa kushoto kwenye barabara yenye njia moja wakati gari lililo mbele linageuka kulia na ni salama kufanya hivyo."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Alama za Barabara, Njia na Kupita Njia",
+"subcategory":"Matumizi ya Njia",
+"englishSubcategory":"Lane Use",
+"description":"Kabla ya kubadilisha njia, toa ishara na uhakikishe kuwa ni salama kufanya hivyo. Hii inahakikisha watumiaji wengine wa barabara wanajua nia yako na kuzuia ajali."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Alama za Barabara, Njia na Kupita Njia",
+"subcategory":"Alama za Barabarani",
+"englishSubcategory":"Road Markings",
+"description":"Kisiwa cha trafiki kilichopakwa rangi, au alama ya chevron, inaonyesha kwamba hupaswi kuendesha gari juu yake, kuhakikisha trafiki inasonga salama."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Alama za Barabara, Njia na Kupita Njia",
+"subcategory":"Kupita",
+"englishSubcategory":"Overtaking",
+"description":"Ikiwa huna uhakika kama ni salama kuipita, hatua salama zaidi ni kutoipita. Daima tathmini hali kabla ya kuchukua hatua."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Alama za Barabara, Njia na Kupita Njia",
+"subcategory":"Matumizi ya Njia",
+"englishSubcategory":"Lane Use",
+"description":"Mstari wa katikati uliovunjika unamaanisha kwamba unaweza kuuvuka ikiwa ni salama kufanya hivyo, kuruhusu kupita au kubadilisha njia."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Alama za Barabara, Njia na Kupita Njia",
+"subcategory":"Matumizi ya Njia",
+"englishSubcategory":"Lane Use",
+"description":"Kupanda njia mbili ni halali tu wakati alama za njia zinaruhusu. Kwa kawaida si salama au hairuhusiwi chini ya hali nyingi za kuendesha gari."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Alama za Barabara, Njia na Kupita Njia",
+"subcategory":"Kupita",
+"englishSubcategory":"Overtaking",
+"description":"Ikiwa gari unalolipita linaanza kuongeza kasi, jibu salama zaidi ni kuacha kupindua ikiwa salama na kurudi nyuma."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Alama za Barabara, Njia na Kupita Njia",
+"subcategory":"Alama za Barabarani",
+"englishSubcategory":"Road Markings",
+"description":"Mstari wa katikati unaoendelea mara mbili unamaanisha kwamba hupaswi kuuvuka au kuukanyaga chini ya hali yoyote, na kuhakikisha mtiririko wa magari na usalama."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Sheria za Kusimama, Kuegesha Magari na Barabarani",
+"subcategory":"Hakuna Kusimama na Hakuna Maegesho",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Kutosimama kunamaanisha kuwa hupaswi kusimama kabisa, ilhali Kutosimama kwa Maegesho huruhusu kusimama kwa muda mfupi kwa ajili ya kuchukuliwa au kushushwa."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Sheria za Kusimama, Kuegesha Magari na Barabarani",
+"subcategory":"Hakuna Kusimama na Hakuna Maegesho",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Katika eneo lisiloruhusiwa kuegesha magari, unaruhusiwa kusimama kwa muda wa kutosha tu kubeba au kushusha abiria."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Sheria za Kusimama, Kuegesha Magari na Barabarani",
+"subcategory":"Maegesho Karibu na Makutano",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Maegesho karibu na makutano mara nyingi huwa na vikwazo kwa sababu yanaweza kuzuia mwonekano na kusababisha hatari kwa madereva na watembea kwa miguu."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Sheria za Kusimama, Kuegesha Magari na Barabarani",
+"subcategory":"Hakuna Kusimama na Hakuna Maegesho",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Huruhusiwi kusimama katika eneo lisiloruhusiwa kusimama, hata kama unajibu simu au unahitaji kusimama haraka."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Sheria za Kusimama, Kuegesha Magari na Barabarani",
+"subcategory":"Barabara za wazi",
+"englishSubcategory":"Clearways",
+"description":"Barabara kuu ina maana kwamba hupaswi kusimama au kuegesha gari upande huo wa barabara wakati wa uendeshaji wake."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Sheria za Kusimama, Kuegesha Magari na Barabarani",
+"subcategory":"Maegesho Karibu na Vivuko",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Kusimama karibu na kivuko cha watembea kwa miguu ni hatari kwani kunaweza kuwaficha watembea kwa miguu wasikaribie madereva, na kuongeza hatari ya ajali."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Sheria za Kusimama, Kuegesha Magari na Barabarani",
+"subcategory":"Kusimama kwa Usalama",
+"englishSubcategory":"Stopping for Safety",
+"description":"Unaweza kusimama tu katika eneo lisiloruhusiwa kusimama ikiwa inahitajika na hali ya trafiki au katika hali ya dharura."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Sheria za Kusimama, Kuegesha Magari na Barabarani",
+"subcategory":"Maegesho kwenye Milima",
+"englishSubcategory":"Parking on Hills",
+"description":"Unapoegesha gari kwenye kilima, tumia breki ya mkono kila wakati na ufunge gari ili kupunguza hatari ya kugeukia."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Sheria za Kusimama, Kuegesha Magari na Barabarani",
+"subcategory":"Maegesho Karibu na Makutano",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Haupaswi kuegesha gari karibu sana na kona kwa sababu inaweza kuzuia mtazamo wa magari yanayokuja na watembea kwa miguu, na kusababisha hatari."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Sheria za Kusimama, Kuegesha Magari na Barabarani",
+"subcategory":"Hakuna Kusimama na Hakuna Maegesho",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Ishara ya Hakuna Maegesho yenye nyakati zilizoonyeshwa inamaanisha kuwa kizuizi hicho kinatumika tu wakati wa nyakati zilizoonyeshwa kwenye ishara."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Watembea kwa Miguu, Wapanda Baiskeli na Watumiaji wa Barabara Walio Katika Mazingira Hatarishi",
+"subcategory":"Watembea kwa miguu",
+"englishSubcategory":"Pedestrians",
+"description":"Wakati wa kugeuka, madereva lazima wawaachie njia watembea kwa miguu wanaovuka barabara inayoingia. Hii inatumika hata kama mtembea kwa miguu hayupo kwenye kivuko kilichoteuliwa."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Watembea kwa Miguu, Wapanda Baiskeli na Watumiaji wa Barabara Walio Katika Mazingira Hatarishi",
+"subcategory":"Wapanda baiskeli",
+"englishSubcategory":"Cyclists",
+"description":"Madereva lazima watoe nafasi ya ziada wanapopita waendesha baiskeli kwani wanaweza kuhitaji nafasi ili kuepuka hatari au kudumisha usawa."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Watembea kwa Miguu, Wapanda Baiskeli na Watumiaji wa Barabara Walio Katika Mazingira Hatarishi",
+"subcategory":"Watembea kwa miguu",
+"englishSubcategory":"Pedestrians",
+"description":"Karibu na maeneo ya ununuzi au vituo vya usafiri wa umma, madereva wanapaswa kutarajia kuongezeka kwa shughuli za watembea kwa miguu na vivuko vya ghafla. Daima kaa macho katika maeneo haya."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Watembea kwa Miguu, Wapanda Baiskeli na Watumiaji wa Barabara Walio Katika Mazingira Hatarishi",
+"subcategory":"Wapanda baiskeli",
+"englishSubcategory":"Cyclists",
+"description":"Mendesha baiskeli anapoendesha baiskeli katika njia ya baiskeli iliyo na alama, madereva lazima waepuke kuendesha gari katika njia hiyo isipokuwa kama inaruhusiwa na ni salama kufanya hivyo."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Watembea kwa Miguu, Wapanda Baiskeli na Watumiaji wa Barabara Walio Katika Mazingira Hatarishi",
+"subcategory":"Watoto",
+"englishSubcategory":"Children",
+"description":"Madereva lazima wawe waangalifu zaidi karibu na shule kwani watoto wanaweza kutenda bila kutabirika na kuhukumu vibaya trafiki. Punguza mwendo katika maeneo ya shule."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Watembea kwa Miguu, Wapanda Baiskeli na Watumiaji wa Barabara Walio Katika Mazingira Hatarishi",
+"subcategory":"Wapanda baiskeli",
+"englishSubcategory":"Cyclists",
+"description":"Ikiwa mwendesha baiskeli anaendesha katikati ya njia nyembamba, madereva wanapaswa kusubiri hadi iwe salama kupita na nafasi ya kutosha, badala ya kulazimisha kupita."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Watembea kwa Miguu, Wapanda Baiskeli na Watumiaji wa Barabara Walio Katika Mazingira Hatarishi",
+"subcategory":"Watembea kwa miguu",
+"englishSubcategory":"Pedestrians",
+"description":"Katika kivuko cha watoto, madereva lazima wasimame wakati bendera zinawekwa na watembea kwa miguu wapo, ili kuhakikisha usalama wa watoto."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Watembea kwa Miguu, Wapanda Baiskeli na Watumiaji wa Barabara Walio Katika Mazingira Hatarishi",
+"subcategory":"Wapanda baiskeli",
+"englishSubcategory":"Cyclists",
+"description":"Madereva wanapaswa kuangalia maeneo yao yasiyoonekana kabla ya kugeuka, kwani waendesha baiskeli wanaweza kuwa wanasafiri kando ya barabara bila kuonekana, hasa katika maeneo ya mijini."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Watembea kwa Miguu, Wapanda Baiskeli na Watumiaji wa Barabara Walio Katika Mazingira Hatarishi",
+"subcategory":"Wazee na Walemavu",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Watembea kwa miguu wazee wanaweza kuhitaji muda wa ziada kuvuka, kwani wanaweza kutembea polepole zaidi au kuwa na matatizo ya uhamaji. Wape nafasi na muda wa kuvuka salama."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Watembea kwa Miguu, Wapanda Baiskeli na Watumiaji wa Barabara Walio Katika Mazingira Hatarishi",
+"subcategory":"Wapanda baiskeli",
+"englishSubcategory":"Cyclists",
+"description":"Waendesha baiskeli wanaweza kuwa vigumu kuwaona wanapokaribia makutano ya barabara, na wanaweza kusonga haraka. Daima wape waendesha baiskeli nafasi na muda wa kusafiri kwa usalama."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Hali Maalum na Mazingira ya Barabara",
+"subcategory":"Kanda za Shule",
+"englishSubcategory":"School Zones",
+"description":"Mipaka ya kasi ya eneo la shule inatumika tu wakati ulioonyeshwa kwenye mabango. Hakikisha unayafuata ili kuhakikisha usalama wa watoto."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Hali Maalum na Mazingira ya Barabara",
+"subcategory":"Kanda za Shule",
+"englishSubcategory":"School Zones",
+"description":"Madereva lazima wapunguze mwendo katika maeneo ya shule hata kama hakuna watoto wanaoonekana, kwani watoto wanaweza kutokea ghafla na bila kutabirika."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Hali Maalum na Mazingira ya Barabara",
+"subcategory":"Kazi za Barabarani",
+"englishSubcategory":"Roadworks",
+"description":"Unapokaribia kazi za barabarani, punguza mwendo na fuata ishara zozote za muda ili kuhakikisha usalama kwa wafanyakazi na watumiaji wengine wa barabara."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Hali Maalum na Mazingira ya Barabara",
+"subcategory":"Kazi za Barabarani",
+"englishSubcategory":"Roadworks",
+"description":"Vikomo vya kasi hupunguzwa katika maeneo ya kazi za barabarani ili kuhakikisha usalama wa wafanyakazi na kukabiliana na mabadiliko katika hali ya barabara."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Hali Maalum na Mazingira ya Barabara",
+"subcategory":"Barabara za Vijijini",
+"englishSubcategory":"Rural Roads",
+"description":"Katika barabara za vijijini, wanyamapori wanaweza kuingia barabarani bila kutarajia. Daima uwe tayari kusimama au kupunguza mwendo unapoendesha gari kupitia maeneo ya vijijini."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Hali Maalum na Mazingira ya Barabara",
+"subcategory":"Barabara za Vijijini",
+"englishSubcategory":"Rural Roads",
+"description":"Barabara ambazo hazijafungwa mara nyingi huwa na uwezo mdogo wa kushikilia na kusimama. Madereva wanapaswa kupunguza kasi wanapoendesha gari kwenye sehemu ambazo hazijafungwa."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Hali Maalum na Mazingira ya Barabara",
+"subcategory":"Barabara Kuu",
+"englishSubcategory":"Freeways",
+"description":"Ukikosa njia yako ya kutokea kwenye barabara kuu, endelea hadi njia inayofuata ya kutokea na ugeuke kwa usalama. Usijaribu kusimama au kurudi nyuma kwenye barabara kuu."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Hali Maalum na Mazingira ya Barabara",
+"subcategory":"Barabara Kuu",
+"englishSubcategory":"Freeways",
+"description":"Ni kinyume cha sheria kusimama kwenye barabara kuu isipokuwa wakati wa dharura. Daima tumia njia ya bega au ya kutokea iwapo itaharibika."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Hali Maalum na Mazingira ya Barabara",
+"subcategory":"Hali ya Hewa",
+"englishSubcategory":"Weather Conditions",
+"description":"Katika mvua kubwa, punguza kasi na ongeza umbali unaofuata. Barabara zenye unyevunyevu zinaweza kupunguza mvutano na kupanua umbali wa kusimama."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Hali Maalum na Mazingira ya Barabara",
+"subcategory":"Hali ya Hewa",
+"englishSubcategory":"Weather Conditions",
+"description":"Ukungu hupunguza mwonekano na utambuzi wa kina, na kufanya kuendesha gari kuwa hatari zaidi. Punguza mwendo na ongeza umbali unaofuata katika hali ya ukungu."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Magari ya Dharura na Maelekezo ya Polisi",
+"subcategory":"Njia ya Kutoa Gari la Dharura",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Gari la dharura linapokaribia likiwa na taa na/au king'ora, ondoka kwenye njia yake na uruhusu lipite salama."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Magari ya Dharura na Maelekezo ya Polisi",
+"subcategory":"Njia ya Kutoa Gari la Dharura",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Ukiwa kwenye taa za trafiki na gari la dharura linakujia kutoka nyuma, hatua salama zaidi ni kusogea kando ikiwa ni salama na halali, vinginevyo kaa mahali hapo na uiache ipite inapowezekana."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Magari ya Dharura na Maelekezo ya Polisi",
+"subcategory":"Maelekezo ya Polisi",
+"englishSubcategory":"Police Directions",
+"description":"Ikiwa afisa wa polisi anakuelekeza tofauti na bango, lazima ufuate maelekezo ya maafisa wa polisi."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Magari ya Dharura na Maelekezo ya Polisi",
+"subcategory":"Njia ya Kutoa Gari la Dharura",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Ikiwa gari la dharura litasimamishwa na taa zinawaka kando ya barabara, punguza mwendo na upite kwa uangalifu, ukisonga mbele ikiwa salama."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Magari ya Dharura na Maelekezo ya Polisi",
+"subcategory":"Maelekezo ya Polisi",
+"englishSubcategory":"Police Directions",
+"description":"Ikiwa polisi wataweka kizuizi cha muda, fuata maagizo yao na njia zozote za kupotosha."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Magari ya Dharura na Maelekezo ya Polisi",
+"subcategory":"Njia ya Kutoa Gari la Dharura",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Haupaswi kufuata kwa karibu gari la dharura ili kupita kwa kasi zaidi."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Magari ya Dharura na Maelekezo ya Polisi",
+"subcategory":"Njia ya Kutoa Gari la Dharura",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Ukisikia king'ora lakini huwezi kuona gari la dharura bado, kaa macho, angalia vioo, na uwe tayari kusonga salama."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Magari ya Dharura na Maelekezo ya Polisi",
+"subcategory":"Maelekezo ya Polisi",
+"englishSubcategory":"Police Directions",
+"description":"Ikiwa mdhibiti wa trafiki katika kazi za barabarani anatoa maelekezo, lazima umtii mdhibiti wa trafiki."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Magari ya Dharura na Maelekezo ya Polisi",
+"subcategory":"Maelekezo ya Polisi",
+"englishSubcategory":"Police Directions",
+"description":"Polisi wakikuamuru kusimama kwa ajili ya ukaguzi wa leseni, simama salama kama ilivyoelekezwa."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Magari ya Dharura na Maelekezo ya Polisi",
+"subcategory":"Njia ya Kutoa Gari la Dharura",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Ukiwa katika njia moja na gari la dharura linakujia kutoka nyuma, toa ishara na usogee kushoto au mahali salama inapowezekana."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Mikanda ya Kiti, Vizuizi vya Watoto na Abiria",
+"subcategory":"Mikanda ya usalama",
+"englishSubcategory":"Seatbelts",
+"description":"Dereva ana jukumu la kuhakikisha kwamba abiria wote walio chini ya umri wa miaka 16 wanavaa mkanda wa usalama."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Mikanda ya Kiti, Vizuizi vya Watoto na Abiria",
+"subcategory":"Mikanda ya usalama",
+"englishSubcategory":"Seatbelts",
+"description":"Mkanda wa usalama lazima uvaliwe wakati wote gari linaposonga, ikiwa umefungwa."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Mikanda ya Kiti, Vizuizi vya Watoto na Abiria",
+"subcategory":"Vizuizi vya Watoto",
+"englishSubcategory":"Child Restraints",
+"description":"Kizuizi cha mtoto kinahitajika kwa sababu kimeundwa ili kutoshea na kulinda ukubwa na umbo la mwili wa mtoto kwa ufanisi zaidi kuliko mkanda wa usalama wa mtu mzima."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Mikanda ya Kiti, Vizuizi vya Watoto na Abiria",
+"subcategory":"Abiria",
+"englishSubcategory":"Passengers",
+"description":"Si salama kwa abiria kuweka miguu kwenye dashibodi kwa sababu mifuko ya hewa na vikosi vya ajali vinaweza kusababisha majeraha makubwa."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Mikanda ya Kiti, Vizuizi vya Watoto na Abiria",
+"subcategory":"Vizuizi vya Watoto",
+"englishSubcategory":"Child Restraints",
+"description":"Kanuni salama zaidi ya jumla ya kuchagua kizuizi cha mtoto ni kutumia kile kinachokubalika na kinachofaa kwa umri na ukubwa wa mtoto."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Mikanda ya Kiti, Vizuizi vya Watoto na Abiria",
+"subcategory":"Mikanda ya usalama",
+"englishSubcategory":"Seatbelts",
+"description":"Ishara ya kawaida kwamba mkanda wa usalama hauvaliwi ipasavyo ni wakati kamba ya ukanda iko chini ya mkono au nyuma ya mgongo."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Mikanda ya Kiti, Vizuizi vya Watoto na Abiria",
+"subcategory":"Abiria",
+"englishSubcategory":"Passengers",
+"description":"Ikiwa abiria atamkengeusha dereva, hatua salama zaidi ni kumwomba asimame na kuzingatia tena kuendesha gari."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Mikanda ya Kiti, Vizuizi vya Watoto na Abiria",
+"subcategory":"Vizuizi vya Watoto",
+"englishSubcategory":"Child Restraints",
+"description":"Si salama kumshikilia mtoto kwenye mapaja yako kwenye gari linalotembea kwa sababu huwezi kumshikilia salama wakati wa ajali."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Mikanda ya Kiti, Vizuizi vya Watoto na Abiria",
+"subcategory":"Mikanda ya usalama",
+"englishSubcategory":"Seatbelts",
+"description":"Mkanda wa usalama unapaswa kuvaliwa huku sehemu ya paja ikiwa chini kwenye nyonga ili kupunguza hatari ya kuumia tumboni wakati wa ajali."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Mikanda ya Kiti, Vizuizi vya Watoto na Abiria",
+"subcategory":"Abiria",
+"englishSubcategory":"Passengers",
+"description":"Hatari kuu ya kubeba vitu visivyo na usalama ndani ya kabati ni kwamba vinaweza kuwa kama makombora wakati wa ajali au kusimama ghafla."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Usalama wa Gari, Kasoro na Misingi ya Matengenezo",
+"subcategory":"Matairi",
+"englishSubcategory":"Tyres",
+"description":"Shinikizo sahihi la tairi ni muhimu kwa usalama kwa sababu huathiri mshiko, breki, na udhibiti wa usukani."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Usalama wa Gari, Kasoro na Misingi ya Matengenezo",
+"subcategory":"Breki",
+"englishSubcategory":"Brakes",
+"description":"Ikiwa kanyagio chako cha breki kinahisi kama sponji au kinazama zaidi kuliko kawaida, kichukulie kama hitilafu kubwa na uangalie breki mara moja."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Usalama wa Gari, Kasoro na Misingi ya Matengenezo",
+"subcategory":"Taa na Mwonekano",
+"englishSubcategory":"Lights & Visibility",
+"description":"Angalia taa zote za gari mara kwa mara ili kuhakikisha kuwa unaweza kuziona na kuziona kwa wengine."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Usalama wa Gari, Kasoro na Misingi ya Matengenezo",
+"subcategory":"Uendeshaji na Kusimamishwa",
+"englishSubcategory":"Steering & Suspension",
+"description":"Ishara ya onyo kuhusu tatizo la usukani inaweza kujumuisha kuvuta, kutetemeka, au ugumu wa usukani usio wa kawaida."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Usalama wa Gari, Kasoro na Misingi ya Matengenezo",
+"subcategory":"Kioo cha mbele na Vifutaji",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Vipu vya wiper vilivyochakaa ni suala la usalama kwa sababu hupunguza mwonekano wakati wa mvua."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Usalama wa Gari, Kasoro na Misingi ya Matengenezo",
+"subcategory":"Matairi",
+"englishSubcategory":"Tyres",
+"description":"Ishara ya kawaida kwamba matairi yanaweza kuwa si salama ni kama sehemu ya kukanyaga imechakaa au imechakaa vibaya."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Usalama wa Gari, Kasoro na Misingi ya Matengenezo",
+"subcategory":"Vioo na Marekebisho",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Vioo vinapaswa kurekebishwa kabla ya kuendesha gari ili kupunguza sehemu zisizoonekana na kuboresha ufahamu."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Usalama wa Gari, Kasoro na Misingi ya Matengenezo",
+"subcategory":"Breki",
+"englishSubcategory":"Brakes",
+"description":"Ikiwa breki zako hutoa kelele za kusaga, zichunguzwe haraka iwezekanavyo."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Usalama wa Gari, Kasoro na Misingi ya Matengenezo",
+"subcategory":"Taa na Mwonekano",
+"englishSubcategory":"Lights & Visibility",
+"description":"Tumia taa za mbele katika hali ya kutoonekana vizuri wakati wowote zinapopungua ili wengine waweze kukuona."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Usalama wa Gari, Kasoro na Misingi ya Matengenezo",
+"subcategory":"Kioo cha mbele na Vifutaji",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Ikiwa kioo chako cha mbele kimepasuka vibaya kwenye mstari unaoonekana, kirekebishe au ubadilishe kabla ya kuendelea na safari."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Uelewa wa Mizigo, Kuvuta na Magari Mazito",
+"subcategory":"Mizigo",
+"englishSubcategory":"Loads",
+"description":"Mizigo lazima ifungwe vizuri ili kuizuia isisogee au kuanguka na kusababisha ajali."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Uelewa wa Mizigo, Kuvuta na Magari Mazito",
+"subcategory":"Mizigo",
+"englishSubcategory":"Loads",
+"description":"Mzigo usio na usalama ndani ya gari unaweza kuwa kama kombora wakati wa breki ya ghafla, na kusababisha hatari kubwa ya usalama."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Uelewa wa Mizigo, Kuvuta na Magari Mazito",
+"subcategory":"Mizigo",
+"englishSubcategory":"Loads",
+"description":"Kubeba gari lililojaa kupita kiasi huathiri breki kwa kuongeza umbali wa kusimama."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Uelewa wa Mizigo, Kuvuta na Magari Mazito",
+"subcategory":"Mizigo",
+"englishSubcategory":"Loads",
+"description":"Njia salama zaidi ya kubeba vitu virefu ni kuvifunga ili visiweze kusogea au kujitokeza kwa njia hatari."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Uelewa wa Mizigo, Kuvuta na Magari Mazito",
+"subcategory":"Kukokota",
+"englishSubcategory":"Towing",
+"description":"Kuvuta trela huongeza umbali wa kusimama kwa sababu uzito wa ziada hupunguza ufanisi wa breki."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Uelewa wa Mizigo, Kuvuta na Magari Mazito",
+"subcategory":"Kukokota",
+"englishSubcategory":"Towing",
+"description":"Kabla ya kuvuta trela, hakikisha kwamba kiunganishi, taa, na mnyororo wa usalama viko salama."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Uelewa wa Mizigo, Kuvuta na Magari Mazito",
+"subcategory":"Kukokota",
+"englishSubcategory":"Towing",
+"description":"Ruhusu nafasi ya ziada unapogeuka unapovuta, huku trela ikifuatilia ndani ya njia ya kugeuka."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Uelewa wa Mizigo, Kuvuta na Magari Mazito",
+"subcategory":"Mizigo",
+"englishSubcategory":"Loads",
+"description":"Mzigo unaozuia mtazamo wako wa nyuma hupunguza ufahamu wa trafiki inayofuata, na kuongeza hatari ya ajali."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Uelewa wa Mizigo, Kuvuta na Magari Mazito",
+"subcategory":"Magari Mazito",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Magari mazito yanahitaji nafasi zaidi ya kusimama kwa sababu uzito wao mkubwa huongeza umbali wa kusimama."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Uelewa wa Mizigo, Kuvuta na Magari Mazito",
+"subcategory":"Magari Mazito",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Unapofuata lori kubwa, ongeza umbali unaofuata ili kuhesabu maeneo yasiyoonekana na umbali mrefu wa kusimama kwa malori."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Leseni, Sheria za Bamba la L/P na Mitego ya DKT ya Vitendo (VIC)",
+"subcategory":"Sheria za Kibali cha Mwanafunzi",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Kama dereva anayejifunza kutoka Victoria, unaruhusiwa kuendesha gari tu unaposimamiwa na dereva mwenye leseni inayofaa aliyeketi kando yako."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Leseni, Sheria za Bamba la L/P na Mitego ya DKT ya Vitendo (VIC)",
+"subcategory":"Sheria za Kibali cha Mwanafunzi",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Madereva wanafunzi lazima waonyeshe plate zao za L waziwazi ili zionekane na wengine kwenye gari wakati wote."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Leseni, Sheria za Bamba la L/P na Mitego ya DKT ya Vitendo (VIC)",
+"subcategory":"Sheria za Kibali cha Mwanafunzi",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Ikiwa dereva wako anayekusimamia atalala unapokuwa unaendesha gari, simama salama na usiendelee hadi utakaposimamiwa ipasavyo."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Leseni, Sheria za Bamba la L/P na Mitego ya DKT ya Vitendo (VIC)",
+"subcategory":"Simu za Mkononi na Vifaa",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Kama dereva anayejifunza huko Victoria, huruhusiwi kutumia simu ya mkononi kwa njia yoyote ile unapoendesha gari."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Leseni, Sheria za Bamba la L/P na Mitego ya DKT ya Vitendo (VIC)",
+"subcategory":"Sheria za Kibali cha Mwanafunzi",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Ikiwa plate zako za L zitaanguka wakati wa kuendesha gari, simama salama na uzirekebishe kabla ya kuendelea kuendesha gari."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Leseni, Sheria za Bamba la L/P na Mitego ya DKT ya Vitendo (VIC)",
+"subcategory":"Usimamizi",
+"englishSubcategory":"Supervision",
+"description":"Madhumuni makuu ya usalama wa sheria za usimamizi wa wanafunzi ni kuhakikisha dereva mwenye uzoefu anaweza kuongoza na kuingilia kati inapohitajika."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Leseni, Sheria za Bamba la L/P na Mitego ya DKT ya Vitendo (VIC)",
+"subcategory":"Masharti na Uzingatiaji",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Ikiwa dereva anayejifunza atakamatwa akiendesha gari bila usimamizi unaohitajika, kuna uwezekano wa adhabu na matokeo yanayowezekana ya leseni."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Leseni, Sheria za Bamba la L/P na Mitego ya DKT ya Vitendo (VIC)",
+"subcategory":"Mtazamo wa Hatari",
+"englishSubcategory":"Hazard Perception",
+"description":"Mtego wa kawaida katika makutano ya barabara kwa madereva wanaojifunza ni kugeuka bila kuangalia kama kuna watembea kwa miguu wanaovuka barabara unayoingia."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Leseni, Sheria za Bamba la L/P na Mitego ya DKT ya Vitendo (VIC)",
+"subcategory":"Mtazamo wa Hatari",
+"englishSubcategory":"Hazard Perception",
+"description":"Hata kama taa ni ya kijani, lazima upunguze mwendo au usimame ikiwa trafiki imezuiwa mbele au watembea kwa miguu wanavuka."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Leseni, Sheria za Bamba la L/P na Mitego ya DKT ya Vitendo (VIC)",
+"subcategory":"Sheria za Kibali cha Mwanafunzi",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Ikiwa unamsimamia mwanafunzi, dereva anayesimamia anapaswa kukaa kwenye kiti cha mbele cha abiria kila wakati."
+}
+]

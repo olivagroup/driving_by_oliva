@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Kelių eismo taisyklės ir įstatymai",
+"subcategory":"Bendrosios kelių eismo taisyklės",
+"englishSubcategory":"General Road Rules",
+"description":"Vairuotojai privalo laikytis bendrųjų kelių eismo taisyklių, kad užtikrintų saugumą ir sklandų eismą. Tai apima kelio ženklų, signalų ir eismo juostų ženklinimo laikymąsi. Šių taisyklių nesilaikymas gali sukelti avarijas ir baudas."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Kelių eismo taisyklės ir įstatymai",
+"subcategory":"Duoti kelią",
+"englishSubcategory":"Giving Way",
+"description":"Vairuotojai privalo duoti kelią kitoms transporto priemonėms ar pėstiesiems sankryžose, žiedinėse sankryžose, pėsčiųjų perėjose ir kitose vietose. Neduoti kelio yra nusižengimas."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Kelių eismo taisyklės ir įstatymai",
+"subcategory":"Eismo juostos naudojimas",
+"englishSubcategory":"Lane Use",
+"description":"Vairuotojai privalo važiuoti atitinkamomis eismo juostomis ir laikytis eismo juostų ženklinimo. Tai apima eismo juostų keitimo, lenkimo ir dviračių ar autobusų juostų naudojimo taisykles. Pažeidimai gali užtraukti baudas arba sukelti avarijas."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Kelių eismo taisyklės ir įstatymai",
+"subcategory":"Tramvajai",
+"englishSubcategory":"Trams",
+"description":"Vairuotojai privalo žinoti tramvajų taisykles, įskaitant praleidimą pėstiesiems tramvajų stotelėse, sustojimą prieš tramvajus atviromis durimis ir tramvajų nelenkimą tam tikromis sąlygomis."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Kelių eismo taisyklės ir įstatymai",
+"subcategory":"Sankryžos",
+"englishSubcategory":"Intersections",
+"description":"Sankryžose vairuotojai privalo laikytis teisingos kelio davimo ir sustojimo prie STOP ženklų ar šviesoforų tvarkos. Šių taisyklių supratimas yra labai svarbus norint išvengti avarijų."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Kelių eismo taisyklės ir įstatymai",
+"subcategory":"Apsisukimai",
+"englishSubcategory":"U-Turns",
+"description":"Apsisukti leidžiama tik sankryžose arba kai nėra draudžiančio ženklo. Prieš atlikdami apsisukimą, vairuotojai privalo įsitikinti, kad tai saugu."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Kelių eismo taisyklės ir įstatymai",
+"subcategory":"Greičio apribojimai",
+"englishSubcategory":"Speed Limits",
+"description":"Vairuotojai privalo laikytis nustatytų greičio apribojimų, kad užtikrintų saugumą kelyje. Greičio viršijimas gali užtraukti baudas, vairuotojo pažymėjimo praradimą ir padidinti avarijų riziką."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Kelių eismo taisyklės ir įstatymai",
+"subcategory":"Pėsčiųjų saugumas",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Vairuotojai privalo duoti kelią pėstiesiems perėjose ir užtikrinti jų saugumą šalia pėsčiųjų zonų. Nestopavimas prieš pėsčiuosius perėjose yra nusižengimas."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Kelių eismo taisyklės ir įstatymai",
+"subcategory":"Geležinkelio pervažos",
+"englishSubcategory":"Railway Crossings",
+"description":"Vairuotojai privalo sustoti geležinkelio pervažose, kai mirksi šviesoforai arba nuleisti užtvarai. Šių signalų ignoravimas yra rimtas nusižengimas, už kurį gali būti skiriamos baudos ir įvykti avarijos."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Kelių eismo taisyklės ir įstatymai",
+"subcategory":"Avarinės transporto priemonės",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Vairuotojai privalo duoti kelią avarinėms transporto priemonėms, naudodami mirksinčias šviesas ir sirenas, užtikrindami, kad transporto priemonė turėtų laisvą kelią judėti eisme."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Eismo ženklai ir signalai",
+"subcategory":"Reguliavimo ženklai",
+"englishSubcategory":"Regulatory Signs",
+"description":"Reguliuojantys ženklai vairuotojams pateikia privalomas instrukcijas, pavyzdžiui, greičio apribojimus, posūkių apribojimus ir įvažiavimo draudimo ženklus. Šių ženklų laikytis reikalauja įstatymai, siekiant užtikrinti saugumą ir tvarką keliuose."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Eismo ženklai ir signalai",
+"subcategory":"Įspėjamieji ženklai",
+"englishSubcategory":"Warning Signs",
+"description":"Įspėjamieji ženklai įspėja vairuotojus apie galimus pavojus, tokius kaip staigūs posūkiai, mokyklų zonos ir laukinių gyvūnų perėjos. Šie ženklai padeda vairuotojams koreguoti vairavimą, kad būtų išvengta avarijų."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Eismo ženklai ir signalai",
+"subcategory":"Greičio ženklai",
+"englishSubcategory":"Speed Signs",
+"description":"Greičio ženklai rodo maksimalų arba minimalų leistiną greitį kelyje. Vairuotojai privalo laikytis šių apribojimų, kad užtikrintų saugias vairavimo sąlygas ir išvengtų baudų."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Eismo ženklai ir signalai",
+"subcategory":"Šviesoforai",
+"englishSubcategory":"Traffic Lights",
+"description":"Šviesoforai reguliuoja transporto priemonių ir pėsčiųjų srautą sankryžose. Raudona spalva reiškia „stop“, žalia – „važiuoti“, o geltona – įspėjimas, kad reikia pasiruošti sustoti."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Eismo ženklai ir signalai",
+"subcategory":"Pėsčiųjų signalai",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Pėsčiųjų šviesoforai rodo, kada pėstiesiems saugu kirsti kelią. Šie signalai paprastai derinami su šviesoforais, siekiant užtikrinti pėsčiųjų saugumą."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Eismo ženklai ir signalai",
+"subcategory":"Eismo juostų kontrolės signalai",
+"englishSubcategory":"Lane Control Signals",
+"description":"Eismo juostų valdymo signalai naudojami norint parodyti, ar eismo juosta atidaryta, ar uždaryta. Šie signalai paprastai naudojami daugiajuosčiuose keliuose ir tuneliuose."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Eismo ženklai ir signalai",
+"subcategory":"Draudžiama statyti ženklus",
+"englishSubcategory":"No Parking Signs",
+"description":"Ženklai „Draudžiama statyti automobilius“ žymi vietas, kuriose draudžiama sustoti arba stovėti. Paprastai tai daroma siekiant užtikrinti sklandų eismą ir saugumą."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Eismo ženklai ir signalai",
+"subcategory":"Vienpusio eismo ženklai",
+"englishSubcategory":"One-Way Signs",
+"description":"Vienpusio eismo ženklai rodo, kad eismas turi važiuoti tik viena kryptimi. Šių ženklų nepaisymas gali sukelti avarijas ir teisines pasekmes."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Eismo ženklai ir signalai",
+"subcategory":"Stotelės ženklai",
+"englishSubcategory":"Stop Signs",
+"description":"STOP ženklai reikalauja, kad vairuotojai visiškai sustotų ir prieš tęsdami važiavimą praleistų kitas transporto priemones ar pėsčiuosius."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Eismo ženklai ir signalai",
+"subcategory":"Kelias duodantys ženklai",
+"englishSubcategory":"Give Way Signs",
+"description":"Kelią skiriantys ženklai nurodo vairuotojams duoti kelią kitiems eismo dalyviams – pėstiesiems arba transporto priemonėms, atsižvelgiant į situaciją, kad būtų išvengta avarijų."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Greičio ir atstumo taisyklės",
+"subcategory":"Greičio apribojimai",
+"englishSubcategory":"Speed Limits",
+"description":"Numatytasis greičio apribojimas apgyvendintoje Viktorijos zonoje yra 50 km/h, nebent būtų nurodyta kitaip. Visada patikrinkite, ar nėra pastatytų ženklų, kad įsitikintumėte, jog važiuojate neviršydami leistino greičio."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Greičio ir atstumo taisyklės",
+"subcategory":"Greičio apribojimai",
+"englishSubcategory":"Speed Limits",
+"description":"Pažymėtoje mokyklos zonoje ženkle nurodytomis valandomis greitis sumažinamas iki 40 km/h, siekiant užtikrinti kelią kertančių vaikų saugumą."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Greičio ir atstumo taisyklės",
+"subcategory":"Sekimo atstumas",
+"englishSubcategory":"Following Distance",
+"description":"Idealiomis sąlygomis minimalus saugus atstumas iki priekyje važiuojančios transporto priemonės yra bent dvi sekundės. Tai suteikia pakankamai laiko sureaguoti, jei priekyje esanti transporto priemonė staigiai sustoja."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Greičio ir atstumo taisyklės",
+"subcategory":"Greičio apribojimai",
+"englishSubcategory":"Speed Limits",
+"description":"Lenkiant sustojusį tramvajų saugos zonoje, privalote sumažinti greitį iki 10 km/h, kad užtikrintumėte įlipančių ir išlipančių keleivių saugumą."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Greičio ir atstumo taisyklės",
+"subcategory":"Greičio apribojimai",
+"englishSubcategory":"Speed Limits",
+"description":"Kaimo keliuose be greičio apribojimų ženklų numatytasis greičio apribojimas yra 100 km/h, nebent vietiniai ženklai nurodo kitaip. Kad užtikrintumėte saugumą, koreguokite greitį pagal kelio sąlygas."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Greičio ir atstumo taisyklės",
+"subcategory":"Sekimo atstumas",
+"englishSubcategory":"Following Distance",
+"description":"Esant šlapiam orui, atstumą iki kelyje reikėtų padidinti bent iki keturių sekundžių. Šlapi keliai sumažina sukibimą su kelio danga, todėl reikia daugiau laiko saugiai sustoti."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Greičio ir atstumo taisyklės",
+"subcategory":"Greičio apribojimai",
+"englishSubcategory":"Speed Limits",
+"description":"Visada laikykitės elektroninių kintamo greičio ribojimo ženklų, kai jie veikia. Šie ženklai koreguoja greičio apribojimus pagal eismo sąlygas, orą ar įvykius kelyje."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Greičio ir atstumo taisyklės",
+"subcategory":"Stabdymo kelias",
+"englishSubcategory":"Stopping Distance",
+"description":"Didėjant greičiui, ilgėja ir stabdymo kelias, reikalingas saugiai sustabdyti transporto priemonę. Visada užtikrinkite, kad atstumas būtų pakankamas, kad galėtumėte reaguoti į pavojus."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Greičio ir atstumo taisyklės",
+"subcategory":"Greičio apribojimai",
+"englishSubcategory":"Speed Limits",
+"description":"Bendrose zonose greičio apribojimas paprastai yra 10 km/h, siekiant užtikrinti pėsčiųjų ir dviratininkų saugumą šiose vietose, kur sąveikauja transporto priemonės ir nemotorinės eismo dalyviai."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Greičio ir atstumo taisyklės",
+"subcategory":"Sekimo atstumas",
+"englishSubcategory":"Following Distance",
+"description":"Važiavimas paskui kitas transporto priemones yra pavojingas, nes sutrumpėja reakcijos laikas ir stabdymo laikas. Visada palaikykite saugų atstumą, ypač važiuodami už didesnių transporto priemonių, kurios gali užstoti matomumą."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Vairuotojo pareigos",
+"subcategory":"Teisiniai įsipareigojimai",
+"englishSubcategory":"Legal Obligations",
+"description":"Vairuotojai privalo vykdyti įvairias teisines prievoles, pavyzdžiui, teikti pagalbą po avarijos, keistis informacija po avarijų ir pranešti apie incidentus valdžios institucijoms, kaip reikalaujama įstatymų."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Vairuotojo pareigos",
+"subcategory":"Dėmesys ir kontrolė",
+"englishSubcategory":"Attention & Control",
+"description":"Vairuotojai privalo visada kontroliuoti savo transporto priemonę, vengti blaškymo ir išlikti susikaupę, kad užtikrintų savo ir kitų eismo dalyvių saugumą."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Vairuotojo pareigos",
+"subcategory":"Teisiniai įsipareigojimai",
+"englishSubcategory":"Legal Obligations",
+"description":"Įvykus avarijai, kurios metu žmonės sužaloti, vairuotojai privalo sustoti ir, jei įmanoma, suteikti pagalbą. Nesustojimas ir nepadėjimas tokiose situacijose yra teisės pažeidimas."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Vairuotojo pareigos",
+"subcategory":"Dėmesys ir kontrolė",
+"englishSubcategory":"Attention & Control",
+"description":"Vairuotojams labai svarbu visada visiškai kontroliuoti savo transporto priemonę, užtikrinti, kad jie tinkamai reaguotų į besikeičiančias eismo sąlygas ir palaikytų saugią vairavimo aplinką."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Vairuotojo pareigos",
+"subcategory":"Teisiniai įsipareigojimai",
+"englishSubcategory":"Legal Obligations",
+"description":"Vairuotojai privalo pranešti apie avariją policijai, jei kas nors yra sužeistas arba yra sugadintas turtas ir negalima apsikeisti duomenimis. Nepranešus apie šiuos incidentus, gali būti taikomos baudos."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Vairuotojo pareigos",
+"subcategory":"Nuovargio valdymas",
+"englishSubcategory":"Fatigue Management",
+"description":"Nuovargis vairuojant kelia rimtą pavojų. Vairuotojai turėtų atkreipti dėmesį į ankstyvus nuovargio požymius, tokius kaip žiovavimas ir susikaupimo praradimas, ir imtis tinkamų veiksmų, kad išvengtų avarijų."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Vairuotojo pareigos",
+"subcategory":"Teisiniai įsipareigojimai",
+"englishSubcategory":"Legal Obligations",
+"description":"Vairuotojai privalo pateikti savo vairuotojo pažymėjimą, kai to paprašo policija. Atsisakymas pateikti vairuotojo pažymėjimą gali užtraukti baudas arba kitas teisines pasekmes."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Vairuotojo pareigos",
+"subcategory":"Dėmesys ir kontrolė",
+"englishSubcategory":"Attention & Control",
+"description":"Vairuotojai turėtų vengti be reikalo naudoti signalą, nes jis gali išgąsdinti arba atitraukti kitų eismo dalyvių dėmesį. Signalas turėtų būti naudojamas tik tam, kad įspėtų kitus apie jūsų buvimą, ir tais atvejais, kai tai būtina."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Vairuotojo pareigos",
+"subcategory":"Nuovargio valdymas",
+"englishSubcategory":"Fatigue Management",
+"description":"Jei jaučiatės per daug pavargę vairuoti, saugiausia sustoti ir pailsėti prieš tęsiant. Vairavimas pavargus žymiai padidina avarijų riziką."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Vairuotojo pareigos",
+"subcategory":"Teisiniai įsipareigojimai",
+"englishSubcategory":"Legal Obligations",
+"description":"Vairuotojai privalo užtikrinti, kad jų keleiviai saugiai sėdėtų ir būtų prisegti. Tai apima ir tai, kad vaikai būtų tinkamose vaikų apsaugos priemonėse, o suaugusieji – prisisegus saugos diržus."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkoholis, narkotikai ir sveikata",
+"subcategory":"Alkoholio ribos",
+"englishSubcategory":"Alcohol Limits",
+"description":"Viktorijoje besimokantys vairuotojai ir bandomojo laikotarpio vairuotojai (P1 ir P2) visada privalo palaikyti 0,00 promilių alkoholio koncentraciją kraujyje. Turintiems vairuotojo pažymėjimą asmenims leidžiama vairuoti ne daugiau kaip 0,05 promilės alkoholio, tačiau saugiau vairuojant visai negerti."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkoholis, narkotikai ir sveikata",
+"subcategory":"Alkoholio poveikis",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkoholis sutrikdo nuovoką, reakcijos laiką ir koordinaciją, o tai gali žymiai padidinti avarijų riziką. Net ir nedidelis alkoholio kiekis gali sumažinti jūsų gebėjimą saugiai vairuoti."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkoholis, narkotikai ir sveikata",
+"subcategory":"Vairavimas apsvaigus nuo narkotikų",
+"englishSubcategory":"Drug Driving",
+"description":"Vairavimas apsvaigus nuo narkotikų, įskaitant receptinius vaistus, gali pakenkti jūsų vairavimo gebėjimui, net jei jaučiatės sveiki. Svarbu žinoti apie riziką ir vengti vairuoti pavartojus narkotikų."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkoholis, narkotikai ir sveikata",
+"subcategory":"Vaistų saugumas",
+"englishSubcategory":"Medication Safety",
+"description":"Prieš pradėdami vartoti naują receptinį vaistą, patikrinkite, ar jis veikia jūsų gebėjimą vairuoti, ir laikykitės gydytojo nurodymų. Kai kurie vaistai gali sukelti mieguistumą arba sutrikdyti susikaupimą."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkoholis, narkotikai ir sveikata",
+"subcategory":"Nuovargis ir sveikata",
+"englishSubcategory":"Fatigue & Health",
+"description":"Nuovargis gali pakenkti jūsų gebėjimui saugiai vairuoti, lygiai taip pat kaip alkoholis ar narkotikai. Prieš vairuodami pakankamai pailsėkite, o ilgų kelionių metu darykite pertraukas, kad sumažintumėte su nuovargiu susijusių avarijų riziką."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Alkoholis, narkotikai ir sveikata",
+"subcategory":"Alkoholio poveikis",
+"englishSubcategory":"Alcohol Effects",
+"description":"Išgėrus, alkoholio kiekį organizme gali sumažinti tik laikas. Kava, šaltas dušas ar kiti metodai šio proceso nepaspartins."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Alkoholis, narkotikai ir sveikata",
+"subcategory":"Alkoholio ribos",
+"englishSubcategory":"Alcohol Limits",
+"description":"Viktorijoje visi besimokantys ir bandomojo laikotarpio vairuotojai privalo palaikyti 0,00 promilių alkoholio kiekį kraujyje. Visiems vairuotojams, turintiems licenciją, alkoholio kiekis kraujyje yra 0,05 promilės. Tačiau saugiausias pasirinkimas yra vengti alkoholio prieš vairuojant."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Alkoholis, narkotikai ir sveikata",
+"subcategory":"Vairavimas apsvaigus nuo narkotikų",
+"englishSubcategory":"Drug Driving",
+"description":"Viktorijoje galite būti nubaustas už vairavimą vartojant tam tikrus narkotikus, net jei jaučiatės nepakitęs. Narkotikų poveikis turi įtakos jūsų gebėjimui vairuoti saugiai ir padidina avarijų riziką."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Alkoholis, narkotikai ir sveikata",
+"subcategory":"Vaistų saugumas",
+"englishSubcategory":"Medication Safety",
+"description":"Prieš vairuodami visada pasidomėkite, ar nauji vaistai gali paveikti jūsų gebėjimą vairuoti transporto priemonę. Kai kurie vaistai sukelia mieguistumą, pablogina reakcijos laiką ir sumažina susikaupimą."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Alkoholis, narkotikai ir sveikata",
+"subcategory":"Nuovargis ir sveikata",
+"englishSubcategory":"Fatigue & Health",
+"description":"Nuovargis gali turėti panašų poveikį vairavimui kaip ir alkoholis. Jis sulėtina reakcijos laiką, pablogina nuovoką ir sumažina gebėjimą priimti sprendimus, todėl padidėja avarijų rizika."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Saugaus vairavimo praktika",
+"subcategory":"Pavojaus suvokimas",
+"englishSubcategory":"Hazard Perception",
+"description":"Artėjant prie galimo pavojaus, saugiausia sustoti ir sulėtinti greitį, jei prireiktų. Tai suteikia laiko įvertinti situaciją ir tinkamai reaguoti."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Saugaus vairavimo praktika",
+"subcategory":"Pavojaus suvokimas",
+"englishSubcategory":"Hazard Perception",
+"description":"Vairuojant labai svarbu stebėti kelią į priekį, kad būtų galima anksti pastebėti galimus pavojus. Tai leidžia suplanuoti savo reakciją ir išvengti staigių reakcijų."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Saugaus vairavimo praktika",
+"subcategory":"Gynybinis vairavimas",
+"englishSubcategory":"Defensive Driving",
+"description":"Saugus vairavimas apima galimų kitų eismo dalyvių klaidų numatymą ir saugaus atstumo laikymąsi, siekiant išvengti susidūrimų."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Saugaus vairavimo praktika",
+"subcategory":"Kelio sąlygos",
+"englishSubcategory":"Road Conditions",
+"description":"Jei padangos praranda sukibimą su šlapia kelio danga, atleiskite akceleratorių ir vairuokite sklandžiai. Staigus stabdymas ar staigūs posūkiai gali pabloginti situaciją ir sukelti kontrolės praradimą."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Saugaus vairavimo praktika",
+"subcategory":"Pavojaus suvokimas",
+"englishSubcategory":"Hazard Perception",
+"description":"Važiuojant eismo sraute, geriausia stebėti pavojus yra toli priekyje ir šonuose, o ne tik sutelkti dėmesį į priešais važiuojantį automobilį. Tai padeda anksčiau numatyti riziką."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Saugaus vairavimo praktika",
+"subcategory":"Gynybinis vairavimas",
+"englishSubcategory":"Defensive Driving",
+"description":"Jei transporto priemonė vingiuoja savo eismo juostoje priekyje, saugiausia reaguoti padidinant atstumą. Taip turėsite daugiau laiko reaguoti, jei situacija pablogėtų."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Saugaus vairavimo praktika",
+"subcategory":"Kelio sąlygos",
+"englishSubcategory":"Road Conditions",
+"description":"Kelias dažnai būna slidžiausias pirmosiomis minutėmis po lietaus. Šiuo metu būkite ypač atsargūs, nes ant kelio susikaupę tepalai ir šiukšlės gali jį padaryti pavojingesnį."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Saugaus vairavimo praktika",
+"subcategory":"Naktinis vairavimas",
+"englishSubcategory":"Night Driving",
+"description":"Kad naktį neakintų priešpriešiais atvažiuojančių automobilių priekiniai žibintai, šiek tiek pažiūrėkite į kairįjį savo eismo juostos kraštą ir, jei reikia, sulėtinkite greitį. Tai padeda išvengti tiesioginio ryškios šviesos poveikio."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Saugaus vairavimo praktika",
+"subcategory":"Gynybinis vairavimas",
+"englishSubcategory":"Defensive Driving",
+"description":"Jei vairuotojas jus per arti važiuoja, saugiausias veiksmas yra padidinti atstumą iki priekyje važiuojančios transporto priemonės. Tai suteiks jums ir priekyje važiuojančiam vairuotojui daugiau erdvės reaguoti."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Saugaus vairavimo praktika",
+"subcategory":"Kelio sąlygos",
+"englishSubcategory":"Road Conditions",
+"description":"Važiuodami per rūką, sumažinkite greitį ir laikykitės didesnio atstumo nuo savo transporto priemonės iki kitų eismo dalyvių. Rūkas smarkiai sumažina matomumą ir padidina avarijų riziką."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Sankryžos, posūkiai ir žiedinės sankryžos",
+"subcategory":"Duoti kelią",
+"englishSubcategory":"Giving Way",
+"description":"Sankryžose be ženklų ar šviesoforų transporto priemonė, artėjanti iš dešinės, privalo duoti kelią transporto priemonei, atvažiuojančiai iš kairės."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Sankryžos, posūkiai ir žiedinės sankryžos",
+"subcategory":"Posūkiai",
+"englishSubcategory":"Turns",
+"description":"Sukant į dešinę prie šviesoforo be rodyklės, nukreipiančios į dešinę, prieš tęsiant važiavimą privaloma duoti kelią priešpriešiais atvažiuojantiems eismo dalyviams ir pėstiesiems."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Sankryžos, posūkiai ir žiedinės sankryžos",
+"subcategory":"Žiedinės sankryžos",
+"englishSubcategory":"Roundabouts",
+"description":"Žiedinėje sankryžoje pirmenybę turi transporto priemonės, jau esančios žiedinėje sankryžoje. Į žiedinę sankryžą įvažiuojantys vairuotojai privalo joms duoti kelią."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Sankryžos, posūkiai ir žiedinės sankryžos",
+"subcategory":"Posūkiai",
+"englishSubcategory":"Turns",
+"description":"Sukdami į kairę, privalote duoti kelią pėstiesiems, kertantiems kelią, į kurį įvažiuojate, užtikrindami jų saugumą."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Sankryžos, posūkiai ir žiedinės sankryžos",
+"subcategory":"Duoti kelią",
+"englishSubcategory":"Giving Way",
+"description":"T formos sankryžoje transporto priemonė, važiuojanti pasibaigiančiu keliu, privalo duoti kelią transporto priemonėms, važiuojančioms tęsiančiu keliu."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Sankryžos, posūkiai ir žiedinės sankryžos",
+"subcategory":"Posūkiai",
+"englishSubcategory":"Turns",
+"description":"Apsisukdami privalote duoti kelią visoms kitoms transporto priemonėms ir pėstiesiems, užtikrindami jų saugumą, kol sukate."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Sankryžos, posūkiai ir žiedinės sankryžos",
+"subcategory":"Žiedinės sankryžos",
+"englishSubcategory":"Roundabouts",
+"description":"Išvažiuodami iš žiedinės sankryžos, prieš pat išvažiuodami, pasukite į kairę ir taip informuokite kitus eismo dalyvius apie savo ketinimus."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Sankryžos, posūkiai ir žiedinės sankryžos",
+"subcategory":"Duoti kelią",
+"englishSubcategory":"Giving Way",
+"description":"Įvažiuojant į kelią iš įvažiavimo, privaloma duoti kelią visoms transporto priemonėms ir pėstiesiems, kad būtų išvengta avarijų."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Sankryžos, posūkiai ir žiedinės sankryžos",
+"subcategory":"Posūkiai",
+"englishSubcategory":"Turns",
+"description":"Prieš sukdami į dešinę, pastatykite savo transporto priemonę kuo arčiau kelio vidurio, užtikrindami saugų ir laisvą posūkį."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Sankryžos, posūkiai ir žiedinės sankryžos",
+"subcategory":"Šviesoforai",
+"englishSubcategory":"Traffic Lights",
+"description":"Žalia rodyklė rodo, kad galite važiuoti rodyklės kryptimi neužleisdami kelio kitiems eismo dalyviams ar pėstiesiems."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Kelio ženklinimas, eismo juostos ir lenkimas",
+"subcategory":"Eismo juostos naudojimas",
+"englishSubcategory":"Lane Use",
+"description":"Ištisinė viena centrinė linija paprastai reiškia, kad jos kirsti draudžiama, išskyrus įvažiuojant į kelią ar įvažiavimą arba išvažiuojant iš jo."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Kelio ženklinimas, eismo juostos ir lenkimas",
+"subcategory":"Lenkimas",
+"englishSubcategory":"Overtaking",
+"description":"Daugiajuosčiame kelyje lenkti kairėje pusėje leidžiama, kai eismas vyksta atskiromis pažymėtomis eismo juostomis ir tai daryti saugu."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Kelio ženklinimas, eismo juostos ir lenkimas",
+"subcategory":"Lenkimas",
+"englishSubcategory":"Overtaking",
+"description":"Vienpusiame kelyje galite aplenkti kairėje pusėje esančią transporto priemonę, jei priekyje važiuojanti transporto priemonė suka į dešinę ir tai daryti yra saugu."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Kelio ženklinimas, eismo juostos ir lenkimas",
+"subcategory":"Eismo juostos naudojimas",
+"englishSubcategory":"Lane Use",
+"description":"Prieš keisdami eismo juostas, įjunkite posūkio signalą ir įsitikinkite, kad tai daryti saugu. Taip užtikrinsite, kad kiti eismo dalyviai žinotų apie jūsų ketinimus ir išvengtumėte avarijų."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Kelio ženklinimas, eismo juostos ir lenkimas",
+"subcategory":"Kelio ženklinimas",
+"englishSubcategory":"Road Markings",
+"description":"Nudažyta eismo salelė arba ševrono žymėjimas rodo, kad ja negalima važiuoti, taip užtikrinant saugų eismą."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Kelio ženklinimas, eismo juostos ir lenkimas",
+"subcategory":"Lenkimas",
+"englishSubcategory":"Overtaking",
+"description":"Jei nesate tikri, ar saugu lenkti, saugiausias veiksmas yra nelenkti. Prieš lenkdami visada įvertinkite situaciją."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Kelio ženklinimas, eismo juostos ir lenkimas",
+"subcategory":"Eismo juostos naudojimas",
+"englishSubcategory":"Lane Use",
+"description":"Nutrūkusi centrinė linija reiškia, kad ją galite kirsti, jei tai padaryti saugu, kad galėtumėte lenkti arba persirikiuoti."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Kelio ženklinimas, eismo juostos ir lenkimas",
+"subcategory":"Eismo juostos naudojimas",
+"englishSubcategory":"Lane Use",
+"description":"Važiavimas per dvi eismo juostas leidžiamas tik tada, kai tai leidžia eismo juostų žymėjimas. Paprastai tai nėra saugu arba leidžiama daugeliu vairavimo sąlygų."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Kelio ženklinimas, eismo juostos ir lenkimas",
+"subcategory":"Lenkimas",
+"englishSubcategory":"Overtaking",
+"description":"Jei lenkiamas automobilis pradeda greitėti, saugiausia nutraukti lenkimą, jei tai saugu, ir grįžti atgal."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Kelio ženklinimas, eismo juostos ir lenkimas",
+"subcategory":"Kelio ženklinimas",
+"englishSubcategory":"Road Markings",
+"description":"Dviguba ištisinė ašinė linija reiškia, kad jokiomis aplinkybėmis negalima jos kirsti ar apžergti, taip užtikrinant eismo srautą ir saugumą."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Sustojimo, parkavimo ir kelio taisyklės",
+"subcategory":"Draudžiama sustoti ir parkuoti",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Draudimas sustoti reiškia, kad draudžiama sustoti visai, o draudimas statyti leidžia trumpam sustoti keleiviams paimti arba išlaipinti."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Sustojimo, parkavimo ir kelio taisyklės",
+"subcategory":"Draudžiama sustoti ir parkuoti",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Zonoje, kurioje draudžiama statyti automobilius, sustoti leidžiama tik tiek laiko, kad būtų galima paimti arba išlaipinti keleivius."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Sustojimo, parkavimo ir kelio taisyklės",
+"subcategory":"Parkavimas šalia sankryžų",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Parkavimas šalia sankryžos dažnai ribojamas, nes tai gali užstoti matomumą ir sukelti pavojų vairuotojams bei pėstiesiems."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Sustojimo, parkavimo ir kelio taisyklės",
+"subcategory":"Draudžiama sustoti ir parkuoti",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Draudžiama sustoti zonoje, kurioje draudžiama sustoti, net jei atsiliepiate į telefono skambutį arba jums reikia greitai sustoti."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Sustojimo, parkavimo ir kelio taisyklės",
+"subcategory":"Laisvieji keliai",
+"englishSubcategory":"Clearways",
+"description":"Saugioji kelio dalis reiškia, kad jos veikimo metu toje kelio pusėje negalima sustoti ar parkuoti."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Sustojimo, parkavimo ir kelio taisyklės",
+"subcategory":"Parkavimas šalia perėjų",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Sustoti šalia pėsčiųjų perėjos yra pavojinga, nes pėstieji gali būti paslėpti nuo artėjančių vairuotojų, o tai padidina avarijų riziką."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Sustojimo, parkavimo ir kelio taisyklės",
+"subcategory":"Sustojimas dėl saugumo",
+"englishSubcategory":"Stopping for Safety",
+"description":"Sustoti draudžiama zonoje galite tik esant eismo sąlygoms arba avarinei situacijai."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Sustojimo, parkavimo ir kelio taisyklės",
+"subcategory":"Parkavimas ant kalvų",
+"englishSubcategory":"Parking on Hills",
+"description":"Statydami automobilį įkalnėje, visada įjunkite rankinį stabdį ir pritvirtinkite automobilį, kad sumažintumėte riedėjimo riziką."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Sustojimo, parkavimo ir kelio taisyklės",
+"subcategory":"Parkavimas šalia sankryžų",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Nereikėtų statyti automobilio per arti kampo, nes tai gali užstoti vaizdą priešpriešiais atvažiuojantiems vairuotojams ir pėstiesiems, taip sukuriant pavojų."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Sustojimo, parkavimo ir kelio taisyklės",
+"subcategory":"Draudžiama sustoti ir parkuoti",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Draudimo statyti ženklas su nurodytu laiku reiškia, kad apribojimas galioja tik ženkle nurodytu laiku."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Pėstieji, dviratininkai ir pažeidžiami eismo dalyviai",
+"subcategory":"Pėstieji",
+"englishSubcategory":"Pedestrians",
+"description":"Sukdami vairuotojai privalo duoti kelią pėstiesiems, kertantiems kelią, kuriuo įvažiuoja. Tai taikoma net ir tuo atveju, jei pėsčiasis nėra tam skirtoje perėjoje."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Pėstieji, dviratininkai ir pažeidžiami eismo dalyviai",
+"subcategory":"Dviratininkai",
+"englishSubcategory":"Cyclists",
+"description":"Vairuotojai, lenkdami dviratininkus, privalo palikti papildomą atstumą, nes jiems gali prireikti vietos, kad išvengtų pavojų arba išlaikytų pusiausvyrą."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Pėstieji, dviratininkai ir pažeidžiami eismo dalyviai",
+"subcategory":"Pėstieji",
+"englishSubcategory":"Pedestrians",
+"description":"Netoli prekybos zonų ar viešojo transporto stotelių vairuotojai turėtų tikėtis padidėjusio pėsčiųjų aktyvumo ir staigių perėjų. Šiose vietose visada būkite budrūs."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Pėstieji, dviratininkai ir pažeidžiami eismo dalyviai",
+"subcategory":"Dviratininkai",
+"englishSubcategory":"Cyclists",
+"description":"Kai dviratininkas važiuoja pažymėta dviračių juosta, vairuotojai privalo vengti važiuoti ja, nebent tai leidžiama ir saugu."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Pėstieji, dviratininkai ir pažeidžiami eismo dalyviai",
+"subcategory":"Vaikai",
+"englishSubcategory":"Children",
+"description":"Vairuotojai privalo būti ypač atsargūs netoli mokyklų, nes vaikai gali elgtis nenuspėjamai ir neteisingai įvertinti eismo sąlygas. Mokyklų zonose sulėtinkite greitį."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Pėstieji, dviratininkai ir pažeidžiami eismo dalyviai",
+"subcategory":"Dviratininkai",
+"englishSubcategory":"Cyclists",
+"description":"Jei dviratininkas važiuoja siauros eismo juostos viduriu, vairuotojai turėtų palaukti, kol bus saugu jį aplenkti ir bus pakankamai vietos, o ne versti jį aplenkti."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Pėstieji, dviratininkai ir pažeidžiami eismo dalyviai",
+"subcategory":"Pėstieji",
+"englishSubcategory":"Pedestrians",
+"description":"Vaikų perėjoje vairuotojai privalo sustoti, kai iškeltos vėliavėlės ir yra pėsčiųjų, taip užtikrindami vaikų saugumą."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Pėstieji, dviratininkai ir pažeidžiami eismo dalyviai",
+"subcategory":"Dviratininkai",
+"englishSubcategory":"Cyclists",
+"description":"Vairuotojai visada turėtų patikrinti akląsias zonas prieš sukdami, nes dviratininkai gali važiuoti šalia nematomų asmenų, ypač miesto teritorijose."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Pėstieji, dviratininkai ir pažeidžiami eismo dalyviai",
+"subcategory":"Senyvo amžiaus ir neįgalūs asmenys",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Vyresnio amžiaus pėstiesiems gali prireikti daugiau laiko gatvei pereiti, nes jie gali eiti lėčiau arba turėti judėjimo problemų. Suteikite jiems erdvės ir laiko saugiai pereiti gatvę."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Pėstieji, dviratininkai ir pažeidžiami eismo dalyviai",
+"subcategory":"Dviratininkai",
+"englishSubcategory":"Cyclists",
+"description":"Dviratininkus gali būti sunkiau pastebėti artėjant prie sankryžų, be to, jie gali greitai judėti. Visada palikite dviratininkams erdvės ir laiko saugiai važiuoti."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Ypatingos situacijos ir kelio aplinka",
+"subcategory":"Mokyklos zonos",
+"englishSubcategory":"School Zones",
+"description":"Mokyklos zonos greičio apribojimai galioja tik ženkluose nurodytu laiku. Būtinai jų laikykitės, kad užtikrintumėte vaikų saugumą."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Ypatingos situacijos ir kelio aplinka",
+"subcategory":"Mokyklos zonos",
+"englishSubcategory":"School Zones",
+"description":"Vairuotojai privalo sulėtinti greitį mokyklų zonose, net jei nematyti vaikų, nes vaikai gali pasirodyti staiga ir nenuspėjamai."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Ypatingos situacijos ir kelio aplinka",
+"subcategory":"Kelio darbai",
+"englishSubcategory":"Roadworks",
+"description":"Artėjant prie kelio darbų, sulėtinkite greitį ir laikykitės visų laikinų ženklų, kad užtikrintumėte darbuotojų ir kitų eismo dalyvių saugumą."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Ypatingos situacijos ir kelio aplinka",
+"subcategory":"Kelio darbai",
+"englishSubcategory":"Roadworks",
+"description":"Kelio darbų zonose greičio apribojimai sumažinami siekiant užtikrinti darbuotojų saugumą ir prisitaikyti prie pasikeitusių kelio sąlygų."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Ypatingos situacijos ir kelio aplinka",
+"subcategory":"Kaimo keliai",
+"englishSubcategory":"Rural Roads",
+"description":"Kaimo keliuose laukiniai gyvūnai gali netikėtai patekti į kelią. Važiuodami per kaimo vietoves, visada būkite pasiruošę sustoti arba sulėtinti greitį."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Ypatingos situacijos ir kelio aplinka",
+"subcategory":"Kaimo keliai",
+"englishSubcategory":"Rural Roads",
+"description":"Neapdengti keliai dažnai pasižymi prastesniu sukibimu ir stabdymo gebėjimu. Vairuotojai turėtų sumažinti greitį važiuodami neapdengtais paviršiais."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Ypatingos situacijos ir kelio aplinka",
+"subcategory":"Greitkeliai",
+"englishSubcategory":"Freeways",
+"description":"Jei praleidote išvažiavimą iš greitkelio, tęskite važiavimą iki kito išvažiavimo ir saugiai apsisukite. Nebandykite sustoti ar važiuoti atbuline eiga greitkelyje."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Ypatingos situacijos ir kelio aplinka",
+"subcategory":"Greitkeliai",
+"englishSubcategory":"Freeways",
+"description":"Draudžiama sustoti greitkelyje, išskyrus avarinius atvejus. Gedimo atveju visada naudokitės kelkraščiu arba išvažiavimo rampa."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Ypatingos situacijos ir kelio aplinka",
+"subcategory":"Oro sąlygos",
+"englishSubcategory":"Weather Conditions",
+"description":"Stipriai lyjant, sumažinkite greitį ir padidinkite atstumą. Šlapi keliai gali sumažinti sukibimą ir pailginti stabdymo kelią."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Ypatingos situacijos ir kelio aplinka",
+"subcategory":"Oro sąlygos",
+"englishSubcategory":"Weather Conditions",
+"description":"Rūkas sumažina matomumą ir gylio suvokimą, todėl vairuoti ypač pavojinga. Esant rūkui, sulėtinkite greitį ir padidinkite atstumą."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Avarinių transporto priemonių ir policijos nurodymai",
+"subcategory":"Avarinės transporto priemonės užleidžia kelią",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Kai artėja avarinė transporto priemonė su įjungtais švyturėliais ir (arba) sirena, pasitraukite iš jos kelio ir leiskite jai saugiai pravažiuoti."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Avarinių transporto priemonių ir policijos nurodymai",
+"subcategory":"Avarinės transporto priemonės užleidžia kelią",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Jei esate prie šviesoforo ir iš paskos artėja avarinė transporto priemonė, saugiausias veiksmas yra pasitraukti į šalį, jei tai saugu ir leidžiama, kitu atveju nejudėkite ir, kai įmanoma, leiskite jai praeiti."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Avarinių transporto priemonių ir policijos nurodymai",
+"subcategory":"Policijos nurodymai",
+"englishSubcategory":"Police Directions",
+"description":"Jei policijos pareigūnas duoda kitokius nurodymus nei nurodyta ženkle, privalote vykdyti policijos pareigūno nurodymus."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Avarinių transporto priemonių ir policijos nurodymai",
+"subcategory":"Avarinės transporto priemonės užleidžia kelią",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Jei kelkraštyje sustoja avarinė transporto priemonė mirksinčiais švyturėliais, sulėtinkite greitį ir atsargiai pralenkite, jei saugu, pravažiuodami."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Avarinių transporto priemonių ir policijos nurodymai",
+"subcategory":"Policijos nurodymai",
+"englishSubcategory":"Police Directions",
+"description":"Jei policija laikinai užtveria kelią, vykdykite jos nurodymus ir nukrypimus nuo kelio."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Avarinių transporto priemonių ir policijos nurodymai",
+"subcategory":"Avarinės transporto priemonės užleidžia kelią",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Nereikėtų važiuoti arti greitosios pagalbos automobilio, kad greičiau pravažiuotumėte eismą."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Avarinių transporto priemonių ir policijos nurodymai",
+"subcategory":"Avarinės transporto priemonės užleidžia kelią",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Jei girdite sireną, bet dar nematote greitosios pagalbos automobilio, būkite budrūs, patikrinkite veidrodėlius ir pasiruoškite saugiai judėti."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Avarinių transporto priemonių ir policijos nurodymai",
+"subcategory":"Policijos nurodymai",
+"englishSubcategory":"Police Directions",
+"description":"Jei kelio darbų vietoje eismo reguliuotojas duoda nurodymus, privalote paklusti eismo reguliuotojui."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Avarinių transporto priemonių ir policijos nurodymai",
+"subcategory":"Policijos nurodymai",
+"englishSubcategory":"Police Directions",
+"description":"Jei policija nurodo jums sustoti patikrinti vairuotojo pažymėjimą, sustokite saugiai, kaip nurodyta."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Avarinių transporto priemonių ir policijos nurodymai",
+"subcategory":"Avarinės transporto priemonės užleidžia kelią",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Jei esate vienoje eismo juostoje ir iš paskos artėja avarinė transporto priemonė, įjunkite posūkio signalą ir, kai įmanoma, pasitraukite į kairę arba į saugią vietą."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Saugos diržai, vaikų apsaugos priemonės ir keleiviai",
+"subcategory":"Saugos diržai",
+"englishSubcategory":"Seatbelts",
+"description":"Vairuotojas yra atsakingas už tai, kad visi jaunesni nei 16 metų keleiviai būtų prisisegę saugos diržus."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Saugos diržai, vaikų apsaugos priemonės ir keleiviai",
+"subcategory":"Saugos diržai",
+"englishSubcategory":"Seatbelts",
+"description":"Jei transporto priemonė yra, saugos diržas turi būti segėtas visada, kai ji juda."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Saugos diržai, vaikų apsaugos priemonės ir keleiviai",
+"subcategory":"Vaikų apsaugos priemonės",
+"englishSubcategory":"Child Restraints",
+"description":"Vaiko apsaugos priemonė reikalinga, nes ji sukurta taip, kad geriau atitiktų vaiko kūno dydį ir formą bei apsaugotų jį geriau nei suaugusiųjų saugos diržas."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Saugos diržai, vaikų apsaugos priemonės ir keleiviai",
+"subcategory":"Keleiviai",
+"englishSubcategory":"Passengers",
+"description":"Keleiviams nesaugu dėti pėdas ant prietaisų skydelio, nes oro pagalvės ir smūgio jėgos gali sukelti sunkius sužalojimus."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Saugos diržai, vaikų apsaugos priemonės ir keleiviai",
+"subcategory":"Vaikų apsaugos priemonės",
+"englishSubcategory":"Child Restraints",
+"description":"Saugiausia bendroji vaiko apsaugos sistemos pasirinkimo taisyklė – naudoti tokią, kuri yra patvirtinta ir tinkama vaiko amžiui ir dydžiui."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Saugos diržai, vaikų apsaugos priemonės ir keleiviai",
+"subcategory":"Saugos diržai",
+"englishSubcategory":"Seatbelts",
+"description":"Dažnas požymis, kad saugos diržas netinkamai užsegtas, yra tada, kai diržas yra po ranka arba už nugaros."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Saugos diržai, vaikų apsaugos priemonės ir keleiviai",
+"subcategory":"Keleiviai",
+"englishSubcategory":"Passengers",
+"description":"Jei keleivis atitraukia vairuotojo dėmesį, saugiausias veiksmas yra paprašyti jo sustoti ir vėl sutelkti dėmesį į vairavimą."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Saugos diržai, vaikų apsaugos priemonės ir keleiviai",
+"subcategory":"Vaikų apsaugos priemonės",
+"englishSubcategory":"Child Restraints",
+"description":"Judančioje transporto priemonėje laikyti kūdikį ant kelių nesaugu, nes avarijos atveju negalėsite jo saugiai laikyti."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Saugos diržai, vaikų apsaugos priemonės ir keleiviai",
+"subcategory":"Saugos diržai",
+"englishSubcategory":"Seatbelts",
+"description":"Saugos diržą reikia segėti taip, kad jo juosmens dalis būtų žemai permesta per klubus, kad avarijos atveju sumažėtų pilvo srities sužalojimo rizika."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Saugos diržai, vaikų apsaugos priemonės ir keleiviai",
+"subcategory":"Keleiviai",
+"englishSubcategory":"Passengers",
+"description":"Pagrindinis pavojus, kylantis vežant nepritvirtintus daiktus salone, yra tas, kad avarijos ar staigaus stabdymo atveju jie gali tapti sviediniais."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Transporto priemonių saugos, gedimų ir priežiūros pagrindai",
+"subcategory":"Padangos",
+"englishSubcategory":"Tyres",
+"description":"Tinkamas padangų slėgis yra svarbus saugumui, nes jis turi įtakos sukibimui, stabdymui ir vairavimo valdymui."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Transporto priemonių saugos, gedimų ir priežiūros pagrindai",
+"subcategory":"Stabdžiai",
+"englishSubcategory":"Brakes",
+"description":"Jei stabdžių pedalas jaučiasi kietas arba įgrimzta giliau nei įprastai, traktuokite tai kaip rimtą gedimą ir nedelsdami patikrinkite stabdžius."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Transporto priemonių saugos, gedimų ir priežiūros pagrindai",
+"subcategory":"Šviesos ir matomumas",
+"englishSubcategory":"Lights & Visibility",
+"description":"Reguliariai tikrinkite visus automobilio žibintus, kad įsitikintumėte, jog matote jus ir esate matomas kitų."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Transporto priemonių saugos, gedimų ir priežiūros pagrindai",
+"subcategory":"Vairavimas ir pakaba",
+"englishSubcategory":"Steering & Suspension",
+"description":"Įspėjamasis vairavimo problemos ženklas gali būti neįprastas traukimas, vibracija arba sunkumai vairuojant."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Transporto priemonių saugos, gedimų ir priežiūros pagrindai",
+"subcategory":"Priekinis stiklas ir valytuvai",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Susidėvėję valytuvų šluotelės kelia saugumo problemą, nes jos sumažina matomumą lyjant."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Transporto priemonių saugos, gedimų ir priežiūros pagrindai",
+"subcategory":"Padangos",
+"englishSubcategory":"Tyres",
+"description":"Dažnas požymis, kad padangos gali būti nesaugios, yra susidėvėjęs arba netolygiai susidėvėjęs protektorius."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Transporto priemonių saugos, gedimų ir priežiūros pagrindai",
+"subcategory":"Veidrodžiai ir reguliavimas",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Prieš važiuojant reikia sureguliuoti veidrodėlius, kad sumažėtų aklosios zonos ir pagerėtų matomumas."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Transporto priemonių saugos, gedimų ir priežiūros pagrindai",
+"subcategory":"Stabdžiai",
+"englishSubcategory":"Brakes",
+"description":"Jei jūsų stabdžiai skleidžia girgždantį garsą, kuo greičiau juos patikrinkite."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Transporto priemonių saugos, gedimų ir priežiūros pagrindai",
+"subcategory":"Šviesos ir matomumas",
+"englishSubcategory":"Lights & Visibility",
+"description":"Kai matomumas susilpnėja, naudokite priekinius žibintus, kad kiti jus matytų."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Transporto priemonių saugos, gedimų ir priežiūros pagrindai",
+"subcategory":"Priekinis stiklas ir valytuvai",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Jei jūsų priekinis stiklas yra smarkiai įtrūkęs jums matant, prieš važiuodami toliau, jį sutaisykite arba pakeiskite."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Kroviniai, vilkimas ir sunkiasvorių transporto priemonių stebėjimas",
+"subcategory":"Kroviniai",
+"englishSubcategory":"Loads",
+"description":"Kroviniai turi būti tinkamai pritvirtinti, kad jie nepasislinktų ar nenukristų ir nesukeltų avarijų."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Kroviniai, vilkimas ir sunkiasvorių transporto priemonių stebėjimas",
+"subcategory":"Kroviniai",
+"englishSubcategory":"Loads",
+"description":"Nepritvirtintas krovinys transporto priemonės viduje staigaus stabdymo metu gali tapti sviediniu ir kelti didelę grėsmę saugumui."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Kroviniai, vilkimas ir sunkiasvorių transporto priemonių stebėjimas",
+"subcategory":"Kroviniai",
+"englishSubcategory":"Loads",
+"description":"Perkrautos transporto priemonės vairavimas pablogina stabdymą, padidindamas stabdymo kelią."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Kroviniai, vilkimas ir sunkiasvorių transporto priemonių stebėjimas",
+"subcategory":"Kroviniai",
+"englishSubcategory":"Loads",
+"description":"Saugiausias būdas gabenti ilgus daiktus – juos pritvirtinti taip, kad jie negalėtų pajudėti ar pavojingai išsikišti."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Kroviniai, vilkimas ir sunkiasvorių transporto priemonių stebėjimas",
+"subcategory":"Vilkimas",
+"englishSubcategory":"Towing",
+"description":"Priekabos vilkimas padidina stabdymo kelią, nes papildomas svoris sumažina stabdymo efektyvumą."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Kroviniai, vilkimas ir sunkiasvorių transporto priemonių stebėjimas",
+"subcategory":"Vilkimas",
+"englishSubcategory":"Towing",
+"description":"Prieš vilkdami priekabą, patikrinkite, ar sukabinimo įtaisas, žibintai ir saugos grandinė yra tvirtai pritvirtinti."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Kroviniai, vilkimas ir sunkiasvorių transporto priemonių stebėjimas",
+"subcategory":"Vilkimas",
+"englishSubcategory":"Towing",
+"description":"Vilkdami priekabą, palikite papildomos vietos posūkiuose, nes priekaba važiuoja posūkio trajektorijos viduje."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Kroviniai, vilkimas ir sunkiasvorių transporto priemonių stebėjimas",
+"subcategory":"Kroviniai",
+"englishSubcategory":"Loads",
+"description":"Krovinys, užstojantis galinį vaizdą, sumažina iš paskos važiuojančių automobilių matomumą, todėl padidėja avarijų rizika."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Kroviniai, vilkimas ir sunkiasvorių transporto priemonių stebėjimas",
+"subcategory":"Sunkiasvorės transporto priemonės",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Sunkiasvorėms transporto priemonėms reikia daugiau vietos sustoti, nes didesnė jų masė padidina stabdymo kelią."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Kroviniai, vilkimas ir sunkiasvorių transporto priemonių stebėjimas",
+"subcategory":"Sunkiasvorės transporto priemonės",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Sekdami didelį sunkvežimį, padidinkite atstumą, kad būtų atsižvelgta į akląsias zonas ir ilgesnį sunkvežimio stabdymo kelią."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Licencijavimas, L/P lėkščių taisyklės ir praktiniai DKT spąstai (VIC)",
+"subcategory":"Mokinio leidimo taisyklės",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Būdami Viktorijos valstijos vairuotojais mokinys, automobilį galite vairuoti tik prižiūrimi šalia sėdinčio vairuotojo, turinčio atitinkamą vairuotojo pažymėjimą."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Licencijavimas, L/P lėkščių taisyklės ir praktiniai DKT spąstai (VIC)",
+"subcategory":"Mokinio leidimo taisyklės",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Mokiniai vairuoti privalo aiškiai matyti savo L raidės ženklus, kad kiti transporto priemonėje esantys asmenys juos visada matytų."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Licencijavimas, L/P lėkščių taisyklės ir praktiniai DKT spąstai (VIC)",
+"subcategory":"Mokinio leidimo taisyklės",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Jei prižiūrintis vairuotojas užmiega jums vairuojant, saugiai sustokite ir nevažiuokite toliau, kol nebūsite tinkamai prižiūrimas."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Licencijavimas, L/P lėkščių taisyklės ir praktiniai DKT spąstai (VIC)",
+"subcategory":"Mobilieji telefonai ir įrenginiai",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Viktorijoje, mokantis vairuoti, vairuojant draudžiama naudotis mobiliuoju telefonu."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Licencijavimas, L/P lėkščių taisyklės ir praktiniai DKT spąstai (VIC)",
+"subcategory":"Mokinio leidimo taisyklės",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Jei vairuojant nukrito L tipo numerio ženklai, prieš tęsdami važiavimą saugiai sustokite ir vėl juos uždėkite."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Licencijavimas, L/P lėkščių taisyklės ir praktiniai DKT spąstai (VIC)",
+"subcategory":"Priežiūra",
+"englishSubcategory":"Supervision",
+"description":"Pagrindinis besimokančiojo priežiūros taisyklių saugumo tikslas – užtikrinti, kad patyręs vairuotojas galėtų vadovauti ir įsikišti prireikus."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Licencijavimas, L/P lėkščių taisyklės ir praktiniai DKT spąstai (VIC)",
+"subcategory":"Sąlygos ir atitiktis",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Jei mokinys vairuoti bus pagautas vairuojantis be reikiamos priežiūros, gali būti skirtos baudos ir galimos pasekmės dėl vairuotojo pažymėjimo praradimo."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Licencijavimas, L/P lėkščių taisyklės ir praktiniai DKT spąstai (VIC)",
+"subcategory":"Pavojaus suvokimas",
+"englishSubcategory":"Hazard Perception",
+"description":"Dažnas besimokančiųjų vairuotojų spąstas sankryžose – posūkis nepatikrinus, ar kelią, į kurį įvažiuojama, nekerta pėsčiųjų."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Licencijavimas, L/P lėkščių taisyklės ir praktiniai DKT spąstai (VIC)",
+"subcategory":"Pavojaus suvokimas",
+"englishSubcategory":"Hazard Perception",
+"description":"Net ir degant žaliam šviesoforo signalui, privalote sulėtinti greitį arba sustoti, jei eismas užblokuotas priekyje arba kerta gatvę pėstieji."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Licencijavimas, L/P lėkščių taisyklės ir praktiniai DKT spąstai (VIC)",
+"subcategory":"Mokinio leidimo taisyklės",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Jei prižiūrite mokinį, prižiūrintis vairuotojas visada turėtų sėdėti priekinėje keleivio sėdynėje."
+}
+]

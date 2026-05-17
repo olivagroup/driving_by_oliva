@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Normes i lleis de trànsit",
+"subcategory":"Normes generals de circulació",
+"englishSubcategory":"General Road Rules",
+"description":"Els conductors han de seguir les normes generals de circulació per garantir la seguretat i la fluïdesa del trànsit. Això inclou obeir els senyals de trànsit, els semàfors i les marques de carril. L'incompliment d'aquestes normes pot comportar accidents i sancions."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Normes i lleis de trànsit",
+"subcategory":"Cedir el pas",
+"englishSubcategory":"Giving Way",
+"description":"Els conductors han de cedir el pas a altres vehicles o vianants a les interseccions, rotondes i passos de vianants, entre altres llocs. No cedir el pas és una infracció."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Normes i lleis de trànsit",
+"subcategory":"Ús del carril",
+"englishSubcategory":"Lane Use",
+"description":"Els conductors han d'utilitzar els carrils adequats i seguir les marques de carril. Això inclou les normes per a canvis de carril, avançaments i ús de carrils per a bicicletes o autobusos. Les infraccions poden comportar multes o accidents."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Normes i lleis de trànsit",
+"subcategory":"Tramvies",
+"englishSubcategory":"Trams",
+"description":"Els conductors han de conèixer les normes del tramvia, com ara cedir el pas als vianants a les parades, aturar-se davant dels tramvies amb les portes obertes i no avançar els tramvies en determinades condicions."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Normes i lleis de trànsit",
+"subcategory":"Interseccions",
+"englishSubcategory":"Intersections",
+"description":"A les interseccions, els conductors han de seguir els procediments correctes per donar el pas i aturar-se en senyals d'aturada o semàfors. Comprendre aquestes normes és vital per prevenir accidents."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Normes i lleis de trànsit",
+"subcategory":"Girs en U",
+"englishSubcategory":"U-Turns",
+"description":"Els girs en U només es permeten a les interseccions o quan no hi ha cap senyal que els prohibeixi. Els conductors han d'assegurar-se que és segur abans de fer un gir en U."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Normes i lleis de trànsit",
+"subcategory":"Límits de velocitat",
+"englishSubcategory":"Speed Limits",
+"description":"Els conductors han de respectar els límits de velocitat indicats per garantir la seguretat a la carretera. L'excés de velocitat pot comportar multes, la pèrdua del carnet de conduir i un major risc d'accidents."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Normes i lleis de trànsit",
+"subcategory":"Seguretat dels vianants",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Els conductors han de cedir el pas als vianants als passos de vianants i garantir la seva seguretat quan siguin a prop de les zones de vianants. No aturar-se per deixar passar els vianants als passos de vianants és una infracció."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Normes i lleis de trànsit",
+"subcategory":"Passos a nivell de ferrocarril",
+"englishSubcategory":"Railway Crossings",
+"description":"Els conductors han d'aturar-se als passos a nivell quan els semàfors estiguin intermitents o les barreres de seguretat estiguin abaixades. Ignorar aquests senyals és una infracció greu i pot comportar multes i accidents."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Normes i lleis de trànsit",
+"subcategory":"Vehicles d'emergència",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Els conductors han de cedir el pas als vehicles d'emergència mitjançant els llums intermitents i les sirenes, assegurant-se que el vehicle tingui un pas lliure per circular pel trànsit."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Senyals i senyals de trànsit",
+"subcategory":"Senyals reglamentaris",
+"englishSubcategory":"Regulatory Signs",
+"description":"Els senyals reglamentaris proporcionen instruccions obligatòries per als conductors, com ara límits de velocitat, restriccions de gir i senyals de prohibit l'accés. La llei exigeix el compliment d'aquests senyals per mantenir la seguretat i l'ordre a les carreteres."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Senyals i senyals de trànsit",
+"subcategory":"Senyals d'advertència",
+"englishSubcategory":"Warning Signs",
+"description":"Els senyals d'advertència alerten els conductors de possibles perills, com ara revolts pronunciats, zones escolars i passos de fauna salvatge. Aquests senyals ajuden els conductors a ajustar la seva conducció per evitar accidents."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Senyals i senyals de trànsit",
+"subcategory":"Senyals de velocitat",
+"englishSubcategory":"Speed Signs",
+"description":"Els senyals de velocitat indiquen la velocitat màxima o mínima permesa en una carretera. Els conductors han de respectar aquests límits per garantir unes condicions de conducció segures i evitar multes."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Senyals i senyals de trànsit",
+"subcategory":"Semàfors",
+"englishSubcategory":"Traffic Lights",
+"description":"Els semàfors controlen el flux de vehicles i vianants a les interseccions. El vermell significa aturar-se, el verd significa continuar i el groc és un avís per preparar-se per aturar-se."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Senyals i senyals de trànsit",
+"subcategory":"Senyals per a vianants",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Els semàfors per a vianants indiquen quan és segur que els vianants creuin el carrer. Aquests semàfors solen coordinar-se amb els semàfors per garantir la seguretat dels vianants."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Senyals i senyals de trànsit",
+"subcategory":"Senyals de control de carril",
+"englishSubcategory":"Lane Control Signals",
+"description":"Els senyals de control de carril s'utilitzen per indicar si un carril està obert o tancat. Aquests senyals s'utilitzen normalment en carreteres de diversos carrils i en túnels."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Senyals i senyals de trànsit",
+"subcategory":"Senyals de prohibit aparcar",
+"englishSubcategory":"No Parking Signs",
+"description":"Els senyals de prohibit aparcar indiquen zones on està prohibit aturar-se o aparcar. Això normalment serveix per garantir que el trànsit flueixi sense problemes i que es mantingui la seguretat."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Senyals i senyals de trànsit",
+"subcategory":"Senyals de sentit únic",
+"englishSubcategory":"One-Way Signs",
+"description":"Els senyals de sentit únic indiquen que el trànsit ha de circular en una sola direcció. Ignorar aquests senyals pot provocar accidents i conseqüències legals."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Senyals i senyals de trànsit",
+"subcategory":"Senyals d'aturada",
+"englishSubcategory":"Stop Signs",
+"description":"Els senyals d'aturada obliguen els conductors a aturar-se completament i cedir el pas a qualsevol altre vehicle o vianant abans de continuar."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Senyals i senyals de trànsit",
+"subcategory":"Senyals de pas",
+"englishSubcategory":"Give Way Signs",
+"description":"Els senyals de pas indiquen als conductors que han de cedir el pas a altres usuaris de la carretera, ja siguin vianants o vehicles, depenent de la situació, per evitar accidents."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Normes de velocitat i distància",
+"subcategory":"Límits de velocitat",
+"englishSubcategory":"Speed Limits",
+"description":"El límit de velocitat per defecte en una zona urbanitzada a Victòria és de 50 km/h, tret que hi hagi senyalització contrària. Comproveu sempre els senyals per assegurar-vos que conduïu dins dels límits de velocitat legals."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Normes de velocitat i distància",
+"subcategory":"Límits de velocitat",
+"englishSubcategory":"Speed Limits",
+"description":"En una zona escolar senyalitzada durant l'horari especificat al senyal, el límit de velocitat es redueix a 40 km/h per garantir la seguretat dels nens que creuen la calçada."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Normes de velocitat i distància",
+"subcategory":"Distància de seguiment",
+"englishSubcategory":"Following Distance",
+"description":"La distància mínima de seguretat en condicions ideals és d'almenys dos segons darrere del vehicle que hi ha davant. Això permet prou temps per reaccionar si el vehicle que hi ha davant s'atura sobtadament."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Normes de velocitat i distància",
+"subcategory":"Límits de velocitat",
+"englishSubcategory":"Speed Limits",
+"description":"Quan passeu un tramvia aturat en una zona de seguretat, heu de reduir la velocitat a 10 km/h per garantir la seguretat dels passatgers que pugen o baixen del tramvia."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Normes de velocitat i distància",
+"subcategory":"Límits de velocitat",
+"englishSubcategory":"Speed Limits",
+"description":"En carreteres rurals sense senyals de velocitat, el límit de velocitat per defecte és de 100 km/h, tret que els senyals locals especifiquen el contrari. Ajusteu la velocitat a les condicions de la carretera per mantenir la seguretat."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Normes de velocitat i distància",
+"subcategory":"Distància de seguiment",
+"englishSubcategory":"Following Distance",
+"description":"En condicions de pluja, hauríeu d'augmentar la distància de seguiment a almenys quatre segons. Les carreteres mullades redueixen la tracció i requereixen més temps per frenar amb seguretat."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Normes de velocitat i distància",
+"subcategory":"Límits de velocitat",
+"englishSubcategory":"Speed Limits",
+"description":"Obeïu els senyals electrònics de límit de velocitat variable en tot moment quan estiguin en funcionament. Aquests senyals ajusten els límits de velocitat en funció de les condicions del trànsit, el temps o els incidents a la carretera."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Normes de velocitat i distància",
+"subcategory":"Distància de frenada",
+"englishSubcategory":"Stopping Distance",
+"description":"A mesura que augmenta la velocitat, també augmenta la distància de frenada necessària per aturar el vehicle amb seguretat. Assegureu-vos sempre de tenir una distància suficient per reaccionar davant els perills."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Normes de velocitat i distància",
+"subcategory":"Límits de velocitat",
+"englishSubcategory":"Speed Limits",
+"description":"A les zones compartides, el límit de velocitat és generalment de 10 km/h per garantir la seguretat dels vianants i els ciclistes en aquestes zones on interactuen vehicles i usuaris de la via no motoritzats."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Normes de velocitat i distància",
+"subcategory":"Distància de seguiment",
+"englishSubcategory":"Following Distance",
+"description":"Circular darrere d'un vehicle és perillós perquè redueix el temps de reacció i de frenada. Mantingueu sempre una distància de seguretat, sobretot quan conduïu darrere de vehicles més grans que us puguin obstruir la visió."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Responsabilitats del conductor",
+"subcategory":"Obligacions legals",
+"englishSubcategory":"Legal Obligations",
+"description":"Els conductors han de complir diverses obligacions legals, com ara proporcionar assistència després d'un accident, intercanviar informació després de xocs i informar dels incidents a les autoritats tal com exigeix la llei."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Responsabilitats del conductor",
+"subcategory":"Atenció i control",
+"englishSubcategory":"Attention & Control",
+"description":"Els conductors han de mantenir el control del seu vehicle en tot moment, evitant distraccions i mantenint la concentració per garantir la seva pròpia seguretat i la dels altres usuaris de la carretera."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Responsabilitats del conductor",
+"subcategory":"Obligacions legals",
+"englishSubcategory":"Legal Obligations",
+"description":"En cas d'accident que causi lesions, els conductors han d'aturar-se i proporcionar assistència sempre que sigui possible. No aturar-se i no ajudar en aquestes situacions és una infracció legal."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Responsabilitats del conductor",
+"subcategory":"Atenció i control",
+"englishSubcategory":"Attention & Control",
+"description":"És essencial que els conductors mantinguin el control total del seu vehicle en tot moment, garantint que responguin adequadament a les condicions canviants del trànsit i mantinguin un entorn de conducció segur."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Responsabilitats del conductor",
+"subcategory":"Obligacions legals",
+"englishSubcategory":"Legal Obligations",
+"description":"Els conductors han de denunciar un accident a la policia si algú ha resultat ferit o si hi ha danys materials i no es poden intercanviar les dades. No denunciar aquests incidents podria comportar sancions."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Responsabilitats del conductor",
+"subcategory":"Gestió de la fatiga",
+"englishSubcategory":"Fatigue Management",
+"description":"La fatiga és un risc greu mentre es condueix. Els conductors han de ser conscients dels primers signes de fatiga, com ara badallar i perdre la concentració, i prendre les mesures adequades per prevenir accidents."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Responsabilitats del conductor",
+"subcategory":"Obligacions legals",
+"englishSubcategory":"Legal Obligations",
+"description":"Els conductors han de presentar el seu permís de conduir quan els ho demani la policia. Negar-se a presentar-lo pot comportar sancions o altres conseqüències legals."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Responsabilitats del conductor",
+"subcategory":"Atenció i control",
+"englishSubcategory":"Attention & Control",
+"description":"Els conductors han d'evitar fer servir el clàxon innecessàriament, ja que pot espantar o distreure altres usuaris de la carretera. El clàxon només s'ha d'utilitzar per alertar els altres de la vostra presència en situacions on sigui necessari."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Responsabilitats del conductor",
+"subcategory":"Gestió de la fatiga",
+"englishSubcategory":"Fatigue Management",
+"description":"Si us sentiu massa cansats per continuar conduint, la resposta més segura és aturar-vos i descansar abans de continuar. Conduir amb fatiga augmenta significativament el risc d'accidents."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Responsabilitats del conductor",
+"subcategory":"Obligacions legals",
+"englishSubcategory":"Legal Obligations",
+"description":"Els conductors tenen la responsabilitat d'assegurar-se que els seus passatgers estiguin asseguts i subjectes de manera segura. Això inclou assegurar-se que els nens portin sistemes de retenció infantil adequats i que els adults portin cinturons de seguretat."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alcohol, drogues i salut",
+"subcategory":"Límits d'alcohol",
+"englishSubcategory":"Alcohol Limits",
+"description":"A Victòria, els conductors novells i els conductors en període de prova (P1 i P2) han de mantenir una concentració d'alcohol en sang (BAC) de 0,00 en tot moment. Els conductors amb carnet de conduir complet tenen un límit d'alcohol en sang de 0,05, però és més segur no beure gens mentre es condueix."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alcohol, drogues i salut",
+"subcategory":"Efectes de l'alcohol",
+"englishSubcategory":"Alcohol Effects",
+"description":"L'alcohol afecta el judici, el temps de reacció i la coordinació, cosa que pot augmentar significativament el risc d'accidents. Fins i tot petites quantitats d'alcohol poden reduir la capacitat de conduir amb seguretat."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alcohol, drogues i salut",
+"subcategory":"Conducció sota els efectes de les drogues",
+"englishSubcategory":"Drug Driving",
+"description":"Conduir sota els efectes de les drogues, inclosos els medicaments amb recepta, pot afectar la teva capacitat de conduir, fins i tot si no et sents afectat. És important ser conscient dels riscos i evitar conduir després del consum de drogues."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alcohol, drogues i salut",
+"subcategory":"Seguretat de la medicació",
+"englishSubcategory":"Medication Safety",
+"description":"Abans de començar a prendre un nou medicament amb recepta, comproveu si afecta la vostra capacitat per conduir i seguiu les recomanacions mèdiques. Alguns medicaments poden causar somnolència o afectar la concentració."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alcohol, drogues i salut",
+"subcategory":"Fatiga i salut",
+"englishSubcategory":"Fatigue & Health",
+"description":"La fatiga pot afectar la teva capacitat per conduir amb seguretat, igual que l'alcohol o les drogues. Assegura't de descansar prou abans de conduir i fes pauses durant els viatges llargs per reduir el risc d'accidents relacionats amb la fatiga."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Alcohol, drogues i salut",
+"subcategory":"Efectes de l'alcohol",
+"englishSubcategory":"Alcohol Effects",
+"description":"Després de beure, només el temps pot reduir la quantitat d'alcohol al cos. El cafè, les dutxes fredes o altres mètodes no acceleren aquest procés."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Alcohol, drogues i salut",
+"subcategory":"Límits d'alcohol",
+"englishSubcategory":"Alcohol Limits",
+"description":"A Victòria, tots els conductors novells i en període de prova han de mantenir una taxa d'alcoholèmia de 0,00. Per als conductors amb permís complet, el límit d'alcoholèmia és de 0,05. Tanmateix, evitar l'alcohol abans de conduir sempre és l'opció més segura."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Alcohol, drogues i salut",
+"subcategory":"Conducció sota els efectes de les drogues",
+"englishSubcategory":"Drug Driving",
+"description":"A Victòria, pots ser sancionat per conduir amb certes drogues al teu sistema, fins i tot si no et sents afectat. La conducció sota els efectes de les drogues afecta la teva capacitat per conduir amb seguretat i augmenta el risc d'accidents."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Alcohol, drogues i salut",
+"subcategory":"Seguretat de la medicació",
+"englishSubcategory":"Medication Safety",
+"description":"Abans de conduir, comproveu sempre si els medicaments nous poden afectar la vostra capacitat per conduir un vehicle. Alguns medicaments causen somnolència, dificulten els temps de reacció i disminueixen la concentració."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Alcohol, drogues i salut",
+"subcategory":"Fatiga i salut",
+"englishSubcategory":"Fatigue & Health",
+"description":"La fatiga pot tenir un efecte similar en la conducció que l'alcohol. Alenteix el temps de reacció, deteriora el judici i redueix la capacitat de prendre decisions, cosa que augmenta el risc d'accidents."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Pràctiques de conducció segura",
+"subcategory":"Percepció de perills",
+"englishSubcategory":"Hazard Perception",
+"description":"Quan s'acosta un perill potencial, la resposta més segura és reduir la velocitat i preparar-se per aturar-se si cal. Això dóna temps per avaluar la situació i reaccionar adequadament."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Pràctiques de conducció segura",
+"subcategory":"Percepció de perills",
+"englishSubcategory":"Hazard Perception",
+"description":"Escanejar amb molta antelació mentre es condueix és crucial per detectar possibles perills a temps. Això permet planificar la resposta i evitar reaccions sobtades."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Pràctiques de conducció segura",
+"subcategory":"Conducció defensiva",
+"englishSubcategory":"Defensive Driving",
+"description":"La conducció defensiva implica anticipar els possibles errors d'altres usuaris de la carretera i mantenir una distància de seguretat per evitar col·lisions."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Pràctiques de conducció segura",
+"subcategory":"Condicions de la carretera",
+"englishSubcategory":"Road Conditions",
+"description":"Si els pneumàtics perden adherència en una carretera mullada, afluixa l'accelerador i dirigeix el vehicle suaument. Les frenades brusques o els girs tancats poden empitjorar la situació i provocar la pèrdua de control."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Pràctiques de conducció segura",
+"subcategory":"Percepció de perills",
+"englishSubcategory":"Hazard Perception",
+"description":"Quan condueixes enmig del trànsit, la millor posició per vigilar els perills és molt endavant i als costats, no només concentrant-te en el cotxe que tens davant. Això t'ajuda a anticipar els riscos abans."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Pràctiques de conducció segura",
+"subcategory":"Conducció defensiva",
+"englishSubcategory":"Defensive Driving",
+"description":"Si un vehicle va serpentejant pel seu carril de davant, la resposta més segura és augmentar la distància de seguiment. Això et dóna més temps per reaccionar si la situació empitjora."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Pràctiques de conducció segura",
+"subcategory":"Condicions de la carretera",
+"englishSubcategory":"Road Conditions",
+"description":"La carretera sol estar més relliscosa durant els primers minuts després de la pluja. Aneu amb compte durant aquest temps, ja que els olis i les deixalles a la carretera poden fer-la més perillosa."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Pràctiques de conducció segura",
+"subcategory":"Conducció nocturna",
+"englishSubcategory":"Night Driving",
+"description":"Per controlar l'enlluernament dels fars dels vehicles que vénen de cara a la nit, mireu lleugerament cap a la vora esquerra del vostre carril i reduïu la velocitat si cal. Això ajuda a evitar l'exposició directa a les llums brillants."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Pràctiques de conducció segura",
+"subcategory":"Conducció defensiva",
+"englishSubcategory":"Defensive Driving",
+"description":"Si un conductor et segueix massa a prop, la mesura més segura és augmentar la distància de seguiment amb el vehicle que tens davant. Això et dóna tant a tu com al conductor que et segueix més marge per reaccionar."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Pràctiques de conducció segura",
+"subcategory":"Condicions de la carretera",
+"englishSubcategory":"Road Conditions",
+"description":"Quan conduïu amb boira, reduïu la velocitat i manteniu una distància addicional entre el vostre vehicle i els altres. La boira redueix considerablement la visibilitat i augmenta el risc d'accidents."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Interseccions, girs i rotondes",
+"subcategory":"Cedir el pas",
+"englishSubcategory":"Giving Way",
+"description":"En les interseccions sense senyals ni senyals, el vehicle que s'acosta per la dreta ha de cedir el pas al vehicle que ve per l'esquerra."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Interseccions, girs i rotondes",
+"subcategory":"Girs",
+"englishSubcategory":"Turns",
+"description":"Quan gireu a la dreta en un semàfor sense una fletxa de gir a la dreta, heu de cedir el pas al trànsit i als vianants que vénen de cara abans de continuar."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Interseccions, girs i rotondes",
+"subcategory":"Rotondes",
+"englishSubcategory":"Roundabouts",
+"description":"En una rotonda, els vehicles que ja hi són tenen prioritat. Els conductors que hi entren han de cedir-los el pas."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Interseccions, girs i rotondes",
+"subcategory":"Girs",
+"englishSubcategory":"Turns",
+"description":"En girar a l'esquerra, cal cedir el pas als vianants que creuen el carrer per on s'entra, garantint la seva seguretat."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Interseccions, girs i rotondes",
+"subcategory":"Cedir el pas",
+"englishSubcategory":"Giving Way",
+"description":"En una intersecció en T, el vehicle de la carretera final ha de cedir el pas als vehicles de la carretera següent."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Interseccions, girs i rotondes",
+"subcategory":"Girs",
+"englishSubcategory":"Turns",
+"description":"Quan feu un gir en U, heu de cedir el pas a tots els altres vehicles i vianants, garantint la seva seguretat mentre gireu."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Interseccions, girs i rotondes",
+"subcategory":"Rotondes",
+"englishSubcategory":"Roundabouts",
+"description":"En sortir d'una rotonda, feu el senyal a l'esquerra just abans de sortir per informar els altres usuaris de la carretera de les vostres intencions."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Interseccions, girs i rotondes",
+"subcategory":"Cedir el pas",
+"englishSubcategory":"Giving Way",
+"description":"En entrar a una carretera des d'un camí d'entrada, cal cedir el pas a tots els vehicles i vianants per evitar accidents."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Interseccions, girs i rotondes",
+"subcategory":"Girs",
+"englishSubcategory":"Turns",
+"description":"Abans de girar a la dreta, situeu el vehicle el més a prop possible del centre de la carretera, assegurant-vos de girar de manera segura i sense obstacles."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Interseccions, girs i rotondes",
+"subcategory":"Semàfors",
+"englishSubcategory":"Traffic Lights",
+"description":"Una fletxa verda indica que podeu continuar en la direcció de la fletxa sense cedir el pas a altres vehicles ni vianants."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Marques viàries, carrils i avançaments",
+"subcategory":"Ús del carril",
+"englishSubcategory":"Lane Use",
+"description":"Una línia central única i contínua generalment significa que no l'heu de creuar, excepte en entrar o sortir de la carretera o d'un camí d'entrada."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Marques viàries, carrils i avançaments",
+"subcategory":"Avançament",
+"englishSubcategory":"Overtaking",
+"description":"En carreteres de diversos carrils, es permet avançar per l'esquerra quan el trànsit circula per carrils separats i marcats i és segur fer-ho."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Marques viàries, carrils i avançaments",
+"subcategory":"Avançament",
+"englishSubcategory":"Overtaking",
+"description":"Podeu avançar un vehicle per l'esquerra en una carretera d'un sol carril quan el vehicle que teniu davant gira a la dreta i és segur fer-ho."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Marques viàries, carrils i avançaments",
+"subcategory":"Ús del carril",
+"englishSubcategory":"Lane Use",
+"description":"Abans de canviar de carril, feu senyals i assegureu-vos que és segur fer-ho. Això garanteix que els altres usuaris de la carretera coneguin les vostres intencions i evita accidents."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Marques viàries, carrils i avançaments",
+"subcategory":"Marques viàries",
+"englishSubcategory":"Road Markings",
+"description":"Una illa de trànsit pintada, o marcatge en forma de chevron, indica que no hi heu de conduir, garantint la circulació segura del trànsit."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Marques viàries, carrils i avançaments",
+"subcategory":"Avançament",
+"englishSubcategory":"Overtaking",
+"description":"Si no esteu segur de si és segur avançar, l'acció més segura és no avançar. Avalueu sempre la situació abans de fer el moviment."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Marques viàries, carrils i avançaments",
+"subcategory":"Ús del carril",
+"englishSubcategory":"Lane Use",
+"description":"Una línia central trencada significa que la podeu creuar si és segur fer-ho, cosa que permet avançar o canviar de carril."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Marques viàries, carrils i avançaments",
+"subcategory":"Ús del carril",
+"englishSubcategory":"Lane Use",
+"description":"Circular per dos carrils només és legal quan les marques del carril ho permeten. Normalment no és segur ni està permès en la majoria de condicions de conducció."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Marques viàries, carrils i avançaments",
+"subcategory":"Avançament",
+"englishSubcategory":"Overtaking",
+"description":"Si el vehicle que esteu avançant comença a accelerar, la resposta més segura és avortar l'avançament si és segur i retrocedir."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Marques viàries, carrils i avançaments",
+"subcategory":"Marques viàries",
+"englishSubcategory":"Road Markings",
+"description":"Una línia central doble i contínua significa que no l'heu de creuar ni a cavall sota cap circumstància, la qual cosa garanteix la fluïdesa del trànsit i la seguretat."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Normes de parada, aparcament i vorera de la carretera",
+"subcategory":"Prohibit aturar-se i aparcar",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Prohibit aturar-se significa que no us heu d'aturar en absolut, mentre que Prohibit aparcar permet aturar-se breument per recollir o deixar un vehicle."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Normes de parada, aparcament i vorera de la carretera",
+"subcategory":"Prohibit aturar-se i aparcar",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"En una zona de prohibit estacionar, només es permet aturar-se el temps suficient per pujar o baixar passatgers."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Normes de parada, aparcament i vorera de la carretera",
+"subcategory":"Aparcament a prop de les interseccions",
+"englishSubcategory":"Parking Near Intersections",
+"description":"L'aparcament a prop d'una intersecció sovint està restringit perquè pot bloquejar la visibilitat i crear perills per als conductors i els vianants."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Normes de parada, aparcament i vorera de la carretera",
+"subcategory":"Prohibit aturar-se i aparcar",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"No està permès aturar-se en una zona de prohibit aturar-se, fins i tot si esteu responent a una trucada telefònica o necessiteu fer una aturada ràpida."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Normes de parada, aparcament i vorera de la carretera",
+"subcategory":"Vies lliures",
+"englishSubcategory":"Clearways",
+"description":"Una via lliure significa que no us podeu aturar ni aparcar en aquell costat de la carretera durant el seu horari de funcionament."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Normes de parada, aparcament i vorera de la carretera",
+"subcategory":"Aparcament a prop de passos de vianants",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Aturar-se a prop d'un pas de vianants és perillós, ja que pot amagar els vianants dels conductors que s'acosten, augmentant el risc d'accidents."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Normes de parada, aparcament i vorera de la carretera",
+"subcategory":"Aturar-se per seguretat",
+"englishSubcategory":"Stopping for Safety",
+"description":"Només podeu aturar-vos en una zona de prohibit aturar-vos si ho requereixen les condicions del trànsit o en una situació d'emergència."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Normes de parada, aparcament i vorera de la carretera",
+"subcategory":"Aparcament als turons",
+"englishSubcategory":"Parking on Hills",
+"description":"Quan aparqueu en un pendent, poseu sempre el fre de mà i assegureu el vehicle per reduir el risc de bolcar."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Normes de parada, aparcament i vorera de la carretera",
+"subcategory":"Aparcament a prop de les interseccions",
+"englishSubcategory":"Parking Near Intersections",
+"description":"No heu d'aparcar massa a prop d'una cantonada, ja que pot bloquejar la vista del trànsit i dels vianants, i crear perills."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Normes de parada, aparcament i vorera de la carretera",
+"subcategory":"Prohibit aturar-se i aparcar",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Un senyal de prohibit aparcar amb els horaris indicats significa que la restricció només s'aplica durant els horaris que es mostren al senyal."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Vianants, ciclistes i usuaris vulnerables de la carretera",
+"subcategory":"Vianants",
+"englishSubcategory":"Pedestrians",
+"description":"En girar, els conductors han de cedir el pas als vianants que creuen la calçada a la qual s'introdueixen. Això s'aplica fins i tot si el vianant no es troba en un pas de vianants designat."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Vianants, ciclistes i usuaris vulnerables de la carretera",
+"subcategory":"Ciclistes",
+"englishSubcategory":"Cyclists",
+"description":"Els conductors han de deixar espai addicional en avançar ciclistes, ja que poden necessitar espai per evitar perills o mantenir l'equilibri."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Vianants, ciclistes i usuaris vulnerables de la carretera",
+"subcategory":"Vianants",
+"englishSubcategory":"Pedestrians",
+"description":"A prop de zones comercials o parades de transport públic, els conductors han de preveure un augment de l'activitat de vianants i encreuaments sobtats. Estigueu sempre alerta en aquestes zones."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Vianants, ciclistes i usuaris vulnerables de la carretera",
+"subcategory":"Ciclistes",
+"englishSubcategory":"Cyclists",
+"description":"Quan un ciclista circula per un carril bici senyalitzat, els conductors han d'evitar circular pel carril llevat que estigui permès i sigui segur fer-ho."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Vianants, ciclistes i usuaris vulnerables de la carretera",
+"subcategory":"Nens",
+"englishSubcategory":"Children",
+"description":"Els conductors han de tenir molta cura a prop de les escoles, ja que els nens poden actuar de manera imprevisible i calcular malament el trànsit. Reduïu la velocitat a les zones escolars."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Vianants, ciclistes i usuaris vulnerables de la carretera",
+"subcategory":"Ciclistes",
+"englishSubcategory":"Cyclists",
+"description":"Si un ciclista va pel centre d'un carril estret, els conductors han d'esperar fins que sigui segur avançar-lo amb prou espai, en lloc de forçar-lo."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Vianants, ciclistes i usuaris vulnerables de la carretera",
+"subcategory":"Vianants",
+"englishSubcategory":"Pedestrians",
+"description":"En un pas de vianants per a nens, els conductors s'han d'aturar quan hi hagi banderes i vianants presents, per garantir la seguretat dels nens."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Vianants, ciclistes i usuaris vulnerables de la carretera",
+"subcategory":"Ciclistes",
+"englishSubcategory":"Cyclists",
+"description":"Els conductors sempre han de comprovar els seus angles morts abans de girar, ja que els ciclistes poden circular al costat sense ser vistos, sobretot a les zones urbanes."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Vianants, ciclistes i usuaris vulnerables de la carretera",
+"subcategory":"Gent gran i discapacitat",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Els vianants de la tercera edat poden necessitar més temps per creuar, ja que poden caminar més lentament o tenir problemes de mobilitat. Doneu-los espai i temps per creuar amb seguretat."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Vianants, ciclistes i usuaris vulnerables de la carretera",
+"subcategory":"Ciclistes",
+"englishSubcategory":"Cyclists",
+"description":"Pot ser més difícil veure els ciclistes quan s'acosten a les interseccions i es poden moure ràpidament. Doneu sempre espai i temps als ciclistes per circular amb seguretat."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Situacions especials i entorns de carretera",
+"subcategory":"Zones escolars",
+"englishSubcategory":"School Zones",
+"description":"Els límits de velocitat a la zona escolar només s'apliquen durant els horaris que indiquen els senyals. Assegureu-vos de seguir-los per garantir la seguretat dels nens."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Situacions especials i entorns de carretera",
+"subcategory":"Zones escolars",
+"englishSubcategory":"School Zones",
+"description":"Els conductors han de reduir la velocitat a les zones escolars encara que no hi hagi nens visibles, ja que els nens poden aparèixer de sobte i de manera imprevisible."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Situacions especials i entorns de carretera",
+"subcategory":"Obres viàries",
+"englishSubcategory":"Roadworks",
+"description":"Quan s'acosti a obres, cal reduir la velocitat i seguir els senyals temporals per garantir la seguretat dels treballadors i altres usuaris de la carretera."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Situacions especials i entorns de carretera",
+"subcategory":"Obres viàries",
+"englishSubcategory":"Roadworks",
+"description":"Els límits de velocitat es redueixen a les zones d'obres per garantir la seguretat dels treballadors i per adaptar-se als canvis en les condicions de la carretera."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Situacions especials i entorns de carretera",
+"subcategory":"Carreteres rurals",
+"englishSubcategory":"Rural Roads",
+"description":"A les carreteres rurals, la fauna pot entrar a la calçada inesperadament. Estigueu sempre preparats per aturar-vos o reduir la velocitat quan conduïu per zones rurals."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Situacions especials i entorns de carretera",
+"subcategory":"Carreteres rurals",
+"englishSubcategory":"Rural Roads",
+"description":"Les carreteres no asfaltades sovint tenen una adherència i una capacitat de frenada reduïdes. Els conductors haurien de reduir la velocitat quan circulin per superfícies no asfaltades."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Situacions especials i entorns de carretera",
+"subcategory":"Autopistes",
+"englishSubcategory":"Freeways",
+"description":"Si perdeu la sortida de l'autopista, continueu fins a la següent sortida i gireu amb seguretat. No intenteu aturar-vos ni fer marxa enrere a l'autopista."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Situacions especials i entorns de carretera",
+"subcategory":"Autopistes",
+"englishSubcategory":"Freeways",
+"description":"És il·legal aturar-se en una autopista excepte en cas d'emergència. Utilitzeu sempre la vora o la rampa de sortida en cas d'avaria."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Situacions especials i entorns de carretera",
+"subcategory":"Condicions meteorològiques",
+"englishSubcategory":"Weather Conditions",
+"description":"En cas de pluja intensa, reduïu la velocitat i augmenteu la distància de seguiment. Les carreteres mullades poden reduir l'adherència i allargar les distàncies de frenada."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Situacions especials i entorns de carretera",
+"subcategory":"Condicions meteorològiques",
+"englishSubcategory":"Weather Conditions",
+"description":"La boira redueix la visibilitat i la percepció de la profunditat, cosa que fa que la conducció sigui especialment perillosa. Redueix la velocitat i augmenta la distància de seguiment en condicions de boira."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Vehicles d'emergència i indicacions policials",
+"subcategory":"Vehicle d'emergència que dóna pas",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Quan s'acosti un vehicle d'emergència amb llums i/o sirena, aparteu-vos del seu camí i permeteu-li passar amb seguretat."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Vehicles d'emergència i indicacions policials",
+"subcategory":"Vehicle d'emergència que dóna pas",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Si esteu en un semàfor i un vehicle d'emergència s'acosta per darrere, l'acció més segura és fer-vos a un costat si és segur i legal; en cas contrari, quedar-vos quiets i deixar-lo passar sempre que sigui possible."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Vehicles d'emergència i indicacions policials",
+"subcategory":"Indicacions policials",
+"englishSubcategory":"Police Directions",
+"description":"Si un agent de policia us dóna indicacions diferents de les d'un senyal, heu de seguir les instruccions de l'agent de policia."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Vehicles d'emergència i indicacions policials",
+"subcategory":"Vehicle d'emergència que dóna pas",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Si un vehicle d'emergència s'atura amb els llums intermitents a la carretera, reduïu la velocitat i avançau-lo amb precaució, acostant-vos-hi si és segur."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Vehicles d'emergència i indicacions policials",
+"subcategory":"Indicacions policials",
+"englishSubcategory":"Police Directions",
+"description":"Si la policia estableix un control de carretera temporal, seguiu les seves instruccions i qualsevol desviament."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Vehicles d'emergència i indicacions policials",
+"subcategory":"Vehicle d'emergència que dóna pas",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"No hauríeu de seguir de prop un vehicle d'emergència per passar més ràpid pel trànsit."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Vehicles d'emergència i indicacions policials",
+"subcategory":"Vehicle d'emergència que dóna pas",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Si sents una sirena però encara no pots veure el vehicle d'emergència, mantén-te alerta, mira els retrovisors i prepara't per moure't amb seguretat."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Vehicles d'emergència i indicacions policials",
+"subcategory":"Indicacions policials",
+"englishSubcategory":"Police Directions",
+"description":"Si un controlador de trànsit en obres viàries dóna indicacions, heu d'obeir-lo."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Vehicles d'emergència i indicacions policials",
+"subcategory":"Indicacions policials",
+"englishSubcategory":"Police Directions",
+"description":"Si la policia us ordena que us atureu per comprovar el carnet de conduir, atureu-vos amb seguretat tal com s'indica."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Vehicles d'emergència i indicacions policials",
+"subcategory":"Vehicle d'emergència que dóna pas",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Si aneu per un sol carril i un vehicle d'emergència s'acosta per darrere, feu el senyal i moveu-vos a l'esquerra o a una posició segura sempre que sigui possible."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Cinturons de seguretat, sistemes de retenció infantil i passatgers",
+"subcategory":"Cinturons de seguretat",
+"englishSubcategory":"Seatbelts",
+"description":"El conductor és responsable d'assegurar-se que tots els passatgers menors de 16 anys portin el cinturó de seguretat."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Cinturons de seguretat, sistemes de retenció infantil i passatgers",
+"subcategory":"Cinturons de seguretat",
+"englishSubcategory":"Seatbelts",
+"description":"Cal portar el cinturó de seguretat en tot moment quan el vehicle estigui en moviment, si n'hi ha."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Cinturons de seguretat, sistemes de retenció infantil i passatgers",
+"subcategory":"Retencions infantils",
+"englishSubcategory":"Child Restraints",
+"description":"Cal un sistema de retenció infantil perquè està dissenyat per adaptar-se i protegir la mida i la forma del cos del nen de manera més eficaç que un cinturó de seguretat per a adults."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Cinturons de seguretat, sistemes de retenció infantil i passatgers",
+"subcategory":"Passatgers",
+"englishSubcategory":"Passengers",
+"description":"No és segur que els passatgers posin els peus al tauler de control perquè els airbags i les forces de xoc poden causar lesions greus."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Cinturons de seguretat, sistemes de retenció infantil i passatgers",
+"subcategory":"Retencions infantils",
+"englishSubcategory":"Child Restraints",
+"description":"La regla general més segura per triar un sistema de retenció infantil és utilitzar-ne un que estigui aprovat i sigui adequat per a l'edat i la mida del nen."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Cinturons de seguretat, sistemes de retenció infantil i passatgers",
+"subcategory":"Cinturons de seguretat",
+"englishSubcategory":"Seatbelts",
+"description":"Un senyal comú que el cinturó de seguretat no es porta correctament és quan la corretja de la faixa es troba sota el braç o darrere l'esquena."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Cinturons de seguretat, sistemes de retenció infantil i passatgers",
+"subcategory":"Passatgers",
+"englishSubcategory":"Passengers",
+"description":"Si un passatger distreu el conductor, l'acció més segura és demanar-li que s'aturi i es torni a concentrar en la conducció."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Cinturons de seguretat, sistemes de retenció infantil i passatgers",
+"subcategory":"Retencions infantils",
+"englishSubcategory":"Child Restraints",
+"description":"No és segur portar un nadó a la falda en un vehicle en moviment, ja que no el pots subjectar amb seguretat en cas d'accident."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Cinturons de seguretat, sistemes de retenció infantil i passatgers",
+"subcategory":"Cinturons de seguretat",
+"englishSubcategory":"Seatbelts",
+"description":"El cinturó de seguretat s'ha de portar amb la part abdominal baixa, a l'alçada dels malucs, per reduir el risc de lesions a l'abdomen en un accident."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Cinturons de seguretat, sistemes de retenció infantil i passatgers",
+"subcategory":"Passatgers",
+"englishSubcategory":"Passengers",
+"description":"Un risc clau de portar objectes no lligats a la cabina és que es poden convertir en projectils en un xoc o una frenada sobtada."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Conceptes bàsics de seguretat, defectes i manteniment de vehicles",
+"subcategory":"Pneumàtics",
+"englishSubcategory":"Tyres",
+"description":"La pressió correcta dels pneumàtics és important per a la seguretat, ja que afecta l'adherència, la frenada i el control de la direcció."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Conceptes bàsics de seguretat, defectes i manteniment de vehicles",
+"subcategory":"Frens",
+"englishSubcategory":"Brakes",
+"description":"Si el pedal de fre és esponjós o s'enfonsa més del que és habitual, considereu-ho una avaria greu i feu revisar els frens immediatament."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Conceptes bàsics de seguretat, defectes i manteniment de vehicles",
+"subcategory":"Llums i visibilitat",
+"englishSubcategory":"Lights & Visibility",
+"description":"Revisa regularment tots els llums del vehicle per assegurar-te que pots veure i que els altres et vegin."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Conceptes bàsics de seguretat, defectes i manteniment de vehicles",
+"subcategory":"Direcció i suspensió",
+"englishSubcategory":"Steering & Suspension",
+"description":"Un senyal d'advertència d'un problema de direcció pot incloure un tir inusual, vibracions o dificultat per dirigir."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Conceptes bàsics de seguretat, defectes i manteniment de vehicles",
+"subcategory":"Parabrises i eixugaparabrises",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Les escombretes eixugaparabrises desgastades són un problema de seguretat perquè redueixen la visibilitat quan plou."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Conceptes bàsics de seguretat, defectes i manteniment de vehicles",
+"subcategory":"Pneumàtics",
+"englishSubcategory":"Tyres",
+"description":"Un senyal comú que els pneumàtics poden ser insegurs és si la banda de rodament està desgastada o de manera desigual."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Conceptes bàsics de seguretat, defectes i manteniment de vehicles",
+"subcategory":"Miralls i ajust",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Cal ajustar els retrovisors abans de conduir per reduir els angles cecs i millorar la consciència."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Conceptes bàsics de seguretat, defectes i manteniment de vehicles",
+"subcategory":"Frens",
+"englishSubcategory":"Brakes",
+"description":"Si els frens fan sorolls de fregament, feu-los revisar el més aviat possible."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Conceptes bàsics de seguretat, defectes i manteniment de vehicles",
+"subcategory":"Llums i visibilitat",
+"englishSubcategory":"Lights & Visibility",
+"description":"Feu servir els fars amb poca visibilitat sempre que la llum estigui reduïda perquè els altres us puguin veure."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Conceptes bàsics de seguretat, defectes i manteniment de vehicles",
+"subcategory":"Parabrises i eixugaparabrises",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Si el parabrisa està molt esquerdat a la teva línia de visió, repara'l o substitueix-lo abans de continuar conduint."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Càrregues, remolc i conscienciació sobre vehicles pesants",
+"subcategory":"Càrregues",
+"englishSubcategory":"Loads",
+"description":"Les càrregues han d'estar correctament subjectes per evitar que es moguin o caiguin i provoquin xocs."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Càrregues, remolc i conscienciació sobre vehicles pesants",
+"subcategory":"Càrregues",
+"englishSubcategory":"Loads",
+"description":"Una càrrega no lligada dins d'un vehicle es pot convertir en un projectil durant una frenada brusca, cosa que representa un risc important per a la seguretat."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Càrregues, remolc i conscienciació sobre vehicles pesants",
+"subcategory":"Càrregues",
+"englishSubcategory":"Loads",
+"description":"Transportar un vehicle sobrecarregat afecta la frenada augmentant la distància de frenada."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Càrregues, remolc i conscienciació sobre vehicles pesants",
+"subcategory":"Càrregues",
+"englishSubcategory":"Loads",
+"description":"La manera més segura de transportar objectes llargs és lligar-los perquè no es puguin moure ni sobresortir perillosament."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Càrregues, remolc i conscienciació sobre vehicles pesants",
+"subcategory":"Remolc",
+"englishSubcategory":"Towing",
+"description":"Remolcar un remolc augmenta la distància de frenada perquè el pes addicional redueix l'eficàcia de la frenada."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Càrregues, remolc i conscienciació sobre vehicles pesants",
+"subcategory":"Remolc",
+"englishSubcategory":"Towing",
+"description":"Abans de remolcar un remolc, comproveu que l'acoblament, els llums i la cadena de seguretat estiguin ben fixats."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Càrregues, remolc i conscienciació sobre vehicles pesants",
+"subcategory":"Remolc",
+"englishSubcategory":"Towing",
+"description":"Deixeu espai addicional en girar mentre remolqueu, ja que el remolc s'alinea dins de la trajectòria de gir."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Càrregues, remolc i conscienciació sobre vehicles pesants",
+"subcategory":"Càrregues",
+"englishSubcategory":"Loads",
+"description":"Una càrrega que bloqueja la visió posterior redueix la consciència del trànsit que hi ha darrere, augmentant el risc d'accidents."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Càrregues, remolc i conscienciació sobre vehicles pesants",
+"subcategory":"Vehicles pesants",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Els vehicles pesants necessiten més espai per aturar-se perquè la seva massa més gran augmenta la distància de frenada."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Càrregues, remolc i conscienciació sobre vehicles pesants",
+"subcategory":"Vehicles pesants",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Quan seguiu un camió gran, augmenteu la distància de seguiment per tenir en compte els punts cecs i una distància de frenada més llarga del camió."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Llicències, normes de matrícula L/P i trampes pràctiques DKT (VIC)",
+"subcategory":"Normes del permís d'aprenentatge",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Com a conductor principiant de l'estat de Victoria, només pots conduir un cotxe sota la supervisió d'un conductor amb llicència adequada assegut al teu costat."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Llicències, normes de matrícula L/P i trampes pràctiques DKT (VIC)",
+"subcategory":"Normes del permís d'aprenentatge",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Els conductors novells han de mostrar les seves plaques L clarament perquè siguin visibles per a la resta de persones que es trobin al vehicle en tot moment."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Llicències, normes de matrícula L/P i trampes pràctiques DKT (VIC)",
+"subcategory":"Normes del permís d'aprenentatge",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Si el conductor que el superviseu s'adorm mentre conduïu, atureu-vos amb seguretat i no continueu fins que no estigueu degudament supervisat."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Llicències, normes de matrícula L/P i trampes pràctiques DKT (VIC)",
+"subcategory":"Telèfons mòbils i dispositius",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Com a conductor principiant a Victòria, no tens permís per fer servir un telèfon mòbil de cap manera mentre condueixes."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Llicències, normes de matrícula L/P i trampes pràctiques DKT (VIC)",
+"subcategory":"Normes del permís d'aprenentatge",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Si les plaques L se us cauen mentre conduïu, atureu-vos amb seguretat i torneu-les a col·locar abans de continuar conduint."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Llicències, normes de matrícula L/P i trampes pràctiques DKT (VIC)",
+"subcategory":"Supervisió",
+"englishSubcategory":"Supervision",
+"description":"El principal objectiu de seguretat de les normes de supervisió d'aprenents és garantir que un conductor experimentat pugui guiar i intervenir si cal."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Llicències, normes de matrícula L/P i trampes pràctiques DKT (VIC)",
+"subcategory":"Condicions i compliment",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Si es descobreix que un conductor en pràctiques condueix sense la supervisió necessària, és probable que pateix sancions i possibles conseqüències per la llicència de conduir."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Llicències, normes de matrícula L/P i trampes pràctiques DKT (VIC)",
+"subcategory":"Percepció de perills",
+"englishSubcategory":"Hazard Perception",
+"description":"Un parany habitual a les interseccions per als conductors novells és girar sense comprovar si hi ha vianants que creuen el carrer a què s'entra."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Llicències, normes de matrícula L/P i trampes pràctiques DKT (VIC)",
+"subcategory":"Percepció de perills",
+"englishSubcategory":"Hazard Perception",
+"description":"Fins i tot si el semàfor està en verd, heu de reduir la velocitat o aturar-vos si el trànsit està tallat o si hi ha vianants que creuen."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Llicències, normes de matrícula L/P i trampes pràctiques DKT (VIC)",
+"subcategory":"Normes del permís d'aprenentatge",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Si superviseu un aprenent, el conductor supervisor sempre ha de seure al seient del passatger davanter."
+}
+]

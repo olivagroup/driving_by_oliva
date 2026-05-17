@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Straßenverkehrsregeln und Gesetze",
+"subcategory":"Allgemeine Straßenverkehrsregeln",
+"englishSubcategory":"General Road Rules",
+"description":"Fahrer müssen die allgemeinen Verkehrsregeln befolgen, um die Sicherheit und einen reibungslosen Verkehrsfluss zu gewährleisten. Dazu gehört das Beachten von Verkehrszeichen, Ampeln und Fahrbahnmarkierungen. Verstöße gegen diese Regeln können zu Unfällen und Bußgeldern führen."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Straßenverkehrsregeln und Gesetze",
+"subcategory":"Nachgeben",
+"englishSubcategory":"Giving Way",
+"description":"An Kreuzungen, Kreisverkehren, Fußgängerüberwegen und anderen Stellen müssen Fahrzeugführer anderen Fahrzeugen und Fußgängern Vorfahrt gewähren. Die Nichtbeachtung dieser Vorfahrtspflicht ist eine Ordnungswidrigkeit."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Straßenverkehrsregeln und Gesetze",
+"subcategory":"Fahrspurbenutzung",
+"englishSubcategory":"Lane Use",
+"description":"Fahrer müssen die vorgesehenen Fahrspuren benutzen und die Fahrbahnmarkierungen beachten. Dies umfasst die Regeln für Spurwechsel, Überholvorgänge und die Nutzung von Rad- und Busspuren. Verstöße können zu Bußgeldern oder Unfällen führen."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Straßenverkehrsregeln und Gesetze",
+"subcategory":"Straßenbahnen",
+"englishSubcategory":"Trams",
+"description":"Fahrer müssen die Straßenbahnregeln kennen, einschließlich der Vorfahrtsregeln für Fußgänger an Straßenbahnhaltestellen, des Anhaltens bei Straßenbahnen mit offenen Türen und des Verbots, Straßenbahnen unter bestimmten Bedingungen zu überholen."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Straßenverkehrsregeln und Gesetze",
+"subcategory":"Kreuzungen",
+"englishSubcategory":"Intersections",
+"description":"An Kreuzungen müssen Autofahrer die korrekten Vorfahrtsregeln und die Vorschriften zum Anhalten an Stoppschildern oder Ampeln beachten. Das Verständnis dieser Regeln ist entscheidend für die Vermeidung von Unfällen."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Straßenverkehrsregeln und Gesetze",
+"subcategory":"U-Turns",
+"englishSubcategory":"U-Turns",
+"description":"Wenden ist nur an Kreuzungen oder wenn kein Verbotsschild vorhanden ist, erlaubt. Fahrer müssen sich vor dem Wenden vergewissern, dass dies gefahrlos möglich ist."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Straßenverkehrsregeln und Gesetze",
+"subcategory":"Geschwindigkeitsbegrenzungen",
+"englishSubcategory":"Speed Limits",
+"description":"Fahrer müssen die Geschwindigkeitsbegrenzungen einhalten, um die Sicherheit im Straßenverkehr zu gewährleisten. Geschwindigkeitsübertretungen können zu Bußgeldern, Führerscheinentzug und einem erhöhten Unfallrisiko führen."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Straßenverkehrsregeln und Gesetze",
+"subcategory":"Fußgängersicherheit",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Autofahrer müssen Fußgängern an Zebrastreifen Vorfahrt gewähren und deren Sicherheit in der Nähe von Fußgängerzonen gewährleisten. Das Nichtanhalten für Fußgänger an Zebrastreifen ist eine Ordnungswidrigkeit."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Straßenverkehrsregeln und Gesetze",
+"subcategory":"Bahnübergänge",
+"englishSubcategory":"Railway Crossings",
+"description":"Fahrzeugführer müssen an Bahnübergängen anhalten, wenn die Warnblinkanlage blinkt oder die Schranken geschlossen sind. Das Ignorieren dieser Signale ist eine schwere Ordnungswidrigkeit und kann zu Bußgeldern und Unfällen führen."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Straßenverkehrsregeln und Gesetze",
+"subcategory":"Einsatzfahrzeuge",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Autofahrer müssen Einsatzfahrzeugen mit eingeschaltetem Blaulicht und Sirene Vorfahrt gewähren und sicherstellen, dass das Fahrzeug ungehindert durch den Verkehr fahren kann."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Verkehrszeichen und -signale",
+"subcategory":"Regulierungszeichen",
+"englishSubcategory":"Regulatory Signs",
+"description":"Verkehrszeichen geben Fahrern verbindliche Anweisungen, wie z. B. Geschwindigkeitsbegrenzungen, Abbiegeverbote und Einfahrtsverbote. Die Beachtung dieser Schilder ist gesetzlich vorgeschrieben, um die Sicherheit und Ordnung im Straßenverkehr zu gewährleisten."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Verkehrszeichen und -signale",
+"subcategory":"Warnzeichen",
+"englishSubcategory":"Warning Signs",
+"description":"Warnschilder weisen Autofahrer auf potenzielle Gefahren hin, wie z. B. scharfe Kurven, Schulzonen und Wildwechsel. Diese Schilder helfen Autofahrern, ihre Fahrweise anzupassen, um Unfälle zu vermeiden."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Verkehrszeichen und -signale",
+"subcategory":"Geschwindigkeitsschilder",
+"englishSubcategory":"Speed Signs",
+"description":"Geschwindigkeitsschilder geben die maximal oder minimal zulässige Geschwindigkeit auf einer Straße an. Fahrer müssen diese Geschwindigkeitsbegrenzungen einhalten, um sicheres Fahren zu gewährleisten und Bußgelder zu vermeiden."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Verkehrszeichen und -signale",
+"subcategory":"Ampel",
+"englishSubcategory":"Traffic Lights",
+"description":"Ampeln regeln den Verkehrsfluss von Fahrzeugen und Fußgängern an Kreuzungen. Rot bedeutet Stopp, Grün bedeutet Fahren und Gelb bedeutet Warnung zum Anhalten."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Verkehrszeichen und -signale",
+"subcategory":"Fußgängersignale",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Fußgängersignale zeigen an, wann Fußgänger die Straße sicher überqueren können. Diese Signale sind in der Regel mit Ampeln abgestimmt, um die Sicherheit der Fußgänger zu gewährleisten."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Verkehrszeichen und -signale",
+"subcategory":"Fahrspursteuerungssignale",
+"englishSubcategory":"Lane Control Signals",
+"description":"Fahrstreifensteuerungssignale zeigen an, ob ein Fahrstreifen geöffnet oder gesperrt ist. Diese Signale werden typischerweise auf mehrspurigen Straßen und in Tunneln eingesetzt."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Verkehrszeichen und -signale",
+"subcategory":"Parkverbotsschilder",
+"englishSubcategory":"No Parking Signs",
+"description":"Parkverbotsschilder weisen auf Bereiche hin, in denen das Halten und Parken untersagt ist. Dies dient in der Regel dazu, einen reibungslosen Verkehrsfluss und die Sicherheit zu gewährleisten."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Verkehrszeichen und -signale",
+"subcategory":"Einbahnstraßenschilder",
+"englishSubcategory":"One-Way Signs",
+"description":"Einbahnstraßenschilder weisen darauf hin, dass der Verkehr nur in eine Richtung fließen darf. Das Missachten dieser Schilder kann zu Unfällen und rechtlichen Konsequenzen führen."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Verkehrszeichen und -signale",
+"subcategory":"Stoppschilder",
+"englishSubcategory":"Stop Signs",
+"description":"Stoppschilder verpflichten Autofahrer, vollständig anzuhalten und anderen Fahrzeugen oder Fußgängern Vorfahrt zu gewähren, bevor sie weiterfahren."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Verkehrszeichen und -signale",
+"subcategory":"Vorfahrt gewähren Schilder",
+"englishSubcategory":"Give Way Signs",
+"description":"Vorfahrtsschilder weisen Autofahrer an, anderen Verkehrsteilnehmern, also Fußgängern oder Fahrzeugen, je nach Situation Vorfahrt zu gewähren, um Unfälle zu vermeiden."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Geschwindigkeits- und Abstandsregeln",
+"subcategory":"Geschwindigkeitsbegrenzungen",
+"englishSubcategory":"Speed Limits",
+"description":"In geschlossenen Ortschaften in Victoria gilt grundsätzlich eine Höchstgeschwindigkeit von 50 km/h, sofern nicht anders ausgeschildert. Achten Sie stets auf die Beschilderung, um sicherzustellen, dass Sie die zulässige Höchstgeschwindigkeit einhalten."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Geschwindigkeits- und Abstandsregeln",
+"subcategory":"Geschwindigkeitsbegrenzungen",
+"englishSubcategory":"Speed Limits",
+"description":"In einer ausgeschilderten Schulzone wird während der auf dem Schild angegebenen Zeiten die Höchstgeschwindigkeit auf 40 km/h reduziert, um die Sicherheit der Kinder beim Überqueren der Straße zu gewährleisten."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Geschwindigkeits- und Abstandsregeln",
+"subcategory":"Abstand",
+"englishSubcategory":"Following Distance",
+"description":"Der Mindestsicherheitsabstand zum vorausfahrenden Fahrzeug beträgt unter idealen Bedingungen mindestens zwei Sekunden. Dies ermöglicht ausreichend Zeit zum Reagieren, falls das vorausfahrende Fahrzeug plötzlich bremst."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Geschwindigkeits- und Abstandsregeln",
+"subcategory":"Geschwindigkeitsbegrenzungen",
+"englishSubcategory":"Speed Limits",
+"description":"Beim Vorbeifahren an einer haltenden Straßenbahn in einer Sicherheitszone müssen Sie Ihre Geschwindigkeit auf 10 km/h reduzieren, um die Sicherheit der ein- und aussteigenden Fahrgäste zu gewährleisten."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Geschwindigkeits- und Abstandsregeln",
+"subcategory":"Geschwindigkeitsbegrenzungen",
+"englishSubcategory":"Speed Limits",
+"description":"Auf Landstraßen ohne Geschwindigkeitsbegrenzungsschilder gilt grundsätzlich eine Höchstgeschwindigkeit von 100 km/h, sofern durch örtliche Schilder nichts anderes angegeben ist. Passen Sie Ihre Geschwindigkeit den Straßenverhältnissen an, um die Sicherheit zu gewährleisten."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Geschwindigkeits- und Abstandsregeln",
+"subcategory":"Abstand",
+"englishSubcategory":"Following Distance",
+"description":"Bei Nässe sollten Sie Ihren Sicherheitsabstand auf mindestens vier Sekunden vergrößern. Nasse Straßen verringern die Bodenhaftung und verlängern den Bremsweg."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Geschwindigkeits- und Abstandsregeln",
+"subcategory":"Geschwindigkeitsbegrenzungen",
+"englishSubcategory":"Speed Limits",
+"description":"Beachten Sie stets die elektronischen Geschwindigkeitsbegrenzungsschilder, solange diese in Betrieb sind. Diese Schilder passen die Geschwindigkeitsbegrenzungen je nach Verkehrslage, Wetterbedingungen oder Ereignissen auf der Straße an."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Geschwindigkeits- und Abstandsregeln",
+"subcategory":"Bremsweg",
+"englishSubcategory":"Stopping Distance",
+"description":"Mit zunehmender Geschwindigkeit verlängert sich auch der Bremsweg, der für ein sicheres Anhalten Ihres Fahrzeugs erforderlich ist. Achten Sie stets darauf, genügend Abstand zu haben, um auf Gefahren reagieren zu können."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Geschwindigkeits- und Abstandsregeln",
+"subcategory":"Geschwindigkeitsbegrenzungen",
+"englishSubcategory":"Speed Limits",
+"description":"In gemeinsam genutzten Bereichen beträgt die zulässige Höchstgeschwindigkeit in der Regel 10 km/h, um die Sicherheit von Fußgängern und Radfahrern in diesen Bereichen zu gewährleisten, in denen Fahrzeuge und nichtmotorisierte Verkehrsteilnehmer aufeinandertreffen."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Geschwindigkeits- und Abstandsregeln",
+"subcategory":"Abstand",
+"englishSubcategory":"Following Distance",
+"description":"Zu dichtes Auffahren ist gefährlich, weil es die Reaktions- und Bremszeit verringert. Halten Sie stets einen sicheren Abstand ein, insbesondere hinter größeren Fahrzeugen, die Ihre Sicht behindern könnten."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Fahrerverantwortung",
+"subcategory":"Rechtliche Verpflichtungen",
+"englishSubcategory":"Legal Obligations",
+"description":"Fahrer müssen verschiedene gesetzliche Verpflichtungen erfüllen, wie zum Beispiel die Hilfeleistung nach einem Unfall, den Austausch von Daten nach Unfällen und die Meldung von Vorfällen an die Behörden, wie es das Gesetz vorschreibt."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Fahrerverantwortung",
+"subcategory":"Aufmerksamkeit und Kontrolle",
+"englishSubcategory":"Attention & Control",
+"description":"Fahrer müssen jederzeit die Kontrolle über ihr Fahrzeug behalten, Ablenkungen vermeiden und konzentriert bleiben, um ihre eigene Sicherheit und die Sicherheit anderer Verkehrsteilnehmer zu gewährleisten."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Fahrerverantwortung",
+"subcategory":"Rechtliche Verpflichtungen",
+"englishSubcategory":"Legal Obligations",
+"description":"Bei einem Unfall mit Verletzten müssen Fahrer anhalten und, soweit möglich, Hilfe leisten. Wer in einer solchen Situation nicht anhält und Hilfe leistet, begeht eine Ordnungswidrigkeit."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Fahrerverantwortung",
+"subcategory":"Aufmerksamkeit und Kontrolle",
+"englishSubcategory":"Attention & Control",
+"description":"Es ist unerlässlich, dass die Fahrer jederzeit die volle Kontrolle über ihr Fahrzeug behalten, angemessen auf sich ändernde Verkehrsbedingungen reagieren und ein sicheres Fahrumfeld aufrechterhalten."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Fahrerverantwortung",
+"subcategory":"Rechtliche Verpflichtungen",
+"englishSubcategory":"Legal Obligations",
+"description":"Fahrer müssen einen Unfall der Polizei melden, wenn jemand verletzt wurde oder Sachschaden entstanden ist und die Angaben nicht ausgetauscht werden können. Die Nichtmeldung solcher Vorfälle kann zu Strafen führen."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Fahrerverantwortung",
+"subcategory":"Ermüdungsmanagement",
+"englishSubcategory":"Fatigue Management",
+"description":"Müdigkeit stellt beim Autofahren ein ernstzunehmendes Risiko dar. Autofahrer sollten die frühen Anzeichen von Müdigkeit, wie Gähnen und Konzentrationsschwäche, kennen und geeignete Maßnahmen ergreifen, um Unfälle zu vermeiden."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Fahrerverantwortung",
+"subcategory":"Rechtliche Verpflichtungen",
+"englishSubcategory":"Legal Obligations",
+"description":"Fahrer müssen ihren Führerschein auf Verlangen der Polizei vorzeigen. Die Verweigerung der Vorlage kann zu Strafen oder weiteren rechtlichen Konsequenzen führen."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Fahrerverantwortung",
+"subcategory":"Aufmerksamkeit und Kontrolle",
+"englishSubcategory":"Attention & Control",
+"description":"Autofahrer sollten die Hupe nur in Ausnahmefällen benutzen, da sie andere Verkehrsteilnehmer erschrecken oder ablenken kann. Die Hupe sollte nur dann verwendet werden, um andere auf die eigene Anwesenheit aufmerksam zu machen, wenn dies unbedingt erforderlich ist."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Fahrerverantwortung",
+"subcategory":"Ermüdungsmanagement",
+"englishSubcategory":"Fatigue Management",
+"description":"Wenn Sie sich zu müde zum Weiterfahren fühlen, ist es am sichersten, anzuhalten und sich auszuruhen, bevor Sie die Fahrt fortsetzen. Fahren in übermüdetem Zustand erhöht das Unfallrisiko erheblich."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Fahrerverantwortung",
+"subcategory":"Rechtliche Verpflichtungen",
+"englishSubcategory":"Legal Obligations",
+"description":"Fahrer sind dafür verantwortlich, dass ihre Fahrgäste sicher sitzen und angeschnallt sind. Dazu gehört, dass Kinder in geeigneten Kindersitzen gesichert und Erwachsene angeschnallt werden."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkohol, Drogen & Gesundheit",
+"subcategory":"Alkoholgrenzwerte",
+"englishSubcategory":"Alcohol Limits",
+"description":"In Victoria müssen Fahrschüler und Fahranfänger (P1 und P2) jederzeit eine Blutalkoholkonzentration (BAK) von 0,00 Promille einhalten. Für Fahrer mit vollwertigem Führerschein gilt eine BAK-Grenze von 0,05 Promille, aber es ist am sichersten, beim Fahren überhaupt keinen Alkohol zu trinken."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkohol, Drogen & Gesundheit",
+"subcategory":"Auswirkungen von Alkohol",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkohol beeinträchtigt Urteilsvermögen, Reaktionszeit und Koordination, wodurch das Unfallrisiko deutlich steigt. Schon geringe Mengen Alkohol können die Fahrtüchtigkeit erheblich mindern."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkohol, Drogen & Gesundheit",
+"subcategory":"Fahren unter Drogeneinfluss",
+"englishSubcategory":"Drug Driving",
+"description":"Das Fahren unter Drogeneinfluss, auch unter dem Einfluss von verschreibungspflichtigen Medikamenten, kann Ihre Fahrtüchtigkeit beeinträchtigen, selbst wenn Sie sich nicht beeinträchtigt fühlen. Es ist wichtig, sich der Risiken bewusst zu sein und nach Drogenkonsum nicht Auto zu fahren."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkohol, Drogen & Gesundheit",
+"subcategory":"Arzneimittelsicherheit",
+"englishSubcategory":"Medication Safety",
+"description":"Bevor Sie mit der Einnahme eines neuen verschreibungspflichtigen Medikaments beginnen, prüfen Sie, ob es Ihre Fahrtüchtigkeit beeinträchtigt, und befolgen Sie die ärztlichen Anweisungen. Einige Medikamente können Schläfrigkeit verursachen oder die Konzentrationsfähigkeit beeinträchtigen."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkohol, Drogen & Gesundheit",
+"subcategory":"Müdigkeit und Gesundheit",
+"englishSubcategory":"Fatigue & Health",
+"description":"Müdigkeit kann Ihre Fahrtüchtigkeit genauso beeinträchtigen wie Alkohol oder Drogen. Sorgen Sie für ausreichend Ruhe vor Fahrtantritt und legen Sie bei längeren Fahrten Pausen ein, um das Risiko von Unfällen durch Müdigkeit zu verringern."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Alkohol, Drogen & Gesundheit",
+"subcategory":"Auswirkungen von Alkohol",
+"englishSubcategory":"Alcohol Effects",
+"description":"Nach dem Alkoholkonsum kann nur die Zeit den Alkoholgehalt im Körper reduzieren. Kaffee, kalte Duschen oder andere Methoden beschleunigen diesen Prozess nicht."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Alkohol, Drogen & Gesundheit",
+"subcategory":"Alkoholgrenzwerte",
+"englishSubcategory":"Alcohol Limits",
+"description":"In Victoria gilt für alle Fahrschüler und Fahranfänger auf Probe eine Blutalkoholkonzentration von 0,00 Promille. Für Fahrer mit vollwertigem Führerschein liegt die Grenze bei 0,05 Promille. Am sichersten ist es jedoch immer, vor dem Fahren auf Alkohol zu verzichten."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Alkohol, Drogen & Gesundheit",
+"subcategory":"Fahren unter Drogeneinfluss",
+"englishSubcategory":"Drug Driving",
+"description":"In Victoria kann das Fahren unter dem Einfluss bestimmter Drogen bestraft werden, selbst wenn man sich nicht beeinträchtigt fühlt. Drogenkonsum beeinträchtigt die Fahrtüchtigkeit und erhöht das Unfallrisiko."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Alkohol, Drogen & Gesundheit",
+"subcategory":"Arzneimittelsicherheit",
+"englishSubcategory":"Medication Safety",
+"description":"Prüfen Sie vor Fahrtantritt immer, ob neue Medikamente Ihre Fahrtüchtigkeit beeinträchtigen könnten. Manche Medikamente verursachen Schläfrigkeit, verlangsamen das Reaktionsvermögen und verringern die Konzentration."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Alkohol, Drogen & Gesundheit",
+"subcategory":"Müdigkeit und Gesundheit",
+"englishSubcategory":"Fatigue & Health",
+"description":"Müdigkeit kann ähnliche Auswirkungen auf das Autofahren haben wie Alkohol. Sie verlangsamt die Reaktionszeit, beeinträchtigt das Urteilsvermögen und verringert die Fähigkeit, Entscheidungen zu treffen, wodurch das Unfallrisiko steigt."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Sichere Fahrpraktiken",
+"subcategory":"Gefahrenwahrnehmung",
+"englishSubcategory":"Hazard Perception",
+"description":"Nähert man sich einer potenziellen Gefahrenquelle, ist es am sichersten, die Geschwindigkeit zu reduzieren und sich auf einen möglichen Stopp vorzubereiten. So gewinnt man Zeit, die Situation einzuschätzen und angemessen zu reagieren."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Sichere Fahrpraktiken",
+"subcategory":"Gefahrenwahrnehmung",
+"englishSubcategory":"Hazard Perception",
+"description":"Vorausschauendes Fahren ist entscheidend, um potenzielle Gefahren frühzeitig zu erkennen. So können Sie Ihre Reaktion planen und plötzliche Ausrutscher vermeiden."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Sichere Fahrpraktiken",
+"subcategory":"Defensives Fahren",
+"englishSubcategory":"Defensive Driving",
+"description":"Defensives Fahren bedeutet, mögliche Fehler anderer Verkehrsteilnehmer vorherzusehen und einen sicheren Abstand einzuhalten, um Kollisionen zu vermeiden."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Sichere Fahrpraktiken",
+"subcategory":"Straßenverhältnisse",
+"englishSubcategory":"Road Conditions",
+"description":"Wenn Ihre Reifen auf nasser Fahrbahn die Haftung verlieren, nehmen Sie den Fuß vom Gaspedal und lenken Sie sanft. Plötzliches Bremsen oder scharfe Kurven können die Situation verschlimmern und zum Kontrollverlust führen."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Sichere Fahrpraktiken",
+"subcategory":"Gefahrenwahrnehmung",
+"englishSubcategory":"Hazard Perception",
+"description":"Im Straßenverkehr ist es am besten, Gefahren frühzeitig zu erkennen, indem man den Blick weit nach vorn und zur Seite richtet und sich nicht nur auf das vorausfahrende Fahrzeug konzentriert. So lassen sich Risiken besser einschätzen."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Sichere Fahrpraktiken",
+"subcategory":"Defensives Fahren",
+"englishSubcategory":"Defensive Driving",
+"description":"Wenn ein Fahrzeug vor Ihnen Schlangenlinien fährt, ist es am sichersten, den Abstand zum vorausfahrenden Fahrzeug zu vergrößern. Dadurch haben Sie mehr Zeit zu reagieren, falls sich die Situation verschärft."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Sichere Fahrpraktiken",
+"subcategory":"Straßenverhältnisse",
+"englishSubcategory":"Road Conditions",
+"description":"Die Straße ist in den ersten Minuten nach einem Regenguss oft besonders rutschig. Seien Sie in dieser Zeit besonders vorsichtig, da Öl und Schmutz auf der Fahrbahn die Gefahr erhöhen können."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Sichere Fahrpraktiken",
+"subcategory":"Nachtfahrt",
+"englishSubcategory":"Night Driving",
+"description":"Um nachts die Blendung durch entgegenkommende Scheinwerfer zu vermeiden, schauen Sie leicht nach links neben Ihre Fahrspur und verlangsamen Sie gegebenenfalls Ihre Geschwindigkeit. So vermeiden Sie eine direkte Blendung durch das helle Licht."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Sichere Fahrpraktiken",
+"subcategory":"Defensives Fahren",
+"englishSubcategory":"Defensive Driving",
+"description":"Wenn Ihnen ein Fahrzeug zu dicht auffährt, ist es am sichersten, den Abstand zum Vordermann zu vergrößern. Dadurch haben sowohl Sie als auch der dicht auffahrende Fahrer mehr Reaktionszeit."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Sichere Fahrpraktiken",
+"subcategory":"Straßenverhältnisse",
+"englishSubcategory":"Road Conditions",
+"description":"Bei Fahrten in Nebel sollten Sie Ihre Geschwindigkeit reduzieren und einen größeren Abstand zu anderen Fahrzeugen einhalten. Nebel schränkt die Sicht stark ein und erhöht das Unfallrisiko."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Kreuzungen, Abzweigungen und Kreisverkehre",
+"subcategory":"Nachgeben",
+"englishSubcategory":"Giving Way",
+"description":"An Kreuzungen ohne Schilder oder Signale muss das von rechts kommende Fahrzeug dem von links kommenden Fahrzeug Vorfahrt gewähren."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Kreuzungen, Abzweigungen und Kreisverkehre",
+"subcategory":"Kurven",
+"englishSubcategory":"Turns",
+"description":"Beim Rechtsabbiegen an einer Ampel ohne Rechtsabbiegepfeil müssen Sie dem entgegenkommenden Verkehr und Fußgängern Vorfahrt gewähren, bevor Sie weiterfahren."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Kreuzungen, Abzweigungen und Kreisverkehre",
+"subcategory":"Kreisverkehre",
+"englishSubcategory":"Roundabouts",
+"description":"Im Kreisverkehr haben Fahrzeuge, die sich bereits im Kreisverkehr befinden, Vorfahrt. Fahrzeuge, die in den Kreisverkehr einfahren, müssen ihnen Vorfahrt gewähren."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Kreuzungen, Abzweigungen und Kreisverkehre",
+"subcategory":"Kurven",
+"englishSubcategory":"Turns",
+"description":"Beim Linksabbiegen müssen Sie Fußgängern, die die Straße überqueren, in die Sie einbiegen, Vorfahrt gewähren und so deren Sicherheit gewährleisten."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Kreuzungen, Abzweigungen und Kreisverkehre",
+"subcategory":"Nachgeben",
+"englishSubcategory":"Giving Way",
+"description":"An einer T-Kreuzung muss das Fahrzeug auf der abzweigenden Straße dem Fahrzeug auf der weiterführenden Straße Vorfahrt gewähren."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Kreuzungen, Abzweigungen und Kreisverkehre",
+"subcategory":"Kurven",
+"englishSubcategory":"Turns",
+"description":"Beim Wenden müssen Sie allen anderen Fahrzeugen und Fußgängern Vorfahrt gewähren und deren Sicherheit während des Abbiegevorgangs gewährleisten."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Kreuzungen, Abzweigungen und Kreisverkehre",
+"subcategory":"Kreisverkehre",
+"englishSubcategory":"Roundabouts",
+"description":"Beim Verlassen eines Kreisverkehrs blinken Sie kurz vor der Ausfahrt links, um andere Verkehrsteilnehmer über Ihre Absicht zu informieren."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Kreuzungen, Abzweigungen und Kreisverkehre",
+"subcategory":"Nachgeben",
+"englishSubcategory":"Giving Way",
+"description":"Beim Einfahren auf eine Straße von einer Einfahrt aus müssen Sie allen Fahrzeugen und Fußgängern auf der Straße Vorfahrt gewähren, um Unfälle zu vermeiden."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Kreuzungen, Abzweigungen und Kreisverkehre",
+"subcategory":"Kurven",
+"englishSubcategory":"Turns",
+"description":"Bevor Sie rechts abbiegen, positionieren Sie Ihr Fahrzeug so nah wie möglich an der Straßenmitte, um ein sicheres und freies Abbiegen zu gewährleisten."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Kreuzungen, Abzweigungen und Kreisverkehre",
+"subcategory":"Ampel",
+"englishSubcategory":"Traffic Lights",
+"description":"Ein grüner Pfeil bedeutet, dass Sie in Pfeilrichtung weiterfahren dürfen, ohne anderen Verkehrsteilnehmern oder Fußgängern Vorfahrt zu gewähren."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Fahrbahnmarkierungen, Fahrspuren & Überholvorgänge",
+"subcategory":"Fahrspurbenutzung",
+"englishSubcategory":"Lane Use",
+"description":"Eine durchgezogene Mittellinie bedeutet im Allgemeinen, dass man sie nicht überfahren darf, außer beim Ein- oder Ausfahren auf die Straße oder eine Einfahrt."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Fahrbahnmarkierungen, Fahrspuren & Überholvorgänge",
+"subcategory":"Überholen",
+"englishSubcategory":"Overtaking",
+"description":"Das Überholen auf der linken Seite ist auf mehrspurigen Straßen zulässig, wenn der Verkehr auf getrennten, markierten Fahrspuren geführt wird und dies gefahrlos möglich ist."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Fahrbahnmarkierungen, Fahrspuren & Überholvorgänge",
+"subcategory":"Überholen",
+"englishSubcategory":"Overtaking",
+"description":"Auf einer einspurigen Straße dürfen Sie ein Fahrzeug links überholen, wenn das vorausfahrende Fahrzeug rechts abbiegt und dies gefahrlos möglich ist."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Fahrbahnmarkierungen, Fahrspuren & Überholvorgänge",
+"subcategory":"Fahrspurbenutzung",
+"englishSubcategory":"Lane Use",
+"description":"Vor einem Spurwechsel blinken Sie und vergewissern Sie sich, dass der Wechsel gefahrlos möglich ist. So stellen Sie sicher, dass andere Verkehrsteilnehmer Ihre Absicht kennen und Unfälle vermieden werden."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Fahrbahnmarkierungen, Fahrspuren & Überholvorgänge",
+"subcategory":"Straßenmarkierungen",
+"englishSubcategory":"Road Markings",
+"description":"Eine aufgemalte Verkehrsinsel oder eine Chevron-Markierung zeigt an, dass man sie nicht befahren darf, um einen sicheren Verkehrsfluss zu gewährleisten."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Fahrbahnmarkierungen, Fahrspuren & Überholvorgänge",
+"subcategory":"Überholen",
+"englishSubcategory":"Overtaking",
+"description":"Wenn Sie sich nicht sicher sind, ob ein Überholmanöver gefahrlos möglich ist, ist es am sichersten, nicht zu überholen. Schätzen Sie die Situation immer sorgfältig ein, bevor Sie ein Überholmanöver durchführen."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Fahrbahnmarkierungen, Fahrspuren & Überholvorgänge",
+"subcategory":"Fahrspurbenutzung",
+"englishSubcategory":"Lane Use",
+"description":"Eine unterbrochene Mittellinie bedeutet, dass Sie diese überfahren dürfen, sofern dies gefahrlos möglich ist, um Überholvorgänge oder Spurwechsel durchzuführen."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Fahrbahnmarkierungen, Fahrspuren & Überholvorgänge",
+"subcategory":"Fahrspurbenutzung",
+"englishSubcategory":"Lane Use",
+"description":"Das Fahren über zwei Fahrspuren hinweg ist nur dann zulässig, wenn die Fahrbahnmarkierungen dies erlauben. In der Regel ist es unter den meisten Fahrbedingungen weder sicher noch erlaubt."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Fahrbahnmarkierungen, Fahrspuren & Überholvorgänge",
+"subcategory":"Überholen",
+"englishSubcategory":"Overtaking",
+"description":"Wenn das Fahrzeug, das Sie überholen, beschleunigt, ist die sicherste Reaktion, den Überholvorgang abzubrechen, sofern dies gefahrlos möglich ist, und sich zurückfallen zu lassen."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Fahrbahnmarkierungen, Fahrspuren & Überholvorgänge",
+"subcategory":"Straßenmarkierungen",
+"englishSubcategory":"Road Markings",
+"description":"Eine doppelte durchgezogene Mittellinie bedeutet, dass Sie diese unter keinen Umständen überqueren oder betreten dürfen, um einen reibungslosen Verkehrsfluss und die Sicherheit zu gewährleisten."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Halte-, Park- und Straßenverkehrsregeln",
+"subcategory":"Halten und Parken verboten",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"„Halteverbot“ bedeutet, dass Sie überhaupt nicht anhalten dürfen, während „Parkverbot“ kurzes Anhalten zum Ein- oder Aussteigenlassen erlaubt."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Halte-, Park- und Straßenverkehrsregeln",
+"subcategory":"Halten und Parken verboten",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"In einer Halteverbotszone dürfen Sie nur so lange anhalten, wie es zum Ein- oder Aussteigenlassen von Fahrgästen erforderlich ist."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Halte-, Park- und Straßenverkehrsregeln",
+"subcategory":"Parken in der Nähe von Kreuzungen",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Das Parken in der Nähe von Kreuzungen ist oft eingeschränkt, da es die Sicht behindern und Gefahren für Autofahrer und Fußgänger darstellen kann."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Halte-, Park- und Straßenverkehrsregeln",
+"subcategory":"Halten und Parken verboten",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"In einer Halteverbotszone ist das Anhalten nicht gestattet, auch nicht, um einen Anruf entgegenzunehmen oder einen kurzen Stopp einzulegen."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Halte-, Park- und Straßenverkehrsregeln",
+"subcategory":"Freie Wege",
+"englishSubcategory":"Clearways",
+"description":"Eine Halteverbotszone bedeutet, dass Sie während der Betriebszeiten auf dieser Straßenseite weder halten noch parken dürfen."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Halte-, Park- und Straßenverkehrsregeln",
+"subcategory":"Parken in der Nähe von Kreuzungen",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Das Anhalten in der Nähe eines Fußgängerüberwegs ist gefährlich, da es Fußgänger vor herannahenden Fahrern verdecken und somit das Unfallrisiko erhöhen kann."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Halte-, Park- und Straßenverkehrsregeln",
+"subcategory":"Anhalten aus Sicherheitsgründen",
+"englishSubcategory":"Stopping for Safety",
+"description":"In einem Halteverbotsgebiet dürfen Sie nur dann anhalten, wenn dies aufgrund der Verkehrslage oder in einer Notsituation erforderlich ist."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Halte-, Park- und Straßenverkehrsregeln",
+"subcategory":"Parken auf Hügeln",
+"englishSubcategory":"Parking on Hills",
+"description":"Beim Parken am Hang sollten Sie immer die Handbremse anziehen und das Fahrzeug sichern, um die Gefahr des Wegrollens zu verringern."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Halte-, Park- und Straßenverkehrsregeln",
+"subcategory":"Parken in der Nähe von Kreuzungen",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Sie dürfen nicht zu nah an einer Ecke parken, da dies die Sicht auf den entgegenkommenden Verkehr und Fußgänger behindern und somit Gefahren verursachen kann."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Halte-, Park- und Straßenverkehrsregeln",
+"subcategory":"Halten und Parken verboten",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Ein Parkverbotsschild mit Zeitangabe bedeutet, dass die Beschränkung nur während der auf dem Schild angegebenen Zeiten gilt."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Fußgänger, Radfahrer und gefährdete Verkehrsteilnehmer",
+"subcategory":"Fußgänger",
+"englishSubcategory":"Pedestrians",
+"description":"Beim Abbiegen müssen Fahrzeugführer Fußgängern, die die Straße überqueren, Vorfahrt gewähren. Dies gilt auch dann, wenn sich der Fußgänger nicht an einem dafür vorgesehenen Fußgängerüberweg befindet."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Fußgänger, Radfahrer und gefährdete Verkehrsteilnehmer",
+"subcategory":"Radfahrer",
+"englishSubcategory":"Cyclists",
+"description":"Autofahrer müssen beim Überholen von Radfahrern mehr Abstand halten, da diese möglicherweise Platz benötigen, um Gefahren auszuweichen oder das Gleichgewicht zu halten."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Fußgänger, Radfahrer und gefährdete Verkehrsteilnehmer",
+"subcategory":"Fußgänger",
+"englishSubcategory":"Pedestrians",
+"description":"In der Nähe von Einkaufszentren oder Haltestellen des öffentlichen Nahverkehrs ist mit erhöhtem Fußgängeraufkommen und plötzlichen Überquerungen zu rechnen. Seien Sie in diesen Bereichen stets aufmerksam."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Fußgänger, Radfahrer und gefährdete Verkehrsteilnehmer",
+"subcategory":"Radfahrer",
+"englishSubcategory":"Cyclists",
+"description":"Wenn ein Radfahrer auf einem markierten Radweg fährt, müssen Autofahrer es vermeiden, auf dem Radweg zu fahren, es sei denn, dies ist erlaubt und gefahrlos möglich."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Fußgänger, Radfahrer und gefährdete Verkehrsteilnehmer",
+"subcategory":"Kinder",
+"englishSubcategory":"Children",
+"description":"Autofahrer müssen in der Nähe von Schulen besonders vorsichtig sein, da Kinder unberechenbar handeln und den Verkehr falsch einschätzen können. Fahren Sie in Schulzonen langsam."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Fußgänger, Radfahrer und gefährdete Verkehrsteilnehmer",
+"subcategory":"Radfahrer",
+"englishSubcategory":"Cyclists",
+"description":"Wenn ein Radfahrer in der Mitte einer schmalen Fahrspur fährt, sollten Autofahrer warten, bis ein sicheres Überholen mit ausreichend Abstand möglich ist, anstatt sich gewaltsam vorbeizudrängen."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Fußgänger, Radfahrer und gefährdete Verkehrsteilnehmer",
+"subcategory":"Fußgänger",
+"englishSubcategory":"Pedestrians",
+"description":"An einem Kinderüberweg müssen Autofahrer anhalten, wenn Flaggen gehisst sind und Fußgänger anwesend sind, um die Sicherheit der Kinder zu gewährleisten."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Fußgänger, Radfahrer und gefährdete Verkehrsteilnehmer",
+"subcategory":"Radfahrer",
+"englishSubcategory":"Cyclists",
+"description":"Autofahrer sollten vor dem Abbiegen immer ihren toten Winkel überprüfen, da Radfahrer dort ungesehen vorbeifahren können, insbesondere in städtischen Gebieten."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Fußgänger, Radfahrer und gefährdete Verkehrsteilnehmer",
+"subcategory":"Ältere und Behinderte",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Ältere Fußgänger benötigen möglicherweise mehr Zeit zum Überqueren der Straße, da sie langsamer gehen oder Mobilitätseinschränkungen haben. Geben Sie ihnen genügend Platz und Zeit, um sicher die Straße zu überqueren."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Fußgänger, Radfahrer und gefährdete Verkehrsteilnehmer",
+"subcategory":"Radfahrer",
+"englishSubcategory":"Cyclists",
+"description":"Radfahrer sind an Kreuzungen oft schwerer zu sehen und können sich schnell bewegen. Geben Sie Radfahrern immer genügend Platz und Zeit, um sicher durch den Verkehr zu kommen."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Besondere Situationen & Straßenumgebungen",
+"subcategory":"Schulzonen",
+"englishSubcategory":"School Zones",
+"description":"Die Geschwindigkeitsbegrenzungen in Schulzonen gelten nur zu den auf den Schildern angegebenen Zeiten. Bitte halten Sie sich unbedingt daran, um die Sicherheit der Kinder zu gewährleisten."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Besondere Situationen & Straßenumgebungen",
+"subcategory":"Schulzonen",
+"englishSubcategory":"School Zones",
+"description":"Autofahrer müssen in Schulzonen langsamer fahren, auch wenn keine Kinder zu sehen sind, da Kinder plötzlich und unvorhersehbar auftauchen können."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Besondere Situationen & Straßenumgebungen",
+"subcategory":"Straßenarbeiten",
+"englishSubcategory":"Roadworks",
+"description":"Bei Annäherung an Baustellen verlangsamen Sie Ihre Geschwindigkeit und beachten Sie alle temporären Schilder, um die Sicherheit der Arbeiter und anderer Verkehrsteilnehmer zu gewährleisten."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Besondere Situationen & Straßenumgebungen",
+"subcategory":"Straßenarbeiten",
+"englishSubcategory":"Roadworks",
+"description":"In Baustellenbereichen werden die Geschwindigkeitsbegrenzungen reduziert, um die Sicherheit der Arbeiter zu gewährleisten und veränderten Straßenverhältnissen Rechnung zu tragen."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Besondere Situationen & Straßenumgebungen",
+"subcategory":"Ländliche Straßen",
+"englishSubcategory":"Rural Roads",
+"description":"Auf Landstraßen können Wildtiere unerwartet die Fahrbahn betreten. Seien Sie daher in ländlichen Gebieten stets bereit, anzuhalten oder Ihre Geschwindigkeit zu reduzieren."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Besondere Situationen & Straßenumgebungen",
+"subcategory":"Ländliche Straßen",
+"englishSubcategory":"Rural Roads",
+"description":"Unbefestigte Straßen weisen oft eine geringere Haftung und Bremsleistung auf. Fahrer sollten daher auf unbefestigten Straßen ihre Geschwindigkeit reduzieren."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Besondere Situationen & Straßenumgebungen",
+"subcategory":"Autobahnen",
+"englishSubcategory":"Freeways",
+"description":"Falls Sie Ihre Autobahnausfahrt verpassen, fahren Sie bis zur nächsten Ausfahrt und wenden Sie dort sicher. Versuchen Sie nicht, auf der Autobahn anzuhalten oder rückwärts zu fahren."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Besondere Situationen & Straßenumgebungen",
+"subcategory":"Autobahnen",
+"englishSubcategory":"Freeways",
+"description":"Das Anhalten auf Autobahnen ist außer im Notfall verboten. Benutzen Sie im Pannenfall immer den Seitenstreifen oder die Ausfahrt."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Besondere Situationen & Straßenumgebungen",
+"subcategory":"Wetterbedingungen",
+"englishSubcategory":"Weather Conditions",
+"description":"Bei starkem Regen die Geschwindigkeit reduzieren und den Sicherheitsabstand vergrößern. Nasse Straßen können die Bodenhaftung verringern und den Bremsweg verlängern."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Besondere Situationen & Straßenumgebungen",
+"subcategory":"Wetterbedingungen",
+"englishSubcategory":"Weather Conditions",
+"description":"Nebel verringert die Sicht und die Tiefenwahrnehmung und macht das Fahren dadurch besonders gefährlich. Fahren Sie bei Nebel langsam und vergrößern Sie den Abstand zum vorausfahrenden Fahrzeug."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Einsatzfahrzeuge & Polizeianweisungen",
+"subcategory":"Einsatzfahrzeug macht Platz",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Wenn sich ein Einsatzfahrzeug mit Blaulicht und/oder Sirene nähert, machen Sie Platz und lassen Sie es sicher passieren."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Einsatzfahrzeuge & Polizeianweisungen",
+"subcategory":"Einsatzfahrzeug macht Platz",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Wenn Sie an einer Ampel stehen und sich von hinten ein Einsatzfahrzeug nähert, ist es am sichersten, zur Seite zu fahren, sofern dies sicher und rechtmäßig ist. Andernfalls bleiben Sie stehen und lassen es nach Möglichkeit passieren."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Einsatzfahrzeuge & Polizeianweisungen",
+"subcategory":"Polizeianweisungen",
+"englishSubcategory":"Police Directions",
+"description":"Wenn ein Polizeibeamter Ihnen andere Anweisungen gibt als ein Schild, müssen Sie den Anweisungen des Polizeibeamten folgen."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Einsatzfahrzeuge & Polizeianweisungen",
+"subcategory":"Einsatzfahrzeug macht Platz",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Wenn ein Einsatzfahrzeug mit eingeschaltetem Blaulicht am Straßenrand steht, verlangsamen Sie Ihre Geschwindigkeit und fahren Sie vorsichtig vorbei; wenn möglich, weichen Sie aus."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Einsatzfahrzeuge & Polizeianweisungen",
+"subcategory":"Polizeianweisungen",
+"englishSubcategory":"Police Directions",
+"description":"Wenn die Polizei eine temporäre Straßensperre errichtet, befolgen Sie deren Anweisungen und etwaige Umleitungen."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Einsatzfahrzeuge & Polizeianweisungen",
+"subcategory":"Einsatzfahrzeug macht Platz",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Sie sollten nicht dicht hinter einem Einsatzfahrzeug fahren, um schneller durch den Verkehr zu kommen."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Einsatzfahrzeuge & Polizeianweisungen",
+"subcategory":"Einsatzfahrzeug macht Platz",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Wenn Sie eine Sirene hören, aber das Einsatzfahrzeug noch nicht sehen können, bleiben Sie wachsam, überprüfen Sie die Spiegel und seien Sie bereit, sich sicher zu bewegen."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Einsatzfahrzeuge & Polizeianweisungen",
+"subcategory":"Polizeianweisungen",
+"englishSubcategory":"Police Directions",
+"description":"Wenn ein Verkehrshelfer an einer Baustelle Anweisungen gibt, müssen Sie diese befolgen."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Einsatzfahrzeuge & Polizeianweisungen",
+"subcategory":"Polizeianweisungen",
+"englishSubcategory":"Police Directions",
+"description":"Wenn die Polizei Sie zur Führerscheinkontrolle anhält, halten Sie bitte wie angewiesen sicher an."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Einsatzfahrzeuge & Polizeianweisungen",
+"subcategory":"Einsatzfahrzeug macht Platz",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Wenn Sie sich auf einer einspurigen Fahrspur befinden und sich von hinten ein Einsatzfahrzeug nähert, geben Sie ein Handzeichen und wechseln Sie, wenn möglich, nach links oder an eine sichere Position."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Sicherheitsgurte, Kindersitze & Passagiere",
+"subcategory":"Sicherheitsgurte",
+"englishSubcategory":"Seatbelts",
+"description":"Der Fahrer ist dafür verantwortlich, dass alle Fahrgäste unter 16 Jahren einen Sicherheitsgurt tragen."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Sicherheitsgurte, Kindersitze & Passagiere",
+"subcategory":"Sicherheitsgurte",
+"englishSubcategory":"Seatbelts",
+"description":"Wenn ein Sicherheitsgurt vorhanden ist, muss dieser während der gesamten Fahrt angelegt werden."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Sicherheitsgurte, Kindersitze & Passagiere",
+"subcategory":"Kindersitze",
+"englishSubcategory":"Child Restraints",
+"description":"Ein Kindersitz ist erforderlich, da er so konstruiert ist, dass er die Körpergröße und -form des Kindes besser schützt als ein Sicherheitsgurt für Erwachsene."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Sicherheitsgurte, Kindersitze & Passagiere",
+"subcategory":"Passagiere",
+"englishSubcategory":"Passengers",
+"description":"Es ist gefährlich für die Fahrgäste, die Füße auf dem Armaturenbrett abzustellen, da Airbags und Aufprallkräfte schwere Verletzungen verursachen können."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Sicherheitsgurte, Kindersitze & Passagiere",
+"subcategory":"Kindersitze",
+"englishSubcategory":"Child Restraints",
+"description":"Die sicherste allgemeine Regel bei der Auswahl eines Kindersitzes ist, einen zu verwenden, der für das Alter und die Größe des Kindes zugelassen und geeignet ist."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Sicherheitsgurte, Kindersitze & Passagiere",
+"subcategory":"Sicherheitsgurte",
+"englishSubcategory":"Seatbelts",
+"description":"Ein häufiges Anzeichen dafür, dass ein Sicherheitsgurt nicht richtig angelegt wird, ist, wenn der Gurt unter dem Arm oder hinter dem Rücken sitzt."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Sicherheitsgurte, Kindersitze & Passagiere",
+"subcategory":"Passagiere",
+"englishSubcategory":"Passengers",
+"description":"Wenn ein Beifahrer den Fahrer ablenkt, ist es am sichersten, ihn aufzufordern, damit aufzuhören und sich wieder auf das Fahren zu konzentrieren."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Sicherheitsgurte, Kindersitze & Passagiere",
+"subcategory":"Kindersitze",
+"englishSubcategory":"Child Restraints",
+"description":"Es ist unsicher, ein Baby in einem fahrenden Fahrzeug auf dem Schoß zu halten, da man es bei einem Unfall nicht sicher festhalten kann."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Sicherheitsgurte, Kindersitze & Passagiere",
+"subcategory":"Sicherheitsgurte",
+"englishSubcategory":"Seatbelts",
+"description":"Der Sicherheitsgurt sollte so angelegt werden, dass der Beckengurt tief über den Hüften verläuft, um das Verletzungsrisiko im Bauchbereich bei einem Unfall zu verringern."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Sicherheitsgurte, Kindersitze & Passagiere",
+"subcategory":"Passagiere",
+"englishSubcategory":"Passengers",
+"description":"Ein wesentliches Risiko beim Mitführen ungesicherter Gegenstände in der Kabine besteht darin, dass diese bei einem Unfall oder einer plötzlichen Bremsung zu Geschossen werden können."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Fahrzeugsicherheit, Mängel & Grundlagen der Wartung",
+"subcategory":"Reifen",
+"englishSubcategory":"Tyres",
+"description":"Der richtige Reifendruck ist wichtig für die Sicherheit, da er Einfluss auf Haftung, Bremsverhalten und Lenkkontrolle hat."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Fahrzeugsicherheit, Mängel & Grundlagen der Wartung",
+"subcategory":"Bremsen",
+"englishSubcategory":"Brakes",
+"description":"Wenn sich Ihr Bremspedal schwammig anfühlt oder weiter als gewöhnlich durchtritt, sollten Sie dies als schwerwiegenden Fehler betrachten und die Bremsen umgehend überprüfen lassen."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Fahrzeugsicherheit, Mängel & Grundlagen der Wartung",
+"subcategory":"Beleuchtung & Sichtbarkeit",
+"englishSubcategory":"Lights & Visibility",
+"description":"Überprüfen Sie regelmäßig alle Fahrzeuglichter, um sicherzustellen, dass Sie sehen können und von anderen gesehen werden."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Fahrzeugsicherheit, Mängel & Grundlagen der Wartung",
+"subcategory":"Lenkung und Federung",
+"englishSubcategory":"Steering & Suspension",
+"description":"Warnzeichen für ein Lenkproblem können ungewöhnliches Ziehen, Vibrationen oder Schwierigkeiten beim Lenken sein."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Fahrzeugsicherheit, Mängel & Grundlagen der Wartung",
+"subcategory":"Windschutzscheibe & Scheibenwischer",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Abgenutzte Scheibenwischerblätter stellen ein Sicherheitsrisiko dar, da sie die Sicht bei Regen beeinträchtigen."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Fahrzeugsicherheit, Mängel & Grundlagen der Wartung",
+"subcategory":"Reifen",
+"englishSubcategory":"Tyres",
+"description":"Ein häufiges Anzeichen dafür, dass Reifen unsicher sein könnten, ist abgefahrenes oder ungleichmäßig abgenutztes Reifenprofil."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Fahrzeugsicherheit, Mängel & Grundlagen der Wartung",
+"subcategory":"Spiegel & Einstellung",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Die Spiegel sollten vor Fahrtantritt eingestellt werden, um tote Winkel zu verringern und die Sicht zu verbessern."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Fahrzeugsicherheit, Mängel & Grundlagen der Wartung",
+"subcategory":"Bremsen",
+"englishSubcategory":"Brakes",
+"description":"Wenn Ihre Bremsen schleifende Geräusche machen, lassen Sie sie so schnell wie möglich überprüfen."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Fahrzeugsicherheit, Mängel & Grundlagen der Wartung",
+"subcategory":"Beleuchtung & Sichtbarkeit",
+"englishSubcategory":"Lights & Visibility",
+"description":"Schalten Sie bei schlechter Sicht immer das Abblendlicht ein, damit Sie von anderen gesehen werden können."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Fahrzeugsicherheit, Mängel & Grundlagen der Wartung",
+"subcategory":"Windschutzscheibe & Scheibenwischer",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Wenn Ihre Windschutzscheibe in Ihrem Sichtfeld stark beschädigt ist, reparieren oder ersetzen Sie sie, bevor Sie weiterfahren."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Lasten, Abschleppen und Schwerlastfahrzeug-Sensibilisierung",
+"subcategory":"Lasten",
+"englishSubcategory":"Loads",
+"description":"Die Ladung muss ordnungsgemäß gesichert werden, um ein Verrutschen oder Herabfallen und damit verbundene Unfälle zu verhindern."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Lasten, Abschleppen und Schwerlastfahrzeug-Sensibilisierung",
+"subcategory":"Lasten",
+"englishSubcategory":"Loads",
+"description":"Ungesicherte Ladung im Fahrzeug kann bei einer plötzlichen Bremsung zu einem Geschoss werden und stellt somit ein erhebliches Sicherheitsrisiko dar."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Lasten, Abschleppen und Schwerlastfahrzeug-Sensibilisierung",
+"subcategory":"Lasten",
+"englishSubcategory":"Loads",
+"description":"Das Mitführen eines überladenen Fahrzeugs beeinträchtigt das Bremsverhalten, da sich der Bremsweg verlängert."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Lasten, Abschleppen und Schwerlastfahrzeug-Sensibilisierung",
+"subcategory":"Lasten",
+"englishSubcategory":"Loads",
+"description":"Am sichersten transportiert man lange Gegenstände, indem man sie so befestigt, dass sie sich nicht bewegen oder gefährlich hervorstehen können."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Lasten, Abschleppen und Schwerlastfahrzeug-Sensibilisierung",
+"subcategory":"Abschleppen",
+"englishSubcategory":"Towing",
+"description":"Das Ziehen eines Anhängers verlängert den Bremsweg, da das zusätzliche Gewicht die Bremswirkung verringert."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Lasten, Abschleppen und Schwerlastfahrzeug-Sensibilisierung",
+"subcategory":"Abschleppen",
+"englishSubcategory":"Towing",
+"description":"Vor dem Ankuppeln eines Anhängers prüfen Sie, ob die Kupplung, die Beleuchtung und die Sicherheitskette fest angezogen sind."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Lasten, Abschleppen und Schwerlastfahrzeug-Sensibilisierung",
+"subcategory":"Abschleppen",
+"englishSubcategory":"Towing",
+"description":"Beim Abbiegen mit Anhänger muss zusätzlicher Platz eingeplant werden, da der Anhänger innerhalb der Kurvenlinie fährt."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Lasten, Abschleppen und Schwerlastfahrzeug-Sensibilisierung",
+"subcategory":"Lasten",
+"englishSubcategory":"Loads",
+"description":"Eine Ladung, die Ihre Sicht nach hinten behindert, verringert Ihre Aufmerksamkeit für den nachfolgenden Verkehr und erhöht somit das Unfallrisiko."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Lasten, Abschleppen und Schwerlastfahrzeug-Sensibilisierung",
+"subcategory":"Schwere Fahrzeuge",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Schwere Fahrzeuge benötigen mehr Platz zum Anhalten, da ihre größere Masse den Bremsweg verlängert."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Lasten, Abschleppen und Schwerlastfahrzeug-Sensibilisierung",
+"subcategory":"Schwere Fahrzeuge",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Beim Fahren hinter einem großen LKW sollte der Abstand vergrößert werden, um tote Winkel und den längeren Bremsweg des LKW zu berücksichtigen."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Zulassung, L/P-Kennzeichenregeln & praktische DKT-Fallen (VIC)",
+"subcategory":"Regeln für den Lernführerschein",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Als Fahrschüler in Victoria dürfen Sie ein Auto nur dann fahren, wenn Sie von einem entsprechend lizenzierten Fahrer begleitet werden, der neben Ihnen sitzt."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Zulassung, L/P-Kennzeichenregeln & praktische DKT-Fallen (VIC)",
+"subcategory":"Regeln für den Lernführerschein",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Fahrschüler müssen ihre L-Schilder gut sichtbar anbringen, sodass diese für andere Verkehrsteilnehmer jederzeit erkennbar sind."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Zulassung, L/P-Kennzeichenregeln & praktische DKT-Fallen (VIC)",
+"subcategory":"Regeln für den Lernführerschein",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Wenn Ihr Begleitfahrer während der Fahrt einschläft, halten Sie sicher an und setzen Sie die Fahrt erst fort, wenn er ordnungsgemäß beaufsichtigt wird."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Zulassung, L/P-Kennzeichenregeln & praktische DKT-Fallen (VIC)",
+"subcategory":"Mobiltelefone und Geräte",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Als Fahrschüler in Victoria ist es Ihnen nicht gestattet, während der Fahrt in irgendeiner Weise ein Mobiltelefon zu benutzen."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Zulassung, L/P-Kennzeichenregeln & praktische DKT-Fallen (VIC)",
+"subcategory":"Regeln für den Lernführerschein",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Falls Ihre L-Schilder während der Fahrt abfallen, halten Sie sicher an und befestigen Sie sie wieder, bevor Sie die Fahrt fortsetzen."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Zulassung, L/P-Kennzeichenregeln & praktische DKT-Fallen (VIC)",
+"subcategory":"Aufsicht",
+"englishSubcategory":"Supervision",
+"description":"Der Hauptzweck der Aufsichtsregeln für Fahrschüler besteht darin, sicherzustellen, dass ein erfahrener Fahrer bei Bedarf eingreifen und helfen kann."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Zulassung, L/P-Kennzeichenregeln & praktische DKT-Fallen (VIC)",
+"subcategory":"Bedingungen und Einhaltung",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Wird ein Fahrschüler beim Fahren ohne die vorgeschriebene Aufsicht erwischt, drohen Strafen und mögliche Konsequenzen für die Fahrerlaubnis."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Zulassung, L/P-Kennzeichenregeln & praktische DKT-Fallen (VIC)",
+"subcategory":"Gefahrenwahrnehmung",
+"englishSubcategory":"Hazard Perception",
+"description":"Eine häufige Falle für Fahranfänger an Kreuzungen ist das Abbiegen, ohne auf Fußgänger zu achten, die die Straße überqueren, in die man einbiegt."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Zulassung, L/P-Kennzeichenregeln & praktische DKT-Fallen (VIC)",
+"subcategory":"Gefahrenwahrnehmung",
+"englishSubcategory":"Hazard Perception",
+"description":"Auch bei Grün müssen Sie langsamer fahren oder anhalten, wenn der Verkehr vor Ihnen behindert ist oder Fußgänger die Straße überqueren."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Zulassung, L/P-Kennzeichenregeln & praktische DKT-Fallen (VIC)",
+"subcategory":"Regeln für den Lernführerschein",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Wenn Sie einen Fahrschüler beaufsichtigen, sollte der beaufsichtigende Fahrer immer auf dem Beifahrersitz sitzen."
+}
+]

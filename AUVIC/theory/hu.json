@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Közlekedési szabályok és törvények",
+"subcategory":"Általános közlekedési szabályok",
+"englishSubcategory":"General Road Rules",
+"description":"A járművezetőknek be kell tartaniuk az általános közlekedési szabályokat a biztonság és a zavartalan forgalom biztosítása érdekében. Ez magában foglalja a közlekedési táblák, jelzések és a sávelválasztók betartását. Ezen szabályok be nem tartása balesetekhez és büntetésekhez vezethet."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Közlekedési szabályok és törvények",
+"subcategory":"Engedőút",
+"englishSubcategory":"Giving Way",
+"description":"A járművezetőknek elsőbbséget kell adniuk más járműveknek vagy gyalogosoknak többek között kereszteződésekben, körforgalomban és gyalog-átkelőhelyeken. Az elsőbbségadás elmulasztása szabálysértés."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Közlekedési szabályok és törvények",
+"subcategory":"Sávhasználat",
+"englishSubcategory":"Lane Use",
+"description":"A járművezetőknek a megfelelő sávokat kell használniuk, és be kell tartaniuk a sávelválasztó jelzéseket. Ez magában foglalja a sávváltásra, az előzésre, valamint a kerékpár- vagy buszsávok használatára vonatkozó szabályokat. A szabályok megsértése bírságot vagy balesetet vonhat maga után."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Közlekedési szabályok és törvények",
+"subcategory":"Villamosok",
+"englishSubcategory":"Trams",
+"description":"A sofőröknek tisztában kell lenniük a villamosszabályokkal, beleértve a gyalogosok elsőbbségének megadását a villamosmegállókban, a nyitott ajtójú villamosok előtti megállást, és bizonyos körülmények között a villamosok előzésének tilalmát."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Közlekedési szabályok és törvények",
+"subcategory":"Kereszteződések",
+"englishSubcategory":"Intersections",
+"description":"Kereszteződésekben a sofőröknek be kell tartaniuk a megfelelő eljárásokat az elsőbbségadás és a stoptábláknál vagy a közlekedési lámpáknál való megállás tekintetében. Ezen szabályok ismerete elengedhetetlen a balesetek megelőzése érdekében."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Közlekedési szabályok és törvények",
+"subcategory":"U-fordulatok",
+"englishSubcategory":"U-Turns",
+"description":"A megfordulás csak kereszteződésekben, vagy ha nincs tiltó tábla. A járművezetőknek meg kell győződniük a biztonságos megfordulásról, mielőtt megfordulnának."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Közlekedési szabályok és törvények",
+"subcategory":"Sebességkorlátozások",
+"englishSubcategory":"Speed Limits",
+"description":"A járművezetőknek be kell tartaniuk a sebességkorlátozásokat a közúti biztonság érdekében. A gyorshajtás bírságot, jogosítvány elvesztését és a balesetek kockázatának növekedését vonhatja maga után."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Közlekedési szabályok és törvények",
+"subcategory":"Gyalogosbiztonság",
+"englishSubcategory":"Pedestrian Safety",
+"description":"A gépjárművezetőknek elsőbbséget kell adniuk a gyalogosoknak az útátkelőhelyeken, és gondoskodniuk kell biztonságukról a gyalogosövezetek közelében. A gyalogosok javára való megállás elmulasztása az útátkelőhelyeken szabálysértésnek minősül."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Közlekedési szabályok és törvények",
+"subcategory":"Vasúti átjárók",
+"englishSubcategory":"Railway Crossings",
+"description":"A vasúti átjáróknál a vezetőknek villogó lámpák vagy leengedett sorompó esetén meg kell állniuk. Ezen jelzések figyelmen kívül hagyása súlyos szabálysértés, és bírságot, valamint balesetet vonhat maga után."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Közlekedési szabályok és törvények",
+"subcategory":"Mentőjárművek",
+"englishSubcategory":"Emergency Vehicles",
+"description":"A járművezetőknek villogó fényekkel és szirénákkal kell elsőbbséget adniuk a sürgősségi járműveknek, ügyelve arra, hogy a jármű szabad utat tudjon biztosítani a forgalomban való haladáshoz."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Közlekedési táblák és jelzések",
+"subcategory":"Szabályozó táblák",
+"englishSubcategory":"Regulatory Signs",
+"description":"A szabályozó táblák kötelező utasításokat adnak a vezetőknek, például sebességkorlátozásokat, kanyarodási tilalmat és behajtani tilos táblákat. Ezen táblák betartása törvényi előírás a közúti biztonság és rend fenntartása érdekében."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Közlekedési táblák és jelzések",
+"subcategory":"Figyelmeztető jelek",
+"englishSubcategory":"Warning Signs",
+"description":"A figyelmeztető táblák felhívják a vezetők figyelmét a lehetséges veszélyekre, például az éles kanyarokra, iskolaövezetekre és a vadvédelmi átkelőhelyekre. Ezek a táblák segítenek a vezetőknek a balesetek elkerülése érdekében a vezetési szokásaik módosításában."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Közlekedési táblák és jelzések",
+"subcategory":"Sebességjelző táblák",
+"englishSubcategory":"Speed Signs",
+"description":"A sebességkorlátozó táblák az úton megengedett maximális vagy minimális sebességet jelzik. A vezetőknek be kell tartaniuk ezeket a korlátozásokat a biztonságos vezetési körülmények biztosítása és a bírságok elkerülése érdekében."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Közlekedési táblák és jelzések",
+"subcategory":"Közlekedési lámpák",
+"englishSubcategory":"Traffic Lights",
+"description":"A közlekedési lámpák szabályozzák a járművek és a gyalogosok áramlását a kereszteződésekben. A piros szín megállást, a zöld indulást, a sárga pedig a megállásra való felkészülésre figyelmeztet."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Közlekedési táblák és jelzések",
+"subcategory":"Gyalogosjelzők",
+"englishSubcategory":"Pedestrian Signals",
+"description":"A gyalogosjelző lámpák jelzik, hogy mikor biztonságos a gyalogosok számára az úttesten való átkelés. Ezek a jelzőlámpák általában a közlekedési lámpákkal összehangoltan működnek a gyalogosok biztonságának garantálása érdekében."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Közlekedési táblák és jelzések",
+"subcategory":"Sávtartó jelzések",
+"englishSubcategory":"Lane Control Signals",
+"description":"A sávjelzőket arra használják, hogy jelezzék, egy sáv nyitva vagy zárva van-e. Ezeket a jelzőket jellemzően többsávos utakon és alagutakban használják."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Közlekedési táblák és jelzések",
+"subcategory":"Parkolni tilos táblák",
+"englishSubcategory":"No Parking Signs",
+"description":"A parkolást tiltó táblák olyan területeket jelölnek, ahol tilos a megállni vagy parkolni. Ez általában a forgalom zavartalan áramlását és a biztonság fenntartását szolgálja."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Közlekedési táblák és jelzések",
+"subcategory":"Egyirányú táblák",
+"englishSubcategory":"One-Way Signs",
+"description":"Az egyirányú jelzőtáblák azt jelzik, hogy a forgalomnak csak egy irányban szabad haladnia. Ezen jelzőtáblák figyelmen kívül hagyása balesetekhez és jogi következményekhez vezethet."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Közlekedési táblák és jelzések",
+"subcategory":"Stoptáblák",
+"englishSubcategory":"Stop Signs",
+"description":"A stoptáblák előírják a járművezetőknek, hogy teljesen álljanak meg, és elsőbbséget adjanak minden más járműnek vagy gyalogosnak, mielőtt továbbhaladnának."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Közlekedési táblák és jelzések",
+"subcategory":"Elsőbbségadás jelzések",
+"englishSubcategory":"Give Way Signs",
+"description":"Az elsőbbségadást jelző táblák arra utasítják a vezetőket, hogy a balesetek megelőzése érdekében adják meg az elsőbbséget a többi közlekedőnek, legyen az gyalogos vagy jármű, a helyzettől függően."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Sebesség és távolság szabályok",
+"subcategory":"Sebességkorlátozások",
+"englishSubcategory":"Speed Limits",
+"description":"Victoria lakott területén az alapértelmezett sebességkorlátozás 50 km/h, hacsak nincs másképp kitáblázva. Mindig ellenőrizze a kihelyezett jelzéseket, hogy biztosan betartja-e a törvényes sebességkorlátozásokat."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Sebesség és távolság szabályok",
+"subcategory":"Sebességkorlátozások",
+"englishSubcategory":"Speed Limits",
+"description":"A táblán feltüntetett iskolai övezetben a sebességkorlátozás 40 km/h-ra csökken az úton átkelő gyermekek biztonsága érdekében."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Sebesség és távolság szabályok",
+"subcategory":"Követési távolság",
+"englishSubcategory":"Following Distance",
+"description":"Ideális körülmények között a minimális biztonságos követési távolság legalább két másodperc az elöl haladó jármű mögött. Ez elegendő időt biztosít a reagálásra, ha az elöl haladó jármű hirtelen megáll."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Sebesség és távolság szabályok",
+"subcategory":"Sebességkorlátozások",
+"englishSubcategory":"Speed Limits",
+"description":"Amikor egy megálló villamos mellett haladsz el a biztonsági zónában, a fel- és leszálló utasok biztonsága érdekében 10 km/h-ra kell csökkentened a sebességedet."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Sebesség és távolság szabályok",
+"subcategory":"Sebességkorlátozások",
+"englishSubcategory":"Speed Limits",
+"description":"A sebességkorlátozó táblák nélküli vidéki utakon az alapértelmezett sebességkorlátozás 100 km/h, kivéve, ha a helyi táblák másként rendelkeznek. A biztonság megőrzése érdekében a sebességet az útviszonyokhoz igazítsa."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Sebesség és távolság szabályok",
+"subcategory":"Követési távolság",
+"englishSubcategory":"Following Distance",
+"description":"Nedves időben legalább négy másodpercre kell növelni a követési távolságot. A nedves útfelület csökkenti a tapadást, így több időre van szükség a biztonságos megálláshoz."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Sebesség és távolság szabályok",
+"subcategory":"Sebességkorlátozások",
+"englishSubcategory":"Speed Limits",
+"description":"Tartsa be az elektronikus sebességkorlátozó táblákat minden működés közben. Ezek a táblák a forgalmi viszonyokhoz, az időjáráshoz vagy az úton történt eseményekhez igazítják a sebességkorlátozásokat."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Sebesség és távolság szabályok",
+"subcategory":"Féktávolság",
+"englishSubcategory":"Stopping Distance",
+"description":"A sebesség növekedésével a jármű biztonságos megállításához szükséges féktávolság is növekszik. Mindig ügyeljen arra, hogy elegendő távolságot tartson a veszélyekre való reagáláshoz."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Sebesség és távolság szabályok",
+"subcategory":"Sebességkorlátozások",
+"englishSubcategory":"Speed Limits",
+"description":"A megosztott zónákban a sebességkorlátozás általában 10 km/h a gyalogosok és kerékpárosok biztonságának garantálása érdekében ezeken a területeken, ahol járművek és nem motorizált közlekedők érintkeznek."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Sebesség és távolság szabályok",
+"subcategory":"Követési távolság",
+"englishSubcategory":"Following Distance",
+"description":"A sorban állás veszélyes, mert csökkenti a reakcióidőt és a fékezési időt. Mindig tartson biztonságos követési távolságot, különösen akkor, ha nagyobb járművek mögött halad, amelyek akadályozhatják a kilátást."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"A sofőr felelőssége",
+"subcategory":"Jogi kötelezettségek",
+"englishSubcategory":"Legal Obligations",
+"description":"A járművezetőknek számos jogi kötelezettséget kell teljesíteniük, például baleset után segítséget kell nyújtaniuk, baleset után adatokat kell cserélniük, és a törvényi előírásoknak megfelelően be kell jelenteniük az incidenseket a hatóságoknak."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"A sofőr felelőssége",
+"subcategory":"Figyelem és kontroll",
+"englishSubcategory":"Attention & Control",
+"description":"A vezetőknek mindenkor uralniuk kell a járművüket, kerülniük kell a zavaró tényezőket, és összpontosítaniuk kell saját és a többi közlekedő biztonsága érdekében."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"A sofőr felelőssége",
+"subcategory":"Jogi kötelezettségek",
+"englishSubcategory":"Legal Obligations",
+"description":"Sérüléssel járó baleset esetén a vezetőknek meg kell állniuk és segítséget kell nyújtaniuk, ahol lehetséges. Az ilyen helyzetekben a megállás és a segítségnyújtás elmulasztása törvénysértés."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"A sofőr felelőssége",
+"subcategory":"Figyelem és kontroll",
+"englishSubcategory":"Attention & Control",
+"description":"A vezetők számára elengedhetetlen, hogy mindenkor teljes mértékben uralják járművüket, ügyelve arra, hogy megfelelően reagáljanak a változó forgalmi körülményekre, és biztonságos vezetési környezetet tartsanak fenn."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"A sofőr felelőssége",
+"subcategory":"Jogi kötelezettségek",
+"englishSubcategory":"Legal Obligations",
+"description":"A sofőröknek jelenteniük kell a balesetet a rendőrségnek, ha valaki megsérült, vagy anyagi kár keletkezett, és az adatok cseréje nem lehetséges. Ezen incidensek bejelentésének elmulasztása büntetést vonhat maga után."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"A sofőr felelőssége",
+"subcategory":"Fáradtságkezelés",
+"englishSubcategory":"Fatigue Management",
+"description":"A fáradtság komoly kockázatot jelent vezetés közben. A vezetőknek tisztában kell lenniük a fáradtság korai jeleivel, például az ásítással és a koncentrációvesztéssel, és meg kell tenniük a megfelelő intézkedéseket a balesetek megelőzése érdekében."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"A sofőr felelőssége",
+"subcategory":"Jogi kötelezettségek",
+"englishSubcategory":"Legal Obligations",
+"description":"A járművezetőknek a rendőrség kérésére be kell mutatniuk a jogosítványukat. A jogosítvány bemutatásának megtagadása büntetést vagy további jogi következményeket vonhat maga után."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"A sofőr felelőssége",
+"subcategory":"Figyelem és kontroll",
+"englishSubcategory":"Attention & Control",
+"description":"A vezetőknek kerülniük kell a kürt szükségtelen használatát, mivel az megijesztheti vagy elvonhatja a többi közlekedő figyelmét. A kürtöt csak akkor szabad használni, ha szükséges, hogy figyelmeztesse a többieket a jelenlétére."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"A sofőr felelőssége",
+"subcategory":"Fáradtságkezelés",
+"englishSubcategory":"Fatigue Management",
+"description":"Ha túl fáradtnak érzi magát a vezetés folytatásához, a legbiztonságosabb megoldás az, ha megáll és pihen, mielőtt folytatja. A fáradt vezetés jelentősen növeli a balesetek kockázatát."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"A sofőr felelőssége",
+"subcategory":"Jogi kötelezettségek",
+"englishSubcategory":"Legal Obligations",
+"description":"A sofőrök felelőssége gondoskodni arról, hogy utasaik biztonságosan üljenek és be legyenek kötve. Ez magában foglalja azt is, hogy a gyermekek megfelelő gyermekülésben utazzanak, a felnőttek pedig használják a biztonsági övet."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkohol, drogok és egészség",
+"subcategory":"Alkoholkorlátozások",
+"englishSubcategory":"Alcohol Limits",
+"description":"Victoriában a tanulóvezetőknek és a próbaidős vezetőknek (P1 és P2) mindenkor 0,00-ás véralkoholszintet (BAC) kell fenntartaniuk. A teljes jogosítvánnyal rendelkező vezetőknek 0,05-ös véralkoholszint-határértékük van, de biztonságosabb egyáltalán nem inni vezetés közben."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkohol, drogok és egészség",
+"subcategory":"Alkohol hatásai",
+"englishSubcategory":"Alcohol Effects",
+"description":"Az alkohol rontja az ítélőképességet, a reakcióidőt és a koordinációt, ami jelentősen növelheti a balesetek kockázatát. Már kis mennyiségű alkohol is csökkentheti a biztonságos vezetési képességet."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkohol, drogok és egészség",
+"subcategory":"Kábítószerrel történő vezetés",
+"englishSubcategory":"Drug Driving",
+"description":"A kábítószerek, beleértve a vényköteles gyógyszereket is, hatása alatt történő vezetés ronthatja a vezetési képességet, még akkor is, ha úgy érzi, hogy nem befolyásolt. Fontos, hogy tisztában legyen a kockázatokkal, és kerülje a vezetést kábítószer hatása alatt."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkohol, drogok és egészség",
+"subcategory":"Gyógyszerbiztonság",
+"englishSubcategory":"Medication Safety",
+"description":"Mielőtt új vényköteles gyógyszert kezdene szedni, ellenőrizze, hogy az befolyásolja-e a gépjárművezetési képességét, és kövesse az orvosi tanácsokat. Egyes gyógyszerek álmosságot okozhatnak, vagy ronthatják a koncentrációt."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkohol, drogok és egészség",
+"subcategory":"Fáradtság és egészség",
+"englishSubcategory":"Fatigue & Health",
+"description":"A fáradtság ugyanúgy ronthatja a biztonságos vezetési képességet, mint az alkohol vagy a drogok. Vezetés előtt pihenjen eleget, és hosszú utakon tartson szüneteket a fáradtság okozta balesetek kockázatának csökkentése érdekében."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Alkohol, drogok és egészség",
+"subcategory":"Alkohol hatásai",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkoholfogyasztás után csak az idő csökkentheti a szervezetben lévő alkohol mennyiségét. A kávé, a hideg zuhany vagy más módszerek nem gyorsítják fel ezt a folyamatot."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Alkohol, drogok és egészség",
+"subcategory":"Alkoholkorlátozások",
+"englishSubcategory":"Alcohol Limits",
+"description":"Victoriában minden tanuló és próbaidős sofőrnek 0,00-ás véralkoholszintet kell fenntartania. A teljes jogosítvánnyal rendelkező sofőrök esetében a véralkoholszint-határ 0,05. Azonban a vezetés előtti alkoholfogyasztás kerülése mindig a legbiztonságosabb megoldás."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Alkohol, drogok és egészség",
+"subcategory":"Kábítószerrel történő vezetés",
+"englishSubcategory":"Drug Driving",
+"description":"Victoriában megbüntethetnek, ha bizonyos drogok hatása alatt vezet, még akkor is, ha úgy érzi, hogy nincs hatása a szervezetére. A drogok hatása befolyásolja a biztonságos vezetési képességét, és növeli a balesetek kockázatát."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Alkohol, drogok és egészség",
+"subcategory":"Gyógyszerbiztonság",
+"englishSubcategory":"Medication Safety",
+"description":"Vezetés előtt mindig ellenőrizze, hogy az új gyógyszerek befolyásolhatják-e a járművezetési képességét. Egyes gyógyszerek álmosságot okoznak, rontják a reakcióidőt és csökkentik a koncentrációt."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Alkohol, drogok és egészség",
+"subcategory":"Fáradtság és egészség",
+"englishSubcategory":"Fatigue & Health",
+"description":"A fáradtság hasonló hatással lehet a vezetésre, mint az alkohol. Lassítja a reakcióidőt, rontja az ítélőképességet és csökkenti a döntéshozatali képességet, növelve a balesetek kockázatát."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Biztonságos vezetési gyakorlatok",
+"subcategory":"Veszélyészlelés",
+"englishSubcategory":"Hazard Perception",
+"description":"Potenciális veszélyhelyzethez közeledve a legbiztonságosabb válasz a lassítás és a szükség esetén történő megállásra való felkészülés. Ez időt ad a helyzet felmérésére és a megfelelő reagálásra."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Biztonságos vezetési gyakorlatok",
+"subcategory":"Veszélyészlelés",
+"englishSubcategory":"Hazard Perception",
+"description":"Vezetés közben elengedhetetlen a jó előrelátás a potenciális veszélyek korai felismeréséhez. Ez lehetővé teszi a reagálás megtervezését és a hirtelen reakciók elkerülését."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Biztonságos vezetési gyakorlatok",
+"subcategory":"Védekező vezetés",
+"englishSubcategory":"Defensive Driving",
+"description":"A defenzív vezetés magában foglalja a többi közlekedő esetleges hibáinak előrejelzését és a biztonságos követési távolság betartását az ütközések elkerülése érdekében."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Biztonságos vezetési gyakorlatok",
+"subcategory":"Útviszonyok",
+"englishSubcategory":"Road Conditions",
+"description":"Ha a gumiabroncsok elveszítik a tapadását nedves úton, vegye fel a gázpedált, és kormányozzon simán. A hirtelen fékezés vagy az éles kanyarok ronthatják a helyzetet, és az uralom elvesztéséhez vezethetnek."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Biztonságos vezetési gyakorlatok",
+"subcategory":"Veszélyészlelés",
+"englishSubcategory":"Hazard Perception",
+"description":"Forgalomban vezetés közben a veszélyek észlelésére a legjobb pozíció messze elöl és oldalt van, nem csak az előtted haladó autóra koncentrálni. Ez segít a kockázatok korábbi felismerésében."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Biztonságos vezetési gyakorlatok",
+"subcategory":"Védekező vezetés",
+"englishSubcategory":"Defensive Driving",
+"description":"Ha egy jármű a saját sávjában kanyarog elöl, a legbiztonságosabb válasz a követési távolság növelése. Ez több időt ad a reagálásra, ha a helyzet rosszabbodik."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Biztonságos vezetési gyakorlatok",
+"subcategory":"Útviszonyok",
+"englishSubcategory":"Road Conditions",
+"description":"Az út gyakran az eső utáni első néhány percben a legcsúszósabb. Legyen különösen óvatos ebben az időszakban, mivel az úton lévő olajok és törmelék veszélyesebbé teheti azt."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Biztonságos vezetési gyakorlatok",
+"subcategory":"Éjszakai vezetés",
+"englishSubcategory":"Night Driving",
+"description":"Éjszaka a szembejövő fényszórók vakító fényének elkerülése érdekében nézzen kissé a sáv bal szélére, és szükség esetén lassítson le. Ez segít elkerülni a közvetlen fényhatást."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Biztonságos vezetési gyakorlatok",
+"subcategory":"Védekező vezetés",
+"englishSubcategory":"Defensive Driving",
+"description":"Ha egy sofőr túl közelről követ, a legbiztonságosabb megoldás az, ha növeled a követési távolságot az előtted haladó járműtől. Ez mind neked, mind a mögötted haladó sofőrnek több mozgásteret ad a reakcióra."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Biztonságos vezetési gyakorlatok",
+"subcategory":"Útviszonyok",
+"englishSubcategory":"Road Conditions",
+"description":"Ködben vezetve csökkentse a sebességet, és tartson nagyobb távolságot a járművével a többi járműtől. A köd jelentősen rontja a látási viszonyokat és növeli a balesetek kockázatát."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Kereszteződések, kanyarok és körforgalmak",
+"subcategory":"Engedőút",
+"englishSubcategory":"Giving Way",
+"description":"Azokban a kereszteződésekben, ahol nincsenek jelzőtáblák vagy jelzőlámpák, a jobbról közeledő járműnek elsőbbséget kell adnia a balról érkező járműnek."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Kereszteződések, kanyarok és körforgalmak",
+"subcategory":"Fordulások",
+"englishSubcategory":"Turns",
+"description":"Ha egy lámpánál jobbra kanyarodik az út, ahol nincs jobbra kanyarodó nyíl, akkor elsőbbséget kell adnia a szembejövő forgalomnak és a gyalogosoknak, mielőtt továbbhaladna."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Kereszteződések, kanyarok és körforgalmak",
+"subcategory":"Körforgalmak",
+"englishSubcategory":"Roundabouts",
+"description":"Körforgalomban a körforgalomban már tartózkodó járműveknek elsőbbségük van. A körforgalomba behajtó járművezetőknek elsőbbséget kell adniuk nekik."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Kereszteződések, kanyarok és körforgalmak",
+"subcategory":"Fordulások",
+"englishSubcategory":"Turns",
+"description":"Balra kanyarodva elsőbbséget kell adni a gyalogosoknak, akik átkelnek az úton, amin belépsz, ügyelve a biztonságukra."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Kereszteződések, kanyarok és körforgalmak",
+"subcategory":"Engedőút",
+"englishSubcategory":"Giving Way",
+"description":"T-kereszteződésben a végződő úton haladó járműnek elsőbbséget kell adnia a folytatólagos úton haladó járműveknek."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Kereszteződések, kanyarok és körforgalmak",
+"subcategory":"Fordulások",
+"englishSubcategory":"Turns",
+"description":"Megforduláskor elsőbbséget kell adni minden más járműnek és gyalogosnak, ügyelve a biztonságukra kanyarodás közben."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Kereszteződések, kanyarok és körforgalmak",
+"subcategory":"Körforgalmak",
+"englishSubcategory":"Roundabouts",
+"description":"Körforgalomból való kihajtáskor közvetlenül a kijárat előtt indexelj balra, hogy tájékoztasd a többi közlekedőt a szándékodról."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Kereszteződések, kanyarok és körforgalmak",
+"subcategory":"Engedőút",
+"englishSubcategory":"Giving Way",
+"description":"Amikor kocsibeállóról hajtunk be az útra, elsőbbséget kell adni minden járműnek és gyalogosnak, aki az úton halad, a balesetek megelőzése érdekében."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Kereszteződések, kanyarok és körforgalmak",
+"subcategory":"Fordulások",
+"englishSubcategory":"Turns",
+"description":"Mielőtt jobbra kanyarodna, a járművét a lehető legközelebb állítsa az út közepéhez, ügyelve a biztonságos és akadálytalan kanyarodásra."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Kereszteződések, kanyarok és körforgalmak",
+"subcategory":"Közlekedési lámpák",
+"englishSubcategory":"Traffic Lights",
+"description":"A zöld nyíl azt jelzi, hogy a nyíl irányában haladhat anélkül, hogy elsőbbséget adna a többi forgalomnak vagy a gyalogosoknak."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Útburkolati jelek, sávok és előzés",
+"subcategory":"Sávhasználat",
+"englishSubcategory":"Lane Use",
+"description":"A folyamatos, egyetlen középvonal általában azt jelenti, hogy tilos átlépni, kivéve, ha az útra vagy a kocsifelhajtóra hajtunk fel vagy onnan kilépünk."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Útburkolati jelek, sávok és előzés",
+"subcategory":"Előzés",
+"englishSubcategory":"Overtaking",
+"description":"Többsávos úton balról előzni akkor szabad, ha a forgalom külön sávokban halad, és az biztonságos."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Útburkolati jelek, sávok és előzés",
+"subcategory":"Előzés",
+"englishSubcategory":"Overtaking",
+"description":"Egysávos úton balról akkor előzhetsz egy járművet, ha az elöl haladó jármű jobbra kanyarodik, és ez biztonságos."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Útburkolati jelek, sávok és előzés",
+"subcategory":"Sávhasználat",
+"englishSubcategory":"Lane Use",
+"description":"Sávváltás előtt indexeljen, és győződjön meg arról, hogy biztonságosan megteheti. Ez biztosítja, hogy a többi közlekedő tisztában legyen a szándékaival, és megelőzze a baleseteket."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Útburkolati jelek, sávok és előzés",
+"subcategory":"Útburkolati jelek",
+"englishSubcategory":"Road Markings",
+"description":"A festett közlekedési sziget, vagy chevron jelölés azt jelzi, hogy tilos ráhajtani, biztosítva a forgalom biztonságos áramlását."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Útburkolati jelek, sávok és előzés",
+"subcategory":"Előzés",
+"englishSubcategory":"Overtaking",
+"description":"Ha nem biztos benne, hogy biztonságos-e előzni, a legbiztonságosabb, ha nem előz. Mindig mérje fel a helyzetet, mielőtt előzni kezdene."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Útburkolati jelek, sávok és előzés",
+"subcategory":"Sávhasználat",
+"englishSubcategory":"Lane Use",
+"description":"A szaggatott középvonal azt jelenti, hogy átlépheted, ha biztonságosan megteheted, lehetővé téve az előzést vagy a sávváltást."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Útburkolati jelek, sávok és előzés",
+"subcategory":"Sávhasználat",
+"englishSubcategory":"Lane Use",
+"description":"Két sávot átfogni csak akkor megengedett, ha a sávelválasztó vonalak ezt megengedik. Ez általában nem biztonságos, vagy a legtöbb vezetési körülmény között nem megengedett."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Útburkolati jelek, sávok és előzés",
+"subcategory":"Előzés",
+"englishSubcategory":"Overtaking",
+"description":"Ha a megelőzött jármű gyorsulni kezd, a legbiztonságosabb válasz az előzés megszakítása, ha az biztonságos, és a járművet visszahúzni."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Útburkolati jelek, sávok és előzés",
+"subcategory":"Útburkolati jelek",
+"englishSubcategory":"Road Markings",
+"description":"A kettős, folyamatos középvonal azt jelenti, hogy semmilyen körülmények között tilos átlépni vagy rálépni, így biztosítva a forgalom folytonosságát és biztonságát."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Megállás, parkolás és közúti szabályok",
+"subcategory":"Megállni és parkolni tilos",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"A Megállás tilos azt jelenti, hogy egyáltalán nem szabad megállni, míg a Parkolás tilos tilalma lehetővé teszi a rövid megállást a fel- vagy leadás céljából."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Megállás, parkolás és közúti szabályok",
+"subcategory":"Megállni és parkolni tilos",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"A parkolási tilalommal sújtott zónában csak annyi ideig szabad megállni, amíg utasokat nem lehet felvenni vagy leszállítani."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Megállás, parkolás és közúti szabályok",
+"subcategory":"Parkolás kereszteződésekhez közel",
+"englishSubcategory":"Parking Near Intersections",
+"description":"A kereszteződések közelében gyakran korlátozott a parkolás, mivel akadályozhatja a kilátást, és veszélyt jelenthet a járművezetőkre és a gyalogosokra."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Megállás, parkolás és közúti szabályok",
+"subcategory":"Megállni és parkolni tilos",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Tilos megállni a Megállni tilos zónában, még akkor sem, ha telefonhívást fogad, vagy gyorsan meg kell állnia."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Megállás, parkolás és közúti szabályok",
+"subcategory":"Átjárók",
+"englishSubcategory":"Clearways",
+"description":"A forgalomtól mentes sáv azt jelenti, hogy az útnak ezen az oldalán tilos megállni vagy parkolni a sáv nyitvatartási idejében."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Megállás, parkolás és közúti szabályok",
+"subcategory":"Parkolás az átkelőhelyek közelében",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Gyalogátkelőhely közelében megállni veszélyes, mivel elrejtheti a gyalogosokat a közeledő autósok elől, ami növeli a balesetek kockázatát."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Megállás, parkolás és közúti szabályok",
+"subcategory":"Biztonsági megállás",
+"englishSubcategory":"Stopping for Safety",
+"description":"A Megállási tilos zónában csak akkor állhatsz meg, ha a forgalmi helyzet megkívánja, vagy vészhelyzet esetén."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Megállás, parkolás és közúti szabályok",
+"subcategory":"Parkolás dombokon",
+"englishSubcategory":"Parking on Hills",
+"description":"Emelkedőn történő parkoláskor mindig húzza be a kéziféket, és rögzítse a járművet a felborulás kockázatának csökkentése érdekében."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Megállás, parkolás és közúti szabályok",
+"subcategory":"Parkolás kereszteződésekhez közel",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Nem szabad túl közel parkolni a sarokhoz, mert az eltakarhatja a szembejövő forgalmat és a gyalogosokat, ami veszélyt jelenthet."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Megállás, parkolás és közúti szabályok",
+"subcategory":"Megállni és parkolni tilos",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"A feltüntetett időpontokat is jelző „Parkolni tilos” tábla azt jelenti, hogy a korlátozás csak a táblán feltüntetett időpontokban érvényes."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Gyalogosok, kerékpárosok és veszélyeztetett úthasználók",
+"subcategory":"Gyalogosok",
+"englishSubcategory":"Pedestrians",
+"description":"Kanyarodáskor a vezetőknek elsőbbséget kell adniuk a behajtásra kijelölt úttesten átkelő gyalogosoknak. Ez akkor is érvényes, ha a gyalogos nem kijelölt átkelőhelyen tartózkodik."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Gyalogosok, kerékpárosok és veszélyeztetett úthasználók",
+"subcategory":"Kerékpárosok",
+"englishSubcategory":"Cyclists",
+"description":"A sofőröknek több helyet kell biztosítaniuk a kerékpárosok előzésekor, mivel azoknak szükségük lehet helyre a veszélyek elkerülése vagy az egyensúlyuk megőrzése érdekében."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Gyalogosok, kerékpárosok és veszélyeztetett úthasználók",
+"subcategory":"Gyalogosok",
+"englishSubcategory":"Pedestrians",
+"description":"Bevásárlónegyedek vagy tömegközlekedési megállók közelében a sofőröknek fokozott gyalogosforgalomra és hirtelen átkelésekre kell számítaniuk. Ezeken a területeken mindig legyenek figyelmesek."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Gyalogosok, kerékpárosok és veszélyeztetett úthasználók",
+"subcategory":"Kerékpárosok",
+"englishSubcategory":"Cyclists",
+"description":"Amikor a kerékpáros kijelölt kerékpársávban halad, a vezetőknek kerülniük kell a sávban való közlekedést, kivéve, ha az engedélyezett és biztonságos."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Gyalogosok, kerékpárosok és veszélyeztetett úthasználók",
+"subcategory":"Gyermekek",
+"englishSubcategory":"Children",
+"description":"A sofőröknek fokozottan figyelniük kell az iskolák közelében, mivel a gyerekek kiszámíthatatlanul viselkedhetnek és rosszul ítélhetik meg a forgalmat. Lassítsanak az iskolai övezetekben."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Gyalogosok, kerékpárosok és veszélyeztetett úthasználók",
+"subcategory":"Kerékpárosok",
+"englishSubcategory":"Cyclists",
+"description":"Ha egy kerékpáros egy keskeny sáv közepén halad, a vezetőknek meg kell várniuk, amíg biztonságosan el lehet előzni, és elegendő hely van rájuk."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Gyalogosok, kerékpárosok és veszélyeztetett úthasználók",
+"subcategory":"Gyalogosok",
+"englishSubcategory":"Pedestrians",
+"description":"Gyermek-átkelőhelyen a járművezetőknek meg kell állniuk, ha zászlókat helyeznek ki és gyalogosok vannak jelen, ezzel is biztosítva a gyermekek biztonságát."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Gyalogosok, kerékpárosok és veszélyeztetett úthasználók",
+"subcategory":"Kerékpárosok",
+"englishSubcategory":"Cyclists",
+"description":"A sofőröknek mindig ellenőrizniük kell a holtterüket kanyarodás előtt, mivel a kerékpárosok láthatatlanul közlekedhetnek mellettük, különösen városi területeken."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Gyalogosok, kerékpárosok és veszélyeztetett úthasználók",
+"subcategory":"Idősek és fogyatékkal élők",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Az idős gyalogosoknak több időre lehet szükségük az átkeléshez, mivel lassabban haladhatnak, vagy mozgásszervi problémáik lehetnek. Adj nekik teret és időt a biztonságos átkeléshez."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Gyalogosok, kerékpárosok és veszélyeztetett úthasználók",
+"subcategory":"Kerékpárosok",
+"englishSubcategory":"Cyclists",
+"description":"A kerékpárosokat nehezebb észrevenni kereszteződésekhez közeledve, és gyorsan is mozoghatnak. Mindig hagyjon teret és időt a kerékpárosoknak a biztonságos közlekedéshez."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Különleges helyzetek és útviszonyok",
+"subcategory":"Iskolai zónák",
+"englishSubcategory":"School Zones",
+"description":"Az iskolaövezetben a sebességkorlátozások csak a táblákon feltüntetett időpontokban érvényesek. A gyermekek biztonsága érdekében kérjük, tartsa be azokat."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Különleges helyzetek és útviszonyok",
+"subcategory":"Iskolai zónák",
+"englishSubcategory":"School Zones",
+"description":"Az iskolaövezetekben a sofőröknek akkor is lassítaniuk kell, ha nem láthatók gyermekek, mivel a gyermekek hirtelen és kiszámíthatatlanul megjelenhetnek."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Különleges helyzetek és útviszonyok",
+"subcategory":"Útépítések",
+"englishSubcategory":"Roadworks",
+"description":"Útépítési munkálatok közeledtével lassítson le, és kövesse az ideiglenes jelzéseket a munkavállalók és a többi közlekedő biztonsága érdekében."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Különleges helyzetek és útviszonyok",
+"subcategory":"Útépítések",
+"englishSubcategory":"Roadworks",
+"description":"A munkaterületeken a sebességkorlátozásokat csökkentik a munkavállalók biztonsága és az útviszonyok változásainak figyelembevétele érdekében."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Különleges helyzetek és útviszonyok",
+"subcategory":"Vidéki utak",
+"englishSubcategory":"Rural Roads",
+"description":"Vidéki utakon a vadon élő állatok váratlanul az úttestre kerülhetnek. Vidéki területeken való áthaladáskor mindig legyen felkészülve a megállásra vagy a lassításra."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Különleges helyzetek és útviszonyok",
+"subcategory":"Vidéki utak",
+"englishSubcategory":"Rural Roads",
+"description":"A burkolatlan utak tapadása és fékképessége gyakran csökken. A vezetőknek csökkenteniük kell a sebességet, amikor burkolatlan felületen vezetnek."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Különleges helyzetek és útviszonyok",
+"subcategory":"Autópályák",
+"englishSubcategory":"Freeways",
+"description":"Ha elvétette az autópálya kijáratát, haladjon tovább a következő kijáratig, és ott biztonságosan forduljon meg. Ne próbáljon meg megállni vagy tolatni az autópályán."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Különleges helyzetek és útviszonyok",
+"subcategory":"Autópályák",
+"englishSubcategory":"Freeways",
+"description":"Tilos autópályán megállni, kivéve vészhelyzet esetén. Meghibásodás esetén mindig a padkát vagy a kihajtót használja."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Különleges helyzetek és útviszonyok",
+"subcategory":"Időjárási viszonyok",
+"englishSubcategory":"Weather Conditions",
+"description":"Heves esőzésben csökkentse a sebességet és növelje a követési távolságot. A nedves útfelület csökkentheti a tapadást és meghosszabbíthatja a fékutat."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Különleges helyzetek és útviszonyok",
+"subcategory":"Időjárási viszonyok",
+"englishSubcategory":"Weather Conditions",
+"description":"A köd csökkenti a látási viszonyokat és a mélységérzékelést, ami különösen veszélyessé teszi a vezetést. Ködös körülmények között lassítson le és növelje a követési távolságot."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Mentőautók és rendőrségi útvonaltervezés",
+"subcategory":"Mentőjármű elsőbbséget ad",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Amikor egy sürgősségi jármű közeledik villogóval és/vagy szirénával, húzódjon félre az útjából, és hagyja biztonságosan elhaladni."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Mentőautók és rendőrségi útvonaltervezés",
+"subcategory":"Mentőjármű elsőbbséget ad",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Ha egy közlekedési lámpánál állsz, és egy mentőautó közeledik hátulról, a legbiztonságosabb, ha félrehúzódsz, ha ez biztonságos és szabályos, egyébként pedig maradsz egy helyben, és hagyod elhaladni, ha lehetséges."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Mentőautók és rendőrségi útvonaltervezés",
+"subcategory":"Rendőrségi útirányok",
+"englishSubcategory":"Police Directions",
+"description":"Ha egy rendőr a jelzéstől eltérő utasítást ad, köteles követni a rendőr utasítását."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Mentőautók és rendőrségi útvonaltervezés",
+"subcategory":"Mentőjármű elsőbbséget ad",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Ha egy mentőautó villogó lámpákkal áll meg az út szélén, lassítson le, és óvatosan haladjon el mellette, ha biztonságos, haladjon el mellette."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Mentőautók és rendőrségi útvonaltervezés",
+"subcategory":"Rendőrségi útirányok",
+"englishSubcategory":"Police Directions",
+"description":"Ha a rendőrség ideiglenes útzárat állít fel, kövesse az utasításaikat és a kerülőutakat."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Mentőautók és rendőrségi útvonaltervezés",
+"subcategory":"Mentőjármű elsőbbséget ad",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Nem szabad szorosan egy mentőautó mögött haladni a forgalom gyorsabb áthaladása érdekében."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Mentőautók és rendőrségi útvonaltervezés",
+"subcategory":"Mentőjármű elsőbbséget ad",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Ha szirénát hall, de még nem látja a mentőautót, maradjon éber, ellenőrizze a tükröket, és készüljön fel a biztonságos mozgásra."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Mentőautók és rendőrségi útvonaltervezés",
+"subcategory":"Rendőrségi útirányok",
+"englishSubcategory":"Police Directions",
+"description":"Ha a közúti munkálatoknál a forgalomirányító utasításokat ad, akkor engedelmeskedni kell a forgalomirányítónak."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Mentőautók és rendőrségi útvonaltervezés",
+"subcategory":"Rendőrségi útirányok",
+"englishSubcategory":"Police Directions",
+"description":"Ha a rendőrség utasít a jogosítvány ellenőrzése miatti megállásért, akkor biztonságosan álljon meg az utasításoknak megfelelően."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Mentőautók és rendőrségi útvonaltervezés",
+"subcategory":"Mentőjármű elsőbbséget ad",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Ha egyetlen sávban haladsz, és egy mentőautó közeledik hátulról, akkor indexelj, és ha lehetséges, menj balra vagy biztonságos helyre."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Biztonsági övek, gyermekülések és utasok",
+"subcategory":"Biztonsági övek",
+"englishSubcategory":"Seatbelts",
+"description":"A sofőr felelős azért, hogy minden 16 év alatti utas viseljen biztonsági övet."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Biztonsági övek, gyermekülések és utasok",
+"subcategory":"Biztonsági övek",
+"englishSubcategory":"Seatbelts",
+"description":"Biztonsági övet – amennyiben van ilyen – menet közben mindig be kell csatolni."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Biztonsági övek, gyermekülések és utasok",
+"subcategory":"Gyermekbiztonsági rendszerek",
+"englishSubcategory":"Child Restraints",
+"description":"Gyermekülésre azért van szükség, mert úgy tervezték, hogy jobban illeszkedjen a gyermek testméretéhez és alakjához, és hatékonyabban védje azt, mint egy felnőtt biztonsági öv."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Biztonsági övek, gyermekülések és utasok",
+"subcategory":"Utasok",
+"englishSubcategory":"Passengers",
+"description":"Az utasoknak nem biztonságos lábukat a műszerfalra helyezniük, mivel a légzsákok és az ütközési erők súlyos sérüléseket okozhatnak."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Biztonsági övek, gyermekülések és utasok",
+"subcategory":"Gyermekbiztonsági rendszerek",
+"englishSubcategory":"Child Restraints",
+"description":"A gyermekülés kiválasztásának legbiztonságosabb általános szabálya, hogy a gyermek életkorának és méretének megfelelő, jóváhagyott ülést használjon."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Biztonsági övek, gyermekülések és utasok",
+"subcategory":"Biztonsági övek",
+"englishSubcategory":"Seatbelts",
+"description":"A biztonsági öv helytelen használatának gyakori jele, ha az övpánt a kar alatt vagy a hát mögött fut."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Biztonsági övek, gyermekülések és utasok",
+"subcategory":"Utasok",
+"englishSubcategory":"Passengers",
+"description":"Ha egy utas elvonja a vezető figyelmét, a legbiztonságosabb, ha megkéred, hogy álljon meg, és koncentráljon újra a vezetésre."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Biztonsági övek, gyermekülések és utasok",
+"subcategory":"Gyermekbiztonsági rendszerek",
+"englishSubcategory":"Child Restraints",
+"description":"Mozgó járműben nem biztonságos ölben tartani a babát, mert ütközés esetén nem tudjuk biztonságosan megtartani."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Biztonsági övek, gyermekülések és utasok",
+"subcategory":"Biztonsági övek",
+"englishSubcategory":"Seatbelts",
+"description":"A biztonsági övet úgy kell viselni, hogy az öv alsó része a csípőn át legyen kötve, hogy csökkentse a hasi sérülések kockázatát ütközés esetén."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Biztonsági övek, gyermekülések és utasok",
+"subcategory":"Utasok",
+"englishSubcategory":"Passengers",
+"description":"A rögzítetlen tárgyak utastérben történő szállításának egyik fő kockázata, hogy ütközés vagy hirtelen fékezés esetén azok szétrepülhetnek."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Járműbiztonság, hibák és karbantartás alapjai",
+"subcategory":"Gumiabroncsok",
+"englishSubcategory":"Tyres",
+"description":"A megfelelő gumiabroncsnyomás fontos a biztonság szempontjából, mivel befolyásolja a tapadást, a fékezést és a kormányozhatóságot."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Járműbiztonság, hibák és karbantartás alapjai",
+"subcategory":"Fékek",
+"englishSubcategory":"Brakes",
+"description":"Ha a fékpedál szivacsosnak érződik, vagy a szokásosnál jobban besüllyed, kezelje azt komoly hibaként, és azonnal ellenőriztesse a fékeket."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Járműbiztonság, hibák és karbantartás alapjai",
+"subcategory":"Fények és láthatóság",
+"englishSubcategory":"Lights & Visibility",
+"description":"Rendszeresen ellenőrizze a jármű összes lámpáját, hogy biztosan jól lássa Önt, és mások is láthassák Önt."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Járműbiztonság, hibák és karbantartás alapjai",
+"subcategory":"Kormányzás és felfüggesztés",
+"englishSubcategory":"Steering & Suspension",
+"description":"A kormányprobléma figyelmeztető jele lehet a szokatlan húzás, rezgés vagy a kormányzási nehézség."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Járműbiztonság, hibák és karbantartás alapjai",
+"subcategory":"Szélvédő és ablaktörlők",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"A kopott ablaktörlő lapátok biztonsági problémát jelentenek, mivel esőben csökkentik a látási viszonyokat."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Járműbiztonság, hibák és karbantartás alapjai",
+"subcategory":"Gumiabroncsok",
+"englishSubcategory":"Tyres",
+"description":"A gumiabroncsok biztonságosságának gyakori jele, ha a futófelület kopott vagy egyenetlenül kopott."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Járműbiztonság, hibák és karbantartás alapjai",
+"subcategory":"Tükrök és beállítás",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Vezetés előtt be kell állítani a tükröket a holtterek csökkentése és a jobb látási viszonyok érdekében."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Járműbiztonság, hibák és karbantartás alapjai",
+"subcategory":"Fékek",
+"englishSubcategory":"Brakes",
+"description":"Ha a fékek csikorgó hangot adnak ki, a lehető leghamarabb ellenőriztesd őket."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Járműbiztonság, hibák és karbantartás alapjai",
+"subcategory":"Fények és láthatóság",
+"englishSubcategory":"Lights & Visibility",
+"description":"Rossz látási viszonyok között, amikor a fényerő csökken, használd a fényszórókat, hogy mások is láthassák."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Járműbiztonság, hibák és karbantartás alapjai",
+"subcategory":"Szélvédő és ablaktörlők",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Ha a szélvédőd a látóteredben erősen megrepedt, javítsd meg vagy cseréld ki, mielőtt továbbhaladnál."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Rakományok, vontatás és nehézgépjármű-tudatosság",
+"subcategory":"Terhelések",
+"englishSubcategory":"Loads",
+"description":"A rakományokat megfelelően rögzíteni kell, hogy megakadályozzuk az elmozdulásukat vagy leesésüket, és ezáltal a baleseteket."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Rakományok, vontatás és nehézgépjármű-tudatosság",
+"subcategory":"Terhelések",
+"englishSubcategory":"Loads",
+"description":"A járműben lévő nem rögzített rakomány hirtelen fékezéskor lövedékké válhat, ami jelentős biztonsági kockázatot jelent."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Rakományok, vontatás és nehézgépjármű-tudatosság",
+"subcategory":"Terhelések",
+"englishSubcategory":"Loads",
+"description":"A túlterhelt jármű szállítása a féktávolság növekedésével befolyásolja a fékezést."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Rakományok, vontatás és nehézgépjármű-tudatosság",
+"subcategory":"Terhelések",
+"englishSubcategory":"Loads",
+"description":"A hosszú tárgyak szállításának legbiztonságosabb módja, ha rögzítjük őket, hogy ne mozdulhassanak el vagy nyúlhassanak ki veszélyesen."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Rakományok, vontatás és nehézgépjármű-tudatosság",
+"subcategory":"Vontatás",
+"englishSubcategory":"Towing",
+"description":"Az utánfutó vontatása növeli a féktávolságot, mivel a plusz súly csökkenti a fékhatást."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Rakományok, vontatás és nehézgépjármű-tudatosság",
+"subcategory":"Vontatás",
+"englishSubcategory":"Towing",
+"description":"Utánfutó vontatása előtt ellenőrizze a vonóhorog, a lámpák és a biztonsági lánc biztonságos rögzítését."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Rakományok, vontatás és nehézgépjármű-tudatosság",
+"subcategory":"Vontatás",
+"englishSubcategory":"Towing",
+"description":"Vontatás közben kanyarodáskor hagyjon több helyet, mivel az utánfutó a kanyarodási útvonalon belül halad."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Rakományok, vontatás és nehézgépjármű-tudatosság",
+"subcategory":"Terhelések",
+"englishSubcategory":"Loads",
+"description":"A hátrafelé kilátást eltakaró rakomány csökkenti a mögöttes forgalom észlelését, növelve a balesetek kockázatát."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Rakományok, vontatás és nehézgépjármű-tudatosság",
+"subcategory":"Nehéz járművek",
+"englishSubcategory":"Heavy Vehicles",
+"description":"A nehézgépjárműveknek több helyre van szükségük a megálláshoz, mivel nagyobb tömegük növeli a féktávolságot."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Rakományok, vontatás és nehézgépjármű-tudatosság",
+"subcategory":"Nehéz járművek",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Nagy teherautó követésekor növelje a követési távolságot a holtterek és a teherautó hosszabb fékútjának figyelembevételével."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Engedélyezés, L/P rendszámtáblára vonatkozó szabályok és gyakorlati DKT-csapdák (VIC)",
+"subcategory":"Tanulói engedély szabályai",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Viktoriánus tanulóvezetőként csak akkor vezethetsz autót, ha egy megfelelő jogosítvánnyal rendelkező sofőr ül melletted."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Engedélyezés, L/P rendszámtáblára vonatkozó szabályok és gyakorlati DKT-csapdák (VIC)",
+"subcategory":"Tanulói engedély szabályai",
+"englishSubcategory":"Learner Permit Rules",
+"description":"A tanulóvezetőknek jól látható helyen kell elhelyezniük L-táblájukat, hogy azok a jármű többi utasa számára mindig láthatóak legyenek."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Engedélyezés, L/P rendszámtáblára vonatkozó szabályok és gyakorlati DKT-csapdák (VIC)",
+"subcategory":"Tanulói engedély szabályai",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Ha a felügyelő sofőr elalszik vezetés közben, álljon meg biztonságosan, és ne folytassa a vezetést megfelelő felügyelet nélkül."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Engedélyezés, L/P rendszámtáblára vonatkozó szabályok és gyakorlati DKT-csapdák (VIC)",
+"subcategory":"Mobiltelefonok és eszközök",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Victoriában tanulóvezetőként semmilyen módon nem használhatsz mobiltelefont vezetés közben."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Engedélyezés, L/P rendszámtáblára vonatkozó szabályok és gyakorlati DKT-csapdák (VIC)",
+"subcategory":"Tanulói engedély szabályai",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Ha vezetés közben leesik az L-táblája, álljon meg biztonságosan, és szerelje vissza, mielőtt folytatná a vezetést."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Engedélyezés, L/P rendszámtáblára vonatkozó szabályok és gyakorlati DKT-csapdák (VIC)",
+"subcategory":"Felügyelet",
+"englishSubcategory":"Supervision",
+"description":"A tanulófelügyeleti szabályok fő biztonsági célja annak biztosítása, hogy egy tapasztalt vezető szükség esetén iránymutatást tudjon adni és beavatkozhasson."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Engedélyezés, L/P rendszámtáblára vonatkozó szabályok és gyakorlati DKT-csapdák (VIC)",
+"subcategory":"Feltételek és megfelelés",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Ha egy tanulóvezetőt felügyelet nélkül vezet, büntetésekre és esetleges jogosítvány-következményekre számíthat."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Engedélyezés, L/P rendszámtáblára vonatkozó szabályok és gyakorlati DKT-csapdák (VIC)",
+"subcategory":"Veszélyészlelés",
+"englishSubcategory":"Hazard Perception",
+"description":"Gyakori csapda a kereszteződésekben a tanulóvezetők körében, hogy anélkül kanyarodnak be, hogy ellenőriznék, átkelnek-e gyalogosok az úton, amelyre belépnek."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Engedélyezés, L/P rendszámtáblára vonatkozó szabályok és gyakorlati DKT-csapdák (VIC)",
+"subcategory":"Veszélyészlelés",
+"englishSubcategory":"Hazard Perception",
+"description":"Még zöld lámpa mellett is lassítani vagy megállni kell, ha forgalomtorlódás van előtted, vagy gyalogosok kelnek át az úton."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Engedélyezés, L/P rendszámtáblára vonatkozó szabályok és gyakorlati DKT-csapdák (VIC)",
+"subcategory":"Tanulói engedély szabályai",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Ha tanulót felügyelsz, a felügyelő sofőrnek mindig az első utasülésen kell ülnie."
+}
+]

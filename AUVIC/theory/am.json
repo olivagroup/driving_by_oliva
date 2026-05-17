@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"የመንገድ ደንቦች እና ህጎች",
+"subcategory":"የመንገድ አጠቃላይ ህጎች",
+"englishSubcategory":"General Road Rules",
+"description":"አሽከርካሪዎች ደህንነትን እና የትራፊክ ፍሰትን ለስላሳ ለማድረግ አጠቃላይ የመንገድ ደንቦችን መከተል አለባቸው። ይህም የትራፊክ ምልክቶችን፣ ምልክቶችን እና የመስመር ምልክቶችን ማክበርን ያካትታል። እነዚህን ደንቦች አለማክበር አደጋዎችን እና ቅጣቶችን ሊያስከትል ይችላል።"
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"የመንገድ ደንቦች እና ህጎች",
+"subcategory":"የመስጠት መንገድ",
+"englishSubcategory":"Giving Way",
+"description":"አሽከርካሪዎች በመገናኛ መንገዶች፣ አደባባዮች እና የእግረኛ መሻገሪያዎች ላይ እንዲሁም በሌሎች ቦታዎች ለሌሎች ተሽከርካሪዎች ወይም እግረኞች መንገድ መስጠት ይጠበቅባቸዋል። መንገድ አለመስጠት ወንጀል ነው።"
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"የመንገድ ደንቦች እና ህጎች",
+"subcategory":"የሌይን አጠቃቀም",
+"englishSubcategory":"Lane Use",
+"description":"አሽከርካሪዎች ተገቢውን መስመሮች መጠቀም እና የመስመር ምልክቶችን መከተል አለባቸው። ይህም የመስመር ለውጦችን፣ ማለፍን እና የብስክሌት ወይም የአውቶቡስ መስመሮችን መጠቀምን የሚመለከቱ ደንቦችን ያካትታል። ጥሰቶች ቅጣት ወይም አደጋዎችን ሊያስከትሉ ይችላሉ።"
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"የመንገድ ደንቦች እና ህጎች",
+"subcategory":"ትራሞች",
+"englishSubcategory":"Trams",
+"description":"አሽከርካሪዎች የትራም ደንቦችን ማወቅ አለባቸው፤ ከእነዚህም መካከል በትራም ማቆሚያዎች ላይ ለእግረኞች መንገድ መስጠት፣ በሮች ክፍት ለሆኑ ትራም ማቆም እና በተወሰኑ ሁኔታዎች ትራሞችን አለማለፍ ይገኙበታል።"
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"የመንገድ ደንቦች እና ህጎች",
+"subcategory":"መስቀለኛ መንገዶች",
+"englishSubcategory":"Intersections",
+"description":"በመገናኛ መንገዶች ላይ፣ አሽከርካሪዎች ቦታቸውን ለማቋረጥ እና በፌርማታ ምልክቶች ወይም በትራፊክ መብራቶች ላይ ለማቆም ትክክለኛውን የአሠራር ሂደት መከተል አለባቸው። እነዚህን ደንቦች መረዳት አደጋዎችን ለመከላከል በጣም አስፈላጊ ነው።"
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"የመንገድ ደንቦች እና ህጎች",
+"subcategory":"ዩ-ተርንስ",
+"englishSubcategory":"U-Turns",
+"description":"ዩ-ተርን ማድረግ የሚፈቀደው በመገናኛ መንገዶች ላይ ወይም የሚከለክላቸው ምንም ምልክት በማይኖርበት ጊዜ ብቻ ነው። አሽከርካሪዎች ዩ-ተርን ከማድረግዎ በፊት ደህንነቱ የተጠበቀ መሆኑን ማረጋገጥ አለባቸው።"
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"የመንገድ ደንቦች እና ህጎች",
+"subcategory":"የፍጥነት ገደቦች",
+"englishSubcategory":"Speed Limits",
+"description":"አሽከርካሪዎች በመንገድ ላይ ደህንነትን ለማረጋገጥ የተለጠፉትን የፍጥነት ገደቦች ማክበር አለባቸው። የፍጥነት ፍጥነት መቀጮ፣ የመንጃ ፈቃድ ማጣት እና የአደጋዎች አደጋን ይጨምራል።"
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"የመንገድ ደንቦች እና ህጎች",
+"subcategory":"የእግረኛ ደህንነት",
+"englishSubcategory":"Pedestrian Safety",
+"description":"አሽከርካሪዎች በመሻገሪያ ቦታዎች ላይ ለእግረኞች መንገድ መስጠት እና በእግረኞች ዞኖች አቅራቢያ ሲሆኑ ደህንነታቸውን ማረጋገጥ አለባቸው። በመሻገሪያ ቦታዎች ለእግረኞች ማቆም አለመቻል ወንጀል ነው።"
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"የመንገድ ደንቦች እና ህጎች",
+"subcategory":"የባቡር ሐዲድ መሻገሪያዎች",
+"englishSubcategory":"Railway Crossings",
+"description":"አሽከርካሪዎች መብራቶቹ ሲበሩ ወይም የቡም በሮች ሲዘጉ በባቡር ማቋረጫ ቦታዎች ላይ ማቆም አለባቸው። እነዚህን ምልክቶች ችላ ማለት ከባድ ወንጀል ሲሆን ቅጣትና አደጋዎችን ሊያስከትል ይችላል።"
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"የመንገድ ደንቦች እና ህጎች",
+"subcategory":"የአደጋ ጊዜ ተሽከርካሪዎች",
+"englishSubcategory":"Emergency Vehicles",
+"description":"አሽከርካሪዎች ብልጭ ድርግም የሚሉ መብራቶችን እና ሳይረኖችን በመጠቀም ለአደጋ ጊዜ ተሽከርካሪዎች ቦታ መስጠት አለባቸው፣ ይህም ተሽከርካሪው በትራፊክ ውስጥ ለመንቀሳቀስ ግልጽ መንገድ እንዳለው ማረጋገጥ ነው።"
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"የትራፊክ ምልክቶች እና ሲግናሎች",
+"subcategory":"የቁጥጥር ምልክቶች",
+"englishSubcategory":"Regulatory Signs",
+"description":"የቁጥጥር ምልክቶች ለአሽከርካሪዎች እንደ የፍጥነት ገደቦች፣ የማዞሪያ ገደቦች እና የመግቢያ ምልክቶች ያሉ አስገዳጅ መመሪያዎችን ይሰጣሉ። እነዚህን ምልክቶች መከተል በመንገድ ላይ ደህንነትን እና ሥርዓትን ለመጠበቅ በሕግ ይገደዳል።"
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"የትራፊክ ምልክቶች እና ሲግናሎች",
+"subcategory":"የማስጠንቀቂያ ምልክቶች",
+"englishSubcategory":"Warning Signs",
+"description":"የማስጠንቀቂያ ምልክቶች አሽከርካሪዎችን እንደ ሹል መታጠፊያዎች፣ የትምህርት ቤት ዞኖች እና የዱር እንስሳት መሻገሪያዎች ላሉ ሊከሰቱ ለሚችሉ አደጋዎች ያስጠነቅቃሉ። እነዚህ ምልክቶች አሽከርካሪዎች አደጋዎችን ለማስወገድ መንዳትን እንዲያስተካክሉ ይረዷቸዋል።"
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"የትራፊክ ምልክቶች እና ሲግናሎች",
+"subcategory":"የፍጥነት ምልክቶች",
+"englishSubcategory":"Speed Signs",
+"description":"የፍጥነት ምልክቶች በመንገድ ላይ የሚፈቀደውን ከፍተኛ ወይም ዝቅተኛ ፍጥነት ያመለክታሉ። አሽከርካሪዎች ደህንነቱ የተጠበቀ የማሽከርከር ሁኔታዎችን ለማረጋገጥ እና ቅጣትን ለማስወገድ እነዚህን ገደቦች ማክበር አለባቸው።"
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"የትራፊክ ምልክቶች እና ሲግናሎች",
+"subcategory":"የትራፊክ መብራቶች",
+"englishSubcategory":"Traffic Lights",
+"description":"የትራፊክ መብራቶች በመገናኛ መንገዶች ላይ የተሽከርካሪዎችን እና የእግረኞችን ፍሰት ይቆጣጠራሉ። ቀይ ማለት ማቆም፣ አረንጓዴ ማለት መሄድ ማለት ሲሆን ቢጫ ደግሞ ለማቆም መዘጋጀትን የሚጠይቅ ማስጠንቀቂያ ነው።"
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"የትራፊክ ምልክቶች እና ሲግናሎች",
+"subcategory":"የእግረኛ መንገዶች",
+"englishSubcategory":"Pedestrian Signals",
+"description":"የእግረኛ ምልክቶች ለእግረኞች መንገዱን ማቋረጥ መቼ ደህንነቱ የተጠበቀ እንደሆነ ያመለክታሉ። እነዚህ ምልክቶች ብዙውን ጊዜ የእግረኞችን ደህንነት ለማረጋገጥ ከትራፊክ መብራቶች ጋር ይጣጣማሉ።"
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"የትራፊክ ምልክቶች እና ሲግናሎች",
+"subcategory":"የሌይን መቆጣጠሪያ ሲግናሎች",
+"englishSubcategory":"Lane Control Signals",
+"description":"የሌይን መቆጣጠሪያ ምልክቶች አንድ መስመር ክፍት ወይም ዝግ መሆኑን ለማመልከት ያገለግላሉ። እነዚህ ምልክቶች በተለምዶ በብዙ መስመር መንገዶች እና በዋሻዎች ውስጥ ያገለግላሉ።"
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"የትራፊክ ምልክቶች እና ሲግናሎች",
+"subcategory":"የመኪና ማቆሚያ ምልክቶች የሉም",
+"englishSubcategory":"No Parking Signs",
+"description":"የመኪና ማቆሚያ ምልክቶች ማቆም ወይም ማቆም የተከለከለባቸውን ቦታዎች አያመለክቱም። ይህ ብዙውን ጊዜ የትራፊክ ፍሰት በተቀላጠፈ ሁኔታ እንዲሄድ እና ደህንነት እንዲጠበቅ ለማረጋገጥ ነው።"
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"የትራፊክ ምልክቶች እና ሲግናሎች",
+"subcategory":"የአንድ መንገድ ምልክቶች",
+"englishSubcategory":"One-Way Signs",
+"description":"የአንድ አቅጣጫ ምልክቶች ትራፊክ በአንድ አቅጣጫ ብቻ መጓዝ እንዳለበት ያመለክታሉ። እነዚህን ምልክቶች ችላ ማለት አደጋዎችን እና ህጋዊ ውጤቶችን ሊያስከትል ይችላል።"
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"የትራፊክ ምልክቶች እና ሲግናሎች",
+"subcategory":"የማቆሚያ ምልክቶች",
+"englishSubcategory":"Stop Signs",
+"description":"የማቆሚያ ምልክቶች አሽከርካሪዎች ከመቀጠላቸው በፊት ሙሉ በሙሉ ቆመው ለሌሎች ተሽከርካሪዎች ወይም እግረኞች ቅድሚያ እንዲሰጡ ይጠይቃሉ።"
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"የትራፊክ ምልክቶች እና ሲግናሎች",
+"subcategory":"የመስጠት ምልክቶች",
+"englishSubcategory":"Give Way Signs",
+"description":"የመንገድ ምልክት አሽከርካሪዎች ለሌሎች የመንገድ ተጠቃሚዎች፣ ለእግረኞችም ሆነ ለተሽከርካሪዎች፣ እንደሁኔታው፣ አደጋን ለመከላከል እንዲያስችሉ ያስተምራል።"
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"የፍጥነት እና የርቀት ህጎች",
+"subcategory":"የፍጥነት ገደቦች",
+"englishSubcategory":"Speed Limits",
+"description":"በቪክቶሪያ ውስጥ በተጨናነቀ ቦታ ላይ ያለው ነባሪ የፍጥነት ገደብ ሌላ ፊርማ ከሌለ በስተቀር በሰዓት 50 ኪ.ሜ ነው። በህጋዊ የፍጥነት ገደቦች ውስጥ መንዳትዎን ለማረጋገጥ ሁልጊዜ የተለጠፉ ምልክቶችን ያረጋግጡ።"
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"የፍጥነት እና የርቀት ህጎች",
+"subcategory":"የፍጥነት ገደቦች",
+"englishSubcategory":"Speed Limits",
+"description":"በምልክቱ ላይ በተጠቀሰው ሰዓት ውስጥ በተፈረመ የትምህርት ቤት ዞን ውስጥ፣ መንገዱን የሚያቋርጡ ልጆች ደህንነት ለማረጋገጥ የፍጥነት ገደቡ ወደ 40 ኪ.ሜ/ሰ ይቀንሳል።"
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"የፍጥነት እና የርቀት ህጎች",
+"subcategory":"የመከተል ርቀት",
+"englishSubcategory":"Following Distance",
+"description":"በተመቻቸ ሁኔታ ውስጥ ዝቅተኛው ደህንነቱ የተጠበቀ የመከታተያ ርቀት ከፊት ለፊት ካለው ተሽከርካሪ ቢያንስ በሁለት ሰከንዶች በኋላ ነው። ይህም ከፊት ያለው ተሽከርካሪ በድንገት ቢቆም ምላሽ ለመስጠት በቂ ጊዜ ይሰጣል።"
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"የፍጥነት እና የርቀት ህጎች",
+"subcategory":"የፍጥነት ገደቦች",
+"englishSubcategory":"Speed Limits",
+"description":"በደህንነት ቀጠና ውስጥ የቆመ ትራም ሲያልፉ፣ ከትራሙ የሚሳፈሩ ወይም የሚወርዱ ተሳፋሪዎች ደህንነት ለማረጋገጥ ፍጥነትዎን ወደ 10 ኪ.ሜ/ሰ መቀነስ አለብዎት።"
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"የፍጥነት እና የርቀት ህጎች",
+"subcategory":"የፍጥነት ገደቦች",
+"englishSubcategory":"Speed Limits",
+"description":"የፍጥነት ምልክቶች በሌሉባቸው የገጠር መንገዶች ላይ፣ በአካባቢው ምልክቶች ካልተገለጸ በስተቀር ነባሪው የፍጥነት ገደብ በሰዓት 100 ኪ.ሜ ነው። ደህንነትን ለመጠበቅ የመንገድ ሁኔታዎችን ፍጥነትዎን ያስተካክሉ።"
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"የፍጥነት እና የርቀት ህጎች",
+"subcategory":"የመከተል ርቀት",
+"englishSubcategory":"Following Distance",
+"description":"እርጥብ በሆኑ የአየር ሁኔታዎች፣ የመከተል ርቀትዎን ቢያንስ ወደ አራት ሰከንዶች ማሳደግ አለብዎት። እርጥብ መንገዶች መጎተትን ይቀንሳሉ፣ ይህም ደህንነቱ በተጠበቀ ሁኔታ ለማቆም ተጨማሪ ጊዜ ይፈልጋል።"
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"የፍጥነት እና የርቀት ህጎች",
+"subcategory":"የፍጥነት ገደቦች",
+"englishSubcategory":"Speed Limits",
+"description":"የኤሌክትሮኒክስ ተለዋዋጭ የፍጥነት ገደብ ምልክቶችን በሚሠሩበት ጊዜ ሁሉ ያክብሩ። እነዚህ ምልክቶች የፍጥነት ገደቦችን የሚያስተካክሉት በትራፊክ ሁኔታዎች፣ በአየር ሁኔታ ወይም በመንገድ ላይ በሚከሰቱ ክስተቶች ላይ በመመስረት ነው።"
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"የፍጥነት እና የርቀት ህጎች",
+"subcategory":"የማቆሚያ ርቀት",
+"englishSubcategory":"Stopping Distance",
+"description":"ፍጥነትዎ እየጨመረ ሲሄድ፣ ተሽከርካሪዎን ደህንነቱ በተጠበቀ ሁኔታ ለማቆም የሚያስፈልገው የማቆሚያ ርቀትም ይጨምራል። ሁልጊዜም ለአደጋዎች ምላሽ ለመስጠት በቂ ርቀት እንዳለዎት ያረጋግጡ።"
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"የፍጥነት እና የርቀት ህጎች",
+"subcategory":"የፍጥነት ገደቦች",
+"englishSubcategory":"Speed Limits",
+"description":"በተጋሩ ዞኖች፣ ተሽከርካሪዎችና ሞተር የሌላቸው የመንገድ ተጠቃሚዎች በሚገናኙባቸው በእነዚህ አካባቢዎች የእግረኞችንና የብስክሌተኞችን ደህንነት ለማረጋገጥ የፍጥነት ገደቡ በአጠቃላይ 10 ኪ.ሜ/ሰ ነው።"
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"የፍጥነት እና የርቀት ህጎች",
+"subcategory":"የመከተል ርቀት",
+"englishSubcategory":"Following Distance",
+"description":"የኋላ መጨመሪያ አደገኛ ነው ምክንያቱም የምላሽ እና የፍሬን ጊዜን ይቀንሳል። በተለይም እይታዎን ሊያደናቅፉ የሚችሉ ትላልቅ ተሽከርካሪዎችን ሲነዱ ሁልጊዜ ደህንነቱ የተጠበቀ የመከተል ርቀት ይጠብቁ።"
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"የአሽከርካሪ ኃላፊነቶች",
+"subcategory":"ሕጋዊ ግዴታዎች",
+"englishSubcategory":"Legal Obligations",
+"description":"አሽከርካሪዎች እንደ አደጋ ከደረሰ በኋላ እርዳታ መስጠት፣ ከአደጋ በኋላ ዝርዝሮችን መለዋወጥ እና በሕግ በሚጠየቀው መሰረት ለባለሥልጣናት ሪፖርት ማድረግ ያሉ የተለያዩ የሕግ ግዴታዎችን መወጣት አለባቸው።"
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"የአሽከርካሪ ኃላፊነቶች",
+"subcategory":"ትኩረት እና ቁጥጥር",
+"englishSubcategory":"Attention & Control",
+"description":"አሽከርካሪዎች ሁልጊዜ ተሽከርካሪዎቻቸውን መቆጣጠር አለባቸው፣ ትኩረትን የሚከፋፍሉ ነገሮችን በማስወገድ እና የራሳቸውንም ሆነ የሌሎች የመንገድ ተጠቃሚዎችን ደህንነት ለማረጋገጥ ትኩረትን በመጠበቅ።"
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"የአሽከርካሪ ኃላፊነቶች",
+"subcategory":"ሕጋዊ ግዴታዎች",
+"englishSubcategory":"Legal Obligations",
+"description":"አደጋ በሚደርስበት ጊዜ አሽከርካሪዎች በተቻለ መጠን ማቆም እና እርዳታ መስጠት አለባቸው። በእንደዚህ አይነት ሁኔታዎች ማቆም እና መርዳት አለመቻል ህጋዊ ጥሰት ነው።"
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"የአሽከርካሪ ኃላፊነቶች",
+"subcategory":"ትኩረት እና ቁጥጥር",
+"englishSubcategory":"Attention & Control",
+"description":"አሽከርካሪዎች ሁልጊዜ ተሽከርካሪዎቻቸውን ሙሉ በሙሉ መቆጣጠር፣ ለተለዋዋጭ የትራፊክ ሁኔታዎች ተገቢውን ምላሽ መስጠታቸውን እና ደህንነቱ የተጠበቀ የመንዳት አካባቢን መጠበቅ አስፈላጊ ነው።"
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"የአሽከርካሪ ኃላፊነቶች",
+"subcategory":"ሕጋዊ ግዴታዎች",
+"englishSubcategory":"Legal Obligations",
+"description":"አሽከርካሪዎች አንድ ሰው ጉዳት ከደረሰበት ወይም ንብረት ከተጎዳ እና ዝርዝሮቹ ሊለዋወጡ ካልቻሉ ለፖሊስ ሪፖርት ማድረግ አለባቸው። እነዚህን ክስተቶች ሪፖርት አለማድረግ ቅጣት ሊያስከትል ይችላል።"
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"የአሽከርካሪ ኃላፊነቶች",
+"subcategory":"የድካም አስተዳደር",
+"englishSubcategory":"Fatigue Management",
+"description":"ድካም በሚነዱበት ጊዜ ከባድ አደጋ ነው። አሽከርካሪዎች እንደ ማዛጋት እና የትኩረት ማጣት ያሉ የድካም የመጀመሪያ ምልክቶችን ማወቅ እና አደጋዎችን ለመከላከል ተገቢውን እርምጃ መውሰድ አለባቸው።"
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"የአሽከርካሪ ኃላፊነቶች",
+"subcategory":"ሕጋዊ ግዴታዎች",
+"englishSubcategory":"Legal Obligations",
+"description":"አሽከርካሪዎች ፖሊስ ሲጠይቃቸው ፈቃዳቸውን ማቅረብ አለባቸው። ፈቃዱን ለመስጠት ፈቃደኛ አለመሆን ቅጣት ወይም ተጨማሪ የሕግ ውጤቶችን ሊያስከትል ይችላል።"
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"የአሽከርካሪ ኃላፊነቶች",
+"subcategory":"ትኩረት እና ቁጥጥር",
+"englishSubcategory":"Attention & Control",
+"description":"አሽከርካሪዎች ሌሎች የመንገድ ተጠቃሚዎችን ሊያስደነግጥ ወይም ሊያዘናጋ ስለሚችል መለከትን አላስፈላጊ በሆነ መንገድ ከመጠቀም መቆጠብ አለባቸው። መለከት አስፈላጊ በሚሆንበት ጊዜ ሌሎች ሰዎች ስለመኖራቸው ለማሳወቅ ብቻ ጥቅም ላይ መዋል አለበት።"
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"የአሽከርካሪ ኃላፊነቶች",
+"subcategory":"የድካም አስተዳደር",
+"englishSubcategory":"Fatigue Management",
+"description":"መኪና መንዳት ለመቀጠል በጣም ደክሞዎት ከሆነ፣ በጣም አስተማማኝው ምላሽ ከመቀጠልዎ በፊት ማቆም እና ማረፍ ነው። ደክሞዎት እያለ መንዳት የአደጋዎችን አደጋ በእጅጉ ይጨምራል።"
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"የአሽከርካሪ ኃላፊነቶች",
+"subcategory":"ሕጋዊ ግዴታዎች",
+"englishSubcategory":"Legal Obligations",
+"description":"አሽከርካሪዎች ተሳፋሪዎቻቸው ደህንነቱ በተጠበቀ ሁኔታ እንዲቀመጡና እንዲታሰሩ የማድረግ ኃላፊነት አለባቸው። ይህም ልጆች ተገቢ የሕፃናት መቀመጫዎች ላይ እንዲቀመጡ እና አዋቂዎች የደህንነት ቀበቶ እንዲለብሱ ማረጋገጥን ያካትታል።"
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"አልኮል፣ አደንዛዥ እጾች እና ጤና",
+"subcategory":"የአልኮል ገደቦች",
+"englishSubcategory":"Alcohol Limits",
+"description":"በቪክቶሪያ፣ የተማሪ አሽከርካሪዎች እና የሙከራ ጊዜ አሽከርካሪዎች (P1 እና P2) ሁልጊዜ የደም ውስጥ 0.00 የአልኮል ክምችት (BAC) መያዝ አለባቸው። ሙሉ ፈቃድ ያላቸው አሽከርካሪዎች የBAC ገደብ 0.05 ነው፣ ነገር ግን በሚነዱበት ጊዜ ጨርሶ አለመጠጣት የተሻለ ነው።"
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"አልኮል፣ አደንዛዥ እጾች እና ጤና",
+"subcategory":"የአልኮል ተጽእኖዎች",
+"englishSubcategory":"Alcohol Effects",
+"description":"አልኮል የማመዛዘን ችሎታን፣ የምላሽ ጊዜን እና ቅንጅትን ያዛባል፣ ይህም የአደጋዎችን አደጋ በእጅጉ ሊጨምር ይችላል። አነስተኛ መጠን ያለው አልኮል እንኳን ደህንነቱ በተጠበቀ ሁኔታ የመንዳት ችሎታዎን ሊቀንስ ይችላል።"
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"አልኮል፣ አደንዛዥ እጾች እና ጤና",
+"subcategory":"የአደንዛዥ ዕፅ ማሽከርከር",
+"englishSubcategory":"Drug Driving",
+"description":"በሐኪም ትዕዛዝ የሚታዘዙ መድኃኒቶችን ጨምሮ በመድኃኒቶች ተጽዕኖ ሥር መንዳት ምንም አይነት ችግር ባይሰማዎትም እንኳ የመንዳት ችሎታዎን ሊያዛባ ይችላል። አደገኛ ሁኔታዎችን ማወቅ እና አደንዛዥ ዕፅ ከተጠቀሙ በኋላ መንዳትን ማስወገድ አስፈላጊ ነው።"
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"አልኮል፣ አደንዛዥ እጾች እና ጤና",
+"subcategory":"የመድኃኒት ደህንነት",
+"englishSubcategory":"Medication Safety",
+"description":"አዲስ የታዘዘ መድሃኒት ከመጀመርዎ በፊት፣ መኪና የመንዳት ችሎታዎን የሚጎዳ እና የህክምና ምክርን የመከተል ችሎታዎን የሚጎዳ መሆኑን ያረጋግጡ። አንዳንድ መድሃኒቶች እንቅልፍን ሊያስከትሉ ወይም ትኩረትን ሊጎዱ ይችላሉ።"
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"አልኮል፣ አደንዛዥ እጾች እና ጤና",
+"subcategory":"ድካም እና ጤና",
+"englishSubcategory":"Fatigue & Health",
+"description":"ድካም ልክ እንደ አልኮል ወይም አደንዛዥ ዕፅ ደህንነቱ በተጠበቀ ሁኔታ የመንዳት ችሎታዎን ሊያዛባ ይችላል። ከማሽከርከርዎ በፊት በቂ እረፍት ማግኘትዎን ያረጋግጡ፣ እና ከድካም ጋር የተያያዙ አደጋዎችን አደጋ ለመቀነስ ረጅም ጉዞዎችን በማድረግ እረፍት ይውሰዱ።"
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"አልኮል፣ አደንዛዥ እጾች እና ጤና",
+"subcategory":"የአልኮል ተጽእኖዎች",
+"englishSubcategory":"Alcohol Effects",
+"description":"ከጠጡ በኋላ በሰውነትዎ ውስጥ ያለውን የአልኮል መጠን የሚቀንሰው ጊዜ ብቻ ነው። ቡና፣ ቀዝቃዛ ሻወር ወይም ሌሎች ዘዴዎች ይህንን ሂደት አያፋጥኑትም።"
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"አልኮል፣ አደንዛዥ እጾች እና ጤና",
+"subcategory":"የአልኮል ገደቦች",
+"englishSubcategory":"Alcohol Limits",
+"description":"በቪክቶሪያ ውስጥ፣ ሁሉም ተማሪዎች እና የሙከራ ጊዜ አሽከርካሪዎች BAC 0.00 መሆን አለባቸው። ሙሉ ፈቃድ ላላቸው አሽከርካሪዎች የBAC ገደቡ 0.05 ነው። ሆኖም፣ ከማሽከርከርዎ በፊት አልኮልን ማስወገድ ሁልጊዜ በጣም አስተማማኝ አማራጭ ነው።"
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"አልኮል፣ አደንዛዥ እጾች እና ጤና",
+"subcategory":"የአደንዛዥ ዕፅ ማሽከርከር",
+"englishSubcategory":"Drug Driving",
+"description":"ምንም እንኳን ምንም አይነት ችግር ባይሰማዎትም በቪክቶሪያ ውስጥ በስርዓትዎ ውስጥ የተወሰኑ እጾችን ይዘው በመንዳትዎ ሊቀጡ ይችላሉ። የዕፅ ችግር ደህንነቱ በተጠበቀ ሁኔታ የመንዳት ችሎታዎን ይጎዳል እና የአደጋዎችን አደጋ ይጨምራል።"
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"አልኮል፣ አደንዛዥ እጾች እና ጤና",
+"subcategory":"የመድኃኒት ደህንነት",
+"englishSubcategory":"Medication Safety",
+"description":"ከማሽከርከርዎ በፊት፣ አዳዲስ መድሃኒቶች ተሽከርካሪን የመንዳት ችሎታዎን ሊነኩ እንደሚችሉ ሁልጊዜ ያረጋግጡ። አንዳንድ መድሃኒቶች እንቅልፍ ያስከትላሉ፣ የምላሽ ጊዜን ያዛባሉ እና ትኩረትን ይቀንሳሉ።"
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"አልኮል፣ አደንዛዥ እጾች እና ጤና",
+"subcategory":"ድካም እና ጤና",
+"englishSubcategory":"Fatigue & Health",
+"description":"ድካም እንደ አልኮል በማሽከርከር ላይ ተመሳሳይ ተጽእኖ ሊኖረው ይችላል። የምላሽ ጊዜዎን ያዘገያል፣ የማመዛዘን ችሎታዎን ያዛባል፣ እና ውሳኔ የማድረግ ችሎታዎን ይቀንሳል፣ ይህም የመጋጨት አደጋን ይጨምራል።"
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"ደህንነቱ የተጠበቀ የመንዳት ልምዶች",
+"subcategory":"የአደጋ ግንዛቤ",
+"englishSubcategory":"Hazard Perception",
+"description":"አደጋ ሊያስከትል ወደሚችል አደጋ ሲቃረቡ፣ በጣም አስተማማኝው ምላሽ ፍጥነትዎን መቀነስ እና አስፈላጊ ከሆነ ለማቆም መዘጋጀት ነው። ይህም ሁኔታውን ለመገምገም እና ተገቢውን ምላሽ ለመስጠት ጊዜ ይሰጥዎታል።"
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"ደህንነቱ የተጠበቀ የመንዳት ልምዶች",
+"subcategory":"የአደጋ ግንዛቤ",
+"englishSubcategory":"Hazard Perception",
+"description":"በመኪና ሲነዱ አስቀድመው መቃኘት ሊከሰቱ የሚችሉ አደጋዎችን ቀደም ብለው ለመለየት ወሳኝ ነው። ይህም ምላሽዎን እንዲያቅዱ እና ድንገተኛ ምላሾችን እንዲያስወግዱ ያስችልዎታል።"
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"ደህንነቱ የተጠበቀ የመንዳት ልምዶች",
+"subcategory":"የመከላከያ መንዳት",
+"englishSubcategory":"Defensive Driving",
+"description":"የመከላከያ መንዳት ሌሎች የመንገድ ተጠቃሚዎች ሊፈጽሟቸው የሚችሉ ስህተቶችን አስቀድሞ መገመት እና ግጭትን ለማስወገድ ደህንነቱ የተጠበቀ ርቀት መጠበቅን ያካትታል።"
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"ደህንነቱ የተጠበቀ የመንዳት ልምዶች",
+"subcategory":"የመንገድ ሁኔታዎች",
+"englishSubcategory":"Road Conditions",
+"description":"ጎማዎችዎ እርጥብ በሆነ መንገድ ላይ መያዣውን ካጡ፣ ከመፍጠሪያው ላይ ዘና ይበሉ እና ያለችግር ይንዱ። ድንገተኛ ብሬኪንግ ወይም ስለታም መዞር ሁኔታውን ሊያባብሰው እና የቁጥጥር ማጣት ሊያስከትል ይችላል።"
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"ደህንነቱ የተጠበቀ የመንዳት ልምዶች",
+"subcategory":"የአደጋ ግንዛቤ",
+"englishSubcategory":"Hazard Perception",
+"description":"በትራፊክ ውስጥ ሲነዱ፣ አደጋዎችን ለመከታተል በጣም ጥሩው ቦታ ከፊት ለፊትዎ ባለው መኪና ላይ ብቻ ከማተኮር ይልቅ ከፊት ለፊትዎ እና ከጎንዎ በጣም ርቆ የሚገኝ ነው። ይህም አደጋዎችን ቀደም ብለው እንዲጠብቁ ይረዳዎታል።"
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"ደህንነቱ የተጠበቀ የመንዳት ልምዶች",
+"subcategory":"የመከላከያ መንዳት",
+"englishSubcategory":"Defensive Driving",
+"description":"አንድ ተሽከርካሪ ከፊት ለፊት ባለው መስመር ላይ እየተሸረሸረ ከሆነ፣ በጣም አስተማማኝው ምላሽ የመከተል ርቀትዎን መጨመር ነው። ይህ ሁኔታው ከተባባሰ ምላሽ ለመስጠት ተጨማሪ ጊዜ ይሰጥዎታል።"
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"ደህንነቱ የተጠበቀ የመንዳት ልምዶች",
+"subcategory":"የመንገድ ሁኔታዎች",
+"englishSubcategory":"Road Conditions",
+"description":"መንገዱ ብዙውን ጊዜ ዝናብ ከዘነበ በኋላ ባሉት የመጀመሪያዎቹ ጥቂት ደቂቃዎች ውስጥ በጣም የሚያዳልጥ ነው። በዚህ ጊዜ የበለጠ ጥንቃቄ ያድርጉ፣ ምክንያቱም በመንገድ ላይ ያሉት ዘይቶችና ፍርስራሾች የበለጠ አደገኛ ሊያደርጉት ይችላሉ።"
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"ደህንነቱ የተጠበቀ የመንዳት ልምዶች",
+"subcategory":"የሌሊት መንዳት",
+"englishSubcategory":"Night Driving",
+"description":"በሌሊት ከሚመጡት የፊት መብራቶች የሚመጣውን ብርሀን ለመቆጣጠር፣ ከመንገድዎ ግራ ጠርዝ ትንሽ ይመልከቱ እና አስፈላጊ ከሆነ ፍጥነትዎን ይቀንሱ። ይህ ለደማቅ መብራቶች ቀጥተኛ መጋለጥን ለማስወገድ ይረዳል።"
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"ደህንነቱ የተጠበቀ የመንዳት ልምዶች",
+"subcategory":"የመከላከያ መንዳት",
+"englishSubcategory":"Defensive Driving",
+"description":"አንድ አሽከርካሪ በጣም በቅርበት የሚከተልዎት ከሆነ፣ በጣም አስተማማኝው እርምጃ ከፊት ለፊት ካለው ተሽከርካሪ የመከተል ርቀትዎን መጨመር ነው። ይህም እርስዎም ሆኑ ከኋላ የሚሄደው አሽከርካሪ ምላሽ ለመስጠት ተጨማሪ ቦታ ይሰጥዎታል።"
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"ደህንነቱ የተጠበቀ የመንዳት ልምዶች",
+"subcategory":"የመንገድ ሁኔታዎች",
+"englishSubcategory":"Road Conditions",
+"description":"ጭጋግ ውስጥ ሲነዱ፣ ፍጥነትዎን ይቀንሱ እና በተሽከርካሪዎ እና በሌሎች መካከል ተጨማሪ ርቀት ይጠብቁ። ጭጋግ ታይነትን በእጅጉ ይቀንሳል እና የአደጋዎችን አደጋ ይጨምራል።"
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"መገናኛዎች፣ መዞሪያዎች እና ክብ መንገዶች",
+"subcategory":"የመስጠት መንገድ",
+"englishSubcategory":"Giving Way",
+"description":"ምንም ምልክት ወይም ምልክት በሌለባቸው መገናኛዎች ላይ፣ ከቀኝ የሚቀርበው ተሽከርካሪ ከግራ ለሚመጣው ተሽከርካሪ ቦታ መስጠት አለበት።"
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"መገናኛዎች፣ መዞሪያዎች እና ክብ መንገዶች",
+"subcategory":"ተራዎች",
+"englishSubcategory":"Turns",
+"description":"በትራፊክ መብራቶች ላይ ወደ ቀኝ መታጠፍ ሳያስፈልግ ቀስት ሲታጠፉ፣ ከመቀጠልዎ በፊት ለሚመጡት ትራፊክ እና ለእግረኞች ቦታ መስጠት አለብዎት።"
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"መገናኛዎች፣ መዞሪያዎች እና ክብ መንገዶች",
+"subcategory":"ራውንድቦውት",
+"englishSubcategory":"Roundabouts",
+"description":"በራድአባውት ላይ፣ አስቀድመው በራድአባውት ውስጥ ያሉ ተሽከርካሪዎች ቅድሚያ አላቸው። ወደ ራድአባውት የሚገቡ አሽከርካሪዎች ለእነሱ ቦታ መስጠት አለባቸው።"
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"መገናኛዎች፣ መዞሪያዎች እና ክብ መንገዶች",
+"subcategory":"ተራዎች",
+"englishSubcategory":"Turns",
+"description":"ወደ ግራ ሲዞሩ፣ ወደ ውስጥ የሚገቡበትን መንገድ ለሚያቋርጡ እግረኞች መንገድ መስጠት አለብዎት፣ ይህም ደህንነታቸውን ያረጋግጣል።"
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"መገናኛዎች፣ መዞሪያዎች እና ክብ መንገዶች",
+"subcategory":"የመስጠት መንገድ",
+"englishSubcategory":"Giving Way",
+"description":"በቲ-መስቀለኛ መንገድ ላይ፣ በማጠናቀቂያው መንገድ ላይ ያለው ተሽከርካሪ በቀጣይ መንገድ ላይ ላሉ ተሽከርካሪዎች ቦታ መስጠት አለበት።"
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"መገናኛዎች፣ መዞሪያዎች እና ክብ መንገዶች",
+"subcategory":"ተራዎች",
+"englishSubcategory":"Turns",
+"description":"U-ተርን ሲያደርጉ፣ ለሌሎች ተሽከርካሪዎችና እግረኞች በሙሉ ቦታ መስጠት አለብዎት፣ በሚዞሩበት ጊዜ ደህንነታቸውን ማረጋገጥ።"
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"መገናኛዎች፣ መዞሪያዎች እና ክብ መንገዶች",
+"subcategory":"ራውንድቦውት",
+"englishSubcategory":"Roundabouts",
+"description":"ከማዞሪያው ደሴት ሲወጡ፣ ለሌሎች የመንገድ ተጠቃሚዎች ስለ ዓላማዎ ለማሳወቅ ከመውጣትዎ በፊት ምልክቱን ይተዉ።"
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"መገናኛዎች፣ መዞሪያዎች እና ክብ መንገዶች",
+"subcategory":"የመስጠት መንገድ",
+"englishSubcategory":"Giving Way",
+"description":"ከመኪና መግቢያ መንገድ ወደ መንገድ ሲገቡ፣ አደጋን ለመከላከል በመንገድ ላይ ላሉ ሁሉም ተሽከርካሪዎች እና እግረኞች መንገድ መስጠት አለብዎት።"
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"መገናኛዎች፣ መዞሪያዎች እና ክብ መንገዶች",
+"subcategory":"ተራዎች",
+"englishSubcategory":"Turns",
+"description":"ወደ ቀኝ ከመታጠፍዎ በፊት ተሽከርካሪዎን በተቻለ መጠን ከመንገዱ መሃል አጠገብ ያድርጉት፣ ይህም ደህንነቱ የተጠበቀ እና ግልጽ የሆነ መታጠፍ ያረጋግጡ።"
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"መገናኛዎች፣ መዞሪያዎች እና ክብ መንገዶች",
+"subcategory":"የትራፊክ መብራቶች",
+"englishSubcategory":"Traffic Lights",
+"description":"አረንጓዴ ቀስት ለሌሎች ትራፊክ ወይም እግረኞች መንገድ ሳይሰጡ በቀስቱ አቅጣጫ መቀጠል እንደሚችሉ ያሳያል።"
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"የመንገድ ምልክቶች፣ መስመሮች እና መቅደም",
+"subcategory":"የሌይን አጠቃቀም",
+"englishSubcategory":"Lane Use",
+"description":"ቀጣይነት ያለው ነጠላ የመሃል መስመር በአጠቃላይ ወደ መንገዱ ሲገቡ ወይም ሲወጡ ወይም ወደ መኪና መግቢያ መንገድ ሲወጡ ካልሆነ በስተቀር መሻገር የለብዎትም ማለት ነው።"
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"የመንገድ ምልክቶች፣ መስመሮች እና መቅደም",
+"subcategory":"መቅደም",
+"englishSubcategory":"Overtaking",
+"description":"ትራፊክ በተለያዩ ምልክት በተደረጉ መስመሮች ላይ ሲሆን በግራ በኩል ማለፍ ይፈቀዳል እና ይህን ማድረግ ደህንነቱ የተጠበቀ ነው።"
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"የመንገድ ምልክቶች፣ መስመሮች እና መቅደም",
+"subcategory":"መቅደም",
+"englishSubcategory":"Overtaking",
+"description":"ከፊት ለፊት ያለው ተሽከርካሪ ወደ ቀኝ ሲታጠፍ እና ደህንነቱ በተጠበቀ ሁኔታ ሲታጠፍ በግራ በኩል ያለውን ተሽከርካሪ በአንድ መስመር መንገድ ላይ ሊያልፉ ይችላሉ።"
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"የመንገድ ምልክቶች፣ መስመሮች እና መቅደም",
+"subcategory":"የሌይን አጠቃቀም",
+"englishSubcategory":"Lane Use",
+"description":"መስመሮችን ከመቀየርዎ በፊት ምልክት ያድርጉበት እና ደህንነቱ የተጠበቀ መሆኑን ያረጋግጡ። ይህም ሌሎች የመንገድ ተጠቃሚዎች ስለ ዓላማዎ እንዲያውቁ እና አደጋዎችን እንዳይከሰቱ ያደርጋል።"
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"የመንገድ ምልክቶች፣ መስመሮች እና መቅደም",
+"subcategory":"የመንገድ ምልክቶች",
+"englishSubcategory":"Road Markings",
+"description":"የተቀባ የትራፊክ ደሴት ወይም የቼቭሮን ምልክት ማድረግ፣ በእሱ ላይ መንዳት እንደሌለብዎት ያመለክታል፣ ይህም የትራፊክ ደህንነቱ የተጠበቀ እንቅስቃሴን ያረጋግጣል።"
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"የመንገድ ምልክቶች፣ መስመሮች እና መቅደም",
+"subcategory":"መቅደም",
+"englishSubcategory":"Overtaking",
+"description":"ማለፍ ደህንነቱ የተጠበቀ መሆኑን እርግጠኛ ካልሆኑ፣ በጣም አስተማማኝው እርምጃ ማለፍ አይደለም። እርምጃ ከመውሰድዎ በፊት ሁልጊዜ ሁኔታውን ይገምግሙ።"
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"የመንገድ ምልክቶች፣ መስመሮች እና መቅደም",
+"subcategory":"የሌይን አጠቃቀም",
+"englishSubcategory":"Lane Use",
+"description":"የመሃል መስመር መሰበር ማለት ደህንነቱ የተጠበቀ ከሆነ ሊያቋርጡት ይችላሉ ማለት ነው፣ ይህም ማቋረጥ ወይም የመስመር መስመርን መቀየር ያስችላል።"
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"የመንገድ ምልክቶች፣ መስመሮች እና መቅደም",
+"subcategory":"የሌይን አጠቃቀም",
+"englishSubcategory":"Lane Use",
+"description":"በሁለት መስመሮች ላይ መዘዋወር ህጋዊ የሚሆነው የመስመር ምልክቶች ሲፈቅዱ ብቻ ነው። በአብዛኛው የመንዳት ሁኔታዎች ውስጥ ደህንነቱ የተጠበቀ ወይም የማይፈቀድ ነው።"
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"የመንገድ ምልክቶች፣ መስመሮች እና መቅደም",
+"subcategory":"መቅደም",
+"englishSubcategory":"Overtaking",
+"description":"የሚያልፉት ተሽከርካሪ ፍጥነት መጨመር ከጀመረ፣ ደህንነቱ የተጠበቀው ምላሽ ደህንነቱ የተጠበቀ ከሆነ ማቋረጥ እና ወደ ኋላ መጣል ነው።"
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"የመንገድ ምልክቶች፣ መስመሮች እና መቅደም",
+"subcategory":"የመንገድ ምልክቶች",
+"englishSubcategory":"Road Markings",
+"description":"ድርብ ቀጣይነት ያለው የመሃል መስመር ማለት የትራፊክ ፍሰትን እና ደህንነትን በማረጋገጥ በማንኛውም ሁኔታ ውስጥ ማቋረጥ ወይም መሻገር የለብዎትም ማለት ነው።"
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"የማቆሚያ፣ የመኪና ማቆሚያ እና የመንገድ ዳር ህጎች",
+"subcategory":"ማቆሚያ የለም እና መኪና ማቆሚያ የለም",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"ማቆሚያ የለም ማለት ጨርሶ ማቆም የለብዎትም ማለት ሲሆን፣ ማቆሚያ የለም ማለት ደግሞ መኪና ለመውሰድ ወይም ለማድረስ ለአጭር ጊዜ ማቆም ያስችላል።"
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"የማቆሚያ፣ የመኪና ማቆሚያ እና የመንገድ ዳር ህጎች",
+"subcategory":"ማቆሚያ የለም እና መኪና ማቆሚያ የለም",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"ማቆሚያ በሌለበት ዞን፣ ተሳፋሪዎችን ለማንሳት ወይም ለማድረስ በቂ ጊዜ ብቻ ማቆም ይችላሉ።"
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"የማቆሚያ፣ የመኪና ማቆሚያ እና የመንገድ ዳር ህጎች",
+"subcategory":"በመገናኛዎች አቅራቢያ የመኪና ማቆሚያ",
+"englishSubcategory":"Parking Near Intersections",
+"description":"በመገናኛ አቅራቢያ መኪና ማቆም ብዙውን ጊዜ የተከለከለ ነው ምክንያቱም ይህ ታይነትን ሊገድብ እና ለአሽከርካሪዎች እና ለእግረኞች አደጋ ሊፈጥር ስለሚችል።"
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"የማቆሚያ፣ የመኪና ማቆሚያ እና የመንገድ ዳር ህጎች",
+"subcategory":"ማቆሚያ የለም እና መኪና ማቆሚያ የለም",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"የስልክ ጥሪ እየመለሱ ወይም በፍጥነት ማቆም ቢያስፈልግዎትም፣ ማቆም በማይፈቀድበት ዞን ውስጥ ማቆም አይፈቀድልዎትም።"
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"የማቆሚያ፣ የመኪና ማቆሚያ እና የመንገድ ዳር ህጎች",
+"subcategory":"ክሊርዌይስ",
+"englishSubcategory":"Clearways",
+"description":"ክሊርዌይ ማለት በስራ ሰዓቱ ወቅት በዚያኛው የመንገድ ዳር ማቆም ወይም ማቆም የለብዎትም ማለት ነው።"
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"የማቆሚያ፣ የመኪና ማቆሚያ እና የመንገድ ዳር ህጎች",
+"subcategory":"በመሻገሪያ አቅራቢያ የመኪና ማቆሚያ",
+"englishSubcategory":"Parking Near Crossings",
+"description":"በእግረኛ መሻገሪያ አቅራቢያ ማቆም አደገኛ ነው ምክንያቱም እግረኞችን ከአሽከርካሪዎች ሊደብቅ ስለሚችል የአደጋ ተጋላጭነትን ይጨምራል።"
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"የማቆሚያ፣ የመኪና ማቆሚያ እና የመንገድ ዳር ህጎች",
+"subcategory":"ለደህንነት ሲባል ማቆም",
+"englishSubcategory":"Stopping for Safety",
+"description":"የትራፊክ ሁኔታዎች ወይም ድንገተኛ ሁኔታዎች ሲከሰቱ ብቻ ማቆም በማይቻልበት ቦታ ማቆም ይችላሉ።"
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"የማቆሚያ፣ የመኪና ማቆሚያ እና የመንገድ ዳር ህጎች",
+"subcategory":"በኮረብቶች ላይ መኪና ማቆሚያ",
+"englishSubcategory":"Parking on Hills",
+"description":"በኮረብታ ላይ ሲያቆሙ፣ ሁልጊዜ የእጅ ፍሬኑን ይጠቀሙ እና ተሽከርካሪውን በመጠምዘዝ አደጋን ይቀንሱ።"
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"የማቆሚያ፣ የመኪና ማቆሚያ እና የመንገድ ዳር ህጎች",
+"subcategory":"በመገናኛዎች አቅራቢያ የመኪና ማቆሚያ",
+"englishSubcategory":"Parking Near Intersections",
+"description":"ወደ ጥግ በጣም ቅርብ መኪና ማቆም የለብዎትም ምክንያቱም የሚመጣውን ትራፊክ እና የእግረኞችን እይታ ሊዘጋ ስለሚችል አደጋዎችን ሊፈጥር ይችላል።"
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"የማቆሚያ፣ የመኪና ማቆሚያ እና የመንገድ ዳር ህጎች",
+"subcategory":"ማቆሚያ የለም እና መኪና ማቆሚያ የለም",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"የመኪና ማቆሚያ የተከለከለበት ምልክት ማለት ገደቡ የሚተገበረው በምልክቱ ላይ በሚታዩት ጊዜያት ብቻ ነው ማለት ነው።"
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"እግረኞች፣ ብስክሌተኞች እና ለአደጋ የተጋለጡ የመንገድ ተጠቃሚዎች",
+"subcategory":"እግረኞች",
+"englishSubcategory":"Pedestrians",
+"description":"አሽከርካሪዎች በሚዞሩበት ጊዜ፣ የሚገቡበትን መንገድ ለሚያቋርጡ እግረኞች ቦታ መስጠት አለባቸው። ይህ እግረኛው በተወሰነው መሻገሪያ ላይ ባይሆንም እንኳ ተፈጻሚ ይሆናል።"
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"እግረኞች፣ ብስክሌተኞች እና ለአደጋ የተጋለጡ የመንገድ ተጠቃሚዎች",
+"subcategory":"ብስክሌተኞች",
+"englishSubcategory":"Cyclists",
+"description":"አሽከርካሪዎች ብስክሌተኞችን ሲያልፉ ተጨማሪ ቦታ መፍቀድ አለባቸው ምክንያቱም አደጋዎችን ለማስወገድ ወይም ሚዛናቸውን ለመጠበቅ ቦታ ሊያስፈልጋቸው ይችላል።"
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"እግረኞች፣ ብስክሌተኞች እና ለአደጋ የተጋለጡ የመንገድ ተጠቃሚዎች",
+"subcategory":"እግረኞች",
+"englishSubcategory":"Pedestrians",
+"description":"በገበያ ቦታዎች ወይም በሕዝብ ማመላለሻ ማቆሚያዎች አቅራቢያ፣ አሽከርካሪዎች የእግረኛ እንቅስቃሴ መጨመር እና ድንገተኛ መሻገሪያዎችን መጠበቅ አለባቸው። በእነዚህ አካባቢዎች ሁልጊዜ ንቁ ይሁኑ።"
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"እግረኞች፣ ብስክሌተኞች እና ለአደጋ የተጋለጡ የመንገድ ተጠቃሚዎች",
+"subcategory":"ብስክሌተኞች",
+"englishSubcategory":"Cyclists",
+"description":"አንድ ብስክሌት ነጂ ምልክት በተደረገበት የብስክሌት መስመር ላይ ሲነዳ፣ አሽከርካሪዎች ካልተፈቀደላቸው እና ደህንነቱ በተጠበቀ ሁኔታ ካልሆነ በስተቀር በመስመሩ ላይ መንዳት የለባቸውም።"
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"እግረኞች፣ ብስክሌተኞች እና ለአደጋ የተጋለጡ የመንገድ ተጠቃሚዎች",
+"subcategory":"ልጆች",
+"englishSubcategory":"Children",
+"description":"አሽከርካሪዎች በትምህርት ቤቶች አቅራቢያ ተጨማሪ ጥንቃቄ ማድረግ አለባቸው ምክንያቱም ልጆች ባልተጠበቀ ሁኔታ ሊሠሩ እና የትራፊክ መጨናነቅን ሊያዛቡ ይችላሉ። በትምህርት ቤቶች ዞኖች ፍጥነትዎን ይቀንሱ።"
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"እግረኞች፣ ብስክሌተኞች እና ለአደጋ የተጋለጡ የመንገድ ተጠቃሚዎች",
+"subcategory":"ብስክሌተኞች",
+"englishSubcategory":"Cyclists",
+"description":"አንድ ብስክሌት ነጂ በጠባብ መስመር መሃል ላይ የሚነዳ ከሆነ፣ አሽከርካሪዎች በቂ ቦታ ይዘው ማለፍ እስኪችሉ ድረስ መጠበቅ አለባቸው፣ ከማለፍ ይልቅ።"
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"እግረኞች፣ ብስክሌተኞች እና ለአደጋ የተጋለጡ የመንገድ ተጠቃሚዎች",
+"subcategory":"እግረኞች",
+"englishSubcategory":"Pedestrians",
+"description":"በልጆች መሻገሪያ ላይ፣ ባንዲራዎች ሲሰቀሉ እና እግረኞች ሲኖሩ አሽከርካሪዎች መቆም አለባቸው፣ ይህም የህፃናትን ደህንነት ያረጋግጣል።"
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"እግረኞች፣ ብስክሌተኞች እና ለአደጋ የተጋለጡ የመንገድ ተጠቃሚዎች",
+"subcategory":"ብስክሌተኞች",
+"englishSubcategory":"Cyclists",
+"description":"አሽከርካሪዎች ከመታጠፋቸው በፊት ሁልጊዜም የዓይነ ስውር ቦታቸውን ማረጋገጥ አለባቸው፤ ምክንያቱም ብስክሌተኞች በተለይም በከተማ አካባቢዎች ከማይታዩት ጎን ለጎን ሊጓዙ ይችላሉ።"
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"እግረኞች፣ ብስክሌተኞች እና ለአደጋ የተጋለጡ የመንገድ ተጠቃሚዎች",
+"subcategory":"አረጋውያን እና የአካል ጉዳተኞች",
+"englishSubcategory":"Elderly & Disabled",
+"description":"አረጋውያን እግረኞች በዝግታ ሊራመዱ ወይም የመንቀሳቀስ ችግር ሊያጋጥማቸው ስለሚችል ለማቋረጥ ተጨማሪ ጊዜ ሊያስፈልጋቸው ይችላል። ደህንነቱ በተጠበቀ ሁኔታ ለመሻገር ቦታ እና ጊዜ ይስጧቸው።"
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"እግረኞች፣ ብስክሌተኞች እና ለአደጋ የተጋለጡ የመንገድ ተጠቃሚዎች",
+"subcategory":"ብስክሌተኞች",
+"englishSubcategory":"Cyclists",
+"description":"ብስክሌተኞች ወደ መገናኛ መንገዶች ሲቃረቡ ለማየት አስቸጋሪ ሊሆኑ ይችላሉ፣ እና በፍጥነት መንቀሳቀስ ይችላሉ። ሁልጊዜም ለብስክሌተኞች ደህንነቱ በተጠበቀ ሁኔታ እንዲጓዙ ቦታ እና ጊዜ ይስጡ።"
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"ልዩ ሁኔታዎች እና የመንገድ አካባቢዎች",
+"subcategory":"የትምህርት ቤት ዞኖች",
+"englishSubcategory":"School Zones",
+"description":"የትምህርት ቤት ዞን የፍጥነት ገደቦች የሚተገበሩት በምልክቶቹ ላይ በሚታዩት ጊዜያት ብቻ ነው። የህፃናትን ደህንነት ለማረጋገጥ እነሱን መከተልዎን ያረጋግጡ።"
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"ልዩ ሁኔታዎች እና የመንገድ አካባቢዎች",
+"subcategory":"የትምህርት ቤት ዞኖች",
+"englishSubcategory":"School Zones",
+"description":"ልጆች በድንገት እና ባልተጠበቀ ሁኔታ ሊታዩ ስለሚችሉ፣ አሽከርካሪዎች በትምህርት ቤቶች ዞኖች ውስጥ ምንም ልጆች ባይታዩም እንኳ ፍጥነት መቀነስ አለባቸው።"
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"ልዩ ሁኔታዎች እና የመንገድ አካባቢዎች",
+"subcategory":"የመንገድ ስራዎች",
+"englishSubcategory":"Roadworks",
+"description":"የመንገድ ስራዎችን ሲጠጉ፣ ፍጥነትዎን ይቀንሱ እና ለሰራተኞች እና ለሌሎች የመንገድ ተጠቃሚዎች ደህንነት ለማረጋገጥ ማንኛውንም ጊዜያዊ ምልክቶችን ይከተሉ።"
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"ልዩ ሁኔታዎች እና የመንገድ አካባቢዎች",
+"subcategory":"የመንገድ ስራዎች",
+"englishSubcategory":"Roadworks",
+"description":"የሰራተኞችን ደህንነት ለማረጋገጥ እና የመንገድ ሁኔታዎችን ለመለወጥ በመንገድ ስራ ዞኖች የፍጥነት ገደቦች ይቀንሳሉ።"
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"ልዩ ሁኔታዎች እና የመንገድ አካባቢዎች",
+"subcategory":"የገጠር መንገዶች",
+"englishSubcategory":"Rural Roads",
+"description":"በገጠር መንገዶች ላይ የዱር እንስሳት በድንገት ወደ መንገዱ ሊገቡ ይችላሉ። በገጠር አካባቢዎች በሚያሽከረክሩበት ጊዜ ሁል ጊዜ ለማቆም ወይም ፍጥነትዎን ለመቀነስ ዝግጁ ይሁኑ።"
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"ልዩ ሁኔታዎች እና የመንገድ አካባቢዎች",
+"subcategory":"የገጠር መንገዶች",
+"englishSubcategory":"Rural Roads",
+"description":"ያልተዘጉ መንገዶች ብዙውን ጊዜ የመያዣ እና የፍሬን አቅም ይቀንሳሉ። አሽከርካሪዎች ባልተሸፈኑ ቦታዎች ላይ ሲነዱ ፍጥነት መቀነስ አለባቸው።"
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"ልዩ ሁኔታዎች እና የመንገድ አካባቢዎች",
+"subcategory":"ፍሪዌይስ",
+"englishSubcategory":"Freeways",
+"description":"የፍሪዌይ መውጫዎን ካጡ፣ ወደሚቀጥለው መውጫ ይቀጥሉ እና ደህንነቱ በተጠበቀ ሁኔታ ያዙሩ። በፍሪዌይ ላይ ለማቆም ወይም ወደኋላ ለመመለስ አይሞክሩ።"
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"ልዩ ሁኔታዎች እና የመንገድ አካባቢዎች",
+"subcategory":"ፍሪዌይስ",
+"englishSubcategory":"Freeways",
+"description":"ድንገተኛ ሁኔታ ሲያጋጥም በስተቀር በአውራ ጎዳና ላይ ማቆም ሕገወጥ ነው። ብልሽት ሲከሰት ሁልጊዜ የትከሻውን ወይም የመውጫውን መወጣጫ ይጠቀሙ።"
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"ልዩ ሁኔታዎች እና የመንገድ አካባቢዎች",
+"subcategory":"የአየር ሁኔታ ሁኔታዎች",
+"englishSubcategory":"Weather Conditions",
+"description":"ከባድ ዝናብ በሚኖርበት ጊዜ ፍጥነትዎን ይቀንሱ እና የመከተል ርቀትዎን ይጨምሩ። እርጥብ መንገዶች መጎተትን ሊቀንሱ እና የማቆሚያ ርቀቶችን ሊያራዝሙ ይችላሉ።"
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"ልዩ ሁኔታዎች እና የመንገድ አካባቢዎች",
+"subcategory":"የአየር ሁኔታ ሁኔታዎች",
+"englishSubcategory":"Weather Conditions",
+"description":"ጭጋግ ታይነትን እና የጥልቀት ግንዛቤን ይቀንሳል፣ ይህም መንዳትን በተለይ አደገኛ ያደርገዋል። ጭጋጋማ በሆኑ ሁኔታዎች ውስጥ ፍጥነትዎን ይቀንሱ እና የሚቀጥለውን ርቀት ይጨምሩ።"
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"የአደጋ ጊዜ ተሽከርካሪዎች እና የፖሊስ አቅጣጫዎች",
+"subcategory":"የአደጋ ጊዜ ተሽከርካሪ የመስጠት መንገድ",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"የአደጋ ጊዜ ተሽከርካሪ መብራት እና/ወይም ሳይረን ይዞ ሲቀርብ፣ ከመንገዱ ወጥተው ደህንነቱ በተጠበቀ ሁኔታ እንዲያልፉ ይፍቀዱለት።"
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"የአደጋ ጊዜ ተሽከርካሪዎች እና የፖሊስ አቅጣጫዎች",
+"subcategory":"የአደጋ ጊዜ ተሽከርካሪ የመስጠት መንገድ",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"በትራፊክ መብራቶች ላይ ከሆኑ እና የአደጋ ጊዜ ተሽከርካሪ ከኋላዎ እየቀረበ ከሆነ፣ ደህንነቱ የተጠበቀ እና ህጋዊ ከሆነ ወደ ጎን መሄድ በጣም አስተማማኝ እርምጃ ነው፣ አለበለዚያ በቦታው ይቆዩ እና በተቻለ መጠን እንዲያልፍ ይተዉት።"
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"የአደጋ ጊዜ ተሽከርካሪዎች እና የፖሊስ አቅጣጫዎች",
+"subcategory":"የፖሊስ አቅጣጫዎች",
+"englishSubcategory":"Police Directions",
+"description":"የፖሊስ መኮንን ከምልክት በተለየ መንገድ ቢመራዎት፣ የፖሊስ መኮንኖቹን መመሪያ መከተል አለብዎት።"
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"የአደጋ ጊዜ ተሽከርካሪዎች እና የፖሊስ አቅጣጫዎች",
+"subcategory":"የአደጋ ጊዜ ተሽከርካሪ የመስጠት መንገድ",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"የአደጋ ጊዜ ተሽከርካሪ በመንገድ ዳር መብራቶች ብልጭ ብለው ቢቆሙ፣ ፍጥነትዎን ይቀንሱ እና በጥንቃቄ ያልፉ፣ ደህንነቱ የተጠበቀ ከሆነ ወደዚያ ይንቀሳቀሱ።"
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"የአደጋ ጊዜ ተሽከርካሪዎች እና የፖሊስ አቅጣጫዎች",
+"subcategory":"የፖሊስ አቅጣጫዎች",
+"englishSubcategory":"Police Directions",
+"description":"ፖሊስ ጊዜያዊ የመንገድ እንቅፋት ከፈጠረ፣ መመሪያዎቻቸውን እና ማንኛውንም አቅጣጫ ይከተሉ።"
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"የአደጋ ጊዜ ተሽከርካሪዎች እና የፖሊስ አቅጣጫዎች",
+"subcategory":"የአደጋ ጊዜ ተሽከርካሪ የመስጠት መንገድ",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"የትራፊክ መጨናነቅን በፍጥነት ለማለፍ የአደጋ ጊዜ ተሽከርካሪን በቅርበት መከተል የለብዎትም።"
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"የአደጋ ጊዜ ተሽከርካሪዎች እና የፖሊስ አቅጣጫዎች",
+"subcategory":"የአደጋ ጊዜ ተሽከርካሪ የመስጠት መንገድ",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"የሳይረን ድምፅ ከሰሙ ነገር ግን የአደጋ ጊዜ ተሽከርካሪውን ማየት ካልቻሉ፣ ንቁ ይሁኑ፣ መስተዋቶቹን ያረጋግጡ እና ደህንነቱ በተጠበቀ ሁኔታ ለመንቀሳቀስ ዝግጁ ይሁኑ።"
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"የአደጋ ጊዜ ተሽከርካሪዎች እና የፖሊስ አቅጣጫዎች",
+"subcategory":"የፖሊስ አቅጣጫዎች",
+"englishSubcategory":"Police Directions",
+"description":"በመንገድ ሥራ ላይ ያለ የትራፊክ መቆጣጠሪያ መመሪያ ከሰጠ፣ የትራፊክ መቆጣጠሪያውን መታዘዝ አለብዎት።"
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"የአደጋ ጊዜ ተሽከርካሪዎች እና የፖሊስ አቅጣጫዎች",
+"subcategory":"የፖሊስ አቅጣጫዎች",
+"englishSubcategory":"Police Directions",
+"description":"ፖሊስ የፈቃድ ፍተሻ እንዲያደርጉ ቢመክርዎት፣ እንደታዘዘው ደህንነቱ በተጠበቀ ሁኔታ ያቁሙ።"
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"የአደጋ ጊዜ ተሽከርካሪዎች እና የፖሊስ አቅጣጫዎች",
+"subcategory":"የአደጋ ጊዜ ተሽከርካሪ የመስጠት መንገድ",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"በአንድ መስመር ላይ ከሆኑ እና የአደጋ ጊዜ ተሽከርካሪ ከኋላዎ እየቀረበ ከሆነ ምልክት ያድርጉበት እና በተቻለ መጠን ወደ ግራ ወይም ወደ ደህንነቱ የተጠበቀ ቦታ ይሂዱ።"
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"የመቀመጫ ቀበቶዎች፣ የህፃናት ማገጃዎች እና ተሳፋሪዎች",
+"subcategory":"የመቀመጫ ቀበቶዎች",
+"englishSubcategory":"Seatbelts",
+"description":"አሽከርካሪው ከ16 ዓመት በታች የሆኑ ተሳፋሪዎች በሙሉ የደህንነት ቀበቶ እንዲለብሱ የማድረግ ኃላፊነት አለበት።"
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"የመቀመጫ ቀበቶዎች፣ የህፃናት ማገጃዎች እና ተሳፋሪዎች",
+"subcategory":"የመቀመጫ ቀበቶዎች",
+"englishSubcategory":"Seatbelts",
+"description":"ተሽከርካሪው በሚንቀሳቀስበት ጊዜ ሁሉ የደህንነት ቀበቶ መታጠቅ አለበት፣ ከተገጠመ።"
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"የመቀመጫ ቀበቶዎች፣ የህፃናት ማገጃዎች እና ተሳፋሪዎች",
+"subcategory":"የህፃናት እገዳዎች",
+"englishSubcategory":"Child Restraints",
+"description":"የሕፃናት ማቆያ ያስፈልጋል ምክንያቱም ከአዋቂ የደህንነት ቀበቶ ይልቅ የልጁን የሰውነት መጠንና ቅርፅ በተሻለ ሁኔታ እንዲገጥምና እንዲጠብቅ ተደርጎ የተነደፈ ነው።"
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"የመቀመጫ ቀበቶዎች፣ የህፃናት ማገጃዎች እና ተሳፋሪዎች",
+"subcategory":"ተሳፋሪዎች",
+"englishSubcategory":"Passengers",
+"description":"ተሳፋሪዎች ጫማን በዳሽቦርዱ ላይ ማስቀመጥ አደገኛ ነው ምክንያቱም የአየር ከረጢቶች እና የአደጋ ኃይሎች ከባድ ጉዳቶችን ሊያስከትሉ ይችላሉ።"
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"የመቀመጫ ቀበቶዎች፣ የህፃናት ማገጃዎች እና ተሳፋሪዎች",
+"subcategory":"የህፃናት እገዳዎች",
+"englishSubcategory":"Child Restraints",
+"description":"የሕፃናት ማቆያ ለመምረጥ በጣም አስተማማኝው አጠቃላይ ህግ የተፈቀደለት እና ከልጁ ዕድሜ እና መጠን ጋር የሚስማማ መጠቀም ነው።"
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"የመቀመጫ ቀበቶዎች፣ የህፃናት ማገጃዎች እና ተሳፋሪዎች",
+"subcategory":"የመቀመጫ ቀበቶዎች",
+"englishSubcategory":"Seatbelts",
+"description":"የደህንነት ቀበቶ በትክክል አለመልበስ የተለመደ ምልክት የሳሽ ማሰሪያው ከክንዱ በታች ወይም ከኋላ ሲቀመጥ ነው።"
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"የመቀመጫ ቀበቶዎች፣ የህፃናት ማገጃዎች እና ተሳፋሪዎች",
+"subcategory":"ተሳፋሪዎች",
+"englishSubcategory":"Passengers",
+"description":"አንድ ተሳፋሪ አሽከርካሪውን ትኩረትን የሚከፋፍል ከሆነ፣ በጣም አስተማማኝው እርምጃ ቆም ብለው በማሽከርከር ላይ እንዲያተኩሩ መጠየቅ ነው።"
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"የመቀመጫ ቀበቶዎች፣ የህፃናት ማገጃዎች እና ተሳፋሪዎች",
+"subcategory":"የህፃናት እገዳዎች",
+"englishSubcategory":"Child Restraints",
+"description":"ህፃንን በጭንዎ ላይ መያዝ አደገኛ ነው ምክንያቱም በአደጋ ጊዜ ደህንነቱ በተጠበቀ ሁኔታ መያዝ አይችሉም።"
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"የመቀመጫ ቀበቶዎች፣ የህፃናት ማገጃዎች እና ተሳፋሪዎች",
+"subcategory":"የመቀመጫ ቀበቶዎች",
+"englishSubcategory":"Seatbelts",
+"description":"በአደጋ ወቅት በሆድ ላይ የሚደርሰውን የጉዳት አደጋ ለመቀነስ የጭኑ ክፍል በወገቡ ላይ ዝቅ ብሎ የደህንነት ቀበቶ ማድረግ ያስፈልጋል።"
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"የመቀመጫ ቀበቶዎች፣ የህፃናት ማገጃዎች እና ተሳፋሪዎች",
+"subcategory":"ተሳፋሪዎች",
+"englishSubcategory":"Passengers",
+"description":"በካቢኑ ውስጥ ደህንነታቸው ያልተጠበቁ ነገሮችን የመሸከም ዋና አደጋ በአደጋ ወይም በድንገት በሚቆምበት ጊዜ የሚተኮሱ ሊሆኑ ይችላሉ።"
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"የተሽከርካሪ ደህንነት፣ ጉድለቶች እና የጥገና መሰረታዊ ነገሮች",
+"subcategory":"ጎማዎች",
+"englishSubcategory":"Tyres",
+"description":"የጎማው ትክክለኛ ግፊት ለደህንነት አስፈላጊ ነው ምክንያቱም የመያዣ፣ የብሬኪንግ እና የመሪ መቆጣጠሪያን ስለሚጎዳ።"
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"የተሽከርካሪ ደህንነት፣ ጉድለቶች እና የጥገና መሰረታዊ ነገሮች",
+"subcategory":"ብሬክስ",
+"englishSubcategory":"Brakes",
+"description":"የፍሬን ፔዳልዎ ስፖንጅ የሚመስል ከሆነ ወይም ከወትሮው በበለጠ መስመጥ ከጀመረ፣ እንደ ከባድ ችግር አድርገው ይመለከቱት እና ፍሬኑን ወዲያውኑ ያረጋግጡ።"
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"የተሽከርካሪ ደህንነት፣ ጉድለቶች እና የጥገና መሰረታዊ ነገሮች",
+"subcategory":"መብራቶች እና ታይነት",
+"englishSubcategory":"Lights & Visibility",
+"description":"በሌሎች ማየት እና መታየትዎን ለማረጋገጥ ሁሉንም የተሽከርካሪ መብራቶች በመደበኛነት ያረጋግጡ።"
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"የተሽከርካሪ ደህንነት፣ ጉድለቶች እና የጥገና መሰረታዊ ነገሮች",
+"subcategory":"መሪነት እና እገዳ",
+"englishSubcategory":"Steering & Suspension",
+"description":"የመሪነት ችግር የማስጠንቀቂያ ምልክት ያልተለመደ መጎተት፣ ንዝረት ወይም የመሪነት ችግርን ሊያካትት ይችላል።"
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"የተሽከርካሪ ደህንነት፣ ጉድለቶች እና የጥገና መሰረታዊ ነገሮች",
+"subcategory":"የንፋስ መከላከያ እና መጥረጊያዎች",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"የተበላሹ የዋይፐር ቢላዎች የደህንነት ችግር ናቸው ምክንያቱም በዝናብ ጊዜ ታይነትን ይቀንሳሉ።"
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"የተሽከርካሪ ደህንነት፣ ጉድለቶች እና የጥገና መሰረታዊ ነገሮች",
+"subcategory":"ጎማዎች",
+"englishSubcategory":"Tyres",
+"description":"ጎማዎች አደገኛ ሊሆኑ እንደሚችሉ የሚያሳይ የተለመደ ምልክት ትሬዱ ከተበላሸ ወይም ባልተመጣጠነ ሁኔታ ከተበላሸ ነው።"
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"የተሽከርካሪ ደህንነት፣ ጉድለቶች እና የጥገና መሰረታዊ ነገሮች",
+"subcategory":"መስተዋቶች እና ማስተካከያ",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"ከመንዳትዎ በፊት መስተዋቶች መስተካከል አለባቸው ይህም የዓይነ ስውራን ቦታዎችን ለመቀነስ እና ግንዛቤን ለማሻሻል ነው።"
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"የተሽከርካሪ ደህንነት፣ ጉድለቶች እና የጥገና መሰረታዊ ነገሮች",
+"subcategory":"ብሬክስ",
+"englishSubcategory":"Brakes",
+"description":"ብሬክስዎ የመፍጨት ድምጽ የሚያሰማ ከሆነ፣ በተቻለ ፍጥነት እንዲመረመሩ ያድርጉ።"
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"የተሽከርካሪ ደህንነት፣ ጉድለቶች እና የጥገና መሰረታዊ ነገሮች",
+"subcategory":"መብራቶች እና ታይነት",
+"englishSubcategory":"Lights & Visibility",
+"description":"የፊት መብራቶች ሲቀነሱ ደካማ በሆነ መልኩ ይጠቀሙ፤ ይህም ሌሎች እንዲያዩዎት ያስችልዎታል።"
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"የተሽከርካሪ ደህንነት፣ ጉድለቶች እና የጥገና መሰረታዊ ነገሮች",
+"subcategory":"የንፋስ መከላከያ እና መጥረጊያዎች",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"የፊት መሸፈኛዎ በእይታዎ ላይ በጣም ከተሰነጠቀ፣ ከመንዳትዎ በፊት ይጠግኑት ወይም ይተኩት።"
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"የጭነት፣ የመጎተት እና የከባድ ተሽከርካሪ ግንዛቤ",
+"subcategory":"ጭነቶች",
+"englishSubcategory":"Loads",
+"description":"ጭነቶች እንዳይንቀሳቀሱ ወይም እንዳይወድቁ እና እንዳይበላሹ ለመከላከል በአግባቡ መያያዝ አለባቸው።"
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"የጭነት፣ የመጎተት እና የከባድ ተሽከርካሪ ግንዛቤ",
+"subcategory":"ጭነቶች",
+"englishSubcategory":"Loads",
+"description":"በተሽከርካሪ ውስጥ ያለ ደህንነቱ ያልተጠበቀ ጭነት በድንገት ብሬኪንግ ወቅት እንደ ተተኪ ሊሆን ይችላል፣ ይህም ከፍተኛ የደህንነት አደጋን ያስከትላል።"
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"የጭነት፣ የመጎተት እና የከባድ ተሽከርካሪ ግንዛቤ",
+"subcategory":"ጭነቶች",
+"englishSubcategory":"Loads",
+"description":"ከመጠን በላይ የተጨናነቀ ተሽከርካሪ መያዝ የማቆሚያ ርቀትን በመጨመር ብሬኪንግን ይጎዳል።"
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"የጭነት፣ የመጎተት እና የከባድ ተሽከርካሪ ግንዛቤ",
+"subcategory":"ጭነቶች",
+"englishSubcategory":"Loads",
+"description":"ረጅም እቃዎችን ለመሸከም በጣም አስተማማኝው መንገድ በአደገኛ ሁኔታ እንዳይንቀሳቀሱ ወይም እንዳይወጡ ደህንነቱ በተጠበቀ ሁኔታ ማስቀመጥ ነው።"
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"የጭነት፣ የመጎተት እና የከባድ ተሽከርካሪ ግንዛቤ",
+"subcategory":"መጎተት",
+"englishSubcategory":"Towing",
+"description":"ተጎታች መጎተት የማቆሚያ ርቀትን ይጨምራል ምክንያቱም ተጨማሪ ክብደት የብሬኪንግ ውጤታማነትን ይቀንሳል።"
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"የጭነት፣ የመጎተት እና የከባድ ተሽከርካሪ ግንዛቤ",
+"subcategory":"መጎተት",
+"englishSubcategory":"Towing",
+"description":"ተጎታች ከመጎተትዎ በፊት፣ ማያያዣው፣ መብራቶቹ እና የደህንነት ሰንሰለቱ ደህንነቱ የተጠበቀ መሆኑን ያረጋግጡ።"
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"የጭነት፣ የመጎተት እና የከባድ ተሽከርካሪ ግንዛቤ",
+"subcategory":"መጎተት",
+"englishSubcategory":"Towing",
+"description":"ተጎታችው በመጠምዘዣው መንገድ ውስጥ ስለሚሄድ፣ በሚጎትቱበት ጊዜ ተጨማሪ ቦታ ይፍቀዱ።"
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"የጭነት፣ የመጎተት እና የከባድ ተሽከርካሪ ግንዛቤ",
+"subcategory":"ጭነቶች",
+"englishSubcategory":"Loads",
+"description":"የኋላ እይታዎን የሚዘጋ ጭነት የትራፊክ ክትትልን በተመለከተ ያለውን ግንዛቤ ይቀንሳል፣ ይህም የአደጋዎችን አደጋ ይጨምራል።"
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"የጭነት፣ የመጎተት እና የከባድ ተሽከርካሪ ግንዛቤ",
+"subcategory":"ከባድ ተሽከርካሪዎች",
+"englishSubcategory":"Heavy Vehicles",
+"description":"ከባድ ተሽከርካሪዎች ለማቆም ተጨማሪ ቦታ ያስፈልጋቸዋል ምክንያቱም የብሬኪንግ ርቀትን ስለሚጨምር።"
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"የጭነት፣ የመጎተት እና የከባድ ተሽከርካሪ ግንዛቤ",
+"subcategory":"ከባድ ተሽከርካሪዎች",
+"englishSubcategory":"Heavy Vehicles",
+"description":"ትልቅ የጭነት መኪና ሲከተሉ፣ የዓይነ ስውራን ቦታዎችን እና የጭነት መኪናዎቹ የማቆሚያ ርቀትን ረዘም ላለ ጊዜ ለማጤን የሚቀጥለውን ርቀት ይጨምሩ።"
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"የፈቃድ አሰጣጥ፣ የL/P ፕሌት ደንቦች እና ተግባራዊ የDKT ወጥመዶች (VIC)",
+"subcategory":"የተማሪ ፈቃድ ደንቦች",
+"englishSubcategory":"Learner Permit Rules",
+"description":"እንደ ቪክቶሪያዊ ተማሪ አሽከርካሪ፣ መኪና መንዳት የሚችሉት ከጎንዎ በተቀመጠ ተገቢው ፈቃድ ባለው አሽከርካሪ ቁጥጥር ስር ሲያደርጉ ብቻ ነው።"
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"የፈቃድ አሰጣጥ፣ የL/P ፕሌት ደንቦች እና ተግባራዊ የDKT ወጥመዶች (VIC)",
+"subcategory":"የተማሪ ፈቃድ ደንቦች",
+"englishSubcategory":"Learner Permit Rules",
+"description":"የተማሪ አሽከርካሪዎች በተሽከርካሪው ላይ ላሉ ሌሎች ሰዎች ሁልጊዜ እንዲታዩ የኤል ታርጋቸውን በግልጽ ማሳየት አለባቸው።"
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"የፈቃድ አሰጣጥ፣ የL/P ፕሌት ደንቦች እና ተግባራዊ የDKT ወጥመዶች (VIC)",
+"subcategory":"የተማሪ ፈቃድ ደንቦች",
+"englishSubcategory":"Learner Permit Rules",
+"description":"ተቆጣጣሪዎ አሽከርካሪዎ እየነዱ ተኝቶ ከሆነ፣ ደህንነቱ በተጠበቀ ሁኔታ ያቁሙ እና በአግባቡ ቁጥጥር እስኪደረግበት ድረስ አይቀጥሉ።"
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"የፈቃድ አሰጣጥ፣ የL/P ፕሌት ደንቦች እና ተግባራዊ የDKT ወጥመዶች (VIC)",
+"subcategory":"ሞባይል ስልኮች እና መሳሪያዎች",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"በቪክቶሪያ ውስጥ እንደ ተማሪ አሽከርካሪ፣ በሚያሽከረክሩበት ጊዜ በምንም መልኩ ሞባይል ስልክ መጠቀም አይፈቀድልዎትም።"
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"የፈቃድ አሰጣጥ፣ የL/P ፕሌት ደንቦች እና ተግባራዊ የDKT ወጥመዶች (VIC)",
+"subcategory":"የተማሪ ፈቃድ ደንቦች",
+"englishSubcategory":"Learner Permit Rules",
+"description":"በሚነዱበት ጊዜ የኤል ፕሌቶችዎ ከወደቁ፣ መንዳትዎን ከመቀጠልዎ በፊት ደህንነቱ በተጠበቀ ሁኔታ ያቁሙ እና እንደገና ያስተካክሉዋቸው።"
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"የፈቃድ አሰጣጥ፣ የL/P ፕሌት ደንቦች እና ተግባራዊ የDKT ወጥመዶች (VIC)",
+"subcategory":"ክትትል",
+"englishSubcategory":"Supervision",
+"description":"የተማሪዎች ክትትል ደንቦች ዋና የደህንነት ዓላማ ልምድ ያለው አሽከርካሪ አስፈላጊ ከሆነ መምራት እና ጣልቃ መግባት እንደሚችል ማረጋገጥ ነው።"
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"የፈቃድ አሰጣጥ፣ የL/P ፕሌት ደንቦች እና ተግባራዊ የDKT ወጥመዶች (VIC)",
+"subcategory":"ሁኔታዎች እና ተገዢነት",
+"englishSubcategory":"Conditions & Compliance",
+"description":"አንድ የለማጅ አሽከርካሪ አስፈላጊውን ቁጥጥር ሳያደርግ ሲነዳ ከተያዘ፣ ቅጣቶች እና የፈቃድ አሰጣጥ ውጤቶች ሊኖሩ ይችላሉ።"
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"የፈቃድ አሰጣጥ፣ የL/P ፕሌት ደንቦች እና ተግባራዊ የDKT ወጥመዶች (VIC)",
+"subcategory":"የአደጋ ግንዛቤ",
+"englishSubcategory":"Hazard Perception",
+"description":"በተማሪ አሽከርካሪዎች መገናኛ ላይ የተለመደ ወጥመድ እርስዎ የሚገቡበትን መንገድ የሚያቋርጡ እግረኞችን ሳያረጋግጡ መዞር ነው።"
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"የፈቃድ አሰጣጥ፣ የL/P ፕሌት ደንቦች እና ተግባራዊ የDKT ወጥመዶች (VIC)",
+"subcategory":"የአደጋ ግንዛቤ",
+"englishSubcategory":"Hazard Perception",
+"description":"መብራቱ አረንጓዴ ቢሆንም እንኳ፣ ትራፊክ ከፊት ለፊት ከተዘጋ ወይም እግረኞች እያቋረጡ ከሆነ ፍጥነትዎን መቀነስ ወይም ማቆም አለብዎት።"
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"የፈቃድ አሰጣጥ፣ የL/P ፕሌት ደንቦች እና ተግባራዊ የDKT ወጥመዶች (VIC)",
+"subcategory":"የተማሪ ፈቃድ ደንቦች",
+"englishSubcategory":"Learner Permit Rules",
+"description":"ተማሪን እየተቆጣጠሩ ከሆነ፣ ተቆጣጣሪው አሽከርካሪ ሁልጊዜ በፊት ለፊት ተሳፋሪ ወንበር ላይ መቀመጥ አለበት።"
+}
+]

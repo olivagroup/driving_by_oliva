@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Rregullat dhe Ligjet Rrugore",
+"subcategory":"Rregullat e Përgjithshme të Rrugës",
+"englishSubcategory":"General Road Rules",
+"description":"Shoferët duhet të ndjekin rregullat e përgjithshme rrugore për të siguruar sigurinë dhe rrjedhën e qetë të trafikut. Kjo përfshin bindjen ndaj shenjave të trafikut, sinjalistikës dhe shenjave të korsive. Mosrespektimi i këtyre rregullave mund të çojë në aksidente dhe gjoba."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Rregullat dhe Ligjet Rrugore",
+"subcategory":"Duke i dhënë rrugë",
+"englishSubcategory":"Giving Way",
+"description":"Shoferët janë të detyruar t'u japin përparësi automjeteve të tjera ose këmbësorëve në kryqëzime, rrethrrotullime dhe kalime për këmbësorë, ndër të tjera. Mosdhënia e përparësisë është shkelje."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Rregullat dhe Ligjet Rrugore",
+"subcategory":"Përdorimi i korsisë",
+"englishSubcategory":"Lane Use",
+"description":"Shoferët duhet të përdorin korsitë e duhura dhe të ndjekin shenjat e korsive. Kjo përfshin rregullat për ndërrimin e korsive, tejkalimin dhe përdorimin e korsive për biçikleta ose autobusë. Shkeljet mund të rezultojnë në gjoba ose aksidente."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Rregullat dhe Ligjet Rrugore",
+"subcategory":"Tramvaje",
+"englishSubcategory":"Trams",
+"description":"Shoferët duhet të jenë të vetëdijshëm për rregullat e tramvajit, duke përfshirë dhënien e përparësisë këmbësorëve në stacionet e tramvajit, ndalimin për tramvajet me dyer të hapura dhe mosparakalimin e tramvajve në kushte të caktuara."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Rregullat dhe Ligjet Rrugore",
+"subcategory":"Kryqëzime",
+"englishSubcategory":"Intersections",
+"description":"Në kryqëzime, shoferët duhet të ndjekin procedurat e sakta për dhënien e përparësisë dhe ndalimin në tabelat e ndalimit ose semaforët. Të kuptuarit e këtyre rregullave është jetik për parandalimin e aksidenteve."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Rregullat dhe Ligjet Rrugore",
+"subcategory":"Kthesa U",
+"englishSubcategory":"U-Turns",
+"description":"Kthesat U lejohen vetëm në kryqëzime ose kur nuk ka tabelë që i ndalon ato. Shoferët duhet të sigurohen që janë të sigurt përpara se të kryejnë një kthesë U."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Rregullat dhe Ligjet Rrugore",
+"subcategory":"Kufizimet e shpejtësisë",
+"englishSubcategory":"Speed Limits",
+"description":"Shoferët duhet t'u binden kufizimeve të shpejtësisë të vendosura për të garantuar sigurinë në rrugë. Shpejtësia mund të rezultojë në gjoba, humbje të patentës dhe rritje të rrezikut të aksidenteve."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Rregullat dhe Ligjet Rrugore",
+"subcategory":"Siguria e këmbësorëve",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Shoferët duhet t'u japin përparësi këmbësorëve në kalime dhe të sigurohen për sigurinë e tyre kur ndodhen pranë zonave të këmbësorëve. Mosndalimi për këmbësorët në kalime është shkelje."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Rregullat dhe Ligjet Rrugore",
+"subcategory":"Kalimet Hekurudhore",
+"englishSubcategory":"Railway Crossings",
+"description":"Shoferët duhet të ndalen në kalimet hekurudhore kur dritat ndizen ose kur portat e krahut janë ulur. Injorimi i këtyre sinjaleve është një shkelje e rëndë dhe mund të rezultojë në gjoba dhe aksidente."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Rregullat dhe Ligjet Rrugore",
+"subcategory":"Automjete emergjence",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Shoferët duhet t’u japin përparësi automjeteve të emergjencës duke përdorur dritat pulsuese dhe sirenat, për t’u siguruar që automjeti të ketë një rrugë të lirë për të lëvizur nëpër trafik."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Shenjat dhe sinjalet e trafikut",
+"subcategory":"Shenjat Rregullatore",
+"englishSubcategory":"Regulatory Signs",
+"description":"Shenjat rregullatore ofrojnë udhëzime të detyrueshme për shoferët, të tilla si kufijtë e shpejtësisë, kufizimet e kthesave dhe shenjat e ndalimit të hyrjes. Ndjekja e këtyre shenjave kërkohet me ligj për të ruajtur sigurinë dhe rendin në rrugë."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Shenjat dhe sinjalet e trafikut",
+"subcategory":"Shenjat paralajmëruese",
+"englishSubcategory":"Warning Signs",
+"description":"Shenjat paralajmëruese i njoftojnë shoferët për rreziqet e mundshme, të tilla si kthesat e mprehta, zonat shkollore dhe kalimet e kafshëve të egra. Këto shenja i ndihmojnë shoferët të përshtasin drejtimin e tyre për të shmangur aksidentet."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Shenjat dhe sinjalet e trafikut",
+"subcategory":"Shenjat e shpejtësisë",
+"englishSubcategory":"Speed Signs",
+"description":"Tabelat e shpejtësisë tregojnë shpejtësinë maksimale ose minimale të lejuar në një rrugë. Shoferët duhet t'i përmbahen këtyre kufijve për të siguruar kushte të sigurta drejtimi dhe për të shmangur gjobat."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Shenjat dhe sinjalet e trafikut",
+"subcategory":"Dritat e trafikut",
+"englishSubcategory":"Traffic Lights",
+"description":"Semaforët kontrollojnë rrjedhën e automjeteve dhe këmbësorëve në kryqëzime. E kuqja do të thotë ndalo, e gjelbra do të thotë nisu dhe e verdha është një paralajmërim për t'u përgatitur për të ndaluar."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Shenjat dhe sinjalet e trafikut",
+"subcategory":"Sinjalet për këmbësorët",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Sinjalet për këmbësorët tregojnë kur është e sigurt që këmbësorët të kalojnë rrugën. Këto sinjale zakonisht koordinohen me semaforët për të siguruar sigurinë e këmbësorëve."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Shenjat dhe sinjalet e trafikut",
+"subcategory":"Sinjalet e Kontrollit të Korsisë",
+"englishSubcategory":"Lane Control Signals",
+"description":"Sinjalet e kontrollit të korsisë përdoren për të treguar nëse një korsi është e hapur apo e mbyllur. Këto sinjale përdoren zakonisht në rrugë me shumë korsi dhe në tunele."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Shenjat dhe sinjalet e trafikut",
+"subcategory":"Shenjat e ndalimit të parkimit",
+"englishSubcategory":"No Parking Signs",
+"description":"Asnjë tabelë parkimi nuk tregon zonat ku ndalimi ose parkimi është i ndaluar. Kjo zakonisht bëhet për të siguruar që trafiku të rrjedhë pa probleme dhe të ruhet siguria."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Shenjat dhe sinjalet e trafikut",
+"subcategory":"Tabelat me një drejtim",
+"englishSubcategory":"One-Way Signs",
+"description":"Shenjat me një drejtim tregojnë se trafiku duhet të lëvizë vetëm në një drejtim. Mosrespektimi i këtyre shenjave mund të rezultojë në aksidente dhe pasoja ligjore."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Shenjat dhe sinjalet e trafikut",
+"subcategory":"Shenjat e ndalimit",
+"englishSubcategory":"Stop Signs",
+"description":"Shenjat e ndalimit kërkojnë që shoferët të ndalen plotësisht dhe t'u japin përparësi çdo automjeti ose këmbësori tjetër përpara se të vazhdojnë rrugën."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Shenjat dhe sinjalet e trafikut",
+"subcategory":"Shenjat e Jepjes së Rrugës",
+"englishSubcategory":"Give Way Signs",
+"description":"Shenjat që japin përparësiuudhëzojnë shoferëve t’u japin përparësi përdoruesve të tjerë të rrugës, qofshin këmbësorë apo automjete, varësisht nga situata, për të parandaluar aksidentet."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Rregullat e Shpejtësisë dhe Distancës",
+"subcategory":"Kufizimet e shpejtësisë",
+"englishSubcategory":"Speed Limits",
+"description":"Kufiri i shpejtësisë së paracaktuar në një zonë të ndërtuar në Victoria është 50 km/orë, përveç nëse ka shenja të ndryshme. Kontrolloni gjithmonë shenjat e vendosura për t'u siguruar që po drejtoni brenda kufijve të lejuar të shpejtësisë."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Rregullat e Shpejtësisë dhe Distancës",
+"subcategory":"Kufizimet e shpejtësisë",
+"englishSubcategory":"Speed Limits",
+"description":"Në një zonë shkollore të shënuar gjatë orarit të specifikuar në tabelë, shpejtësia e lejuar reduktohet në 40 km/orë për të siguruar sigurinë e fëmijëve që kalojnë rrugën."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Rregullat e Shpejtësisë dhe Distancës",
+"subcategory":"Distanca e ndjekjes",
+"englishSubcategory":"Following Distance",
+"description":"Distanca minimale e sigurt pas automjetit përpara në kushte ideale është të paktën dy sekonda pas tij. Kjo jep kohë të mjaftueshme për të reaguar nëse automjeti përpara ndalet papritur."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Rregullat e Shpejtësisë dhe Distancës",
+"subcategory":"Kufizimet e shpejtësisë",
+"englishSubcategory":"Speed Limits",
+"description":"Kur kaloni një tramvaj të ndaluar në një zonë sigurie, duhet ta ulni shpejtësinë në 10 km/orë për të siguruar sigurinë e pasagjerëve që hipin ose zbresin nga tramvaji."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Rregullat e Shpejtësisë dhe Distancës",
+"subcategory":"Kufizimet e shpejtësisë",
+"englishSubcategory":"Speed Limits",
+"description":"Në rrugët rurale pa tabela shpejtësie, kufiri i shpejtësisë së paracaktuar është 100 km/orë, përveç nëse përcaktohet ndryshe nga tabelat lokale. Përshtatni shpejtësinë tuaj sipas kushteve të rrugës për të ruajtur sigurinë."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Rregullat e Shpejtësisë dhe Distancës",
+"subcategory":"Distanca e ndjekjes",
+"englishSubcategory":"Following Distance",
+"description":"Në kushte moti me lagështirë, duhet ta rrisni distancën pas automjetit në të paktën katër sekonda. Rrugët e lagura zvogëlojnë tërheqjen, duke kërkuar më shumë kohë për t'u ndalur në mënyrë të sigurt."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Rregullat e Shpejtësisë dhe Distancës",
+"subcategory":"Kufizimet e shpejtësisë",
+"englishSubcategory":"Speed Limits",
+"description":"Zbatoni sinjalistikën elektronike të kufizimit të shpejtësisë së ndryshueshme në çdo kohë kur ajo është në funksionim. Këto sinjalistika i rregullojnë kufijtë e shpejtësisë në bazë të kushteve të trafikut, motit ose incidenteve në rrugë."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Rregullat e Shpejtësisë dhe Distancës",
+"subcategory":"Distanca e ndalimit",
+"englishSubcategory":"Stopping Distance",
+"description":"Ndërsa shpejtësia juaj rritet, distanca e ndalimit e nevojshme për ta ndaluar automjetin tuaj në mënyrë të sigurt rritet gjithashtu. Sigurohuni gjithmonë që të keni distancë të mjaftueshme për të reaguar ndaj rreziqeve."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Rregullat e Shpejtësisë dhe Distancës",
+"subcategory":"Kufizimet e shpejtësisë",
+"englishSubcategory":"Speed Limits",
+"description":"Në zonat e përbashkëta, kufiri i shpejtësisë është përgjithësisht 10 km/orë për të siguruar sigurinë e këmbësorëve dhe çiklistëve në këto zona ku bashkëveprojnë automjetet dhe përdoruesit e rrugës jo-motorike."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Rregullat e Shpejtësisë dhe Distancës",
+"subcategory":"Distanca e ndjekjes",
+"englishSubcategory":"Following Distance",
+"description":"Tërheqja e automjetit nga mbrapa është e rrezikshme sepse zvogëlon kohën e reagimit dhe të frenimit. Mbani gjithmonë një distancë të sigurt pas tij, veçanërisht kur vozisni pas automjeteve më të mëdha që mund t'ju pengojnë pamjen."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Përgjegjësitë e Shoferit",
+"subcategory":"Detyrimet Ligjore",
+"englishSubcategory":"Legal Obligations",
+"description":"Shoferët duhet të përmbushin detyrime të ndryshme ligjore, të tilla si ofrimi i ndihmës pas një aksidenti, shkëmbimi i të dhënave pas përplasjeve dhe raportimi i incidenteve tek autoritetet siç kërkohet me ligj."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Përgjegjësitë e Shoferit",
+"subcategory":"Vëmendje dhe Kontroll",
+"englishSubcategory":"Attention & Control",
+"description":"Shoferët duhet të mbajnë kontrollin e automjetit të tyre në çdo kohë, duke shmangur shpërqendrimet dhe duke ruajtur përqendrimin për të siguruar sigurinë e tyre dhe atë të përdoruesve të tjerë të rrugës."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Përgjegjësitë e Shoferit",
+"subcategory":"Detyrimet Ligjore",
+"englishSubcategory":"Legal Obligations",
+"description":"Në rast të një aksidenti që shkakton lëndime, shoferët duhet të ndalojnë dhe të ofrojnë ndihmë kur është e mundur. Mosndalimi dhe mosdhënia e ndihmës në situata të tilla përbën shkelje ligjore."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Përgjegjësitë e Shoferit",
+"subcategory":"Vëmendje dhe Kontroll",
+"englishSubcategory":"Attention & Control",
+"description":"Është thelbësore që shoferët të mbajnë kontroll të plotë mbi automjetin e tyre në çdo kohë, dukeusiguruar që t'i përgjigjen në mënyrë të përshtatshme kushteve të ndryshueshme të trafikut dhe të ruajnë një mjedis të sigurt drejtimi."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Përgjegjësitë e Shoferit",
+"subcategory":"Detyrimet Ligjore",
+"englishSubcategory":"Legal Obligations",
+"description":"Shoferët duhet të raportojnë një aksident në polici nëse dikush është i lënduar ose nëse dëmtohet pronë dhe të dhënat nuk mund të shkëmbehen. Mosraportimi i këtyre incidenteve mund të rezultojë në penalitete."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Përgjegjësitë e Shoferit",
+"subcategory":"Menaxhimi i lodhjes",
+"englishSubcategory":"Fatigue Management",
+"description":"Lodhja është një rrezik serioz gjatë drejtimit të automjetit. Shoferët duhet të jenë të vetëdijshëm për shenjat e hershme të lodhjes, të tilla si të përgjumurit dhe humbja e përqendrimit, dhe të ndërmarrin veprimet e duhura për të parandaluar aksidentet."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Përgjegjësitë e Shoferit",
+"subcategory":"Detyrimet Ligjore",
+"englishSubcategory":"Legal Obligations",
+"description":"Shoferët duhet të paraqesin patentën e tyre kur kjo kërkohet nga policia. Refuzimi për të dhënë patentën mund të rezultojë në penalitete ose pasoja të mëtejshme ligjore."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Përgjegjësitë e Shoferit",
+"subcategory":"Vëmendje dhe Kontroll",
+"englishSubcategory":"Attention & Control",
+"description":"Shoferët duhet të shmangin përdorimin e panevojshëm të borisë, pasi ajo mund të trembë ose shpërqendrojë përdoruesit e tjerë të rrugës. Boria duhet të përdoret vetëm për të njoftuar të tjerët për praninë tuaj në situata kur është e nevojshme."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Përgjegjësitë e Shoferit",
+"subcategory":"Menaxhimi i lodhjes",
+"englishSubcategory":"Fatigue Management",
+"description":"Nëse ndiheni shumë të lodhur për të vazhduar drejtimin e makinës, përgjigja më e sigurt është të ndaloni dhe të pushoni para se të vazhdoni. Drejtimi i makinës i lodhur rrit ndjeshëm rrezikun e aksidenteve."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Përgjegjësitë e Shoferit",
+"subcategory":"Detyrimet Ligjore",
+"englishSubcategory":"Legal Obligations",
+"description":"Shoferët kanë përgjegjësinë të sigurohen që pasagjerët e tyre të jenë ulur dhe të lidhur në mënyrë të sigurt. Kjo përfshin sigurimin që fëmijët të jenë në rripat e sigurimit të përshtatshëm dhe të rriturit të vendosin rripat e sigurimit."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkooli, Drogat dhe Shëndeti",
+"subcategory":"Kufizimet e alkoolit",
+"englishSubcategory":"Alcohol Limits",
+"description":"Në Viktoria, shoferët fillestarë dhe shoferët në fazë prove (P1 dhe P2) duhet të mbajnë një përqendrim të alkoolit në gjak (BAC) prej 0.00 në çdo kohë. Shoferët me patentë të plotë kanë një limit BAC prej 0.05, por është më e sigurt të mos pinë fare gjatë drejtimit të automjetit."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkooli, Drogat dhe Shëndeti",
+"subcategory":"Efektet e alkoolit",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkooli dëmton gjykimin, kohën e reagimit dhe koordinimin, gjë që mund të rrisë ndjeshëm rrezikun e aksidenteve. Edhe sasi të vogla alkooli mund të zvogëlojnë aftësinë tuaj për të drejtuar në mënyrë të sigurt."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkooli, Drogat dhe Shëndeti",
+"subcategory":"Drejtimi i drogës",
+"englishSubcategory":"Drug Driving",
+"description":"Drejtimi i automjetit nën ndikimin e drogës, përfshirë ilaçet me recetë, mund të dëmtojë aftësinë tuaj për të drejtuar automjetin, edhe nëse ndiheni të padëmtuar. Është e rëndësishme të jeni të vetëdijshëm për rreziqet dhe të shmangni drejtimin e automjetit pas përdorimit të drogës."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkooli, Drogat dhe Shëndeti",
+"subcategory":"Siguria e ilaçeve",
+"englishSubcategory":"Medication Safety",
+"description":"Para se të filloni një ilaç të ri me recetë, kontrolloni nëse ndikon në aftësinë tuaj për të drejtuar automjetin dhe ndiqni këshillat mjekësore. Disa ilaçe mund të shkaktojnë përgjumje ose të dëmtojnë përqendrimin."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkooli, Drogat dhe Shëndeti",
+"subcategory":"Lodhja dhe Shëndeti",
+"englishSubcategory":"Fatigue & Health",
+"description":"Lodhja mund të dëmtojë aftësinë tuaj për të drejtuar në mënyrë të sigurt, njësoj si alkooli ose droga. Sigurohuni që të pushoni mjaftueshëm para se të ngisni makinën dhe bëni pushime gjatë udhëtimeve të gjata për të zvogëluar rrezikun e aksidenteve që lidhen me lodhjen."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Alkooli, Drogat dhe Shëndeti",
+"subcategory":"Efektet e alkoolit",
+"englishSubcategory":"Alcohol Effects",
+"description":"Pas pirjes, vetëm koha mund ta zvogëlojë sasinë e alkoolit në trupin tuaj. Kafeja, dushet e ftohta ose metodat e tjera nuk e përshpejtojnë këtë proces."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Alkooli, Drogat dhe Shëndeti",
+"subcategory":"Kufizimet e alkoolit",
+"englishSubcategory":"Alcohol Limits",
+"description":"Në Viktoria, të gjithë shoferët që mësojnë dhe ata që janë në provë duhet të mbajnë një përqendrim alkooli në gjak (BAC) prej 0.00. Për shoferët me leje të plotë drejtimi, limiti i BAC është 0.05. Megjithatë, shmangia e alkoolit para drejtimit të makinës është gjithmonë opsioni më i sigurt."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Alkooli, Drogat dhe Shëndeti",
+"subcategory":"Drejtimi i drogës",
+"englishSubcategory":"Drug Driving",
+"description":"Në Victoria mund të penalizoheni për drejtim mjeti me droga të caktuara në sistemin tuaj, edhe nëse ndiheni të padëmtuar. Dëmtimi nga droga ndikon në aftësinë tuaj për të drejtuar në mënyrë të sigurt dhe rrit rrezikun e aksidenteve."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Alkooli, Drogat dhe Shëndeti",
+"subcategory":"Siguria e ilaçeve",
+"englishSubcategory":"Medication Safety",
+"description":"Përpara se të ngisni makinën, kontrolloni gjithmonë nëse ilaçet e reja mund të ndikojnë në aftësinë tuaj për të drejtuar një automjet. Disa ilaçe shkaktojnë përgjumje, dëmtojnë kohën e reagimit dhe ulin përqendrimin."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Alkooli, Drogat dhe Shëndeti",
+"subcategory":"Lodhja dhe Shëndeti",
+"englishSubcategory":"Fatigue & Health",
+"description":"Lodhja mund të ketë një efekt të ngjashëm në drejtimin e automjetit me alkoolin. Ajo ngadalëson kohën e reagimit, dëmton gjykimin dhe zvogëlon aftësinë për të marrë vendime, duke rritur rrezikun e aksidenteve."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Praktikat e Sigurta të Drejtimit të Automjetit",
+"subcategory":"Perceptimi i Rrezikut",
+"englishSubcategory":"Hazard Perception",
+"description":"Kur i afroheni një rreziku të mundshëm, përgjigja më e sigurt është të ngadalësoni dhe të përgatiteni për të ndaluar nëse është e nevojshme. Kjo ju jep kohë për të vlerësuar situatën dhe për të reaguar në mënyrë të përshtatshme."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Praktikat e Sigurta të Drejtimit të Automjetit",
+"subcategory":"Perceptimi i Rrezikut",
+"englishSubcategory":"Hazard Perception",
+"description":"Skanimi përpara gjatë drejtimit të automjetit është thelbësor për zbulimin e hershëm të rreziqeve të mundshme. Kjo ju lejon të planifikoni reagimin tuaj dhe të shmangni reagimet e papritura."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Praktikat e Sigurta të Drejtimit të Automjetit",
+"subcategory":"Drejtim mbrojtës",
+"englishSubcategory":"Defensive Driving",
+"description":"Ngarja mbrojtëse përfshin parashikimin e gabimeve të mundshme nga përdoruesit e tjerë të rrugës dhe mbajtjen e një distance të sigurt për të shmangur përplasjet."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Praktikat e Sigurta të Drejtimit të Automjetit",
+"subcategory":"Kushtet e Rrugës",
+"englishSubcategory":"Road Conditions",
+"description":"Nëse gomat humbasin kontrollin në një rrugë të lagur, lëshoni pedalin e gazit dhe drejtoni me kujdes. Frenimi i papritur ose kthesat e mprehta mund ta përkeqësojnë situatën dhe të çojnë në humbjen e kontrollit."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Praktikat e Sigurta të Drejtimit të Automjetit",
+"subcategory":"Perceptimi i Rrezikut",
+"englishSubcategory":"Hazard Perception",
+"description":"Kur drejtoni makinën në trafik, pozicioni më i mirë për t'u vëzhguar nga rreziqet është shumë përpara dhe anash, jo vetëm dukeupërqendruar te makina përpara jush. Kjo ju ndihmon të parashikoni rreziqet më herët."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Praktikat e Sigurta të Drejtimit të Automjetit",
+"subcategory":"Drejtim mbrojtës",
+"englishSubcategory":"Defensive Driving",
+"description":"Nëse një automjet po lëviz në korsinë e tij përpara, përgjigja më e sigurt është të rritni distancën pas jush. Kjo ju jep më shumë kohë për të reaguar nëse situata përkeqësohet."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Praktikat e Sigurta të Drejtimit të Automjetit",
+"subcategory":"Kushtet e Rrugës",
+"englishSubcategory":"Road Conditions",
+"description":"Rruga është shpesh më e rrëshqitshme në minutat e para pas shiut. Kini kujdes të veçantë gjatë kësaj kohe, pasi vajrat dhe mbeturinat në rrugë mund ta bëjnë atë më të rrezikshme."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Praktikat e Sigurta të Drejtimit të Automjetit",
+"subcategory":"Ngarje natën",
+"englishSubcategory":"Night Driving",
+"description":"Për të menaxhuar shkëlqimin verbues nga dritat e makinave që vijnë përballë natën, shikoni pak në skajin e majtë të korsisë suaj dhe ngadalësoni nëse është e nevojshme. Kjo ndihmon në shmangien e ekspozimit të drejtpërdrejtë ndaj dritave të forta."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Praktikat e Sigurta të Drejtimit të Automjetit",
+"subcategory":"Drejtim mbrojtës",
+"englishSubcategory":"Defensive Driving",
+"description":"Nëse një shofer po ju ndjek shumë nga afër, veprimi më i sigurt është të rrisni distancën nga automjeti përpara jush. Kjo ju jep juve dhe shoferit që vjen pas jush më shumë hapësirë për të reaguar."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Praktikat e Sigurta të Drejtimit të Automjetit",
+"subcategory":"Kushtet e Rrugës",
+"englishSubcategory":"Road Conditions",
+"description":"Kur drejtoni në mjegull, ulni shpejtësinë dhe mbani distancë shtesë midis automjetit tuaj dhe të tjerëve. Mjegulla e zvogëlon ndjeshëm dukshmërinë dhe rrit rrezikun e aksidenteve."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Kryqëzime, kthesa dhe rrethrrotullime",
+"subcategory":"Duke i dhënë rrugë",
+"englishSubcategory":"Giving Way",
+"description":"Në kryqëzimet pa tabela ose sinjalistikë, automjeti që vjen nga e djathta duhet t'i japë përparësi automjetit që vjen nga e majta."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Kryqëzime, kthesa dhe rrethrrotullime",
+"subcategory":"Kthesa",
+"englishSubcategory":"Turns",
+"description":"Kur ktheheni djathtas në semaforët pa një shigjetë për kthesë djathtas, duhet t'u jepni përparësi trafikut që vjen përballë dhe këmbësorëve përpara se të vazhdoni."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Kryqëzime, kthesa dhe rrethrrotullime",
+"subcategory":"Rrethrrotullimet",
+"englishSubcategory":"Roundabouts",
+"description":"Në një rrethrrotullim, automjetet që ndodhen tashmë në rrethrrotullim kanë përparësi. Shoferët që hyjnë në rrethrrotullim duhet t'u japin përparësi atyre."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Kryqëzime, kthesa dhe rrethrrotullime",
+"subcategory":"Kthesa",
+"englishSubcategory":"Turns",
+"description":"Kur ktheheni majtas, duhet t'u jepni përparësi këmbësorëve që kalojnë rrugën në të cilën po hyni, duke siguruar sigurinë e tyre."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Kryqëzime, kthesa dhe rrethrrotullime",
+"subcategory":"Duke i dhënë rrugë",
+"englishSubcategory":"Giving Way",
+"description":"Në një kryqëzim në formë T-je, automjeti në rrugën fundore duhet t'u hapë rrugë automjeteve në rrugën vazhduese."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Kryqëzime, kthesa dhe rrethrrotullime",
+"subcategory":"Kthesa",
+"englishSubcategory":"Turns",
+"description":"Kur bëni një kthesë U, duhet t'u jepni përparësi të gjitha automjeteve dhe këmbësorëve të tjerë, duke siguruar sigurinë e tyre ndërsa ktheheni."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Kryqëzime, kthesa dhe rrethrrotullime",
+"subcategory":"Rrethrrotullimet",
+"englishSubcategory":"Roundabouts",
+"description":"Kur dilni nga një rrethrrotullim, sinjalizoni majtas pak para daljes për të informuar përdoruesit e tjerë të rrugës për qëllimet tuaja."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Kryqëzime, kthesa dhe rrethrrotullime",
+"subcategory":"Duke i dhënë rrugë",
+"englishSubcategory":"Giving Way",
+"description":"Kur hyni në një rrugë nga një hyrje makinash, duhet t'u jepni përparësi të gjitha automjeteve dhe këmbësorëve në rrugë për të parandaluar aksidentet."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Kryqëzime, kthesa dhe rrethrrotullime",
+"subcategory":"Kthesa",
+"englishSubcategory":"Turns",
+"description":"Përpara se të ktheheni djathtas, pozicionojeni automjetin tuaj sa më afër qendrës së rrugës, duke siguruar një kthesë të sigurt dhe të lirë."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Kryqëzime, kthesa dhe rrethrrotullime",
+"subcategory":"Dritat e trafikut",
+"englishSubcategory":"Traffic Lights",
+"description":"Një shigjetë e gjelbër tregon se mund të vazhdoni në drejtimin e shigjetës paudhënë përparësi trafikut tjetër ose këmbësorëve."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Shenjat rrugore, korsitë dhe parakalimet",
+"subcategory":"Përdorimi i korsisë",
+"englishSubcategory":"Lane Use",
+"description":"Një vijë qendrore e vetme e vazhdueshme në përgjithësi do të thotë që nuk duhet ta kaloni atë, përveçse kur hyni ose dilni nga rruga ose nga një hyrje makinash."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Shenjat rrugore, korsitë dhe parakalimet",
+"subcategory":"Parakalimi",
+"englishSubcategory":"Overtaking",
+"description":"Parakalimi nga e majta lejohet në një rrugë me shumë korsi kur trafiku zhvillohet në korsi të ndara të shënuara dhe është i sigurt për ta bërë këtë."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Shenjat rrugore, korsitë dhe parakalimet",
+"subcategory":"Parakalimi",
+"englishSubcategory":"Overtaking",
+"description":"Mund të parakaloni një automjet në të majtë në një rrugë me një korsi kur automjeti përpara po kthehet djathtas dhe është i sigurt ta bëni këtë."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Shenjat rrugore, korsitë dhe parakalimet",
+"subcategory":"Përdorimi i korsisë",
+"englishSubcategory":"Lane Use",
+"description":"Përpara se të ndërroni korsi, sinjalizoni dhe sigurohuni që është e sigurt ta bëni këtë. Kjo siguron që përdoruesit e tjerë të rrugës të jenë të vetëdijshëm për qëllimet tuaja dhe parandalon aksidentet."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Shenjat rrugore, korsitë dhe parakalimet",
+"subcategory":"Shenjat e Rrugës",
+"englishSubcategory":"Road Markings",
+"description":"Një ishull trafiku i pikturuar, ose shenjëzim në formë shevroni, tregon se nuk duhet të ngasni mbi të, duke siguruar lëvizje të sigurt të trafikut."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Shenjat rrugore, korsitë dhe parakalimet",
+"subcategory":"Parakalimi",
+"englishSubcategory":"Overtaking",
+"description":"Nëse nuk jeni i sigurt nëse është e sigurt të parakaloni, veprimi më i sigurt është të mos parakaloni. Gjithmonë vlerësoni situatën përpara se të bëni lëvizjen."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Shenjat rrugore, korsitë dhe parakalimet",
+"subcategory":"Përdorimi i korsisë",
+"englishSubcategory":"Lane Use",
+"description":"Një vijë qendrore e ndërprerë do të thotë që mund ta kaloni atë nëse është e sigurt, duke lejuar parakalime ose ndryshime korsie."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Shenjat rrugore, korsitë dhe parakalimet",
+"subcategory":"Përdorimi i korsisë",
+"englishSubcategory":"Lane Use",
+"description":"Ndërprerja e dy korsive është e ligjshme vetëm kur shenjat e korsive e lejojnë. Zakonisht nuk është e sigurt ose e lejuar në shumicën e kushteve të drejtimit."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Shenjat rrugore, korsitë dhe parakalimet",
+"subcategory":"Parakalimi",
+"englishSubcategory":"Overtaking",
+"description":"Nëse automjeti që po tejkaloni fillon të shpejtojë, përgjigja më e sigurt është të ndërprisni tejkalimin nëse është e sigurt dhe të ktheheni prapa."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Shenjat rrugore, korsitë dhe parakalimet",
+"subcategory":"Shenjat e Rrugës",
+"englishSubcategory":"Road Markings",
+"description":"Një vijë qendrore e dyfishtë e vazhdueshme do të thotë që nuk duhet ta kaloni ose ta kaloni atë në asnjë rrethanë, duke siguruar rrjedhën dhe sigurinë e trafikut."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Rregullat e ndalimit, parkimit dhe rrugës",
+"subcategory":"Ndalohet ndalimi dhe parkimi",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"\"Ndalohet parkimi\"do të thotë që nuk duhet të ndaloni fare, ndërsa \"Ndalohet parkimi\"lejon ndalesa të shkurtra për marrje ose lënie të automjetit."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Rregullat e ndalimit, parkimit dhe rrugës",
+"subcategory":"Ndalohet ndalimi dhe parkimi",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Në një zonë të ndaluar parkimi, lejohet të ndaloni vetëm aq kohë sa për të marrë ose lënë pasagjerë."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Rregullat e ndalimit, parkimit dhe rrugës",
+"subcategory":"Parkim pranë kryqëzimeve",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Parkimi pranë një kryqëzimi shpesh është i kufizuar sepse mund të bllokojë dukshmërinë dhe të krijojë rreziqe për shoferët dhe këmbësorët."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Rregullat e ndalimit, parkimit dhe rrugës",
+"subcategory":"Ndalohet ndalimi dhe parkimi",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Nuk lejoheni të ndaloni në një zonë ku ndalohet ndalimi, edhe nëse po i përgjigjeni një telefonate ose duhet të bëni një ndalesë të shpejtë."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Rregullat e ndalimit, parkimit dhe rrugës",
+"subcategory":"Rrugë të qarta",
+"englishSubcategory":"Clearways",
+"description":"Një rrugë e lirë do të thotë që nuk duhet të ndaloni ose të parkoni në atë anë të rrugës gjatë orarit të funksionimit të saj."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Rregullat e ndalimit, parkimit dhe rrugës",
+"subcategory":"Parkim pranë kalimeve",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Ndalimi pranë një kalimi për këmbësorë është i rrezikshëm pasi mund t’i fshehë këmbësorët nga shoferët që afrohen, duke rritur rrezikun e aksidenteve."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Rregullat e ndalimit, parkimit dhe rrugës",
+"subcategory":"Ndalesa për siguri",
+"englishSubcategory":"Stopping for Safety",
+"description":"Mund të ndaloni në një zonë ku ndalohet ndalimi vetëm nëse e kërkojnë kushtet e trafikut ose në një situatë emergjente."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Rregullat e ndalimit, parkimit dhe rrugës",
+"subcategory":"Parkimi në kodra",
+"englishSubcategory":"Parking on Hills",
+"description":"Kur parkoni në kodër, gjithmonë aplikoni frenën e dorës dhe sigurojeni automjetin për të zvogëluar rrezikun e rrokullisjes."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Rregullat e ndalimit, parkimit dhe rrugës",
+"subcategory":"Parkim pranë kryqëzimeve",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Nuk duhet të parkoni shumë afër një qosheje sepse kjo mund të bllokojë pamjen e trafikut që vjen përballë dhe këmbësorëve, duke krijuar rreziqe."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Rregullat e ndalimit, parkimit dhe rrugës",
+"subcategory":"Ndalohet ndalimi dhe parkimi",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Një tabelë \"Ndalohet parkimi\"me orare të treguara do të thotë që kufizimi zbatohet vetëm gjatë orareve të shfaqura në tabelë."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Këmbësorët, çiklistët dhe përdoruesit e rrugës në nevojë",
+"subcategory":"Këmbësorët",
+"englishSubcategory":"Pedestrians",
+"description":"Kur kthehen, shoferët duhet t'u japin përparësi këmbësorëve që kalojnë rrugën në të cilën po hyjnë. Kjo vlen edhe nëse këmbësori nuk është në një kalim të caktuar."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Këmbësorët, çiklistët dhe përdoruesit e rrugës në nevojë",
+"subcategory":"Çiklistët",
+"englishSubcategory":"Cyclists",
+"description":"Shoferët duhet të lejojnë hapësirë shtesë kur kalojnë çiklistët, pasi mund t'u duhet hapësirë për të shmangur rreziqet ose për të ruajtur ekuilibrin."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Këmbësorët, çiklistët dhe përdoruesit e rrugës në nevojë",
+"subcategory":"Këmbësorët",
+"englishSubcategory":"Pedestrians",
+"description":"Pranë qendrave tregtare ose stacioneve të transportit publik, shoferët duhet të presin rritje të aktivitetit të këmbësorëve dhe kalime të papritura të rrugës. Qëndroni gjithmonë vigjilentë në këto zona."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Këmbësorët, çiklistët dhe përdoruesit e rrugës në nevojë",
+"subcategory":"Çiklistët",
+"englishSubcategory":"Cyclists",
+"description":"Kur një çiklist po ngas në një korsi të shënuar për biçikleta, shoferët duhet të shmangin ngasjen në korsi, përveç nëse lejohet dhe është e sigurt për ta bërë këtë."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Këmbësorët, çiklistët dhe përdoruesit e rrugës në nevojë",
+"subcategory":"Fëmijët",
+"englishSubcategory":"Children",
+"description":"Shoferët duhet të tregojnë kujdes të shtuar pranë shkollave, pasi fëmijët mund të sillen në mënyrë të paparashikueshme dhe ta gjykojnë gabim trafikun. Ngadalësoni shpejtësinë në zonat e shkollave."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Këmbësorët, çiklistët dhe përdoruesit e rrugës në nevojë",
+"subcategory":"Çiklistët",
+"englishSubcategory":"Cyclists",
+"description":"Nëse një çiklist po nget biçikletën në qendër të një korsie të ngushtë, shoferët duhet të presin derisa të jetë e sigurt të kalojnë me hapësirë të mjaftueshme, në vend që të kalojnë me forcë."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Këmbësorët, çiklistët dhe përdoruesit e rrugës në nevojë",
+"subcategory":"Këmbësorët",
+"englishSubcategory":"Pedestrians",
+"description":"Në një kalim për fëmijë, shoferët duhet të ndalen kur shfaqen flamuj dhe ka këmbësorë të pranishëm, duke siguruar sigurinë e fëmijëve."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Këmbësorët, çiklistët dhe përdoruesit e rrugës në nevojë",
+"subcategory":"Çiklistët",
+"englishSubcategory":"Cyclists",
+"description":"Shoferët duhet të kontrollojnë gjithmonë pikat e tyre të verbëra para se të kthehen, pasi çiklistët mund të udhëtojnë pranë tyre pauparë, veçanërisht në zonat urbane."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Këmbësorët, çiklistët dhe përdoruesit e rrugës në nevojë",
+"subcategory":"Të moshuar dhe persona me aftësi të kufizuara",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Këmbësorëve të moshuar mund t'u duhet kohë shtesë për të kaluar rrugën, pasi mund të ecin më ngadalë ose të kenë probleme me lëvizshmërinë. Jepuni atyre hapësirë dhe kohë për të kaluar rrugën në mënyrë të sigurt."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Këmbësorët, çiklistët dhe përdoruesit e rrugës në nevojë",
+"subcategory":"Çiklistët",
+"englishSubcategory":"Cyclists",
+"description":"Çiklistët mund të jenë më të vështirë për t'u parë kur afrohen në kryqëzime dhe ata mund të lëvizin shpejt. Jepuni gjithmonë çiklistëve hapësirë dhe kohë për të lëvizur në mënyrë të sigurt."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Situata të Veçanta dhe Mjedise Rrugore",
+"subcategory":"Zonat Shkollore",
+"englishSubcategory":"School Zones",
+"description":"Kufizimet e shpejtësisë në zonën shkollore zbatohen vetëm gjatë orareve të treguara në tabela. Sigurohuni që t'i ndiqni ato për të siguruar sigurinë e fëmijëve."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Situata të Veçanta dhe Mjedise Rrugore",
+"subcategory":"Zonat Shkollore",
+"englishSubcategory":"School Zones",
+"description":"Shoferët duhet të ngadalësojnë në zonat shkollore edhe nëse nuk ka fëmijë të dukshëm, pasi fëmijët mund të shfaqen papritur dhe në mënyrë të paparashikueshme."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Situata të Veçanta dhe Mjedise Rrugore",
+"subcategory":"Punime rrugore",
+"englishSubcategory":"Roadworks",
+"description":"Kur i afroheni punimeve rrugore, ngadalësoni dhe ndiqni çdo shenjë të përkohshme për të siguruar sigurinë e punëtorëve dhe përdoruesve të tjerë të rrugës."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Situata të Veçanta dhe Mjedise Rrugore",
+"subcategory":"Punime rrugore",
+"englishSubcategory":"Roadworks",
+"description":"Kufizimet e shpejtësisë ulen në zonat e punimeve rrugore për të siguruar sigurinë e punëtorëve dhe për t'iu përshtatur ndryshimeve në kushtet e rrugës."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Situata të Veçanta dhe Mjedise Rrugore",
+"subcategory":"Rrugë Rurale",
+"englishSubcategory":"Rural Roads",
+"description":"Në rrugët rurale, kafshët e egra mund të hyjnë në rrugë papritur. Jini gjithmonë të përgatitur të ndaloni ose të ngadalësoni kur ngisni makinën nëpër zona rurale."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Situata të Veçanta dhe Mjedise Rrugore",
+"subcategory":"Rrugë Rurale",
+"englishSubcategory":"Rural Roads",
+"description":"Rrugët e paasfaltuara shpesh kanë aftësi të reduktuar të kapjes dhe frenimit. Shoferët duhet të ulin shpejtësinë kur ngasin në sipërfaqe të paasfaltuara."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Situata të Veçanta dhe Mjedise Rrugore",
+"subcategory":"Autostrada",
+"englishSubcategory":"Freeways",
+"description":"Nëse e humbisni daljen e autostradës, vazhdoni deri në daljen tjetër dhe kthehuni në mënyrë të sigurt. Mosupërpiqni të ndaloni ose të ecni mbrapsht në autostradë."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Situata të Veçanta dhe Mjedise Rrugore",
+"subcategory":"Autostrada",
+"englishSubcategory":"Freeways",
+"description":"Është e paligjshme të ndalosh në një autostradë përveç në raste urgjence. Përdorni gjithmonë rampën anësore ose të daljes në rast të ndonjë avarie."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Situata të Veçanta dhe Mjedise Rrugore",
+"subcategory":"Kushtet e motit",
+"englishSubcategory":"Weather Conditions",
+"description":"Në shi të rrëmbyeshëm, ulni shpejtësinë dhe rrisni distancën nga vija pasuese. Rrugët e lagura mund të zvogëlojnë tërheqjen dhe të rrisin distancat e ndalimit."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Situata të Veçanta dhe Mjedise Rrugore",
+"subcategory":"Kushtet e motit",
+"englishSubcategory":"Weather Conditions",
+"description":"Mjegulla zvogëlon dukshmërinë dhe perceptimin e thellësisë, duke e bërë drejtimin e automjetit veçanërisht të rrezikshëm. Ngadalësoni dhe rrisni distancën pas jush në kushte mjegulle."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Automjetet e Emergjencës dhe Udhëzimet e Policisë",
+"subcategory":"Hapja e rrugës për automjete emergjente",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Kur një automjet emergjence po afrohet me drita dhe/ose sirenë, largohuni nga rruga e tij dhe lejojeni të kalojë në mënyrë të sigurt."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Automjetet e Emergjencës dhe Udhëzimet e Policisë",
+"subcategory":"Hapja e rrugës për automjete emergjente",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Nëse jeni në semafor dhe një automjet emergjence afrohet nga pas, veprimi më i sigurt është të lëvizni mënjanë nëse është i sigurt dhe i ligjshëm, përndryshe qëndroni në vend dhe e lini të kalojë kur të jetë e mundur."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Automjetet e Emergjencës dhe Udhëzimet e Policisë",
+"subcategory":"Udhëzime për Policinë",
+"englishSubcategory":"Police Directions",
+"description":"Nëse një oficer policie ju udhëzon ndryshe nga një tabelë, ju duhet të ndiqni udhëzimet e oficerëve të policisë."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Automjetet e Emergjencës dhe Udhëzimet e Policisë",
+"subcategory":"Hapja e rrugës për automjete emergjente",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Nëse një automjet emergjence është ndalur me dritat që ndizen në anë të rrugës, ngadalësoni dhe kaloni me kujdes, duke lëvizur përpara nëse është e sigurt."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Automjetet e Emergjencës dhe Udhëzimet e Policisë",
+"subcategory":"Udhëzime për Policinë",
+"englishSubcategory":"Police Directions",
+"description":"Nëse policia vendos një bllokadë të përkohshme rrugore, ndiqni udhëzimet e tyre dhe çdo devijim."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Automjetet e Emergjencës dhe Udhëzimet e Policisë",
+"subcategory":"Hapja e rrugës për automjete emergjente",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Nuk duhet të ndiqni nga afër një automjet emergjence për të kaluar më shpejt trafikun."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Automjetet e Emergjencës dhe Udhëzimet e Policisë",
+"subcategory":"Hapja e rrugës për automjete emergjente",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Nëse dëgjoni një sirenë, por ende nuk e shihni automjetin e emergjencës, qëndroni vigjilentë, kontrolloni pasqyrat dhe jini gati për të lëvizur në mënyrë të sigurt."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Automjetet e Emergjencës dhe Udhëzimet e Policisë",
+"subcategory":"Udhëzime për Policinë",
+"englishSubcategory":"Police Directions",
+"description":"Nëse një kontrollor trafiku në punimet rrugore jep udhëzime, duhet t'i bindeni kontrollorit të trafikut."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Automjetet e Emergjencës dhe Udhëzimet e Policisë",
+"subcategory":"Udhëzime për Policinë",
+"englishSubcategory":"Police Directions",
+"description":"Nëse policia ju udhëzon të ndaloni për një kontroll të patentës, ndaloni në mënyrë të sigurt sipas udhëzimeve."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Automjetet e Emergjencës dhe Udhëzimet e Policisë",
+"subcategory":"Hapja e rrugës për automjete emergjente",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Nëse jeni në një korsi të vetme dhe një automjet emergjence afrohet nga pas, jepni sinjal dhe lëvizni majtas ose në një pozicion të sigurt kur të jetë e mundur."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Rripat e sigurimit, sistemet e kufizimit të fëmijëve dhe pasagjerët",
+"subcategory":"Rripat e sigurimit",
+"englishSubcategory":"Seatbelts",
+"description":"Shoferi është përgjegjës për t'u siguruar që të gjithë pasagjerët nën 16 vjeç të mbajnë rripin e sigurimit."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Rripat e sigurimit, sistemet e kufizimit të fëmijëve dhe pasagjerët",
+"subcategory":"Rripat e sigurimit",
+"englishSubcategory":"Seatbelts",
+"description":"Një rrip sigurimi duhet të mbahet gjatë gjithë kohës kur automjeti është në lëvizje, nëse është i vendosur."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Rripat e sigurimit, sistemet e kufizimit të fëmijëve dhe pasagjerët",
+"subcategory":"Kufizues për fëmijë",
+"englishSubcategory":"Child Restraints",
+"description":"Një rrip sigurimi për fëmijë është i nevojshëm sepse është projektuar për t'iu përshtatur dhe për të mbrojtur madhësinë dhe formën e trupit të fëmijës në mënyrë më efektive sesa një rrip sigurimi për të rritur."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Rripat e sigurimit, sistemet e kufizimit të fëmijëve dhe pasagjerët",
+"subcategory":"Pasagjerët",
+"englishSubcategory":"Passengers",
+"description":"Është e pasigurt që pasagjerët të vendosin këmbët mbi panelin e instrumenteve sepse airbag-ët dhe forcat e përplasjes mund të shkaktojnë lëndime të rënda."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Rripat e sigurimit, sistemet e kufizimit të fëmijëve dhe pasagjerët",
+"subcategory":"Kufizues për fëmijë",
+"englishSubcategory":"Child Restraints",
+"description":"Rregulli më i sigurt i përgjithshëm për zgjedhjen e një sistemi sigurie për fëmijë është të përdorni një që është i miratuar dhe i përshtatshëm për moshën dhe madhësinë e fëmijës."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Rripat e sigurimit, sistemet e kufizimit të fëmijëve dhe pasagjerët",
+"subcategory":"Rripat e sigurimit",
+"englishSubcategory":"Seatbelts",
+"description":"Një shenjë e zakonshme që tregon se rripi i sigurimit nuk po mbahet siç duhet është kur rripi i sigurimit ndodhet nën krah ose pas shpinës."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Rripat e sigurimit, sistemet e kufizimit të fëmijëve dhe pasagjerët",
+"subcategory":"Pasagjerët",
+"englishSubcategory":"Passengers",
+"description":"Nëse një pasagjer e shpërqendron shoferin, veprimi më i sigurt është t'i kërkoni të ndalet dhe të përqendrohet përsëri te drejtimi i makinës."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Rripat e sigurimit, sistemet e kufizimit të fëmijëve dhe pasagjerët",
+"subcategory":"Kufizues për fëmijë",
+"englishSubcategory":"Child Restraints",
+"description":"Është e pasigurt të mbash një foshnjë në prehër në një automjet në lëvizje sepse nuk mund ta mbash atë të sigurt në rast aksidenti."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Rripat e sigurimit, sistemet e kufizimit të fëmijëve dhe pasagjerët",
+"subcategory":"Rripat e sigurimit",
+"englishSubcategory":"Seatbelts",
+"description":"Rripi i sigurimit duhet të vendoset me pjesën e prehërit poshtë nëpër vithe për të zvogëluar rrezikun e lëndimit të barkut në një aksident."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Rripat e sigurimit, sistemet e kufizimit të fëmijëve dhe pasagjerët",
+"subcategory":"Pasagjerët",
+"englishSubcategory":"Passengers",
+"description":"Një rrezik kryesor i mbajtjes së objekteve të pasigurta në kabinë është se ato mund të shndërrohen në predha në rast përplasjeje ose ndalese të papritur."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Siguria e automjeteve, defektet dhe bazat e mirëmbajtjes",
+"subcategory":"Goma",
+"englishSubcategory":"Tyres",
+"description":"Presioni i saktë i gomave është i rëndësishëm për sigurinë sepse ndikon në kapjen, frenimin dhe kontrollin e drejtimit."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Siguria e automjeteve, defektet dhe bazat e mirëmbajtjes",
+"subcategory":"Frenat",
+"englishSubcategory":"Brakes",
+"description":"Nëse pedali i frenave ndihet si sfungjer ose fundoset më shumë se zakonisht, trajtojeni si një defekt serioz dhe kontrolloni menjëherë frenat."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Siguria e automjeteve, defektet dhe bazat e mirëmbajtjes",
+"subcategory":"Dritat dhe Dukshmëria",
+"englishSubcategory":"Lights & Visibility",
+"description":"Kontrolloni rregullisht të gjitha dritat e automjetit për t'u siguruar që mund t'i shihni dhe të tjerët t'ju shohin."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Siguria e automjeteve, defektet dhe bazat e mirëmbajtjes",
+"subcategory":"Drejtim dhe Pezullim",
+"englishSubcategory":"Steering & Suspension",
+"description":"Një shenjë paralajmëruese e një problemi me drejtimin mund të përfshijë tërheqje të pazakontë, dridhje ose vështirësi në drejtim."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Siguria e automjeteve, defektet dhe bazat e mirëmbajtjes",
+"subcategory":"Xhama të përparmë dhe fshirëse",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Fshirëset e konsumuara të fshirëseve janë një problem sigurie sepse zvogëlojnë dukshmërinë në shi."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Siguria e automjeteve, defektet dhe bazat e mirëmbajtjes",
+"subcategory":"Goma",
+"englishSubcategory":"Tyres",
+"description":"Një shenjë e zakonshme që tregon se gomat mund të jenë të pasigurta është nëse shtresa e gomës është e konsumuar ose e konsumuar në mënyrë të pabarabartë."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Siguria e automjeteve, defektet dhe bazat e mirëmbajtjes",
+"subcategory":"Pasqyra dhe Rregullim",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Pasqyrat duhet të rregullohen para drejtimit të automjetit për të zvogëluar pikat e verbëra dhe për të përmirësuar ndërgjegjësimin."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Siguria e automjeteve, defektet dhe bazat e mirëmbajtjes",
+"subcategory":"Frenat",
+"englishSubcategory":"Brakes",
+"description":"Nëse frenat tuaja bëjnë zhurmë kërcitjeje, kontrolloni ato sa më shpejt të jetë e mundur."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Siguria e automjeteve, defektet dhe bazat e mirëmbajtjes",
+"subcategory":"Dritat dhe Dukshmëria",
+"englishSubcategory":"Lights & Visibility",
+"description":"Përdorni dritat e përparme në dukshmëri të dobët sa herë që ajo është e zvogëluar, në mënyrë që të tjerët t'ju shohin."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Siguria e automjeteve, defektet dhe bazat e mirëmbajtjes",
+"subcategory":"Xhama të përparmë dhe fshirëse",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Nëse xhami i përparmë është shumë i çarë në vijën e shikimit, riparojeni ose zëvendësojeni atë përpara se të vazhdoni udhëtimin."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Ngarkesa, tërheqje dhe ndërgjegjësim për automjetet e rënda",
+"subcategory":"Ngarkesa",
+"englishSubcategory":"Loads",
+"description":"Ngarkesat duhet të sigurohen siç duhet për të parandaluar zhvendosjen ose rënien e tyre dhe shkaktimin e përplasjeve."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Ngarkesa, tërheqje dhe ndërgjegjësim për automjetet e rënda",
+"subcategory":"Ngarkesa",
+"englishSubcategory":"Loads",
+"description":"Një ngarkesë e pasiguruar brenda një automjeti mund të shndërrohet në predhë gjatë frenimit të menjëhershëm, duke paraqitur një rrezik të konsiderueshëm për sigurinë."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Ngarkesa, tërheqje dhe ndërgjegjësim për automjetet e rënda",
+"subcategory":"Ngarkesa",
+"englishSubcategory":"Loads",
+"description":"Mbajtja e një automjeti të mbingarkuar ndikon në frenim duke rritur distancën e ndalimit."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Ngarkesa, tërheqje dhe ndërgjegjësim për automjetet e rënda",
+"subcategory":"Ngarkesa",
+"englishSubcategory":"Loads",
+"description":"Mënyra më e sigurt për të mbajtur sende të gjata është t'i siguroni ato në mënyrë që të mos lëvizin ose të dalin në mënyrë të rrezikshme."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Ngarkesa, tërheqje dhe ndërgjegjësim për automjetet e rënda",
+"subcategory":"Tërheqje",
+"englishSubcategory":"Towing",
+"description":"Tërheqja e një rimorkioje rrit distancën e ndalimit sepse pesha shtesë zvogëlon efektivitetin e frenimit."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Ngarkesa, tërheqje dhe ndërgjegjësim për automjetet e rënda",
+"subcategory":"Tërheqje",
+"englishSubcategory":"Towing",
+"description":"Përpara se të tërhiqni një rimorkio, kontrolloni që bashkuesja, dritat dhe zinxhiri i sigurisë janë të sigurta."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Ngarkesa, tërheqje dhe ndërgjegjësim për automjetet e rënda",
+"subcategory":"Tërheqje",
+"englishSubcategory":"Towing",
+"description":"Lini hapësirë shtesë kur ktheheni gjatë tërheqjes, pasi rimorkioja mbetet brenda trajektores së kthesës."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Ngarkesa, tërheqje dhe ndërgjegjësim për automjetet e rënda",
+"subcategory":"Ngarkesa",
+"englishSubcategory":"Loads",
+"description":"Një ngarkesë që bllokon pamjen tuaj nga mbrapa zvogëlon ndërgjegjësimin për trafikun që vjen pas jush, duke rritur rrezikun e aksidenteve."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Ngarkesa, tërheqje dhe ndërgjegjësim për automjetet e rënda",
+"subcategory":"Automjete të rënda",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Automjetet e rënda kanë nevojë për më shumë hapësirë për të ndaluar sepse masa e tyre më e madhe rrit distancën e frenimit."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Ngarkesa, tërheqje dhe ndërgjegjësim për automjetet e rënda",
+"subcategory":"Automjete të rënda",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Kur ndiqni një kamion të madh, rrisni distancën pas jush për të marrë parasysh pikat e verbëra dhe për kamionët një distancë më të gjatë ndalimi."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Licencimi, Rregullat e Targave L/P dhe Kurthet Praktike DKT (VIC)",
+"subcategory":"Rregullat e Lejes së Nxënësit",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Si shofer fillestar në Viktoria, ju lejohet të drejtoni një makinë vetëm nën mbikëqyrjen e një shoferi me leje të përshtatshme të ulur pranë jush."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Licencimi, Rregullat e Targave L/P dhe Kurthet Praktike DKT (VIC)",
+"subcategory":"Rregullat e Lejes së Nxënësit",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Shoferët fillestarë duhet t'i shfaqin targat e tyre L qartë në mënyrë që të jenë të dukshme për të tjerët në automjet në çdo kohë."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Licencimi, Rregullat e Targave L/P dhe Kurthet Praktike DKT (VIC)",
+"subcategory":"Rregullat e Lejes së Nxënësit",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Nëse shoferi që mbikëqyrni bie në gjumë ndërsa ju jeni duke drejtuar, ndaloni në mënyrë të sigurt dhe mos vazhdoni derisa të mbikëqyreni siç duhet."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Licencimi, Rregullat e Targave L/P dhe Kurthet Praktike DKT (VIC)",
+"subcategory":"Telefona celularë dhe pajisje",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Si shofer fillestar në Victoria, nuk lejoheni të përdorni telefon celular në asnjë mënyrë gjatë drejtimit të automjetit."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Licencimi, Rregullat e Targave L/P dhe Kurthet Praktike DKT (VIC)",
+"subcategory":"Rregullat e Lejes së Nxënësit",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Nëse targat L ju bien gjatë drejtimit të automjetit, ndaloni në mënyrë të sigurt dhe vendosini ato përsëri përpara se të vazhdoni të drejtoni automjetin."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Licencimi, Rregullat e Targave L/P dhe Kurthet Praktike DKT (VIC)",
+"subcategory":"Mbikëqyrja",
+"englishSubcategory":"Supervision",
+"description":"Qëllimi kryesor i sigurisë i rregullave të mbikëqyrjes së nxënësve është të sigurohet që një shofer me përvojë të mund të udhëzojë dhe të ndërhyjë nëse është e nevojshme."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Licencimi, Rregullat e Targave L/P dhe Kurthet Praktike DKT (VIC)",
+"subcategory":"Kushtet dhe Pajtueshmëria",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Nëse një shofer fillestar kapet duke drejtuar pa mbikëqyrjen e kërkuar, ka të ngjarë të ketë penalitete dhe pasoja të mundshme për marrjen e lejes së drejtimit."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Licencimi, Rregullat e Targave L/P dhe Kurthet Praktike DKT (VIC)",
+"subcategory":"Perceptimi i Rrezikut",
+"englishSubcategory":"Hazard Perception",
+"description":"Një kurth i zakonshëm në kryqëzime për shoferët fillestarë është kthimi pa kontrolluar për këmbësorë që kalojnë rrugën në të cilën po hyni."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Licencimi, Rregullat e Targave L/P dhe Kurthet Praktike DKT (VIC)",
+"subcategory":"Perceptimi i Rrezikut",
+"englishSubcategory":"Hazard Perception",
+"description":"Edhe nëse semafori është jeshil, duhet të ngadalësoni ose të ndaloni nëse trafiku përpara është i bllokuar ose këmbësorët po kalojnë rrugën."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Licencimi, Rregullat e Targave L/P dhe Kurthet Praktike DKT (VIC)",
+"subcategory":"Rregullat e Lejes së Nxënësit",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Nëse mbikëqyrni një nxënës, shoferi mbikëqyrës duhet të ulet gjithmonë në sediljen e pasagjerit përpara."
+}
+]

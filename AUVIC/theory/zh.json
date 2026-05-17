@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"道路规则与法律",
+"subcategory":"一般道路规则",
+"englishSubcategory":"General Road Rules",
+"description":"驾驶员必须遵守一般道路交通规则,以确保安全和交通顺畅。这包括遵守交通标志、信号灯和车道标线。不遵守这些规则可能会导致交通事故和处罚。"
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"道路规则与法律",
+"subcategory":"让路",
+"englishSubcategory":"Giving Way",
+"description":"驾驶员在十字路口、环岛、人行横道等场所必须礼让其他车辆或行人。不礼让属于违法行为。"
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"道路规则与法律",
+"subcategory":"车道使用",
+"englishSubcategory":"Lane Use",
+"description":"驾驶员必须使用合适的车道并遵守车道标线。这包括变道、超车以及使用自行车道或公交车道的规则。违规行为可能导致罚款或交通事故。"
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"道路规则与法律",
+"subcategory":"电车",
+"englishSubcategory":"Trams",
+"description":"驾驶员必须了解电车规则,包括在电车站礼让行人、为车门打开的电车停车,以及在某些情况下不得超车。"
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"道路规则与法律",
+"subcategory":"交叉路口",
+"englishSubcategory":"Intersections",
+"description":"在十字路口,驾驶员必须遵守正确的让行和停车程序,包括遵守停车标志或交通信号灯。了解这些规则对于预防交通事故至关重要。"
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"道路规则与法律",
+"subcategory":"U型转弯",
+"englishSubcategory":"U-Turns",
+"description":"掉头仅允许在十字路口或没有禁止掉头标志的情况下进行。驾驶员在掉头前必须确保安全。"
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"道路规则与法律",
+"subcategory":"限速",
+"englishSubcategory":"Speed Limits",
+"description":"驾驶员必须遵守限速规定,以确保道路安全。超速行驶可能导致罚款、吊销驾照,并增加发生交通事故的风险。"
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"道路规则与法律",
+"subcategory":"行人安全",
+"englishSubcategory":"Pedestrian Safety",
+"description":"驾驶员在人行横道上必须礼让行人,并在行人区域附近确保行人安全。未在人行横道处停车让行人是违法行为。"
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"道路规则与法律",
+"subcategory":"铁路道口",
+"englishSubcategory":"Railway Crossings",
+"description":"当铁路道口警示灯闪烁或栏杆放下时,驾驶员必须停车。无视这些信号是严重的违法行为,可能导致罚款和交通事故。"
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"道路规则与法律",
+"subcategory":"紧急车辆",
+"englishSubcategory":"Emergency Vehicles",
+"description":"驾驶员必须为使用闪光灯和警报器的紧急车辆让路,确保车辆在车流中畅通无阻。"
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"交通标志和信号",
+"subcategory":"监管标志",
+"englishSubcategory":"Regulatory Signs",
+"description":"交通标志为驾驶员提供强制性指示,例如限速、转弯限制和禁止驶入标志。遵守这些标志是法律规定的,以维护道路安全和秩序。"
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"交通标志和信号",
+"subcategory":"警告标志",
+"englishSubcategory":"Warning Signs",
+"description":"警告标志提醒驾驶员注意潜在危险,例如急弯、学校区域和野生动物出没区域。这些标志有助于驾驶员调整驾驶方式,避免事故发生。"
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"交通标志和信号",
+"subcategory":"限速标志",
+"englishSubcategory":"Speed Signs",
+"description":"限速标志标明道路上允许的最高或最低速度。驾驶员必须遵守这些限制,以确保行车安全并避免罚款。"
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"交通标志和信号",
+"subcategory":"交通信号灯",
+"englishSubcategory":"Traffic Lights",
+"description":"交通信号灯控制十字路口的车辆和行人通行。红灯表示停止,绿灯表示通行,黄灯表示注意,准备停车。"
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"交通标志和信号",
+"subcategory":"行人信号",
+"englishSubcategory":"Pedestrian Signals",
+"description":"行人信号灯指示行人何时可以安全过马路。这些信号灯通常与交通信号灯协调运作,以确保行人安全。"
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"交通标志和信号",
+"subcategory":"车道控制信号",
+"englishSubcategory":"Lane Control Signals",
+"description":"车道控制信号用于指示车道是否开放或关闭。这些信号通常用于多车道道路和隧道中。"
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"交通标志和信号",
+"subcategory":"禁止停车标志",
+"englishSubcategory":"No Parking Signs",
+"description":"禁止停车标志表示禁止停车或停留的区域。这通常是为了确保交通顺畅和安全。"
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"交通标志和信号",
+"subcategory":"单行道标志",
+"englishSubcategory":"One-Way Signs",
+"description":"单行道标志表示车辆必须沿一个方向行驶。无视这些标志可能会导致交通事故和法律后果。"
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"交通标志和信号",
+"subcategory":"停车标志",
+"englishSubcategory":"Stop Signs",
+"description":"停车标志要求驾驶员完全停车,并礼让其他车辆或行人后方可继续行驶。"
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"交通标志和信号",
+"subcategory":"让行标志",
+"englishSubcategory":"Give Way Signs",
+"description":"让行标志指示驾驶员根据情况礼让其他道路使用者,无论是行人还是车辆,以防止发生事故。"
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"速度和距离规则",
+"subcategory":"限速",
+"englishSubcategory":"Speed Limits",
+"description":"在维多利亚州的建成区,默认限速为50公里/小时,除非另有标志。请务必查看限速标志,确保您的车速在法定限速范围内。"
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"速度和距离规则",
+"subcategory":"限速",
+"englishSubcategory":"Speed Limits",
+"description":"在设有标志的学校区域内,于标志牌上规定的时间段内,限速降至 40 公里/小时,以确保儿童过马路的安全。"
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"速度和距离规则",
+"subcategory":"保持距离",
+"englishSubcategory":"Following Distance",
+"description":"在理想情况下,最小安全跟车距离至少为与前车保持两秒。这样可以留出足够的反应时间,以防前车突然停车。"
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"速度和距离规则",
+"subcategory":"限速",
+"englishSubcategory":"Speed Limits",
+"description":"在安全区域经过停靠的电车时,必须将速度降低到 10 公里/小时,以确保上下电车的乘客的安全。"
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"速度和距离规则",
+"subcategory":"限速",
+"englishSubcategory":"Speed Limits",
+"description":"在没有限速标志的乡村道路上,默认限速为100公里/小时,除非当地标志另有规定。请根据路况调整车速以确保安全。"
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"速度和距离规则",
+"subcategory":"保持距离",
+"englishSubcategory":"Following Distance",
+"description":"在雨天路滑的情况下,您应该将跟车距离增加到至少四秒。湿滑路面会降低车辆的摩擦力,需要更长的刹车距离才能安全停车。"
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"速度和距离规则",
+"subcategory":"限速",
+"englishSubcategory":"Speed Limits",
+"description":"电子可变限速标志启用时,请务必遵守其指示。这些标志会根据交通状况、天气或道路事故调整限速。"
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"速度和距离规则",
+"subcategory":"停车距离",
+"englishSubcategory":"Stopping Distance",
+"description":"随着车速的增加,安全停车所需的制动距离也会增加。务必确保与前方车辆保持足够的安全距离,以便应对突发情况。"
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"速度和距离规则",
+"subcategory":"限速",
+"englishSubcategory":"Speed Limits",
+"description":"在共享区域,限速一般为 10 公里/小时,以确保行人和骑自行车者在这些车辆和非机动道路使用者互动区域的安全。"
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"速度和距离规则",
+"subcategory":"保持距离",
+"englishSubcategory":"Following Distance",
+"description":"跟车过近很危险,因为它会降低反应时间和刹车时间。务必保持安全车距,尤其是在大型车辆可能遮挡视线的情况下行驶时。"
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"驾驶员职责",
+"subcategory":"法律义务",
+"englishSubcategory":"Legal Obligations",
+"description":"驾驶员必须履行各种法律义务,例如在发生事故后提供援助、在发生碰撞后交换详细信息以及按法律要求向有关部门报告事故。"
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"驾驶员职责",
+"subcategory":"注意力与控制",
+"englishSubcategory":"Attention & Control",
+"description":"驾驶员必须始终保持对车辆的控制,避免分心,保持专注,以确保自身及其他道路使用者的安全。"
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"驾驶员职责",
+"subcategory":"法律义务",
+"englishSubcategory":"Legal Obligations",
+"description":"如果发生造成人员伤亡的交通事故,驾驶员必须停车并在条件允许的情况下提供帮助。未停车施救属于违法行为。"
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"驾驶员职责",
+"subcategory":"注意力与控制",
+"englishSubcategory":"Attention & Control",
+"description":"驾驶员必须始终完全掌控自己的车辆,确保对不断变化的交通状况做出适当反应,并保持安全的驾驶环境。"
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"驾驶员职责",
+"subcategory":"法律义务",
+"englishSubcategory":"Legal Obligations",
+"description":"如果事故造成人员受伤或财产损失,且无法交换详细信息,驾驶员必须向警方报告事故。未报告此类事件可能会导致处罚。"
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"驾驶员职责",
+"subcategory":"疲劳管理",
+"englishSubcategory":"Fatigue Management",
+"description":"疲劳驾驶会带来严重风险。驾驶员应注意疲劳的早期迹象,例如打哈欠和注意力不集中,并采取适当措施预防事故发生。"
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"驾驶员职责",
+"subcategory":"法律义务",
+"englishSubcategory":"Legal Obligations",
+"description":"驾驶员必须在警方要求时出示驾驶执照。拒绝出示驾驶执照可能会导致罚款或其他法律后果。"
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"驾驶员职责",
+"subcategory":"注意力与控制",
+"englishSubcategory":"Attention & Control",
+"description":"驾驶员应避免不必要地鸣笛,因为这可能会惊吓或分散其他道路使用者的注意力。鸣笛仅应用于必要时提醒他人注意自身存在。"
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"驾驶员职责",
+"subcategory":"疲劳管理",
+"englishSubcategory":"Fatigue Management",
+"description":"如果感到过于疲劳而无法继续驾驶,最安全的做法是停车休息后再继续行驶。疲劳驾驶会显著增加发生事故的风险。"
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"驾驶员职责",
+"subcategory":"法律义务",
+"englishSubcategory":"Legal Obligations",
+"description":"驾驶员有责任确保乘客安全就座并系好安全带。这包括确保儿童使用合适的儿童安全座椅,以及成人系好安全带。"
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"酒精、毒品与健康",
+"subcategory":"酒精限制",
+"englishSubcategory":"Alcohol Limits",
+"description":"在维多利亚州,实习驾驶员和见习驾驶员(P1 和 P2)必须始终保持血液酒精浓度 (BAC) 为 0.00。正式驾驶员的 BAC 上限为 0.05,但开车时最好完全不饮酒。"
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"酒精、毒品与健康",
+"subcategory":"酒精的影响",
+"englishSubcategory":"Alcohol Effects",
+"description":"酒精会损害判断力、反应时间和协调能力,从而显著增加发生事故的风险。即使少量饮酒也会降低安全驾驶的能力。"
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"酒精、毒品与健康",
+"subcategory":"毒驾",
+"englishSubcategory":"Drug Driving",
+"description":"即使您感觉良好,服用药物(包括处方药)后驾驶也会损害您的驾驶能力。了解相关风险并避免服药后驾驶至关重要。"
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"酒精、毒品与健康",
+"subcategory":"用药安全",
+"englishSubcategory":"Medication Safety",
+"description":"开始服用任何新的处方药之前,请确认它是否会影响您的驾驶能力,并遵医嘱。某些药物可能会引起嗜睡或注意力不集中。"
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"酒精、毒品与健康",
+"subcategory":"疲劳与健康",
+"englishSubcategory":"Fatigue & Health",
+"description":"疲劳驾驶会像酒精或毒品一样,降低您的安全驾驶能力。请确保在驾驶前获得充足的休息,并在长途驾驶过程中适当休息,以降低疲劳驾驶导致事故的风险。"
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"酒精、毒品与健康",
+"subcategory":"酒精的影响",
+"englishSubcategory":"Alcohol Effects",
+"description":"饮酒后,只有时间才能降低体内酒精含量。咖啡、冷水澡或其他方法都无法加速这一过程。"
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"酒精、毒品与健康",
+"subcategory":"酒精限制",
+"englishSubcategory":"Alcohol Limits",
+"description":"在维多利亚州,所有实习驾驶员和见习驾驶员的血液酒精浓度必须保持在0.00以下。对于正式驾照驾驶员,血液酒精浓度限制为0.05。然而,开车前避免饮酒始终是最安全的选择。"
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"酒精、毒品与健康",
+"subcategory":"毒驾",
+"englishSubcategory":"Drug Driving",
+"description":"在维多利亚州,即使您感觉自身状态良好,体内含有某些药物成分而驾驶车辆仍可能受到处罚。药物会影响您的安全驾驶能力,并增加发生事故的风险。"
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"酒精、毒品与健康",
+"subcategory":"用药安全",
+"englishSubcategory":"Medication Safety",
+"description":"开车前,务必确认新服用的药物是否会影响您的驾驶能力。有些药物会引起嗜睡、反应迟钝和注意力不集中。"
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"酒精、毒品与健康",
+"subcategory":"疲劳与健康",
+"englishSubcategory":"Fatigue & Health",
+"description":"疲劳驾驶对驾驶的影响与酒精类似。它会减慢你的反应速度,损害你的判断力,降低你的决策能力,从而增加发生交通事故的风险。"
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"安全驾驶规范",
+"subcategory":"危险感知",
+"englishSubcategory":"Hazard Perception",
+"description":"遇到潜在危险时,最安全的做法是减速并做好必要时停车的准备。这样可以让你有时间评估情况并做出适当的反应。"
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"安全驾驶规范",
+"subcategory":"危险感知",
+"englishSubcategory":"Hazard Perception",
+"description":"驾驶时提前观察前方路况至关重要,这有助于及早发现潜在危险。这样可以让你提前计划应对措施,避免仓促反应。"
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"安全驾驶规范",
+"subcategory":"防御性驾驶",
+"englishSubcategory":"Defensive Driving",
+"description":"防御性驾驶是指预判其他道路使用者可能犯的错误,并保持安全距离以避免碰撞。"
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"安全驾驶规范",
+"subcategory":"路况",
+"englishSubcategory":"Road Conditions",
+"description":"如果轮胎在湿滑路面上失去抓地力,请松开油门并平稳地转动方向盘。突然刹车或急转弯会使情况恶化,并导致车辆失控。"
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"安全驾驶规范",
+"subcategory":"危险感知",
+"englishSubcategory":"Hazard Perception",
+"description":"在车流中行驶时,观察前方和两侧路况的最佳位置,而不仅仅是关注前车。这有助于你更早地预判风险。"
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"安全驾驶规范",
+"subcategory":"防御性驾驶",
+"englishSubcategory":"Defensive Driving",
+"description":"如果前方车辆在车道内左右摇摆,最安全的做法是增加跟车距离。这样,如果情况恶化,你就有更多时间做出反应。"
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"安全驾驶规范",
+"subcategory":"路况",
+"englishSubcategory":"Road Conditions",
+"description":"雨后最初几分钟,路面往往最滑。此时务必格外小心,因为路面上的油污和碎屑会使路况更加危险。"
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"安全驾驶规范",
+"subcategory":"夜间驾驶",
+"englishSubcategory":"Night Driving",
+"description":"夜间行驶时,为了避免被迎面而来的车灯眩目,请将视线稍微偏向车道左侧,必要时减速。这样有助于避免直接暴露在强光下。"
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"安全驾驶规范",
+"subcategory":"防御性驾驶",
+"englishSubcategory":"Defensive Driving",
+"description":"如果后车跟车过近,最安全的做法是增加与前车的跟车距离。这样可以让你和后车都有更多的反应空间。"
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"安全驾驶规范",
+"subcategory":"路况",
+"englishSubcategory":"Road Conditions",
+"description":"雾天行车时,请降低车速,并与其他车辆保持安全距离。雾会严重降低能见度,增加事故风险。"
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"十字路口、转弯和环岛",
+"subcategory":"让路",
+"englishSubcategory":"Giving Way",
+"description":"在没有标志或信号的十字路口,从右侧驶来的车辆必须让行从左侧驶来的车辆。"
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"十字路口、转弯和环岛",
+"subcategory":"转弯",
+"englishSubcategory":"Turns",
+"description":"当交通信号灯没有右转箭头时,右转必须先让行来车和行人,然后再继续行驶。"
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"十字路口、转弯和环岛",
+"subcategory":"环岛",
+"englishSubcategory":"Roundabouts",
+"description":"在环岛路口,已在环岛内的车辆拥有优先通行权。驶入环岛的车辆必须让行。"
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"十字路口、转弯和环岛",
+"subcategory":"转弯",
+"englishSubcategory":"Turns",
+"description":"左转时,必须礼让正在过马路的行人,确保他们的安全。"
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"十字路口、转弯和环岛",
+"subcategory":"让路",
+"englishSubcategory":"Giving Way",
+"description":"在 T 字路口,末端道路上的车辆必须让行继续行驶道路上的车辆。"
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"十字路口、转弯和环岛",
+"subcategory":"转弯",
+"englishSubcategory":"Turns",
+"description":"掉头时,必须礼让所有其他车辆和行人,确保他们在你掉头时的安全。"
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"十字路口、转弯和环岛",
+"subcategory":"环岛",
+"englishSubcategory":"Roundabouts",
+"description":"驶出环岛时,在驶出环岛前打左转向灯,以告知其他道路使用者你的意图。"
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"十字路口、转弯和环岛",
+"subcategory":"让路",
+"englishSubcategory":"Giving Way",
+"description":"从车道驶入道路时,必须礼让道路上的所有车辆和行人,以防止发生事故。"
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"十字路口、转弯和环岛",
+"subcategory":"转弯",
+"englishSubcategory":"Turns",
+"description":"右转前,请将车辆尽可能靠近道路中心线行驶,以确保安全畅通地转弯。"
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"十字路口、转弯和环岛",
+"subcategory":"交通信号灯",
+"englishSubcategory":"Traffic Lights",
+"description":"绿色箭头表示您可以按箭头方向行驶,无需避让其他车辆或行人。"
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"道路标线、车道和超车",
+"subcategory":"车道使用",
+"englishSubcategory":"Lane Use",
+"description":"连续的单条中心线通常意味着您不得越过它,除非是进入或离开道路或车道。"
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"道路标线、车道和超车",
+"subcategory":"超车",
+"englishSubcategory":"Overtaking",
+"description":"在多车道道路上,当车辆分别行驶在不同的标线车道上且安全的情况下,允许从左侧超车。"
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"道路标线、车道和超车",
+"subcategory":"超车",
+"englishSubcategory":"Overtaking",
+"description":"在单车道道路上,当前方车辆右转且安全的情况下,您可以从左侧超车。"
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"道路标线、车道和超车",
+"subcategory":"车道使用",
+"englishSubcategory":"Lane Use",
+"description":"变换车道前,请打转向灯并确保安全。这样可以确保其他道路使用者了解您的意图,从而预防交通事故。"
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"道路标线、车道和超车",
+"subcategory":"道路标线",
+"englishSubcategory":"Road Markings",
+"description":"涂漆的交通岛或人字形标记表示禁止车辆驶入,以确保交通安全通行。"
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"道路标线、车道和超车",
+"subcategory":"超车",
+"englishSubcategory":"Overtaking",
+"description":"如果您不确定超车是否安全,最安全的做法就是不要超车。在采取任何行动之前,务必评估周围情况。"
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"道路标线、车道和超车",
+"subcategory":"车道使用",
+"englishSubcategory":"Lane Use",
+"description":"虚线表示在安全的情况下可以越过中心线,以便超车或变道。"
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"道路标线、车道和超车",
+"subcategory":"车道使用",
+"englishSubcategory":"Lane Use",
+"description":"跨行两条车道只有在车道线允许的情况下才是合法的。在大多数驾驶条件下,这种做法通常既不安全也不被允许。"
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"道路标线、车道和超车",
+"subcategory":"超车",
+"englishSubcategory":"Overtaking",
+"description":"如果你被超车的车辆开始加速,最安全的做法是在确保自身安全的情况下中止超车并减速。"
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"道路标线、车道和超车",
+"subcategory":"道路标线",
+"englishSubcategory":"Road Markings",
+"description":"双连续中心线意味着在任何情况下都不得跨越或越过中心线,以确保交通畅通和安全。"
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"停车、泊车和路边规则",
+"subcategory":"禁止停车",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"“禁止停车”表示您绝对不能停车,而“禁止泊车”允许短暂停车接送乘客。"
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"停车、泊车和路边规则",
+"subcategory":"禁止停车",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"在禁止停车区域,您只允许停车接送乘客。"
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"停车、泊车和路边规则",
+"subcategory":"十字路口附近的停车位",
+"englishSubcategory":"Parking Near Intersections",
+"description":"十字路口附近停车通常受到限制,因为它会阻挡视线,给司机和行人带来危险。"
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"停车、泊车和路边规则",
+"subcategory":"禁止停车",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"即使是为了接听电话或需要短暂停车,你也不允许在禁止停车区域停车。"
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"停车、泊车和路边规则",
+"subcategory":"克利尔韦斯",
+"englishSubcategory":"Clearways",
+"description":"禁停路段是指在禁停时间内,您不得在该路段停车或停留。"
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"停车、泊车和路边规则",
+"subcategory":"十字路口附近停车",
+"englishSubcategory":"Parking Near Crossings",
+"description":"在人行横道附近停车很危险,因为它会使行人被驶近的司机遮挡,增加发生事故的风险。"
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"停车、泊车和路边规则",
+"subcategory":"为安全起见停车",
+"englishSubcategory":"Stopping for Safety",
+"description":"只有在交通状况需要或紧急情况下,才能在禁止停车区域停车。"
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"停车、泊车和路边规则",
+"subcategory":"山坡上的停车场",
+"englishSubcategory":"Parking on Hills",
+"description":"在坡道上停车时,务必拉起手刹并固定车辆,以降低车辆侧翻的风险。"
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"停车、泊车和路边规则",
+"subcategory":"十字路口附近的停车位",
+"englishSubcategory":"Parking Near Intersections",
+"description":"请勿将车辆停放在离路口太近的地方,因为这会阻挡来往车辆和行人的视线,造成危险。"
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"停车、泊车和路边规则",
+"subcategory":"禁止停车",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"带有时间显示的禁止停车标志表示该限制仅在标志上显示的时间段内有效。"
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"行人",
+"englishSubcategory":"Pedestrians",
+"description":"转弯时,驾驶员必须礼让正在过马路的行人。即使行人不在指定的人行横道上,也应如此。"
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"骑自行车的人",
+"englishSubcategory":"Cyclists",
+"description":"驾驶员在超越骑自行车的人时必须留出额外的空间,因为骑自行车的人可能需要空间来避开危险或保持平衡。"
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"行人",
+"englishSubcategory":"Pedestrians",
+"description":"在购物区或公共交通站点附近,驾驶员应注意行人流量增加和突然横穿马路的情况。在这些区域行驶时,务必保持警惕。"
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"骑自行车的人",
+"englishSubcategory":"Cyclists",
+"description":"当骑自行车的人在划定的自行车道上骑行时,除非获得许可且安全,否则驾驶员必须避免驶入该车道。"
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"孩子们",
+"englishSubcategory":"Children",
+"description":"驾驶员在学校附近必须格外小心,因为儿童行为可能难以预测,也可能误判交通状况。在学校区域内减速慢行。"
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"骑自行车的人",
+"englishSubcategory":"Cyclists",
+"description":"如果骑自行车的人在狭窄车道的中间骑行,司机应该等到有足够的空间且安全时再超车,而不是强行超车。"
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"行人",
+"englishSubcategory":"Pedestrians",
+"description":"在儿童过街处,当举旗示意且有行人出现时,驾驶员必须停车,以确保儿童安全。"
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"骑自行车的人",
+"englishSubcategory":"Cyclists",
+"description":"驾驶员在转弯前应始终检查盲点,因为骑自行车的人可能在驾驶员看不到的地方行驶,尤其是在城区。"
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"老年人和残疾人",
+"englishSubcategory":"Elderly & Disabled",
+"description":"老年行人可能需要更多时间过马路,因为他们行走速度可能较慢或行动不便。请给他们足够的空间和时间安全过马路。"
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"骑自行车的人",
+"englishSubcategory":"Cyclists",
+"description":"骑行者在接近十字路口时可能更难被发现,而且他们的速度很快。务必给骑行者留出足够的空间和时间,确保他们安全通过。"
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"特殊情况和道路环境",
+"subcategory":"学校区域",
+"englishSubcategory":"School Zones",
+"description":"学校区域的限速规定仅在标志牌所示的时间段内有效。请务必遵守,以确保儿童安全。"
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"特殊情况和道路环境",
+"subcategory":"学校区域",
+"englishSubcategory":"School Zones",
+"description":"即使看不到孩子,司机在学校区域也必须减速慢行,因为孩子可能会突然出现,难以预料。"
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"特殊情况和道路环境",
+"subcategory":"道路施工",
+"englishSubcategory":"Roadworks",
+"description":"接近道路施工区域时,请减速慢行并遵守临时标志,以确保施工人员和其他道路使用者的安全。"
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"特殊情况和道路环境",
+"subcategory":"道路施工",
+"englishSubcategory":"Roadworks",
+"description":"道路施工区域的限速降低,以确保工人安全并适应道路状况的变化。"
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"特殊情况和道路环境",
+"subcategory":"乡村道路",
+"englishSubcategory":"Rural Roads",
+"description":"在乡村道路上,野生动物可能会突然闯入路面。驾车穿越乡村地区时,务必做好停车或减速的准备。"
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"特殊情况和道路环境",
+"subcategory":"乡村道路",
+"englishSubcategory":"Rural Roads",
+"description":"未铺设路面的车辆行驶时,路面抓地力和制动性能通常较差。驾驶员在未铺设路面上行驶时应降低车速。"
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"特殊情况和道路环境",
+"subcategory":"高速公路",
+"englishSubcategory":"Freeways",
+"description":"如果您错过了高速公路出口,请继续行驶至下一个出口并安全掉头。切勿尝试在高速公路上停车或倒车。"
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"特殊情况和道路环境",
+"subcategory":"高速公路",
+"englishSubcategory":"Freeways",
+"description":"除紧急情况外,在高速公路上停车是违法的。如果车辆发生故障,请务必使用路肩或出口匝道。"
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"特殊情况和道路环境",
+"subcategory":"天气状况",
+"englishSubcategory":"Weather Conditions",
+"description":"暴雨时,应降低车速并加大跟车距离。湿滑路面会降低轮胎抓地力,延长刹车距离。"
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"特殊情况和道路环境",
+"subcategory":"天气状况",
+"englishSubcategory":"Weather Conditions",
+"description":"雾会降低能见度和深度感知,使驾驶变得格外危险。在雾天行驶时,请减速并增加跟车距离。"
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"紧急车辆让路",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"当紧急车辆鸣笛闪灯接近时,请避让,让其安全通过。"
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"紧急车辆让路",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"如果你在等红灯时,后面有一辆紧急车辆驶来,最安全的做法是在安全合法的情况下让路,否则就待在原地,尽可能让它通过。"
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"警方指示",
+"englishSubcategory":"Police Directions",
+"description":"如果警察的指示与标志牌上的指示不同,你必须听从警察的指示。"
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"紧急车辆让路",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"如果紧急车辆停在路边并闪烁警示灯,请减速并谨慎通过,如果安全,请靠边行驶。"
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"警方指示",
+"englishSubcategory":"Police Directions",
+"description":"如果警方设置临时路障,请听从他们的指示并绕行。"
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"紧急车辆让路",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"你不应该为了更快地通过交通堵塞而紧跟紧急车辆。"
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"紧急车辆让路",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"如果你听到警笛声但还看不到紧急车辆,保持警惕,查看后视镜,并做好安全移动的准备。"
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"警方指示",
+"englishSubcategory":"Police Directions",
+"description":"如果道路施工现场的交通管制员发出指示,您必须服从交通管制员的指示。"
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"警方指示",
+"englishSubcategory":"Police Directions",
+"description":"如果警察指示你停车进行驾照检查,请按照指示安全停车。"
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"紧急车辆让路",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"如果你在单行道上行驶,而紧急车辆从后方驶来,请打转向灯并尽可能向左移动或移动到安全位置。"
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"安全带",
+"englishSubcategory":"Seatbelts",
+"description":"驾驶员有责任确保所有 16 岁以下的乘客系好安全带。"
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"安全带",
+"englishSubcategory":"Seatbelts",
+"description":"如果车辆配备安全带,则在车辆行驶过程中必须始终系好安全带。"
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"儿童安全座椅",
+"englishSubcategory":"Child Restraints",
+"description":"儿童安全座椅是必需的,因为它的设计比成人安全带更能贴合和保护儿童的体型和身高。"
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"乘客",
+"englishSubcategory":"Passengers",
+"description":"乘客将脚放在仪表盘上是不安全的,因为安全气囊和碰撞力可能会造成严重伤害。"
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"儿童安全座椅",
+"englishSubcategory":"Child Restraints",
+"description":"选择儿童安全座椅最安全的通用原则是使用经过认证且适合儿童年龄和体型的安全座椅。"
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"安全带",
+"englishSubcategory":"Seatbelts",
+"description":"安全带未正确佩戴的一个常见迹象是,安全带带位于手臂下方或背部后面。"
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"乘客",
+"englishSubcategory":"Passengers",
+"description":"如果乘客分散了驾驶员的注意力,最安全的做法是要求他们停止驾驶,重新集中注意力。"
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"儿童安全座椅",
+"englishSubcategory":"Child Restraints",
+"description":"在行驶的车辆中将婴儿抱在腿上是不安全的,因为发生碰撞时你无法安全地抱住他们。"
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"安全带",
+"englishSubcategory":"Seatbelts",
+"description":"系安全带时,应将腰带部分系在髋部较低的位置,以降低碰撞时腹部受伤的风险。"
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"乘客",
+"englishSubcategory":"Passengers",
+"description":"在机舱内携带未固定物品的一个主要风险是,在碰撞或急刹车时,这些物品可能会变成抛射物。"
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"车辆安全、缺陷及维护基础知识",
+"subcategory":"轮胎",
+"englishSubcategory":"Tyres",
+"description":"正确的轮胎气压对安全至关重要,因为它会影响抓地力、制动性和转向控制。"
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"车辆安全、缺陷及维护基础知识",
+"subcategory":"刹车",
+"englishSubcategory":"Brakes",
+"description":"如果您的刹车踏板感觉发软或下沉幅度比平时大,请将其视为严重故障,并立即检查刹车系统。"
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"车辆安全、缺陷及维护基础知识",
+"subcategory":"灯光与能见度",
+"englishSubcategory":"Lights & Visibility",
+"description":"定期检查所有车辆灯光,确保你能看清路况,也能被路人看到。"
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"车辆安全、缺陷及维护基础知识",
+"subcategory":"转向和悬挂系统",
+"englishSubcategory":"Steering & Suspension",
+"description":"转向系统出现问题的预警信号可能包括异常拉扯、振动或转向困难。"
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"车辆安全、缺陷及维护基础知识",
+"subcategory":"挡风玻璃和雨刮器",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"雨刮器磨损会造成安全隐患,因为它会降低雨天行车时的能见度。"
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"车辆安全、缺陷及维护基础知识",
+"subcategory":"轮胎",
+"englishSubcategory":"Tyres",
+"description":"轮胎可能不安全的常见迹象是胎面磨损或磨损不均匀。"
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"车辆安全、缺陷及维护基础知识",
+"subcategory":"镜子和调节",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"开车前应调整后视镜,以减少盲区并提高视野。"
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"车辆安全、缺陷及维护基础知识",
+"subcategory":"刹车",
+"englishSubcategory":"Brakes",
+"description":"如果你的刹车发出刺耳的摩擦声,请尽快进行检查。"
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"车辆安全、缺陷及维护基础知识",
+"subcategory":"灯光与能见度",
+"englishSubcategory":"Lights & Visibility",
+"description":"在能见度低的情况下,请务必打开车灯,以便其他车辆能够看到您。"
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"车辆安全、缺陷及维护基础知识",
+"subcategory":"挡风玻璃和雨刮器",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"如果你的挡风玻璃在视线范围内出现严重裂缝,请在继续行驶前进行修理或更换。"
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"负载",
+"englishSubcategory":"Loads",
+"description":"货物必须妥善固定,以防止其移动或掉落并造成碰撞。"
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"负载",
+"englishSubcategory":"Loads",
+"description":"车辆内未固定的货物在紧急制动时可能变成抛射物,造成严重的安全隐患。"
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"负载",
+"englishSubcategory":"Loads",
+"description":"车辆超载会影响制动性能,增加制动距离。"
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"负载",
+"englishSubcategory":"Loads",
+"description":"携带长条物品最安全的方法是将其固定好,使其不会移动或危险地突出。"
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"拖带",
+"englishSubcategory":"Towing",
+"description":"拖挂拖车会增加刹车距离,因为额外的重量会降低刹车效果。"
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"拖带",
+"englishSubcategory":"Towing",
+"description":"拖挂拖车前,请检查挂钩、车灯和安全链是否牢固。"
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"拖带",
+"englishSubcategory":"Towing",
+"description":"拖车转弯时要留出额外的空间,因为拖车会在转弯路径内行驶。"
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"负载",
+"englishSubcategory":"Loads",
+"description":"后视镜中放置的重物会阻挡视线,降低驾驶员对后方交通状况的感知,从而增加发生事故的风险。"
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"重型车辆",
+"englishSubcategory":"Heavy Vehicles",
+"description":"重型车辆需要更大的刹车距离,因为它们的质量更大。"
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"重型车辆",
+"englishSubcategory":"Heavy Vehicles",
+"description":"跟随大型卡车时,应增加跟车距离,以弥补盲区和卡车较长的刹车距离。"
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"牌照、L/P 车牌规则和实用 DKT 陷阱(维多利亚州)",
+"subcategory":"学习驾驶许可证规则",
+"englishSubcategory":"Learner Permit Rules",
+"description":"作为维多利亚州的实习驾驶员,您只有在持有相应驾照的驾驶员坐在您旁边监督的情况下才能驾驶汽车。"
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"牌照、L/P 车牌规则和实用 DKT 陷阱(维多利亚州)",
+"subcategory":"学习驾驶许可证规则",
+"englishSubcategory":"Learner Permit Rules",
+"description":"新手驾驶员必须清晰地展示其“L”牌,以便车上其他人员始终能够看到。"
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"牌照、L/P 车牌规则和实用 DKT 陷阱(维多利亚州)",
+"subcategory":"学习驾驶许可证规则",
+"englishSubcategory":"Learner Permit Rules",
+"description":"如果你的监督驾驶员在你驾驶时睡着了,请安全停车,并在得到适当监督后再继续行驶。"
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"牌照、L/P 车牌规则和实用 DKT 陷阱(维多利亚州)",
+"subcategory":"移动电话和设备",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"在维多利亚州,作为一名实习驾驶员,您在驾驶时绝对不允许以任何方式使用手机。"
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"牌照、L/P 车牌规则和实用 DKT 陷阱(维多利亚州)",
+"subcategory":"学习驾驶许可证规则",
+"englishSubcategory":"Learner Permit Rules",
+"description":"如果在驾驶过程中“L”牌脱落,请安全停车并重新安装后再继续行驶。"
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"牌照、L/P 车牌规则和实用 DKT 陷阱(维多利亚州)",
+"subcategory":"监督",
+"englishSubcategory":"Supervision",
+"description":"学员监督规则的主要安全目的是确保有经验的驾驶员能够在必要时进行指导和干预。"
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"牌照、L/P 车牌规则和实用 DKT 陷阱(维多利亚州)",
+"subcategory":"条件与合规性",
+"englishSubcategory":"Conditions & Compliance",
+"description":"如果实习驾驶员被发现未按规定接受监督而驾驶,可能会受到处罚,并可能导致驾照被吊销。"
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"牌照、L/P 车牌规则和实用 DKT 陷阱(维多利亚州)",
+"subcategory":"危险感知",
+"englishSubcategory":"Hazard Perception",
+"description":"新手司机在十字路口常犯的一个错误是转弯时没有观察是否有行人正在过马路。"
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"牌照、L/P 车牌规则和实用 DKT 陷阱(维多利亚州)",
+"subcategory":"危险感知",
+"englishSubcategory":"Hazard Perception",
+"description":"即使信号灯是绿灯,如果前方交通堵塞或有行人过马路,你也必须减速或停车。"
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"牌照、L/P 车牌规则和实用 DKT 陷阱(维多利亚州)",
+"subcategory":"学习驾驶许可证规则",
+"englishSubcategory":"Learner Permit Rules",
+"description":"如果您正在指导学员驾驶,指导驾驶员应始终坐在前排乘客座位上。"
+}
+]

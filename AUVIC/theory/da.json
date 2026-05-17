@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Færdselsregler og -love",
+"subcategory":"Generelle færdselsregler",
+"englishSubcategory":"General Road Rules",
+"description":"Bilister skal følge de generelle færdselsregler for at sikre sikkerhed og en gnidningsløs trafik. Dette omfatter at overholde trafikskilte, signaler og vognbanemarkeringer. Manglende overholdelse af disse regler kan føre til ulykker og bøder."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Færdselsregler og -love",
+"subcategory":"Vige plads",
+"englishSubcategory":"Giving Way",
+"description":"Bilister skal vige for andre køretøjer eller fodgængere i kryds, rundkørsler og fodgængerovergange, blandt andre steder. Det er en forseelse at undlade at vige plads."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Færdselsregler og -love",
+"subcategory":"Brug af vognbane",
+"englishSubcategory":"Lane Use",
+"description":"Bilister skal bruge de relevante baner og følge vognbanemarkeringerne. Dette omfatter regler for vognbaneskift, overhaling og brug af cykel- eller busbaner. Overtrædelser kan resultere i bøder eller ulykker."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Færdselsregler og -love",
+"subcategory":"Sporvogne",
+"englishSubcategory":"Trams",
+"description":"Bilister skal være opmærksomme på sporvognsreglerne, herunder at give fodgængere plads ved sporvognsstoppesteder, stoppe for sporvogne med åbne døre og ikke overhale sporvogne under visse forhold."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Færdselsregler og -love",
+"subcategory":"Kryds",
+"englishSubcategory":"Intersections",
+"description":"I kryds skal bilister følge de korrekte procedurer for vigepligt og standsning ved stopskilte eller trafiklys. Det er afgørende at forstå disse regler for at forhindre ulykker."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Færdselsregler og -love",
+"subcategory":"U-vendinger",
+"englishSubcategory":"U-Turns",
+"description":"U-vendinger er kun tilladt i kryds eller når der ikke er skilte, der forbyder det. Bilister skal sikre sig, at det er sikkert, før de udfører en U-vending."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Færdselsregler og -love",
+"subcategory":"Hastighedsgrænser",
+"englishSubcategory":"Speed Limits",
+"description":"Bilister skal overholde de angivne hastighedsgrænser for at sikre sikkerheden på vejen. Hastighedsoverskridelser kan resultere i bøder, tab af kørekort og øget risiko for ulykker."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Færdselsregler og -love",
+"subcategory":"Fodgængersikkerhed",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Bilister skal vige plads for fodgængere ved fodgængerfelter og sikre deres sikkerhed i nærheden af fodgængerzoner. Det er en forseelse at undlade at stoppe for fodgængere ved fodgængerfelter."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Færdselsregler og -love",
+"subcategory":"Jernbaneoverskæringer",
+"englishSubcategory":"Railway Crossings",
+"description":"Chauffører skal stoppe ved jernbaneoverskæringer, når lysene blinker, eller bomme er nede. At ignorere disse signaler er en alvorlig forseelse og kan resultere i bøder og ulykker."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Færdselsregler og -love",
+"subcategory":"Udrykningskøretøjer",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Bilister skal vige plads for udrykningskøretøjer ved hjælp af blinklys og sirener og sikre, at køretøjet har fri vej at bevæge sig gennem trafikken."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Trafikskilte og -signaler",
+"subcategory":"Reguleringsskilte",
+"englishSubcategory":"Regulatory Signs",
+"description":"Reguleringsskilte giver obligatoriske instruktioner til bilister, såsom hastighedsbegrænsninger, svingrestriktioner og skilte med adgang forbudt. Det er lovpligtigt at følge disse skilte for at opretholde sikkerhed og orden på vejene."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Trafikskilte og -signaler",
+"subcategory":"Advarselstegn",
+"englishSubcategory":"Warning Signs",
+"description":"Advarselsskilte advarer bilister om potentielle farer, såsom skarpe sving, skolezoner og krydsninger med vildtlevende dyr. Disse skilte hjælper bilister med at tilpasse deres kørsel for at undgå ulykker."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Trafikskilte og -signaler",
+"subcategory":"Hastighedsskilte",
+"englishSubcategory":"Speed Signs",
+"description":"Hastighedsskilte angiver den maksimale eller minimale hastighed, der er tilladt på en vej. Bilister skal overholde disse grænser for at sikre sikre kørselsforhold og undgå bøder."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Trafikskilte og -signaler",
+"subcategory":"Trafiklys",
+"englishSubcategory":"Traffic Lights",
+"description":"Trafiklys styrer strømmen af køretøjer og fodgængere i kryds. Rød betyder stop, grøn betyder kør, og gul er en advarsel om at forberede sig på at stoppe."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Trafikskilte og -signaler",
+"subcategory":"Fodgængersignaler",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Fodgængersignaler angiver, hvornår det er sikkert for fodgængere at krydse vejen. Disse signaler koordineres normalt med trafiklys for at sikre fodgængernes sikkerhed."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Trafikskilte og -signaler",
+"subcategory":"Vognbanesignaler",
+"englishSubcategory":"Lane Control Signals",
+"description":"Vognbanesignaler bruges til at indikere, om en vognbane er åben eller lukket. Disse signaler bruges typisk på veje med flere spor og i tunneler."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Trafikskilte og -signaler",
+"subcategory":"Parkering forbudt skilte",
+"englishSubcategory":"No Parking Signs",
+"description":"Parkeringsforbudsskilte angiver områder, hvor det er forbudt at stoppe eller parkere. Dette er normalt for at sikre, at trafikken flyder gnidningsløst, og at sikkerheden opretholdes."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Trafikskilte og -signaler",
+"subcategory":"Ensrettede skilte",
+"englishSubcategory":"One-Way Signs",
+"description":"Ensrettede skilte angiver, at trafikken kun må køre i én retning. Manglende overholdelse af disse skilte kan resultere i ulykker og juridiske konsekvenser."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Trafikskilte og -signaler",
+"subcategory":"Stopskilte",
+"englishSubcategory":"Stop Signs",
+"description":"Stopskilte kræver, at førere stopper helt og giver vigepligt for andre køretøjer eller fodgængere, før de fortsætter."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Trafikskilte og -signaler",
+"subcategory":"Vigepladsskilte",
+"englishSubcategory":"Give Way Signs",
+"description":"Vigepligtsskilte instruerer bilister i at vige for andre trafikanter, enten fodgængere eller køretøjer, afhængigt af situationen, for at forhindre ulykker."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Regler for hastighed og afstand",
+"subcategory":"Hastighedsgrænser",
+"englishSubcategory":"Speed Limits",
+"description":"Standardhastighedsgrænsen i et bebygget område i Victoria er 50 km/t, medmindre andet er skiltet. Tjek altid opsatte skilte for at sikre, at du kører inden for de lovlige hastighedsgrænser."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Regler for hastighed og afstand",
+"subcategory":"Hastighedsgrænser",
+"englishSubcategory":"Speed Limits",
+"description":"I en skiltet skolezone i de timer, der er angivet på skiltet, er hastighedsgrænsen reduceret til 40 km/t for at sikre sikkerheden for børn, der krydser vejen."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Regler for hastighed og afstand",
+"subcategory":"Følgende afstand",
+"englishSubcategory":"Following Distance",
+"description":"Den mindste sikre følgeafstand under ideelle forhold er mindst to sekunder bag det forankørende køretøj. Dette giver tilstrækkelig tid til at reagere, hvis det forankørende køretøj stopper pludseligt."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Regler for hastighed og afstand",
+"subcategory":"Hastighedsgrænser",
+"englishSubcategory":"Speed Limits",
+"description":"Når du overhaler en stoppet sporvogn i en sikkerhedszone, skal du reducere din hastighed til 10 km/t for at sikre sikkerheden for passagerer, der stiger på eller af sporvognen."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Regler for hastighed og afstand",
+"subcategory":"Hastighedsgrænser",
+"englishSubcategory":"Speed Limits",
+"description":"På landeveje uden hastighedsskilte er standardhastighedsgrænsen 100 km/t, medmindre andet er angivet af lokale skilte. Tilpas din hastighed til vejforholdene for at opretholde sikkerheden."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Regler for hastighed og afstand",
+"subcategory":"Følgende afstand",
+"englishSubcategory":"Following Distance",
+"description":"I vådt vejr bør du øge din følgeafstand til mindst fire sekunder. Våde veje reducerer vejgrebet og kræver mere tid til at stoppe sikkert."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Regler for hastighed og afstand",
+"subcategory":"Hastighedsgrænser",
+"englishSubcategory":"Speed Limits",
+"description":"Overhold altid elektroniske skilte med variable hastighedsgrænser, når de er i brug. Disse skilte justerer hastighedsgrænserne baseret på trafikforhold, vejr eller hændelser på vejen."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Regler for hastighed og afstand",
+"subcategory":"Stopafstand",
+"englishSubcategory":"Stopping Distance",
+"description":"Efterhånden som din hastighed øges, øges også den bremselængde, der kræves for at bringe dit køretøj sikkert til standsning. Sørg altid for, at du har tilstrækkelig afstand til at reagere på farer."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Regler for hastighed og afstand",
+"subcategory":"Hastighedsgrænser",
+"englishSubcategory":"Speed Limits",
+"description":"I delte zoner er hastighedsgrænsen generelt 10 km/t for at sikre fodgængeres og cyklisters sikkerhed i disse områder, hvor køretøjer og ikke-motoriserede trafikanter interagerer."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Regler for hastighed og afstand",
+"subcategory":"Følgende afstand",
+"englishSubcategory":"Following Distance",
+"description":"Det er farligt at køre bagud, da det reducerer reaktions- og bremsetiden. Hold altid en sikker afstand til bilen, især når du kører bag større køretøjer, der kan blokere dit udsyn."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Førerens ansvar",
+"subcategory":"Juridiske forpligtelser",
+"englishSubcategory":"Legal Obligations",
+"description":"Chauffører skal opfylde forskellige juridiske forpligtelser, såsom at yde assistance efter en ulykke, udveksle oplysninger efter ulykker og rapportere hændelser til myndighederne som krævet ved lov."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Førerens ansvar",
+"subcategory":"Opmærksomhed og kontrol",
+"englishSubcategory":"Attention & Control",
+"description":"Førere skal altid have kontrol over deres køretøj, undgå distraktioner og bevare fokus for at sikre deres egen og andre trafikanters sikkerhed."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Førerens ansvar",
+"subcategory":"Juridiske forpligtelser",
+"englishSubcategory":"Legal Obligations",
+"description":"I tilfælde af et uheld, der forårsager personskade, skal føreren stoppe og yde assistance, hvor det er muligt. Undladelse af at stoppe og yde assistance i sådanne situationer er en lovovertrædelse."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Førerens ansvar",
+"subcategory":"Opmærksomhed og kontrol",
+"englishSubcategory":"Attention & Control",
+"description":"Det er vigtigt for chauffører at bevare fuld kontrol over deres køretøj til enhver tid, sikre at de reagerer passende på skiftende trafikforhold og opretholder et sikkert køremiljø."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Førerens ansvar",
+"subcategory":"Juridiske forpligtelser",
+"englishSubcategory":"Legal Obligations",
+"description":"Bilister skal anmelde et uheld til politiet, hvis nogen er kommet til skade, eller der er sket skade på ejendom, og oplysningerne ikke kan udveksles. Manglende anmeldelse af disse hændelser kan medføre bøder."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Førerens ansvar",
+"subcategory":"Træthedshåndtering",
+"englishSubcategory":"Fatigue Management",
+"description":"Træthed er en alvorlig risiko under kørsel. Bilister bør være opmærksomme på de tidlige tegn på træthed, såsom gaben og koncentrationsbesvær, og træffe passende foranstaltninger for at forhindre ulykker."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Førerens ansvar",
+"subcategory":"Juridiske forpligtelser",
+"englishSubcategory":"Legal Obligations",
+"description":"Førere skal fremvise deres kørekort, når politiet anmoder om det. Nægtelse af at fremvise kørekortet kan medføre bøder eller yderligere juridiske konsekvenser."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Førerens ansvar",
+"subcategory":"Opmærksomhed og kontrol",
+"englishSubcategory":"Attention & Control",
+"description":"Bilister bør undgå at bruge hornet unødvendigt, da det kan forskrække eller distrahere andre trafikanter. Hornet bør kun bruges til at advare andre om din tilstedeværelse i situationer, hvor det er nødvendigt."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Førerens ansvar",
+"subcategory":"Træthedshåndtering",
+"englishSubcategory":"Fatigue Management",
+"description":"Hvis du føler dig for træt til at fortsætte med at køre, er den sikreste reaktion at stoppe og hvile dig, før du fortsætter. Træthed øger risikoen for ulykker betydeligt."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Førerens ansvar",
+"subcategory":"Juridiske forpligtelser",
+"englishSubcategory":"Legal Obligations",
+"description":"Bilister har et ansvar for at sikre, at deres passagerer sidder sikkert og er fastspændt. Dette omfatter at sikre, at børn er i passende børnesikkerhedsseler, og at voksne bruger sikkerhedsseler."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkohol, stoffer og sundhed",
+"subcategory":"Alkoholgrænser",
+"englishSubcategory":"Alcohol Limits",
+"description":"I Victoria skal elever og prøvekørere (P1 og P2) altid opretholde en alkoholpromille på 0,00. Bilister med fuldt kørekort har en promillegrænse på 0,05, men det er sikrere slet ikke at drikke, når de kører."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkohol, stoffer og sundhed",
+"subcategory":"Alkoholens virkninger",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkohol forringer dømmekraft, reaktionstid og koordination, hvilket kan øge risikoen for ulykker betydeligt. Selv små mængder alkohol kan reducere din evne til at køre bil sikkert."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkohol, stoffer og sundhed",
+"subcategory":"Narkotikakørsel",
+"englishSubcategory":"Drug Driving",
+"description":"Kørsel under påvirkning af stoffer, herunder receptpligtig medicin, kan forringe din køreevne, selvom du føler dig upåvirket. Det er vigtigt at være opmærksom på risiciene og undgå at køre bil efter at have indtaget stoffer."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkohol, stoffer og sundhed",
+"subcategory":"Medicinsikkerhed",
+"englishSubcategory":"Medication Safety",
+"description":"Før du starter med at tage ny receptpligtig medicin, skal du kontrollere, om den påvirker din evne til at køre bil, og følge lægens anvisninger. Nogle lægemidler kan forårsage døsighed eller forringe koncentrationen."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkohol, stoffer og sundhed",
+"subcategory":"Træthed og sundhed",
+"englishSubcategory":"Fatigue & Health",
+"description":"Træthed kan forringe din evne til at køre bil sikkert, ligesom alkohol eller stoffer. Sørg for at få nok hvile, før du kører, og hold pauser under lange ture for at reducere risikoen for træthedsrelaterede ulykker."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Alkohol, stoffer og sundhed",
+"subcategory":"Alkoholens virkninger",
+"englishSubcategory":"Alcohol Effects",
+"description":"Efter at have drukket, kan kun tiden reducere mængden af alkohol i din krop. Kaffe, kolde brusebade eller andre metoder fremskynder ikke denne proces."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Alkohol, stoffer og sundhed",
+"subcategory":"Alkoholgrænser",
+"englishSubcategory":"Alcohol Limits",
+"description":"I Victoria skal alle kørelærlinge og prøvekørere opretholde en alkoholpromille på 0,00. For førere med fuldt kørekort er alkoholgrænsen 0,05. Det er dog altid den sikreste løsning at undgå alkohol før kørsel."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Alkohol, stoffer og sundhed",
+"subcategory":"Narkotikakørsel",
+"englishSubcategory":"Drug Driving",
+"description":"Du kan blive straffet i Victoria for at køre bil med visse stoffer i kroppen, selvom du føler dig intakt. Stoffmisbrug påvirker din evne til at køre sikkert og øger risikoen for ulykker."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Alkohol, stoffer og sundhed",
+"subcategory":"Medicinsikkerhed",
+"englishSubcategory":"Medication Safety",
+"description":"Før du kører bil, skal du altid kontrollere, om ny medicin kan påvirke din evne til at føre et køretøj. Nogle lægemidler forårsager døsighed, forringer reaktionstiden og mindsker koncentrationen."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Alkohol, stoffer og sundhed",
+"subcategory":"Træthed og sundhed",
+"englishSubcategory":"Fatigue & Health",
+"description":"Træthed kan have en lignende effekt på kørsel som alkohol. Det forsinker din reaktionstid, forringer din dømmekraft og reducerer din evne til at træffe beslutninger, hvilket øger risikoen for ulykker."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Sikker kørselspraksis",
+"subcategory":"Fareopfattelse",
+"englishSubcategory":"Hazard Perception",
+"description":"Når du nærmer dig en potentiel fare, er den sikreste reaktion at sænke farten og forberede dig på at stoppe, hvis det er nødvendigt. Dette giver dig tid til at vurdere situationen og reagere passende."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Sikker kørselspraksis",
+"subcategory":"Fareopfattelse",
+"englishSubcategory":"Hazard Perception",
+"description":"Det er afgørende at kunne scanne godt fremad under kørsel for at opdage potentielle farer tidligt. Dette giver dig mulighed for at planlægge din reaktion og undgå pludselige reaktioner."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Sikker kørselspraksis",
+"subcategory":"Defensiv kørsel",
+"englishSubcategory":"Defensive Driving",
+"description":"Defensiv kørsel indebærer at forudse potentielle fejl fra andre trafikanter og holde en sikker afstand for at undgå kollisioner."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Sikker kørselspraksis",
+"subcategory":"Vejforhold",
+"englishSubcategory":"Road Conditions",
+"description":"Hvis dine dæk mister grebet på en våd vej, skal du lette speederen og styre jævnt. Pludselig opbremsning eller skarpe sving kan forværre situationen og føre til tab af kontrol."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Sikker kørselspraksis",
+"subcategory":"Fareopfattelse",
+"englishSubcategory":"Hazard Perception",
+"description":"Når du kører i trafikken, er den bedste position til at holde øje med farer langt foran og til siderne, ikke kun ved at fokusere på bilen foran dig. Dette hjælper dig med at forudse risici tidligere."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Sikker kørselspraksis",
+"subcategory":"Defensiv kørsel",
+"englishSubcategory":"Defensive Driving",
+"description":"Hvis et køretøj bevæger sig i sin vognbane foran, er den sikreste reaktion at øge din følgeafstand. Dette giver dig mere tid til at reagere, hvis situationen forværres."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Sikker kørselspraksis",
+"subcategory":"Vejforhold",
+"englishSubcategory":"Road Conditions",
+"description":"Vejen er ofte mest glat i de første par minutter efter regn. Vær ekstra forsigtig i denne periode, da olier og snavs på vejen kan gøre den mere farlig."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Sikker kørselspraksis",
+"subcategory":"Natkørsel",
+"englishSubcategory":"Night Driving",
+"description":"For at undgå blænding fra modkørende forlygter om natten, skal du kigge lidt til venstre i din vognbane og sænke farten, hvis det er nødvendigt. Dette hjælper med at undgå direkte eksponering for det skarpe lys."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Sikker kørselspraksis",
+"subcategory":"Defensiv kørsel",
+"englishSubcategory":"Defensive Driving",
+"description":"Hvis en chauffør følger dig for tæt, er den sikreste handling at øge din følgeafstand til det forankørende køretøj. Dette giver både dig og den bagvedliggende chauffør mere plads til at reagere."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Sikker kørselspraksis",
+"subcategory":"Vejforhold",
+"englishSubcategory":"Road Conditions",
+"description":"Når du kører i tåge, skal du sænke hastigheden og holde ekstra afstand til andre køretøjer. Tåge reducerer sigtbarheden betydeligt og øger risikoen for ulykker."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Kryds, sving og rundkørsler",
+"subcategory":"Vige plads",
+"englishSubcategory":"Giving Way",
+"description":"I kryds uden skilte eller signaler skal køretøjer, der nærmer sig fra højre, vige for køretøjer, der kommer fra venstre."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Kryds, sving og rundkørsler",
+"subcategory":"Drejninger",
+"englishSubcategory":"Turns",
+"description":"Når du drejer til højre ved trafiklys uden en højresvingspil, skal du vige plads for modkørende trafik og fodgængere, før du fortsætter."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Kryds, sving og rundkørsler",
+"subcategory":"Rundkørsler",
+"englishSubcategory":"Roundabouts",
+"description":"I en rundkørsel har køretøjer, der allerede er i rundkørslen, forrang. Bilister, der kører ind i rundkørslen, skal vige plads."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Kryds, sving og rundkørsler",
+"subcategory":"Drejninger",
+"englishSubcategory":"Turns",
+"description":"Når du drejer til venstre, skal du vige pladsen for fodgængere, der krydser den vej, du kører ind på, for at sikre deres sikkerhed."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Kryds, sving og rundkørsler",
+"subcategory":"Vige plads",
+"englishSubcategory":"Giving Way",
+"description":"Ved et T-kryds skal køretøjet på den afsluttende vej vige plads for køretøjer på den fortsættende vej."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Kryds, sving og rundkørsler",
+"subcategory":"Drejninger",
+"englishSubcategory":"Turns",
+"description":"Når du foretager en U-vending, skal du vige pladsen for alle andre køretøjer og fodgængere og sikre deres sikkerhed, mens du drejer."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Kryds, sving og rundkørsler",
+"subcategory":"Rundkørsler",
+"englishSubcategory":"Roundabouts",
+"description":"Når du kører ud af en rundkørsel, skal du blinke til venstre lige før du kører ud for at informere andre trafikanter om dine intentioner."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Kryds, sving og rundkørsler",
+"subcategory":"Vige plads",
+"englishSubcategory":"Giving Way",
+"description":"Når du kører ind på en vej fra en indkørsel, skal du vige plads for alle køretøjer og fodgængere på vejen for at forhindre ulykker."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Kryds, sving og rundkørsler",
+"subcategory":"Drejninger",
+"englishSubcategory":"Turns",
+"description":"Før du drejer til højre, skal du placere dit køretøj så tæt som muligt på midten af vejen og sikre et sikkert og frit sving."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Kryds, sving og rundkørsler",
+"subcategory":"Trafiklys",
+"englishSubcategory":"Traffic Lights",
+"description":"En grøn pil angiver, at du må fortsætte i pilens retning uden at give plads til anden trafik eller fodgængere."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Vejmarkeringer, baner og overhalinger",
+"subcategory":"Brug af vognbane",
+"englishSubcategory":"Lane Use",
+"description":"En sammenhængende enkelt centerlinje betyder generelt, at du ikke må krydse den, undtagen når du kører ind på eller ud af en vej eller indkørsel."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Vejmarkeringer, baner og overhalinger",
+"subcategory":"Overhaling",
+"englishSubcategory":"Overtaking",
+"description":"Overhaling i venstre side er tilladt på en flersporet vej, når trafikken er i separate markerede baner, og det er sikkert at gøre det."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Vejmarkeringer, baner og overhalinger",
+"subcategory":"Overhaling",
+"englishSubcategory":"Overtaking",
+"description":"Du må overhale et køretøj i venstre side på en ensporet vej, når det forankørende køretøj drejer til højre, og det er sikkert at gøre det."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Vejmarkeringer, baner og overhalinger",
+"subcategory":"Brug af vognbane",
+"englishSubcategory":"Lane Use",
+"description":"Før du skifter vognbane, skal du give signal og sikre dig, at det er sikkert at gøre det. Dette sikrer, at andre trafikanter er opmærksomme på dine intentioner og forhindrer ulykker."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Vejmarkeringer, baner og overhalinger",
+"subcategory":"Vejmarkeringer",
+"englishSubcategory":"Road Markings",
+"description":"En malet trafikø, eller chevron-markering, angiver, at du ikke må køre på den, hvilket sikrer sikker trafikbevægelse."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Vejmarkeringer, baner og overhalinger",
+"subcategory":"Overhaling",
+"englishSubcategory":"Overtaking",
+"description":"Hvis du er usikker på, om det er sikkert at overhale, er den sikreste handling ikke at overhale. Vurder altid situationen, før du foretager dig overhalingen."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Vejmarkeringer, baner og overhalinger",
+"subcategory":"Brug af vognbane",
+"englishSubcategory":"Lane Use",
+"description":"En brudt midterlinje betyder, at du må krydse den, hvis det er sikkert at gøre det, så du kan overhale eller skifte vognbane."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Vejmarkeringer, baner og overhalinger",
+"subcategory":"Brug af vognbane",
+"englishSubcategory":"Lane Use",
+"description":"Det er kun lovligt at køre over to baner, når vognbanemarkeringerne tillader det. Det er typisk ikke sikkert eller tilladt under de fleste kørselsforhold."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Vejmarkeringer, baner og overhalinger",
+"subcategory":"Overhaling",
+"englishSubcategory":"Overtaking",
+"description":"Hvis det køretøj, du overhaler, begynder at øge hastigheden, er den sikreste reaktion at afbryde overhalingen, hvis det er sikkert, og sætte sig baglæns."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Vejmarkeringer, baner og overhalinger",
+"subcategory":"Vejmarkeringer",
+"englishSubcategory":"Road Markings",
+"description":"En dobbelt sammenhængende centerlinje betyder, at du under ingen omstændigheder må krydse eller skræve over den, hvilket sikrer trafikflow og sikkerhed."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Standsning, parkering og vejregler",
+"subcategory":"Ingen standsning og ingen parkering",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Parkeringsforbud betyder, at du slet ikke må stoppe, hvorimod parkeringsforbud tillader korte stop for at afhente eller aflevere."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Standsning, parkering og vejregler",
+"subcategory":"Ingen standsning og ingen parkering",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"I en parkeringsforbudszone må du kun stoppe længe nok til at samle passagerer op eller af."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Standsning, parkering og vejregler",
+"subcategory":"Parkering nær kryds",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Parkering nær et kryds er ofte begrænset, fordi det kan blokere udsynet og skabe farer for bilister og fodgængere."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Standsning, parkering og vejregler",
+"subcategory":"Ingen standsning og ingen parkering",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Du må ikke stoppe i en zone med stopforbud, selvom du besvarer et telefonopkald eller har brug for at foretage et hurtigt stop."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Standsning, parkering og vejregler",
+"subcategory":"Clearways",
+"englishSubcategory":"Clearways",
+"description":"En clearway betyder, at du ikke må stoppe eller parkere i den side af vejen i dens kørselstid."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Standsning, parkering og vejregler",
+"subcategory":"Parkering nær krydsninger",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Det er farligt at stoppe i nærheden af et fodgængerfelt, da det kan skjule fodgængere for nærgående bilister og øge risikoen for ulykker."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Standsning, parkering og vejregler",
+"subcategory":"Stop for sikkerhed",
+"englishSubcategory":"Stopping for Safety",
+"description":"Du må kun stoppe i et stopforbudsområde, hvis trafikforholdene eller i en nødsituation kræver det."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Standsning, parkering og vejregler",
+"subcategory":"Parkering på bakkerne",
+"englishSubcategory":"Parking on Hills",
+"description":"Når du parkerer på en bakke, skal du altid trække håndbremsen og sikre køretøjet for at mindske risikoen for at rulle."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Standsning, parkering og vejregler",
+"subcategory":"Parkering nær kryds",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Du må ikke parkere for tæt på et hjørne, da det kan blokere udsynet for modkørende trafik og fodgængere og skabe farer."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Standsning, parkering og vejregler",
+"subcategory":"Ingen standsning og ingen parkering",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Et parkeringsforbudsskilt med angivne tider betyder, at restriktionen kun gælder i de tidsrum, der er vist på skiltet."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Fodgængere, cyklister og sårbare trafikanter",
+"subcategory":"Fodgængere",
+"englishSubcategory":"Pedestrians",
+"description":"Når man drejer, skal føreren vige plads for fodgængere, der krydser den vej, man kører ind på. Dette gælder også, selvom fodgængeren ikke befinder sig ved et angivet kryds."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Fodgængere, cyklister og sårbare trafikanter",
+"subcategory":"Cyklister",
+"englishSubcategory":"Cyclists",
+"description":"Bilister skal sørge for ekstra plads, når de overhaler cyklister, da de kan have brug for plads til at undgå farer eller opretholde balancen."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Fodgængere, cyklister og sårbare trafikanter",
+"subcategory":"Fodgængere",
+"englishSubcategory":"Pedestrians",
+"description":"I nærheden af shoppingområder eller stoppesteder med offentlig transport skal bilister forvente øget fodgængeraktivitet og pludselige krydsninger. Vær altid opmærksom i disse områder."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Fodgængere, cyklister og sårbare trafikanter",
+"subcategory":"Cyklister",
+"englishSubcategory":"Cyclists",
+"description":"Når en cyklist cykler i en markeret cykelbane, skal bilister undgå at køre i banen, medmindre det er tilladt og sikkert at gøre det."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Fodgængere, cyklister og sårbare trafikanter",
+"subcategory":"Børn",
+"englishSubcategory":"Children",
+"description":"Bilister skal være ekstra forsigtige i nærheden af skoler, da børn kan opføre sig uforudsigeligt og fejlvurdere trafikken. Sænk farten i skolezoner."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Fodgængere, cyklister og sårbare trafikanter",
+"subcategory":"Cyklister",
+"englishSubcategory":"Cyclists",
+"description":"Hvis en cyklist cykler midt i en smal vognbane, bør bilister vente, indtil det er sikkert at overhale med tilstrækkelig plads, i stedet for at tvinge sig forbi."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Fodgængere, cyklister og sårbare trafikanter",
+"subcategory":"Fodgængere",
+"englishSubcategory":"Pedestrians",
+"description":"Ved et børneovergang skal bilister stoppe, når der er flag, og der er fodgængere til stede, for at sikre børnenes sikkerhed."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Fodgængere, cyklister og sårbare trafikanter",
+"subcategory":"Cyklister",
+"englishSubcategory":"Cyclists",
+"description":"Bilister bør altid kontrollere deres blinde vinkler, før de drejer, da cyklister kan køre usynligt ved siden af, især i byområder."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Fodgængere, cyklister og sårbare trafikanter",
+"subcategory":"Ældre og handicappede",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Ældre fodgængere kan have brug for ekstra tid til at krydse, da de kan gå langsommere eller have mobilitetsproblemer. Giv dem plads og tid til at krydse sikkert."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Fodgængere, cyklister og sårbare trafikanter",
+"subcategory":"Cyklister",
+"englishSubcategory":"Cyclists",
+"description":"Cyklister kan være sværere at se, når de nærmer sig kryds, og de kan bevæge sig hurtigt. Giv altid cyklisterne plads og tid til at navigere sikkert."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Særlige situationer og vejmiljøer",
+"subcategory":"Skolezoner",
+"englishSubcategory":"School Zones",
+"description":"Hastighedsbegrænsninger i skolezoner gælder kun i de tidsrum, der er vist på skiltene. Sørg for at følge dem for at sikre børnenes sikkerhed."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Særlige situationer og vejmiljøer",
+"subcategory":"Skolezoner",
+"englishSubcategory":"School Zones",
+"description":"Bilister skal sænke farten i skolezoner, selvom der ikke er synlige børn, da børn kan dukke op pludseligt og uforudsigeligt."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Særlige situationer og vejmiljøer",
+"subcategory":"Vejarbejde",
+"englishSubcategory":"Roadworks",
+"description":"Når du nærmer dig vejarbejde, skal du sænke farten og følge eventuelle midlertidige skilte for at sikre sikkerheden for arbejdere og andre trafikanter."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Særlige situationer og vejmiljøer",
+"subcategory":"Vejarbejde",
+"englishSubcategory":"Roadworks",
+"description":"Hastighedsgrænserne er reduceret i vejarbejdszoner for at sikre medarbejdernes sikkerhed og for at imødekomme ændringer i vejforholdene."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Særlige situationer og vejmiljøer",
+"subcategory":"Landveje",
+"englishSubcategory":"Rural Roads",
+"description":"På landeveje kan dyreliv uventet komme ud på vejen. Vær altid forberedt på at stoppe eller sænke farten, når du kører gennem landdistrikter."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Særlige situationer og vejmiljøer",
+"subcategory":"Landveje",
+"englishSubcategory":"Rural Roads",
+"description":"Uasfalterede veje har ofte reduceret vejgreb og bremseevne. Bilister bør sænke hastigheden, når de kører på uasfalterede overflader."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Særlige situationer og vejmiljøer",
+"subcategory":"Motorveje",
+"englishSubcategory":"Freeways",
+"description":"Hvis du misser din motorvejsafkørsel, skal du fortsætte til den næste afkørsel og vende sikkert om. Forsøg ikke at stoppe eller bakke på motorvejen."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Særlige situationer og vejmiljøer",
+"subcategory":"Motorveje",
+"englishSubcategory":"Freeways",
+"description":"Det er ulovligt at stoppe på en motorvej undtagen i nødstilfælde. Brug altid vejkanten eller frakørselsrampen i tilfælde af et motorstop."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Særlige situationer og vejmiljøer",
+"subcategory":"Vejrforhold",
+"englishSubcategory":"Weather Conditions",
+"description":"I kraftig regn skal du sænke hastigheden og øge din følgeafstand. Våde veje kan reducere vejgrebet og forlænge bremselængden."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Særlige situationer og vejmiljøer",
+"subcategory":"Vejrforhold",
+"englishSubcategory":"Weather Conditions",
+"description":"Tåge reducerer sigtbarheden og dybdeopfattelsen, hvilket gør kørsel særligt farlig. Sænk farten og øg følgeafstanden i tåget."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Udrykningskøretøjer og politiets rutevejledning",
+"subcategory":"Vigeplads for udrykningskøretøjer",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Når et udrykningskøretøj nærmer sig med lys og/eller sirene, skal du bevæge dig ud af dets vej og lade det passere sikkert."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Udrykningskøretøjer og politiets rutevejledning",
+"subcategory":"Vigeplads for udrykningskøretøjer",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Hvis du holder til ved trafiklys, og et udrykningskøretøj nærmer sig bagfra, er den sikreste handling at køre til side, hvis det er sikkert og lovligt, ellers bliver du stille og lader det passere, når det er muligt."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Udrykningskøretøjer og politiets rutevejledning",
+"subcategory":"Politiets anvisninger",
+"englishSubcategory":"Police Directions",
+"description":"Hvis en politibetjent giver dig andre anvisninger end et skilt, skal du følge politibetjentens anvisninger."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Udrykningskøretøjer og politiets rutevejledning",
+"subcategory":"Vigeplads for udrykningskøretøjer",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Hvis et udrykningskøretøj holder stille med blinkende lys langs vejkanten, skal du sænke farten og overhale forsigtigt. Kør over, hvis det er sikkert."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Udrykningskøretøjer og politiets rutevejledning",
+"subcategory":"Politiets anvisninger",
+"englishSubcategory":"Police Directions",
+"description":"Hvis politiet opretter en midlertidig vejspærring, skal du følge deres instruktioner og eventuelle omveje."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Udrykningskøretøjer og politiets rutevejledning",
+"subcategory":"Vigeplads for udrykningskøretøjer",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Du bør ikke køre tæt bag et udrykningskøretøj for at komme hurtigere igennem trafikken."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Udrykningskøretøjer og politiets rutevejledning",
+"subcategory":"Vigeplads for udrykningskøretøjer",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Hvis du hører en sirene, men ikke kan se udrykningskøretøjet endnu, skal du være opmærksom, tjekke spejle og være klar til at bevæge dig sikkert."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Udrykningskøretøjer og politiets rutevejledning",
+"subcategory":"Politiets anvisninger",
+"englishSubcategory":"Police Directions",
+"description":"Hvis en trafikkontrollør ved vejarbejde giver anvisninger, skal du adlyde trafikkontrollørens anvisninger."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Udrykningskøretøjer og politiets rutevejledning",
+"subcategory":"Politiets anvisninger",
+"englishSubcategory":"Police Directions",
+"description":"Hvis politiet beder dig om at stoppe for at få kontrolleret kørekortet, skal du stoppe sikkert som anvist."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Udrykningskøretøjer og politiets rutevejledning",
+"subcategory":"Vigeplads for udrykningskøretøjer",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Hvis du kører i en enkelt vognbane, og et udrykningskøretøj nærmer sig bagfra, skal du blinke og køre til venstre eller til en sikker position, når det er muligt."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Sikkerhedsseler, børnefastholdelsesanordninger og passagerer",
+"subcategory":"Sikkerhedsseler",
+"englishSubcategory":"Seatbelts",
+"description":"Føreren er ansvarlig for at sikre, at alle passagerer under 16 år bruger sikkerhedssele."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Sikkerhedsseler, børnefastholdelsesanordninger og passagerer",
+"subcategory":"Sikkerhedsseler",
+"englishSubcategory":"Seatbelts",
+"description":"Der skal altid anvendes sikkerhedssele, når køretøjet er i bevægelse, hvis en sådan er monteret."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Sikkerhedsseler, børnefastholdelsesanordninger og passagerer",
+"subcategory":"Børnesikkerhedsanordninger",
+"englishSubcategory":"Child Restraints",
+"description":"En børnesikkerhedssele er påkrævet, fordi den er designet til at passe til og beskytte barnets kropsstørrelse og -form mere effektivt end en voksensikkerhedssele."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Sikkerhedsseler, børnefastholdelsesanordninger og passagerer",
+"subcategory":"Passagerer",
+"englishSubcategory":"Passengers",
+"description":"Det er usikkert for passagerer at placere fødderne på instrumentbrættet, da airbags og kollisionskræfter kan forårsage alvorlige kvæstelser."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Sikkerhedsseler, børnefastholdelsesanordninger og passagerer",
+"subcategory":"Børnesikkerhedsanordninger",
+"englishSubcategory":"Child Restraints",
+"description":"Den sikreste generelle regel for valg af en børnesikkerhedsstol er at bruge en, der er godkendt og passende til barnets alder og størrelse."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Sikkerhedsseler, børnefastholdelsesanordninger og passagerer",
+"subcategory":"Sikkerhedsseler",
+"englishSubcategory":"Seatbelts",
+"description":"Et almindeligt tegn på, at en sikkerhedssele ikke bruges korrekt, er, når selebåndet sidder under armen eller bag ryggen."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Sikkerhedsseler, børnefastholdelsesanordninger og passagerer",
+"subcategory":"Passagerer",
+"englishSubcategory":"Passengers",
+"description":"Hvis en passager distraherer føreren, er den sikreste handling at bede vedkommende om at stoppe og fokusere på kørslen igen."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Sikkerhedsseler, børnefastholdelsesanordninger og passagerer",
+"subcategory":"Børnesikkerhedsanordninger",
+"englishSubcategory":"Child Restraints",
+"description":"Det er usikkert at holde en baby på skødet i et køretøj i bevægelse, fordi du ikke kan holde barnet sikkert fast i tilfælde af en ulykke."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Sikkerhedsseler, børnefastholdelsesanordninger og passagerer",
+"subcategory":"Sikkerhedsseler",
+"englishSubcategory":"Seatbelts",
+"description":"En sikkerhedssele bør bæres med hoftedelen lavt over hofterne for at mindske risikoen for skader på maven i tilfælde af en ulykke."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Sikkerhedsseler, børnefastholdelsesanordninger og passagerer",
+"subcategory":"Passagerer",
+"englishSubcategory":"Passengers",
+"description":"En væsentlig risiko ved at medbringe usikrede genstande i kabinen er, at de kan blive til projektiler i tilfælde af et sammenstød eller en pludselig opbremsning."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Grundlæggende om køretøjssikkerhed, defekter og vedligeholdelse",
+"subcategory":"Dæk",
+"englishSubcategory":"Tyres",
+"description":"Korrekt dæktryk er vigtigt for sikkerheden, fordi det påvirker vejgreb, bremsning og styrekontrol."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Grundlæggende om køretøjssikkerhed, defekter og vedligeholdelse",
+"subcategory":"Bremser",
+"englishSubcategory":"Brakes",
+"description":"Hvis din bremsepedal føles svampet eller synker længere ned end normalt, skal du behandle det som en alvorlig fejl og få bremserne kontrolleret med det samme."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Grundlæggende om køretøjssikkerhed, defekter og vedligeholdelse",
+"subcategory":"Lys og synlighed",
+"englishSubcategory":"Lights & Visibility",
+"description":"Kontrollér regelmæssigt alle bilens lys for at sikre, at du kan se og blive set af andre."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Grundlæggende om køretøjssikkerhed, defekter og vedligeholdelse",
+"subcategory":"Styring og affjedring",
+"englishSubcategory":"Steering & Suspension",
+"description":"Et advarselstegn på et styreproblem kan omfatte usædvanlig trækkraft, vibrationer eller styrebesvær."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Grundlæggende om køretøjssikkerhed, defekter og vedligeholdelse",
+"subcategory":"Forrude og vinduesviskere",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Slidte viskerblade er et sikkerhedsproblem, fordi de reducerer sigtbarheden i regn."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Grundlæggende om køretøjssikkerhed, defekter og vedligeholdelse",
+"subcategory":"Dæk",
+"englishSubcategory":"Tyres",
+"description":"Et almindeligt tegn på, at dæk kan være usikre, er, hvis slidbanen er slidt eller ujævnt slidt."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Grundlæggende om køretøjssikkerhed, defekter og vedligeholdelse",
+"subcategory":"Spejle og justering",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Spejle bør justeres før kørsel for at reducere blinde vinkler og forbedre opmærksomheden."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Grundlæggende om køretøjssikkerhed, defekter og vedligeholdelse",
+"subcategory":"Bremser",
+"englishSubcategory":"Brakes",
+"description":"Hvis dine bremser laver skurrende lyde, skal du få dem efterset hurtigst muligt."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Grundlæggende om køretøjssikkerhed, defekter og vedligeholdelse",
+"subcategory":"Lys og synlighed",
+"englishSubcategory":"Lights & Visibility",
+"description":"Brug forlygterne ved dårlig sigtbarhed, så andre kan se dig."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Grundlæggende om køretøjssikkerhed, defekter og vedligeholdelse",
+"subcategory":"Forrude og vinduesviskere",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Hvis din forrude er slemt revnet i dit synsfelt, skal du reparere eller udskifte den, før du kører videre."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Last, bugsering og bevidsthed om tunge køretøjer",
+"subcategory":"Laster",
+"englishSubcategory":"Loads",
+"description":"Laster skal være forsvarligt fastgjort for at forhindre, at de forskubbes eller falder og forårsager ulykker."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Last, bugsering og bevidsthed om tunge køretøjer",
+"subcategory":"Laster",
+"englishSubcategory":"Loads",
+"description":"En usikret last inde i et køretøj kan blive til et projektil ved pludselig opbremsning, hvilket udgør en betydelig sikkerhedsrisiko."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Last, bugsering og bevidsthed om tunge køretøjer",
+"subcategory":"Laster",
+"englishSubcategory":"Loads",
+"description":"At køre med et overbelastet køretøj påvirker bremseevnen ved at øge bremselængden."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Last, bugsering og bevidsthed om tunge køretøjer",
+"subcategory":"Laster",
+"englishSubcategory":"Loads",
+"description":"Den sikreste måde at transportere lange genstande på er at fastgøre dem, så de ikke kan bevæge sig eller stikke farligt ud."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Last, bugsering og bevidsthed om tunge køretøjer",
+"subcategory":"Bugsering",
+"englishSubcategory":"Towing",
+"description":"At trække en anhænger øger bremselængden, fordi den ekstra vægt reducerer bremseeffektiviteten."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Last, bugsering og bevidsthed om tunge køretøjer",
+"subcategory":"Bugsering",
+"englishSubcategory":"Towing",
+"description":"Før du trækker en anhænger, skal du kontrollere, at koblingen, lysene og sikkerhedskæden er fastgjort."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Last, bugsering og bevidsthed om tunge køretøjer",
+"subcategory":"Bugsering",
+"englishSubcategory":"Towing",
+"description":"Sørg for ekstra plads, når du drejer under bugsering, da anhængeren sporer inden for drejesporet."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Last, bugsering og bevidsthed om tunge køretøjer",
+"subcategory":"Laster",
+"englishSubcategory":"Loads",
+"description":"En last, der blokerer dit udsyn bagud, reducerer bevidstheden om den bagvedliggende trafik, hvilket øger risikoen for ulykker."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Last, bugsering og bevidsthed om tunge køretøjer",
+"subcategory":"Tunge køretøjer",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Tunge køretøjer har brug for mere plads til at stoppe, fordi deres større masse øger bremselængden."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Last, bugsering og bevidsthed om tunge køretøjer",
+"subcategory":"Tunge køretøjer",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Når du følger efter en stor lastbil, skal du øge afstanden for at tage højde for blinde vinkler og lastbilens længere bremselængde."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Licensering, L/P-nummerpladeregler og praktiske DKT-fælder (VIC)",
+"subcategory":"Regler for elevtilladelse",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Som elev i Victoria må du kun køre bil under opsyn af en chauffør med den rette licens, der sidder ved siden af dig."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Licensering, L/P-nummerpladeregler og praktiske DKT-fælder (VIC)",
+"subcategory":"Regler for elevtilladelse",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Kørelærlinge skal vise deres L-nummerplader tydeligt, så de altid er synlige for andre i køretøjet."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Licensering, L/P-nummerpladeregler og praktiske DKT-fælder (VIC)",
+"subcategory":"Regler for elevtilladelse",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Hvis din fører, der fører tilsyn, falder i søvn, mens du kører, skal du stoppe sikkert og ikke fortsætte, før du er under korrekt opsyn."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Licensering, L/P-nummerpladeregler og praktiske DKT-fælder (VIC)",
+"subcategory":"Mobiltelefoner og -enheder",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Som kørelærling i Victoria er det ikke tilladt at bruge mobiltelefon på nogen måde under kørslen."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Licensering, L/P-nummerpladeregler og praktiske DKT-fælder (VIC)",
+"subcategory":"Regler for elevtilladelse",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Hvis dine L-plader falder af under kørslen, skal du stoppe sikkert og sætte dem på igen, før du fortsætter kørslen."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Licensering, L/P-nummerpladeregler og praktiske DKT-fælder (VIC)",
+"subcategory":"Overvågning",
+"englishSubcategory":"Supervision",
+"description":"Det primære sikkerhedsformål med regler for elevtilsyn er at sikre, at en erfaren chauffør kan vejlede og gribe ind, hvis det er nødvendigt."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Licensering, L/P-nummerpladeregler og praktiske DKT-fælder (VIC)",
+"subcategory":"Betingelser og overholdelse",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Hvis en elev bliver taget i at køre uden den nødvendige opsyn, er der sandsynlighed for bøder og mulige konsekvenser for kørekortet."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Licensering, L/P-nummerpladeregler og praktiske DKT-fælder (VIC)",
+"subcategory":"Fareopfattelse",
+"englishSubcategory":"Hazard Perception",
+"description":"En almindelig fælde for kørelærlinge i kryds er at dreje uden at tjekke for fodgængere, der krydser den vej, man kører ind på."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Licensering, L/P-nummerpladeregler og praktiske DKT-fælder (VIC)",
+"subcategory":"Fareopfattelse",
+"englishSubcategory":"Hazard Perception",
+"description":"Selv hvis lyset er grønt, skal du sænke farten eller stoppe, hvis trafikken er blokeret forude, eller hvis fodgængere krydser."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Licensering, L/P-nummerpladeregler og praktiske DKT-fælder (VIC)",
+"subcategory":"Regler for elevtilladelse",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Hvis du fører tilsyn med en elev, skal den fører, der fører tilsynet, altid sidde på passagersædet foran."
+}
+]

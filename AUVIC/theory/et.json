@@ -1,0 +1,1282 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Liikluseeskirjad ja -seadused",
+"subcategory":"Üldised liikluseeskirjad",
+"englishSubcategory":"General Road Rules",
+"description":"Ohutuse ja sujuva liiklusvoo tagamiseks peavad juhid järgima üldisi liikluseeskirju. See hõlmab liiklusmärkide, signaalide ja sõiduraja märgistuse järgimist. Nende reeglite eiramine võib kaasa tuua õnnetusi ja karistusi."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Liikluseeskirjad ja -seadused",
+"subcategory":"Tee andmine",
+"englishSubcategory":"Giving Way",
+"description":"Autojuhid on kohustatud andma teed teistele sõidukitele või jalakäijatele ristmikel, ringristmikel ja ülekäiguradadel ning muudes kohtades. Tee mitteandmine on õigusrikkumine."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Liikluseeskirjad ja -seadused",
+"subcategory":"Sõiduraja kasutamine",
+"englishSubcategory":"Lane Use",
+"description":"Autojuhid peavad kasutama sobivaid sõiduradasid ja järgima sõiduraja märgistust. See hõlmab sõiduraja vahetamise, möödasõidu ning jalgratta- või bussiradade kasutamise reegleid. Rikkumised võivad kaasa tuua trahve või õnnetusi."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Liikluseeskirjad ja -seadused",
+"subcategory":"Trammid",
+"englishSubcategory":"Trams",
+"description":"Autojuhid peavad olema teadlikud trammiliikluse reeglitest, sealhulgas jalakäijatele tee andmisest trammipeatustes, trammide ees peatumisest avatud ustega ja trammide möödasõidust keeldumisest teatud tingimustel."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Liikluseeskirjad ja -seadused",
+"subcategory":"Ristmikud",
+"englishSubcategory":"Intersections",
+"description":"Ristmikel peavad juhid järgima õigeid teeandmise ja stopp-märkide või fooride ees peatumise protseduure. Nende reeglite mõistmine on õnnetuste vältimiseks ülioluline."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Liikluseeskirjad ja -seadused",
+"subcategory":"U-pöörded",
+"englishSubcategory":"U-Turns",
+"description":"U-pöörded on lubatud ainult ristmikel või kui puudub seda keelav märk. Enne U-pöörde sooritamist peavad juhid veenduma ohutuses."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Liikluseeskirjad ja -seadused",
+"subcategory":"Kiirusepiirangud",
+"englishSubcategory":"Speed Limits",
+"description":"Autojuhid peavad liiklusohutuse tagamiseks järgima kehtestatud kiirusepiiranguid. Kiiruseületamine võib kaasa tuua trahve, juhiloa kaotamise ja suurenenud õnnetuste riski."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Liikluseeskirjad ja -seadused",
+"subcategory":"Jalakäijate ohutus",
+"englishSubcategory":"Pedestrian Safety",
+"description":"Autojuhid peavad andma teed jalakäijatele ülekäigurajal ja tagama nende ohutuse jalakäijate ala lähedal. Jalakäijate eest ülekäigurajal peatumata jätmine on õigusrikkumine."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Liikluseeskirjad ja -seadused",
+"subcategory":"Raudteeülesõidud",
+"englishSubcategory":"Railway Crossings",
+"description":"Juhid peavad raudteeülesõidukohtadel peatuma, kui foorid vilguvad või turvaväravad on alla lastud. Nende signaalide eiramine on tõsine rikkumine ning võib kaasa tuua trahve ja õnnetusi."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Liikluseeskirjad ja -seadused",
+"subcategory":"Avariisõidukid",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Autojuhid peavad andma teed hädaabisõidukitele vilkurite ja sireenidega, tagades, et sõidukil on liikluses vaba tee."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Liiklusmärgid ja -signaalid",
+"subcategory":"Regulatiivsed märgid",
+"englishSubcategory":"Regulatory Signs",
+"description":"Reguleerivad liiklusmärgid annavad juhtidele kohustuslikke juhiseid, näiteks kiirusepiirangud, pööramispiirangud ja sissesõidukeelud. Nende märkide järgimine on seadusega nõutav, et tagada teedel ohutus ja kord."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Liiklusmärgid ja -signaalid",
+"subcategory":"Hoiatusmärgid",
+"englishSubcategory":"Warning Signs",
+"description":"Hoiatusmärgid hoiatavad juhte võimalike ohtude eest, nagu järskude kurvide, koolialade ja metsloomade ülekäiguradade eest. Need märgid aitavad juhtidel oma sõidustiili kohandada, et õnnetusi vältida."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Liiklusmärgid ja -signaalid",
+"subcategory":"Kiirusemärgid",
+"englishSubcategory":"Speed Signs",
+"description":"Kiiruspiirangu märgid näitavad teel lubatud maksimaalset või minimaalset kiirust. Autojuhid peavad neist piirangutest kinni pidama, et tagada ohutud sõidutingimused ja vältida trahve."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Liiklusmärgid ja -signaalid",
+"subcategory":"Valgusfoorid",
+"englishSubcategory":"Traffic Lights",
+"description":"Valgusfoorid reguleerivad sõidukite ja jalakäijate liikumist ristmikel. Punane tähendab peatumist, roheline tähendab minekut ja kollane hoiatab peatumiseks valmistumise eest."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Liiklusmärgid ja -signaalid",
+"subcategory":"Jalakäijate foorid",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Jalakäijate foorid näitavad, millal on jalakäijatel ohutu teed ületada. Need foorid on tavaliselt kooskõlastatud valgusfooridega, et tagada jalakäijate ohutus."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Liiklusmärgid ja -signaalid",
+"subcategory":"Sõiduraja hoidmise signaalid",
+"englishSubcategory":"Lane Control Signals",
+"description":"Sõiduraja hoidmise signaale kasutatakse selleks, et näidata, kas sõidurada on avatud või suletud. Neid signaale kasutatakse tavaliselt mitme sõidurajaga teedel ja tunnelites."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Liiklusmärgid ja -signaalid",
+"subcategory":"Parkimiskeelu märgid",
+"englishSubcategory":"No Parking Signs",
+"description":"Parkimist keelavad märgid tähistavad alasid, kus peatumine või parkimine on keelatud. Tavaliselt on see vajalik liikluse sujuva voolavuse ja ohutuse tagamiseks."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Liiklusmärgid ja -signaalid",
+"subcategory":"Ühesuunalised liiklusmärgid",
+"englishSubcategory":"One-Way Signs",
+"description":"Ühesuunalised liiklusmärgid näitavad, et liiklus peab liikuma ainult ühes suunas. Nende märkide eiramine võib põhjustada õnnetusi ja õiguslikke tagajärgi."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Liiklusmärgid ja -signaalid",
+"subcategory":"Stopp-märgid",
+"englishSubcategory":"Stop Signs",
+"description":"Stopp-märgid nõuavad, et juhid enne edasiliikumist täielikult peatuksid ja annaksid teed teistele sõidukitele või jalakäijatele."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Liiklusmärgid ja -signaalid",
+"subcategory":"Anna teed märgid",
+"englishSubcategory":"Give Way Signs",
+"description":"Teemärgid käsivad juhtidel õnnetuste vältimiseks anda teed teistele liiklejatele, olenevalt olukorrast kas jalakäijatele või sõidukitele."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Kiiruse ja distantsi reeglid",
+"subcategory":"Kiirusepiirangud",
+"englishSubcategory":"Speed Limits",
+"description":"Victoria asulas on vaikimisi kiirusepiirang 50 km/h, kui pole märgitud teisiti. Kontrollige alati paigaldatud märke, et veenduda sõidukiiruse vastavuses seadusjärgsetele kiirusepiirangutele."
+},
+{
+"id": 22,
+"englishName":"Theory",
+"category":"Kiiruse ja distantsi reeglid",
+"subcategory":"Kiirusepiirangud",
+"englishSubcategory":"Speed Limits",
+"description":"Märgistatud koolialal on kiirusepiirang märgil näidatud aegadel 40 km/h, et tagada teed ületavate laste ohutus."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Kiiruse ja distantsi reeglid",
+"subcategory":"Jälgimiskaugus",
+"englishSubcategory":"Following Distance",
+"description":"Ideaalsetes tingimustes on minimaalne ohutu pikivahe eesoleva sõiduki taga vähemalt kaks sekundit. See annab piisavalt aega reageerida, kui eesolev sõiduk järsult peatub."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Kiiruse ja distantsi reeglid",
+"subcategory":"Kiirusepiirangud",
+"englishSubcategory":"Speed Limits",
+"description":"Ohutustsoonis peatunud trammist möödudes tuleb kiirust vähendada 10 km/h-ni, et tagada trammile sisenevate ja sealt väljuvate reisijate ohutus."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Kiiruse ja distantsi reeglid",
+"subcategory":"Kiirusepiirangud",
+"englishSubcategory":"Speed Limits",
+"description":"Kiiruspiirangumärkideta maateedel on vaikimisi kiirusepiirang 100 km/h, kui kohalikud liiklusmärgid ei ole teisiti sätestanud. Ohutuse säilitamiseks kohandage oma kiirust teeoludele vastavaks."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Kiiruse ja distantsi reeglid",
+"subcategory":"Jälgimiskaugus",
+"englishSubcategory":"Following Distance",
+"description":"Märja ilmaga peaksite oma pikivahet suurendama vähemalt nelja sekundini. Märjad teed vähendavad haarduvust, mistõttu on ohutuks peatumiseks vaja rohkem aega."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Kiiruse ja distantsi reeglid",
+"subcategory":"Kiirusepiirangud",
+"englishSubcategory":"Speed Limits",
+"description":"Järgige elektroonilisi muudetavaid kiiruspiirangumärke alati, kui need töötavad. Need märgid kohandavad kiirusepiiranguid vastavalt liiklusoludele, ilmale või teel toimuvatele intsidentidele."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Kiiruse ja distantsi reeglid",
+"subcategory":"Peatumisteekond",
+"englishSubcategory":"Stopping Distance",
+"description":"Kiiruse kasvades suureneb ka sõiduki ohutuks peatamiseks vajalik pidurdusteekond. Veenduge alati, et teil on ohtudele reageerimiseks piisav vahemaa."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Kiiruse ja distantsi reeglid",
+"subcategory":"Kiirusepiirangud",
+"englishSubcategory":"Speed Limits",
+"description":"Jagatud tsoonides on kiirusepiirang üldiselt 10 km/h, et tagada jalakäijate ja jalgratturite ohutus piirkondades, kus sõidukid ja kergliiklejad omavahel suhtlevad."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Kiiruse ja distantsi reeglid",
+"subcategory":"Jälgimiskaugus",
+"englishSubcategory":"Following Distance",
+"description":"Tagantjärele sõitmine on ohtlik, kuna see vähendab reaktsiooniaega ja pidurdusaega. Hoidke alati ohutut pikivahet, eriti suuremate sõidukite taga sõites, mis võivad teie vaadet takistada."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Juhi kohustused",
+"subcategory":"Õiguslikud kohustused",
+"englishSubcategory":"Legal Obligations",
+"description":"Autojuhid peavad täitma mitmesuguseid seadusest tulenevaid kohustusi, näiteks abi osutamine pärast õnnetust, andmete vahetamine pärast kokkupõrkeid ja juhtumitest ametivõimudele seadusest tulenevalt teatamine."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Juhi kohustused",
+"subcategory":"Tähelepanu ja kontroll",
+"englishSubcategory":"Attention & Control",
+"description":"Juhid peavad oma sõidukit igal ajal kontrollima, vältides tähelepanu hajumist ja säilitades keskendumise, et tagada enda ja teiste liiklejate ohutus."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Juhi kohustused",
+"subcategory":"Õiguslikud kohustused",
+"englishSubcategory":"Legal Obligations",
+"description":"Vigastustega lõppenud avarii korral peavad juhid peatuma ja võimaluse korral abi osutama. Sellistes olukordades peatumata jätmine ja abistamata jätmine on seaduserikkumine."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Juhi kohustused",
+"subcategory":"Tähelepanu ja kontroll",
+"englishSubcategory":"Attention & Control",
+"description":"On oluline, et juhid säilitaksid oma sõiduki üle kogu aeg täieliku kontrolli, tagades, et nad reageerivad asjakohaselt muutuvatele liiklusoludele ja säilitavad ohutu sõidukeskkonna."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Juhi kohustused",
+"subcategory":"Õiguslikud kohustused",
+"englishSubcategory":"Legal Obligations",
+"description":"Juhid peavad õnnetusest politseile teatama, kui keegi saab vigastada või vara on kahjustatud ning andmeid ei saa vahetada. Nende juhtumite teatamata jätmine võib kaasa tuua karistusi."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Juhi kohustused",
+"subcategory":"Väsimuse juhtimine",
+"englishSubcategory":"Fatigue Management",
+"description":"Väsimus on autojuhtimise ajal tõsine oht. Autojuhid peaksid olema teadlikud väsimuse varajastest märkidest, nagu haigutamine ja keskendumisvõime kaotus, ning võtma õnnetuste vältimiseks asjakohaseid meetmeid."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Juhi kohustused",
+"subcategory":"Õiguslikud kohustused",
+"englishSubcategory":"Legal Obligations",
+"description":"Juhid peavad politsei nõudmisel oma juhiloa esitama. Juhiloa andmisest keeldumine võib kaasa tuua karistusi või täiendavaid õiguslikke tagajärgi."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Juhi kohustused",
+"subcategory":"Tähelepanu ja kontroll",
+"englishSubcategory":"Attention & Control",
+"description":"Autojuhid peaksid vältima signaali tarbetut kasutamist, kuna see võib teisi liiklejaid ehmatada või tähelepanu kõrvale juhtida. Signaali tuleks kasutada ainult teiste teavitamiseks teie kohalolekust olukordades, kus see on hädavajalik."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Juhi kohustused",
+"subcategory":"Väsimuse juhtimine",
+"englishSubcategory":"Fatigue Management",
+"description":"Kui tunnete end sõidu jätkamiseks liiga väsinuna, on kõige ohutum reageering enne jätkamist peatuda ja puhata. Väsinuna sõitmine suurendab oluliselt õnnetuste riski."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Juhi kohustused",
+"subcategory":"Õiguslikud kohustused",
+"englishSubcategory":"Legal Obligations",
+"description":"Juhtide kohustus on tagada, et nende reisijad istuksid turvaliselt ja oleksid kinnitatud. See hõlmab ka laste turvatoolide ja täiskasvanute turvavööde kinnitamist."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkohol, narkootikumid ja tervis",
+"subcategory":"Alkoholi piirmäärad",
+"englishSubcategory":"Alcohol Limits",
+"description":"Victoria osariigis peavad õppivad juhid ja katseajal olevad juhid (P1 ja P2) hoidma vere alkoholisisalduse (BAC) alati 0,00 promilli. Täielikult litsentseeritud juhtidel on BAC-i piirang 0,05 promilli, kuid ohutum on sõidu ajal üldse mitte juua."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkohol, narkootikumid ja tervis",
+"subcategory":"Alkoholi mõju",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkohol kahjustab otsustusvõimet, reaktsiooniaega ja koordinatsiooni, mis võib oluliselt suurendada õnnetuste riski. Isegi väike kogus alkoholi võib vähendada teie võimet ohutult autot juhtida."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkohol, narkootikumid ja tervis",
+"subcategory":"Narkjuhtimine",
+"englishSubcategory":"Drug Driving",
+"description":"Uimastite, sh retseptiravimite mõju all autojuhtimine võib teie sõiduvõimet kahjustada isegi siis, kui te end uimastite mõju all ei tunne. Oluline on olla teadlik riskidest ja vältida autojuhtimist pärast uimastite tarvitamist."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkohol, narkootikumid ja tervis",
+"subcategory":"Ravimite ohutus",
+"englishSubcategory":"Medication Safety",
+"description":"Enne uue retseptiravimi võtmise alustamist kontrollige, kas see mõjutab teie autojuhtimise võimet ja järgige arsti nõuandeid. Mõned ravimid võivad põhjustada unisust või kahjustada keskendumisvõimet."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkohol, narkootikumid ja tervis",
+"subcategory":"Väsimus ja tervis",
+"englishSubcategory":"Fatigue & Health",
+"description":"Väsimus võib kahjustada teie võimet ohutult sõita, täpselt nagu alkohol või narkootikumid. Enne sõitmist veenduge, et saaksite piisavalt puhata, ja tehke pikkade sõitude ajal pause, et vähendada väsimusest tingitud õnnetuste ohtu."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Alkohol, narkootikumid ja tervis",
+"subcategory":"Alkoholi mõju",
+"englishSubcategory":"Alcohol Effects",
+"description":"Pärast joomist saab alkoholi hulka teie kehas vähendada ainult aeg. Kohv, külm dušš ega muud meetodid seda protsessi ei kiirenda."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Alkohol, narkootikumid ja tervis",
+"subcategory":"Alkoholi piirmäärad",
+"englishSubcategory":"Alcohol Limits",
+"description":"Victorias peab kõigi õppivate ja katseajal olevate juhtide vere alkoholisisaldus olema 0,00. Täielike litsentseeritud juhtide vere alkoholisisalduse piirnorm on 0,05. Alkoholi tarvitamise vältimine enne juhtimist on aga alati kõige ohutum valik."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Alkohol, narkootikumid ja tervis",
+"subcategory":"Narkjuhtimine",
+"englishSubcategory":"Drug Driving",
+"description":"Victorias võidakse teid teatud uimastite mõju all juhtimise eest karistada isegi siis, kui te ei tunne end uimastite mõju all olevat. Uimastite mõju mõjutab teie võimet ohutult sõita ja suurendab õnnetuste riski."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Alkohol, narkootikumid ja tervis",
+"subcategory":"Ravimite ohutus",
+"englishSubcategory":"Medication Safety",
+"description":"Enne autojuhtimist kontrollige alati, kas uued ravimid võivad mõjutada teie võimet sõidukit juhtida. Mõned ravimid põhjustavad unisust, halvendavad reaktsiooniaega ja vähendavad keskendumisvõimet."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Alkohol, narkootikumid ja tervis",
+"subcategory":"Väsimus ja tervis",
+"englishSubcategory":"Fatigue & Health",
+"description":"Väsimusel võib olla autojuhtimisele sarnane mõju kui alkoholil. See aeglustab reaktsiooniaega, kahjustab otsustusvõimet ja vähendab otsustusvõimet, suurendades õnnetuste ohtu."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Ohutu sõidu tavad",
+"subcategory":"Ohu tajumine",
+"englishSubcategory":"Hazard Perception",
+"description":"Potentsiaalse ohu lähenedes on kõige kindlam reageering aeglustada ja valmistuda vajadusel peatuma. See annab sulle aega olukorra hindamiseks ja asjakohaseks reageerimiseks."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Ohutu sõidu tavad",
+"subcategory":"Ohu tajumine",
+"englishSubcategory":"Hazard Perception",
+"description":"Sõidu ajal on võimalike ohtude varajaseks avastamiseks ülioluline ettepoole vaadata. See võimaldab teil oma reageeringut planeerida ja vältida ootamatuid reaktsioone."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Ohutu sõidu tavad",
+"subcategory":"Kaitsev sõit",
+"englishSubcategory":"Defensive Driving",
+"description":"Kaitsev sõidustiil hõlmab teiste liiklejate võimalike vigade ettenägemist ja ohutu pikivahe hoidmist kokkupõrgete vältimiseks."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Ohutu sõidu tavad",
+"subcategory":"Teeolud",
+"englishSubcategory":"Road Conditions",
+"description":"Kui rehvid kaotavad märjal teel haarduvuse, laske gaasipedaalilt lahti ja roolige sujuvalt. Järsk pidurdamine või järsud pöörded võivad olukorda halvendada ja viia kontrolli kaotamiseni."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Ohutu sõidu tavad",
+"subcategory":"Ohu tajumine",
+"englishSubcategory":"Hazard Perception",
+"description":"Liikluses sõites on parim asend ohtude jälgimiseks kaugel ees ja külgedel, mitte ainult eesolevale autole keskendudes. See aitab riske varem ette näha."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Ohutu sõidu tavad",
+"subcategory":"Kaitsev sõit",
+"englishSubcategory":"Defensive Driving",
+"description":"Kui sõiduk kaldub oma eesolevas sõidurajas, on kõige ohutum reageerida pikivahet suurendades. See annab sulle rohkem aega reageerida, kui olukord halveneb."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Ohutu sõidu tavad",
+"subcategory":"Teeolud",
+"englishSubcategory":"Road Conditions",
+"description":"Tee on sageli kõige libedam esimestel minutitel pärast vihma. Olge sel ajal eriti ettevaatlik, kuna teel olevad õlid ja praht võivad selle ohtlikumaks muuta."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Ohutu sõidu tavad",
+"subcategory":"Öine sõitmine",
+"englishSubcategory":"Night Driving",
+"description":"Vastutulevate esitulede pimestamise vältimiseks öösel vaadake veidi oma sõiduraja vasakule servale ja vajadusel aeglustage. See aitab vältida otsest kokkupuudet eredate tuledega."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Ohutu sõidu tavad",
+"subcategory":"Kaitsev sõit",
+"englishSubcategory":"Defensive Driving",
+"description":"Kui juht sõidab sulle liiga lähedalt järele, on kõige ohutum suurendada pikivahet eesoleva sõidukiga. See annab nii sulle kui ka tagaajavale juhile rohkem reageerimisruumi."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Ohutu sõidu tavad",
+"subcategory":"Teeolud",
+"englishSubcategory":"Road Conditions",
+"description":"Udus sõites vähendage kiirust ja hoidke oma sõiduki ja teiste liiklejate vahel suuremat pikivahet. Udu halvendab oluliselt nähtavust ja suurendab õnnetuste ohtu."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Ristmikud, pöörded ja ringristmikud",
+"subcategory":"Tee andmine",
+"englishSubcategory":"Giving Way",
+"description":"Ristmikel, kus liiklusmärke või foori pole, peab paremalt lähenev sõiduk andma teed vasakult tulevale sõidukile."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Ristmikud, pöörded ja ringristmikud",
+"subcategory":"Pöörded",
+"englishSubcategory":"Turns",
+"description":"Paremale pöörates ilma parempoolset noolt näitamata foori juures, tuleb enne edasiliikumist anda teed vastutulevale liiklusele ja jalakäijatele."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Ristmikud, pöörded ja ringristmikud",
+"subcategory":"Ringristmikud",
+"englishSubcategory":"Roundabouts",
+"description":"Ringristmikul on eesõigus sõidukitel, mis juba ringristmikul on. Ringristmikule sisenevad juhid peavad neile teed andma."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Ristmikud, pöörded ja ringristmikud",
+"subcategory":"Pöörded",
+"englishSubcategory":"Turns",
+"description":"Vasakule pöörates tuleb teed anda jalakäijatele, kes ületavad teed, millele sisenete, tagades nende ohutuse."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Ristmikud, pöörded ja ringristmikud",
+"subcategory":"Tee andmine",
+"englishSubcategory":"Giving Way",
+"description":"T-ristmikul peab lõpp-teel liikuv sõiduk andma teed jätkuval teel liikuvatele sõidukitele."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Ristmikud, pöörded ja ringristmikud",
+"subcategory":"Pöörded",
+"englishSubcategory":"Turns",
+"description":"U-pöörde tegemisel tuleb anda teed kõigile teistele sõidukitele ja jalakäijatele, tagades pööramise ajal nende ohutuse."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Ristmikud, pöörded ja ringristmikud",
+"subcategory":"Ringristmikud",
+"englishSubcategory":"Roundabouts",
+"description":"Ringristmikul väljudes anna vahetult enne väljumist vasakule suunatule, et teisi liiklejaid oma kavatsustest teavitada."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Ristmikud, pöörded ja ringristmikud",
+"subcategory":"Tee andmine",
+"englishSubcategory":"Giving Way",
+"description":"Sissesõiduteelt teele sisenedes tuleb õnnetuste vältimiseks anda teed kõigile teel liikuvatele sõidukitele ja jalakäijatele."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Ristmikud, pöörded ja ringristmikud",
+"subcategory":"Pöörded",
+"englishSubcategory":"Turns",
+"description":"Enne parempööret asetage oma sõiduk võimalikult tee keskjoone lähedale, tagades ohutu ja sujuva pöörde."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Ristmikud, pöörded ja ringristmikud",
+"subcategory":"Valgusfoorid",
+"englishSubcategory":"Traffic Lights",
+"description":"Roheline nool näitab, et võite noolega näidatud suunas liikuda ilma teed andmata teistele liiklejatele või jalakäijatele."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Teemärgistus, sõidurajad ja möödasõidud",
+"subcategory":"Sõiduraja kasutamine",
+"englishSubcategory":"Lane Use",
+"description":"Pidev ühtne keskjoon tähendab üldiselt seda, et seda ei tohi ületada, välja arvatud teele või sissesõiduteele sisenemisel või sealt lahkumisel."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Teemärgistus, sõidurajad ja möödasõidud",
+"subcategory":"Möödasõit",
+"englishSubcategory":"Overtaking",
+"description":"Mitmerealisel teel on vasakult möödasõit lubatud, kui liiklus toimub eraldi tähistatud sõiduradadel ja möödasõit on ohutu."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Teemärgistus, sõidurajad ja möödasõidud",
+"subcategory":"Möödasõit",
+"englishSubcategory":"Overtaking",
+"description":"Ühe sõidurajaga teel võib vasakult mööda sõita sõidukist, kui eesolev sõiduk pöörab paremale ja möödasõit on ohutu."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Teemärgistus, sõidurajad ja möödasõidud",
+"subcategory":"Sõiduraja kasutamine",
+"englishSubcategory":"Lane Use",
+"description":"Enne sõiduraja vahetamist anna märku ja veendu, et seda on ohutu teha. See tagab, et teised liiklejad on sinu kavatsustest teadlikud ja ennetab õnnetusi."
+},
+{
+"id": 75,
+"englishName":"Theory",
+"category":"Teemärgistus, sõidurajad ja möödasõidud",
+"subcategory":"Teemärgistus",
+"englishSubcategory":"Road Markings",
+"description":"Värvitud liiklussaar ehk ševronmärgistus näitab, et sellel ei tohi sõita, tagades liikluse ohutu liikumise."
+},
+{
+"id": 76,
+"englishName":"Theory",
+"category":"Teemärgistus, sõidurajad ja möödasõidud",
+"subcategory":"Möödasõit",
+"englishSubcategory":"Overtaking",
+"description":"Kui te pole kindel, kas möödasõit on ohutu, on kõige ohutum möödasõitu mitte teha. Enne möödasõidu sooritamist hinnake alati olukorda."
+},
+{
+"id": 77,
+"englishName":"Theory",
+"category":"Teemärgistus, sõidurajad ja möödasõidud",
+"subcategory":"Sõiduraja kasutamine",
+"englishSubcategory":"Lane Use",
+"description":"Katkendlik keskjoon tähendab, et võite selle ületada, kui see on ohutu, võimaldades möödasõitu või reavahetust."
+},
+{
+"id": 78,
+"englishName":"Theory",
+"category":"Teemärgistus, sõidurajad ja möödasõidud",
+"subcategory":"Sõiduraja kasutamine",
+"englishSubcategory":"Lane Use",
+"description":"Kahe sõiduraja vaheline kaugus on lubatud ainult siis, kui sõiduraja märgistus seda lubab. Tavaliselt pole see enamiku sõidutingimuste korral ohutu ega lubatud."
+},
+{
+"id": 79,
+"englishName":"Theory",
+"category":"Teemärgistus, sõidurajad ja möödasõidud",
+"subcategory":"Möödasõit",
+"englishSubcategory":"Overtaking",
+"description":"Kui möödasõitev sõiduk hakkab kiirendama, on kõige ohutum reageering möödasõit katkestada, kui see on ohutu, ja autot tagasi võtta."
+},
+{
+"id": 80,
+"englishName":"Theory",
+"category":"Teemärgistus, sõidurajad ja möödasõidud",
+"subcategory":"Teemärgistus",
+"englishSubcategory":"Road Markings",
+"description":"Kahekordne pidev keskjoon tähendab, et seda ei tohi mingil juhul ületada ega sellel istuda, tagades liikluse sujuva kulgemise ja ohutuse."
+},
+{
+"id": 81,
+"englishName":"Theory",
+"category":"Peatumine, parkimine ja teeäärsed eeskirjad",
+"subcategory":"Peatumine ja parkimine keelatud",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Peatumise keeld tähendab, et te ei tohi üldse peatuda, samas kui parkimiskeeld lubab lühikest peatumist pealevõtmiseks või mahapanekuks."
+},
+{
+"id": 82,
+"englishName":"Theory",
+"category":"Peatumine, parkimine ja teeäärsed eeskirjad",
+"subcategory":"Peatumine ja parkimine keelatud",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Parkimiskeelualal on lubatud peatuda ainult nii kauaks, et reisijaid peale võtta või maha panna."
+},
+{
+"id": 83,
+"englishName":"Theory",
+"category":"Peatumine, parkimine ja teeäärsed eeskirjad",
+"subcategory":"Parkimine ristmike lähedal",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Ristmike lähedal parkimine on sageli piiratud, kuna see võib takistada nähtavust ning tekitada ohtu nii autojuhtidele kui ka jalakäijatele."
+},
+{
+"id": 84,
+"englishName":"Theory",
+"category":"Peatumine, parkimine ja teeäärsed eeskirjad",
+"subcategory":"Peatumine ja parkimine keelatud",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Peatumise keelutsoonis ei ole lubatud peatuda isegi siis, kui vastad telefonikõnele või pead tegema kiire peatuse."
+},
+{
+"id": 85,
+"englishName":"Theory",
+"category":"Peatumine, parkimine ja teeäärsed eeskirjad",
+"subcategory":"Läbipääsud",
+"englishSubcategory":"Clearways",
+"description":"Keelatud ala tähendab, et tee sellel poolel ei tohi selle lahtiolekuaegadel peatuda ega parkida."
+},
+{
+"id": 86,
+"englishName":"Theory",
+"category":"Peatumine, parkimine ja teeäärsed eeskirjad",
+"subcategory":"Parkimine ülekäiguradade lähedal",
+"englishSubcategory":"Parking Near Crossings",
+"description":"Jalakäijate ülekäiguraja lähedal peatumine on ohtlik, kuna see võib varjata jalakäijaid lähenevate autojuhtide eest, suurendades õnnetuste ohtu."
+},
+{
+"id": 87,
+"englishName":"Theory",
+"category":"Peatumine, parkimine ja teeäärsed eeskirjad",
+"subcategory":"Ohutuse tagamiseks peatumine",
+"englishSubcategory":"Stopping for Safety",
+"description":"Peatumine keelualal on lubatud ainult siis, kui liiklusolud seda nõuavad või kui tegemist on hädaolukorraga."
+},
+{
+"id": 88,
+"englishName":"Theory",
+"category":"Peatumine, parkimine ja teeäärsed eeskirjad",
+"subcategory":"Parkimine mägedel",
+"englishSubcategory":"Parking on Hills",
+"description":"Mäel parkimisel tõmmake alati käsipidur peale ja kinnitage sõiduk, et vähendada veeremisohtu."
+},
+{
+"id": 89,
+"englishName":"Theory",
+"category":"Peatumine, parkimine ja teeäärsed eeskirjad",
+"subcategory":"Parkimine ristmike lähedal",
+"englishSubcategory":"Parking Near Intersections",
+"description":"Ära parkida liiga lähedale nurgale, sest see võib varjata vaadet vastutulevale liiklusele ja jalakäijatele, tekitades ohtu."
+},
+{
+"id": 90,
+"englishName":"Theory",
+"category":"Peatumine, parkimine ja teeäärsed eeskirjad",
+"subcategory":"Peatumine ja parkimine keelatud",
+"englishSubcategory":"No Stopping & No Parking",
+"description":"Märk „Parkimine keelatud“, millel on näidatud kellaajad, tähendab, et piirang kehtib ainult märgil näidatud aegadel."
+},
+{
+"id": 91,
+"englishName":"Theory",
+"category":"Jalakäijad, jalgratturid ja haavatavad liiklejad",
+"subcategory":"Jalakäijad",
+"englishSubcategory":"Pedestrians",
+"description":"Pöörates peab juht andma teed jalakäijatele, kes ületavad teed, millele ta siseneb. See kehtib isegi juhul, kui jalakäija ei viibi ettenähtud ülekäigurajal."
+},
+{
+"id": 92,
+"englishName":"Theory",
+"category":"Jalakäijad, jalgratturid ja haavatavad liiklejad",
+"subcategory":"Jalgratturid",
+"englishSubcategory":"Cyclists",
+"description":"Autojuhid peavad jalgratturitest möödudes jätma lisaruumi, kuna jalgratturid võivad vajada ruumi ohtude vältimiseks või tasakaalu säilitamiseks."
+},
+{
+"id": 93,
+"englishName":"Theory",
+"category":"Jalakäijad, jalgratturid ja haavatavad liiklejad",
+"subcategory":"Jalakäijad",
+"englishSubcategory":"Pedestrians",
+"description":"Ostupiirkondade või ühistranspordi peatuste lähedal peaksid autojuhid arvestama suurenenud jalakäijate aktiivsuse ja ootamatute ületustega. Olge nendes piirkondades alati valvas."
+},
+{
+"id": 94,
+"englishName":"Theory",
+"category":"Jalakäijad, jalgratturid ja haavatavad liiklejad",
+"subcategory":"Jalgratturid",
+"englishSubcategory":"Cyclists",
+"description":"Kui jalgrattur sõidab tähistatud jalgrattateel, peab juht vältima sellel rajal sõitmist, välja arvatud juhul, kui see on lubatud ja ohutu."
+},
+{
+"id": 95,
+"englishName":"Theory",
+"category":"Jalakäijad, jalgratturid ja haavatavad liiklejad",
+"subcategory":"Lapsed",
+"englishSubcategory":"Children",
+"description":"Autojuhid peavad koolide läheduses olema eriti ettevaatlikud, kuna lapsed võivad käituda ettearvamatult ja liiklust valesti hinnata. Koolialadel aeglustage kiirust."
+},
+{
+"id": 96,
+"englishName":"Theory",
+"category":"Jalakäijad, jalgratturid ja haavatavad liiklejad",
+"subcategory":"Jalgratturid",
+"englishSubcategory":"Cyclists",
+"description":"Kui jalgrattur sõidab kitsa sõiduraja keskel, peaksid juhid ootama, kuni on ohutu möödasõit piisavalt suure vahega, mitte mööda vägisi sõitma."
+},
+{
+"id": 97,
+"englishName":"Theory",
+"category":"Jalakäijad, jalgratturid ja haavatavad liiklejad",
+"subcategory":"Jalakäijad",
+"englishSubcategory":"Pedestrians",
+"description":"Laste ülekäigurajal peavad autojuhid peatuma, kui lipud on heisatud ja kohal on jalakäijaid, tagades laste turvalisuse."
+},
+{
+"id": 98,
+"englishName":"Theory",
+"category":"Jalakäijad, jalgratturid ja haavatavad liiklejad",
+"subcategory":"Jalgratturid",
+"englishSubcategory":"Cyclists",
+"description":"Autojuhid peaksid enne pööramist alati kontrollima oma pimeala, kuna jalgratturid võivad märkamatult teiste kõrval sõita, eriti linnapiirkondades."
+},
+{
+"id": 99,
+"englishName":"Theory",
+"category":"Jalakäijad, jalgratturid ja haavatavad liiklejad",
+"subcategory":"Eakad ja puuetega inimesed",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Eakad jalakäijad võivad ületamiseks vajada rohkem aega, kuna nad võivad kõndida aeglasemalt või neil võib olla liikumisprobleeme. Andke neile ruumi ja aega ohutuks ületamiseks."
+},
+{
+"id": 100,
+"englishName":"Theory",
+"category":"Jalakäijad, jalgratturid ja haavatavad liiklejad",
+"subcategory":"Jalgratturid",
+"englishSubcategory":"Cyclists",
+"description":"Jalgrattureid võib ristmike lähenedes olla raskem märgata ja nad võivad kiiresti liikuda. Andke jalgratturitele alati ruumi ja aega ohutuks liiklemiseks."
+},
+{
+"id": 101,
+"englishName":"Theory",
+"category":"Eriolukorrad ja teeolud",
+"subcategory":"Koolitsoonid",
+"englishSubcategory":"School Zones",
+"description":"Koolipiirkonna kiirusepiirangud kehtivad ainult liiklusmärkidel näidatud aegadel. Laste turvalisuse tagamiseks järgige neid kindlasti."
+},
+{
+"id": 102,
+"englishName":"Theory",
+"category":"Eriolukorrad ja teeolud",
+"subcategory":"Koolitsoonid",
+"englishSubcategory":"School Zones",
+"description":"Koolialadel peavad juhid aeglustama isegi siis, kui lapsi pole näha, kuna lapsed võivad ilmuda ootamatult ja ettearvamatult."
+},
+{
+"id": 103,
+"englishName":"Theory",
+"category":"Eriolukorrad ja teeolud",
+"subcategory":"Teetööd",
+"englishSubcategory":"Roadworks",
+"description":"Teetöödele lähenedes aeglustage kiirust ja järgige ajutisi märke, et tagada töötajate ja teiste liiklejate ohutus."
+},
+{
+"id": 104,
+"englishName":"Theory",
+"category":"Eriolukorrad ja teeolud",
+"subcategory":"Teetööd",
+"englishSubcategory":"Roadworks",
+"description":"Teetööde tsoonides vähendatakse kiirusepiiranguid töötajate ohutuse tagamiseks ja teeolude muutumisega kohanemiseks."
+},
+{
+"id": 105,
+"englishName":"Theory",
+"category":"Eriolukorrad ja teeolud",
+"subcategory":"Maateed",
+"englishSubcategory":"Rural Roads",
+"description":"Maapiirkondades võivad metsloomad ootamatult teele sattuda. Maapiirkondades sõites olge alati valmis peatuma või aeglustama."
+},
+{
+"id": 106,
+"englishName":"Theory",
+"category":"Eriolukorrad ja teeolud",
+"subcategory":"Maateed",
+"englishSubcategory":"Rural Roads",
+"description":"Katmata teedel on sageli vähenenud haarduvus ja pidurdusvõime. Autojuhid peaksid katmata teedel sõites kiirust vähendama."
+},
+{
+"id": 107,
+"englishName":"Theory",
+"category":"Eriolukorrad ja teeolud",
+"subcategory":"Kiirteed",
+"englishSubcategory":"Freeways",
+"description":"Kui te jääte kiirtee väljasõidust maha, jätkake järgmise väljasõiduni ja pöörake ohutult ümber. Ärge proovige kiirteel peatuda ega tagurdada."
+},
+{
+"id": 108,
+"englishName":"Theory",
+"category":"Eriolukorrad ja teeolud",
+"subcategory":"Kiirteed",
+"englishSubcategory":"Freeways",
+"description":"Kiirteel peatumine on ebaseaduslik, välja arvatud hädaolukorras. Rikke korral kasutage alati teepeenart või väljasõiduteed."
+},
+{
+"id": 109,
+"englishName":"Theory",
+"category":"Eriolukorrad ja teeolud",
+"subcategory":"Ilmastikutingimused",
+"englishSubcategory":"Weather Conditions",
+"description":"Tugeva vihma korral vähendage kiirust ja suurendage pikivahet. Märg tee võib vähendada haarduvust ja pikendada pidurdusteekonda."
+},
+{
+"id": 110,
+"englishName":"Theory",
+"category":"Eriolukorrad ja teeolud",
+"subcategory":"Ilmastikutingimused",
+"englishSubcategory":"Weather Conditions",
+"description":"Udu vähendab nähtavust ja teesügavuse tajumist, muutes sõitmise eriti ohtlikuks. Udu korral aeglustage sõitu ja suurendage pikivahet."
+},
+{
+"id": 111,
+"englishName":"Theory",
+"category":"Avariisõidukite ja politsei juhised",
+"subcategory":"Avariisõiduk annab teed",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Kui läheneb vilkurite ja/või sireeniga hädaabisõiduk, liikuge selle teelt kõrvale ja laske sel ohutult mööduda."
+},
+{
+"id": 112,
+"englishName":"Theory",
+"category":"Avariisõidukite ja politsei juhised",
+"subcategory":"Avariisõiduk annab teed",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Kui oled valgusfoori juures ja tagant läheneb alarmsõiduk, on kõige ohutum tegutseda kõrvale, kui see on ohutu ja seaduslik, vastasel juhul püsi paigal ja lase sõidukil mööda minna, kui see on võimalik."
+},
+{
+"id": 113,
+"englishName":"Theory",
+"category":"Avariisõidukite ja politsei juhised",
+"subcategory":"Politsei juhised",
+"englishSubcategory":"Police Directions",
+"description":"Kui politseinik annab sulle märku mittevastavalt juhistele, pead sa politseiniku juhiseid järgima."
+},
+{
+"id": 114,
+"englishName":"Theory",
+"category":"Avariisõidukite ja politsei juhised",
+"subcategory":"Avariisõiduk annab teed",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Kui tee ääres peatub vilkurite saatel hädaabisõiduk, aeglustage kiirust ja sõitke ettevaatlikult mööda, liikudes ohutul juhul mööda."
+},
+{
+"id": 115,
+"englishName":"Theory",
+"category":"Avariisõidukite ja politsei juhised",
+"subcategory":"Politsei juhised",
+"englishSubcategory":"Police Directions",
+"description":"Kui politsei seab sisse ajutise teetõkke, järgige nende juhiseid ja ümbersõite."
+},
+{
+"id": 116,
+"englishName":"Theory",
+"category":"Avariisõidukite ja politsei juhised",
+"subcategory":"Avariisõiduk annab teed",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Liiklusest kiiremini läbisaamiseks ei tohiks kiirabiautole tihedalt järgneda."
+},
+{
+"id": 117,
+"englishName":"Theory",
+"category":"Avariisõidukite ja politsei juhised",
+"subcategory":"Avariisõiduk annab teed",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Kui kuuled sireeni, aga ei näe veel hädaabisõidukit, siis ole valvas, kontrolli peegleid ja ole valmis ohutult liikuma."
+},
+{
+"id": 118,
+"englishName":"Theory",
+"category":"Avariisõidukite ja politsei juhised",
+"subcategory":"Politsei juhised",
+"englishSubcategory":"Police Directions",
+"description":"Kui teetöödel liikluse reguleerija annab juhiseid, peate liikluse reguleerijale kuuletuma."
+},
+{
+"id": 119,
+"englishName":"Theory",
+"category":"Avariisõidukite ja politsei juhised",
+"subcategory":"Politsei juhised",
+"englishSubcategory":"Police Directions",
+"description":"Kui politsei käsib teil juhilubade kontrollimiseks peatuda, peatuge ohutult vastavalt juhistele."
+},
+{
+"id": 120,
+"englishName":"Theory",
+"category":"Avariisõidukite ja politsei juhised",
+"subcategory":"Avariisõiduk annab teed",
+"englishSubcategory":"Emergency Vehicle Giving Way",
+"description":"Kui sõidad ühel sõidurajal ja tagant läheneb hädaabisõiduk, anna märku ja liigu võimalusel vasakule või ohutusse kohta."
+},
+{
+"id": 121,
+"englishName":"Theory",
+"category":"Turvavööd, lapse turvasüsteemid ja reisijad",
+"subcategory":"Turvavööd",
+"englishSubcategory":"Seatbelts",
+"description":"Juht vastutab selle eest, et kõik alla 16-aastased reisijad kannaksid turvavööd."
+},
+{
+"id": 122,
+"englishName":"Theory",
+"category":"Turvavööd, lapse turvasüsteemid ja reisijad",
+"subcategory":"Turvavööd",
+"englishSubcategory":"Seatbelts",
+"description":"Turvavööd tuleb sõiduki liikumise ajal alati kinnitada, kui see on paigaldatud."
+},
+{
+"id": 123,
+"englishName":"Theory",
+"category":"Turvavööd, lapse turvasüsteemid ja reisijad",
+"subcategory":"Laste turvasüsteemid",
+"englishSubcategory":"Child Restraints",
+"description":"Lapse turvatool on vajalik, kuna see on loodud lapse keha suurusele ja kujule vastavaks ning seda kaitsma tõhusamalt kui täiskasvanute turvavöö."
+},
+{
+"id": 124,
+"englishName":"Theory",
+"category":"Turvavööd, lapse turvasüsteemid ja reisijad",
+"subcategory":"Reisijad",
+"englishSubcategory":"Passengers",
+"description":"Reisijatel on ohtlik jalgu armatuurlauale asetada, sest turvapadjad ja kokkupõrkejõud võivad põhjustada raskeid vigastusi."
+},
+{
+"id": 125,
+"englishName":"Theory",
+"category":"Turvavööd, lapse turvasüsteemid ja reisijad",
+"subcategory":"Laste turvasüsteemid",
+"englishSubcategory":"Child Restraints",
+"description":"Lapse turvatooli valimise kõige turvalisem üldreegel on kasutada sellist, mis on lapse vanusele ja suurusele heakskiidetud ja sobiv."
+},
+{
+"id": 126,
+"englishName":"Theory",
+"category":"Turvavööd, lapse turvasüsteemid ja reisijad",
+"subcategory":"Turvavööd",
+"englishSubcategory":"Seatbelts",
+"description":"Levinud märk turvavöö valesti kinnitamisest on see, kui turvavöö rihm asub käe all või selja taga."
+},
+{
+"id": 127,
+"englishName":"Theory",
+"category":"Turvavööd, lapse turvasüsteemid ja reisijad",
+"subcategory":"Reisijad",
+"englishSubcategory":"Passengers",
+"description":"Kui reisija juhi tähelepanu hajutab, on kõige ohutum paluda tal peatuda ja uuesti sõitmisele keskenduda."
+},
+{
+"id": 128,
+"englishName":"Theory",
+"category":"Turvavööd, lapse turvasüsteemid ja reisijad",
+"subcategory":"Laste turvasüsteemid",
+"englishSubcategory":"Child Restraints",
+"description":"Liikuvas sõidukis on lapse süles hoidmine ohtlik, sest avarii korral ei saa te teda kindlalt süles hoida."
+},
+{
+"id": 129,
+"englishName":"Theory",
+"category":"Turvavööd, lapse turvasüsteemid ja reisijad",
+"subcategory":"Turvavööd",
+"englishSubcategory":"Seatbelts",
+"description":"Turvavöö peaks olema kinnitatud nii, et süleosa oleks madalal üle puusade, et vähendada kõhupiirkonna vigastuste ohtu kokkupõrke korral."
+},
+{
+"id": 130,
+"englishName":"Theory",
+"category":"Turvavööd, lapse turvasüsteemid ja reisijad",
+"subcategory":"Reisijad",
+"englishSubcategory":"Passengers",
+"description":"Kinnitamata esemete salongis vedamise peamine oht on see, et need võivad kokkupõrke või järsu pidurdamise korral lennata õhku."
+},
+{
+"id": 131,
+"englishName":"Theory",
+"category":"Sõidukite ohutus, defektid ja hoolduse põhitõed",
+"subcategory":"Rehvid",
+"englishSubcategory":"Tyres",
+"description":"Õige rehvirõhk on oluline ohutuse tagamiseks, kuna see mõjutab haarduvust, pidurdamist ja roolivõimet."
+},
+{
+"id": 132,
+"englishName":"Theory",
+"category":"Sõidukite ohutus, defektid ja hoolduse põhitõed",
+"subcategory":"Pidurid",
+"englishSubcategory":"Brakes",
+"description":"Kui piduripedaal tundub käsnjas või vajub tavapärasest sügavamale, käsitle seda tõsise veana ja lase pidurid kohe üle kontrollida."
+},
+{
+"id": 133,
+"englishName":"Theory",
+"category":"Sõidukite ohutus, defektid ja hoolduse põhitõed",
+"subcategory":"Tuled ja nähtavus",
+"englishSubcategory":"Lights & Visibility",
+"description":"Kontrollige regulaarselt kõiki sõiduki tulesid, et veenduda, et näete ise ja et teised teid näevad."
+},
+{
+"id": 134,
+"englishName":"Theory",
+"category":"Sõidukite ohutus, defektid ja hoolduse põhitõed",
+"subcategory":"Rool ja vedrustus",
+"englishSubcategory":"Steering & Suspension",
+"description":"Rooliprobleemi hoiatusmärgiks võib olla ebatavaline tõmbamine, vibratsioon või roolimisraskused."
+},
+{
+"id": 135,
+"englishName":"Theory",
+"category":"Sõidukite ohutus, defektid ja hoolduse põhitõed",
+"subcategory":"Esiklaas ja kojamehed",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Kulunud klaasipuhasti labad on ohutusprobleem, kuna need vähendavad vihmas nähtavust."
+},
+{
+"id": 136,
+"englishName":"Theory",
+"category":"Sõidukite ohutus, defektid ja hoolduse põhitõed",
+"subcategory":"Rehvid",
+"englishSubcategory":"Tyres",
+"description":"Levinud märk rehvide ohtlikkusest on kulunud või ebaühtlaselt kulunud muster."
+},
+{
+"id": 137,
+"englishName":"Theory",
+"category":"Sõidukite ohutus, defektid ja hoolduse põhitõed",
+"subcategory":"Peeglid ja reguleerimine",
+"englishSubcategory":"Mirrors & Adjustment",
+"description":"Pimeala vähendamiseks ja teadlikkuse parandamiseks tuleks peeglid enne sõitmist reguleerida."
+},
+{
+"id": 138,
+"englishName":"Theory",
+"category":"Sõidukite ohutus, defektid ja hoolduse põhitõed",
+"subcategory":"Pidurid",
+"englishSubcategory":"Brakes",
+"description":"Kui teie pidurid teevad krigisevat häält, laske need esimesel võimalusel üle vaadata."
+},
+{
+"id": 139,
+"englishName":"Theory",
+"category":"Sõidukite ohutus, defektid ja hoolduse põhitõed",
+"subcategory":"Tuled ja nähtavus",
+"englishSubcategory":"Lights & Visibility",
+"description":"Kasutage halva nähtavuse korral esitulesid alati, kui need on hämardunud, et teised teid näeksid."
+},
+{
+"id": 140,
+"englishName":"Theory",
+"category":"Sõidukite ohutus, defektid ja hoolduse põhitõed",
+"subcategory":"Esiklaas ja kojamehed",
+"englishSubcategory":"Windscreen & Wipers",
+"description":"Kui teie esiklaas on teie vaateväljas tugevalt pragunenud, parandage või vahetage see enne edasist sõitmist."
+},
+{
+"id": 141,
+"englishName":"Theory",
+"category":"Koormad, pukseerimine ja raskeveokite teadlikkus",
+"subcategory":"Koormad",
+"englishSubcategory":"Loads",
+"description":"Koormad tuleb korralikult kinnitada, et vältida nende nihkumist või kukkumist ning avariide tekkimist."
+},
+{
+"id": 142,
+"englishName":"Theory",
+"category":"Koormad, pukseerimine ja raskeveokite teadlikkus",
+"subcategory":"Koormad",
+"englishSubcategory":"Loads",
+"description":"Sõidukis olev kinnitamata koorem võib järsu pidurdamise ajal heitekehaks muutuda, kujutades endast märkimisväärset ohutusriski."
+},
+{
+"id": 143,
+"englishName":"Theory",
+"category":"Koormad, pukseerimine ja raskeveokite teadlikkus",
+"subcategory":"Koormad",
+"englishSubcategory":"Loads",
+"description":"Ülekoormatud sõiduki vedamine mõjutab pidurdamist, suurendades peatumisteekonda."
+},
+{
+"id": 144,
+"englishName":"Theory",
+"category":"Koormad, pukseerimine ja raskeveokite teadlikkus",
+"subcategory":"Koormad",
+"englishSubcategory":"Loads",
+"description":"Pikkade esemete vedamise kõige ohutum viis on need kinnitada nii, et need ei saaks ohtlikult liikuda ega välja ulatuda."
+},
+{
+"id": 145,
+"englishName":"Theory",
+"category":"Koormad, pukseerimine ja raskeveokite teadlikkus",
+"subcategory":"Pukseerimine",
+"englishSubcategory":"Towing",
+"description":"Haagise vedamine pikendab pidurdusteekonda, kuna lisakaal vähendab pidurdustõhusust."
+},
+{
+"id": 146,
+"englishName":"Theory",
+"category":"Koormad, pukseerimine ja raskeveokite teadlikkus",
+"subcategory":"Pukseerimine",
+"englishSubcategory":"Towing",
+"description":"Enne haagise vedamist kontrollige, kas haakeseadis, tuled ja turvakett on kindlalt kinnitatud."
+},
+{
+"id": 147,
+"englishName":"Theory",
+"category":"Koormad, pukseerimine ja raskeveokite teadlikkus",
+"subcategory":"Pukseerimine",
+"englishSubcategory":"Towing",
+"description":"Haagise vedamisel pööramisel jätke rohkem ruumi, kuna see liigub pöördetrajektoori sees."
+},
+{
+"id": 148,
+"englishName":"Theory",
+"category":"Koormad, pukseerimine ja raskeveokite teadlikkus",
+"subcategory":"Koormad",
+"englishSubcategory":"Loads",
+"description":"Koorem, mis varjab tahavaadet, vähendab teadlikkust tagant tulevast liiklusest, suurendades õnnetuste ohtu."
+},
+{
+"id": 149,
+"englishName":"Theory",
+"category":"Koormad, pukseerimine ja raskeveokite teadlikkus",
+"subcategory":"Raskeveokid",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Raskeveokid vajavad peatumiseks rohkem ruumi, kuna nende suurem mass suurendab pidurdusteekonda."
+},
+{
+"id": 150,
+"englishName":"Theory",
+"category":"Koormad, pukseerimine ja raskeveokite teadlikkus",
+"subcategory":"Raskeveokid",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Suure veoauto järel sõites suurendage pikivahet, et arvestada pimeala ja veoauto pikema pidurdusteekonnaga."
+},
+{
+"id": 151,
+"englishName":"Theory",
+"category":"Litsentseerimine, vaba/vajaliku löögi reeglid ja praktilised DKT-lõksud (VIC)",
+"subcategory":"Õppija loa reeglid",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Victoria osariigis õppiva juhina on teil lubatud autot juhtida ainult siis, kui teie kõrval istub vastava litsentseeritud juht."
+},
+{
+"id": 152,
+"englishName":"Theory",
+"category":"Litsentseerimine, vaba/vajaliku löögi reeglid ja praktilised DKT-lõksud (VIC)",
+"subcategory":"Õppija loa reeglid",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Õppivad juhid peavad oma L-numbrimärgid selgelt välja panema, et need oleksid teistele sõidukis viibijatele kogu aeg nähtavad."
+},
+{
+"id": 153,
+"englishName":"Theory",
+"category":"Litsentseerimine, vaba/vajaliku löögi reeglid ja praktilised DKT-lõksud (VIC)",
+"subcategory":"Õppija loa reeglid",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Kui teie juhendav juht jääb sõidu ajal magama, peatuge ohutult ja ärge jätkake sõitu enne, kui olete saanud nõuetekohast järelevalvet."
+},
+{
+"id": 154,
+"englishName":"Theory",
+"category":"Litsentseerimine, vaba/vajaliku löögi reeglid ja praktilised DKT-lõksud (VIC)",
+"subcategory":"Mobiiltelefonid ja -seadmed",
+"englishSubcategory":"Mobile Phones & Devices",
+"description":"Õppiva juhina Victorias ei ole teil lubatud mobiiltelefoni sõidu ajal mingil viisil kasutada."
+},
+{
+"id": 155,
+"englishName":"Theory",
+"category":"Litsentseerimine, vaba/vajaliku löögi reeglid ja praktilised DKT-lõksud (VIC)",
+"subcategory":"Õppija loa reeglid",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Kui teie L-numbrimärgid sõidu ajal maha kukuvad, peatuge enne sõidu jätkamist ohutult ja paigaldage need tagasi."
+},
+{
+"id": 156,
+"englishName":"Theory",
+"category":"Litsentseerimine, vaba/vajaliku löögi reeglid ja praktilised DKT-lõksud (VIC)",
+"subcategory":"Järelevalve",
+"englishSubcategory":"Supervision",
+"description":"Õppija järelevalve eeskirjade peamine ohutuseesmärk on tagada, et kogenud juht saaks vajadusel juhendada ja sekkuda."
+},
+{
+"id": 157,
+"englishName":"Theory",
+"category":"Litsentseerimine, vaba/vajaliku löögi reeglid ja praktilised DKT-lõksud (VIC)",
+"subcategory":"Tingimused ja vastavus",
+"englishSubcategory":"Conditions & Compliance",
+"description":"Kui õppiv juht tabatakse roolis ilma nõutava järelevalveta, on karistused ja võimalikud juhiloaga seotud tagajärjed tõenäolised."
+},
+{
+"id": 158,
+"englishName":"Theory",
+"category":"Litsentseerimine, vaba/vajaliku löögi reeglid ja praktilised DKT-lõksud (VIC)",
+"subcategory":"Ohu tajumine",
+"englishSubcategory":"Hazard Perception",
+"description":"Õppivate juhtide seas ristmikel on tavaline lõks see, et nad pööravad ilma teed ületavaid jalakäijaid kontrollimata."
+},
+{
+"id": 159,
+"englishName":"Theory",
+"category":"Litsentseerimine, vaba/vajaliku löögi reeglid ja praktilised DKT-lõksud (VIC)",
+"subcategory":"Ohu tajumine",
+"englishSubcategory":"Hazard Perception",
+"description":"Isegi rohelise tule korral peate aeglustama või peatuma, kui ees on liiklusummikuid või jalakäijad ületavad teed."
+},
+{
+"id": 160,
+"englishName":"Theory",
+"category":"Litsentseerimine, vaba/vajaliku löögi reeglid ja praktilised DKT-lõksud (VIC)",
+"subcategory":"Õppija loa reeglid",
+"englishSubcategory":"Learner Permit Rules",
+"description":"Kui juhendate õppijat, peaks juhendav juht alati istuma kõrvalistmel."
+}
+]
