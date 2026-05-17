@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Procédure de panne",
+"description":"Si votre véhicule tombe en panne sur la route, utilisez vos feux de détresse et, si possible, éloignez-vous de la chaussée."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Arrêt de bus",
+"description":"Lorsqu'un bus signale son départ d'un arrêt de bus en zone urbaine, vous devez lui céder le passage si la limitation de vitesse est de 70 km/h ou moins."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Entrée de l'allée ou du parking",
+"description":"Le conducteur qui s'engage sur la route depuis une allée ou un parking doit céder le passage aux véhicules déjà présents sur la chaussée."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Obligation de posséder un permis de conduire",
+"description":"Vous devez avoir votre permis de conduire sur vous ou être en mesure de le présenter sur demande."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Passage de véhicules d'urgence",
+"description":"Lorsque vous dépassez des véhicules d'urgence stationnés avec leurs gyrophares allumés, ralentissez et faites preuve de prudence."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Feu rouge clignotant",
+"description":"Un feu rouge clignotant vous oblige à vous arrêter et à repartir lorsque c'est possible en toute sécurité."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Feu de circulation jaune clignotant",
+"description":"Un feu de circulation jaune clignotant signifie que vous pouvez avancer avec prudence."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Conduite en eaux de crue",
+"description":"Ne traversez pas une zone inondée en voiture si la profondeur ou la sécurité sont incertaines."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Panneau « Cédez le passage »",
+"description":"À l'approche d'un panneau « cédez le passage », vous devez ralentir et céder le passage à tous les véhicules venant en sens inverse."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Céder le passage aux intersections",
+"description":"À une intersection non régulée, vous devez céder le passage aux véhicules venant de votre droite."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Flèche verte vers la gauche",
+"description":"Une flèche verte tournant à gauche aux feux de circulation signifie que vous pouvez tourner à gauche sans céder le passage."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Utilisation des phares",
+"description":"Vous devez utiliser vos phares entre le coucher et le lever du soleil ou lorsque la visibilité est mauvaise."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Procédures de défaillance des indicateurs",
+"description":"Si vos clignotants tombent en panne, utilisez des signaux manuels lorsque c'est possible et procédez avec prudence."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Règles pour les conducteurs débutants",
+"description":"Les conducteurs en apprentissage doivent afficher en permanence un panneau « L » lorsqu'ils conduisent afin d'informer les autres usagers de la route de leur statut d'apprenti conducteur."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Utilisation du téléphone portable au volant",
+"description":"Vous ne pouvez utiliser légalement un téléphone portable au volant que si le véhicule est stationné légalement."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Règles de conduite sur les bandes naturelles",
+"description":"Il est interdit de circuler sur un accotement, sauf pour accéder à une allée carrossable."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Reprendre ses responsabilités",
+"description":"Le conducteur qui effectue le dépassement est responsable de s'assurer que le dépassement est sans danger."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Instructions des agents de police",
+"description":"Lorsque vous recevez l'ordre de vous arrêter d'un agent de police, vous devez vous arrêter dès que cela est sans danger."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Passage à niveau",
+"description":"À un passage à niveau avec feux rouges clignotants, vous devez vous arrêter et attendre que les feux cessent de clignoter."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Règles des feux rouges",
+"description":"À un feu rouge, vous devez vous arrêter et rester arrêté jusqu'à ce que le feu passe au vert."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Tournez à droite à l'intersection",
+"description":"Lorsque les deux véhicules tournent à droite à une intersection, aucun des deux véhicules n'est tenu de céder le passage si leurs trajectoires ne se croisent pas."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Entrée du rond-point",
+"description":"À l'entrée d'un rond-point, cédez le passage aux véhicules déjà engagés."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Règles d'entrée du rond-point",
+"description":"Lorsque deux véhicules arrivent en même temps à un rond-point, le véhicule qui s'y engage doit céder le passage au véhicule venant de sa droite."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Entrée de la circulation sur l'accotement",
+"description":"Lorsqu'un conducteur s'insère dans la circulation depuis l'accotement, il doit céder le passage."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Ligne d'arrêt aux intersections",
+"description":"À l'approche d'une intersection comportant une ligne d'arrêt, vous devez vous arrêter complètement à la ligne."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Procédures relatives aux panneaux d'arrêt",
+"description":"À l'approche d'un panneau d'arrêt, vous devez vous arrêter complètement et céder le passage à tous les véhicules."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Règles relatives aux intersections en T",
+"description":"À une intersection en T sans signalisation, le conducteur venant de la voie qui aboutit doit céder le passage."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Passage piétonnier sur îlot",
+"description":"Vous êtes autorisé à traverser un îlot de circulation peint lorsque celui-ci est discontinu et que la traversée peut se faire en toute sécurité."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Panneau de signalisation vs marquage routier",
+"description":"En cas de conflit entre un panneau de signalisation et un marquage routier, suivez le panneau de signalisation."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Règles de priorité en cas de demi-tour",
+"description":"Lors d'un demi-tour, le véhicule qui effectue le demi-tour doit céder le passage aux véhicules venant en sens inverse."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Demi-tour aux feux de circulation",
+"description":"Vous pouvez faire demi-tour aux feux de circulation si cela est sûr et légal."
+}
+]

@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Utaratibu wa Uchanganuzi",
+"description":"Ikiwa gari lako litaharibika barabarani, tumia taa za hatari na uondoke barabarani ikiwezekana."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Kuondoka kwenye Kituo cha Basi",
+"description":"Basi linapoashiria kuondoka kwenye kituo cha basi katika eneo lililojengwa, lazima utoe njia ikiwa kikomo cha kasi ni kilomita 70 kwa saa au chini ya hapo."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Kiingilio cha Barabara au Hifadhi ya Magari",
+"description":"Dereva anayeingia barabarani kutoka kwenye njia ya kuingilia au maegesho ya magari lazima aachie njia magari ambayo tayari yapo barabarani."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Mahitaji ya Kubeba Leseni ya Udereva",
+"description":"Lazima ubebe leseni yako ya udereva au uweze kuiwasilisha inapohitajika."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Kupita kwa Gari la Dharura",
+"description":"Unapopita magari ya dharura yasiyosimama yenye taa zinazowaka, punguza mwendo na endelea kwa tahadhari."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Taa Nyekundu ya Trafiki Inayowaka",
+"description":"Taa nyekundu inayowaka inakuhitaji kusimama na kuendelea ukiwa salama."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Taa ya Trafiki ya Njano Inayowaka",
+"description":"Taa ya trafiki ya manjano inayowaka ina maana kwamba unaweza kuendelea kwa tahadhari."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Kuendesha Gari kwa Maji ya Mafuriko",
+"description":"Usiendeshe gari kupitia maji ya mafuriko ikiwa kina au usalama haujulikani."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Ishara ya Njia ya Kutoa",
+"description":"Unapokaribia ishara ya njia ya kutoa njia, lazima upunguze mwendo na kutoa nafasi kwa trafiki yote inayokinzana."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Kutoa Njia Katika Makutano",
+"description":"Katika makutano yasiyodhibitiwa, lazima utoe njia kwa magari yanayokuja kutoka kulia kwako."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Mshale wa Kushoto wa Kijani",
+"description":"Mshale wa kijani kibichi kushoto kwenye taa za trafiki unamaanisha unaweza kugeuka kushoto bila kuacha njia."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Matumizi ya Taa za Juu",
+"description":"Lazima utumie taa za mbele kati ya machweo na machweo au wakati mwangaza ni mdogo."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Taratibu za Kushindwa kwa Kiashiria",
+"description":"Ikiwa viashiria vyako havifanyi kazi, tumia ishara za mkono inapowezekana na uendelee kwa uangalifu."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Sheria za Udereva wa Mwanafunzi",
+"description":"Madereva wanaojifunza lazima waonyeshe plate za L wakati wote wanapoendesha gari ili kuwafahamisha watumiaji wengine wa barabara kuhusu hali yao ya kujifunza."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Matumizi ya Simu ya Mkononi Unapoendesha Gari",
+"description":"Unaweza kutumia simu ya mkononi kisheria tu unapoendesha gari ikiwa gari limeegeshwa kisheria."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Sheria za Kuendesha Gari la Asili kwa Ukanda wa Asili",
+"description":"Kuendesha gari kwenye ukanda wa asili ni kinyume cha sheria isipokuwa kuvuka ili kufikia njia ya kuingilia."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Kuzidi Majukumu",
+"description":"Dereva anayepita ana jukumu la kuhakikisha kuwa ni salama kupita."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Maagizo ya Afisa wa Polisi",
+"description":"Unapoagizwa na afisa wa polisi kusimama, lazima usimame mara tu inapokuwa salama."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Kivuko cha Reli",
+"description":"Katika kivuko cha reli chenye taa nyekundu zinazowaka, lazima usimame na usubiri hadi taa ziache kuwaka."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Sheria za Taa Nyekundu za Trafiki",
+"description":"Kwenye taa nyekundu ya trafiki, lazima usimame na ubaki umesimama hadi taa ibadilike."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Pinduka Kulia Kwenye Makutano",
+"description":"Wakati magari yote mawili yanapogeuka kulia kwenye makutano, hakuna gari linalopaswa kuacha njia ikiwa njia zao hazivuki."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Kiingilio cha Mzunguko",
+"description":"Unapoingia kwenye mzunguko, acha magari yaingie kwenye mzunguko."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Sheria za Kuingia Mzunguko",
+"description":"Magari mawili yanapofika kwenye mzunguko kwa wakati mmoja, gari linaloingia lazima litoe njia kwa gari lililo upande wa kulia."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Kuingia kwa Trafiki kwa Mabega",
+"description":"Wakati wa kuingia kwenye trafiki kutoka begani, dereva anayeingia kwenye trafiki lazima aache njia."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Mstari wa Kusimama kwenye Makutano",
+"description":"Unapokaribia makutano na mstari wa kusimama, lazima usimame kabisa kwenye mstari."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Taratibu za Ishara za Kusimama",
+"description":"Unapokaribia ishara ya kusimama, lazima usimame kabisa na utoe nafasi kwa trafiki yote."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Sheria za Makutano ya T",
+"description":"Katika makutano ya T bila ishara, dereva aliye kwenye barabara inayoishia lazima aache njia."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Kivuko cha Kisiwa cha Trafiki",
+"description":"Unaruhusiwa kuendesha gari kuvuka kisiwa cha trafiki kilichopakwa rangi wakati kimeharibika na ni salama kufanya hivyo."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Ishara za Trafiki dhidi ya Alama za Barabarani",
+"description":"Ikiwa ishara ya trafiki inapingana na alama ya barabarani, fuata ishara ya trafiki."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Sheria za Kutoa Njia ya U-Turn",
+"description":"Wakati wa kugeuza U, gari linalogeuza U lazima litoe nafasi kwa magari yanayokuja."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Mageuzi ya U kwenye Taa za Trafiki",
+"description":"Unaweza kugeuka U kwenye taa za trafiki ikiwa ni salama na halali kufanya hivyo."
+}
+]

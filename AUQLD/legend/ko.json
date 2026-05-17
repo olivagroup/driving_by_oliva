@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"분해 절차",
+"description":"차량이 도로에서 고장 나면 비상등을 켜고 가능하면 도로 밖으로 이동하십시오."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"버스 정류장 출발",
+"description":"시가지에서 버스가 정류장을 출발한다는 신호를 보낼 때, 제한 속도가 시속 70km 이하이면 양보해야 합니다."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"진입로 또는 주차장 입구",
+"description":"진입로나 주차장에서 도로로 진입하는 운전자는 이미 도로에 있는 차량에게 양보해야 합니다."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"운전면허증 소지 요건",
+"description":"운전면허증을 소지하거나 요청 시 제시할 수 있어야 합니다."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"긴급 차량 통과 중",
+"description":"정지해 있는 비상 차량을 지나갈 때는 속도를 줄이고 주의해서 진행하십시오."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"깜빡이는 빨간 신호등",
+"description":"깜빡이는 빨간색 신호등은 정지하라는 신호이며, 안전한 시점에 진행해야 합니다."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"깜빡이는 노란색 신호등",
+"description":"깜빡이는 노란색 신호등은 주의해서 진행해도 된다는 뜻입니다."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"홍수 속 운전",
+"description":"수심이나 안전성이 불확실한 경우, 침수된 도로를 차량으로 통과하지 마십시오."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"양보 표지판",
+"description":"양보 표지판에 접근할 때는 속도를 줄이고 마주 오는 모든 차량에게 양보해야 합니다."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"교차로에서 양보하기",
+"description":"신호등이 없는 교차로에서는 오른쪽에서 접근하는 차량에 양보해야 합니다."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"녹색 왼쪽 화살표",
+"description":"신호등에서 좌회전 화살표가 녹색이면 양보하지 않고 좌회전할 수 있습니다."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"전조등 사용",
+"description":"일몰부터 일출까지 또는 시야가 좋지 않을 때는 반드시 전조등을 켜야 합니다."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"지표 오류 처리 절차",
+"description":"방향지시등이 작동하지 않으면 가능한 한 수신호를 사용하고 조심스럽게 진행하십시오."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"운전 연수생 규칙",
+"description":"운전 연수생은 다른 도로 이용자들에게 자신이 운전 연수생임을 알리기 위해 운전 중 항상 L자형 표지판을 부착해야 합니다."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"운전 중 휴대전화 사용",
+"description":"운전 중 휴대전화를 사용하는 것은 차량이 합법적으로 주차된 경우에만 허용됩니다."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"녹지대 주행 규칙",
+"description":"도로변 녹지대에서 차량 운행은 불법이며, 진입로로 들어가기 위해 녹지대를 가로지르는 경우는 예외입니다."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"책임 추월",
+"description":"추월하는 운전자는 추월이 안전한지 확인해야 할 책임이 있습니다."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"경찰관 지침",
+"description":"경찰관의 정지 지시를 받으면 안전이 확보되는 즉시 정지해야 합니다."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"철도 건널목",
+"description":"깜빡이는 빨간불이 있는 철도 건널목에서는 정지하고 불빛이 멈출 때까지 기다려야 합니다."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"빨간불 신호등 규칙",
+"description":"빨간불일 때는 신호등이 바뀔 때까지 정지해야 합니다."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"교차로에서 우회전",
+"description":"교차로에서 두 차량 모두 우회전할 때, 두 차량의 경로가 겹치지 않는다면 어느 차량도 양보할 필요가 없습니다."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"로터리 진입로",
+"description":"로터리에 진입할 때는 이미 로터리 안에 있는 차량에게 양보하십시오."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"로터리 진입 규칙",
+"description":"두 차량이 동시에 로터리에 진입할 경우, 진입하는 차량은 오른쪽에 있는 차량에게 양보해야 합니다."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"갓길 교통 진입",
+"description":"갓길에서 차선으로 진입할 때는 진입하는 운전자가 양보해야 합니다."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"교차로 정지선",
+"description":"정지선이 있는 교차로에 접근할 때는 정지선에서 완전히 정지해야 합니다."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"정지 표지판 절차",
+"description":"정지 표지판에 접근할 때는 완전히 정지하고 모든 차량에 양보해야 합니다."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"T자형 교차로 규칙",
+"description":"표지판이 없는 T자형 교차로에서는 진출입로 쪽 운전자가 양보해야 합니다."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"교통섬 횡단보도",
+"description":"점선으로 표시된 교통섬을 가로질러 운전하는 것은 안전할 경우에만 허용됩니다."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"교통 표지판 vs 도로 표시",
+"description":"교통 표지판과 도로 표시가 상충될 경우, 교통 표지판을 따르십시오."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"유턴 시 양보 규칙",
+"description":"유턴을 할 때는 유턴하는 차량이 마주 오는 차량에 양보해야 합니다."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"신호등에서의 유턴",
+"description":"안전하고 합법적인 경우 신호등에서 유턴할 수 있습니다."
+}
+]

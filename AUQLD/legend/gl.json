@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Procedemento de desglose",
+"description":"Se o seu vehículo se avaría nunha estrada, use as luces de emerxencia e saia da estrada se é posible."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Saída da parada de autobús",
+"description":"Cando un autobús faga o sinal para saír dunha parada nunha zona urbanizada, debes ceder o paso se o límite de velocidade é de 70 km/h ou menos."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Entrada de garaxe ou aparcadoiro",
+"description":"O condutor que se incorpora á estrada desde un acceso para vehículos ou aparcadoiro debe ceder o paso aos vehículos que xa circulen pola estrada."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Requisito de ter o permiso de conducir",
+"description":"Debe levar o seu permiso de conducir ou poder presentalo cando cho soliciten."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Adiantado de vehículos de emerxencia",
+"description":"Ao adiantar vehículos de emerxencia parados con luces intermitentes, reduza a velocidade e continúe con precaución."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Semáforo vermello intermitente",
+"description":"Un semáforo vermello intermitente obriga a parar e continuar cando sexa seguro."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Semáforo amarelo intermitente",
+"description":"Un semáforo amarelo intermitente significa que podes circular con precaución."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Condución por inundacións",
+"description":"Non conduza por augas inundables se a profundidade ou a seguridade son incertas."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Sinal de ceder o paso",
+"description":"Ao achegarse a un sinal de ceda o paso, debe reducir a velocidade e ceder o paso a todo o tráfico que estea en conflito."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Cedendo o paso nas interseccións",
+"description":"Nun cruzamento sen control, debes ceder o paso aos vehículos que se achegan pola túa dereita."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Frecha verde á esquerda",
+"description":"Unha frecha verde á esquerda nos semáforos significa que podes xirar á esquerda sen ceder o paso."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Uso dos faros",
+"description":"Debes usar os faros entre o solpor e o amencer ou cando a visibilidade sexa mala."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Procedementos de fallo do indicador",
+"description":"Se os indicadores fallan, use sinais manuais sempre que sexa posible e proceda con precaución."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Normas para condutores principiantes",
+"description":"Os condutores aprendices deben mostrar as placas L en todo momento mentres conducen para informar aos demais usuarios da estrada da súa condición de aprendiz."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Uso do teléfono móbil mentres se conduce",
+"description":"Só podes usar legalmente un teléfono móbil mentres conduces se o vehículo está aparcado legalmente."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Normas de condución en franxas naturais",
+"description":"Conducir por unha franxa natural é ilegal a non ser que a cruce para acceder a un camiño de entrada."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Responsabilidade de adiantamento",
+"description":"O condutor que adianta é responsable de garantir que sexa seguro adiantalo."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Instrucións para axentes de policía",
+"description":"Cando un axente de policía che indique que pares, debes parar canto antes sexa seguro."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Paso a nivel de ferrocarril",
+"description":"Nun paso a nivel de ferrocarril con luces vermellas intermitentes, debes deterte e agardar a que as luces deixen de intermitentes."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Normas de semáforo en vermello",
+"description":"Nun semáforo en vermello, debes deterte e permanecer parado ata que cambie o semáforo."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Xiro á dereita na intersección",
+"description":"Cando ambos vehículos xiran á dereita nun cruzamento, ningún dos vehículos debe ceder o paso se as súas vías non se cruzan."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Entrada á rotonda",
+"description":"Ao entrar nunha rotonda, cede o paso aos vehículos que xa estean nela."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Normas de acceso ás rotondas",
+"description":"Cando dous vehículos chegan a unha rotonda ao mesmo tempo, o vehículo que entra debe ceder o paso ao vehículo da dereita."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Entrada de tráfico no arcén",
+"description":"Ao entrar na circulación por un arcén, o condutor que se incorpora debe ceder o paso."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Liña de parada nas interseccións",
+"description":"Ao achegarse a unha intersección cunha liña de parada, debe deterse completamente na liña."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Procedementos de sinalización de stop",
+"description":"Ao achegarse a un sinal de stop, debe deterse completamente e ceder o paso a todo o tráfico."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Regras de intersección en T",
+"description":"Nun cruzamento en T sen sinalización, o condutor da estrada final debe ceder o paso."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Paso de tráfico na illa",
+"description":"Permítese cruzar unha illa de tráfico pintada cando teña liña discontinua e sexa seguro facelo."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Sinalización de tráfico vs. sinalización viaria",
+"description":"Se un sinal de tráfico entra en conflito cunha sinalización viaria, siga o sinal de tráfico."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Normas de ceder o paso en U",
+"description":"Ao facer un xiro en U, o vehículo que o fai debe ceder o paso aos vehículos que veñen de fronte."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Xiros en U nos semáforos",
+"description":"Podes facer unha volta en U nos semáforos se é seguro e legal facelo."
+}
+]

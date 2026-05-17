@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Aufschlüsselungsverfahren",
+"description":"Wenn Ihr Fahrzeug auf der Straße eine Panne hat, schalten Sie die Warnblinkanlage ein und verlassen Sie, wenn möglich, die Straße."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Bushaltestelle verlassen",
+"description":"Wenn ein Bus in einem bebauten Gebiet ein Signal zum Verlassen einer Bushaltestelle gibt, müssen Sie ihm Vorfahrt gewähren, wenn die zulässige Höchstgeschwindigkeit 70 km/h oder weniger beträgt."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Einfahrt oder Parkplatzeingang",
+"description":"Der Fahrer, der von einer Einfahrt oder einem Parkplatz auf die Straße einbiegt, muss den bereits auf der Straße befindlichen Fahrzeugen Vorfahrt gewähren."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Führerscheinpflicht",
+"description":"Sie müssen Ihren Führerschein mit sich führen oder ihn auf Verlangen vorzeigen können."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Vorbeifahrende Einsatzfahrzeuge",
+"description":"Beim Vorbeifahren an stehenden Einsatzfahrzeugen mit eingeschaltetem Blaulicht die Geschwindigkeit reduzieren und vorsichtig weiterfahren."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Blinkende rote Ampel",
+"description":"Bei blinkender roter Ampel müssen Sie anhalten und erst weiterfahren, wenn es sicher ist."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Blinkendes gelbes Verkehrslicht",
+"description":"Eine blinkende gelbe Ampel bedeutet, dass Sie vorsichtig weiterfahren dürfen."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Hochwasserfahrt",
+"description":"Fahren Sie nicht durch Hochwasser, wenn die Tiefe oder die Sicherheit unklar ist."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Vorfahrt gewähren Schild",
+"description":"Wenn Sie sich einem Vorfahrt-achten-Schild nähern, müssen Sie Ihre Geschwindigkeit reduzieren und allen entgegenkommenden Fahrzeugen Vorfahrt gewähren."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Vorfahrt gewähren an Kreuzungen",
+"description":"An einer unbeschilderten Kreuzung müssen Sie Fahrzeugen, die von rechts kommen, Vorfahrt gewähren."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Grüner Pfeil nach links",
+"description":"Ein grüner Linksabbiegepfeil an einer Ampel bedeutet, dass Sie links abbiegen dürfen, ohne die Vorfahrt zu beachten."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Scheinwerfernutzung",
+"description":"Sie müssen zwischen Sonnenuntergang und Sonnenaufgang oder bei schlechter Sicht die Scheinwerfer benutzen."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Verfahren bei Indikatorausfällen",
+"description":"Falls Ihre Indikatoren versagen, verwenden Sie nach Möglichkeit Handzeichen und gehen Sie vorsichtig vor."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Regeln für Fahrschüler",
+"description":"Fahrschüler müssen während der gesamten Fahrt ein L-Schild anbringen, um andere Verkehrsteilnehmer über ihren Lernstatus zu informieren."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Handynutzung während der Fahrt",
+"description":"Die Benutzung eines Mobiltelefons während der Fahrt ist nur dann legal, wenn das Fahrzeug ordnungsgemäß geparkt ist."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Fahrregeln für Naturstreifen",
+"description":"Das Befahren eines Grünstreifens ist verboten, es sei denn, man überquert ihn, um zu einer Einfahrt zu gelangen."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Überholverantwortung",
+"description":"Der überholende Fahrer ist dafür verantwortlich, dass das Überholmanöver sicher ist."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Anweisungen für Polizeibeamte",
+"description":"Wenn Sie von einem Polizeibeamten zum Anhalten aufgefordert werden, müssen Sie anhalten, sobald dies gefahrlos möglich ist."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Bahnübergang",
+"description":"An einem Bahnübergang mit blinkenden roten Lichtern müssen Sie anhalten und warten, bis die Lichter aufhören zu blinken."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Regeln für rote Ampeln",
+"description":"Bei roter Ampel müssen Sie anhalten und so lange stehen bleiben, bis die Ampel auf Grün schaltet."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Rechtsabbiegen an der Kreuzung",
+"description":"Wenn beide Fahrzeuge an einer Kreuzung rechts abbiegen, muss keines der Fahrzeuge Vorfahrt gewähren, wenn sich ihre Fahrspuren nicht kreuzen."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Einfahrt zum Kreisverkehr",
+"description":"Beim Einfahren in einen Kreisverkehr ist den Fahrzeugen, die sich bereits im Kreisverkehr befinden, Vorfahrt zu gewähren."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Einfahrtsregeln für Kreisverkehre",
+"description":"Wenn zwei Fahrzeuge gleichzeitig in einen Kreisverkehr einfahren, muss das einfahrende Fahrzeug dem Fahrzeug von rechts Vorfahrt gewähren."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Einfahrt zum Seitenstreifen",
+"description":"Beim Einfahren in den fließenden Verkehr von der Seitenstraße muss der einfahrende Fahrer Vorfahrt gewähren."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Haltelinie an Kreuzungen",
+"description":"Wenn Sie sich einer Kreuzung mit einer Haltelinie nähern, müssen Sie an der Linie vollständig anhalten."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Vorgehensweise bei Stoppschildern",
+"description":"Wenn Sie sich einem Stoppschild nähern, müssen Sie vollständig anhalten und allen anderen Verkehrsteilnehmern Vorfahrt gewähren."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Regeln für T-Kreuzungen",
+"description":"An einer T-Kreuzung ohne Beschilderung muss der Fahrer auf der abzweigenden Straße Vorfahrt gewähren."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Verkehrsinsel-Überquerung",
+"description":"Sie dürfen eine markierte Verkehrsinsel überfahren, wenn diese gestrichelt ist und dies gefahrlos möglich ist."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Verkehrszeichen vs. Straßenmarkierung",
+"description":"Im Falle eines Widerspruchs zwischen Verkehrszeichen und Fahrbahnmarkierung ist das Verkehrszeichen maßgebend."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Wenderegeln",
+"description":"Beim Wenden muss das wendende Fahrzeug entgegenkommenden Fahrzeugen Vorfahrt gewähren."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Wenden an Ampeln",
+"description":"An Ampeln dürfen Sie wenden, sofern dies sicher und legal möglich ist."
+}
+]

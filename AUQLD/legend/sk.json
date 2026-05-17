@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Postup pri poruche",
+"description":"Ak sa vám na ceste pokazí vozidlo, použite výstražné svetlá a ak je to možné, zíďte z cesty."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Odchod z autobusovej zastávky",
+"description":"Keď autobus dáva znamenie na opustenie autobusovej zastávky v zastavanej oblasti, musíte dať prednosť, ak je povolená rýchlosť 70 km/h alebo menej."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Vjazd na príjazdovú cestu alebo na parkovisko",
+"description":"Vodič vchádzajúci na cestu z príjazdovej cesty alebo parkoviska musí dať prednosť vozidlám, ktoré už sú na ceste."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Požiadavka na vodičský preukaz",
+"description":"Musíte mať pri sebe vodičský preukaz alebo ho byť schopný predložiť na požiadanie."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Prejazd záchranného vozidla",
+"description":"Pri míňaní stojacich vozidiel záchrannej služby s blikajúcimi svetlami spomaľte a pokračujte opatrne."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Blikajúce červené semaforové svetlo",
+"description":"Blikajúce červené svetlo na semafore vás vyzýva, aby ste zastavili a pokračovali v jazde, keď je to bezpečné."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Blikajúce žlté semaforové svetlo",
+"description":"Blikajúce žlté svetlo na semafore znamená, že môžete pokračovať opatrne."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Povodňová voda pri jazde",
+"description":"Nejazdite cez záplavovú vodu, ak je jej hĺbka alebo bezpečnosť neistá."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Daj prednosť v jazde",
+"description":"Pri priblížení sa k značke „daj prednosť v jazde“ musíte spomaliť a dať prednosť všetkým premávkam idúcim v protismere."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Dať prednosť na križovatkách",
+"description":"Na neriadenej križovatke musíte dať prednosť vozidlám prichádzajúcim z pravej strany."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Zelená šípka doľava",
+"description":"Zelená šípka doľava na semaforoch znamená, že môžete odbočiť doľava bez toho, aby ste dali prednosť v jazde."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Použitie svetlometov",
+"description":"Svetlá musíte používať medzi západom slnka a východom slnka alebo pri slabej viditeľnosti."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Postupy pri poruche indikátora",
+"description":"Ak vám zlyhávajú smerovky, používajte podľa možnosti ručné signály a postupujte opatrne."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Pravidlá pre študentov vodičského preukazu",
+"description":"Vodiči-učiaci sa musia počas jazdy vždy nosiť evidenčné tabuľky s označením L, aby informovali ostatných účastníkov cestnej premávky o svojom štatúte vodiča-učiteľa."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Používanie mobilného telefónu počas jazdy",
+"description":"Mobilný telefón smiete počas jazdy používať iba vtedy, ak je vozidlo legálne zaparkované."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Pravidlá premávky na prírodnom páse",
+"description":"Jazda na prírodnom páse je nezákonná, pokiaľ ho neprechádzate kvôli prístupu na príjazdovú cestu."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Prevzatie zodpovednosti",
+"description":"Predbiehajúci vodič je zodpovedný za zabezpečenie bezpečného predbiehania."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Pokyny policajného dôstojníka",
+"description":"Keď vám policajt nariadi zastaviť, musíte zastaviť hneď, ako to bude bezpečné."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Železničné priecestie",
+"description":"Na železničnom priecestí s blikajúcimi červenými svetlami musíte zastaviť a počkať, kým svetlá prestanú blikať."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Pravidlá pre červenú na semafore",
+"description":"Na červenom semafore musíte zastaviť a zostať stáť, kým sa nezmení svetlo."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Odbočenie doprava na križovatke",
+"description":"Keď obe vozidlá odbočujú na križovatke doprava, žiadne z nich nesmie dať prednosť, ak sa ich cesty nekrižujú."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Vjazd na kruhový objazd",
+"description":"Pri vjazde na kruhový objazd dajte prednosť vozidlám, ktoré už v ňom idú."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Pravidlá vjazdu na kruhový objazd",
+"description":"Keď na kruhový objazd vchádzajú dve vozidlá súčasne, vozidlo, ktoré doň vchádza, musí dať prednosť vozidlu vpravo."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Vjazd na krajnicu",
+"description":"Pri vchádzaní do premávky z krajnice musí vodič vchádzajúci do premávky dať prednosť."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Stop čiara na križovatkách",
+"description":"Pri priblížení sa ku križovatke so stop-čiarou musíte na tejto čiare úplne zastaviť."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Postupy pri značení STOP",
+"description":"Pri priblížení sa k značke stop musíte úplne zastaviť a dať prednosť všetkej premávke."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Pravidlá pre T-priesečníky",
+"description":"Na križovatke v tvare T bez značenia musí vodič na končiacej ceste dať prednosť."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Prechod cez dopravný ostrov",
+"description":"Cez vyznačený dopravný ostrovček je povolené prechádzať, ak je vyznačený prerušovanou čiarou a je to bezpečné."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Dopravná značka vs. dopravné značenie",
+"description":"Ak je dopravná značka v rozpore s dopravným značením, riaďte sa dopravnou značkou."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Pravidlá pre ustupovanie pri otáčaní",
+"description":"Pri otáčaní v protismere musí vozidlo vykonávajúce otáčanie dať prednosť protiidúcim vozidlám."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Otáčanie sa na semaforoch",
+"description":"Na semaforoch sa môžete otočiť v protismere, ak je to bezpečné a legálne."
+}
+]

@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Buzilish tartibi",
+"description":"Agar transport vositangiz yo'lda buzilib qolsa, avariya chiroqlarini yoqing va iloji bo'lsa, yo'ldan chetga chiqing."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Avtobus bekatidan chiqish",
+"description":"Avtobus aholi punktidagi avtobus bekatidan chiqib ketish uchun signal berganida, agar tezlik chegarasi soatiga 70 km yoki undan kam bo'lsa, yo'l berishingiz kerak."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Avtomobil yo'li yoki avtoturargohga kirish",
+"description":"Yo'lga kirish yo'lagidan yoki avtoturargohdan kirayotgan haydovchi allaqachon yo'lda bo'lgan transport vositalariga yo'l berishi kerak."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Haydovchilik guvohnomasini olib yurish talabi",
+"description":"Haydovchilik guvohnomangizni olib yurishingiz yoki so'ralganda uni taqdim etishingiz kerak."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Favqulodda vaziyatlarda transport vositasining o'tishi",
+"description":"Miltillovchi chiroqlari yonib-o'chib turgan favqulodda vaziyatlar transport vositalaridan o'tayotganda, tezlikni pasaytiring va ehtiyotkorlik bilan harakatlaning."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Qizil svetofor miltillayapti",
+"description":"Svetoforning qizil chiroqchasi yonib-o'chib turganda, xavfsiz bo'lganda to'xtab, harakatlanishni davom ettirishingiz kerak."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Sariq svetofor miltillayapti",
+"description":"Sariq svetoforning miltillashi ehtiyotkorlik bilan harakat qilishingiz mumkinligini anglatadi."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Toshqin suvi haydash",
+"description":"Agar chuqurlik yoki xavfsizlik noaniq bo'lsa, toshqin suvlari orasidan mashina haydamang."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Yo'l belgisi",
+"description":"Yo'l berish belgisiga yaqinlashayotganda, siz tezlikni pasaytirishingiz va qarama-qarshi harakatlanayotgan barcha transport vositalariga yo'l berishingiz kerak."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Chorrahalarda yo'l berish",
+"description":"Nazorat qilinmaydigan chorrahada o'ng tomondan yaqinlashib kelayotgan transport vositalariga yo'l berishingiz kerak."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Yashil chap strelka",
+"description":"Svetoforda chapga burilgan yashil strelka yo'l bermasdan chapga burilishingiz mumkinligini anglatadi."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Faradan foydalanish",
+"description":"Quyosh chiqishi va quyosh chiqishi oralig'ida yoki ko'rinish yomon bo'lganda faralardan foydalanishingiz kerak."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Ko'rsatkichning ishlamay qolishi protseduralari",
+"description":"Agar ko'rsatkichlaringiz ishlamay qolsa, iloji boricha qo'l signallaridan foydalaning va ehtiyotkorlik bilan harakat qiling."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Haydovchilik qoidalarini o'rganuvchi",
+"description":"Haydovchilikni o'rganayotganlar boshqa yo'l foydalanuvchilariga o'zlarining o'rganayotgan holati haqida xabar berish uchun har doim L-nishonchalarini ko'rsatishlari shart."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Haydash paytida mobil telefondan foydalanish",
+"description":"Avtomobil qonuniy ravishda to'xtab turgan taqdirdagina, siz haydash paytida mobil telefondan qonuniy ravishda foydalanishingiz mumkin."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Nature Stripda haydash qoidalari",
+"description":"Tabiat qo'riqlanadigan hududda mashina haydash noqonuniy hisoblanadi, agaruyerdan o'tish uchun yo'lakka kirish imkoni bo'lmasa."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Mas'uliyatni ortda qoldirish",
+"description":"Quvib o'tishning xavfsizligini ta'minlash uchun quvib o'tayotgan haydovchi javobgardir."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Politsiya xodimi ko'rsatmalari",
+"description":"Politsiya xodimi to'xtashni buyurganida, xavfsiz bo'lishi bilanoq to'xtashingiz kerak."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Temir yo'l kesishmasi",
+"description":"Qizil chiroqlar yonib-o'chib turgan temir yo'l kesishmasida to'xtab, chiroqlar yonib-o'chishdan to'xtaguncha kutishingiz kerak."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Qizil svetofor qoidalari",
+"description":"Svetoforning qizil chirog'ida to'xtashingiz va svetofor o'zgarguncha to'xtab turishingiz kerak."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Chorrahadan o'ngga buriling",
+"description":"Ikkala transport vositasi ham chorrahada o'ngga burilayotganda, agar ularning yo'llari kesishmasa, hech bir transport vositasi yo'l bermasligi kerak."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Aylanma yo'l kirish qismi",
+"description":"Aylanma yo'lga kirayotganda, aylanma yo'lda allaqachon bo'lgan transport vositalariga yo'l bering."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Aylanma yo'lga kirish qoidalari",
+"description":"Ikki transport vositasi aylanma yo'lga bir vaqtning o'zida yetib kelganda, kirib kelayotgan transport vositasi o'ngdagi transport vositasiga yo'l berishi kerak."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Yelka tirbandligiga kirish",
+"description":"Yo'l chetidan yo'lga chiqayotganda, yo'lga chiqayotgan haydovchi yo'l berishi kerak."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Chorrahalarda to'xtash chizig'i",
+"description":"To'xtash chizig'i bo'lgan chorrahaga yaqinlashayotganda, siz chiziqda to'liq to'xtashingiz kerak."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"To'xtash belgisi protseduralari",
+"description":"To'xtash belgisiga yaqinlashayotganda, siz to'liq to'xtashingiz va barcha transport vositalariga yo'l berishingiz kerak."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"T-kesishish qoidalari",
+"description":"Belgilar bo'lmagan T shaklidagi chorrahada, yo'lning oxirgi qismidagi haydovchi yo'l berishi kerak."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Trafik orolining kesishmasi",
+"description":"Bo'yalgan yo'l harakati oroli ustidan, agaruchiziqli bo'lsa va xavfsiz bo'lsa, o'tishga ruxsat beriladi."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Yo'l belgisi va yo'l belgilari",
+"description":"Agar yo'l belgisi yo'l belgisiga zid bo'lsa, yo'l belgisiga amal qiling."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"U burilish yo'lida yo'l berish qoidalari",
+"description":"Orqaga burilish paytida, orqaga burilish qilayotgan transport vositasi qarama-qarshi tomondan kelayotgan transport vositalariga yo'l berishi kerak."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Svetoforda burilishlar",
+"description":"Agar xavfsiz va qonuniy bo'lsa, svetoforda orqaga burilish qilishingiz mumkin."
+}
+]

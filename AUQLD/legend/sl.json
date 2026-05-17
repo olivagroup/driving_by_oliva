@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Postopek razčlenitve",
+"description":"Če se vam vozilo pokvari na cesti, uporabite varnostne utripalke in se, če je mogoče, umaknite s ceste."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Odhod avtobusne postaje",
+"description":"Ko avtobus da znak za odhod z avtobusne postaje v naseljenem območju, morate dati prednost, če je omejitev hitrosti 70 km/h ali manj."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Vhod na dovoz ali parkirišče",
+"description":"Voznik, ki vstopa na cesto z dovoza ali parkirišča, mora dati prednost vozilom, ki so že na cesti."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Zahteva po nošenju vozniškega dovoljenja",
+"description":"Imeti morate vozniško dovoljenje ali pa ga biti sposobni predložiti na zahtevo."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Prehitevanje reševalnih vozil",
+"description":"Pri prehitevanju stoječih reševalnih vozil z utripajočimi lučmi upočasnite in bodite previdni."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Utripajoča rdeča luč na semaforju",
+"description":"Utripajoča rdeča luč na semaforju vas obvezuje, da se ustavite in nadaljujete, ko je to varno."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Utripajoča rumena luč na semaforju",
+"description":"Utripajoča rumena luč na semaforju pomeni, da lahko nadaljujete previdno."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Vožnja z poplavno vodo",
+"description":"Ne vozite skozi poplavno vodo, če je njena globina ali varnost negotova."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Znak Daj prednost",
+"description":"Ko se približujete znaku za prednost, morate upočasniti in dati prednost vsem nasprotnim vozilom."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Dajanje prednosti na križiščih",
+"description":"Na nenadzorovanem križišču morate dati prednost vozilom, ki se približujejo z vaše desne."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Zelena puščica levo",
+"description":"Zelena puščica levo na semaforju pomeni, da lahko zavijete levo, ne da bi dali prednost."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Uporaba žarometov",
+"description":"Žaromete morate uporabljati med sončnim zahodom in sončnim vzhodom ali ko je vidljivost slaba."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Postopki v primeru okvare indikatorja",
+"description":"Če vaši kazalniki odpovejo, po možnosti uporabite ročne signale in nadaljujte previdno."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Pravila za voznike učence",
+"description":"Vozniki učenci morajo med vožnjo ves čas imeti nameščene tablice L, da obvestijo druge udeležence v prometu o svojem statusu voznika učenca."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Uporaba mobilnega telefona med vožnjo",
+"description":"Mobilni telefon lahko med vožnjo uporabljate le, če je vozilo legalno parkirano."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Pravila vožnje po naravnih območjih",
+"description":"Vožnja po naravnem pasu je nezakonita, razen če ga prečkate za dostop do dovozne poti."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Prevzemanje odgovornosti",
+"description":"Prehitevajoči voznik je odgovoren za zagotovitev varnega prehitevanja."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Navodila za policiste",
+"description":"Ko vam policist naroči, da se ustavite, se morate ustaviti takoj, ko je to varno."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Železniški nivojski prehod",
+"description":"Na železniškem prehodu z utripajočimi rdečimi lučmi se morate ustaviti in počakati, da luči prenehajo utripati."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Pravila za rdečo luč na semaforju",
+"description":"Pri rdeči luči na semaforju se morate ustaviti in ostati obtičati, dokler se luč ne spremeni."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Zavijanje desno na križišču",
+"description":"Ko obe vozili zavijata desno na križišču, nobeno od njiju ne sme dati prednosti, če se njuni poti ne križata."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Vhod v krožišče",
+"description":"Pri vstopu v krožišče dajte prednost vozilom, ki so že v krožišču."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Pravila za vstop v krožišče",
+"description":"Ko dve vozili hkrati prispeta v krožišče, mora vozilo, ki vstopa, dati prednost vozilu na desni."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Vstop v promet na bankini",
+"description":"Pri vključitvi v promet z bankine mora voznik, ki se vključuje v promet, dati prednost."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Stop črta na križiščih",
+"description":"Ko se približujete križišču s črto za ustavljanje, se morate na tej črti popolnoma ustaviti."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Postopki znaka Stop",
+"description":"Ko se približujete znaku stop, se morate popolnoma ustaviti in dati prednost vsemu prometu."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Pravila T-presečišča",
+"description":"Na križišču v obliki črke T brez prometnih znakov mora voznik na končni cesti dati prednost."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Prehod čez prometni otok",
+"description":"Čez pobarvan prometni otok je dovoljeno voziti, če je označen s prekinjeno črto in je to varno."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Prometni znak v primerjavi s cestno označbo",
+"description":"Če prometni znak nasprotuje cestni označbi, upoštevajte prometni znak."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Pravila za umaknitev z mesta",
+"description":"Pri obračanju v obliki črke U mora vozilo, ki se obrača, dati prednost nasproti vozečim vozilom."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Obrati v obliki črke U na semaforju",
+"description":"Na semaforju se lahko obrnete v polkrugu, če je to varno in zakonito."
+}
+]

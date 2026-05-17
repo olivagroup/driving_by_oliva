@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Prosedur Pembongkaran",
+"description":"Jika kendaraan Anda mogok di jalan, gunakan lampu hazard dan menepilah dari jalan jika memungkinkan."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Halte Bus Keluar",
+"description":"Ketika sebuah bus memberi isyarat untuk meninggalkan halte di daerah padat penduduk, Anda harus memberi jalan jika batas kecepatan 70 km/jam atau kurang."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Jalan Masuk atau Tempat Parkir Mobil",
+"description":"Pengemudi yang memasuki jalan dari jalan masuk atau tempat parkir wajib memberi jalan kepada kendaraan yang sudah berada di jalan."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Persyaratan Membawa Surat Izin Mengemudi",
+"description":"Anda wajib membawa SIM atau dapat menunjukkannya saat diminta."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Kendaraan Darurat Melintas",
+"description":"Saat melewati kendaraan darurat yang berhenti dengan lampu berkedip, kurangi kecepatan dan lanjutkan dengan hati-hati."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Lampu Lalu Lintas Merah Berkedip",
+"description":"Lampu lalu lintas merah yang berkedip mengharuskan Anda untuk berhenti dan melanjutkan perjalanan saat kondisi aman."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Lampu Lalu Lintas Kuning Berkedip",
+"description":"Lampu lalu lintas kuning yang berkedip berarti Anda boleh melanjutkan perjalanan dengan hati-hati."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Mengemudi di tengah banjir",
+"description":"Jangan berkendara melewati air banjir jika kedalaman atau keselamatannya tidak pasti."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Rambu Beri Jalan",
+"description":"Saat mendekati rambu beri jalan, Anda harus memperlambat kecepatan dan memberi jalan kepada semua lalu lintas yang berlawanan arah."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Memberi jalan di persimpangan",
+"description":"Di persimpangan tanpa rambu lalu lintas, Anda harus memberi jalan kepada kendaraan yang datang dari sebelah kanan Anda."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Panah Hijau Kiri",
+"description":"Panah hijau ke kiri di lampu lalu lintas berarti Anda boleh berbelok ke kiri tanpa harus memberi jalan."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Penggunaan Lampu Depan",
+"description":"Anda wajib menggunakan lampu depan antara matahari terbenam dan matahari terbit atau saat jarak pandang buruk."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Prosedur Kegagalan Indikator",
+"description":"Jika indikator Anda gagal berfungsi, gunakan isyarat tangan jika memungkinkan dan lanjutkan dengan hati-hati."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Peraturan Pengemudi Pemula",
+"description":"Pengemudi yang masih dalam tahap belajar wajib memasang rambu L setiap saat saat mengemudi untuk memberi tahu pengguna jalan lain tentang status mereka sebagai pengemudi pemula."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Penggunaan Ponsel Saat Mengemudi",
+"description":"Anda hanya boleh menggunakan telepon seluler saat mengemudi jika kendaraan tersebut diparkir secara sah."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Aturan Mengemudi di Tepi Jalan",
+"description":"Mengemudi di jalur hijau adalah ilegal kecuali jika menyeberanginya untuk mengakses jalan masuk."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Pengalihan Tanggung Jawab",
+"description":"Pengemudi yang menyalip bertanggung jawab untuk memastikan bahwa proses menyalip aman."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Instruksi Petugas Polisi",
+"description":"Saat diperintahkan oleh petugas polisi untuk berhenti, Anda harus berhenti segera setelah keadaan aman."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Perlintasan Sebidang Kereta Api",
+"description":"Di perlintasan kereta api dengan lampu merah berkedip, Anda harus berhenti dan menunggu sampai lampu berhenti berkedip."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Aturan Lampu Lalu Lintas Merah",
+"description":"Saat lampu lalu lintas berwarna merah, Anda harus berhenti dan tetap berhenti sampai lampu berubah."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Belok kanan di persimpangan",
+"description":"Ketika kedua kendaraan berbelok ke kanan di persimpangan, tidak ada kendaraan yang wajib memberi jalan jika jalur mereka tidak bersilangan."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Pintu Masuk Bundaran",
+"description":"Saat memasuki bundaran, berikan jalan kepada kendaraan yang sudah berada di dalam bundaran."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Aturan Masuk Bundaran",
+"description":"Ketika dua kendaraan tiba di bundaran pada waktu yang bersamaan, kendaraan yang masuk harus memberi jalan kepada kendaraan di sebelah kanan."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Akses Lalu Lintas Bahu Jalan",
+"description":"Saat memasuki arus lalu lintas dari bahu jalan, pengemudi yang memasuki arus lalu lintas harus memberi jalan."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Garis Berhenti di Persimpangan",
+"description":"Saat mendekati persimpangan yang memiliki garis berhenti, Anda harus berhenti total di garis tersebut."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Prosedur Rambu Berhenti",
+"description":"Saat mendekati rambu berhenti, Anda harus berhenti total dan memberi jalan kepada semua lalu lintas."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Aturan Persimpangan T",
+"description":"Di persimpangan berbentuk T tanpa rambu, pengemudi di jalan yang berakhir di persimpangan tersebut harus memberi jalan."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Penyeberangan Pulau Lalu Lintas",
+"description":"Anda diperbolehkan untuk berkendara melintasi pulau lalu lintas yang dicat jika garisnya putus-putus dan aman untuk melakukannya."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Rambu Lalu Lintas vs Marka Jalan",
+"description":"Jika rambu lalu lintas bertentangan dengan marka jalan, ikuti rambu lalu lintas tersebut."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Aturan Putar Balik dan Beri Jalan",
+"description":"Saat melakukan putar balik, kendaraan yang melakukan putar balik harus memberi jalan kepada kendaraan yang datang dari arah berlawanan."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Putar Balik di Lampu Lalu Lintas",
+"description":"Anda boleh melakukan putar balik di lampu lalu lintas jika hal itu aman dan legal untuk dilakukan."
+}
+]

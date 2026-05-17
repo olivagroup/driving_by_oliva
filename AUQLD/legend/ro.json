@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Procedura de defalcare",
+"description":"Dacă vehiculul se defectează pe drum, folosiți luminile de avarie și, dacă este posibil, ieșiți de pe șosea."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Plecare din stația de autobuz",
+"description":"Când un autobuz semnalizează să părăsească o stație de autobuz aflată într-o zonă construită, trebuie să acordați prioritate dacă limita de viteză este de 70 km/h sau mai puțin."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Intrare în alee sau parcare",
+"description":"Șoferul care intră pe carosabil dintr-o alee de acces sau o parcare trebuie să acorde prioritate vehiculelor deja existente pe carosabil."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Cerința de a deține permisul de conducere",
+"description":"Trebuie să aveți permisul de conducere asupra dumneavoastră sau să îl puteți prezenta atunci când vi se solicită."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Depășirea unui vehicul de urgență",
+"description":"Când depășiți vehicule de urgență staționare cu lumini intermitente, încetiniți și continuați cu prudență."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Semafor roșu intermitent",
+"description":"Un semafor roșu intermitent vă obligă să opriți și să continuați când este în siguranță."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Semafor galben intermitent",
+"description":"Un semafor galben intermitent înseamnă că puteți merge cu prudență."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Conducerea în caz de inundații",
+"description":"Nu conduceți prin apele inundate dacă adâncimea sau siguranța sunt incerte."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Semn de trecere",
+"description":"Când vă apropiați de un indicator de trecere, trebuie să încetiniți și să dați prioritate tuturor traficului care se află în conflict."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Cedarea trecerii la intersecții",
+"description":"La o intersecție necontrolată, trebuie să acordați prioritate vehiculelor care vin din dreapta."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Săgeată verde stânga",
+"description":"O săgeată verde la stânga la semafor înseamnă că puteți vira la stânga fără a ceda trecerea."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Utilizarea farurilor",
+"description":"Trebuie să folosiți farurile între apus și răsărit sau când vizibilitatea este slabă."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Proceduri în caz de defecțiune a indicatorului",
+"description":"Dacă indicatoarele nu funcționează, folosiți semnale manuale acolo unde este posibil și continuați cu prudență."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Reguli pentru șoferii începători",
+"description":"Șoferii începători trebuie să afișeze plăcuțele de înmatriculare cu numărul L în permanență atunci când conduc, pentru a-i informa pe ceilalți participanți la trafic cu privire la statutul lor de începător."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Utilizarea telefonului mobil în timpul conducerii",
+"description":"Puteți utiliza legal un telefon mobil în timp ce conduceți doar dacă vehiculul este parcat regulamentar."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Reguli de conducere pe piste naturale",
+"description":"Conducerea pe o zonă naturală este ilegală, cu excepția cazului în care o traversați pentru a accesa o alee de acces."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Depășirea responsabilității",
+"description":"Șoferul care depășește este responsabil să se asigure că depășirea este în siguranță."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Instrucțiuni pentru ofițerii de poliție",
+"description":"Când vi se indică un ofițer de poliție să opriți, trebuie să opriți imediat ce este în siguranță."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Trecerea la nivel cu calea ferată",
+"description":"La o trecere la nivel cu calea ferată cu lumini roșii intermitente, trebuie să opriți și să așteptați până când luminile nu mai clipesc."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Reguli privind semaforul roșu",
+"description":"La un semafor roșu, trebuie să opriți și să rămâneți oprit până la schimbarea semaforului."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Virare la dreapta la intersecție",
+"description":"Când ambele vehicule virează la dreapta la o intersecție, niciunul dintre vehicule nu trebuie să cedeze trecerea dacă drumurile lor nu se intersectează."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Intrare în sensul giratoriu",
+"description":"La intrarea într-un sens giratoriu, acordați prioritate vehiculelor deja aflate în sensul giratoriu."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Reguli de acces în sensul giratoriu",
+"description":"Când două vehicule ajung simultan într-un sens giratoriu, vehiculul care intră trebuie să cedeze trecerea vehiculului din dreapta."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Intrarea pe acostament a traficului",
+"description":"La intrarea în trafic de pe acostament, șoferul care intră în trafic trebuie să acorde prioritate."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Linie de oprire la intersecții",
+"description":"Când vă apropiați de o intersecție cu o linie de oprire, trebuie să opriți complet la linie."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Proceduri pentru semnele de oprire",
+"description":"Când vă apropiați de un indicator de oprire, trebuie să opriți complet și să acordați prioritate tuturor circulației."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Reguli pentru intersecția în T",
+"description":"La o intersecție în T fără indicatoare, șoferul de pe drumul final trebuie să acorde prioritate."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Trecerea pe insulă de trafic",
+"description":"Aveți voie să traversați un interval de trafic vopsit atunci când acesta are margini întrerupte și este sigur pentru a face acest lucru."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Semn de circulație vs. marcaj rutier",
+"description":"Dacă un indicator rutier intră în conflict cu marcajul rutier, respectați indicatorul."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Reguli de acordare a trecerii la întoarcere în U",
+"description":"La efectuarea unei întoarceri în U, vehiculul care o face trebuie să cedeze trecerea vehiculelor care vin din sens opus."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Întoarcerile în U la semafoare",
+"description":"Puteți face întoarcerea la semafor dacă este sigur și legal să faceți acest lucru."
+}
+]

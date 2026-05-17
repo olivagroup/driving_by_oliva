@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Pamamaraan sa Paghihiwalay",
+"description":"Kung masira ang iyong sasakyan sa kalsada, gumamit ng mga hazard light at umalis sa kalsada kung maaari."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Pag-alis sa Hinto ng Bus",
+"description":"Kapag ang isang bus ay sumenyas na umalis sa hintuan ng bus sa isang mataong lugar, dapat kang magbigay daan kung ang limitasyon sa bilis ay 70 km/h o mas mababa pa."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Pasukan sa Driveway o Paradahan ng Sasakyan",
+"description":"Ang drayber na papasok sa kalsada mula sa driveway o paradahan ay dapat magbigay daan sa mga sasakyang nasa kalsada na."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Kinakailangan sa Pagdadala ng Lisensya sa Pagmamaneho",
+"description":"Dapat mong dalhin ang iyong lisensya sa pagmamaneho o kaya'y maipakita ito kapag hiniling."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Pagdaan ng Sasakyang Pang-emerhensya",
+"description":"Kapag nadadaanan ang mga nakatigil na sasakyang pang-emergency na may mga kumikislap na ilaw, bagalan ang takbo at mag-ingat."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Kumikislap na Pulang Ilaw Trapiko",
+"description":"Ang kumikislap na pulang ilaw trapiko ay humihiling sa iyo na huminto at magpatuloy kapag ligtas na."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Kumikislap na Dilaw na Ilaw Trapiko",
+"description":"Ang kumikislap na dilaw na ilaw trapiko ay nangangahulugang maaari kang magpatuloy nang may pag-iingat."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Pagmamaneho sa Tubig-baha",
+"description":"Huwag magmaneho sa tubig-baha kung hindi tiyak ang lalim o kaligtasan."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Karatula ng Pagbibigay-daan",
+"description":"Kapag papalapit sa isang give way sign, dapat kang bumagal at magbigay daan sa lahat ng magkasalungat na trapiko."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Pagbibigay-daan sa mga Interseksyon",
+"description":"Sa isang hindi makontrol na interseksyon, dapat kang magbigay daan sa mga sasakyang paparating mula sa iyong kanan."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Berdeng Kaliwang Palaso",
+"description":"Ang berdeng kaliwang palaso sa mga ilaw trapiko ay nangangahulugang maaari kang lumiko pakaliwa nang hindi nagbibigay ng daan."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Paggamit ng Headlight",
+"description":"Dapat mong gamitin ang mga headlight sa pagitan ng paglubog ng araw at pagsikat ng araw o kapag mahina ang visibility."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Mga Pamamaraan sa Pagkabigo ng Tagapagpahiwatig",
+"description":"Kung pumalya ang iyong mga indicator, gumamit ng mga senyas ng kamay kung maaari at magpatuloy nang maingat."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Mga Panuntunan para sa Mag-aaral na Magmaneho",
+"description":"Ang mga nag-aaral na drayber ay dapat magpakita ng mga L-plate sa lahat ng oras habang nagmamaneho upang ipaalam sa ibang mga gumagamit ng kalsada ang kanilang katayuan bilang mag-aaral."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Paggamit ng Mobile Phone Habang Nagmamaneho",
+"description":"Maaari ka lamang legal na gumamit ng mobile phone habang nagmamaneho kung ang sasakyan ay legal na nakaparada."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Mga Panuntunan sa Pagmamaneho sa Nature Strip",
+"description":"Ilegal ang pagmamaneho sa isang nature strip maliban na lang kung tatawirin ito para makapasok sa isang driveway."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Paglampas sa Responsibilidad",
+"description":"Ang drayber na nag-o-overtake ay responsable sa pagtiyak na ligtas ang pag-overtake."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Mga Tagubilin ng Opisyal ng Pulisya",
+"description":"Kapag inutusan ng isang pulis na huminto, dapat kang huminto sa sandaling maging ligtas na."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Tawiran sa Pantay ng Riles",
+"description":"Sa isang tawiran sa antas ng riles na may kumikislap na pulang ilaw, dapat kang huminto at maghintay hanggang sa tumigil ang pagkislap ng mga ilaw."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Mga Panuntunan sa Pulang Ilaw Trapiko",
+"description":"Sa pulang ilaw trapiko, dapat kang huminto at manatiling nakahinto hanggang sa magbago ang ilaw."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Lumiko Kanan sa Interseksyon",
+"description":"Kapag ang parehong sasakyan ay lumiliko pakanan sa isang interseksyon, walang sasakyan ang dapat magbigay daan kung ang kanilang mga landas ay hindi magkukrus."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Rotondadong Pasukan",
+"description":"Kapag papasok sa isang rotonda, magbigay daan sa mga sasakyang nasa loob na ng rotonda."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Mga Panuntunan sa Pagpasok sa Rotonda",
+"description":"Kapag ang dalawang sasakyan ay sabay na dumating sa isang rotonda, ang sasakyang papasok ay dapat magbigay daan sa sasakyang nasa kanan."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Pagpasok sa Trapiko sa Balikat",
+"description":"Kapag papasok sa trapiko mula sa isang balikat ng sasakyan, ang drayber na papasok sa trapiko ay dapat magbigay daan."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Linya ng Paghinto sa mga Interseksyon",
+"description":"Kapag papalapit sa isang interseksyon na may stop line, dapat kang huminto nang tuluyan sa linya."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Mga Pamamaraan sa Pag-sign ng Paghinto",
+"description":"Kapag papalapit sa isang stop sign, dapat kang huminto nang tuluyan at magbigay daan sa lahat ng trapiko."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Mga Panuntunan sa Interseksyon ng T",
+"description":"Sa isang T-intersection na walang mga karatula, ang drayber sa huling kalsada ay dapat magbigay daan."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Tawiran sa Isla ng Trapiko",
+"description":"Pinapayagan kang magmaneho patawid sa isang pininturahang isla ng trapiko kapag ito ay sirang-linya at ligtas na gawin ito."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Karatula ng Trapiko vs. Pagmamarka sa Kalsada",
+"description":"Kung ang isang karatula trapiko ay sumasalungat sa isang marka ng kalsada, sundin ang karatula trapiko."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Mga Panuntunan sa Pagbibigay-daan sa Pag-U-Turn",
+"description":"Kapag nag-U-turn, ang sasakyang nag-U-turn ay dapat magbigay daan sa mga paparating na sasakyan."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Mga U-Turn sa mga Ilaw Trapiko",
+"description":"Maaari kang mag-U-turn sa mga traffic light kung ligtas at legal itong gawin."
+}
+]

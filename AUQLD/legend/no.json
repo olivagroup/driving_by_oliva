@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Prosedyre for stopp",
+"description":"Hvis kjøretøyet ditt havarerer på en vei, bruk varselblinklysene og kjør av veien hvis mulig."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Busstopp forlatelse",
+"description":"Når en buss gir signal om å forlate et busstopp i et tettbygd område, har du vikeplikt dersom fartsgrensen er 70 km/t eller mindre."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Innkjørsel eller parkeringsplass",
+"description":"Føreren som kjører ut på veien fra en innkjørsel eller parkeringsplass må vike for kjøretøy som allerede er på veien."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Krav om førerkortbeholdning",
+"description":"Du må ha med deg førerkortet ditt, eller kunne fremvise det når du blir bedt om det."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Forbikjøring av utrykningskjøretøy",
+"description":"Når du passerer stillestående utrykningskjøretøy med blinkende lys, senk farten og kjør forsiktig."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Blinkende rødt trafikklys",
+"description":"Et blinkende rødt trafikklys krever at du stopper og fortsetter når det er trygt."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Blinkende gult trafikklys",
+"description":"Et blinkende gult trafikklys betyr at du kan kjøre forsiktig."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Kjøring med flomvann",
+"description":"Ikke kjør gjennom flomvann hvis dybden eller sikkerheten er usikker."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Vikepliktskilt",
+"description":"Når du nærmer deg et vikepliktskilt, må du senke farten og gi vei for all trafikk i konflikt."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Vikeplikt i kryss",
+"description":"I et ukontrollert kryss har du vikeplikt for kjøretøy som kommer fra høyre."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Grønn venstrepil",
+"description":"En grønn pil til venstre ved trafikklys betyr at du kan svinge til venstre uten å vike."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Bruk av frontlykt",
+"description":"Du må bruke frontlykter mellom solnedgang og soloppgang eller når sikten er dårlig."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Prosedyrer for indikatorfeil",
+"description":"Hvis blinklysene dine svikter, bruk håndsignaler der det er mulig og fortsett forsiktig."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Regler for elevførere",
+"description":"Elevførere må alltid vise L-skilt når de kjører for å informere andre trafikanter om elevstatusen deres."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Mobiltelefonbruk mens du kjører",
+"description":"Du har bare lov til å bruke mobiltelefon mens du kjører hvis kjøretøyet er parkert på lovlig vis."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Kjøreregler for naturstriper",
+"description":"Det er ulovlig å kjøre på en naturstripe med mindre man krysser den for å komme til en innkjørsel."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Overtar ansvaret",
+"description":"Den forbikjørende sjåføren er ansvarlig for at det er trygt å forbikjøre."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Instruksjoner for politibetjenter",
+"description":"Når du får beskjed fra en politibetjent om å stoppe, må du stoppe så snart det er trygt."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Jernbaneovergang",
+"description":"Ved en jernbaneovergang med blinkende røde lys må du stoppe og vente til lysene slutter å blinke."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Regler for rødt trafikklys",
+"description":"Ved et rødt trafikklys må du stoppe og stå stille til lyset skifter."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Høyresving i krysset",
+"description":"Når begge kjøretøyene svinger til høyre i et kryss, har ingen av kjøretøyene vikeplikt hvis veiene deres ikke krysser hverandre."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Rundkjøring",
+"description":"Når du kjører inn i en rundkjøring, må du vike for kjøretøy som allerede befinner seg i rundkjøringen."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Regler for innkjøring i rundkjøring",
+"description":"Når to kjøretøy ankommer en rundkjøring samtidig, må kjøretøyet som kjører inn vike for kjøretøyet på høyre side."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Innkjøring i skulder",
+"description":"Når man kjører inn i trafikken fra en veiskulder, må føreren som kjører inn i trafikken vike for veien."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Stopplinje ved kryss",
+"description":"Når du nærmer deg et kryss med en stopplinje, må du stoppe helt ved linjen."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Stoppskiltprosedyrer",
+"description":"Når du nærmer deg et stoppskilt, må du stoppe helt og gi vei for all trafikk."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"T-kryssregler",
+"description":"I et T-kryss uten skilt har sjåføren på den avsluttende veien vikeplikt."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Kryssing av trafikkøy",
+"description":"Du har lov til å kjøre over en malt trafikkøy når det er brutt linjeføring og det er trygt å gjøre det."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Trafikkskilt vs. veimerking",
+"description":"Hvis et trafikkskilt er i konflikt med en veimerking, følg trafikkskiltet."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Vikeregler for U-sving",
+"description":"Når man foretar en U-sving, må kjøretøyet som foretar U-svingen vike for møtende kjøretøy."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"U-svinger ved trafikklys",
+"description":"Du kan gjøre en U-sving ved trafikklys hvis det er trygt og lovlig å gjøre det."
+}
+]

@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Procediment de desglossament",
+"description":"Si el vostre vehicle s'avaria a la carretera, feu servir els llums d'emergència i, si és possible, sortiu de la carretera."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Sortida de la parada d'autobús",
+"description":"Quan un autobús faci el senyal per sortir d'una parada en una zona urbanitzada, heu de cedir el pas si el límit de velocitat és de 70 km/h o menys."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Entrada per a cotxes o aparcament",
+"description":"El conductor que entra a la calçada des d'un accés per a vehicles o un aparcament ha de cedir el pas als vehicles que ja circulin per la calçada."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Requisit de portar el permís de conduir",
+"description":"Heu de portar el carnet de conduir o poder presentar-lo quan us el demanin."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Avançament de vehicles d'emergència",
+"description":"Quan avança vehicles d'emergència estacionaris amb llums intermitents, reduïu la velocitat i avanceu amb precaució."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Semàfor vermell intermitent",
+"description":"Un semàfor vermell intermitent us obliga a aturar-vos i continuar quan sigui segur."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Semàfor groc intermitent",
+"description":"Un semàfor groc intermitent significa que podeu circular amb precaució."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Conducció per inundacions",
+"description":"No conduïu per inundacions si la profunditat o la seguretat són incertes."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Senyal de pas",
+"description":"Quan us acosteu a un senyal de pas, heu de reduir la velocitat i cedir el pas a tot el trànsit que hi hagi en conflicte."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Cedir el pas a les interseccions",
+"description":"En una intersecció sense control, heu de cedir el pas als vehicles que s'acosten per la vostra dreta."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Fletxa verda esquerra",
+"description":"Una fletxa verda a l'esquerra als semàfors significa que podeu girar a l'esquerra sense cedir el pas."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Ús dels fars",
+"description":"Heu d'utilitzar els fars entre la posta i la sortida del sol o quan la visibilitat sigui dolenta."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Procediments de fallada d'indicadors",
+"description":"Si els indicadors fallen, feu servir senyals manuals sempre que sigui possible i procediu amb precaució."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Normes per a conductors aprenents",
+"description":"Els conductors novells han de mostrar les plaques L en tot moment mentre condueixen per informar els altres usuaris de la carretera de la seva condició de conductor novell."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Ús del telèfon mòbil mentre es condueix",
+"description":"Només es pot fer ús legal d'un telèfon mòbil mentre es condueix si el vehicle està aparcat legalment."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Normes de conducció a la franja natural",
+"description":"Conduir per una franja natural és il·legal, tret que la creui per accedir a un camí d'entrada."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Responsabilitat de superació",
+"description":"El conductor que avança és responsable d'assegurar-se que sigui segur avançar."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Instruccions de l'agent de policia",
+"description":"Quan un agent de policia us ordeni que us aturiu, heu d'aturar-vos tan aviat com sigui segur."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Pas a nivell de ferrocarril",
+"description":"En un pas a nivell de ferrocarril amb semàfors vermells intermitents, heu d'aturar-vos i esperar fins que els semàfors deixin de parpellejar."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Normes de semàfor vermell",
+"description":"En un semàfor en vermell, t'has d'aturar i romandre aturat fins que el semàfor canviï."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Gir a la dreta a la intersecció",
+"description":"Quan els dos vehicles giren a la dreta en una intersecció, cap dels dos vehicles ha de cedir el pas si les seves trajectòries no es creuen."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Entrada a la rotonda",
+"description":"En entrar a una rotonda, cediu el pas als vehicles que ja hi siguin."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Normes d'entrada a la rotonda",
+"description":"Quan dos vehicles arriben a una rotonda alhora, el vehicle que hi entra ha de cedir el pas al vehicle de la dreta."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Entrada de trànsit a la vora",
+"description":"En entrar al trànsit per una vora, el conductor que s'hi incorpora ha de cedir el pas."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Línia d'aturada a les interseccions",
+"description":"Quan us acosteu a una intersecció amb una línia d'aturada, heu d'aturar-vos completament a la línia."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Procediments de senyals d'aturada",
+"description":"En apropar-se a un senyal d'aturada, cal aturar-se completament i cedir el pas a tot el trànsit."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Regles d'intersecció en T",
+"description":"En una intersecció en T sense senyals, el conductor de la carretera final ha de cedir el pas."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Encreuament d'illa de trànsit",
+"description":"Es permet conduir per una illa de trànsit pintada quan té una línia discontínua i és segur fer-ho."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Senyal de trànsit vs. marcatge viari",
+"description":"Si un senyal de trànsit entra en conflicte amb la marca viària, seguiu el senyal de trànsit."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Normes de pas per gir en U",
+"description":"En fer un gir en U, el vehicle que el fa ha de cedir el pas als vehicles que vénen de cara."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Girs en U als semàfors",
+"description":"Podeu fer un gir de 180 graus als semàfors si és segur i legal fer-ho."
+}
+]

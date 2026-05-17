@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Procedimento de avaria",
+"description":"Se o seu veículo avariar na estrada, ligue as luzes de emergência e, se possível, saia da estrada."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Saída do ponto de ônibus",
+"description":"Quando um ônibus sinaliza para sair de um ponto de ônibus em uma área urbana, você deve dar passagem se o limite de velocidade for de 70 km/h ou menos."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Entrada para garagem ou estacionamento",
+"description":"O condutor que entra na via pública a partir de uma garagem ou estacionamento deve dar prioridade aos veículos que já estão na via."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Exigência de Portar Carteira de Habilitação",
+"description":"Você deve portar sua carteira de habilitação ou ser capaz de apresentá-la quando solicitado."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Passagem de veículo de emergência",
+"description":"Ao passar por veículos de emergência parados com luzes intermitentes, reduza a velocidade e prossiga com cautela."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Semáforo vermelho intermitente",
+"description":"Um semáforo vermelho intermitente exige que você pare e prossiga somente quando for seguro."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Semáforo amarelo intermitente",
+"description":"Um semáforo amarelo intermitente significa que você pode prosseguir com cautela."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Condução em águas de inundação",
+"description":"Não dirija em áreas alagadas se a profundidade ou a segurança forem incertas."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Sinal de \"Dê a Preferência\"",
+"description":"Ao se aproximar de uma placa de \"dê a preferência\", você deve reduzir a velocidade e ceder a passagem a todo o tráfego que estiver em sentido contrário."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Dê a preferência nos cruzamentos",
+"description":"Em um cruzamento sem semáforo, você deve dar preferência aos veículos que se aproximam pela direita."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Seta verde para a esquerda",
+"description":"Uma seta verde à esquerda no semáforo significa que você pode virar à esquerda sem precisar dar preferência."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Uso dos faróis",
+"description":"É obrigatório o uso de faróis entre o pôr do sol e o nascer do sol ou quando a visibilidade estiver reduzida."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Procedimentos para falha do indicador",
+"description":"Se os seus indicadores de direção falharem, utilize sinais de mão sempre que possível e prossiga com cautela."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Regras para condutores aprendizes",
+"description":"Os condutores em fase de aprendizagem devem exibir a placa \"L\"em todos os momentos em que estiverem dirigindo, para informar os outros usuários da via sobre sua condição de aprendiz."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Uso do celular ao dirigir",
+"description":"Você só pode usar o celular enquanto dirige legalmente se o veículo estiver estacionado corretamente."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Regras de Condução em Faixas de Natureza",
+"description":"Conduzir em faixas de rodagem é ilegal, exceto para aceder a uma entrada de garagem."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Assumir a responsabilidade",
+"description":"O condutor que ultrapassa é responsável por garantir que a ultrapassagem seja feita em segurança."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Instruções para policiais",
+"description":"Quando um policial ordenar que você pare, você deve parar assim que for seguro."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Passagem de nível ferroviária",
+"description":"Em uma passagem de nível ferroviária com luzes vermelhas intermitentes, você deve parar e esperar até que as luzes parem de piscar."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Regras do semáforo vermelho",
+"description":"Num semáforo vermelho, você deve parar e permanecer parado até que o sinal mude."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Vire à direita no cruzamento",
+"description":"Quando ambos os veículos estão virando à direita em um cruzamento, nenhum dos veículos precisa ceder a passagem se seus trajetos não se cruzarem."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Entrada pela rotunda",
+"description":"Ao entrar numa rotunda, dê prioridade aos veículos que já se encontram na rotunda."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Regras de entrada na rotunda",
+"description":"Quando dois veículos chegam a uma rotunda ao mesmo tempo, o veículo que entra deve dar prioridade ao veículo que está à sua direita."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Entrada de tráfego no acostamento",
+"description":"Ao entrar no trânsito pelo acostamento, o motorista que entra no trânsito deve dar a preferência."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Linha de parada nos cruzamentos",
+"description":"Ao se aproximar de um cruzamento com uma faixa de parada, você deve parar completamente na faixa."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Procedimentos de parada obrigatória",
+"description":"Ao se aproximar de uma placa de pare, você deve parar completamente e dar passagem a todo o tráfego."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Regras de interseção em T",
+"description":"Em um cruzamento em T sem sinalização, o motorista na via que termina no cruzamento em T deve dar a preferência."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Travessia da ilha de trânsito",
+"description":"É permitido atravessar uma ilha de trânsito pintada quando esta estiver demarcada com linhas tracejadas e for seguro fazê-lo."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Sinalização de Trânsito vs. Sinalização Horizontal",
+"description":"Se uma placa de trânsito entrar em conflito com a sinalização horizontal, siga a placa de trânsito."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Regras de Ceder a Passagem em Caso de Retorno",
+"description":"Ao fazer uma conversão em U, o veículo que a realiza deve dar passagem aos veículos que vêm em sentido contrário."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Retornos em semáforos",
+"description":"Você pode fazer um retorno em um semáforo se for seguro e permitido por lei."
+}
+]

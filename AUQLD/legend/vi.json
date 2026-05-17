@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Quy trình phân tích",
+"description":"Nếu xe của bạn bị hỏng giữa đường, hãy bật đèn báo nguy hiểm và di chuyển ra khỏi đường nếu có thể."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Trạm xe buýt rời đi",
+"description":"Khi xe buýt ra tín hiệu rời trạm dừng trong khu vực đông dân cư, bạn phải nhường đường nếu giới hạn tốc độ là 70 km/h hoặc thấp hơn."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Lối vào đường lái xe hoặc bãi đỗ xe",
+"description":"Người lái xe đi vào đường từ lối vào nhà hoặc bãi đậu xe phải nhường đường cho các phương tiện đã có mặt trên đường."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Yêu cầu mang theo giấy phép lái xe",
+"description":"Bạn phải mang theo bằng lái xe hoặc xuất trình được bằng lái khi được yêu cầu."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Xe cứu thương đi qua",
+"description":"Khi đi ngang qua các phương tiện khẩn cấp đang đỗ và bật đèn nháy, hãy giảm tốc độ và di chuyển cẩn thận."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Đèn giao thông nhấp nháy màu đỏ",
+"description":"Đèn giao thông nhấp nháy màu đỏ yêu cầu bạn dừng lại và chỉ tiếp tục di chuyển khi an toàn."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Đèn giao thông vàng nhấp nháy",
+"description":"Đèn giao thông màu vàng nhấp nháy có nghĩa là bạn có thể tiếp tục di chuyển một cách thận trọng."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Lái xe trong nước lũ",
+"description":"Không nên lái xe qua vùng nước lũ nếu không chắc chắn về độ sâu hoặc mức độ an toàn."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Biển báo nhường đường",
+"description":"Khi đến gần biển báo nhường đường, bạn phải giảm tốc độ và nhường đường cho tất cả các phương tiện giao thông đang lưu thông ngược chiều."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Nhường đường tại các giao lộ",
+"description":"Tại giao lộ không có đèn tín hiệu, bạn phải nhường đường cho các phương tiện đang đến từ bên phải."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Mũi tên màu xanh lá cây hướng sang trái",
+"description":"Mũi tên xanh hướng sang trái tại đèn giao thông có nghĩa là bạn có thể rẽ trái mà không cần nhường đường."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Sử dụng đèn pha",
+"description":"Bạn phải bật đèn pha từ lúc mặt trời lặn đến lúc mặt trời mọc hoặc khi tầm nhìn kém."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Quy trình xử lý lỗi chỉ báo",
+"description":"Nếu đèn báo hiệu của bạn bị hỏng, hãy sử dụng tín hiệu bằng tay nếu có thể và tiến hành cẩn thận."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Quy tắc dành cho người học lái xe",
+"description":"Người học lái xe phải luôn gắn biển báo chữ L khi lái xe để thông báo cho những người tham gia giao thông khác biết mình đang học lái xe."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Sử dụng điện thoại di động khi đang lái xe",
+"description":"Bạn chỉ được phép sử dụng điện thoại di động khi đang lái xe nếu xe đang đỗ đúng quy định."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Quy tắc lái xe trên dải phân cách tự nhiên",
+"description":"Lái xe trên dải phân cách cây xanh là bất hợp pháp trừ khi băng qua đó để vào lối đi riêng của xe."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Đảm nhận trách nhiệm",
+"description":"Người lái xe vượt có trách nhiệm đảm bảo việc vượt xe là an toàn."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Hướng dẫn dành cho sĩ quan cảnh sát",
+"description":"Khi được cảnh sát yêu cầu dừng lại, bạn phải dừng lại ngay khi thấy an toàn."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Đường ngang giao cắt với đường sắt",
+"description":"Tại giao lộ đường sắt có đèn đỏ nhấp nháy, bạn phải dừng lại và chờ cho đến khi đèn ngừng nhấp nháy."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Quy tắc đèn giao thông đỏ",
+"description":"Tại đèn giao thông đỏ, bạn phải dừng lại và giữ nguyên vị trí cho đến khi đèn chuyển màu."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Rẽ phải tại giao lộ",
+"description":"Khi cả hai xe cùng rẽ phải tại giao lộ, không xe nào phải nhường đường nếu đường đi của chúng không giao nhau."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Lối vào vòng xoay",
+"description":"Khi vào vòng xuyến, hãy nhường đường cho các phương tiện đã có sẵn trong vòng xuyến."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Quy tắc vào vòng xoay",
+"description":"Khi hai xe cùng đến một vòng xuyến, xe đi vào phải nhường đường cho xe đi bên phải."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Lối vào làn đường dành cho xe cộ",
+"description":"Khi nhập làn từ lề đường, người lái xe nhập làn phải nhường đường."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Vạch dừng tại giao lộ",
+"description":"Khi đến gần giao lộ có vạch dừng, bạn phải dừng hẳn lại tại vạch đó."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Quy trình dừng xe tại biển báo dừng",
+"description":"Khi đến gần biển báo dừng, bạn phải dừng hẳn lại và nhường đường cho tất cả các phương tiện giao thông."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Quy tắc giao lộ chữ T",
+"description":"Tại ngã ba hình chữ T không có biển báo, người lái xe trên đường cuối cùng phải nhường đường."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Vòng xoay giao thông",
+"description":"Bạn được phép lái xe qua đảo giao thông được sơn vạch đứt đoạn và việc đó an toàn."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Biển báo giao thông so với vạch kẻ đường",
+"description":"Nếu biển báo giao thông xung đột với vạch kẻ đường, hãy tuân theo biển báo giao thông."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Quy tắc nhường đường khi quay đầu xe",
+"description":"Khi quay đầu xe, xe đang quay đầu phải nhường đường cho xe đi ngược chiều."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Quay đầu xe tại đèn giao thông",
+"description":"Bạn có thể quay đầu xe tại đèn giao thông nếu việc đó an toàn và hợp pháp."
+}
+]

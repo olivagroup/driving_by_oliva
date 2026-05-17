@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Matxura Prozedura",
+"description":"Zure ibilgailua errepidean matxuratzen bada, erabili larrialdi-argiak eta irten errepidetik ahal bada."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Autobus geltokitik irten",
+"description":"Autobus batek hirigune batean dagoen geltoki batetik irteteko seinalea ematen duenean, lehentasuna eman behar diozu abiadura-muga 70 km/h edo gutxiago bada."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Sarrerako edo aparkalekuko sarrera",
+"description":"Sarreratik edo aparkalekutik errepidera sartzen den gidariak lehentasuna eman behar die errepidean dauden ibilgailuei."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Gidabaimena Eramateko Baldintza",
+"description":"Gidabaimena eraman behar duzu edo eskatutakoan erakusteko gai izan."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Larrialdiko ibilgailuen aurreratzea",
+"description":"Argi keinukariak dituzten larrialdi-ibilgailu geldiak aurreratzean, moteldu eta kontuz ibili."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Semaforo gorri keinukaria",
+"description":"Semaforo gorri keinukari batek gelditu eta segurua denean aurrera egitera behartzen zaitu."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Semaforo hori keinukaria",
+"description":"Semaforo hori keinukari batek kontuz joan zaitezkeela esan nahi du."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Uholde-uretan gidatzea",
+"description":"Ez gidatu uholde-uretan sakonera edo segurtasuna ziurgabe badago."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Eman bide seinalea",
+"description":"Pasabidea emateko seinale batera hurbiltzean, moteldu eta aurrea hartzen ari den trafiko guztiari eman behar diozu lehentasuna."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Bidegurutzeetan bidea ematea",
+"description":"Kontrolik gabeko bidegurutze batean, eskuinetik datozen ibilgailuei eman behar diezu bidea."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Ezkerrako gezi berdea",
+"description":"Semaforoetan ezkerrera gezi berde batek esan nahi du ezkerrera biratu dezakezula lehentasuna eman gabe."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Faroen erabilera",
+"description":"Ilunabarraren eta egunsentiaren artean edo ikusgarritasuna txarra denean, faroak erabili behar dituzu."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Adierazlearen hutsegiteen prozedurak",
+"description":"Adierazleak huts egiten badute, erabili eskuzko seinaleak ahal den guztietan eta jarraitu kontuz."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Gidari Ikasleen Arauak",
+"description":"Gidari ikasleek L plakak erakutsi behar dituzte uneoro gidatzen ari direnean, beste errepideko erabiltzaileei beren ikasle egoeraren berri emateko."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Gidatzen ari zaren bitartean telefono mugikorraren erabilera",
+"description":"Gidatzen ari zaren bitartean telefono mugikorra legalki erabili ahal izango duzu ibilgailua legez aparkatuta badago bakarrik."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Natura-zirkuituko gidatzeko arauak",
+"description":"Natura-eremu batean gidatzea legez kanpokoa da, sarbide batera sartzeko zeharkatzen ez bada."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Aurrerapen Erantzukizuna",
+"description":"Aurreratzen ari den gidariak du aurreratzea segurua dela ziurtatzeaz arduratzen."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Polizia-agentearen argibideak",
+"description":"Polizia-agente batek gelditzeko agindua ematen dizunean, segurua den bezain laster gelditu behar duzu."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Trenbide-pasagunea",
+"description":"Argi gorri keinukariak dituen trenbide-pasagune batean, gelditu eta argiak keinuka gelditu arte itxaron behar duzu."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Semaforo gorrien arauak",
+"description":"Semaforo gorri batean, gelditu egin behar duzu eta geldirik egon semaforoa aldatu arte."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Eskuinera bira bidegurutzean",
+"description":"Bi ibilgailuak bidegurutze batean eskuinera biratzen ari direnean, ez bata ez bestea ez dira bidea eman behar haien bideak gurutzatzen ez badira."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Biribilguneko sarrera",
+"description":"Biribilgune batera sartzean, eman bidea dagoeneko biribilgunean dauden ibilgailuei."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Biribilguneko sarrera arauak",
+"description":"Bi ibilgailu biribilgune batera aldi berean iristen direnean, sartzen den ibilgailuak eskuineko ibilgailuari eman behar dio bidea."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Sorbaldako trafiko sarrera",
+"description":"Trafikoan bazterretik sartzean, trafikoan sartzen den gidariak lehentasuna eman behar dio."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Geldialdi-lerroa bidegurutzeetan",
+"description":"Gelditze-lerroa duen bidegurutze batera hurbiltzean, lerroan erabat gelditu behar duzu."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Stop seinaleen prozedurak",
+"description":"Stop seinale batera hurbiltzean, erabat gelditu eta trafiko guztiari bidea eman behar diozu."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"T-Bisekturaren Arauak",
+"description":"Seinalerik gabeko T formako bidegurutze batean, amaierako errepideko gidariak lehentasuna eman behar dio."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Trafiko uharteko pasabidea",
+"description":"Margotutako trafiko-irteera batetik zehar gidatzea baimenduta dago, marra hautsia badu eta segurua bada hori egitea."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Trafiko seinalea vs errepide markaketa",
+"description":"Trafiko-seinale bat errepideko markaketa batekin talka egiten badu, jarraitu trafiko-seinaleari."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"U-bira egiteko bidea emateko arauak",
+"description":"U-biraketa egitean, bira ematen ari den ibilgailuak aurrez aurre datozen ibilgailuei eman behar die bidea."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Semaforoetan bira-bueltak",
+"description":"Semaforoetan bira bat egin dezakezu segurua eta legezkoa bada."
+}
+]

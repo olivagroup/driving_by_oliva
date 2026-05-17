@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Gedimų šalinimo procedūra",
+"description":"Jei jūsų transporto priemonė sugenda kelyje, įjunkite avarinius žibintus ir, jei įmanoma, nuvažiuokite nuo kelio."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Išvykimas iš autobusų stotelės",
+"description":"Kai autobusas rodo signalą išvažiuoti iš stotelės gyvenvietėje, privalote duoti kelią, jei leistinas greitis yra 70 km/h ar mažesnis."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Įvažiavimas į važiuojamąją dalį arba automobilių stovėjimo aikštelę",
+"description":"Vairuotojas, įvažiuojantis į kelią iš įvažiavimo ar automobilių stovėjimo aikštelės, privalo duoti kelią jau kelyje esančioms transporto priemonėms."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Vairuotojo pažymėjimo turėjimo reikalavimas",
+"description":"Privalote su savimi turėti vairuotojo pažymėjimą arba pateikti jį paprašius."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Avarinių transporto priemonių praleidimas",
+"description":"Lenkdami stovinčius avarinius automobilius su mirksinčiomis šviesomis, sulėtinkite greitį ir važiuokite atsargiai."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Mirksintis raudonas šviesoforo signalas",
+"description":"Mirksintis raudonas šviesoforo signalas reikalauja sustoti ir važiuoti toliau, kai saugu."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Mirksintis geltonas šviesoforas",
+"description":"Mirksintis geltonas šviesoforo signalas reiškia, kad galite važiuoti atsargiai."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Važiavimas potvynio metu",
+"description":"Nevažiuokite per potvynio vandenį, jei gylis ar saugumas nėra tikri."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Kelias į kelią",
+"description":"Artėjant prie kelio ženklo, privalote sulėtinti greitį ir duoti kelią visiems konfliktuojantiems eismo dalyviams."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Kelias sankryžose",
+"description":"Nereguliuojamoje sankryžoje privalote duoti kelią transporto priemonėms, artėjančioms iš dešinės."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Žalia rodyklė kairėn",
+"description":"Žalia rodyklė į kairę prie šviesoforo reiškia, kad galite pasukti į kairę neužleisdami kelio."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Priekinių žibintų naudojimas",
+"description":"Privalote naudoti priekinius žibintus tarp saulėlydžio ir saulėtekio arba esant blogam matomumui."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Indikatoriaus gedimų procedūros",
+"description":"Jei jūsų posūkio signalai neveikia, kai įmanoma, naudokite rankų signalus ir važiuokite atsargiai."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Mokinio vairuotojo taisyklės",
+"description":"Mokiniai vairuotojai vairuodami privalo visada rodyti L raidės ženklus, kad informuotų kitus eismo dalyvius apie savo, kaip mokinio, statusą."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Mobiliojo telefono naudojimas vairuojant",
+"description":"Vairuojant mobiliuoju telefonu galima naudotis tik tuo atveju, jei transporto priemonė yra teisėtai pastatyta."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Gamtos juostos vairavimo taisyklės",
+"description":"Vairuoti gamtos taku draudžiama, nebent jį kertant būtų galima patekti į įvažiavimą."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Aplenkti atsakomybę",
+"description":"Lenkiantis vairuotojas yra atsakingas už tai, kad lenkti būtų saugu."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Policijos pareigūno instrukcijos",
+"description":"Kai policijos pareigūnas nurodo sustoti, privalote sustoti, kai tik tai tampa saugu."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Geležinkelio pervaža",
+"description":"Geležinkelio pervažoje su mirksinčiais raudonais šviesoforo signalais privalote sustoti ir palaukti, kol šviesoforai nustos mirksėti."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Raudonojo šviesoforo taisyklės",
+"description":"Degant raudonam šviesoforo signalui, privalote sustoti ir likti stovėdami, kol pasikeis šviesoforo signalas."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Dešinysis posūkis sankryžoje",
+"description":"Kai abi transporto priemonės sankryžoje suka į dešinę, nė viena iš jų neprivalo duoti kelio, jei jų keliai nesusikerta."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Įvažiavimas į žiedinę sankryžą",
+"description":"Įvažiuodami į žiedinę sankryžą, duokite kelią joje jau esantiems automobiliams."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Žiedinės sankryžos įvažiavimo taisyklės",
+"description":"Kai į žiedinę sankryžą vienu metu atvyksta dvi transporto priemonės, įvažiuojanti transporto priemonė privalo duoti kelią dešinėje esančiai transporto priemonei."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Eismo įvažiavimas kelkraščio zonoje",
+"description":"Įvažiuodamas į eismą nuo kelkraščio, vairuotojas privalo duoti kelią įvažiuojančiam vairuotojui."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"STOP linija sankryžose",
+"description":"Artėjant prie sankryžos su stop linija, privaloma visiškai sustoti prie jos."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"STOP ženklų procedūros",
+"description":"Artėjant prie STOP ženklo, privalote visiškai sustoti ir duoti kelią visiems eismo dalyviams."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"T formos sankryžos taisyklės",
+"description":"T formos sankryžoje be ženklų vairuotojas, važiuojantis galiniu keliu, privalo duoti kelią."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Eismo salelės perėja",
+"description":"Leidžiama važiuoti per pažymėtą eismo salelę, jei ji yra su punktyrinėmis linijomis ir tai daryti saugu."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Eismo ženklas ir kelio ženklinimas",
+"description":"Jei kelio ženklas prieštarauja kelio ženklinimui, vadovaukitės kelio ženklu."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Apsisukimo davimo taisyklės",
+"description":"Apsisukdama, transporto priemonė, atliekanti apsisukimą, privalo duoti kelią priešpriešiais atvažiuojančioms transporto priemonėms."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Apsisukimai prie šviesoforų",
+"description":"Galite apsisukti prie šviesoforo, jei tai daryti saugu ir leidžiama."
+}
+]

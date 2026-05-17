@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"故障排查程序",
+"description":"如果您的车辆在路上发生故障,请打开危险警示灯,并尽可能将车辆移至路边。"
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"公交车站离开",
+"description":"在城区,当公交车发出驶离公交车站的信号时,如果限速为 70 公里/小时或以下,您必须让行。"
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"车道或停车场入口",
+"description":"从车道或停车场驶入道路的驾驶员必须让行道路上已有的车辆。"
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"驾驶执照携带要求",
+"description":"你必须随身携带驾驶执照,或者能够在被要求时出示。"
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"紧急车辆通过",
+"description":"经过闪着灯的静止应急车辆时,减速慢行,谨慎行驶。"
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"闪烁的红色交通灯",
+"description":"闪烁的红灯表示您必须停车,并在安全的情况下继续行驶。"
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"闪烁的黄色交通灯",
+"description":"闪烁的黄色交通灯表示您可以谨慎通行。"
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"洪水驱动",
+"description":"如果水深或安全状况不确定,请勿驾车涉水。"
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"让路标志",
+"description":"遇到让行标志时,必须减速并让行所有来往车辆。"
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"在十字路口让行",
+"description":"在没有交通信号灯的十字路口,你必须让右侧驶来的车辆先行。"
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"绿色左箭头",
+"description":"交通信号灯上的绿色左转箭头表示您可以左转而无需让行。"
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"前照灯使用",
+"description":"日落至日出期间或能见度差时,必须使用车头灯。"
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"指示器故障处理程序",
+"description":"如果指示灯失灵,请尽可能使用手势信号并谨慎行驶。"
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"新手驾驶员规则",
+"description":"实习驾驶员在驾驶时必须始终佩戴 L 牌,以告知其他道路使用者其实习驾驶员身份。"
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"驾驶时使用手机",
+"description":"只有在车辆合法停放的情况下,驾驶时才能合法使用手机。"
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"绿化带驾驶规则",
+"description":"除非是为了驶入车道而穿越路边绿化带,否则在绿化带上行驶是违法的。"
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"承担责任",
+"description":"超车驾驶员有责任确保超车安全。"
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"警官指示",
+"description":"当警察指示你停车时,你必须在确保自身安全的情况下尽快停车。"
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"铁路平交道口",
+"description":"在闪烁红灯的铁路道口,您必须停车等待,直到红灯停止闪烁。"
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"红灯规则",
+"description":"红灯时,你必须停车,并保持停车状态直到信号灯变绿。"
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"在路口右转",
+"description":"当两辆车在十字路口右转时,如果它们的行驶路线不相交,则任何一辆车都不必让行。"
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"环岛入口",
+"description":"进入环岛时,应让行环岛内已有的车辆。"
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"环岛入口规则",
+"description":"当两辆车同时到达环岛时,进入环岛的车辆必须让右侧车辆先行。"
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"路肩交通入口",
+"description":"从路肩驶入车流时,驶入车流的车辆必须让行。"
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"十字路口停车线",
+"description":"接近设有停车线的十字路口时,必须在停车线处完全停车。"
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"停车标志程序",
+"description":"接近停车标志时,必须完全停车,并让行所有车辆。"
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"T 形交叉路口规则",
+"description":"在没有标志的丁字路口,尽头路上的驾驶员必须让行。"
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"交通岛穿越",
+"description":"当交通岛为虚线且安全时,允许车辆驶过。"
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"交通标志与道路标线",
+"description":"如果交通标志与道路标线冲突,请按照交通标志行驶。"
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"U型转弯让行规则",
+"description":"车辆掉头时,掉头车辆必须让行对向来车。"
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"在交通信号灯处掉头",
+"description":"在交通信号灯处,如果安全合法,你可以掉头。"
+}
+]

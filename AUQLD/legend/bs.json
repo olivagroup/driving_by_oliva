@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Postupak za raščišćavanje kvara",
+"description":"Ako vam se vozilo pokvari na putu, koristite svjetla za opasnost i ako je moguće, sklonite se s puta."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Odlazak s autobuske stanice",
+"description":"Kada autobus da signal za napuštanje autobuske staniceunaseljenom mjestu, morate dati prednost ako je ograničenje brzine 70 km/h ili manje."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Ulaz na prilaz ili parking",
+"description":"Vozač koji ulazi na cestu iz prilaza ili parkirališta mora dati prednost vozilima koja su već na cesti."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Zahtjev za posjedovanje vozačke dozvole",
+"description":"Morate imati vozačku dozvolu ili je moći pokazati na zahtjev."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Prolazak vozila hitne pomoći",
+"description":"Prilikom preticanja pored zaustavljenih vozila hitne pomoći sa upaljenim svjetlima, usporite i vozite oprezno."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Trepćuće crveno svjetlo na semaforu",
+"description":"Trepćuće crveno svjetlo na semaforu zahtijeva da se zaustavite i nastavite kada je to sigurno."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Trepćuće žuto svjetlo na semaforu",
+"description":"Trepćuće žuto svjetlo na semaforu znači da možete nastaviti s oprezom."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Vožnja poplavnim vodama",
+"description":"Ne vozite kroz poplavnu vodu ako su dubina ili sigurnost nesigurni."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Znak za ustupanje prednosti",
+"description":"Prilikom približavanja znaku za ustupanje prednosti, morate usporiti i dati prednost svim vozilimausuprotnom smjeru."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Ustupanje prednosti na raskrsnicama",
+"description":"Na neregulisanoj raskrsnici morate dati prednost vozilima koja vam se približavaju s desne strane."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Zelena strelica lijevo",
+"description":"Zelena strelica lijevo na semaforu znači da možete skrenuti lijevo bez davanja prednosti."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Upotreba prednjih svjetala",
+"description":"Morate koristiti prednja svjetla između zalaska i izlaska sunca ili kada je vidljivost slaba."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Postupciuslučaju kvara indikatora",
+"description":"Ako vam pokazivači smjera ne uspiju, koristite ručne signale gdje god je to moguće i nastavite oprezno."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Pravila za vozače početnike",
+"description":"Vozači početnici moraju uvijek nositi L-tablice tokom vožnje kako bi obavijestili druge učesnikeusaobraćaju o svom statusu vozača početnika."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Korištenje mobilnog telefona tokom vožnje",
+"description":"Mobilni telefon smijete koristiti tokom vožnje samo ako je vozilo legalno parkirano."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Pravila vožnje na prirodnoj traci",
+"description":"Vožnja po prirodnoj zoni je ilegalna osim ako se ne prelazi radi pristupa prilazu."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Preuzimanje odgovornosti",
+"description":"Vozač koji vrši preticanje odgovoran je za osiguranje sigurnosti preticanja."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Upute policajcu",
+"description":"Kada vam policajac naloži da se zaustavite, morate se zaustaviti čim to bude sigurno."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Željeznički prijelaz",
+"description":"Na željezničko-cestovitom prelazu sa upaljenim crvenim svjetlima, morate se zaustaviti i sačekati dok svjetla ne prestanu treptati."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Pravila za crveno svjetlo na semaforu",
+"description":"Na crvenom svjetlu na semaforu morate se zaustaviti i ostati zaustavljeni dok se svjetlo ne promijeni."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Desno skretanje na raskrsnici",
+"description":"Kada oba vozila skreću desno na raskrsnici, nijedno vozilo ne smije dati prednost ako se njihove putanje ne ukrštaju."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Ulazukružni tok",
+"description":"Prilikom ulaskaukružni tok, dajte prednost vozilima koja su većukružnom toku."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Pravila za ulazakukružni tok",
+"description":"Kada dva vozila istovremeno dođu na kružni tok, vozilo koje ulazi mora dati prednost vozilu s desne strane."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Ulazusaobraćajnu traku",
+"description":"Prilikom uključivanjausaobraćaj sa bankine, vozač koji se uključujeusaobraćaj mora dati prednost."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Zaustavna linija na raskrsnicama",
+"description":"Prilikom približavanja raskrsnici sa linijom zaustavljanja, morate se potpuno zaustaviti na liniji."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Procedure za znak stop",
+"description":"Prilikom približavanja znaku stop, morate se potpuno zaustaviti i dati prednost svim vozilima."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Pravila T-presjeka",
+"description":"Na T-raskrsnici bez znakova, vozač na završnoj cesti mora dati prednost."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Prelaz preko saobraćajnog ostrva",
+"description":"Dozvoljeno vam je voziti preko označenog saobraćajnog ostrva kada je ono isprekidano i kada je to bezbedno."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Saobraćajni znakuodnosu na oznake na putu",
+"description":"Ako je saobraćajni znakusuprotnosti sa oznakama na putu, slijedite saobraćajni znak."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Pravila za polukružno okretanje: Dajte prednost",
+"description":"Prilikom polukružnog okretanja, vozilo koje se okreće mora dati prednost vozilima koja dolazeusuprotnom smjeru."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Polukružna okretanja na semaforima",
+"description":"Možete se okrenuti polukružno na semaforu ako je to sigurno i legalno."
+}
+]

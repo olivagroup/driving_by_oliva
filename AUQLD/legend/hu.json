@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Lebontási eljárás",
+"description":"Ha a járműve úton lerobban, használja a vészvillogót, és lehetőség szerint térjen le az útról."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Buszmegálló elhagyása",
+"description":"Amikor egy busz lakott területen jelzést ad a megállóhely elhagyására, elsőbbséget kell adni, ha a sebességkorlátozás 70 km/h vagy annál alacsonyabb."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Behajtó a kocsifelhajtóról vagy a parkolóból",
+"description":"A kocsibeállóból vagy parkolóból az útra felhajtó járművezetőnek elsőbbséget kell adnia a már az úton lévő járműveknek."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Jogosítvány birtoklási követelmény",
+"description":"Magánál kell tartania a jogosítványát, vagy kérésre be kell tudnia mutatni."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Sürgősségi járművek elhaladása",
+"description":"Villogó fényekkel ellátott, álló sürgősségi járművek mellett haladva lassítson le és haladjon óvatosan."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Villogó piros közlekedési lámpa",
+"description":"A villogó piros lámpa megköveteli, hogy állj meg, és biztonságosan haladj tovább."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Villogó sárga közlekedési lámpa",
+"description":"A villogó sárga lámpa azt jelenti, hogy óvatosan haladhat."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Árvízveszélyes vezetés",
+"description":"Ne hajtson át árvízen, ha a mélység vagy a biztonság bizonytalan."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Elsőbbségadás tábla",
+"description":"Amikor egy elsőbbségadást jelző táblához közeledsz, lassíts és elsőbbséget kell adnod minden ütköző forgalomnak."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Elsőbbségadás kereszteződésekben",
+"description":"Szabályozatlan kereszteződésben elsőbbséget kell adni a jobbról közeledő járműveknek."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Zöld balra mutató nyíl",
+"description":"A lámpánál látható zöld balra mutató nyíl azt jelenti, hogy elsőbbségadás nélkül balra kanyarodhatsz."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Fényszóró használata",
+"description":"Napnyugta és napkelte között, illetve rossz látási viszonyok esetén kötelező a fényszórók használata."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Jelzőfény meghibásodásának eljárásai",
+"description":"Ha az irányjelzőid nem működnek, lehetőség szerint kézjeleket használj, és óvatosan haladj."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Tanulóvezetői szabályok",
+"description":"A tanulóvezetőknek vezetés közben mindig ki kell helyezniük az L-táblát, hogy tájékoztassák a többi közlekedőt tanuló státuszukról."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Mobiltelefon-használat vezetés közben",
+"description":"Vezetés közben csak akkor lehet mobiltelefont használni, ha a járművet szabályosan parkolják le."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Természetvédelmi sáv vezetési szabályai",
+"description":"Tilos a természetvédelmi területen közlekedni, kivéve, ha átkelünk rajta egy kocsifelhajtó eléréséhez."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Előzési felelősség",
+"description":"Az előzést végző sofőr felelős azért, hogy biztonságosan előzhessen."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Rendőri utasítások",
+"description":"Amikor egy rendőr megállásra utasít, a lehető leghamarabb meg kell állni."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Vasúti átjáró",
+"description":"Villogó piros lámpával ellátott vasúti átjárónál meg kell állni, és meg kell várni, amíg a lámpák villogása megszűnik."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Piros lámpás szabályok",
+"description":"Piros lámpánál meg kell állni, és addig állva kell maradni, amíg a lámpa meg nem változik."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Jobbra kanyarodás a kereszteződésben",
+"description":"Amikor mindkét jármű jobbra kanyarodik egy kereszteződésben, egyik járműnek sem kell elsőbbséget adnia, ha az útjuk nem keresztezi egymást."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Körforgalomhoz való behajtás",
+"description":"Körforgalomba behajtáskor elsőbbséget kell adni a körforgalomban már tartózkodó járműveknek."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Körforgalomba való behajtás szabályai",
+"description":"Amikor két jármű egyszerre érkezik a körforgalomba, a behajtó járműnek elsőbbséget kell adnia a jobbról haladó járműnek."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Padka forgalmi behajtás",
+"description":"A padkáról behajtva a forgalomba a behajtó járművezetőnek elsőbbséget kell adnia."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Stopvonal kereszteződésekben",
+"description":"Stopvonallal ellátott kereszteződéshez közeledve teljesen meg kell állni a vonalnál."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Stoptábla eljárásai",
+"description":"STOP táblához közeledve teljesen meg kell állni, és elsőbbséget kell adni a forgalomnak."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"T-metszet szabályai",
+"description":"Táblák nélküli T-kereszteződésben a végződő úton haladó vezetőnek elsőbbséget kell adnia."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Közlekedési sziget átkelőhely",
+"description":"Felfestett jelzőszigeten csak akkor szabad áthajtani, ha az szabályos jelzésű és biztonságos."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Közlekedési tábla vs. útburkolati jelek",
+"description":"Ha egy közlekedési tábla ütközik az útburkolati jelekkel, kövesse a közlekedési táblát."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"U-fordulási elsőbbségadási szabályok",
+"description":"Megforduláskor a megforduló járműnek elsőbbséget kell adnia a szembejövő járműveknek."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"U-fordulások a közlekedési lámpáknál",
+"description":"Megfordulhatsz a közlekedési lámpánál, ha az biztonságos és szabályos."
+}
+]

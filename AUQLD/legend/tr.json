@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Arıza Prosedürü",
+"description":"Aracınız yolda arıza yaparsa, dörtlü flaşörlerinizi yakın ve mümkünse yol kenarına çekin."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Otobüs Durağı Ayrılışı",
+"description":"Yerleşim yerinde bir otobüs duraktan ayrılmak için sinyal verdiğinde, hız sınırı 70 km/saat veya daha az ise yol vermelisiniz."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Araç Girişi veya Otopark Girişi",
+"description":"Araç giriş yolundan veya otoparktan yola giren sürücü, halihazırda yolda bulunan araçlara yol vermelidir."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Sürücü Belgesi Taşıma Zorunluluğu",
+"description":"Sürücü belgenizi yanınızda bulundurmalı veya istendiğinde ibraz edebilmelisiniz."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Acil Durum Aracı Geçiyor",
+"description":"Durmakta olan ve ışıkları yanıp sönen acil durum araçlarının yanından geçerken yavaşlayın ve dikkatli ilerleyin."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Yanıp Sönen Kırmızı Trafik Lambası",
+"description":"Yanıp sönen kırmızı trafik ışığı, durmanızı ve güvenli olduğunda ilerlemenizi gerektirir."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Yanıp Sönen Sarı Trafik Lambası",
+"description":"Yanıp sönen sarı trafik ışığı, dikkatli bir şekilde ilerleyebileceğiniz anlamına gelir."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Sel sularının sürüşü",
+"description":"Su derinliği veya güvenliği konusunda emin değilseniz, sel sularının içinden araçla geçmeyin."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Yol Ver İşareti",
+"description":"Yol verme işaretine yaklaşırken, yavaşlamalı ve karşıdan gelen tüm trafiğe yol vermelisiniz."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Kavşaklarda Yol Verme",
+"description":"Kontrolsüz bir kavşakta, sağınızdan gelen araçlara yol vermelisiniz."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Yeşil Sol Ok",
+"description":"Trafik ışıklarında yeşil sol ok, yol vermeden sola dönebileceğiniz anlamına gelir."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Far Kullanımı",
+"description":"Gün batımı ile gün doğumu arasında veya görüş mesafesinin düşük olduğu durumlarda farlarınızı kullanmalısınız."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Gösterge Arızası Prosedürleri",
+"description":"Sinyalleriniz çalışmazsa, mümkünse el işaretleri kullanın ve dikkatli ilerleyin."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Acemi Sürücü Kuralları",
+"description":"Sürücü adayları, diğer yol kullanıcılarını sürücü adaylığı durumunda bilgilendirmek için araç kullanırken her zaman L harfini gösteren levhaları takmalıdır."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Sürüş Sırasında Cep Telefonu Kullanımı",
+"description":"Araç yasal olarak park halindeyken cep telefonu kullanmanıza yalnızca bu şartlar geçerlidir."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Yeşil Alan Sürüş Kuralları",
+"description":"Yol kenarına dikilen yeşil alanlarda araç kullanmak, bir araç giriş yoluna ulaşmak için karşıya geçmediğiniz sürece yasa dışıdır."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Sorumluluğu Devralmak",
+"description":"Sollama yapan sürücü, sollama işleminin güvenli olduğundan emin olmakla sorumludur."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Polis Memuru Talimatları",
+"description":"Bir polis memuru tarafından durmanız istendiğinde, güvenli olduğu anda durmalısınız."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Demiryolu Hemzemin Geçidi",
+"description":"Yanıp sönen kırmızı ışıkların bulunduğu bir demiryolu geçidinde, ışıklar yanıp sönmeyi bırakana kadar durmalı ve beklemelisiniz."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Kırmızı Trafik Işığı Kuralları",
+"description":"Kırmızı ışıkta durmalı ve ışık değişene kadar durmaya devam etmelisiniz."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Kavşakta Sağa Dönüş",
+"description":"Kavşakta her iki araç da sağa dönüyorsa ve yolları kesişmiyorsa, hiçbir aracın yol vermesi zorunlu değildir."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Döner Kavşak Girişi",
+"description":"Döner kavşağa girerken, kavşakta bulunan araçlara yol verin."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Döner Kavşağa Giriş Kuralları",
+"description":"İki araç aynı anda bir döner kavşağa geldiğinde, kavşağa giren araç sağdaki araca yol vermelidir."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Omuzdan Trafik Girişi",
+"description":"Yol kenarından trafiğe girerken, trafiğe giren sürücü yol vermelidir."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Kavşaklarda Durma Çizgisi",
+"description":"Durma çizgisi bulunan bir kavşağa yaklaşırken, çizginin olduğu yerde tamamen durmalısınız."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Dur İşareti Prosedürleri",
+"description":"Dur levhasına yaklaşırken, tamamen durmalı ve tüm trafiğe yol vermelisiniz."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"T-Kavşak Kuralları",
+"description":"Levha bulunmayan T kavşaklarında, karşı şeritteki sürücü yol vermelidir."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Trafik Adası Geçişi",
+"description":"Kesik çizgili ve güvenli olduğu durumlarda, boyalı trafik adalarının üzerinden araçla geçmenize izin verilir."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Trafik İşareti ile Yol İşaretlemesi Arasındaki Fark",
+"description":"Eğer bir trafik işareti yol işaretlemesiyle çelişiyorsa, trafik işaretine uyun."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"U dönüşü ve yol verme kuralları",
+"description":"U dönüşü yaparken, U dönüşü yapan araç karşıdan gelen araçlara yol vermelidir."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Trafik ışıklarında U dönüşü",
+"description":"Trafik ışıklarında U dönüşü yapmak güvenli ve yasal ise mümkündür."
+}
+]

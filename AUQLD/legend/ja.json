@@ -1,0 +1,188 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"分解手順",
+"description":"道路上で車両が故障した場合は、ハザードランプを点灯し、可能であれば道路から離れてください。"
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"バス停出発",
+"description":"市街地内のバス停からバスが出発する合図をしたとき、制限速度が時速 70 キロメートル以下の場合は道を譲らなければなりません。"
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"車道または駐車場入口",
+"description":"車道または駐車場から道路に進入する運転者は、すでに道路上にいる車両に道を譲らなければなりません。"
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"運転免許証の携帯要件",
+"description":"運転免許証を携帯するか、要求されたときに提示できるようにする必要があります。"
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"緊急車両の通過",
+"description":"点滅灯を点灯した停止中の緊急車両を通過するときは、速度を落とし、注意して進んでください。"
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"点滅する赤信号",
+"description":"点滅する赤信号では、停止して安全を確認してから進む必要があります。"
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"点滅する黄色の信号",
+"description":"点滅する黄色の信号は、注意して進むことができることを意味します。"
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"洪水運転",
+"description":"深さや安全性が不明な場合は、洪水の中を運転しないでください。"
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"譲歩標識",
+"description":"譲歩標識に近づくときは、速度を落とし、衝突するすべての交通に道を譲る必要があります。"
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"交差点での譲り合い",
+"description":"信号のない交差点では、右側から接近する車両に道を譲らなければなりません。"
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"緑の左矢印",
+"description":"信号機で緑の左矢印が表示されている場合は、道を譲らずに左折できることを意味します。"
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"ヘッドライトの使用",
+"description":"日没から日の出までの間や視界が悪いときは、ヘッドライトを使用する必要があります。"
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"インジケーター故障手順",
+"description":"方向指示器が故障した場合は、可能な場合は手信号を使用し、慎重に進んでください。"
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"学習運転者ルール",
+"description":"教習生ドライバーは、運転中は常に L プレートを表示して、他の道路利用者に自分が教習生であることを知らせなければなりません。"
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"運転中の携帯電話の使用",
+"description":"車両が合法的に駐車されている場合にのみ、運転中に携帯電話を合法的に使用できます。"
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"自然帯の運転ルール",
+"description":"自然地帯を車で走行することは、私道にアクセスするためにそこを横断する場合を除いて違法です。"
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"責任の追及",
+"description":"追い越しするドライバーは追い越しが安全であることを確認する責任があります。"
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"警察官の指示",
+"description":"警察官から停止を指示された場合は、安全が確保され次第停止しなければなりません。"
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"踏切",
+"description":"赤色の点滅信号がある踏切では、停止して点滅が止まるまで待たなければなりません。"
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"赤信号のルール",
+"description":"赤信号では停止し、信号が変わるまで停止したままでなければなりません。"
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"交差点で右折",
+"description":"両方の車両が交差点で右折する場合、進路が交わらない限りどちらの車両も道を譲ってはいけません。"
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"ラウンドアバウト入口",
+"description":"ラウンドアバウトに進入する際は、すでにラウンドアバウト内にいる車両に道を譲ってください。"
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"ラウンドアバウト進入ルール",
+"description":"2 台の車両が同時にラウンドアバウトに到着した場合、進入する車両は右側の車両に道を譲らなければなりません。"
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"路肩交通入口",
+"description":"路肩から車道に進入する場合、進入してくるドライバーは道を譲らなければなりません。"
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"交差点の停止線",
+"description":"停止線のある交差点に近づくときは、停止線で完全に停止しなければなりません。"
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"一時停止の標識の手順",
+"description":"一時停止の標識に近づくときは、完全に停止し、すべての交通に道を譲る必要があります。"
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"T字路のルール",
+"description":"標識のない T 字路では、終点の道路の運転者が道を譲らなければなりません。"
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"交通島横断",
+"description":"交通島が破線で示されており、安全に通行できる場合は、その道路を車で横断することが許可されます。"
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"交通標識と道路標示",
+"description":"交通標識が道路標示と矛盾する場合は、交通標識に従ってください。"
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Uターン時の譲歩ルール",
+"description":"Uターンをする場合、Uターンする車両は対向車両に道を譲らなければなりません。"
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"信号でのUターン",
+"description":"安全かつ合法であれば、信号で U ターンすることができます。"
+}
+]
