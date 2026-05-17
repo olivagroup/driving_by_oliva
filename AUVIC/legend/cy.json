@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Chwedl",
+category:"Terfynau Alcohol (VIC)",
+description:"Yn Victoria, rhaid i yrwyr sy'n dysgu ac ar brawf (P1/P2) gael BAC o 0.00. Yn gyffredinol, mae gan yrwyr trwyddedig llawn derfyn BAC o 0.05."
+},
+{
+id: 2,
+englishName:"Chwedl",
+category:"Cyfyngiadau Plant",
+description:"Rhaid i blant gael eu clymu mewn gwregys diogelwch cymeradwy sy'n briodol ar gyfer eu hoedran/maint; efallai na fydd gwregys diogelwch oedolyn ar ei ben ei hun yn darparu'r amddiffyniad cywir."
+},
+{
+id: 3,
+englishName:"Chwedl",
+category:"Clirffordd",
+description:"Mae clirffordd yn golygu na ddylech stopio na pharcio ar yr ochr honno o'r ffordd yn ystod yr amseroedd clirffordd a ddangosir ar arwyddion."
+},
+{
+id: 4,
+englishName:"Chwedl",
+category:"Gyrru Amddiffynnol",
+description:"Mae gyrru amddiffynnol yn golygu rhagweld camgymeriadau eraill, sganio ymlaen, a chadw gofod byffer diogel fel y gallwch ymateb yn gynnar i beryglon."
+},
+{
+id: 5,
+englishName:"Chwedl",
+category:"Llinellau Canol Parhaus Dwbl",
+description:"Mae llinell ganol barhaus ddwbl yn golygu na ddylech groesi na pontio'r llinellau."
+},
+{
+id: 6,
+englishName:"Chwedl",
+category:"Rhoddwr Argyfwng yn Rhoi Ffordd",
+description:"Os yw cerbyd brys yn defnyddio goleuadau/seiren, symudwch allan o'i lwybr a gadewch iddo basio'n ddiogel; peidiwch â dilyn yn agos y tu ôl iddo i fynd drwodd."
+},
+{
+id: 7,
+englishName:"Chwedl",
+category:"Rheoli Blinder",
+description:"Gall blinder effeithio ar yrru fel alcohol: ymatebion arafach a phenderfyniadau gwael. Os ydych chi'n teimlo'n gysglyd, stopiwch a gorffwyswch cyn parhau."
+},
+{
+id: 8,
+englishName:"Chwedl",
+category:"Pellter Dilyn (Rheol 2 Eiliad)",
+description:"O dan amodau da, cadwch fwlch o ddwy eiliad o leiaf y tu ôl i'r cerbyd o'ch blaen; cynyddwch y bwlch mewn amodau gwael."
+},
+{
+id: 9,
+englishName:"Chwedl",
+category:"Pellter Dilyn (Tywydd Gwlyb)",
+description:"Mewn amodau gwlyb, cynyddwch eich pellter dilyn (e.e., i tua phedair eiliad) oherwydd bod pellteroedd stopio yn cynyddu a bod gafael yn lleihau."
+},
+{
+id: 10,
+englishName:"Chwedl",
+category:"Rhoi Ffordd (Croesffyrdd Heb Reolaeth)",
+description:"Mewn croesffyrdd heb arwyddion/signalau, ildio yn ôl y rheolau (yn gyffredin: ildio i'r cerbyd ar eich ochr dde)."
+},
+{
+id: 11,
+englishName:"Chwedl",
+category:"Hook Turn (Tramiau VIC)",
+description:"Tro bachyn yw troad i'r dde arbennig a ddefnyddir mewn rhai croesffyrdd CBD Melbourne i osgoi rhwystro tramiau; fel arfer byddwch chi'n troi i'r dde o'r lôn chwith pan fydd arwyddion yn nodi hynny."
+},
+{
+id: 12,
+englishName:"Chwedl",
+category:"Newid Lôn",
+description:"Cyn newid lonydd, rhowch signal, gwiriwch y drychau a'r mannau dall, a symudwch dim ond pan fydd yn ddiogel—rhaid ufuddhau i farciau lonydd."
+},
+{
+id: 13,
+englishName:"Chwedl",
+category:"Goruchwylio Dysgwyr (VIC)",
+description:"Rhaid i ddysgwyr yrru dim ond gyda gyrrwr goruchwylio trwyddedig priodol yn eistedd wrth eu hochr; os nad yw'r oruchwyliaeth yn effeithiol, stopiwch yn ddiogel."
+},
+{
+id: 14,
+englishName:"Chwedl",
+category:"Arddangosfa Plât-L (VIC)",
+description:"Rhaid i yrwyr sy'n dysgu arddangos platiau L yn glir fel eu bod yn weladwy ar y cerbyd wrth yrru."
+},
+{
+id: 15,
+englishName:"Chwedl",
+category:"Ffonau Symudol (Dysgwyr)",
+description:"Ni ddylai gyrwyr sy'n dysgu yn Victoria ddefnyddio ffôn symudol mewn unrhyw ffordd wrth yrru."
+},
+{
+id: 16,
+englishName:"Chwedl",
+category:"Dim Parcio yn erbyn Dim Stopio",
+description:"Mae Dim Stopio yn golygu na ddylech stopio o gwbl (ac eithrio traffig/argyfwng). Gall Dim Parcio ganiatáu codi/gollwng pobl am gyfnod byr os caniateir hynny."
+},
+{
+id: 17,
+englishName:"Chwedl",
+category:"Goddiweddyd ar y Chwith (Aml-Lôn)",
+description:"Ar ffyrdd aml-lôn, caniateir goddiweddyd ar y chwith pan fydd cerbydau mewn lonydd wedi'u marcio ar wahân ac mae'n ddiogel."
+},
+{
+id: 18,
+englishName:"Chwedl",
+category:"Ynysoedd Traffig wedi'u Paentio (Marciau Chevron)",
+description:"Mae ynysoedd traffig/chevrons wedi'u peintio yn dynodi ardal na ddylech yrru arni (oni bai bod marciau/arwyddion yn caniatáu hynny'n benodol)."
+},
+{
+id: 19,
+englishName:"Chwedl",
+category:"Parcio Ger Croesffyrdd",
+description:"Gall parcio’n rhy agos at gorneli/croesffyrdd rwystro gwelededd ac mae’n gyfyngedig; dilynwch arwyddion/rheolau’r ffordd bob amser i gadw llinellau gwelededd yn glir."
+},
+{
+id: 20,
+englishName:"Chwedl",
+category:"Blaenoriaeth i Gerddwyr Wrth Droi",
+description:"Wrth droi, rhaid i chi ildio i gerddwyr sy'n croesi'r ffordd rydych chi'n mynd i mewn iddi (a chadwch yn wyliadwrus ger croesfannau a mannau prysur)."
+},
+{
+id: 21,
+englishName:"Chwedl",
+category:"Croesfannau Rheilffordd",
+description:"Stopiwch wrth groesfannau rheilffordd pan fydd goleuadau'n fflachio neu pan fydd gatiau'r bwm i lawr; peidiwch byth â mynd i mewn os na allwch glirio'r traciau'n ddiogel."
+},
+{
+id: 22,
+englishName:"Chwedl",
+category:"Rheolau Cylchfan",
+description:"Rhoi’r lle i gerbydau sydd eisoes yn y gylchfan; defnyddio’r dangosyddion yn gywir (gan gynnwys rhoi signalau i’r chwith wrth adael lle bo angen)."
+},
+{
+id: 23,
+englishName:"Chwedl",
+category:"Cyflymder Parth Ysgol",
+description:"Mewn parthau ysgol sydd wedi'u harwyddo, mae terfynau cyflymder is yn berthnasol yn ystod yr amseroedd a ddangosir; arafwch hyd yn oed os nad yw plant i'w gweld."
+},
+{
+id: 24,
+englishName:"Chwedl",
+category:"Rheolau Safleoedd Tram",
+description:"Rhaid i chi stopio i dramiau pan fo angen (e.e., pan fydd drysau ar agor) a rhoi lle i gerddwyr o amgylch arosfannau tramiau/parthau diogelwch."
+},
+{
+id: 25,
+englishName:"Chwedl",
+category:"Rheolau Troi-U",
+description:"Dim ond lle caniateir (heb fod wedi'i wahardd gan arwyddion/marciau) y caniateir troeon U a rhaid eu gwneud yn ddiogel gan ildio i eraill."
+}
+]

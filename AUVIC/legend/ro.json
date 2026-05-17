@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Legendă",
+category:"Limitele de alcool (VIC)",
+description:"În Victoria, șoferii începători și cei aflați în probă (P1/P2) trebuie să aibă o alcoolemie de 0,00. Șoferii cu permis de conducere complet au, în general, o limită de alcoolemie de 0,05."
+},
+{
+id: 2,
+englishName:"Legendă",
+category:"Sisteme de siguranță pentru copii",
+description:"Copiii trebuie să fie fixați într-un sistem de siguranță pentru copii omologat și adecvat vârstei/mărimii lor; o centură de siguranță pentru adulți, singură, poate să nu ofere protecția corectă."
+},
+{
+id: 3,
+englishName:"Legendă",
+category:"Alee liberă",
+description:"O zonă de trecere liberă înseamnă că nu trebuie să opriți sau să parcați pe acea parte a drumului în timpul de trecere liberă indicat pe indicatoare."
+},
+{
+id: 4,
+englishName:"Legendă",
+category:"Conducerea defensivă",
+description:"Condusul defensiv înseamnă anticiparea greșelilor celorlalți, anticiparea și menținerea unui spațiu tampon sigur, astfel încât să poți reacționa din timp la pericole."
+},
+{
+id: 5,
+englishName:"Legendă",
+category:"Linii centrale continue duble",
+description:"O linie centrală dublă continuă înseamnă că nu trebuie să traversați sau să depășiți liniile."
+},
+{
+id: 6,
+englishName:"Legendă",
+category:"Vehicul de urgență cedând trecerea",
+description:"Dacă un vehicul de urgență folosește luminile/sirena, dați-vă la o parte din calea sa și lăsați-l să treacă în siguranță; nu-l urmați îndeaproape pentru a trece prin trafic."
+},
+{
+id: 7,
+englishName:"Legendă",
+category:"Managementul oboselii",
+description:"Oboseala poate afecta condusul la fel ca alcoolul: reacții mai lente și decizii greșite. Dacă simțiți somnolență, opriți-vă și odihniți-vă înainte de a continua."
+},
+{
+id: 8,
+englishName:"Legendă",
+category:"Distanța de urmărire (regula de 2 secunde)",
+description:"În condiții bune, păstrați o distanță de cel puțin două secunde față de vehiculul din față; măriți distanța în condiții nefavorabile."
+},
+{
+id: 9,
+englishName:"Legendă",
+category:"Distanță de urmărire (vreme umedă)",
+description:"În condiții de umiditate, măriți distanța de urmărire (de exemplu, la aproximativ patru secunde) deoarece distanțele de frânare cresc, iar aderența este redusă."
+},
+{
+id: 10,
+englishName:"Legendă",
+category:"Cedarea trecerii (intersecții necontrolate)",
+description:"La intersecțiile fără indicatoare/semnale, acordați prioritate conform regulilor (în mod obișnuit: acordați prioritate vehiculului din dreapta)."
+},
+{
+id: 11,
+englishName:"Legendă",
+category:"Turn Hook (Tramvaie VIC)",
+description:"O virare cu cârlig este o modalitate specială de viraj la dreapta folosită în unele intersecții din centrul orașului Melbourne pentru a evita blocarea tramvaielor; de obicei, virați la dreapta de pe banda din stânga atunci când indicatoarele indică acest lucru."
+},
+{
+id: 12,
+englishName:"Legendă",
+category:"Schimbarea benzii",
+description:"Înainte de a schimba banda, semnalizați, verificați oglinzile și unghiurile moarte și porniți doar atunci când este sigur - marcajele de pe bandă trebuie respectate."
+},
+{
+id: 13,
+englishName:"Legendă",
+category:"Supravegherea cursantului (VIC)",
+description:"Cursanții trebuie să conducă doar sub supravegherea unui șofer cu permis corespunzător, așezat lângă ei; dacă supravegherea nu este eficientă, opriți în siguranță."
+},
+{
+id: 14,
+englishName:"Legendă",
+category:"Afișaj cu placă în formă de L (VIC)",
+description:"Șoferii începători trebuie să afișeze clar plăcuțele de înmatriculare cu litere L, astfel încât acestea să fie vizibile pe vehicul în timpul conducerii."
+},
+{
+id: 15,
+englishName:"Legendă",
+category:"Telefoane mobile (cursanți)",
+description:"Șoferii începători din Victoria nu trebuie să folosească telefonul mobil în niciun fel în timp ce conduc."
+},
+{
+id: 16,
+englishName:"Legendă",
+category:"Parcarea interzisă vs. oprirea interzisă",
+description:"Oprirea interzisă înseamnă că nu trebuie să opriți deloc (cu excepția traficului/urgențelor). Parcarea interzisă poate permite preluarea/coborârea scurtă a mașinii, dacă este permisă."
+},
+{
+id: 17,
+englishName:"Legendă",
+category:"Depășirea pe stânga (bandă multiplă)",
+description:"Pe drumurile cu mai multe benzi, depășirea pe stânga este permisă atunci când vehiculele se află pe benzi separate marcate și este în siguranță."
+},
+{
+id: 18,
+englishName:"Legendă",
+category:"Insule de trafic pictate (marcaje Chevron)",
+description:"Insulele/chevroanele de circulație pictate indică o zonă pe care nu trebuie să circulați (cu excepția cazului în care marcajele/semnele permit în mod expres)."
+},
+{
+id: 19,
+englishName:"Legendă",
+category:"Parcare în apropierea intersecțiilor",
+description:"Parcarea prea aproape de colțuri/intersecții poate bloca vizibilitatea și este restricționată; respectați întotdeauna indicatoarele/regulile de circulație pentru a menține vizibilitatea liberă."
+},
+{
+id: 20,
+englishName:"Legendă",
+category:"Prioritate pietonală la virare",
+description:"Când virați, trebuie să acordați prioritate pietonilor care traversează drumul pe care intrați (și să fiți atenți în apropierea trecerilor de pietoni și a zonelor aglomerate)."
+},
+{
+id: 21,
+englishName:"Legendă",
+category:"Treceri de cale ferată",
+description:"Opriți la trecerile de cale ferată când semafoarele clipesc sau barierele de acces sunt coborâte; nu intrați niciodată dacă nu puteți elibera șinele în siguranță."
+},
+{
+id: 22,
+englishName:"Legendă",
+category:"Regulile sensurilor giratorii",
+description:"Cedați trecerea vehiculelor aflate deja în sensul giratoriu; folosiți corect indicatoarele (inclusiv semnalizarea la stânga la ieșire, acolo unde este necesar)."
+},
+{
+id: 23,
+englishName:"Legendă",
+category:"Viteză în zona școlară",
+description:"În zonele școlare semnalizate, se aplică limite de viteză mai mici în intervalul orar indicat; încetiniți chiar dacă copiii nu sunt vizibili."
+},
+{
+id: 24,
+englishName:"Legendă",
+category:"Regulile stației de tramvai",
+description:"Trebuie să opriți pentru tramvaie atunci când este necesar (de exemplu, când ușile sunt deschise) și să acordați prioritate pietonilor în jurul stațiilor de tramvai/zonelor de siguranță."
+},
+{
+id: 25,
+englishName:"Legendă",
+category:"Reguli de întoarcere în U",
+description:"Întoarcerile în U sunt permise numai acolo unde este permis (nu interzis prin indicatoare/marcaje) și trebuie efectuate în siguranță, acordând prioritate celorlalți."
+}
+]

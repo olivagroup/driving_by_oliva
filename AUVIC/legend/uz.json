@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Afsona",
+category:"Spirtli ichimliklar limiti (VIC)",
+description:"Viktoriyada oʻrganuvchi va sinov muddatini oʻtab turgan (P1/P2) haydovchilarning BAC chegarasi 0,00 boʻlishi kerak. Toʻliq litsenziyaga ega haydovchilarning BAC chegarasi odatda 0,05 ga teng."
+},
+{
+id: 2,
+englishName:"Afsona",
+category:"Bolalar uchun cheklovlar",
+description:"Bolalar yoshi/o'lchamiga mos keladigan tasdiqlangan bolalar uchun mo'ljallangan xavfsizlik moslamasida o'tirgan bo'lishi kerak; kattalar uchun mo'ljallangan xavfsizlik kamarining o'zi to'g'ri himoyani ta'minlay olmasligi mumkin."
+},
+{
+id: 3,
+englishName:"Afsona",
+category:"Klirvey",
+description:"To'siq yo'li belgilarda ko'rsatilgan to'siq vaqtida yo'lning o'sha tomonida to'xtamasligingiz yoki mashinangizni to'xtatmasligingiz kerakligini anglatadi."
+},
+{
+id: 4,
+englishName:"Afsona",
+category:"Himoyaviy haydash",
+description:"Himoyaviy haydash boshqalarning xatolarini oldindan bilish, oldindan ko'ra bilish va xavf-xatarlarga erta javob berish uchun xavfsiz bufer maydonini saqlashni anglatadi."
+},
+{
+id: 5,
+englishName:"Afsona",
+category:"Ikki uzluksiz markaziy chiziqlar",
+description:"Ikkita uzluksiz markaziy chiziq chiziqlarni kesib o'tmaslik yoki ularning orasidan o'tmaslik kerakligini anglatadi."
+},
+{
+id: 6,
+englishName:"Afsona",
+category:"Favqulodda vaziyatlarda transport vositasini berish yo'li",
+description:"Agar favqulodda vaziyatlar mashinasi chiroq/sirendan foydalanayotgan bo'lsa, uning yo'lidan chetga chiqing va uni xavfsiz o'tkazib yuboring; transport vositalaridan o'tish uchun uning orqasidan yaqindan ergashmang."
+},
+{
+id: 7,
+englishName:"Afsona",
+category:"Charchoqni boshqarish",
+description:"Charchoq alkogol kabi haydashga ta'sir qilishi mumkin: sekinroq reaksiyalar va noto'g'ri qarorlar. Agar uyquchanlikni his qilsangiz, davom etishdan oldin to'xtang va dam oling."
+},
+{
+id: 8,
+englishName:"Afsona",
+category:"Masofadan yurish (2 soniya qoidasi)",
+description:"Yaxshi sharoitlarda, oldingi transport vositasi orqasida kamida ikki soniya masofani saqlang; yomon sharoitlarda esa masofani oshiring."
+},
+{
+id: 9,
+englishName:"Afsona",
+category:"Kuzatish masofasi (nam ob-havo)",
+description:"Nam sharoitda, to'xtash masofalari oshib, ushlash kamayganligi sababli, keyingi masofani oshiring (masalan, taxminan to'rt soniyagacha)."
+},
+{
+id: 10,
+englishName:"Afsona",
+category:"Yo'l berish (Nazoratsiz chorrahalar)",
+description:"Belgilar/svetoforlar bo'lmagan chorrahalarda qoidalarga muvofiq yo'l bering (odatda: o'ng tomoningizdagi transport vositasiga yo'l bering)."
+},
+{
+id: 11,
+englishName:"Afsona",
+category:"Hook Turn (VIC Tramvaylari)",
+description:"Ilgak burilish - bu Melburn CBD chorrahalarida tramvaylarni to'sib qo'ymaslik uchun ishlatiladigan maxsus o'ngga burilish; odatda belgilar ko'rsatilganda chap bo'lakdan o'ngga buriladi."
+},
+{
+id: 12,
+englishName:"Afsona",
+category:"Yo'lakni almashtirish",
+description:"Yo'lakni almashtirishdan oldin signal bering, oynalar va ko'r joylarni tekshiring va faqat xavfsiz bo'lganda harakatlaning — yo'lak belgilariga rioya qilish kerak."
+},
+{
+id: 13,
+englishName:"Afsona",
+category:"O'quvchilar nazorati (VIC)",
+description:"O'quvchilar faqat yonida tegishli litsenziyaga ega nazoratchi haydovchi bilan haydashlari kerak; agar nazorat samarasiz bo'lsa, xavfsiz to'xtang."
+},
+{
+id: 14,
+englishName:"Afsona",
+category:"L-plastinkali displey (VIC)",
+description:"Haydovchilikni o'rganayotganlar L harfi belgilarini haydash paytida transport vositasida aniq ko'rinib turishi uchun ularni aniq ko'rsatishlari kerak."
+},
+{
+id: 15,
+englishName:"Afsona",
+category:"Mobil telefonlar (o'quvchilar)",
+description:"Viktoriyada haydovchilikni o'rganayotganlar haydash paytida hech qanday tarzda mobil telefondan foydalanmasliklari kerak."
+},
+{
+id: 16,
+englishName:"Afsona",
+category:"To'xtash taqiqlangan va to'xtash taqiqlangan",
+description:"To'xtash taqiqlangan degani, umuman to'xtamasligingiz kerakligini anglatadi (yo'l harakati/favqulodda holatlar bundan mustasno). Ruxsat berilgan taqdirda, to'xtash taqiqlangan joyda qisqa muddatli olib ketish/tushirish mumkin."
+},
+{
+id: 17,
+englishName:"Afsona",
+category:"Chapda quvib o'tish (ko'p yo'lakli)",
+description:"Ko'p polosali yo'llarda, transport vositalari alohida belgilangan bo'laklarda bo'lganda va xavfsiz bo'lganda, chap tomonda quvib o'tishga ruxsat beriladi."
+},
+{
+id: 18,
+englishName:"Afsona",
+category:"Bo'yalgan yo'l harakati orollari (Chevron belgilari)",
+description:"Bo'yalgan yo'l harakati orollari/chevronlari siz mashina haydash mumkin bo'lmagan hududni bildiradi (agar belgilar/belgilar maxsus ruxsat bermasa)."
+},
+{
+id: 19,
+englishName:"Afsona",
+category:"Chorrahalarga yaqin to'xtash joyi",
+description:"Burchaklar/chorrahalarga juda yaqin joyda to'xtash ko'rinishni to'sib qo'yishi va cheklangan bo'lishi mumkin; ko'rish chiziqlarini aniq saqlash uchun har doim belgilar/yo'l qoidalariga amal qiling."
+},
+{
+id: 20,
+englishName:"Afsona",
+category:"Burilishda piyodalar ustuvorligi",
+description:"Burilishda siz kirayotgan yo'lni kesib o'tayotgan piyodalarga yo'l berishingiz kerak (va o'tish joylari va gavjum joylar yaqinida hushyor bo'ling)."
+},
+{
+id: 21,
+englishName:"Afsona",
+category:"Temir yo'l kesishmalari",
+description:"Temir yo'l kesishmalarida chiroqlar yonib-o'chib turganda yoki temir yo'l eshiklari yopiq bo'lganda to'xtang; agar temir yo'lni xavfsiz o'ta olmasangiz, hech qachon kirmang."
+},
+{
+id: 22,
+englishName:"Afsona",
+category:"Aylanma yo'l qoidalari",
+description:"Aylanma yo'lda allaqachon bo'lgan transport vositalariga yo'l bering; ko'rsatkichlardan to'g'ri foydalaning (shu jumladan, kerak bo'lganda chiqishda chapga signal bering)."
+},
+{
+id: 23,
+englishName:"Afsona",
+category:"Maktab zonasi tezligi",
+description:"Belgilangan maktab zonalarida ko'rsatilgan vaqtlarda pastroq tezlik cheklovlari qo'llaniladi; bolalar ko'rinmasa ham, tezlikni pasaytiring."
+},
+{
+id: 24,
+englishName:"Afsona",
+category:"Tramvay to'xtash qoidalari",
+description:"Zarur bo'lganda (masalan, eshiklar ochiq bo'lganda) tramvay uchun to'xtashingiz va tramvay bekatlari/xavfsizlik zonalari atrofida piyodalarga yo'l berishingiz kerak."
+},
+{
+id: 25,
+englishName:"Afsona",
+category:"U burilish qoidalari",
+description:"Orqaga burilishlarga faqat ruxsat etilgan joylarda ruxsat beriladi (belgilar/belgilar bilan taqiqlanmagan) va boshqalarga yo'l berib, xavfsiz tarzda bajarilishi kerak."
+}
+]

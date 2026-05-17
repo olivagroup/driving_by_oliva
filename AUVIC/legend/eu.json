@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Kondaira",
+category:"Alkohol Mugak (VIC)",
+description:"Victorian, gidari hasiberriek eta probaldi-aldian daudenek (P1/P2) 0,00ko alkohol-maila izan behar dute. Gidabaimen osoa duten gidariek, oro har, 0,05eko alkohol-maila izan behar dute."
+},
+{
+id: 2,
+englishName:"Kondaira",
+category:"Haurren Segurtasun Sistemak",
+description:"Haurrak adinerako/tamainarako homologatutako haurrentzako segurtasun-aparatu batean lotu behar dira; helduen segurtasun-uhalak bakarrik ez du babes egokia emango."
+},
+{
+id: 3,
+englishName:"Kondaira",
+category:"Bide garbia",
+description:"Pasabide libreak esan nahi du ezin duzula errepidearen alde horretan gelditu edo aparkatu seinaleetan adierazten diren pasebide libreko denbora-tarteetan."
+},
+{
+id: 4,
+englishName:"Kondaira",
+category:"Gidatze defentsiboa",
+description:"Gidatze defentsiboak esan nahi du besteen akatsak aurreikustea, aurrera begiratzea eta segurtasun-tarte bat mantentzea arriskuei goiz erantzun ahal izateko."
+},
+{
+id: 5,
+englishName:"Kondaira",
+category:"Erdiko lerro bikoitz jarraituak",
+description:"Erdiko lerro bikoitz jarraitu batek esan nahi du ezin dituzula lerroak gurutzatu edo haien artean egon."
+},
+{
+id: 6,
+englishName:"Kondaira",
+category:"Larrialdietako ibilgailuak lehentasuna ematen",
+description:"Larrialdi-ibilgailu batek argiak/sirena erabiltzen baditu, kendu haren bidetik eta utzi segurtasunez pasatzen; ez jarraitu gertutik trafikoan zehar ibiltzeko."
+},
+{
+id: 7,
+englishName:"Kondaira",
+category:"Nekearen kudeaketa",
+description:"Nekeak alkoholak bezala eragin dezake gidatzeari: erreakzio motelagoak eta erabaki txarrak. Logura sentitzen baduzu, gelditu eta atseden hartu jarraitu aurretik."
+},
+{
+id: 8,
+englishName:"Kondaira",
+category:"Jarraitzeko distantzia (2 segundoko araua)",
+description:"Baldintza onetan, mantendu gutxienez bi segundoko tartea aurreko ibilgailuarekiko; handitu tartea baldintza txarretan."
+},
+{
+id: 9,
+englishName:"Kondaira",
+category:"Jarraipen-distantzia (eguraldi hezea)",
+description:"Baldintza bustietan, handitu jarraitzeko distantzia (adibidez, lau segundo ingurura), gelditzeko distantziak handitzen baitira eta itsaspena murrizten baita."
+},
+{
+id: 10,
+englishName:"Kondaira",
+category:"Bidea ematea (kontrolik gabeko bidegurutzeak)",
+description:"Seinalerik gabeko bidegurutzeetan, eman lehentasuna arauen arabera (ohikoa: eman lehentasuna eskuineko ibilgailuari)."
+},
+{
+id: 11,
+englishName:"Kondaira",
+category:"Hook Turn (VIC tranbiak)",
+description:"Kako-biraketa Melbourneko hiriguneko bidegurutze batzuetan tranbiak blokeatzea saihesteko erabiltzen den eskuinera biratzeko modu berezi bat da; normalean ezkerreko erreitik eskuinera biratzen da seinaleak adierazten dutenean."
+},
+{
+id: 12,
+englishName:"Kondaira",
+category:"Errei aldaketa",
+description:"Erreia aldatu aurretik, jarri seinaleak, egiaztatu ispiluak eta puntu itsuak, eta mugitu segurua denean bakarrik; erreiko markak errespetatu behar dira."
+},
+{
+id: 13,
+englishName:"Kondaira",
+category:"Ikasleen gainbegiratzea (BIC)",
+description:"Ikasleek gidabaimena duen gidari baten ondoan bakarrik gidatu behar dute; zaintza eraginkorra ez bada, gelditu segurtasunez."
+},
+{
+id: 14,
+englishName:"Kondaira",
+category:"L-Plaka Erakusleihoa (VIC)",
+description:"Gidari hasiberriek L plakak argi eta garbi erakutsi behar dituzte, gidatzen ari diren bitartean ibilgailuan ikusgai egon daitezen."
+},
+{
+id: 15,
+englishName:"Kondaira",
+category:"Telefono mugikorrak (ikasleak)",
+description:"Victoriako gidari ikasleek ezin dute inola ere telefono mugikorra erabili gidatzen ari diren bitartean."
+},
+{
+id: 16,
+englishName:"Kondaira",
+category:"Aparkatzea debekatuta vs. gelditzea debekatuta",
+description:"Gelditzea debekatuta egoteak esan nahi du ezin duzula batere gelditu (trafiko/larrialdi kasuetan izan ezik). Aparkatzea debekatuta egoteak baimenduta badago, baliteke denbora laburrean ibilgailuak hartzea/uztea baimentzea."
+},
+{
+id: 17,
+englishName:"Kondaira",
+category:"Ezkerrean aurreratzea (errei anitzekoa)",
+description:"Errepide anitzekoetan, ezkerretik aurreratzea baimenduta dago ibilgailuak markatutako errei bereizietan badaude eta segurua bada."
+},
+{
+id: 18,
+englishName:"Kondaira",
+category:"Trafiko uharte margotuak (Chevron markak)",
+description:"Trafiko-uharte/txebrune margotuek gidatu behar ez den eremu bat adierazten dute (markaketek/seinaleek berariaz baimentzen ez badute behintzat)."
+},
+{
+id: 19,
+englishName:"Kondaira",
+category:"Bidegurutzeetatik gertu aparkatzea",
+description:"Izkinetatik/bidegurutzeetatik gertuegi aparkatzeak ikusgarritasuna oztopatu dezake eta mugatuta dago; jarraitu beti seinaleak/errepideko arauak ikusmen-lerroak garbi mantentzeko."
+},
+{
+id: 20,
+englishName:"Kondaira",
+category:"Oinezkoen lehentasuna biratzean",
+description:"Biratzean, sartzean zeharkatzen ari diren oinezkoei bidea eman behar diezu (eta erne egon pasabideen eta jendez gainezka dauden guneen ondoan)."
+},
+{
+id: 21,
+englishName:"Kondaira",
+category:"Trenbide-pasabideak",
+description:"Gelditu trenbide-pasaguneetan semaforoak keinuka edo ateak jaitsita daudenean; ez sartu inoiz bideak segurtasunez garbitu ezin badituzu."
+},
+{
+id: 22,
+englishName:"Kondaira",
+category:"Biribilguneko arauak",
+description:"Eman bidea biribilgunean dauden ibilgailuei; erabili adierazleak behar bezala (beharrezkoa denean irtetean ezkerrera seinaleztatuz barne)."
+},
+{
+id: 23,
+englishName:"Kondaira",
+category:"Eskola Eremuaren Abiadura",
+description:"Eskola-eremu seinaleztatuetan, abiadura-muga txikiagoak aplikatzen dira adierazitako orduetan; moteldu haurrak ikusten ez badira ere."
+},
+{
+id: 24,
+englishName:"Kondaira",
+category:"Tranbia geltokiko arauak",
+description:"Tranbiak geldiarazi behar dituzu beharrezkoa denean (adibidez, ateak irekita daudenean) eta oinezkoei bidea eman tranbia geltokien/segurtasun eremuen inguruan."
+},
+{
+id: 25,
+englishName:"Kondaira",
+category:"Biraketa arauak",
+description:"U-birak baimenduta dauden lekuetan bakarrik baimenduta daude (seinaleek/markek debekatuta ez daudenean) eta segurtasunez egin behar dira, besteei lehentasuna emanez."
+}
+]

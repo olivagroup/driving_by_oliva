@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Inganekwane",
+category:"Imikhawulo Yotshwala (i-VIC)",
+description:"EVictoria, abashayeli abafundayo nabasebenza ngaphansi kokuhlolwa (P1/P2) kumele babe ne-BAC engu-0.00. Abashayeli abanelayisensi egcwele ngokuvamile banomkhawulo we-BAC ongu-0.05."
+},
+{
+id: 2,
+englishName:"Inganekwane",
+category:"Imikhawulo Yengane",
+description:"Izingane kumele ziboshwe ngebhande lezingane elivunyelwe, elifanele iminyaka/usayizi wazo; ibhande lesihlalo somuntu omdala lodwa lingase linganikezi isivikelo esifanele."
+},
+{
+id: 3,
+englishName:"Inganekwane",
+category:"I-Clearway",
+description:"Indlela evulekile isho ukuthi akumelwe ume noma upake kulolo hlangothi lomgwaqo ngezikhathi zendlela evulekile eziboniswe ezimpawini."
+},
+{
+id: 4,
+englishName:"Inganekwane",
+category:"Ukushayela Ngokuzivikela",
+description:"Ukushayela ngokuzivikela kusho ukubikezela amaphutha abanye, ukubheka phambili, nokugcina indawo ephephile ukuze ukwazi ukusabela kusenesikhathi ezingozini."
+},
+{
+id: 5,
+englishName:"Inganekwane",
+category:"Imigqa Ephakathi Emibili Eqhubekayo",
+description:"Umugqa ophakathi ophindwe kabili oqhubekayo usho ukuthi akumelwe uwele noma ugxambuke emigqeni."
+},
+{
+id: 6,
+englishName:"Inganekwane",
+category:"Indlela Yokunikeza Imoto Ephuthumayo",
+description:"Uma imoto yezimo eziphuthumayo isebenzisa izibani/isiren, suka endleleni yayo bese uyivumela idlule ngokuphepha; ungayilandeli eduze ngemuva kwayo ukuze udlule emgwaqweni."
+},
+{
+id: 7,
+englishName:"Inganekwane",
+category:"Ukuphathwa Kokukhathala",
+description:"Ukukhathala kungathinta ukushayela njengotshwala: ukusabela okuhamba kancane kanye nezinqumo ezimbi. Uma uzizwa ulele, yeka bese uphumula ngaphambi kokuba uqhubeke."
+},
+{
+id: 8,
+englishName:"Inganekwane",
+category:"Ibanga Lokulandela (Umthetho Wemizuzwana Emi-2)",
+description:"Ngaphansi kwezimo ezinhle, gcina okungenani isikhala semizuzwana emibili ngemuva kwemoto ngaphambili; wandise isikhala uma isimo sibi."
+},
+{
+id: 9,
+englishName:"Inganekwane",
+category:"Ibanga Elilandelayo (Isimo Sezulu Esimanzi)",
+description:"Ezimweni ezimanzi, khulisa ibanga lakho elilandelayo (isb., libe cishe imizuzwana emine) ngoba amabanga okuma ayakhula futhi ukubamba kuyancipha."
+},
+{
+id: 10,
+englishName:"Inganekwane",
+category:"Indlela Yokunikeza (Izindlela Zokuhlangana Ezingalawulwa)",
+description:"Ezimpambanweni zemigwaqo ezingenazo izimpawu/izimpawu, nikeza indlela ngokwemithetho (ngokuvamile: nikeza indlela imoto engakwesokudla sakho)."
+},
+{
+id: 11,
+englishName:"Inganekwane",
+category:"Ukujika Kwe-Hook (I-VIC Trams)",
+description:"Ukujika kwe-hook kuyindlela ekhethekile yokujika kwesokudla esetshenziswa kwezinye izindawo zokuhlangana kwe-CBD eMelbourne ukugwema ukuvimba ama-tram; uvame ukujika ngakwesokudla usuka emzileni wesobunxele uma izimpawu zibonisa."
+},
+{
+id: 12,
+englishName:"Inganekwane",
+category:"Ukushintsha Umzila",
+description:"Ngaphambi kokushintsha imizila, bonisa isignali, hlola izibuko nezindawo ezingaboni, bese uhamba kuphela uma kuphephile—izimpawu zomzila kumele zilandelwe."
+},
+{
+id: 13,
+englishName:"Inganekwane",
+category:"Ukugadwa Kwabafundi (i-VIC)",
+description:"Abafundi kumele bashayele kuphela umshayeli oqaphile onelayisensi efanele ehlezi eceleni kwabo; uma ukuqapha kungasebenzi kahle, yeka ngokuphepha."
+},
+{
+id: 14,
+englishName:"Inganekwane",
+category:"Isibonisi se-L-Plate (VIC)",
+description:"Abashayeli abafundi kumele babonise amapuleti e-L ngokucacile ukuze abonakale emotweni ngenkathi beshayela."
+},
+{
+id: 15,
+englishName:"Inganekwane",
+category:"Omakhalekhukhwini (Abafundi)",
+description:"Abashayeli abafundayo eVictoria akumele basebenzise ifoni ephathekayo nganoma iyiphi indlela lapho beshayela."
+},
+{
+id: 16,
+englishName:"Inganekwane",
+category:"Akukho Ukupaka vs Akukho Ukuma",
+description:"Ukungami kusho ukuthi akumelwe ume nhlobo (ngaphandle kwethrafikhi/isimo esiphuthumayo). Ukungami kungavumela ukuthathwa/ukwehliswa isikhashana uma kuvunyelwe."
+},
+{
+id: 17,
+englishName:"Inganekwane",
+category:"Ukudlula ngakwesobunxele (Imizila eminingi)",
+description:"Emigwaqweni enemizila eminingi, ukudlula ngakwesobunxele kuvunyelwe uma izimoto zisemizileni ehlukene ephawulwe futhi kuphephile."
+},
+{
+id: 18,
+englishName:"Inganekwane",
+category:"Iziqhingi Zethrafikhi Ezipendiwe (Izimpawu ze-Chevron)",
+description:"Iziqhingi/ama-chevron apendiwe abonisa indawo okungafanele ushayele kuyo (ngaphandle kokuthi izimpawu/izimpawu zikuvumela ngokuqondile)."
+},
+{
+id: 19,
+englishName:"Inganekwane",
+category:"Ukupaka Eduze Kwezimpambano",
+description:"Ukupaka eduze kakhulu namakhona/izindlela zokuhlangana kungavimba ukubonakala futhi kuvinjelwe; landela njalo izimpawu/imithetho yomgwaqo ukuze ugcine imigqa yokubona icacile."
+},
+{
+id: 20,
+englishName:"Inganekwane",
+category:"Okubalulekile Kwabahamba Ngezinyawo Lapho Bejika",
+description:"Uma ujika, kufanele uvumele abahamba ngezinyawo bawele umgwaqo owungenayo (futhi uhlale uqaphile eduze kwezindawo zokuwela nezindawo ezimatasa)."
+},
+{
+id: 21,
+englishName:"Inganekwane",
+category:"Izindawo Zokuwela Isitimela",
+description:"Yima ezindaweni zokuwela izitimela lapho izibani zikhanya noma amasango e-boom evaliwe; ungalokothi ungene uma ungakwazi ukuhlanza imizila ngokuphepha."
+},
+{
+id: 22,
+englishName:"Inganekwane",
+category:"Imithetho Yokuzungeza",
+description:"Nika izimoto ezivele zisemjikelezweni; sebenzisa izinkomba ngendlela efanele (kufaka phakathi ukukhomba ngakwesobunxele lapho uphuma lapho kudingeka)."
+},
+{
+id: 23,
+englishName:"Inganekwane",
+category:"Isivinini Sendawo Yesikole",
+description:"Ezindaweni zesikole ezisayiniwe, imikhawulo yesivinini ephansi iyasebenza ngezikhathi ezibonisiwe; yehlisa ijubane ngisho noma izingane zingabonakali."
+},
+{
+id: 24,
+englishName:"Inganekwane",
+category:"Imithetho Yokuma Kwethilamu",
+description:"Kumelwe ume kuma-tram uma kudingeka (isib., lapho iminyango ivuliwe) bese unikeza abahamba ngezinyawo ithuba eduze kwezitobhi/izindawo zokuphepha."
+},
+{
+id: 25,
+englishName:"Inganekwane",
+category:"Imithetho Yokujika Oku-U",
+description:"Ukujika kwe-U kuvunyelwe kuphela lapho kuvunyelwe khona (akuvinjelwe yizimpawu/izimpawu) futhi kumele kwenziwe ngokuphephile ngenkathi kunikezwa abanye indawo."
+}
+]

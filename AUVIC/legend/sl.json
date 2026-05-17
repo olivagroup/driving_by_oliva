@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Legenda",
+category:"Omejitve alkohola (VIC)",
+description:"V Viktoriji morajo imeti vozniki pripravniki in vozniki na poskusnem vozniškem dovoljenju (P1/P2) koncentracijo alkohola v krvi 0,00. Vozniki s polnim vozniškim dovoljenjem imajo običajno omejitev 0,05."
+},
+{
+id: 2,
+englishName:"Legenda",
+category:"Otroški varnostni sedeži",
+description:"Otroci morajo biti pripeti v odobrenem, ustreznem otroškem sedežu za njihovo starost/velikost; varnostni pas za odrasle sam po sebi morda ne zagotavlja ustrezne zaščite."
+},
+{
+id: 3,
+englishName:"Legenda",
+category:"Prosto pot",
+description:"Prosta cesta pomeni, da se na tej strani ceste ne smete ustavljati ali parkirati v času, ki je prikazan na prometnih znakih."
+},
+{
+id: 4,
+englishName:"Legenda",
+category:"Defenzivna vožnja",
+description:"Defenzivna vožnja pomeni predvidevanje napak drugih, pregledovanje dogajanja pred vozilom in ohranjanje varnega varnostnega prostora, da se lahko zgodaj odzovete na nevarnosti."
+},
+{
+id: 5,
+englishName:"Legenda",
+category:"Dvojne neprekinjene sredinske črte",
+description:"Dvojna neprekinjena sredinska črta pomeni, da je ne smete prečkati ali sestopiti čez njo."
+},
+{
+id: 6,
+englishName:"Legenda",
+category:"Reševalno vozilo daje prednost",
+description:"Če vozilo nujne medicinske pomoči uporablja luči/sireno, se mu umaknite s poti in ga pustite varno mimo; ne sledite mu tesno za seboj, da bi se prebili skozi promet."
+},
+{
+id: 7,
+englishName:"Legenda",
+category:"Obvladovanje utrujenosti",
+description:"Utrujenost lahko vpliva na vožnjo podobno kot alkohol: počasnejše reakcije in slabe odločitve. Če se počutite zaspani, se ustavite in počivajte, preden nadaljujete."
+},
+{
+id: 8,
+englishName:"Legenda",
+category:"Sledenje razdalje (pravilo 2 sekund)",
+description:"V dobrih razmerah naj bo za vozilom pred vami vsaj dvosekundna razdalja, v slabih razmerah pa jo povečajte."
+},
+{
+id: 9,
+englishName:"Legenda",
+category:"Razdalja sledenja (v mokrem vremenu)",
+description:"V mokrih razmerah povečajte razdaljo za vozilom (npr. na približno štiri sekunde), ker se zavorna pot poveča in oprijem zmanjša."
+},
+{
+id: 10,
+englishName:"Legenda",
+category:"Dajanje prednosti (nenadzorovana križišča)",
+description:"Na križiščih brez znakov/semaforjev dajte prednost v skladu s pravili (običajno: dajte prednost vozilu na vaši desni)."
+},
+{
+id: 11,
+englishName:"Legenda",
+category:"Zavoj s kljuko (tramvaji VIC)",
+description:"Zavijanje s kavljem je poseben desni zavoj, ki se uporablja na nekaterih križiščih v središču Melbourna, da se izognemo blokiranju tramvajev; običajno zavijemo desno z levega voznega pasu, ko to označujejo znaki."
+},
+{
+id: 12,
+englishName:"Legenda",
+category:"Menjava voznega pasu",
+description:"Preden menjate vozni pas, dajte smerokaz, preverite ogledala in mrtve kote ter se premaknite le, ko je varno – upoštevajte oznake voznega pasu."
+},
+{
+id: 13,
+englishName:"Legenda",
+category:"Nadzor učencev (VIC)",
+description:"Učenci smejo voziti le pod nadzorom ustrezno pooblaščenega voznika, ki sedi poleg njih; če nadzor ni učinkovit, je treba varno ustaviti."
+},
+{
+id: 14,
+englishName:"Legenda",
+category:"L-ploščati prikazovalnik (VIC)",
+description:"Vozniki začetniki morajo imeti tablice L jasno nameščene, da bodo med vožnjo vidne na vozilu."
+},
+{
+id: 15,
+englishName:"Legenda",
+category:"Mobilni telefoni (učenci)",
+description:"Vozniki začetniki v Viktoriji med vožnjo ne smejo uporabljati mobilnega telefona."
+},
+{
+id: 16,
+englishName:"Legenda",
+category:"Prepovedano parkiranje v primerjavi z prepovedanim ustavljanjem",
+description:"Prepoved ustavljanja pomeni, da se sploh ne smete ustaviti (razen v prometnih/nujnih primerih). Prepovedano parkiranje lahko dovoljuje kratkotrajno vkrcanje/izkrcanje, če je dovoljeno."
+},
+{
+id: 17,
+englishName:"Legenda",
+category:"Prehitevanje na levi (večpasovni promet)",
+description:"Na večpasovnih cestah je prehitevanje po levi dovoljeno, kadar so vozila na ločenih označenih pasovih in je to varno."
+},
+{
+id: 18,
+englishName:"Legenda",
+category:"Pobarvani prometni otoki (oznake Chevron)",
+description:"Pobarvani prometni otoki/ševroni označujejo območje, po katerem ne smete voziti (razen če oznake/znaki to izrecno dovoljujejo)."
+},
+{
+id: 19,
+englishName:"Legenda",
+category:"Parkiranje v bližini križišč",
+description:"Parkiranje preblizu vogalov/križišč lahko ovira vidljivost in je omejeno; vedno upoštevajte znake/prometne predpise, da ohranite neovirano vidljivost."
+},
+{
+id: 20,
+englishName:"Legenda",
+category:"Prednost pešcev pri zavijanju",
+description:"Pri zavijanju morate dati prednost pešcem, ki prečkajo cesto, na katero vstopate (in bodite pozorni v bližini prehodov za pešce in prometnih območij)."
+},
+{
+id: 21,
+englishName:"Legenda",
+category:"Železniški prehodi",
+description:"Na železniških prehodih se ustavite, ko utripajo luči ali so zapornice spuščene; nikoli ne vstopajte, če ne morete varno zapustiti tirov."
+},
+{
+id: 22,
+englishName:"Legenda",
+category:"Pravila za krožišča",
+description:"Dajte prednost vozilom, ki so že v krožišču; pravilno uporabljajte smernike (vključno z levim signalom pri izvozu, kjer je to potrebno)."
+},
+{
+id: 23,
+englishName:"Legenda",
+category:"Hitrost šolskega območja",
+description:"V označenih šolskih conah veljajo v prikazanih časih nižje omejitve hitrosti; upočasnite, tudi če otroci niso vidni."
+},
+{
+id: 24,
+englishName:"Legenda",
+category:"Pravila za tramvajske postaje",
+description:"Pred tramvajem se morate ustaviti, kadar je to potrebno (npr. ko so vrata odprta), in dati prednost pešcem v bližini tramvajskih postajališč/varnostnih con."
+},
+{
+id: 25,
+englishName:"Legenda",
+category:"Pravila za obračanje v polkrožno",
+description:"Obrati v obliki črke U so dovoljeni le, kjer je to dovoljeno (niso prepovedani z znaki/oznakami) in jih je treba izvesti varno, pri čemer je treba dati prednost drugim."
+}
+]

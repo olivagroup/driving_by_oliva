@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Legende",
+category:"Alkoholgrenser (VIC)",
+description:"I Victoria må førere på prøvetid (P1/P2) ha en promille på 0,00. Førere med full førerkort har vanligvis en promillegrense på 0,05."
+},
+{
+id: 2,
+englishName:"Legende",
+category:"Barnesikringsutstyr",
+description:"Barn må være fastspent i et godkjent og passende barnesete for alder/størrelse. Et voksenbelte alene gir kanskje ikke tilstrekkelig beskyttelse."
+},
+{
+id: 3,
+englishName:"Legende",
+category:"Frivei",
+description:"En ryddet vei betyr at du ikke må stoppe eller parkere på den siden av veien i løpet av de rydde tidene som er vist på skilt."
+},
+{
+id: 4,
+englishName:"Legende",
+category:"Defensiv kjøring",
+description:"Defensiv kjøring betyr å forutse andres feil, skanne fremover og holde et trygt bufferrom slik at du kan reagere tidlig på farer."
+},
+{
+id: 5,
+englishName:"Legende",
+category:"Doble kontinuerlige senterlinjer",
+description:"En dobbel sammenhengende midtlinje betyr at du ikke må krysse eller stå overskrevs på linjene."
+},
+{
+id: 6,
+englishName:"Legende",
+category:"Vikeplikt for utrykningskjøretøy",
+description:"Hvis et utrykningskjøretøy bruker lys/sirener, må du kjøre ut av veien og la det passere trygt; ikke følg tett bak det for å komme deg gjennom trafikken."
+},
+{
+id: 7,
+englishName:"Legende",
+category:"Tretthetshåndtering",
+description:"Tretthet kan påvirke kjøringen på samme måte som alkohol: tregere reaksjoner og dårlige beslutninger. Hvis du føler deg døsig, stopp og hvil før du fortsetter."
+},
+{
+id: 8,
+englishName:"Legende",
+category:"Følgeavstand (2-sekundersregel)",
+description:"Under gode forhold, hold minst to sekunders avstand bak kjøretøyet foran; øk avstanden under dårlige forhold."
+},
+{
+id: 9,
+englishName:"Legende",
+category:"Følgeavstand (vått vær)",
+description:"Øk følgeavstanden din i våte forhold (f.eks. til omtrent fire sekunder) fordi bremselengden øker og veigrepet reduseres."
+},
+{
+id: 10,
+englishName:"Legende",
+category:"Vikeplikt (ukontrollerte kryss)",
+description:"I kryss uten skilt/signaler, vik i henhold til reglene (vanligvis: vik for kjøretøyet på høyre side)."
+},
+{
+id: 11,
+englishName:"Legende",
+category:"Hook Turn (VIC-trikker)",
+description:"En kroksving er en spesiell høyresving som brukes i noen kryss i Melbourne CBD for å unngå å blokkere trikker; du svinger vanligvis til høyre fra venstre kjørefelt når skilt indikerer det."
+},
+{
+id: 12,
+englishName:"Legende",
+category:"Filskifte",
+description:"Før du bytter fil, gi blinklys, sjekk speil og blindsoner, og kjør bare når det er trygt – filmarkeringene må følges."
+},
+{
+id: 13,
+englishName:"Legende",
+category:"Lærerveiledning (VIC)",
+description:"Elever må kun kjøre med en fører med passende førerkort som sitter ved siden av seg. Hvis tilsynet ikke er effektivt, må de stoppe på en sikker måte."
+},
+{
+id: 14,
+englishName:"Legende",
+category:"L-plateskjerm (VIC)",
+description:"Elevførere må vise L-skilt tydelig slik at de er synlige på kjøretøyet under kjøring."
+},
+{
+id: 15,
+englishName:"Legende",
+category:"Mobiltelefoner (elever)",
+description:"Sjåførlærling i Victoria må ikke bruke mobiltelefon på noen måte mens de kjører."
+},
+{
+id: 16,
+englishName:"Legende",
+category:"Parkering forbudt kontra stopping forbudt",
+description:"Parkering forbudt betyr at du ikke må stoppe i det hele tatt (unntatt i trafikk-/nødsituasjoner). Parkering forbudt kan tillate kort opphenting/avlevering hvis det er tillatt."
+},
+{
+id: 17,
+englishName:"Legende",
+category:"Forbikjøring på venstre side (flerfelt)",
+description:"På veier med flere kjørefelt er det tillatt å forbikjøre til venstre når kjøretøyene er i separate merkede kjørefelt og det er trygt."
+},
+{
+id: 18,
+englishName:"Legende",
+category:"Malte trafikkøyer (Chevron-markeringer)",
+description:"Malte trafikkøyer/vinkellinjer angir et område du ikke må kjøre på (med mindre merking/skilt spesifikt tillater det)."
+},
+{
+id: 19,
+englishName:"Legende",
+category:"Parkering i nærheten av kryss",
+description:"Parkering for nær hjørner/kryss kan blokkere sikten og er begrenset; følg alltid skilt/trafikkregler for å holde sikten klar."
+},
+{
+id: 20,
+englishName:"Legende",
+category:"Fotgjengerprioritet ved sving",
+description:"Når du svinger, må du vike for fotgjengere som krysser veien du skal inn på (og vær oppmerksom i nærheten av kryss og trafikkerte områder)."
+},
+{
+id: 21,
+englishName:"Legende",
+category:"Jernbaneoverganger",
+description:"Stopp ved jernbaneoverganger når lysene blinker eller bommene er nede; aldri kjør inn hvis du ikke kan rydde sporene trygt."
+},
+{
+id: 22,
+englishName:"Legende",
+category:"Rundkjøringsregler",
+description:"Vik for kjøretøy som allerede er i rundkjøringen; bruk blinklysene riktig (inkludert å signalisere til venstre ved avkjøring der det er nødvendig)."
+},
+{
+id: 23,
+englishName:"Legende",
+category:"Skolesonehastighet",
+description:"I skiltede skolesoner gjelder lavere fartsgrenser i de viste tidene; senk farten selv om barn ikke er synlige."
+},
+{
+id: 24,
+englishName:"Legende",
+category:"Regler for trikkeholdeplasser",
+description:"Du må stoppe for trikker når det er nødvendig (f.eks. når dørene er åpne) og vike for fotgjengere rundt trikkeholdeplasser/sikkerhetssoner."
+},
+{
+id: 25,
+englishName:"Legende",
+category:"U-svingregler",
+description:"U-svinger er kun tillatt der det er tillatt (ikke forbudt med skilt/merking) og må gjøres på en sikker måte med vikeplikt for andre."
+}
+]

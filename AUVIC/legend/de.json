@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Legende",
+category:"Alkoholgrenzwerte (VIC)",
+description:"In Victoria müssen Fahrschüler und Fahranfänger auf Probe (P1/P2) einen Blutalkoholgehalt von 0,00 Promille haben. Für voll lizenzierte Fahrer gilt in der Regel eine Blutalkoholgrenze von 0,05 Promille."
+},
+{
+id: 2,
+englishName:"Legende",
+category:"Kindersitze",
+description:"Kinder müssen in einem zugelassenen, alters- und größengerechten Kindersitz gesichert werden; ein Sicherheitsgurt für Erwachsene allein bietet möglicherweise keinen ausreichenden Schutz."
+},
+{
+id: 3,
+englishName:"Legende",
+category:"Freie Straße",
+description:"Eine Halteverbotszone bedeutet, dass Sie während der auf den Schildern angegebenen Halteverbotszeiten auf dieser Straßenseite weder anhalten noch parken dürfen."
+},
+{
+id: 4,
+englishName:"Legende",
+category:"Defensives Fahren",
+description:"Defensives Fahren bedeutet, die Fehler anderer vorherzusehen, vorauszuschauen und einen sicheren Abstand zu halten, um frühzeitig auf Gefahren reagieren zu können."
+},
+{
+id: 5,
+englishName:"Legende",
+category:"Doppelte durchgezogene Mittellinien",
+description:"Eine doppelte durchgezogene Mittellinie bedeutet, dass Sie die Linien weder überqueren noch übereinandergehen dürfen."
+},
+{
+id: 6,
+englishName:"Legende",
+category:"Einsatzfahrzeug macht Platz",
+description:"Wenn ein Einsatzfahrzeug mit Blaulicht und Sirene fährt, machen Sie Platz und lassen Sie es sicher passieren; folgen Sie ihm nicht dicht, um durch den Verkehr zu kommen."
+},
+{
+id: 7,
+englishName:"Legende",
+category:"Ermüdungsmanagement",
+description:"Müdigkeit kann die Fahrtüchtigkeit ähnlich wie Alkohol beeinträchtigen: langsamere Reaktionen und schlechtere Entscheidungen. Wenn Sie sich schläfrig fühlen, halten Sie an und ruhen Sie sich aus, bevor Sie weiterfahren."
+},
+{
+id: 8,
+englishName:"Legende",
+category:"Abstand zum vorausfahrenden Fahrzeug (2-Sekunden-Regel)",
+description:"Bei guten Bedingungen sollte ein Abstand von mindestens zwei Sekunden zum vorausfahrenden Fahrzeug eingehalten werden; bei schlechten Bedingungen sollte der Abstand vergrößert werden."
+},
+{
+id: 9,
+englishName:"Legende",
+category:"Abstand zum Vordermann (bei Nässe)",
+description:"Bei Nässe sollten Sie den Sicherheitsabstand vergrößern (z. B. auf etwa vier Sekunden), da sich der Bremsweg verlängert und die Bodenhaftung abnimmt."
+},
+{
+id: 10,
+englishName:"Legende",
+category:"Vorfahrt gewähren (unkontrollierte Kreuzungen)",
+description:"An Kreuzungen ohne Schilder/Signale gilt die Regel „Vorfahrt gewähren“ (üblicherweise: Vorfahrt dem Fahrzeug von rechts gewähren)."
+},
+{
+id: 11,
+englishName:"Legende",
+category:"Hakenabbiegung (Straßenbahnen in Victoria)",
+description:"Ein Hakenabbieger ist eine spezielle Rechtsabbiegetechnik, die an einigen Kreuzungen im Stadtzentrum von Melbourne angewendet wird, um den Straßenbahnverkehr nicht zu blockieren; man biegt in der Regel von der linken Fahrspur nach rechts ab, wenn die Schilder dies anzeigen."
+},
+{
+id: 12,
+englishName:"Legende",
+category:"Spurwechsel",
+description:"Vor einem Spurwechsel blinken, Spiegel und toten Winkel überprüfen und erst dann die Spur wechseln, wenn es sicher ist – die Fahrbahnmarkierungen müssen beachtet werden."
+},
+{
+id: 13,
+englishName:"Legende",
+category:"Lernaufsicht (VIC)",
+description:"Fahrschüler dürfen nur mit einem entsprechend lizenzierten Aufsichtsfahrer neben sich fahren; wenn die Aufsicht nicht effektiv ist, muss sicher angehalten werden."
+},
+{
+id: 14,
+englishName:"Legende",
+category:"L-Schild-Anzeige (VIC)",
+description:"Fahrschüler müssen ihre L-Schilder gut sichtbar am Fahrzeug anbringen, sodass diese während der Fahrt gut erkennbar sind."
+},
+{
+id: 15,
+englishName:"Legende",
+category:"Mobiltelefone (Lernende)",
+description:"Fahrschüler in Victoria dürfen während der Fahrt in keiner Weise ein Mobiltelefon benutzen."
+},
+{
+id: 16,
+englishName:"Legende",
+category:"Parken verboten vs. Halten verboten",
+description:"Halteverbot bedeutet, dass Sie überhaupt nicht anhalten dürfen (außer bei Verkehrsbehinderungen oder Notfällen). Parkverbot kann kurzes Ein- und Aussteigen erlauben, sofern es genehmigt ist."
+},
+{
+id: 17,
+englishName:"Legende",
+category:"Überholen links (mehrspurig)",
+description:"Auf mehrspurigen Straßen ist das Überholen links erlaubt, wenn sich die Fahrzeuge auf getrennten, markierten Fahrspuren befinden und es sicher ist."
+},
+{
+id: 18,
+englishName:"Legende",
+category:"Aufgemalte Verkehrsinseln (Chevron-Markierungen)",
+description:"Aufgemalte Verkehrsinseln/Pfeilmarkierungen kennzeichnen einen Bereich, in dem Sie nicht fahren dürfen (es sei denn, Markierungen/Schilder erlauben dies ausdrücklich)."
+},
+{
+id: 19,
+englishName:"Legende",
+category:"Parken in der Nähe von Kreuzungen",
+description:"Das Parken zu nah an Ecken/Kreuzungen kann die Sicht behindern und ist verboten; beachten Sie stets die Schilder/Verkehrsregeln, um freie Sicht zu gewährleisten."
+},
+{
+id: 20,
+englishName:"Legende",
+category:"Fußgängervorrang beim Abbiegen",
+description:"Beim Abbiegen müssen Sie Fußgängern, die die Straße überqueren, in die Sie einbiegen, Vorfahrt gewähren (und seien Sie in der Nähe von Kreuzungen und stark befahrenen Bereichen besonders aufmerksam)."
+},
+{
+id: 21,
+englishName:"Legende",
+category:"Bahnübergänge",
+description:"An Bahnübergängen müssen Sie anhalten, wenn die Warnlichter blinken oder die Schranken geschlossen sind; überqueren Sie die Gleise niemals, wenn Sie diese nicht sicher verlassen können."
+},
+{
+id: 22,
+englishName:"Legende",
+category:"Kreiselregeln",
+description:"Fahrzeuge, die sich bereits im Kreisverkehr befinden, haben Vorfahrt; Blinker korrekt setzen (gegebenenfalls auch beim Verlassen des Kreisverkehrs links blinken)."
+},
+{
+id: 23,
+englishName:"Legende",
+category:"Geschwindigkeitsbegrenzung in Schulzonen",
+description:"In ausgeschilderten Schulzonen gelten zu den angegebenen Zeiten niedrigere Geschwindigkeitsbegrenzungen; fahren Sie auch dann langsam, wenn keine Kinder zu sehen sind."
+},
+{
+id: 24,
+englishName:"Legende",
+category:"Regeln für Straßenbahnhaltestellen",
+description:"Sie müssen an Straßenbahnen anhalten, wenn dies erforderlich ist (z. B. wenn die Türen geöffnet sind) und Fußgängern im Bereich von Straßenbahnhaltestellen/Sicherheitszonen Vorrang gewähren."
+},
+{
+id: 25,
+englishName:"Legende",
+category:"U-Turn-Regeln",
+description:"Wenden ist nur dort erlaubt, wo es zulässig ist (und nicht durch Schilder/Markierungen verboten ist) und muss sicher unter Beachtung der Vorfahrt anderer Verkehrsteilnehmer erfolgen."
+}
+]

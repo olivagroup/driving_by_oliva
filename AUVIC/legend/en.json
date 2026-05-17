@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "englishName": "Legend",
+    "category": "Alcohol Limits (VIC)",
+    "description": "In Victoria, learner and probationary (P1/P2) drivers must have a BAC of 0.00. Fully licensed drivers generally have a BAC limit of 0.05."
+  },
+  {
+    "id": 2,
+    "englishName": "Legend",
+    "category": "Child Restraints",
+    "description": "Children must be restrained in an approved, appropriate child restraint for their age/size; an adult seatbelt alone may not provide correct protection."
+  },
+  {
+    "id": 3,
+    "englishName": "Legend",
+    "category": "Clearway",
+    "description": "A clearway means you must not stop or park on that side of the road during the clearway times shown on signs."
+  },
+  {
+    "id": 4,
+    "englishName": "Legend",
+    "category": "Defensive Driving",
+    "description": "Defensive driving means anticipating others’ mistakes, scanning ahead, and keeping a safe buffer space so you can respond early to hazards."
+  },
+  {
+    "id": 5,
+    "englishName": "Legend",
+    "category": "Double Continuous Centre Lines",
+    "description": "A double continuous centre line means you must not cross or straddle the lines."
+  },
+  {
+    "id": 6,
+    "englishName": "Legend",
+    "category": "Emergency Vehicle Giving Way",
+    "description": "If an emergency vehicle is using lights/siren, move out of its path and let it pass safely; don’t follow closely behind it to get through traffic."
+  },
+  {
+    "id": 7,
+    "englishName": "Legend",
+    "category": "Fatigue Management",
+    "description": "Fatigue can affect driving like alcohol: slower reactions and poor decisions. If you feel drowsy, stop and rest before continuing."
+  },
+  {
+    "id": 8,
+    "englishName": "Legend",
+    "category": "Following Distance (2-Second Rule)",
+    "description": "Under good conditions, keep at least a two-second gap behind the vehicle in front; increase the gap in poor conditions."
+  },
+  {
+    "id": 9,
+    "englishName": "Legend",
+    "category": "Following Distance (Wet Weather)",
+    "description": "In wet conditions, increase your following distance (e.g., to about four seconds) because stopping distances increase and grip is reduced."
+  },
+  {
+    "id": 10,
+    "englishName": "Legend",
+    "category": "Giving Way (Uncontrolled Intersections)",
+    "description": "At intersections with no signs/signals, give way according to the rules (commonly: give way to the vehicle on your right)."
+  },
+  {
+    "id": 11,
+    "englishName": "Legend",
+    "category": "Hook Turn (VIC Trams)",
+    "description": "A hook turn is a special right turn used in some Melbourne CBD intersections to avoid blocking trams; you typically turn right from the left lane when signs indicate."
+  },
+  {
+    "id": 12,
+    "englishName": "Legend",
+    "category": "Lane Changing",
+    "description": "Before changing lanes, signal, check mirrors and blind spots, and only move when it’s safe—lane markings must be obeyed."
+  },
+  {
+    "id": 13,
+    "englishName": "Legend",
+    "category": "Learner Supervision (VIC)",
+    "description": "Learners must drive only with an appropriately licensed supervising driver seated beside them; if supervision is not effective, stop safely."
+  },
+  {
+    "id": 14,
+    "englishName": "Legend",
+    "category": "L-Plate Display (VIC)",
+    "description": "Learner drivers must display L plates clearly so they are visible on the vehicle while driving."
+  },
+  {
+    "id": 15,
+    "englishName": "Legend",
+    "category": "Mobile Phones (Learners)",
+    "description": "Learner drivers in Victoria must not use a mobile phone in any way while driving."
+  },
+  {
+    "id": 16,
+    "englishName": "Legend",
+    "category": "No Parking vs No Stopping",
+    "description": "No Stopping means you must not stop at all (except for traffic/emergency). No Parking may allow brief pick-up/drop-off if permitted."
+  },
+  {
+    "id": 17,
+    "englishName": "Legend",
+    "category": "Overtaking on the Left (Multi-Lane)",
+    "description": "On multi-lane roads, overtaking on the left is allowed when vehicles are in separate marked lanes and it is safe."
+  },
+  {
+    "id": 18,
+    "englishName": "Legend",
+    "category": "Painted Traffic Islands (Chevron Markings)",
+    "description": "Painted traffic islands/chevrons indicate an area you must not drive on (unless markings/signs specifically allow)."
+  },
+  {
+    "id": 19,
+    "englishName": "Legend",
+    "category": "Parking Near Intersections",
+    "description": "Parking too close to corners/intersections can block visibility and is restricted; always follow signs/road rules to keep sight lines clear."
+  },
+  {
+    "id": 20,
+    "englishName": "Legend",
+    "category": "Pedestrian Priority When Turning",
+    "description": "When turning, you must give way to pedestrians crossing the road you are entering (and stay alert near crossings and busy areas)."
+  },
+  {
+    "id": 21,
+    "englishName": "Legend",
+    "category": "Railway Crossings",
+    "description": "Stop at railway crossings when lights flash or boom gates are down; never enter if you can’t clear the tracks safely."
+  },
+  {
+    "id": 22,
+    "englishName": "Legend",
+    "category": "Roundabout Rules",
+    "description": "Give way to vehicles already in the roundabout; use indicators correctly (including signalling left when exiting where required)."
+  },
+  {
+    "id": 23,
+    "englishName": "Legend",
+    "category": "School Zone Speed",
+    "description": "In signed school zones, lower speed limits apply during the times shown; slow down even if children aren’t visible."
+  },
+  {
+    "id": 24,
+    "englishName": "Legend",
+    "category": "Tram Stop Rules",
+    "description": "You must stop for trams when required (e.g., when doors are open) and give way to pedestrians around tram stops/safety zones."
+  },
+  {
+    "id": 25,
+    "englishName": "Legend",
+    "category": "U-Turn Rules",
+    "description": "U-turns are only allowed where permitted (not prohibited by signs/markings) and must be done safely while giving way to others."
+  }
+]

@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Skýringar",
+category:"Áfengismörk (VIC)",
+description:"Í Viktoríu verða ökumenn í námi og reynslutíma (P1/P2) að hafa 0,00 í áfengismagni í blóði. Ökumenn með full ökuréttindi mega almennt vera 0,05 í áfengismagni í blóði."
+},
+{
+id: 2,
+englishName:"Skýringar",
+category:"Barnaöryggisbúnaður",
+description:"Börn verða að vera fest í viðurkenndum, viðeigandi barnaöryggisbúnaði miðað við aldur/stærð þeirra; öryggisbelti fyrir fullorðna eitt og sér veitir hugsanlega ekki rétta vörn."
+},
+{
+id: 3,
+englishName:"Skýringar",
+category:"Hreinsileið",
+description:"Hrein akstursleið þýðir að þú mátt ekki stoppa eða leggja á þeirri hlið vegarins á þeim tíma sem sýndur er á skilti."
+},
+{
+id: 4,
+englishName:"Skýringar",
+category:"Varnarakstur",
+description:"Varnarakstur þýðir að sjá fyrir mistök annarra, vera á undan og halda öruggu rými til að geta brugðist snemma við hættum."
+},
+{
+id: 5,
+englishName:"Skýringar",
+category:"Tvöfaldar samfelldar miðlínur",
+description:"Tvöföld samfelld miðlína þýðir að þú mátt ekki fara yfir eða klofna yfir línurnar."
+},
+{
+id: 6,
+englishName:"Skýringar",
+category:"Neyðarbílar víkja fyrir",
+description:"Ef neyðarbíll notar ljós/sírenu skaltu færa þig úr akrein hans og leyfa honum að komast örugglega fram hjá; ekki fylgja honum fast á eftir til að komast í gegnum umferðina."
+},
+{
+id: 7,
+englishName:"Skýringar",
+category:"Þreytustjórnun",
+description:"Þreyta getur haft áhrif á akstur eins og áfengi: hægari viðbrögð og slæmar ákvarðanir. Ef þú finnur fyrir syfju skaltu stoppa og hvíla þig áður en þú heldur áfram."
+},
+{
+id: 8,
+englishName:"Skýringar",
+category:"Fjarlægð eftirfylgni (2 sekúndna reglan)",
+description:"Við góðar aðstæður skal halda að minnsta kosti tveggja sekúndna bili á eftir ökutækinu fyrir framan; aukið bilið við slæmar aðstæður."
+},
+{
+id: 9,
+englishName:"Skýringar",
+category:"Fjarlægð eftir fylgni (í blautu veðri)",
+description:"Í bleytu skaltu auka bremsuvegalengdina (t.d. í um fjórar sekúndur) því bremsuvegalengd eykst og veggripið minnkar."
+},
+{
+id: 10,
+englishName:"Skýringar",
+category:"Veggjanlegt gatnamót (óstýrð gatnamót)",
+description:"Á gatnamótum án skilta/ljósa skal víkja samkvæmt reglunum (almennt: víkja skal fyrir ökutækinu hægra megin)."
+},
+{
+id: 11,
+englishName:"Skýringar",
+category:"Hook Turn (VIC sporvagnar)",
+description:"Hægribeygja er sérstök hægribeygja sem notuð er á sumum gatnamótum í miðbæ Melbourne til að forðast að sporvagnar séu í vegi fyrir umferð; venjulega er beygt til hægri úr vinstri akrein þegar skilti gefa til kynna það."
+},
+{
+id: 12,
+englishName:"Skýringar",
+category:"Akreinaskipti",
+description:"Áður en skipt er um akrein skal gefa merki, athuga spegla og blindsvæði og aðeins færa sig þegar það er óhætt — akreinamerkingar verða að fylgja."
+},
+{
+id: 13,
+englishName:"Skýringar",
+category:"Nemendaumsjón (VIC)",
+description:"Nemendur mega aðeins aka með viðeigandi leyfisbundnum eftirlitsökumanni sem situr við hlið sér; ef eftirlitið er ekki árangursríkt skal stöðva á öruggan hátt."
+},
+{
+id: 14,
+englishName:"Skýringar",
+category:"L-plata skjár (VIC)",
+description:"Ökunemar í námi verða að sýna L-númeraplöturnar greinilega svo þær sjáist á ökutækinu meðan á akstri stendur."
+},
+{
+id: 15,
+englishName:"Skýringar",
+category:"Farsímar (nemendur)",
+description:"Ökunemar í Viktoríu mega ekki nota farsíma á nokkurn hátt við akstur."
+},
+{
+id: 16,
+englishName:"Skýringar",
+category:"Bannað að leggja á móti bannaðar stöðvun",
+description:"Stöðvunarbann þýðir að þú mátt alls ekki stoppa (nema í umferð/neyðartilvikum). Bílastæði bannað getur leyft stutta afhendingu/skilun ef það er leyfilegt."
+},
+{
+id: 17,
+englishName:"Skýringar",
+category:"Framúrakstur vinstra megin (margar akreinar)",
+description:"Á fjölakreinavegum er leyfilegt að aka fram úr til vinstri þegar ökutæki eru á aðskildum merktum akreinum og það er óhætt."
+},
+{
+id: 18,
+englishName:"Skýringar",
+category:"Málaðar umferðareyjar (Chevron-merkingar)",
+description:"Málaðir umferðareyjur/chevrons gefa til kynna svæði sem ekki má aka á (nema merkingar/skilti leyfi það sérstaklega)."
+},
+{
+id: 19,
+englishName:"Skýringar",
+category:"Bílastæði nálægt gatnamótum",
+description:"Bílastæði of nálægt gatnamótum geta hindrað útsýni og eru bönnuð; fylgið alltaf skilti/umferðarreglum til að halda útsýninu greiðu."
+},
+{
+id: 20,
+englishName:"Skýringar",
+category:"Forgangur gangandi vegfarenda við beygju",
+description:"Þegar þú beygir skaltu víkja fyrir gangandi vegfarendum sem eru að fara yfir götuna sem þú ert að fara inn á (og vera á varðbergi nálægt gatnamótum og fjölförnum svæðum)."
+},
+{
+id: 21,
+englishName:"Skýringar",
+category:"Járnbrautarleiðir",
+description:"Stoppið við járnbrautarskiptingar þegar ljós blikka eða hliðin eru niðri; farið aldrei inn ef þið getið ekki rýmt teinana á öruggan hátt."
+},
+{
+id: 22,
+englishName:"Skýringar",
+category:"Reglur um hringtorg",
+description:"Víkið fyrir ökutækjum sem eru þegar í hringtorginu; notið umferðarljós rétt (þar á meðal að gefa merki til vinstri við útkeyrslu þar sem þörf krefur)."
+},
+{
+id: 23,
+englishName:"Skýringar",
+category:"Hraði í skólasvæði",
+description:"Á skiltaðum skólasvæðum gilda lægri hraðatakmarkanir á þeim tímum sem sýndir eru; hægið á ykkur jafnvel þótt börn sjáist ekki."
+},
+{
+id: 24,
+englishName:"Skýringar",
+category:"Reglur um sporvagnastoppistöðvar",
+description:"Þú verður að stoppa fyrir sporvagna þegar þörf krefur (t.d. þegar dyr eru opnar) og víkja fyrir gangandi vegfarendum í kringum sporvagnastoppistöðvar/öryggissvæði."
+},
+{
+id: 25,
+englishName:"Skýringar",
+category:"Reglur um U-beygjur",
+description:"U-beygjur eru aðeins leyfðar þar sem þær eru heimilar (ekki bannaðar með skilti/merkingum) og verða að vera gerðar á öruggan hátt og víkja skal fyrir öðrum."
+}
+]

@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Lenda",
+category:"Límites de alcol (VIC)",
+description:"En Victoria, os condutores aprendices e en período de proba (P1/P2) deben ter unha taxa de alcoholemia de 0,00. Os condutores con permiso de conducir completo xeralmente teñen un límite de alcoholemia de 0,05."
+},
+{
+id: 2,
+englishName:"Lenda",
+category:"Sistemas de retención infantil",
+description:"Os nenos deben ir suxeitos nun sistema de retención infantil homologado e axeitado para a súa idade/tamaño; un cinto de seguridade para adultos por si só pode non proporcionar a protección correcta."
+},
+{
+id: 3,
+englishName:"Lenda",
+category:"Vía libre",
+description:"Unha zona libre de obstáculos significa que non debes deterte nin estacionar nese lado da estrada durante os tempos de paso libre que indican os sinais."
+},
+{
+id: 4,
+englishName:"Lenda",
+category:"Condución defensiva",
+description:"A condución defensiva significa anticiparse aos erros dos demais, anticiparse e manter un espazo de seguridade para poder responder cedo aos perigos."
+},
+{
+id: 5,
+englishName:"Lenda",
+category:"Liñas centrais continuas dobres",
+description:"Unha liña central dobre e continua significa que non debes cruzar nin exceder as liñas."
+},
+{
+id: 6,
+englishName:"Lenda",
+category:"Vehículo de emerxencia cedendo o paso",
+description:"Se un vehículo de emerxencia está a usar as luces/sirena, apártese da súa traxectoria e déixeo pasar con seguridade; non o siga de preto para atravesar o tráfico."
+},
+{
+id: 7,
+englishName:"Lenda",
+category:"Xestión da fatiga",
+description:"A fatiga pode afectar á condución como o alcohol: reaccións máis lentas e malas decisións. Se te sentes somnolencia, para e descansa antes de continuar."
+},
+{
+id: 8,
+englishName:"Lenda",
+category:"Distancia de seguimento (regra dos 2 segundos)",
+description:"En boas condicións, mantén unha distancia de polo menos dous segundos con respecto ao vehículo que te diante; aumenta a distancia en malas condicións."
+},
+{
+id: 9,
+englishName:"Lenda",
+category:"Distancia de seguimento (tempo húmido)",
+description:"En condicións de humidade, aumente a distancia de seguimento (por exemplo, a uns catro segundos) porque as distancias de freada aumentan e a adherencia redúcese."
+},
+{
+id: 10,
+englishName:"Lenda",
+category:"Cedendo o paso (interseccións non controladas)",
+description:"Nos cruzamentos sen sinais, ceda o paso segundo as normas (normalmente: ceda o paso ao vehículo da súa dereita)."
+},
+{
+id: 11,
+englishName:"Lenda",
+category:"Xiro de gancho (tranvías VIC)",
+description:"Un xiro en gancho é un xiro especial á dereita que se usa nalgunhas interseccións do centro de Melbourne para evitar bloquear os tranvías; normalmente xiras á dereita desde o carril esquerdo cando o sinais o indican."
+},
+{
+id: 12,
+englishName:"Lenda",
+category:"Cambio de carril",
+description:"Antes de cambiar de carril, sinaliza, comproba os retrovisores e os puntos cegos e só móvete cando sexa seguro; débense respectar as marcas do carril."
+},
+{
+id: 13,
+englishName:"Lenda",
+category:"Supervisión do alumno (VIC)",
+description:"Os alumnos deben conducir só cun condutor con licenza debidamente autorizado sentado ao seu carón; se a supervisión non é eficaz, deben deterse con seguridade."
+},
+{
+id: 14,
+englishName:"Lenda",
+category:"Exhibición de placa en L (VIC)",
+description:"Os condutores aprendices deben exhibir as placas L claramente para que sexan visibles no vehículo mentres conducen."
+},
+{
+id: 15,
+englishName:"Lenda",
+category:"Teléfonos móbiles (alumnos)",
+description:"Os condutores aprendices en Victoria non deben usar o teléfono móbil de ningún xeito mentres conducen."
+},
+{
+id: 16,
+englishName:"Lenda",
+category:"Prohibido estacionar vs. Prohibido parar",
+description:"Prohibida a parada significa que non debes parar en absoluto (agás por tráfico/emerxencia). Prohibido o estacionamento pode permitir paradas ou baixadas breves se está permitido."
+},
+{
+id: 17,
+englishName:"Lenda",
+category:"Adiantamento pola esquerda (carril múltiple)",
+description:"En estradas de varios carrís, permítese adiantamento pola esquerda cando os vehículos están en carrís marcados separados e é seguro."
+},
+{
+id: 18,
+englishName:"Lenda",
+category:"Illas de tráfico pintadas (marcas de chevron)",
+description:"As illas/chevróns de tráfico pintados indican unha zona pola que non se debe circular (a non ser que as marcas/sinais o permitan especificamente)."
+},
+{
+id: 19,
+englishName:"Lenda",
+category:"Aparcadoiro preto de interseccións",
+description:"Aparcar demasiado preto de esquinas/interseccións pode bloquear a visibilidade e está restrinxido; siga sempre as sinais/normas de circulación para manter as liñas de visión despexadas."
+},
+{
+id: 20,
+englishName:"Lenda",
+category:"Prioridade de peóns ao xirar",
+description:"Ao xirar, debes ceder o paso aos peóns que cruzan a rúa pola que te estás a entrar (e manterte alerta preto dos pasos de peóns e das zonas concorridos)."
+},
+{
+id: 21,
+englishName:"Lenda",
+category:"Pasos a nivel de ferrocarril",
+description:"Pare nos pasos a nivel de vía cando as luces parpadean ou as barreiras estean baixadas; nunca entre se non pode limpar as vías con seguridade."
+},
+{
+id: 22,
+englishName:"Lenda",
+category:"Normas de rotonda",
+description:"Cede o paso aos vehículos que xa estean na rotonda; usa os intermitentes correctamente (incluíndo a sinalización á esquerda ao saír cando sexa necesario)."
+},
+{
+id: 23,
+englishName:"Lenda",
+category:"Velocidade da zona escolar",
+description:"Nas zonas escolares sinalizadas, aplícanse límites de velocidade máis baixos durante os horarios indicados; reduza a velocidade mesmo se os nenos non son visibles."
+},
+{
+id: 24,
+englishName:"Lenda",
+category:"Normas das paradas de tranvía",
+description:"Debe parar para ver que pasan os tranvías cando sexa necesario (por exemplo, cando as portas estean abertas) e ceder o paso aos peóns arredor das paradas do tranvía/zonas de seguridade."
+},
+{
+id: 25,
+englishName:"Lenda",
+category:"Regras de xiro en U",
+description:"Os xiros en U só están permitidos onde o permitan (non onde estean prohibidos por sinais/marcas) e deben facerse con seguridade, cedendo o paso aos demais."
+}
+]

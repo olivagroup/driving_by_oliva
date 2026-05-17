@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Legend",
+category:"Alkoholgränser (VIC)",
+description:"I Victoria måste förare som är elevförare och provförare (P1/P2) ha en alkoholhalt i blodet på 0,00. Förare med full körkort har i allmänhet en alkoholhalt på 0,05."
+},
+{
+id: 2,
+englishName:"Legend",
+category:"Barnsäkerhetsanordningar",
+description:"Barn måste vara fastspända i en godkänd och lämplig barnsäkerhetsanordning för sin ålder/storlek; ett säkerhetsbälte för vuxna ger eventuellt inte tillräckligt skydd."
+},
+{
+id: 3,
+englishName:"Legend",
+category:"Friväg",
+description:"En friledig väg innebär att du inte får stanna eller parkera på den sidan av vägen under de frilediga tider som visas på skyltarna."
+},
+{
+id: 4,
+englishName:"Legend",
+category:"Defensiv körning",
+description:"Defensiv körning innebär att förutse andras misstag, vara uppmärksam och hålla ett säkert buffertutrymme så att man kan reagera tidigt på faror."
+},
+{
+id: 5,
+englishName:"Legend",
+category:"Dubbla kontinuerliga mittlinjer",
+description:"En dubbel sammanhängande mittlinje innebär att du inte får korsa eller gränsla över linjerna."
+},
+{
+id: 6,
+englishName:"Legend",
+category:"Väjningsväg för utryckningsfordon",
+description:"Om ett utryckningsfordon använder ljus/siren, kör ur dess körfält och låt det passera säkert; följ inte tätt bakom det för att komma igenom trafiken."
+},
+{
+id: 7,
+englishName:"Legend",
+category:"Trötthetshantering",
+description:"Trötthet kan påverka körning precis som alkohol: långsammare reaktioner och dåliga beslut. Om du känner dig dåsig, stanna och vila innan du fortsätter."
+},
+{
+id: 8,
+englishName:"Legend",
+category:"Följavstånd (2-sekundersregeln)",
+description:"Under goda förhållanden, håll minst två sekunders avstånd bakom framförvarande fordon; öka avståndet under dåliga förhållanden."
+},
+{
+id: 9,
+englishName:"Legend",
+category:"Följavstånd (vått väder)",
+description:"Öka din följarsträcka i vått underlag (t.ex. till cirka fyra sekunder) eftersom bromssträckorna ökar och väggreppet minskar."
+},
+{
+id: 10,
+englishName:"Legend",
+category:"Väjningsplikt (okontrollerade korsningar)",
+description:"I korsningar utan skyltar/signaler, väj enligt reglerna (vanligtvis: väj för fordonet på din högra sida)."
+},
+{
+id: 11,
+englishName:"Legend",
+category:"Hook Turn (VIC-spårvagnar)",
+description:"En kroksväng är en speciell högersväng som används i vissa korsningar i Melbournes centrala affärsdistrikt för att undvika att blockera spårvagnar; man svänger vanligtvis höger från vänsterfilen när skyltar anger det."
+},
+{
+id: 12,
+englishName:"Legend",
+category:"Filbyte",
+description:"Innan du byter fil, blinka, kontrollera speglar och döda vinklar och rör dig bara när det är säkert – filmarkeringar måste följas."
+},
+{
+id: 13,
+englishName:"Legend",
+category:"Elevhandledning (VIC)",
+description:"Elever får endast köra med en lämplig licensierad övervakande förare som sitter bredvid sig; om övervakningen inte är effektiv, stanna på ett säkert sätt."
+},
+{
+id: 14,
+englishName:"Legend",
+category:"L-plattans display (VIC)",
+description:"Elever måste visa L-skyltar tydligt så att de är synliga på fordonet under körning."
+},
+{
+id: 15,
+englishName:"Legend",
+category:"Mobiltelefoner (elever)",
+description:"Elever i Victoria får inte använda mobiltelefon på något sätt under körning."
+},
+{
+id: 16,
+englishName:"Legend",
+category:"Parkering förbjuden kontra stoppförbud",
+description:"Stoppförbud innebär att du inte får stanna alls (förutom i trafik/nödsituationer). Parkering förbjuden kan tillåta kort upphämtning/avlämning om det är tillåtet."
+},
+{
+id: 17,
+englishName:"Legend",
+category:"Omkörning till vänster (flerfilig)",
+description:"På flerfiliga vägar är omkörning till vänster tillåten när fordonen befinner sig i separata markerade filer och det är säkert."
+},
+{
+id: 18,
+englishName:"Legend",
+category:"Målade trafiköar (Chevron-markeringar)",
+description:"Målade trafiköar/chevroner anger ett område där du inte får köra (såvida inte markeringar/skyltar uttryckligen tillåter det)."
+},
+{
+id: 19,
+englishName:"Legend",
+category:"Parkering nära korsningar",
+description:"Parkering för nära hörn/korsningar kan blockera sikten och är begränsad; följ alltid skyltar/trafikregler för att hålla sikten fri."
+},
+{
+id: 20,
+englishName:"Legend",
+category:"Fotgängarprioritet vid svängning",
+description:"När du svänger måste du lämna företräde för fotgängare som korsar vägen du kör in på (och var uppmärksam nära övergångsställen och trafikerade områden)."
+},
+{
+id: 21,
+englishName:"Legend",
+category:"Järnvägsövergångar",
+description:"Stanna vid järnvägsövergångar när ljusen blinkar eller bommar är nere; kör aldrig in om du inte kan röja spåren på ett säkert sätt."
+},
+{
+id: 22,
+englishName:"Legend",
+category:"Rondellregler",
+description:"Väj före fordon som redan finns i rondellen; använd blinkers korrekt (inklusive vänstersignal vid utfart där det krävs)."
+},
+{
+id: 23,
+englishName:"Legend",
+category:"Hastighet i skolzonen",
+description:"I skyltade skolzoner gäller lägre hastighetsgränser under de angivna tiderna; sakta ner även om barn inte syns."
+},
+{
+id: 24,
+englishName:"Legend",
+category:"Regler för spårvagnshållplatser",
+description:"Du måste stanna för spårvagnar när det behövs (t.ex. när dörrarna är öppna) och väja för fotgängare runt spårvagnshållplatser/säkerhetszoner."
+},
+{
+id: 25,
+englishName:"Legend",
+category:"U-svängregler",
+description:"U-svängar är endast tillåtna där det är tillåtet (inte förbjudet enligt skyltar/markeringar) och måste göras på ett säkert sätt med väjningsplikt för andra."
+}
+]

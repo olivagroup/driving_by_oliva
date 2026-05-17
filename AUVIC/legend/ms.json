@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Legenda",
+category:"Had Alkohol (VIC)",
+description:"Di Victoria, pemandu pelajar dan dalam percubaan (P1/P2) mesti mempunyai BAC sebanyak 0.00. Pemandu berlesen penuh biasanya mempunyai had BAC sebanyak 0.05."
+},
+{
+id: 2,
+englishName:"Legenda",
+category:"Kekangan Kanak-kanak",
+description:"Kanak-kanak mesti diikat dengan tali pinggang keledar kanak-kanak yang diluluskan dan sesuai untuk umur/saiz mereka; tali pinggang keledar dewasa sahaja mungkin tidak memberikan perlindungan yang betul."
+},
+{
+id: 3,
+englishName:"Legenda",
+category:"Clearway",
+description:"Lebuh raya yang jelas bermaksud anda tidak boleh berhenti atau meletakkan kereta di sebelah jalan tersebut semasa waktu lebuh raya yang ditunjukkan pada papan tanda."
+},
+{
+id: 4,
+englishName:"Legenda",
+category:"Pemanduan Bertahan",
+description:"Pemanduan defensif bermaksud menjangka kesilapan orang lain, mengimbas ke hadapan, dan mengekalkan ruang penampan yang selamat supaya anda boleh bertindak balas lebih awal terhadap bahaya."
+},
+{
+id: 5,
+englishName:"Legenda",
+category:"Garisan Tengah Berterusan Berganda",
+description:"Garisan tengah berganda berterusan bermaksud anda tidak boleh melintasi atau menjangkau garisan tersebut."
+},
+{
+id: 6,
+englishName:"Legenda",
+category:"Kenderaan Kecemasan Memberi Laluan",
+description:"Jika kenderaan kecemasan menggunakan lampu/siren, keluar dari laluannya dan biarkan ia lalu dengan selamat; jangan ikut rapat di belakangnya untuk memotong lalu lintas."
+},
+{
+id: 7,
+englishName:"Legenda",
+category:"Pengurusan Keletihan",
+description:"Keletihan boleh menjejaskan pemanduan seperti alkohol: reaksi yang lebih perlahan dan keputusan yang buruk. Jika anda berasa mengantuk, berhenti dan berehat sebelum meneruskan."
+},
+{
+id: 8,
+englishName:"Legenda",
+category:"Mengikuti Jarak (Peraturan 2 Saat)",
+description:"Dalam keadaan baik, kekalkan jarak sekurang-kurangnya dua saat di belakang kenderaan di hadapan; tingkatkan jarak dalam keadaan buruk."
+},
+{
+id: 9,
+englishName:"Legenda",
+category:"Jarak Mengikuti (Cuaca Basah)",
+description:"Dalam keadaan basah, tingkatkan jarak pengejaran anda (cth., kepada kira-kira empat saat) kerana jarak berhenti meningkat dan cengkaman berkurangan."
+},
+{
+id: 10,
+englishName:"Legenda",
+category:"Memberi Laluan (Persimpangan Tidak Terkawal)",
+description:"Di persimpangan tanpa papan tanda/isyarat, beri laluan mengikut peraturan (biasanya: beri laluan kepada kenderaan di sebelah kanan anda)."
+},
+{
+id: 11,
+englishName:"Legenda",
+category:"Selekoh Hook (Trem VIC)",
+description:"Pusingan belok ialah pusingan kanan khas yang digunakan di beberapa persimpangan CBD Melbourne untuk mengelakkan trem daripada tersekat; anda biasanya membelok ke kanan dari lorong kiri apabila terdapat papan tanda."
+},
+{
+id: 12,
+englishName:"Legenda",
+category:"Menukar Lorong",
+description:"Sebelum menukar lorong, beri isyarat, periksa cermin mata dan titik buta, dan hanya bergerak apabila selamat—tanda lorong mesti dipatuhi."
+},
+{
+id: 13,
+englishName:"Legenda",
+category:"Penyeliaan Pelajar (VIC)",
+description:"Pelajar hanya perlu memandu dengan pemandu penyelia berlesen yang sesuai duduk di sebelah mereka; jika penyeliaan tidak berkesan, berhenti dengan selamat."
+},
+{
+id: 14,
+englishName:"Legenda",
+category:"Paparan Plat-L (VIC)",
+description:"Pemandu yang baru belajar mesti mempamerkan plat L dengan jelas supaya ia boleh dilihat pada kenderaan semasa memandu."
+},
+{
+id: 15,
+englishName:"Legenda",
+category:"Telefon Bimbit (Pelajar)",
+description:"Pemandu yang belajar memandu di Victoria tidak boleh menggunakan telefon bimbit dalam apa jua cara semasa memandu."
+},
+{
+id: 16,
+englishName:"Legenda",
+category:"Dilarang Meletak Kereta vs Dilarang Berhenti",
+description:"Dilarang Berhenti bermaksud anda tidak boleh berhenti sama sekali (kecuali untuk kesesakan lalu lintas/kecemasan). Tempat Letak Kereta Dilarang membenarkan pengambilan/penghantaran sebentar jika dibenarkan."
+},
+{
+id: 17,
+englishName:"Legenda",
+category:"Memotong di Kiri (Berbilang Lorong)",
+description:"Di jalan raya berbilang lorong, memotong di sebelah kiri dibenarkan apabila kenderaan berada di lorong bertanda berasingan dan ia selamat."
+},
+{
+id: 18,
+englishName:"Legenda",
+category:"Pulau Lalu Lintas Bercat (Tanda Chevron)",
+description:"Pulau/chevron trafik yang dicat menunjukkan kawasan yang anda tidak boleh pandu (melainkan jika tanda/papan tanda khusus membenarkannya)."
+},
+{
+id: 19,
+englishName:"Legenda",
+category:"Tempat Letak Kereta Berhampiran Persimpangan",
+description:"Meletak kereta terlalu dekat dengan selekoh/persimpangan boleh menyekat penglihatan dan terhad; sentiasa patuhi papan tanda/peraturan jalan raya untuk memastikan garisan penglihatan jelas."
+},
+{
+id: 20,
+englishName:"Legenda",
+category:"Keutamaan Pejalan Kaki Semasa Membelok",
+description:"Semasa membelok, anda mesti memberi laluan kepada pejalan kaki yang melintas jalan yang anda masuki (dan sentiasa berwaspada berhampiran lintasan dan kawasan sibuk)."
+},
+{
+id: 21,
+englishName:"Legenda",
+category:"Lintasan Kereta Api",
+description:"Berhenti di lintasan kereta api apabila lampu berkelip atau pintu pagar ditutup; jangan sekali-kali masuk jika anda tidak dapat membersihkan landasan dengan selamat."
+},
+{
+id: 22,
+englishName:"Legenda",
+category:"Peraturan Bulatan",
+description:"Beri laluan kepada kenderaan yang sudah berada di bulatan; gunakan lampu isyarat dengan betul (termasuk isyarat kiri apabila keluar jika perlu)."
+},
+{
+id: 23,
+englishName:"Legenda",
+category:"Kelajuan Zon Sekolah",
+description:"Di zon sekolah yang bertanda, had laju yang lebih rendah dikenakan semasa waktu yang ditunjukkan; perlahankan kenderaan walaupun kanak-kanak tidak kelihatan."
+},
+{
+id: 24,
+englishName:"Legenda",
+category:"Peraturan Perhentian Trem",
+description:"Anda mesti berhenti untuk trem apabila diperlukan (cth., apabila pintu dibuka) dan memberi laluan kepada pejalan kaki di sekitar perhentian trem/zon keselamatan."
+},
+{
+id: 25,
+englishName:"Legenda",
+category:"Peraturan Pusingan U",
+description:"Pusingan-U hanya dibenarkan jika dibenarkan (tidak dilarang oleh papan tanda/tanda) dan mesti dilakukan dengan selamat sambil memberi laluan kepada orang lain."
+}
+]

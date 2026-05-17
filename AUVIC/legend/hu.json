@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Legenda",
+category:"Alkoholhatárok (VIC)",
+description:"Victoriában a tanuló- és próbaidős (P1/P2) vezetők véralkoholszintje nem haladhatja meg a 0,00-t. A teljes jogosítvánnyal rendelkező vezetők véralkoholszint-határértéke általában 0,05."
+},
+{
+id: 2,
+englishName:"Legenda",
+category:"Gyermekbiztonsági rendszerek",
+description:"A gyermekeket a koruknak/méretüknek megfelelő, jóváhagyott gyermekülésben kell bekötni; a felnőtt biztonsági öv önmagában nem biztos, hogy megfelelő védelmet nyújt."
+},
+{
+id: 3,
+englishName:"Legenda",
+category:"Felszállási biztonsági sáv",
+description:"A forgalomból kikerülő szakasz azt jelenti, hogy tilos az útnak ezen az oldalán megállni vagy parkolni a jelzőtáblákon feltüntetett nyitvatartási idő alatt."
+},
+{
+id: 4,
+englishName:"Legenda",
+category:"Védekező vezetés",
+description:"A defenzív vezetés azt jelenti, hogy előre látjuk mások hibáit, előre tekintünk, és biztonságos távolságot tartunk, hogy időben reagálhassunk a veszélyekre."
+},
+{
+id: 5,
+englishName:"Legenda",
+category:"Dupla folytonos középvonalak",
+description:"A dupla, folyamatos középvonal azt jelenti, hogy tilos a vonalakat átlépni vagy közrefogni."
+},
+{
+id: 6,
+englishName:"Legenda",
+category:"Mentőjármű elsőbbséget ad",
+description:"Ha egy mentőautó villog/szirénázik, állj ki az útjából, és hagyd biztonságosan elhaladni; ne kövesd szorosan a forgalmi dugót."
+},
+{
+id: 7,
+englishName:"Legenda",
+category:"Fáradtságkezelés",
+description:"A fáradtság az alkoholhoz hasonlóan befolyásolhatja a vezetést: lassabb reakcióidők és rossz döntések. Ha álmosnak érzed magad, állj meg és pihenj, mielőtt folytatnád."
+},
+{
+id: 8,
+englishName:"Legenda",
+category:"Követési távolság (2 másodperces szabály)",
+description:"Jó körülmények között legalább két másodperces követési távolságot kell tartani az elöl haladó jármű mögött; rossz körülmények között növelni kell a követési távolságot."
+},
+{
+id: 9,
+englishName:"Legenda",
+category:"Követési távolság (nedves időben)",
+description:"Nedves körülmények között növelje a követési távolságot (például körülbelül négy másodpercre), mert a fékút megnő, a tapadás pedig csökken."
+},
+{
+id: 10,
+englishName:"Legenda",
+category:"Elsőbbségadás (nem szabályozott kereszteződések)",
+description:"Táblák/jelzőlámpák nélküli kereszteződésekben a szabályok szerint kell elsőbbséget adni (általában: elsőbbséget kell adni a jobb oldali járműnek)."
+},
+{
+id: 11,
+englishName:"Legenda",
+category:"Hook Turn (VIC villamosok)",
+description:"A horgos kanyar egy speciális jobbra kanyarodás, amelyet Melbourne belvárosának egyes kereszteződéseiben használnak, hogy elkerüljék a villamosok elakadását; általában a bal sávból kell jobbra kanyarodni, amikor a táblák ezt jelzik."
+},
+{
+id: 12,
+englishName:"Legenda",
+category:"Sávváltás",
+description:"Sávváltás előtt indexeljen, ellenőrizze a tükröket és a holttereket, és csak akkor induljon el, ha biztonságos – a sávelválasztó csíkokat be kell tartani."
+},
+{
+id: 13,
+englishName:"Legenda",
+category:"Tanulói felügyelet (VIC)",
+description:"A tanulók csak akkor vezethetnek, ha egy megfelelő jogosítvánnyal rendelkező, felügyelő sofőr ül mellettük; ha a felügyelet nem hatékony, biztonságosan meg kell állni."
+},
+{
+id: 14,
+englishName:"Legenda",
+category:"L-lemezes kijelző (VIC)",
+description:"A tanulóvezetőknek jól látható helyen kell elhelyezniük az L-táblákat a járművön vezetés közben."
+},
+{
+id: 15,
+englishName:"Legenda",
+category:"Mobiltelefonok (tanulók)",
+description:"Victoriában a tanulóvezetőknek semmilyen módon nem szabad mobiltelefont használniuk vezetés közben."
+},
+{
+id: 16,
+englishName:"Legenda",
+category:"Parkolni tilos vs. Megállni tilos",
+description:"A Megállás tilos azt jelenti, hogy egyáltalán nem szabad megállni (kivéve forgalmi/vészhelyzeti okokból). A Parkolás tilosban engedélyezett lehet a rövid idejű fel-/leszállás, ha az megengedett."
+},
+{
+id: 17,
+englishName:"Legenda",
+category:"Előzés balról (Többsávos)",
+description:"Többsávos utakon balról előzni csak akkor szabad, ha a járművek külön sávokban haladnak, és az biztonságos."
+},
+{
+id: 18,
+englishName:"Legenda",
+category:"Festett közlekedési szigetek (Chevron jelölések)",
+description:"A festett közlekedési szigetek/sávok olyan területet jelölnek, amelyen tilos közlekedni (kivéve, ha a jelzések/burkolati jelek kifejezetten engedélyezik)."
+},
+{
+id: 19,
+englishName:"Legenda",
+category:"Parkolás kereszteződésekhez közel",
+description:"A sarkokhoz/kereszteződésekhez túl közeli parkolás akadályozhatja a kilátást, és korlátozott; mindig tartsa be a jelzéseket/közlekedési szabályokat a szabad látás érdekében."
+},
+{
+id: 20,
+englishName:"Legenda",
+category:"Gyalogoselsőbbség kanyarodáskor",
+description:"Kanyarodáskor elsőbbséget kell adni a gyalogosoknak, akik átkelnek azon az úton, amelyre belépsz (és figyelni kell az átkelőhelyek és a forgalmas területek közelében)."
+},
+{
+id: 21,
+englishName:"Legenda",
+category:"Vasúti átjárók",
+description:"Állj meg a vasúti átjáróknál, ha villognak a lámpák, vagy a sorompó le van eresztve; soha ne menj be, ha nem tudod biztonságosan elhagyni a síneket."
+},
+{
+id: 22,
+englishName:"Legenda",
+category:"Körforgalom szabályai",
+description:"Adjon elsőbbséget a körforgalomban már lévő járműveknek; használja helyesen az irányjelzőket (beleértve a balra jelzést kijáratkor, ahol szükséges)."
+},
+{
+id: 23,
+englishName:"Legenda",
+category:"Iskolai zóna sebessége",
+description:"A kitáblázott iskolai övezetekben a feltüntetett időpontokban alacsonyabb sebességkorlátozások érvényesek; lassítson le akkor is, ha a gyerekek nem láthatók."
+},
+{
+id: 24,
+englishName:"Legenda",
+category:"Villamosmegállók szabályai",
+description:"Szükség esetén (pl. nyitott ajtóknál) meg kell állni a villamosoknál, és elsőbbséget kell adni a gyalogosoknak a villamosmegállók/biztonsági zónák környékén."
+},
+{
+id: 25,
+englishName:"Legenda",
+category:"Megfordulási szabályok",
+description:"A megfordulás csak ott megengedett, ahol az megengedett (nem tiltják jelzések/jelölések), és biztonságosan kell végrehajtani, miközben elsőbbséget kell adni másoknak."
+}
+]

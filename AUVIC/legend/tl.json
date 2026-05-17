@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Alamat",
+category:"Mga Limitasyon sa Alkohol (VIC)",
+description:"Sa Victoria, ang mga drayber na nag-aaral at probationary (P1/P2) ay dapat mayroong BAC na 0.00. Ang mga drayber na may ganap na lisensya ay karaniwang may limitasyon sa BAC na 0.05."
+},
+{
+id: 2,
+englishName:"Alamat",
+category:"Mga Pagpigil sa Bata",
+description:"Dapat higpitan ang mga bata gamit ang aprubado at angkop na pangharang ng bata para sa kanilang edad/laki; ang isang seatbelt para sa nasa hustong gulang lamang ay maaaring hindi makapagbibigay ng wastong proteksyon."
+},
+{
+id: 3,
+englishName:"Alamat",
+category:"Clearway",
+description:"Ang ibig sabihin ng clearway ay hindi ka dapat huminto o mag-park sa gilid na iyon ng kalsada sa mga oras ng clearway na nakasaad sa mga karatula."
+},
+{
+id: 4,
+englishName:"Alamat",
+category:"Depensibong Pagmamaneho",
+description:"Ang depensibong pagmamaneho ay nangangahulugan ng pag-asam sa mga pagkakamali ng iba, pag-iingat sa hinaharap, at pagpapanatili ng ligtas na espasyo para makatugon ka nang maaga sa mga panganib."
+},
+{
+id: 5,
+englishName:"Alamat",
+category:"Dobleng Tuloy-tuloy na Linya ng Sentro",
+description:"Ang ibig sabihin ng dobleng tuloy-tuloy na gitnang linya ay hindi ka dapat tumawid o sumaklaw sa mga linya."
+},
+{
+id: 6,
+englishName:"Alamat",
+category:"Pagbibigay-daan ng Sasakyang Pang-emerhensya",
+description:"Kung ang isang sasakyang pang-emerhensya ay gumagamit ng mga ilaw/sirena, lumayo sa dinaraanan nito at hayaan itong dumaan nang ligtas; huwag sumunod nang malapit sa likuran nito para makalusot sa trapiko."
+},
+{
+id: 7,
+englishName:"Alamat",
+category:"Pamamahala ng Pagkapagod",
+description:"Ang pagkapagod ay maaaring makaapekto sa pagmamaneho tulad ng alkohol: mas mabagal na reaksyon at maling desisyon. Kung nakakaramdam ka ng antok, huminto at magpahinga bago magpatuloy."
+},
+{
+id: 8,
+englishName:"Alamat",
+category:"Pagsunod sa Distansya (2-Segundong Panuntunan)",
+description:"Sa ilalim ng maayos na mga kondisyon, magpanatili ng kahit dalawang segundong pagitan sa likod ng sasakyan sa harap; dagdagan ang pagitan sa hindi maayos na mga kondisyon."
+},
+{
+id: 9,
+englishName:"Alamat",
+category:"Pagsunod sa Distansya (Maulan na Panahon)",
+description:"Sa basang kondisyon, dagdagan ang distansya ng iyong pagsunod (hal., sa mga apat na segundo) dahil tumataas ang distansya ng paghinto at nababawasan ang kapit."
+},
+{
+id: 10,
+englishName:"Alamat",
+category:"Pagbibigay ng Daan (Mga Hindi Kinokontrol na Interseksyon)",
+description:"Sa mga interseksyon na walang mga karatula/senyas, magbigay daan ayon sa mga patakaran (karaniwan: magbigay daan sa sasakyan sa iyong kanan)."
+},
+{
+id: 11,
+englishName:"Alamat",
+category:"Hook Turn (Mga Tram ng VIC)",
+description:"Ang hook turn ay isang espesyal na pagliko pakanan na ginagamit sa ilang interseksyon ng Melbourne CBD upang maiwasan ang pagharang sa mga tram; karaniwan kang lumiliko pakanan mula sa kaliwang lane kapag may nakasaad na mga karatula."
+},
+{
+id: 12,
+englishName:"Alamat",
+category:"Pagbabago ng Lane",
+description:"Bago lumipat ng lane, magbigay ng senyas, suriin ang mga salamin at mga blind spot, at gumalaw lamang kapag ligtas na—dapat sundin ang mga marka sa lane."
+},
+{
+id: 13,
+englishName:"Alamat",
+category:"Superbisyon ng Mag-aaral (VIC)",
+description:"Ang mga mag-aaral ay dapat lamang magmaneho nang may kasamang angkop na lisensyadong superbisor na nakaupo sa tabi nila; kung hindi epektibo ang pangangasiwa, huminto nang ligtas."
+},
+{
+id: 14,
+englishName:"Alamat",
+category:"L-Plate Display (VIC)",
+description:"Dapat malinaw na maipakita ng mga nag-aaral na drayber ang mga plakang L para makita ang mga ito sa sasakyan habang nagmamaneho."
+},
+{
+id: 15,
+englishName:"Alamat",
+category:"Mga Mobile Phone (Mga Mag-aaral)",
+description:"Ang mga mag-aaral na magmaneho sa Victoria ay hindi dapat gumamit ng mobile phone sa anumang paraan habang nagmamaneho."
+},
+{
+id: 16,
+englishName:"Alamat",
+category:"Bawal Mag-parking vs. Bawal Humihinto",
+description:"Ang ibig sabihin ng"No Stopting"ay hindi ka dapat huminto (maliban kung may trapiko/emergency). Ang \"No Parking\"ay maaaring magpahintulot ng panandaliang pagsundo/pagbaba kung pinahihintulutan."
+},
+{
+id: 17,
+englishName:"Alamat",
+category:"Pag-overtake sa Kaliwa (Maraming Linya)",
+description:"Sa mga kalsadang may maraming linya, pinapayagan ang pag-overtake sa kaliwa kapag ang mga sasakyan ay nasa magkahiwalay na markadong linya at ligtas ito."
+},
+{
+id: 18,
+englishName:"Alamat",
+category:"Mga Pininturahan na Isla ng Trapiko (Mga Marka ng Chevron)",
+description:"Ang mga pininturahang traffic island/chevron ay nagpapahiwatig ng lugar na hindi ka dapat magmaneho (maliban kung may mga partikular na marka/karatula na nagpapahintulot)."
+},
+{
+id: 19,
+englishName:"Alamat",
+category:"Paradahan Malapit sa mga Interseksyon",
+description:"Ang pagpaparada nang masyadong malapit sa mga kanto/interseksyon ay maaaring humarang sa paningin at maging sanhi ng paglimita; laging sundin ang mga karatula/patakaran sa kalsada upang mapanatiling malinaw ang mga linya ng paningin."
+},
+{
+id: 20,
+englishName:"Alamat",
+category:"Prayoridad ng Naglalakad Kapag Lumiliko",
+description:"Kapag lumiliko, dapat kang magbigay daan sa mga naglalakad na tumatawid sa kalsadang iyong papasukin (at manatiling alerto malapit sa mga tawiran at mataong lugar)."
+},
+{
+id: 21,
+englishName:"Alamat",
+category:"Mga Tawiran ng Riles",
+description:"Huminto sa mga tawiran ng tren kapag kumikislap ang mga ilaw o nakasara ang mga boom gate; huwag na huwag pumasok kung hindi mo kayang ligtas na malusutan ang riles."
+},
+{
+id: 22,
+englishName:"Alamat",
+category:"Mga Panuntunan sa Rotonda",
+description:"Magbigay-daan sa mga sasakyang nasa loob na ng rotonda; gamitin nang tama ang mga indikasyon (kabilang ang pagsenyas pakaliwa kapag lalabas kung saan kinakailangan)."
+},
+{
+id: 23,
+englishName:"Alamat",
+category:"Bilis ng Sona ng Paaralan",
+description:"Sa mga sona ng paaralan na may lagda, may mas mababang limitasyon sa bilis na ipinapatupad sa mga oras na nakasaad; bumagal kahit hindi nakikita ang mga bata."
+},
+{
+id: 24,
+englishName:"Alamat",
+category:"Mga Panuntunan sa Paghinto ng Tram",
+description:"Dapat kang huminto para sa mga tram kung kinakailangan (hal., kapag bukas ang mga pinto) at magbigay daan sa mga naglalakad sa paligid ng mga hintuan ng tram/mga safety zone."
+},
+{
+id: 25,
+englishName:"Alamat",
+category:"Mga Panuntunan sa Pag-U-Turn",
+description:"Ang mga U-turn ay pinapayagan lamang kung saan pinahihintulutan (hindi ipinagbabawal ng mga karatula/marka) at dapat gawin nang ligtas habang nagbibigay-daan sa iba."
+}
+]

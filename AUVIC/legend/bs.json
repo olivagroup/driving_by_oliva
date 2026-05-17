@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Legenda",
+category:"Ograničenja alkohola (VIC)",
+description:"U Viktoriji, vozači početnici i vozači na probnom roku (P1/P2) moraju imati koncentraciju alkoholaukrvi od 0,00. Vozači s punom dozvolom obično imaju ograničenje od 0,05."
+},
+{
+id: 2,
+englishName:"Legenda",
+category:"Dječji sigurnosni sustavi",
+description:"Djeca moraju biti vezanauodobrenom, odgovarajućem dječjem autosjedalici za njihov uzrast/veličinu; sigurnosni pojas za odrasle sam po sebi možda neće pružiti odgovarajuću zaštitu."
+},
+{
+id: 3,
+englishName:"Legenda",
+category:"Prohod",
+description:"Čista traka znači da ne smijete stati ili parkirati na toj strani ceste tokom vremena za čistinu trake prikazanog na znakovima."
+},
+{
+id: 4,
+englishName:"Legenda",
+category:"Defanzivna vožnja",
+description:"Defanzivna vožnja znači predviđanje tuđih grešaka, praćenje situacije unaprijed i održavanje sigurnog sigurnog prostora kako biste mogli rano reagovati na opasnosti."
+},
+{
+id: 5,
+englishName:"Legenda",
+category:"Dvostruke kontinuirane središnje linije",
+description:"Dvostruka neprekidna središnja linija znači da ne smijete prelaziti ili prelaziti preko linija."
+},
+{
+id: 6,
+englishName:"Legenda",
+category:"Vozilo hitne pomoći daje prednost",
+description:"Ako vozilo hitne pomoći koristi svjetla/sirenu, sklonite se s njegovog puta i pustite ga da sigurno prođe; nemojte ga pratiti odmah iza sebe da biste se probili kroz saobraćaj."
+},
+{
+id: 7,
+englishName:"Legenda",
+category:"Upravljanje umorom",
+description:"Umor može uticati na vožnju kao i alkohol: sporije reakcije i loše odluke. Ako se osjećate pospano, zaustavite se i odmorite prije nego što nastavite."
+},
+{
+id: 8,
+englishName:"Legenda",
+category:"Praćenje udaljenosti (pravilo od 2 sekunde)",
+description:"U dobrim uslovima, održavajte razmak od najmanje dvije sekunde iza vozila ispred; povećajte razmakulošim uslovima."
+},
+{
+id: 9,
+englishName:"Legenda",
+category:"Udaljenost praćenja (vlažno vrijeme)",
+description:"U mokrim uslovima, povećajte rastojanje iza vozila (npr. na oko četiri sekunde) jer se zaustavni put povećava, a prianjanje smanjuje."
+},
+{
+id: 10,
+englishName:"Legenda",
+category:"Davanje prednosti (nekontrolisane raskrsnice)",
+description:"Na raskrsnicama bez znakova/signala, dajte prednostuskladu s pravilima (uobičajeno: dajte prednost vozilu s vaše desne strane)."
+},
+{
+id: 11,
+englishName:"Legenda",
+category:"Skretanje s kuke (VIC tramvaji)",
+description:"Skretanje udesno je posebno skretanje desno koje se koristi na nekim raskrsnicamaucentralnom poslovnom dijelu Melbournea kako bi se izbjeglo blokiranje tramvaja; obično skrećete desno iz lijeve trake kada to znakovi pokazuju."
+},
+{
+id: 12,
+englishName:"Legenda",
+category:"Promjena trake",
+description:"Prije promjene trake, uključite žmigavac, provjerite retrovizore i mrtve uglove i krećite se samo kada je sigurno - oznakeuvoznoj traci moraju se poštovati."
+},
+{
+id: 13,
+englishName:"Legenda",
+category:"Nadzor učenika (VIC)",
+description:"Polaznici moraju voziti samo uz odgovarajuće licenciranog vozača koji nadgleda vozilo i sjedi pored njih; ako nadzor nije efikasan, zaustavite se sigurno."
+},
+{
+id: 14,
+englishName:"Legenda",
+category:"L-ploča za izlaganje (VIC)",
+description:"Vozači početnici moraju jasno istaknuti L tablice kako bi bile vidljive na vozilu tokom vožnje."
+},
+{
+id: 15,
+englishName:"Legenda",
+category:"Mobilni telefoni (za učenike)",
+description:"Vozači početniciuViktoriji ne smiju ni na koji način koristiti mobilni telefon tokom vožnje."
+},
+{
+id: 16,
+englishName:"Legenda",
+category:"Zabranjeno parkiranjeuodnosu na zabranu zaustavljanja",
+description:"Zabrana zaustavljanja znači da se uopće ne smijete zaustaviti (osimuslučaju saobraćaja/hitnih slučajeva). Zabrana parkiranja može dozvoliti kratko ukrcavanje/iskrcavanje ako je dozvoljeno."
+},
+{
+id: 17,
+englishName:"Legenda",
+category:"Preticanje s lijeve strane (više traka)",
+description:"Na višetračnim putevima, preticanje s lijeve strane je dozvoljeno kada se vozila nalazeuodvojenim označenim trakama i kada je to sigurno."
+},
+{
+id: 18,
+englishName:"Legenda",
+category:"Oslikana saobraćajna ostrva (oznake Chevron)",
+description:"Oslikana saobraćajna ostrva/ševroni označavaju područje po kojem ne smijete voziti (osim ako oznake/znakovi to izričito dozvoljavaju)."
+},
+{
+id: 19,
+englishName:"Legenda",
+category:"Parkiranjeublizini raskrsnica",
+description:"Parkiranje preblizu uglova/raskrsnica može blokirati vidljivost i ograničeno je; uvijek slijedite znakove/saobraćajna pravila kako biste održali vidljivost jasnom."
+},
+{
+id: 20,
+englishName:"Legenda",
+category:"Prednost pješaka pri skretanju",
+description:"Prilikom skretanja, morate dati prednost pješacima koji prelaze cestu na koju ulazite (i budite oprezniublizini pješačkih prijelaza i prometnih područja)."
+},
+{
+id: 21,
+englishName:"Legenda",
+category:"Željeznički prelazi",
+description:"Zaustavite se na željezničkim prijelazima kada se upale semafori ili su rampe spuštene; nikada ne ulazite ako ne možete sigurno očistiti prugu."
+},
+{
+id: 22,
+englishName:"Legenda",
+category:"Pravila za kružni tok",
+description:"Dajte prednost vozilima koja su većukružnom toku; ispravno koristite pokazivače smjera (uključujući i davanje lijevog signala pri izlasku gdje je to potrebno)."
+},
+{
+id: 23,
+englishName:"Legenda",
+category:"Brzina školske zone",
+description:"U označenim školskim zonama primjenjuju se niža ograničenja brzine tokom prikazanih vremena; usporite čak i ako djeca nisu vidljiva."
+},
+{
+id: 24,
+englishName:"Legenda",
+category:"Pravila na tramvajskim stajalištima",
+description:"Morate se zaustaviti pred tramvajima kada je to potrebno (npr. kada su vrata otvorena) i dati prednost pješacima oko tramvajskih stajališta/sigurnosnih zona."
+},
+{
+id: 25,
+englishName:"Legenda",
+category:"Pravila polukružnog okretanja",
+description:"Polukružna okretanja su dozvoljena samo tamo gdje je to dozvoljeno (nije zabranjeno znakovima/oznakama) i moraju se izvoditi sigurno uz davanje prednosti drugima."
+}
+]

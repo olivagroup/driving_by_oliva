@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Legend",
+category:"Alkoholi piirnormid (VIC)",
+description:"Victoria osariigis peab õppivate ja katseajal (P1/P2) juhtide vere alkoholisisaldus olema 0,00. Täielikult litsentseeritud juhtide vere alkoholisisalduse piirnorm on üldiselt 0,05."
+},
+{
+id: 2,
+englishName:"Legend",
+category:"Laste turvasüsteemid",
+description:"Lapsed tuleb kinnitada oma vanusele/suurusele vastavasse ja heakskiidetud turvatooli; täiskasvanute turvavöö üksi ei pruugi pakkuda piisavat kaitset."
+},
+{
+id: 3,
+englishName:"Legend",
+category:"Vaba tee",
+description:"Takistussõidutee tähendab, et liiklusmärkidel näidatud takistussõiduaegadel ei tohi sellel teepoolel peatuda ega parkida."
+},
+{
+id: 4,
+englishName:"Legend",
+category:"Kaitsev sõit",
+description:"Kaitsev sõitmine tähendab teiste vigade ettenägemist, ette vaatamist ja ohutu puhverruumi hoidmist, et saaksite ohtudele varakult reageerida."
+},
+{
+id: 5,
+englishName:"Legend",
+category:"Topelt pidevad keskjooned",
+description:"Topelt pidev keskjoon tähendab, et te ei tohi jooni ületada ega nende vahel paigal püsida."
+},
+{
+id: 6,
+englishName:"Legend",
+category:"Avariisõiduk annab teed",
+description:"Kui alarmsõiduk kasutab vilkureid/sireeni, siis sõida selle teelt kõrvale ja lase sel ohutult mööduda; ära sõida sellele tihedalt kannul, et liiklusest läbi pääseda."
+},
+{
+id: 7,
+englishName:"Legend",
+category:"Väsimuse juhtimine",
+description:"Väsimus võib mõjutada autojuhtimist nagu alkohol: aeglasem reaktsioon ja halvad otsused. Kui tunnete end unisena, peatuge ja puhake enne jätkamist."
+},
+{
+id: 8,
+englishName:"Legend",
+category:"Jälgimiskaugus (2-sekundiline reegel)",
+description:"Heade olude korral hoidke eesoleva sõidukiga vähemalt kahesekundilist vahet; halbade olude korral suurendage vahet."
+},
+{
+id: 9,
+englishName:"Legend",
+category:"Jälgimiskaugus (märja ilmaga)",
+description:"Märjal teel suurendage oma eesmist pikivahet (nt umbes nelja sekundini), sest pidurdusteekond pikeneb ja haarduvus väheneb."
+},
+{
+id: 10,
+englishName:"Legend",
+category:"Tee andmine (reguleerimata ristmikud)",
+description:"Ristmikel, kus liiklusmärke/foori pole, anna teed vastavalt reeglitele (tavaliselt: anna teed paremal pool sõitvale sõidukile)."
+},
+{
+id: 11,
+englishName:"Legend",
+category:"Hook Turn (VIC trammid)",
+description:"Konkspööre on spetsiaalne parempööre, mida kasutatakse mõnes Melbourne'i kesklinna ristmikul trammide ummistamise vältimiseks; tavaliselt pööratakse vasakult sõidurajalt paremale, kui liiklusmärgid seda näitavad."
+},
+{
+id: 12,
+englishName:"Legend",
+category:"Rea vahetamine",
+description:"Enne sõiduraja vahetamist andke märku, kontrollige peegleid ja pimealasid ning liikuge ainult siis, kui see on ohutu – sõiduraja märgistust tuleb järgida."
+},
+{
+id: 13,
+englishName:"Legend",
+category:"Õppija juhendamine (VIC)",
+description:"Õpilased tohivad sõita ainult siis, kui nende kõrval istub vastava litsentseeritud järelevalvet teostav juht; kui järelevalve ei ole efektiivne, tuleb ohutult peatuda."
+},
+{
+id: 14,
+englishName:"Legend",
+category:"L-plaadiga ekraan (VIC)",
+description:"Õppivad juhid peavad L-tähega numbrimärke sõidu ajal sõidukil selgelt nähtaval hoidma."
+},
+{
+id: 15,
+englishName:"Legend",
+category:"Mobiiltelefonid (õppijad)",
+description:"Victoria osariigis ei tohi õppivad juhid sõidu ajal mobiiltelefoni mingil viisil kasutada."
+},
+{
+id: 16,
+englishName:"Legend",
+category:"Parkimine keelatud vs peatumine keelatud",
+description:"Peatumise keeld tähendab, et te ei tohi üldse peatuda (välja arvatud liiklusummikute/hädaolukordade korral). Parkimise keeld võib lubada lühikest pealevõtmist/mahapanemist, kui see on lubatud."
+},
+{
+id: 17,
+englishName:"Legend",
+category:"Vasakult möödasõit (mitme sõidurajaga)",
+description:"Mitmerealistel teedel on vasakult möödasõit lubatud, kui sõidukid liiguvad eraldi tähistatud sõiduradadel ja see on ohutu."
+},
+{
+id: 18,
+englishName:"Legend",
+category:"Värvitud liiklussaared (Chevron-märgistused)",
+description:"Värvitud liiklussaared/ševoonid tähistavad ala, kus sõita ei tohi (välja arvatud juhul, kui märgistus/märgid seda otseselt lubavad)."
+},
+{
+id: 19,
+englishName:"Legend",
+category:"Parkimine ristmike lähedal",
+description:"Liiga lähedale nurkadele/ristmikele parkimine võib nähtavust takistada ja on piiratud; järgige alati märke/liikluseeskirju, et nähtavus püsiks vaba."
+},
+{
+id: 20,
+englishName:"Legend",
+category:"Jalakäija eelisõigus pööramisel",
+description:"Pöörates pead andma teed jalakäijatele, kes ületavad teed, millele sisened (ja olema tähelepanelik ülekäiguradade ja tiheda liiklusega alade lähedal)."
+},
+{
+id: 21,
+englishName:"Legend",
+category:"Raudteeülesõidud",
+description:"Peatu raudteeülesõidukohtades, kui foorid vilguvad või turvaväravad on langetatud; ära kunagi sisene ülesõidukohta, kui sa ei saa rööbastelt ohutult lahkuda."
+},
+{
+id: 22,
+englishName:"Legend",
+category:"Ringristmiku reeglid",
+description:"Anna teed ringristmikul juba olevatele sõidukitele; kasuta suunatulesid õigesti (sh vajadusel osuta vasakule ristmikul väljudes)."
+},
+{
+id: 23,
+englishName:"Legend",
+category:"Kooli tsooni kiirus",
+description:"Märgistatud koolialadel kehtivad näidatud aegadel madalamad kiirusepiirangud; aeglustage isegi siis, kui lapsi pole näha."
+},
+{
+id: 24,
+englishName:"Legend",
+category:"Trammipeatuse reeglid",
+description:"Trammide ees tuleb peatuda vastavalt vajadusele (nt kui uksed on avatud) ja anda teed jalakäijatele trammipeatuste/ohutustsoonide läheduses."
+},
+{
+id: 25,
+englishName:"Legend",
+category:"U-pöörde reeglid",
+description:"U-pöörded on lubatud ainult lubatud kohtades (mitte liiklusmärkide/märgistusega keelatud kohtades) ja neid tuleb teha ohutult, andes teed teistele."
+}
+]

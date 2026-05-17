@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Efsane",
+category:"Alkol Limitleri (VIC)",
+description:"Victoria'da, ehliyet kursuna giden ve deneme süresindeki (P1/P2) sürücülerin kan alkol seviyesinin (BAC) 0.00 olması gerekmektedir. Tam ehliyetli sürücüler için genel BAC limiti 0.05'tir."
+},
+{
+id: 2,
+englishName:"Efsane",
+category:"Çocuk Emniyet Kemerleri",
+description:"Çocuklar, yaşlarına/boylarına uygun onaylı bir çocuk koltuğunda emniyete alınmalıdır; yalnızca yetişkin emniyet kemeri yeterli korumayı sağlamayabilir."
+},
+{
+id: 3,
+englishName:"Efsane",
+category:"Clearway",
+description:"Trafik yasağı, işaretlerde belirtilen trafik yasağı saatlerinde yolun o tarafında durmamanız veya park etmemeniz gerektiği anlamına gelir."
+},
+{
+id: 4,
+englishName:"Efsane",
+category:"Savunma Sürüşü",
+description:"Savunma amaçlı sürüş, başkalarının hatalarını önceden tahmin etmeyi, ileriyi taramayı ve tehlikelere erken müdahale edebilmek için güvenli bir mesafe bırakmayı içerir."
+},
+{
+id: 5,
+englishName:"Efsane",
+category:"Çift Sürekli Merkez Çizgileri",
+description:"Çift kesintisiz orta çizgi, çizgileri geçmemeniz veya çizgilerin üzerine çıkmamanız gerektiği anlamına gelir."
+},
+{
+id: 6,
+englishName:"Efsane",
+category:"Acil Durum Aracı Yol Veriyor",
+description:"Acil durum aracı ışıklarını/sirenini kullanıyorsa, yolundan çekilin ve güvenli bir şekilde geçmesine izin verin; trafikte ilerlemek için yakından takip etmeyin."
+},
+{
+id: 7,
+englishName:"Efsane",
+category:"Yorgunluk Yönetimi",
+description:"Yorgunluk, tıpkı alkol gibi sürüşü etkileyebilir: daha yavaş tepkiler ve kötü kararlar. Uykulu hissediyorsanız, durun ve devam etmeden önce dinlenin."
+},
+{
+id: 8,
+englishName:"Efsane",
+category:"Takip Mesafesi (2 Saniye Kuralı)",
+description:"İyi hava koşullarında öndeki araçla aranızda en az iki saniyelik bir mesafe bırakın; kötü hava koşullarında bu mesafeyi artırın."
+},
+{
+id: 9,
+englishName:"Efsane",
+category:"Takip Mesafesi (Yağmurlu Hava)",
+description:"Islak zeminde, takip mesafenizi artırın (örneğin, yaklaşık dört saniyeye kadar), çünkü durma mesafeleri uzar ve yol tutuşu azalır."
+},
+{
+id: 10,
+englishName:"Efsane",
+category:"Yol Verme (Kontrolsüz Kavşaklar)",
+description:"İşaret/sinyal bulunmayan kavşaklarda, kurallara göre yol verin (genellikle: sağınızdaki araca yol verin)."
+},
+{
+id: 11,
+englishName:"Efsane",
+category:"Hook Turn (VIC Tramvayları)",
+description:"Kanca dönüşü, Melbourne şehir merkezindeki bazı kavşaklarda tramvayların geçişini engellememek için kullanılan özel bir sağ dönüş şeklidir; genellikle işaretler gösterdiğinde sol şeritten sağa dönersiniz."
+},
+{
+id: 12,
+englishName:"Efsane",
+category:"Şerit Değiştirme",
+description:"Şerit değiştirmeden önce sinyal verin, aynaları ve kör noktaları kontrol edin ve yalnızca güvenli olduğunda hareket edin; şerit çizgilerine uyulmalıdır."
+},
+{
+id: 13,
+englishName:"Efsane",
+category:"Öğrenci Denetimi (VIC)",
+description:"Sürücü adayları, yanlarında uygun lisansa sahip bir gözetmen sürücü oturmadığı sürece araç kullanmamalıdır; gözetim etkili değilse, güvenli bir şekilde durmalıdırlar."
+},
+{
+id: 14,
+englishName:"Efsane",
+category:"L-Plaka Sergisi (VIC)",
+description:"Sürücü adayları, araç kullanırken görülebilecek şekilde L levhalarını açıkça araç üzerinde sergilemelidir."
+},
+{
+id: 15,
+englishName:"Efsane",
+category:"Cep Telefonları (Öğrenciler)",
+description:"Victoria'da ehliyet kursuna giden sürücülerin araç kullanırken hiçbir şekilde cep telefonu kullanmaları yasaktır."
+},
+{
+id: 16,
+englishName:"Efsane",
+category:"Park Yasağı vs. Durma Yasağı",
+description:""Durmak Yasak"demek, trafik/acil durumlar dışında hiçbir şekilde durmamanız gerektiği anlamına gelir. \"Park Etmek Yasak\"ise, izin verilmesi halinde kısa süreli yolcu alımına/bırakımına olanak tanıyabilir."
+},
+{
+id: 17,
+englishName:"Efsane",
+category:"Soldan Geçme (Çok Şeritli Yol)",
+description:"Çok şeritli yollarda, araçlar ayrı işaretli şeritlerde olduğunda ve güvenli olduğunda soldan geçmeye izin verilir."
+},
+{
+id: 18,
+englishName:"Efsane",
+category:"Boyalı Trafik Adaları (Şevron İşaretleri)",
+description:"Boyalı trafik adaları/ok işaretleri, (işaretler/levhalar özellikle izin vermedikçe) araçla geçmemeniz gereken bir alanı gösterir."
+},
+{
+id: 19,
+englishName:"Efsane",
+category:"Kavşak Yakınlarında Park Etme",
+description:"Köşelere/kavşaklara çok yakın park etmek görüşü engelleyebilir ve yasaktır; görüş alanını açık tutmak için her zaman işaretlere/trafik kurallarına uyun."
+},
+{
+id: 20,
+englishName:"Efsane",
+category:"Dönüşlerde Yaya Önceliği",
+description:"Dönüş yaparken, girdiğiniz yoldan geçen yayalara yol vermelisiniz (ve yaya geçitlerinin ve kalabalık alanların yakınında dikkatli olmalısınız)."
+},
+{
+id: 21,
+englishName:"Efsane",
+category:"Demiryolu Geçitleri",
+description:"Işıklar yanıp söndüğünde veya bariyerler kapalıyken demiryolu geçitlerinde durun; rayları güvenli bir şekilde geçemiyorsanız asla içeri girmeyin."
+},
+{
+id: 22,
+englishName:"Efsane",
+category:"Döner Kavşak Kuralları",
+description:"Döner kavşakta bulunan araçlara yol verin; sinyalleri doğru şekilde kullanın (gerektiğinde çıkışta sola sinyal vermek de dahil)."
+},
+{
+id: 23,
+englishName:"Efsane",
+category:"Okul Bölgesi Hız Sınırı",
+description:"Okul bölgelerinde, belirtilen saatlerde daha düşük hız sınırları geçerlidir; çocuklar görünmese bile hızınızı azaltın."
+},
+{
+id: 24,
+englishName:"Efsane",
+category:"Tramvay Durağı Kuralları",
+description:"Gerektiğinde (örneğin kapılar açıkken) tramvaylar için durmalı ve tramvay durakları/güvenlik bölgeleri çevresinde yayalara yol vermelisiniz."
+},
+{
+id: 25,
+englishName:"Efsane",
+category:"U Dönüşü Kuralları",
+description:"U dönüşleri yalnızca izin verilen yerlerde (işaretlerle/sınırlamalarla yasaklanmadığı yerlerde) ve diğerlerine yol verilerek güvenli bir şekilde yapılmalıdır."
+}
+]

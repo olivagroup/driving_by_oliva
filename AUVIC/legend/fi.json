@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Legenda",
+category:"Alkoholirajat (VIC)",
+description:"Victoriassa ajokortin saaneiden ja koeajalla olevien (P1/P2) kuljettajien veren alkoholipitoisuuden on oltava 0,00. Täysin ajokortin saaneiden kuljettajien veren alkoholipitoisuuden raja on yleensä 0,05."
+},
+{
+id: 2,
+englishName:"Legenda",
+category:"Lasten turvaistuimet",
+description:"Lapset on kiinnitettävä ikäänsä/kokoonsa sopivaan ja hyväksyttyyn lasten turvaistuimeen; pelkkä aikuisten turvavyö ei välttämättä tarjoa asianmukaista suojaa."
+},
+{
+id: 3,
+englishName:"Legenda",
+category:"Vapaa väylä",
+description:"Kielteinen väylä tarkoittaa, että tien sille puolelle ei saa pysähtyä tai pysäköidä liikennemerkeissä ilmoitettujen kielteisten alueiden aikojen aikana."
+},
+{
+id: 4,
+englishName:"Legenda",
+category:"Puolustava ajaminen",
+description:"Puolustava ajaminen tarkoittaa muiden virheiden ennakointia, eteenpäin tarkkailua ja turvallisen puskurivälin pitämistä, jotta vaaroihin voidaan reagoida ajoissa."
+},
+{
+id: 5,
+englishName:"Legenda",
+category:"Kaksinkertaiset jatkuvat keskiviivat",
+description:"Kaksinkertainen yhtenäinen keskiviiva tarkoittaa, että et saa ylittää viivoja tai istua niiden päällä."
+},
+{
+id: 6,
+englishName:"Legenda",
+category:"Hätäajoneuvo väistää",
+description:"Jos hälytysajoneuvo käyttää valoja/sireeniä, aja pois sen tieltä ja anna sen mennä turvallisesti ohi; älä aja sitä tiiviisti liikenteen läpi."
+},
+{
+id: 7,
+englishName:"Legenda",
+category:"Väsymyksen hallinta",
+description:"Väsymys voi vaikuttaa ajamiseen kuten alkoholi: hitaampia reaktioita ja huonoja päätöksiä. Jos tunnet olosi uneliaaksi, pysähdy ja lepää ennen jatkamista."
+},
+{
+id: 8,
+englishName:"Legenda",
+category:"Seuraamismatka (2 sekunnin sääntö)",
+description:"Hyvissä olosuhteissa pidä vähintään kahden sekunnin turvaväli edellä ajavaan ajoneuvoon; huonoissa olosuhteissa pidennä turvaväliä."
+},
+{
+id: 9,
+englishName:"Legenda",
+category:"Seuraamisetäisyys (märällä säällä)",
+description:"Märässä kelissä pidennä seuraamisetäisyyttäsi (esim. noin neljään sekuntiin), koska jarrutusmatkat pitenevät ja pito heikkenee."
+},
+{
+id: 10,
+englishName:"Legenda",
+category:"Väistämisvelvollisuus (säätelemättömät risteykset)",
+description:"Risteyksissä, joissa ei ole liikennemerkkejä/valoja, väistä sääntöjen mukaisesti (yleisesti: väistä oikealla puolella olevaa ajoneuvoa)."
+},
+{
+id: 11,
+englishName:"Legenda",
+category:"Hook Turn (VIC-raitiovaunut)",
+description:"Koukkukäännös on erityinen oikealle kääntyvä liike, jota käytetään joissakin Melbournen keskustan risteyksissä raitiovaunujen tukkimisen välttämiseksi; yleensä käännytään oikealle vasemmalta kaistalta, kun liikennemerkit niin osoittavat."
+},
+{
+id: 12,
+englishName:"Legenda",
+category:"Kaistanvaihto",
+description:"Ennen kaistanvaihtoa soita vilkkuja, tarkista peilit ja kuolleet kulmat ja liiku vain, kun se on turvallista – kaistamerkintöjä on noudatettava."
+},
+{
+id: 13,
+englishName:"Legenda",
+category:"Oppijan valvonta (VIC)",
+description:"Oppilaat saavat ajaa vain, jos heidän vieressään istuu asianmukaisesti ajokortin omaava valvova kuljettaja; jos valvonta ei tehoa, pysähdy turvallisesti."
+},
+{
+id: 14,
+englishName:"Legenda",
+category:"L-levynäyttö (VIC)",
+description:"Ajo-oppilaiden on pidettävä L-kilvet selvästi näkyvissä ajoneuvossa ajon aikana."
+},
+{
+id: 15,
+englishName:"Legenda",
+category:"Matkapuhelimet (oppijat)",
+description:"Victoriassa ajo-oppilasluvan saaneet eivät saa käyttää matkapuhelinta millään tavalla ajon aikana."
+},
+{
+id: 16,
+englishName:"Legenda",
+category:"Pysäköintikielto vs. pysähtymiskielto",
+description:"Pysäköinninkielto tarkoittaa, että et saa pysähtyä ollenkaan (paitsi liikenne-/hätätilanteissa). Pysäköinninkielto voi sallia lyhyen kyydin noutamisen/jättämisen, jos se on sallittua."
+},
+{
+id: 17,
+englishName:"Legenda",
+category:"Ohittaminen vasemmalta (monikaistainen)",
+description:"Monikaistaisilla teillä vasemmalta ohittaminen on sallittua, kun ajoneuvot ovat erillisillä merkityillä kaistoilla ja ohittaminen on turvallista."
+},
+{
+id: 18,
+englishName:"Legenda",
+category:"Maalatut liikennesaarekkeet (Chevron-merkinnät)",
+description:"Maalatut liikennesaarekkeet/nuolet osoittavat alueen, jolla ei saa ajaa (elleivät merkinnät/kyltit sitä nimenomaisesti salli)."
+},
+{
+id: 19,
+englishName:"Legenda",
+category:"Pysäköinti risteysten lähellä",
+description:"Liian lähelle kulmia/risteyksiä pysäköinti voi estää näkyvyyden ja on rajoitettua; noudata aina kylttejä/liikennesääntöjä pitääksesi näkyvyyden esteettömänä."
+},
+{
+id: 20,
+englishName:"Legenda",
+category:"Jalankulkijoiden etuoikeus kääntyessä",
+description:"Kääntyessäsi sinun on väistettävä jalankulkijoita, jotka ylittävät tuloväylän (ja oltava valppaana suojateiden lähellä ja vilkkailla alueilla)."
+},
+{
+id: 21,
+englishName:"Legenda",
+category:"Rautatien tasoristeykset",
+description:"Pysähdy rautatien tasoristeyksissä, kun valot vilkkuvat tai puomit ovat alhaalla; älä koskaan mene tasoristeyksiin, jos et voi turvallisesti päästä raiteilta."
+},
+{
+id: 22,
+englishName:"Legenda",
+category:"Liikenneympyrän säännöt",
+description:"Anna tietä liikenneympyrässä jo oleville ajoneuvoille; käytä suuntavilkkuja oikein (mukaan lukien vasemmalle vilkuttaminen poistuttaessa tarvittaessa)."
+},
+{
+id: 23,
+englishName:"Legenda",
+category:"Koulualueen nopeus",
+description:"Merkityillä koulualueilla on voimassa alhaisemmat nopeusrajoitukset merkityinä aikoina; hidasta, vaikka lapsia ei näkyisikään."
+},
+{
+id: 24,
+englishName:"Legenda",
+category:"Raitiovaunupysäkin säännöt",
+description:"Raitiovaunujen eteen on pysähdyttävä tarvittaessa (esim. ovien ollessa auki) ja jalankulkijoita on väistettävä raitiovaunupysäkkien/turva-alueiden lähellä."
+},
+{
+id: 25,
+englishName:"Legenda",
+category:"U-käännöksen säännöt",
+description:"U-käännökset ovat sallittuja vain siellä, missä ne ovat sallittuja (liikennemerkit eivät sitä kiellä), ja ne on tehtävä turvallisesti ja muita väistettävä."
+}
+]

@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Legjenda",
+category:"Limitet e alkoolit (VIC)",
+description:"Në Viktoria, shoferët fillestarë dhe ata në fazë prove (P1/P2) duhet të kenë një limit alkooli në gjak prej 0.00. Shoferët me licencë të plotë në përgjithësi kanë një limit alkooli në gjak prej 0.05."
+},
+{
+id: 2,
+englishName:"Legjenda",
+category:"Kufizues për fëmijë",
+description:"Fëmijët duhet të jenë të lidhur në një rrip sigurimi për fëmijë të miratuar dhe të përshtatshëm për moshën/madhësinë e tyre; vetëm një rrip sigurimi për të rritur mund të mos ofrojë mbrojtje të duhur."
+},
+{
+id: 3,
+englishName:"Legjenda",
+category:"Clearway",
+description:"Një rrugë e lirë do të thotë që nuk duhet të ndaloni ose të parkoni në atë anë të rrugës gjatë orareve të rrugës së lirë të treguara në tabela."
+},
+{
+id: 4,
+englishName:"Legjenda",
+category:"Drejtim mbrojtës",
+description:"Të ngasësh në mënyrë mbrojtëse do të thotë të parashikosh gabimet e të tjerëve, të shikosh përpara dhe të mbash një hapësirë të sigurt në mënyrë që të mund të reagosh herët ndaj rreziqeve."
+},
+{
+id: 5,
+englishName:"Legjenda",
+category:"Vija qendrore të dyfishta të vazhdueshme",
+description:"Një vijë qendrore e dyfishtë e vazhdueshme do të thotë që nuk duhet t'i kaloni ose t'i kaloni sipër vijave."
+},
+{
+id: 6,
+englishName:"Legjenda",
+category:"Hapja e rrugës për automjete emergjente",
+description:"Nëse një automjet emergjence po përdor dritat/sirenën, largohuni nga rruga e tij dhe lëreni të kalojë në mënyrë të sigurt; mos e ndiqni nga afër për të kaluar nëpër trafik."
+},
+{
+id: 7,
+englishName:"Legjenda",
+category:"Menaxhimi i lodhjes",
+description:"Lodhja mund të ndikojë në drejtimin e automjetit njësoj si alkooli: reagime më të ngadalta dhe vendime të këqija. Nëse ndiheni të përgjumur, ndaloni dhe pushoni përpara se të vazhdoni."
+},
+{
+id: 8,
+englishName:"Legjenda",
+category:"Distanca e Ndjekjes (Rregulli i 2 Sekondave)",
+description:"Në kushte të mira, mbani të paktën një hapësirë prej dy sekondash pas automjetit përpara; rrisni hapësirën në kushte të këqija."
+},
+{
+id: 9,
+englishName:"Legjenda",
+category:"Distanca e ndjekjes (Mot i lagësht)",
+description:"Në kushte lagështie, rrisni distancën pas jush (p.sh., në rreth katër sekonda) sepse distancat e ndalimit rriten dhe kapja zvogëlohet."
+},
+{
+id: 10,
+englishName:"Legjenda",
+category:"Hapja e Rrugës (Kryqëzime të Pakontrolluara)",
+description:"Në kryqëzimet pa tabela/sinjale, jepni përparësi sipas rregullave (zakonisht: jepni përparësi automjetit në të djathtën tuaj)."
+},
+{
+id: 11,
+englishName:"Legjenda",
+category:"Kthesë me grep (VIC Trams)",
+description:"Një kthesë me grep është një kthesë e veçantë djathtas që përdoret në disa kryqëzime të Melburnit për të shmangur bllokimin e tramvajeve; zakonisht kthehesh djathtas nga korsia e majtë kur tabelat e tregojnë këtë."
+},
+{
+id: 12,
+englishName:"Legjenda",
+category:"Ndërrimi i korsisë",
+description:"Para se të ndërroni korsi, jepni sinjal, kontrolloni pasqyrat dhe pikat e verbëra dhe lëvizni vetëm kur është e sigurt - shenjat e korsisë duhet të respektohen."
+},
+{
+id: 13,
+englishName:"Legjenda",
+category:"Mbikëqyrja e Nxënësve (VIC)",
+description:"Nxënësit duhet të ngasin vetëm me një shofer mbikëqyrës me licencë të përshtatshme të ulur pranë tyre; nëse mbikëqyrja nuk është efektive, ndaloni në mënyrë të sigurt."
+},
+{
+id: 14,
+englishName:"Legjenda",
+category:"Ekrani me Pllakë L (VIC)",
+description:"Shoferët që mësojnë të drejtojnë automjete duhet t’i shfaqin targat L qartë në mënyrë që të jenë të dukshme në automjet gjatë drejtimit të automjetit."
+},
+{
+id: 15,
+englishName:"Legjenda",
+category:"Telefona celularë (Nxënës)",
+description:"Shoferët që mësojnë të drejtojnë automjete në Victoria nuk duhet të përdorin telefon celular në asnjë mënyrë gjatë drejtimit të automjetit."
+},
+{
+id: 16,
+englishName:"Legjenda",
+category:"Parkimi i ndaluar kundrejt ndalimit të ndaluar",
+description:"Ndalimi i parkimit do të thotë që nuk duhet të ndaloni fare (përveç në raste trafiku/emergjence). Ndalimi i parkimit mund të lejojë marrje/lënie të shkurtër të automjetit nëse lejohet."
+},
+{
+id: 17,
+englishName:"Legjenda",
+category:"Parakalimi në të majtë (Shumë korsi)",
+description:"Në rrugët me shumë korsi, tejkalimi nga e majta lejohet kur automjetet janë në korsi të ndara të shënuara dhe është i sigurt."
+},
+{
+id: 18,
+englishName:"Legjenda",
+category:"Ishuj të Trafikut të Pikturuar (Shenja Chevron)",
+description:"Ishujt/shevronët e trafikut të pikturuar tregojnë një zonë në të cilën nuk duhet të drejtoni makinën (përveç nëse shenjat/tabelat e lejojnë posaçërisht)."
+},
+{
+id: 19,
+englishName:"Legjenda",
+category:"Parkim pranë kryqëzimeve",
+description:"Parkimi shumë afër kthesave/kryqëzimeve mund të bllokojë dukshmërinë dhe është i kufizuar; ndiqni gjithmonë shenjat/rregullat e rrugës për të mbajtur linjat e shikimit të qarta."
+},
+{
+id: 20,
+englishName:"Legjenda",
+category:"Përparësia e këmbësorëve kur kthehen",
+description:"Kur ktheheni, duhet t'u jepni përparësi këmbësorëve që kalojnë rrugën në të cilën po hyni (dhe të qëndroni vigjilentë pranë kryqëzimeve dhe zonave të ngarkuara)."
+},
+{
+id: 21,
+englishName:"Legjenda",
+category:"Kalimet Hekurudhore",
+description:"Ndaloni në kalimet hekurudhore kur dritat ndizen ose portat me bum janë të ulura; mos hyni kurrë nëse nuk mund të lironi shinat në mënyrë të sigurt."
+},
+{
+id: 22,
+englishName:"Legjenda",
+category:"Rregullat e rrethrrotullimit",
+description:"Jepni përparësi automjeteve që janë tashmë në rrethrrotullim; përdorni sinjalistikën në mënyrë korrekte (duke përfshirë sinjalizimin majtas kur dilni aty ku është e nevojshme)."
+},
+{
+id: 23,
+englishName:"Legjenda",
+category:"Shpejtësia e Zonës Shkollore",
+description:"Në zonat e shkollave të shënuara, zbatohen kufizime më të ulëta shpejtësie gjatë orareve të treguara; ngadalësoni edhe nëse fëmijët nuk janë të dukshëm."
+},
+{
+id: 24,
+englishName:"Legjenda",
+category:"Rregullat e Ndalesës së Tramvajit",
+description:"Duhet të ndaloni për tramvajet kur është e nevojshme (p.sh., kur dyert janë të hapura) dhe t'u jepni përparësi këmbësorëve rreth stacioneve të tramvajit/zonave të sigurisë."
+},
+{
+id: 25,
+englishName:"Legjenda",
+category:"Rregullat e kthesës U",
+description:"Kthesat U lejohen vetëm aty ku lejohet (nuk ndalohen nga tabelat/shenjat) dhe duhet të bëhen në mënyrë të sigurt dukeudhënë përparësi të tjerëve."
+}
+]

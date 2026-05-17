@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Légende",
+category:"Limites d'alcool (VIC)",
+description:"À Victoria, les conducteurs en apprentissage et les conducteurs stagiaires (P1/P2) doivent avoir un taux d'alcoolémie de 0,00. Les conducteurs titulaires d'un permis complet ont généralement une limite de taux d'alcoolémie de 0,05."
+},
+{
+id: 2,
+englishName:"Légende",
+category:"Dispositifs de retenue pour enfants",
+description:"Les enfants doivent être retenus par un dispositif de retenue pour enfants homologué et adapté à leur âge et à leur taille ; une ceinture de sécurité pour adulte seule peut ne pas offrir une protection adéquate."
+},
+{
+id: 3,
+englishName:"Légende",
+category:"Voie claire",
+description:"Une voie réservée signifie que vous ne devez ni vous arrêter ni stationner de ce côté de la route pendant les heures de voie réservée indiquées sur les panneaux."
+},
+{
+id: 4,
+englishName:"Légende",
+category:"Conduite défensive",
+description:"La conduite défensive consiste à anticiper les erreurs des autres, à scruter la route à l'avance et à maintenir une distance de sécurité afin de pouvoir réagir rapidement aux dangers."
+},
+{
+id: 5,
+englishName:"Légende",
+category:"Lignes centrales doubles continues",
+description:"Une double ligne centrale continue signifie que vous ne devez ni franchir ni chevaucher les lignes."
+},
+{
+id: 6,
+englishName:"Légende",
+category:"Passage pour les véhicules d'urgence",
+description:"Si un véhicule d’urgence utilise ses gyrophares ou sa sirène, écartez-vous de sa trajectoire et laissez-le passer en toute sécurité ; ne le suivez pas de trop près pour vous frayer un chemin dans la circulation."
+},
+{
+id: 7,
+englishName:"Légende",
+category:"Gestion de la fatigue",
+description:"La fatigue peut affecter la conduite comme l'alcool : ralentissement des réflexes et prise de mauvaises décisions. Si vous vous sentez somnolent, arrêtez-vous et reposez-vous avant de reprendre la route."
+},
+{
+id: 8,
+englishName:"Légende",
+category:"Distance de suivi (règle des 2 secondes)",
+description:"Dans des conditions favorables, maintenez une distance d'au moins deux secondes avec le véhicule qui vous précède ; augmentez cette distance dans des conditions défavorables."
+},
+{
+id: 9,
+englishName:"Légende",
+category:"Distance de suivi (temps humide)",
+description:"Par temps humide, augmentez votre distance de sécurité (par exemple à environ quatre secondes) car les distances de freinage augmentent et l'adhérence est réduite."
+},
+{
+id: 10,
+englishName:"Légende",
+category:"Céder le passage (intersections non contrôlées)",
+description:"Aux intersections sans panneaux ni feux de signalisation, cédez le passage selon les règles (généralement : cédez le passage au véhicule venant de votre droite)."
+},
+{
+id: 11,
+englishName:"Légende",
+category:"Virage à crochet (VIC Trams)",
+description:"Un virage en crochet est un virage à droite spécial utilisé à certaines intersections du quartier central des affaires de Melbourne pour éviter de bloquer les tramways ; on tourne généralement à droite depuis la voie de gauche lorsque les panneaux l'indiquent."
+},
+{
+id: 12,
+englishName:"Légende",
+category:"Changement de voie",
+description:"Avant de changer de voie, actionnez votre clignotant, vérifiez vos rétroviseurs et vos angles morts, et ne vous déplacez que lorsque c'est sans danger ; le marquage au sol doit être respecté."
+},
+{
+id: 13,
+englishName:"Légende",
+category:"Supervision des apprenants (VIC)",
+description:"Les apprentis conducteurs ne doivent conduire qu'avec un conducteur superviseur dûment titulaire d'un permis de conduire valide assis à leurs côtés ; si la supervision n'est pas efficace, arrêtez-vous en toute sécurité."
+},
+{
+id: 14,
+englishName:"Légende",
+category:"Affichage de la plaque L (VIC)",
+description:"Les conducteurs en apprentissage doivent apposer clairement les plaques L sur le véhicule afin qu'elles soient visibles pendant la conduite."
+},
+{
+id: 15,
+englishName:"Légende",
+category:"Téléphones portables (Apprenants)",
+description:"Les apprentis conducteurs de Victoria ne doivent en aucun cas utiliser leur téléphone portable au volant."
+},
+{
+id: 16,
+englishName:"Légende",
+category:"Stationnement interdit vs arrêt interdit",
+description:"L'interdiction de s'arrêter signifie qu'il est strictement interdit de s'arrêter (sauf en cas de circulation dense ou d'urgence). Le stationnement est interdit, mais des arrêts rapides peuvent être autorisés si la zone est permise."
+},
+{
+id: 17,
+englishName:"Légende",
+category:"Dépassement par la gauche (voie multiple)",
+description:"Sur les routes à plusieurs voies, le dépassement par la gauche est autorisé lorsque les véhicules circulent sur des voies séparées et que la manœuvre est sans danger."
+},
+{
+id: 18,
+englishName:"Légende",
+category:"Îlots de circulation peints (marquages en chevrons)",
+description:"Les îlots/chevrons de signalisation peints indiquent une zone sur laquelle il est interdit de circuler (sauf indication contraire)."
+},
+{
+id: 19,
+englishName:"Légende",
+category:"Stationnement près des intersections",
+description:"Le stationnement trop près des coins/intersections peut obstruer la visibilité et est interdit ; suivez toujours la signalisation/le code de la route pour maintenir une visibilité dégagée."
+},
+{
+id: 20,
+englishName:"Légende",
+category:"Priorité aux piétons lors des virages",
+description:"Lorsque vous tournez, vous devez céder le passage aux piétons qui traversent la route sur laquelle vous vous engagez (et rester vigilant à proximité des passages piétons et des zones fréquentées)."
+},
+{
+id: 21,
+englishName:"Légende",
+category:"Passages à niveau",
+description:"Arrêtez-vous aux passages à niveau lorsque les feux clignotent ou que les barrières sont abaissées ; ne vous engagez jamais si vous ne pouvez pas dégager les voies en toute sécurité."
+},
+{
+id: 22,
+englishName:"Légende",
+category:"Règles relatives aux ronds-points",
+description:"Cédez le passage aux véhicules déjà engagés dans le rond-point ; utilisez correctement vos clignotants (y compris le clignotant gauche lors de la sortie, le cas échéant)."
+},
+{
+id: 23,
+englishName:"Légende",
+category:"Vitesse en zone scolaire",
+description:"Dans les zones scolaires signalées, les limitations de vitesse sont réduites aux heures indiquées ; ralentissez même si les enfants ne sont pas visibles."
+},
+{
+id: 24,
+englishName:"Légende",
+category:"Règles des arrêts de tramway",
+description:"Vous devez vous arrêter pour laisser passer les tramways lorsque cela est nécessaire (par exemple, lorsque les portes sont ouvertes) et céder le passage aux piétons aux abords des arrêts de tramway/zones de sécurité."
+},
+{
+id: 25,
+englishName:"Légende",
+category:"Règles de demi-tour",
+description:"Les demi-tours ne sont autorisés que là où c'est permis (non interdit par la signalisation) et doivent être effectués en toute sécurité en cédant le passage aux autres véhicules."
+}
+]

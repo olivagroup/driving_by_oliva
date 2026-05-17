@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Llegenda",
+category:"Límits d'alcohol (VIC)",
+description:"A Victòria, els conductors principiants i en període de prova (P1/P2) han de tenir una taxa d'alcoholèmia de 0,00. Els conductors amb permís complet generalment tenen un límit d'alcoholèmia de 0,05."
+},
+{
+id: 2,
+englishName:"Llegenda",
+category:"Retencions infantils",
+description:"Els nens han d'anar subjectes amb un sistema de retenció infantil homologat i adequat per a la seva edat/mida; un cinturó de seguretat per a adults per si sol pot no proporcionar la protecció adequada."
+},
+{
+id: 3,
+englishName:"Llegenda",
+category:"Via lliure",
+description:"Una pas lliure de perill significa que no us podeu aturar ni aparcar en aquell costat de la carretera durant els temps de pas lliure que indiquen els senyals."
+},
+{
+id: 4,
+englishName:"Llegenda",
+category:"Conducció defensiva",
+description:"La conducció defensiva significa anticipar els errors dels altres, anticipar-se i mantenir un espai de seguretat per poder respondre aviat als perills."
+},
+{
+id: 5,
+englishName:"Llegenda",
+category:"Línies centrals contínues dobles",
+description:"Una línia central doble contínua significa que no has de creuar ni a cavall de les línies."
+},
+{
+id: 6,
+englishName:"Llegenda",
+category:"Vehicle d'emergència que dóna pas",
+description:"Si un vehicle d'emergència fa servir els llums/la sirena, aparta't del seu camí i deixa'l passar amb seguretat; no el segueixis de prop per creuar el trànsit."
+},
+{
+id: 7,
+englishName:"Llegenda",
+category:"Gestió de la fatiga",
+description:"La fatiga pot afectar la conducció com l'alcohol: reaccions més lentes i males decisions. Si us sentiu adormits, atureu-vos i descanseu abans de continuar."
+},
+{
+id: 8,
+englishName:"Llegenda",
+category:"Distància de seguiment (regla dels 2 segons)",
+description:"En bones condicions, mantingueu una distància mínima de dos segons amb el vehicle que va davant; augmenteu la distància en males condicions."
+},
+{
+id: 9,
+englishName:"Llegenda",
+category:"Distància de seguiment (temps humit)",
+description:"En condicions de mullat, augmenteu la distància de seguiment (per exemple, a uns quatre segons) perquè les distàncies de frenada augmenten i l'adherència es redueix."
+},
+{
+id: 10,
+englishName:"Llegenda",
+category:"Cedir el pas (interseccions no controlades)",
+description:"En interseccions sense senyals, cediu el pas segons les normes (normalment: cediu el pas al vehicle de la vostra dreta)."
+},
+{
+id: 11,
+englishName:"Llegenda",
+category:"Gir de ganxo (tramvies VIC)",
+description:"Un gir en ganxo és un gir especial a la dreta que s'utilitza en algunes interseccions del CBD de Melbourne per evitar bloquejar els tramvies; normalment es gira a la dreta des del carril esquerre quan els senyals ho indiquen."
+},
+{
+id: 12,
+englishName:"Llegenda",
+category:"Canvi de carril",
+description:"Abans de canviar de carril, poseu els senyals, comproveu els retrovisors i els punts cecs i només moveu-vos quan sigui segur; cal obeir les marques del carril."
+},
+{
+id: 13,
+englishName:"Llegenda",
+category:"Supervisió de l'aprenent (VIC)",
+description:"Els alumnes només han de conduir amb un conductor supervisor amb llicència adequada assegut al seu costat; si la supervisió no és eficaç, atureu-vos amb seguretat."
+},
+{
+id: 14,
+englishName:"Llegenda",
+category:"Pantalla de placa en L (VIC)",
+description:"Els conductors novells han de mostrar les plaques L clarament perquè siguin visibles al vehicle mentre condueixen."
+},
+{
+id: 15,
+englishName:"Llegenda",
+category:"Telèfons mòbils (alumnes)",
+description:"Els conductors novells de Victòria no poden fer servir el telèfon mòbil de cap manera mentre condueixen."
+},
+{
+id: 16,
+englishName:"Llegenda",
+category:"Prohibit aparcar vs. Prohibit aturar-se",
+description:"Prohibit aturar-se significa que no us heu d'aturar en absolut (excepte per trànsit/emergència). Prohibit aparcar pot permetre recollir/desfer un vehicle breu si està permès."
+},
+{
+id: 17,
+englishName:"Llegenda",
+category:"Avançament per l'esquerra (carril múltiple)",
+description:"En carreteres de diversos carrils, es permet avançar per l'esquerra quan els vehicles es troben en carrils marcats separats i és segur."
+},
+{
+id: 18,
+englishName:"Llegenda",
+category:"Illes de trànsit pintades (marques de chevron)",
+description:"Els illots/xebrons pintats indiquen una zona per on no s'ha de circular (tret que les marques/senyals ho permetin específicament)."
+},
+{
+id: 19,
+englishName:"Llegenda",
+category:"Aparcament a prop de les interseccions",
+description:"Aparcar massa a prop de cantonades/interseccions pot bloquejar la visibilitat i està restringit; seguiu sempre els senyals/normes de circulació per mantenir les línies de visió clares."
+},
+{
+id: 20,
+englishName:"Llegenda",
+category:"Prioritat de vianants en girar",
+description:"Quan giris, has de cedir el pas als vianants que creuen el carrer on entres (i estar alerta a prop dels passos de vianants i les zones transitades)."
+},
+{
+id: 21,
+englishName:"Llegenda",
+category:"Passos a nivell de ferrocarril",
+description:"Atureu-vos als passos a nivell quan els semàfors parpellegin o les barreres de seguretat estiguin abaixades; no hi entreu mai si no podeu netejar les vies amb seguretat."
+},
+{
+id: 22,
+englishName:"Llegenda",
+category:"Normes de rotonda",
+description:"Cediu el pas als vehicles que ja es troben a la rotonda; utilitzeu els indicadors correctament (inclòs el senyal a l'esquerra en sortir quan calgui)."
+},
+{
+id: 23,
+englishName:"Llegenda",
+category:"Velocitat de la zona escolar",
+description:"A les zones escolars senyalitzades, s'apliquen límits de velocitat més baixos durant els horaris indicats; reduïu la velocitat encara que els nens no siguin visibles."
+},
+{
+id: 24,
+englishName:"Llegenda",
+category:"Normes de la parada de tramvia",
+description:"Heu d'aturar-vos davant dels tramvies quan calgui (per exemple, quan les portes estiguin obertes) i cedir el pas als vianants al voltant de les parades de tramvia/zones de seguretat."
+},
+{
+id: 25,
+englishName:"Llegenda",
+category:"Regles de gir en U",
+description:"Els girs en U només es permeten on estigui permès (no prohibits per senyals/marques) i s'han de fer amb seguretat mentre es cedeix el pas als altres."
+}
+]

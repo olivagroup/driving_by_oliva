@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"传奇",
+category:"维多利亚州酒精限制",
+description:"在维多利亚州,实习驾驶员和见习驾驶员(P1/P2)的血液酒精浓度必须为 0.00。正式驾驶员的血液酒精浓度限制通常为 0.05。"
+},
+{
+id: 2,
+englishName:"传奇",
+category:"儿童安全座椅",
+description:"儿童必须使用经批准的、适合其年龄/体型的儿童安全座椅;仅使用成人安全带可能无法提供正确的保护。"
+},
+{
+id: 3,
+englishName:"传奇",
+category:"克利尔韦",
+description:"禁停路段是指在标志牌所示的禁停时间内,您不得在该路段停车或停留。"
+},
+{
+id: 4,
+englishName:"传奇",
+category:"防御性驾驶",
+description:"防御性驾驶意味着预判他人的错误,提前观察路况,并保持安全缓冲空间,以便及早应对危险。"
+},
+{
+id: 5,
+englishName:"传奇",
+category:"双连续中心线",
+description:"双连续中心线意味着您不得越过或跨越中心线。"
+},
+{
+id: 6,
+englishName:"传奇",
+category:"紧急车辆让路",
+description:"如果紧急车辆正在使用警灯/警笛,请避让并让其安全通过;不要紧跟其后方通过车流。"
+},
+{
+id: 7,
+englishName:"传奇",
+category:"疲劳管理",
+description:"疲劳驾驶与饮酒一样会影响驾驶:反应迟钝,判断力下降。如果您感到困倦,请停车休息后再继续行驶。"
+},
+{
+id: 8,
+englishName:"传奇",
+category:"跟车距离(2秒规则)",
+description:"在良好条件下,与前车保持至少两秒的距离;在恶劣条件下,增加距离。"
+},
+{
+id: 9,
+englishName:"传奇",
+category:"跟车距离(雨天)",
+description:"在潮湿路面上,应增加跟车距离(例如,增加到大约四秒),因为刹车距离会增加,抓地力会降低。"
+},
+{
+id: 10,
+englishName:"传奇",
+category:"让行(无信号灯路口)",
+description:"在没有标志/信号的十字路口,按照规则让行(通常:让右侧的车辆先行)。"
+},
+{
+id: 11,
+englishName:"传奇",
+category:"钩形转弯(维多利亚州电车)",
+description:"钩形转弯是墨尔本中央商务区某些路口使用的一种特殊右转弯方式,目的是避免阻碍电车通行;通常情况下,当有标志指示时,从左侧车道右转。"
+},
+{
+id: 12,
+englishName:"传奇",
+category:"变道",
+description:"变道前,请打转向灯,检查后视镜和盲点,只有在安全的情况下才能移动——必须遵守车道标线。"
+},
+{
+id: 13,
+englishName:"传奇",
+category:"学员督导(维多利亚州)",
+description:"学员驾驶时必须有持有相应驾照的监督驾驶员坐在旁边;如果监督无效,则应安全停车。"
+},
+{
+id: 14,
+englishName:"传奇",
+category:"L牌展示(维多利亚州)",
+description:"新手驾驶员必须将“L”牌清晰地展示在车辆上,以便在驾驶时能够被看到。"
+},
+{
+id: 15,
+englishName:"传奇",
+category:"手机(学习者)",
+description:"维多利亚州的学员驾驶员在驾驶时绝对不允许以任何方式使用手机。"
+},
+{
+id: 16,
+englishName:"传奇",
+category:"禁止停车 vs 禁止停留",
+description:"禁止停车意味着您不得以任何方式停车(交通/紧急情况除外)。禁止停车区域可能允许短暂的上下客(如获许可)。"
+},
+{
+id: 17,
+englishName:"传奇",
+category:"左侧超车(多车道)",
+description:"在多车道道路上,当车辆位于单独的标记车道上且安全时,允许从左侧超车。"
+},
+{
+id: 18,
+englishName:"传奇",
+category:"彩绘交通岛(人字形标记)",
+description:"涂漆的交通岛/人字形标志表示禁止车辆驶入的区域(除非有明确的标记/标志允许)。"
+},
+{
+id: 19,
+englishName:"传奇",
+category:"十字路口附近的停车位",
+description:"停车位置过于靠近路口/十字路口会阻碍视线,这是被禁止的;请始终遵守标志/交通规则,保持视线畅通。"
+},
+{
+id: 20,
+englishName:"传奇",
+category:"转弯时行人优先",
+description:"转弯时,必须礼让正在过马路的行人(并在人行横道和繁忙区域附近保持警惕)。"
+},
+{
+id: 21,
+englishName:"传奇",
+category:"铁路道口",
+description:"当警示灯闪烁或栏杆放下时,请停在铁路道口;如果不能安全通过轨道,切勿进入。"
+},
+{
+id: 22,
+englishName:"传奇",
+category:"环岛规则",
+description:"让行环岛内已有的车辆;正确使用转向灯(包括在需要时驶出环岛时打左转向灯)。"
+},
+{
+id: 23,
+englishName:"传奇",
+category:"学校区域限速",
+description:"在设有标志的学校区域内,规定时间段内限速较低;即使看不到孩子,也请减速慢行。"
+},
+{
+id: 24,
+englishName:"传奇",
+category:"电车站规则",
+description:"你必须在必要时停车让行电车(例如,当车门打开时),并在电车站/安全区附近礼让行人。"
+},
+{
+id: 25,
+englishName:"传奇",
+category:"掉头规则",
+description:"掉头只能在允许的地方进行(标志/标线未禁止的地方),并且必须安全进行,同时要礼让其他车辆。"
+}
+]

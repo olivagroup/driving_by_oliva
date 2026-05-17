@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Hadithi",
+category:"Vikwazo vya Pombe (VIC)",
+description:"Huko Victoria, madereva wanaojifunza na walio katika majaribio (P1/P2) lazima wawe na BAC ya 0.00. Madereva walio na leseni kamili kwa ujumla huwa na kikomo cha BAC cha 0.05."
+},
+{
+id: 2,
+englishName:"Hadithi",
+category:"Vizuizi vya Watoto",
+description:"Watoto lazima wafungwe katika kizuizi cha watoto kilichoidhinishwa na kinachofaa kwa umri/ukubwa wao; mkanda wa usalama wa watu wazima pekee hauwezi kutoa ulinzi sahihi."
+},
+{
+id: 3,
+englishName:"Hadithi",
+category:"Barabara ya wazi",
+description:"Barabara kuu ina maana kwamba hupaswi kusimama au kuegesha gari upande huo wa barabara wakati wa nyakati za barabara kuu zilizoonyeshwa kwenye mabango."
+},
+{
+id: 4,
+englishName:"Hadithi",
+category:"Kuendesha Gari kwa Ulinzi",
+description:"Kuendesha gari kwa kujihami kunamaanisha kutarajia makosa ya wengine, kuchunguza mapema, na kuweka nafasi salama ya kuzuia ili uweze kukabiliana na hatari mapema."
+},
+{
+id: 5,
+englishName:"Hadithi",
+category:"Mistari Miwili ya Kati Inayoendelea",
+description:"Mstari wa katikati unaoendelea mara mbili unamaanisha kuwa hupaswi kuvuka au kuingiliana na mistari."
+},
+{
+id: 6,
+englishName:"Hadithi",
+category:"Njia ya Kutoa Gari la Dharura",
+description:"Ikiwa gari la dharura linatumia taa/king'ora, ondoka kwenye njia yake na uliache lipite salama; usifuate kwa karibu nyuma yake ili kupita kwenye msongamano wa magari."
+},
+{
+id: 7,
+englishName:"Hadithi",
+category:"Usimamizi wa Uchovu",
+description:"Uchovu unaweza kuathiri kuendesha gari kama vile ulevi: athari za polepole na maamuzi mabaya. Ukihisi usingizi, simama na upumzike kabla ya kuendelea."
+},
+{
+id: 8,
+englishName:"Hadithi",
+category:"Umbali wa Kufuata (Sheria ya Sekunde 2)",
+description:"Katika hali nzuri, weka angalau nafasi ya sekunde mbili nyuma ya gari mbele; ongeza nafasi katika hali mbaya."
+},
+{
+id: 9,
+englishName:"Hadithi",
+category:"Umbali Ufuatao (Hali ya Hewa ya Mvua)",
+description:"Katika hali ya unyevunyevu, ongeza umbali wako unaofuata (k.m., hadi sekunde nne hivi) kwa sababu umbali wa kusimama huongezeka na mshiko hupungua."
+},
+{
+id: 10,
+englishName:"Hadithi",
+category:"Njia ya Kutoa (Makutano Yasiyodhibitiwa)",
+description:"Katika makutano yasiyo na ishara/mawimbi, toa njia kulingana na sheria (kawaida: toa njia kwa gari lililo upande wako wa kulia)."
+},
+{
+id: 11,
+englishName:"Hadithi",
+category:"Kugeuka kwa Hook (Tramu za VIC)",
+description:"Kugeuka kwa ndoano ni kugeuka maalum kulia kunakotumika katika baadhi ya makutano ya CBD ya Melbourne ili kuepuka kuzuia tramu; kwa kawaida hugeuka kulia kutoka njia ya kushoto wakati ishara zinapoonyesha."
+},
+{
+id: 12,
+englishName:"Hadithi",
+category:"Kubadilisha Njia",
+description:"Kabla ya kubadilisha njia, toa ishara, angalia vioo na sehemu zisizoonekana, na sogea tu wakati ni salama—alama za njia lazima zifuatwe."
+},
+{
+id: 13,
+englishName:"Hadithi",
+category:"Usimamizi wa Mwanafunzi (VIC)",
+description:"Wanafunzi lazima waendeshe gari wakiwa na dereva mwenye leseni inayofaa ameketi kando yao; ikiwa usimamizi haufanyi kazi vizuri, simama kwa usalama."
+},
+{
+id: 14,
+englishName:"Hadithi",
+category:"Onyesho la Bamba la L (VIC)",
+description:"Madereva wanafunzi lazima waonyeshe plate za L waziwazi ili zionekane kwenye gari wakati wa kuendesha gari."
+},
+{
+id: 15,
+englishName:"Hadithi",
+category:"Simu za Mkononi (Wanafunzi)",
+description:"Madereva wanaojifunza huko Victoria hawapaswi kutumia simu ya mkononi kwa njia yoyote ile wanapoendesha gari."
+},
+{
+id: 16,
+englishName:"Hadithi",
+category:"Hakuna Maegesho dhidi ya Hakuna Kusimama",
+description:"Kutosimama kunamaanisha kuwa hupaswi kusimama kabisa (isipokuwa kwa msongamano wa magari/dharura). Hakuna maegesho yanayoweza kuruhusu kuchukuliwa/kushushwa kwa muda mfupi ikiwa inaruhusiwa."
+},
+{
+id: 17,
+englishName:"Hadithi",
+category:"Kupita upande wa kushoto (Njia Nyingi)",
+description:"Katika barabara zenye njia nyingi, kupita upande wa kushoto kunaruhusiwa wakati magari yako katika njia tofauti zilizo na alama na ni salama."
+},
+{
+id: 18,
+englishName:"Hadithi",
+category:"Visiwa vya Trafiki Vilivyopakwa Rangi (Alama za Chevron)",
+description:"Visiwa/chevron zilizopakwa rangi zinaonyesha eneo ambalo hupaswi kuendesha gari (isipokuwa alama/ishara zinaruhusu mahususi)."
+},
+{
+id: 19,
+englishName:"Hadithi",
+category:"Maegesho Karibu na Makutano",
+description:"Kuegesha magari karibu sana na kona/makutano kunaweza kuzuia mwonekano na ni vikwazo; fuata ishara/sheria za barabara kila wakati ili kuweka mistari ya kuona wazi."
+},
+{
+id: 20,
+englishName:"Hadithi",
+category:"Kipaumbele cha Watembea kwa Miguu Wakati wa Kugeuka",
+description:"Unapogeuka, lazima uwape njia watembea kwa miguu wanaovuka barabara unayoingia (na uwe macho karibu na vivuko na maeneo yenye shughuli nyingi)."
+},
+{
+id: 21,
+englishName:"Hadithi",
+category:"Vivuko vya Reli",
+description:"Simama kwenye vivuko vya reli wakati taa zinawaka au milango ya boom imezimwa; usiingie kamwe ikiwa huwezi kusafisha njia salama."
+},
+{
+id: 22,
+englishName:"Hadithi",
+category:"Sheria za Mzunguko",
+description:"Toa njia kwa magari ambayo tayari yapo kwenye mzunguko; tumia viashiria kwa usahihi (ikiwa ni pamoja na kuashiria kushoto wakati wa kutoka inapohitajika)."
+},
+{
+id: 23,
+englishName:"Hadithi",
+category:"Kasi ya Eneo la Shule",
+description:"Katika maeneo ya shule yaliyosainiwa, mipaka ya kasi ya chini hutumika wakati wa vipindi vilivyoonyeshwa; punguza mwendo hata kama watoto hawaonekani."
+},
+{
+id: 24,
+englishName:"Hadithi",
+category:"Sheria za Kusimamisha Tramu",
+description:"Lazima usimame kwa tramu inapohitajika (k.m., milango ikiwa wazi) na uwape njia watembea kwa miguu karibu na vituo vya tramu/eneo la usalama."
+},
+{
+id: 25,
+englishName:"Hadithi",
+category:"Sheria za Kugeuka U",
+description:"Kugeuza U kunaruhusiwa tu pale inaporuhusiwa (sio marufuku kwa mabango/alama) na lazima ifanyike kwa usalama huku ikitoa nafasi kwa wengine."
+}
+]

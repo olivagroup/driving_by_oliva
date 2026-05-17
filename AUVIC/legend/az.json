@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Əfsanə",
+category:"Alkoqol Limitləri (VIC)",
+description:"Viktoriyada tələbə və sınaq müddəti olan (P1/P2) sürücülərin qan şəkəri limiti 0,00 olmalıdır. Tam lisenziyalı sürücülərin qan şəkəri limiti ümumiyyətlə 0,05-dir."
+},
+{
+id: 2,
+englishName:"Əfsanə",
+category:"Uşaq məhdudiyyətləri",
+description:"Uşaqlar yaşlarına/ölçülərinə uyğun təsdiq edilmiş, uyğun uşaq təhlükəsizlik kəmərində saxlanılmalıdır; təkcə böyüklər üçün təhlükəsizlik kəməri düzgün qorunma təmin etməyə bilər."
+},
+{
+id: 3,
+englishName:"Əfsanə",
+category:"Klirvey",
+description:"Yolun açıq olması o deməkdir ki, işarələrdə göstərilən yol açıq olduqda yolun həmin tərəfində dayanmamalı və ya park etməməlisiniz."
+},
+{
+id: 4,
+englishName:"Əfsanə",
+category:"Müdafiə Sürücülüyü",
+description:"Müdafiəçi sürücülük başqalarının səhvlərini qabaqcadan görmək, irəliyə baxmaq və təhlükələrə erkən reaksiya verə bilmək üçün təhlükəsiz bufer məkanı saxlamaq deməkdir."
+},
+{
+id: 5,
+englishName:"Əfsanə",
+category:"İkiqat Kəsilməz Mərkəz Xətləri",
+description:"İkiqat kəsilməz mərkəz xətti o deməkdir ki, xətləri keçməməli və ya onların arasında qalmamalısınız."
+},
+{
+id: 6,
+englishName:"Əfsanə",
+category:"Təcili yardım avtomobili üçün yol",
+description:"Təcili yardım maşını işıq/siren istifadə edirsə, yolundan kənara çıxın və təhlükəsiz şəkildə keçməsinə icazə verin; nəqliyyatın hərəkətindən keçmək üçün arxasınca yaxın getməyin."
+},
+{
+id: 7,
+englishName:"Əfsanə",
+category:"Yorğunluğun İdarə Edilməsi",
+description:"Yorğunluq, alkoqol kimi, sürücülük qabiliyyətinə də təsir göstərə bilər: reaksiyaların yavaşlaması və səhv qərarlar. Əgər yuxululuq hiss edirsinizsə, davam etməzdən əvvəl dayanın və dincəlin."
+},
+{
+id: 8,
+englishName:"Əfsanə",
+category:"Məsafəni İzləmək (2 Saniyəli Qayda)",
+description:"Yaxşı şəraitdə, öndəki nəqliyyat vasitəsinin arxasında ən azı iki saniyəlik boşluq saxlayın; pis şəraitdə isə boşluğu artırın."
+},
+{
+id: 9,
+englishName:"Əfsanə",
+category:"Məsafəni izləmək (Yağışlı Hava)",
+description:"Yaş şəraitdə, dayanma məsafələri artdığı və tutuş azaldığı üçün məsafəni təxminən dörd saniyəyə qədər artırın."
+},
+{
+id: 10,
+englishName:"Əfsanə",
+category:"Yol Vermə (Nəzarətsiz Yol Kəsişmələri)",
+description:"İşarə/siqnal olmayan yol ayrıclarında qaydalara uyğun olaraq yol verin (adətən: sağdakı nəqliyyat vasitəsinə yol verin)."
+},
+{
+id: 11,
+englishName:"Əfsanə",
+category:"Qarmaq Dönüş (VIC Tramvayları)",
+description:"Qarmaqlı dönmə, Melburn Mərkəzi Yollarının bəzi kəsişmələrində tramvayların qarşısını almaq üçün istifadə edilən xüsusi sağa dönüşdür; işarələr göstərildikdə, adətən sol zolaqdan sağa dönürsünüz."
+},
+{
+id: 12,
+englishName:"Əfsanə",
+category:"Zolaq Dəyişməsi",
+description:"Zolaqları dəyişməzdən əvvəl siqnal verin, güzgüləri və kor zonaları yoxlayın və yalnız təhlükəsiz olduqda hərəkət edin — zolaq nişanlarına əməl edilməlidir."
+},
+{
+id: 13,
+englishName:"Əfsanə",
+category:"Tələbə Nəzarəti (VİK)",
+description:"Tələbələr yalnız yanlarında müvafiq lisenziyalı nəzarətçi sürücü ilə sürməlidirlər; nəzarət təsirli olmadıqda, təhlükəsiz şəkildə dayanın."
+},
+{
+id: 14,
+englishName:"Əfsanə",
+category:"L-Lövhəli Ekran (VIC)",
+description:"Sürücülük təcrübəsi olanlar, L lövhələrini avtomobil idarə edərkən nəqliyyat vasitəsində aydın görünməsi üçün asmalıdırlar."
+},
+{
+id: 15,
+englishName:"Əfsanə",
+category:"Mobil Telefonlar (Öyrənənlər)",
+description:"Viktoriyada sürücülük təcrübəsi keçənlər avtomobil idarə edərkən heç bir şəkildə mobil telefondan istifadə etməməlidirlər."
+},
+{
+id: 16,
+englishName:"Əfsanə",
+category:"Parklanma qadağandır və dayanma qadağandır",
+description:"Dayanmaq Qadağandır deməkdir ki, heç dayanmamalısınız (yol hərəkəti/təcili hallar istisna olmaqla). İcazə verildiyi təqdirdə, dayanma qadağandır və qısa müddətə götürməyə/endirməyə icazə verilə bilər."
+},
+{
+id: 17,
+englishName:"Əfsanə",
+category:"Solda ötmə (Çoxzolaqlı)",
+description:"Çoxzolaqlı yollarda, nəqliyyat vasitələri ayrı-ayrı işarələnmiş zolaqlarda olduqda və təhlükəsiz olduqda, solda ötməyə icazə verilir."
+},
+{
+id: 18,
+englishName:"Əfsanə",
+category:"Boyalı Yol Adaları (Şevron İşarələri)",
+description:"Boyalı yol hərəkəti adaları/şevronları (işarələr/nişanlar xüsusi olaraq icazə vermədikcə) üzərindən maşın sürməməli olduğunuz ərazini göstərir."
+},
+{
+id: 19,
+englishName:"Əfsanə",
+category:"Yol ayrıclarının yaxınlığında dayanacaq",
+description:"Künclərə/kəsişmələrə çox yaxın parklanma görünürlüğü məhdudlaşdıra bilər və məhdudlaşdırıla bilər; baxış xətlərini aydın saxlamaq üçün həmişə işarələrə/yol qaydalarına əməl edin."
+},
+{
+id: 20,
+englishName:"Əfsanə",
+category:"Dönərkən piyadaların prioriteti",
+description:"Dönərkən, girdiyiniz yolu keçən piyadalara yol verməlisiniz (və keçidlərin və sıx ərazilərin yaxınlığında diqqətli olmalısınız)."
+},
+{
+id: 21,
+englishName:"Əfsanə",
+category:"Dəmir Yolu Keçidləri",
+description:"Dəmir yolu keçidlərində işıqlar yanıb-sönəndə və ya dəmir yolu qapıları bağlı olduqda dayanın; relsləri təhlükəsiz şəkildə keçə bilmirsinizsə, heç vaxt içəri girməyin."
+},
+{
+id: 22,
+englishName:"Əfsanə",
+category:"Dairəvi Qaydalar",
+description:"Dairəvi yolda olan nəqliyyat vasitələrinə yol verin; göstəricilərdən düzgün istifadə edin (lazım olan yerdən çıxarkən sola işarə də daxil olmaqla)."
+},
+{
+id: 23,
+englishName:"Əfsanə",
+category:"Məktəb Zonası Sürəti",
+description:"İşarələnmiş məktəb zonalarında göstərilən vaxtlarda daha aşağı sürət hədləri tətbiq olunur; uşaqlar görünməsə belə, sürəti azaldın."
+},
+{
+id: 24,
+englishName:"Əfsanə",
+category:"Tramvay Dayanacaq Qaydaları",
+description:"Lazım olduqda (məsələn, qapılar açıq olduqda) tramvay üçün dayanmalı və tramvay dayanacaqları/təhlükəsizlik zonaları ətrafında piyadalara yol verməlisiniz."
+},
+{
+id: 25,
+englishName:"Əfsanə",
+category:"U Dönüş Qaydaları",
+description:"Geri dönmələrə yalnız icazə verilən yerlərdə icazə verilir (işarələr/nişanlarla qadağan olunmur) və başqalarına yol verərkən təhlükəsiz şəkildə yerinə yetirilməlidir."
+}
+]

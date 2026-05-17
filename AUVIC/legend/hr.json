@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Legenda",
+category:"Ograničenja alkohola (VIC)",
+description:"U Victoriji, vozači početnici i vozači na probnom roku (P1/P2) moraju imati koncentraciju alkoholaukrvi od 0,00. Vozači s punom dozvolom obično imaju ograničenje od 0,05."
+},
+{
+id: 2,
+englishName:"Legenda",
+category:"Dječje autosjedalice",
+description:"Djeca moraju biti vezanauodobrenoj, odgovarajućoj dječjoj autosjedalici za njihovu dob/veličinu; sigurnosni pojas za odrasle sam po sebi možda neće pružiti odgovarajuću zaštitu."
+},
+{
+id: 3,
+englishName:"Legenda",
+category:"Traka za zaustavljanje",
+description:"Čisti prolaz znači da se ne smijete zaustaviti ili parkirati na toj strani ceste tijekom vremena za čisti prolaz prikazanog na znakovima."
+},
+{
+id: 4,
+englishName:"Legenda",
+category:"Defanzivna vožnja",
+description:"Defanzivna vožnja znači predviđanje tuđih pogrešaka, praćenje situacije unaprijed i održavanje sigurnog sigurnog prostora kako biste mogli rano reagirati na opasnosti."
+},
+{
+id: 5,
+englishName:"Legenda",
+category:"Dvostruke kontinuirane središnje linije",
+description:"Dvostruka neprekidna središnja linija znači da ne smijete prelaziti ili prelaziti preko linija."
+},
+{
+id: 6,
+englishName:"Legenda",
+category:"Vozilo hitne pomoći daje prednost",
+description:"Ako vozilo hitne pomoći koristi svjetla/sirenu, maknite se s puta i pustite ga da sigurno prođe; nemojte ga pratiti od blizu kako biste se probili kroz promet."
+},
+{
+id: 7,
+englishName:"Legenda",
+category:"Upravljanje umorom",
+description:"Umor može utjecati na vožnju poput alkohola: sporije reakcije i loše odluke. Ako se osjećate pospano, zaustavite se i odmorite prije nego što nastavite."
+},
+{
+id: 8,
+englishName:"Legenda",
+category:"Praćenje udaljenosti (pravilo od 2 sekunde)",
+description:"U dobrim uvjetima održavajte razmak od najmanje dvije sekunde iza vozila ispred sebe;ulošim uvjetima povećajte razmak."
+},
+{
+id: 9,
+englishName:"Legenda",
+category:"Udaljenost praćenja (vlažno vrijeme)",
+description:"U mokrim uvjetima povećajte udaljenost zaustavnog puta (npr. na oko četiri sekunde) jer se zaustavni put povećava, a prianjanje smanjuje."
+},
+{
+id: 10,
+englishName:"Legenda",
+category:"Davanje prednosti (nekontrolirana raskrižja)",
+description:"Na raskrižjima bez znakova/signala, dajte prednostuskladu s pravilima (uobičajeno: dajte prednost vozilu s vaše desne strane)."
+},
+{
+id: 11,
+englishName:"Legenda",
+category:"Skretanje s kuke (VIC tramvaji)",
+description:"Skretanje s kukom je posebno desno skretanje koje se koristi na nekim raskrižjimausredišnjem dijelu Melbournea kako bi se izbjeglo blokiranje tramvaja; obično skrećete desno iz lijeve trake kada to znakovi pokazuju."
+},
+{
+id: 12,
+englishName:"Legenda",
+category:"Promjena trake",
+description:"Prije promjene trake, uključite žmigavac, provjerite retrovizore i mrtve kutove te se krećite samo kada je sigurno - oznakeuvoznoj traci moraju se poštivati."
+},
+{
+id: 13,
+englishName:"Legenda",
+category:"Nadzor učenika (VIC)",
+description:"Polaznici moraju voziti samo uz odgovarajuće licenciranog nadzornog vozača koji sjedi pored njih; ako nadzor nije učinkovit, sigurno se zaustavite."
+},
+{
+id: 14,
+englishName:"Legenda",
+category:"L-ploča za izlaganje (VIC)",
+description:"Vozači početnici moraju jasno istaknuti L pločice kako bi bile vidljive na vozilu tijekom vožnje."
+},
+{
+id: 15,
+englishName:"Legenda",
+category:"Mobiteli (za učenike)",
+description:"Vozači početniciuVictoriji ne smiju ni na koji način koristiti mobilni telefon tijekom vožnje."
+},
+{
+id: 16,
+englishName:"Legenda",
+category:"Zabranjeno parkiranjeuodnosu na zabranu zaustavljanja",
+description:"Zabrana zaustavljanja znači da se uopće ne smijete zaustaviti (osimuprometnim/hitnim slučajevima). Zabrana parkiranja može dopustiti kratko ukrcavanje/iskrcavanje ako je dopušteno."
+},
+{
+id: 17,
+englishName:"Legenda",
+category:"Pretjecanje s lijeve strane (više traka)",
+description:"Na višetračnim cestama pretjecanje s lijeve strane je dopušteno kada se vozila nalazeuodvojenim označenim trakama i kada je sigurno."
+},
+{
+id: 18,
+englishName:"Legenda",
+category:"Oslikani prometni otoci (oznake Chevron)",
+description:"Oslikani prometni otoci/ševroni označavaju područje po kojem se ne smije voziti (osim ako oznake/znakovi to izričito dopuštaju)."
+},
+{
+id: 19,
+englishName:"Legenda",
+category:"Parkiranjeublizini raskrižja",
+description:"Parkiranje preblizu uglova/raskrižja može blokirati vidljivost i ograničeno je; uvijek slijedite znakove/prometna pravila kako biste održali vidljivost jasnom."
+},
+{
+id: 20,
+englishName:"Legenda",
+category:"Prednost pješaka pri skretanju",
+description:"Prilikom skretanja morate dati prednost pješacima koji prelaze cestu na koju ulazite (i budite oprezniublizini prijelaza i prometnih područja)."
+},
+{
+id: 21,
+englishName:"Legenda",
+category:"Željeznički prijelazi",
+description:"Zaustavite se na željezničkim prijelazima kada se upale svjetla ili su rampe spuštene; nikada ne ulazite ako ne možete sigurno očistiti tračnice."
+},
+{
+id: 22,
+englishName:"Legenda",
+category:"Pravila za kružni tok",
+description:"Dajte prednost vozilima koja su većukružnom toku; ispravno koristite pokazivače smjera (uključujući i davanje lijevog signala pri izlasku gdje je to potrebno)."
+},
+{
+id: 23,
+englishName:"Legenda",
+category:"Brzina školske zone",
+description:"U označenim školskim zonama vrijede niža ograničenja brzine tijekom prikazanog vremena; usporite čak i ako djeca nisu vidljiva."
+},
+{
+id: 24,
+englishName:"Legenda",
+category:"Pravila na tramvajskim stajalištima",
+description:"Morate se zaustaviti pred tramvajima kada je to potrebno (npr. kada su vrata otvorena) i dati prednost pješacima oko tramvajskih stajališta/sigurnosnih zona."
+},
+{
+id: 25,
+englishName:"Legenda",
+category:"Pravila polukružnog okretanja",
+description:"Polukružna okretanja su dopuštena samo tamo gdje je to dopušteno (nije zabranjeno znakovima/oznakama) i moraju se izvoditi sigurno uz davanje prednosti drugima."
+}
+]

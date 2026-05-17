@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Legenda",
+category:"Limity alkoholu (VIC)",
+description:"Vo Viktórii musia mať vodiči v štádiu štúdia a na skúšobnej dobe (P1/P2) hladinu alkoholu v krvi 0,00. Vodiči s plne licencovaným vodičským preukazom majú vo všeobecnosti limit 0,05."
+},
+{
+id: 2,
+englishName:"Legenda",
+category:"Detské zadržiavacie systémy",
+description:"Deti musia byť pripútané v schválenej, vhodnej detskej autosedačke pre ich vek/veľkosť; bezpečnostný pás pre dospelých sám o sebe nemusí poskytovať správnu ochranu."
+},
+{
+id: 3,
+englishName:"Legenda",
+category:"Priechod",
+description:"Voľný priestor znamená, že nesmiete zastaviť ani parkovať na danej strane cesty počas časov vyhradených pre voľný priestor uvedených na značkách."
+},
+{
+id: 4,
+englishName:"Legenda",
+category:"Defenzívna jazda",
+description:"Defenzívna jazda znamená predvídať chyby ostatných, sledovať situáciu dopredu a udržiavať bezpečný nárazníkový priestor, aby ste mohli včas reagovať na nebezpečenstvá."
+},
+{
+id: 5,
+englishName:"Legenda",
+category:"Dvojité súvislé stredové čiary",
+description:"Dvojitá súvislá stredová čiara znamená, že nesmiete prekrížiť ani prekračovať čiary."
+},
+{
+id: 6,
+englishName:"Legenda",
+category:"Záchranné vozidlo dáva prednosť",
+description:"Ak záchranné vozidlo používa svetlá/sirénu, uhnite mu z dráhy a nechajte ho bezpečne prejsť; nesledujte ho tesne za sebou, aby ste sa predierali premávkou."
+},
+{
+id: 7,
+englishName:"Legenda",
+category:"Manažment únavy",
+description:"Únava môže ovplyvniť vedenie vozidla podobne ako alkohol: pomalšie reakcie a zlé rozhodnutia. Ak sa cítite ospalí, zastavte a oddýchnite si, kým budete pokračovať."
+},
+{
+id: 8,
+englishName:"Legenda",
+category:"Sledovanie vzdialenosti (pravidlo 2 sekúnd)",
+description:"Za dobrých podmienok dodržiavajte za vozidlom pred vami aspoň dvojsekundový odstup; za zlých podmienok odstup zväčšite."
+},
+{
+id: 9,
+englishName:"Legenda",
+category:"Sledovaná vzdialenosť (vlhké počasie)",
+description:"Za mokra predĺžte brzdnú vzdialenosť (napr. na približne štyri sekundy), pretože sa predlžuje brzdná dráha a znižuje sa priľnavosť."
+},
+{
+id: 10,
+englishName:"Legenda",
+category:"Dajte prednosť v jazde (neriadené križovatky)",
+description:"Na križovatkách bez značenia/signálov dajte prednosť v jazde podľa pravidiel (bežne: dajte prednosť vozidlu po vašej pravici)."
+},
+{
+id: 11,
+englishName:"Legenda",
+category:"Odbočka Hook (električky VIC)",
+description:"Háková odbočka je špeciálna odbočka doprava, ktorá sa používa na niektorých križovatkách v centre Melbourne, aby sa predišlo blokovaniu električiek; zvyčajne sa odbočuje doprava z ľavého jazdného pruhu, keď to značky naznačujú."
+},
+{
+id: 12,
+englishName:"Legenda",
+category:"Zmena jazdného pruhu",
+description:"Pred zmenou jazdného pruhu dajte smerovku, skontrolujte zrkadlá a mŕtve uhly a pohybujte sa iba vtedy, keď je to bezpečné – je potrebné dodržiavať vodorovné dopravné značenie."
+},
+{
+id: 13,
+englishName:"Legenda",
+category:"Dohľad nad študentmi (VIC)",
+description:"Žiaci musia šoférovať iba pod dohľadom vodiča s príslušným vodičským preukazom, ktorý sedí vedľa nich; ak dohľad nie je účinný, bezpečne zastavte."
+},
+{
+id: 14,
+englishName:"Legenda",
+category:"L-Plate Display (VIC)",
+description:"Vodiči-začiatočníci musia mať na vozidle jasne viditeľné tabuľky s označením L počas jazdy."
+},
+{
+id: 15,
+englishName:"Legenda",
+category:"Mobilné telefóny (študenti)",
+description:"Začiatočníci v oblasti vodičského preukazu vo Victorii nesmú počas jazdy žiadnym spôsobom používať mobilný telefón."
+},
+{
+id: 16,
+englishName:"Legenda",
+category:"Zákaz parkovania vs. zákaz zastavenia",
+description:"Zákaz zastavenia znamená, že nesmiete vôbec zastaviť (okrem dopravných/núdzových situácií). Zákaz parkovania môže povoliť krátke nastúpenie/vystúpenie, ak je to povolené."
+},
+{
+id: 17,
+englishName:"Legenda",
+category:"Predbiehanie vľavo (viacpruhové)",
+description:"Na viacpruhových cestách je predbiehanie vľavo povolené, ak sa vozidlá nachádzajú v samostatných vyznačených jazdných pruhoch a je to bezpečné."
+},
+{
+id: 18,
+englishName:"Legenda",
+category:"Maľované dopravné ostrovčeky (značenie Chevron)",
+description:"Namaľované dopravné ostrovčeky/šípky označujú oblasť, po ktorej nesmiete jazdiť (pokiaľ to dopravné značenie/značky výslovne neumožňujú)."
+},
+{
+id: 19,
+englishName:"Legenda",
+category:"Parkovanie v blízkosti križovatiek",
+description:"Parkovanie príliš blízko rohov/križovatiek môže obmedziť viditeľnosť a je obmedzené; vždy dodržiavajte dopravné značky/pravidlá, aby ste zachovali voľný výhľad."
+},
+{
+id: 20,
+englishName:"Legenda",
+category:"Prednosť chodcov pri odbočovaní",
+description:"Pri odbočovaní musíte dať prednosť chodcom prechádzajúcim cez cestu, na ktorú vchádzate (a buďte ostražití v blízkosti priechodov a rušných oblastí)."
+},
+{
+id: 21,
+englishName:"Legenda",
+category:"Železničné priecestia",
+description:"Zastavte na železničných priecestiach, keď blikajú semafory alebo sú stiahnuté závory; nikdy nevstupujte, ak nemôžete bezpečne uvoľniť koľaje."
+},
+{
+id: 22,
+englishName:"Legenda",
+category:"Pravidlá pre kruhový objazd",
+description:"Dajte prednosť vozidlám, ktoré už sú v kruhovom objazde; správne používajte smerovky (vrátane signalizácie vľavo pri výjazde, kde je to potrebné)."
+},
+{
+id: 23,
+englishName:"Legenda",
+category:"Rýchlosť v školskej zóne",
+description:"V označených školských zónach platia v zobrazených časoch nižšie rýchlostné limity; spomaľte, aj keď deti nie sú viditeľné."
+},
+{
+id: 24,
+englishName:"Legenda",
+category:"Pravidlá pre električkové zastávky",
+description:"Musíte zastaviť pred električkami, keď je to potrebné (napr. keď sú dvere otvorené) a dať prednosť chodcom v okolí električkových zastávok/bezpečnostných zón."
+},
+{
+id: 25,
+englishName:"Legenda",
+category:"Pravidlá otočenia sa do protismeru",
+description:"Otáčanie v protismere je povolené iba tam, kde je to povolené (nie je to zakázané značkami/značením) a musí sa vykonávať bezpečne a zároveň sa musí dať prednosť ostatným."
+}
+]

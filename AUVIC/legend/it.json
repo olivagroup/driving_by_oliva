@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Leggenda",
+category:"Limiti di alcol (VIC)",
+description:"A Victoria, i conducenti principianti e in prova (P1/P2) devono avere un tasso alcolemico pari a 0,00. I conducenti con patente completa hanno generalmente un tasso alcolemico pari a 0,05."
+},
+{
+id: 2,
+englishName:"Leggenda",
+category:"Sistemi di ritenuta per bambini",
+description:"I bambini devono essere trattenuti in un sistema di ritenuta per bambini omologato e adatto alla loro età/dimensione; la sola cintura di sicurezza per adulti potrebbe non garantire una protezione adeguata."
+},
+{
+id: 3,
+englishName:"Leggenda",
+category:"Superstrada",
+description:"Una corsia libera significa che non è consentito fermarsi o parcheggiare su quel lato della strada durante gli orari di apertura indicati sui cartelli."
+},
+{
+id: 4,
+englishName:"Leggenda",
+category:"Guida difensiva",
+description:"Guidare in modo difensivo significa anticipare gli errori altrui, guardare avanti e mantenere uno spazio di sicurezza per poter reagire tempestivamente ai pericoli."
+},
+{
+id: 5,
+englishName:"Leggenda",
+category:"Doppie linee centrali continue",
+description:"Una doppia linea centrale continua significa che non è consentito attraversare o scavalcare le linee."
+},
+{
+id: 6,
+englishName:"Leggenda",
+category:"Veicolo di emergenza che dà la precedenza",
+description:"Se un veicolo di emergenza sta usando luci/sirena, spostatevi dalla sua traiettoria e lasciatelo passare in sicurezza; non seguitelo da vicino per farvi strada nel traffico."
+},
+{
+id: 7,
+englishName:"Leggenda",
+category:"Gestione della fatica",
+description:"La stanchezza può influire sulla guida come l'alcol: reazioni più lente e decisioni sbagliate. Se ti senti assonnato, fermati e riposati prima di continuare."
+},
+{
+id: 8,
+englishName:"Leggenda",
+category:"Distanza di sicurezza (regola dei 2 secondi)",
+description:"In buone condizioni, mantenere una distanza di almeno due secondi dal veicolo che precede; aumentare la distanza in cattive condizioni."
+},
+{
+id: 9,
+englishName:"Leggenda",
+category:"Distanza di sicurezza (tempo umido)",
+description:"In condizioni di bagnato, aumenta la distanza di sicurezza (ad esempio, a circa quattro secondi), perché le distanze di arresto aumentano e l'aderenza si riduce."
+},
+{
+id: 10,
+englishName:"Leggenda",
+category:"Dare la precedenza (incroci non controllati)",
+description:"Agli incroci senza segnaletica, dare la precedenza secondo le regole (solitamente: dare la precedenza al veicolo alla propria destra)."
+},
+{
+id: 11,
+englishName:"Leggenda",
+category:"Hook Turn (tram VIC)",
+description:"L'inversione a gancio è una speciale svolta a destra utilizzata in alcuni incroci del centro di Melbourne per evitare di bloccare i tram; solitamente si svolta a destra dalla corsia di sinistra quando indicato dai segnali."
+},
+{
+id: 12,
+englishName:"Leggenda",
+category:"Cambio di corsia",
+description:"Prima di cambiare corsia, segnalare, controllare gli specchietti e gli angoli ciechi e procedere solo quando è sicuro: è obbligatorio rispettare la segnaletica orizzontale."
+},
+{
+id: 13,
+englishName:"Leggenda",
+category:"Supervisione degli studenti (VIC)",
+description:"Gli studenti devono guidare solo se accompagnati da un conducente debitamente autorizzato; se la supervisione non è efficace, fermarsi in sicurezza."
+},
+{
+id: 14,
+englishName:"Leggenda",
+category:"Display a piastra a L (VIC)",
+description:"Gli apprendisti conducenti devono esporre chiaramente le targhe L sul veicolo in modo che siano visibili durante la guida."
+},
+{
+id: 15,
+englishName:"Leggenda",
+category:"Telefoni cellulari (studenti)",
+description:"A Victoria gli apprendisti conducenti non devono in alcun modo utilizzare il telefono cellulare mentre sono alla guida."
+},
+{
+id: 16,
+englishName:"Leggenda",
+category:"Divieto di sosta vs divieto di sosta",
+description:"Divieto di sosta significa che non è consentito fermarsi in alcun modo (tranne che per motivi di traffico/emergenza). Il divieto di sosta può consentire brevi soste per la salita e la discesa, se consentito."
+},
+{
+id: 17,
+englishName:"Leggenda",
+category:"Sorpasso a sinistra (multicorsia)",
+description:"Sulle strade a più corsie, il sorpasso a sinistra è consentito quando i veicoli si trovano in corsie separate e segnalate e quando è sicuro."
+},
+{
+id: 18,
+englishName:"Leggenda",
+category:"Isole di traffico dipinte (segnaletica a Chevron)",
+description:"Le isole spartitraffico/chevron dipinte indicano un'area in cui non è consentito circolare (a meno che la segnaletica orizzontale/verticale non lo consenta espressamente)."
+},
+{
+id: 19,
+englishName:"Leggenda",
+category:"Parcheggio vicino agli incroci",
+description:"Parcheggiare troppo vicino agli angoli/incroci può bloccare la visibilità ed è limitato; seguire sempre la segnaletica/le regole stradali per mantenere la visuale libera."
+},
+{
+id: 20,
+englishName:"Leggenda",
+category:"Priorità ai pedoni in svolta",
+description:"Quando si svolta, è necessario dare la precedenza ai pedoni che attraversano la strada in cui si sta entrando (e prestare attenzione in prossimità degli attraversamenti pedonali e delle zone trafficate)."
+},
+{
+id: 21,
+englishName:"Leggenda",
+category:"Passaggi ferroviari",
+description:"Fermatevi ai passaggi a livello quando i semafori lampeggiano o le sbarre sono abbassate; non entrate mai se non potete liberare i binari in sicurezza."
+},
+{
+id: 22,
+englishName:"Leggenda",
+category:"Regole della rotatoria",
+description:"Dare la precedenza ai veicoli già presenti nella rotonda; utilizzare correttamente gli indicatori di direzione (inclusa la segnalazione di svoltare a sinistra in uscita, ove richiesto)."
+},
+{
+id: 23,
+englishName:"Leggenda",
+category:"Velocità nella zona scolastica",
+description:"Nelle zone scolastiche segnalate, negli orari indicati si applicano limiti di velocità inferiori; rallentare anche se i bambini non sono visibili."
+},
+{
+id: 24,
+englishName:"Leggenda",
+category:"Regole per le fermate del tram",
+description:"È obbligatorio fermarsi per far passare i tram quando richiesto (ad esempio, quando le porte sono aperte) e dare la precedenza ai pedoni in prossimità delle fermate dei tram/zone di sicurezza."
+},
+{
+id: 25,
+englishName:"Leggenda",
+category:"Regole di inversione a U",
+description:"Le inversioni a U sono consentite solo dove consentito (non proibito da cartelli/segnaletica) e devono essere eseguite in sicurezza, dando la precedenza agli altri."
+}
+]

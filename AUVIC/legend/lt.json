@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Legenda",
+category:"Alkoholio ribos (VIC)",
+description:"Viktorijoje besimokančiųjų ir bandomojo laikotarpio (P1/P2) vairuotojų alkoholio kiekis kraujyje turi būti 0,00. Visiškai licencijuotų vairuotojų alkoholio kiekis kraujyje paprastai yra 0,05."
+},
+{
+id: 2,
+englishName:"Legenda",
+category:"Vaikų apsaugos priemonės",
+description:"Vaikai turi būti pritvirtinti patvirtintoje, tinkamoje jų amžiui / ūgiui vaikų apsaugos sistemoje; vien suaugusiųjų saugos diržas gali neužtikrinti tinkamos apsaugos."
+},
+{
+id: 3,
+englishName:"Legenda",
+category:"Kelias per visą kelią",
+description:"Saugoma juosta reiškia, kad draudžiama sustoti ar parkuoti toje kelio pusėje ženkluose nurodytu laisvos juostos laiku."
+},
+{
+id: 4,
+englishName:"Legenda",
+category:"Gynybinis vairavimas",
+description:"Saugus vairavimas reiškia kitų klaidų numatymą, stebėjimąsi į priekį ir saugios erdvės palaikymą, kad galėtumėte anksti reaguoti į pavojus."
+},
+{
+id: 5,
+englishName:"Legenda",
+category:"Dvigubos ištisinės centro linijos",
+description:"Dviguba ištisinė centrinė linija reiškia, kad negalima jų kirsti ar apžergti."
+},
+{
+id: 6,
+englishName:"Legenda",
+category:"Avarinės transporto priemonės užleidžia kelią",
+description:"Jei avarinė transporto priemonė įjungia šviesoforus / sireną, pasitraukite iš jos kelio ir leiskite jai saugiai pravažiuoti; nesekite jos arti, kad pravažiuotumėte eismą."
+},
+{
+id: 7,
+englishName:"Legenda",
+category:"Nuovargio valdymas",
+description:"Nuovargis gali paveikti vairavimą kaip alkoholis: lėtesnė reakcija ir blogi sprendimai. Jei jaučiate mieguistumą, prieš tęsdami važiavimą sustokite ir pailsėkite."
+},
+{
+id: 8,
+englishName:"Legenda",
+category:"Atstumas tarp jų (2 sekundžių taisyklė)",
+description:"Esant geroms sąlygoms, palaikykite bent dviejų sekundžių atstumą nuo priekyje važiuojančios transporto priemonės; prastomis sąlygomis atstumą padidinkite."
+},
+{
+id: 9,
+englishName:"Legenda",
+category:"Sekimo atstumas (šlapiu oru)",
+description:"Šlapiomis sąlygomis padidinkite atstumą iki kelyje esančių automobilių (pvz., iki maždaug keturių sekundžių), nes padidėja stabdymo kelias ir sumažėja sukibimas su kelio danga."
+},
+{
+id: 10,
+englishName:"Legenda",
+category:"Kelias važiuojant (nereguliuojamos sankryžos)",
+description:"Sankryžose be ženklų / signalų duokite kelią pagal taisykles (dažniausiai: duokite kelią transporto priemonei dešinėje)."
+},
+{
+id: 11,
+englishName:"Legenda",
+category:"„Hook Turn“ (VIC tramvajai)",
+description:"Kablio posūkis yra specialus posūkis į dešinę, naudojamas kai kuriose Melburno centrinio verslo rajono sankryžose, siekiant išvengti tramvajų blokavimo; paprastai pasukama į dešinę iš kairiosios juostos, kai tai nurodo ženklai."
+},
+{
+id: 12,
+englishName:"Legenda",
+category:"Eismo juostos keitimas",
+description:"Prieš keisdami eismo juostas, įjunkite posūkio signalą, patikrinkite veidrodėlius ir akląsias zonas ir važiuokite tik tada, kai tai saugu – privalote laikytis eismo juostų ženklinimo."
+},
+{
+id: 13,
+englishName:"Legenda",
+category:"Mokinių priežiūra (VIC)",
+description:"Mokiniai privalo vairuoti tik šalia sėdint atitinkamai licencijuotam prižiūrinčiam vairuotojui; jei priežiūra neefektyvi, saugiai sustokite."
+},
+{
+id: 14,
+englishName:"Legenda",
+category:"L formos plokštelės ekranas (VIC)",
+description:"Mokiniai vairuoti privalo aiškiai matyti L raidės ženklus ant transporto priemonės."
+},
+{
+id: 15,
+englishName:"Legenda",
+category:"Mobilieji telefonai (besimokantieji)",
+description:"Viktorijoje besimokantys vairuotojai jokiu būdu negali naudotis mobiliuoju telefonu vairuodami."
+},
+{
+id: 16,
+englishName:"Legenda",
+category:"Draudžiama statyti automobilius ir draudžiama sustoti",
+description:"Draudimas sustoti reiškia, kad visiškai draudžiama sustoti (išskyrus eismo / avarinius atvejus). Draudimas statyti gali leisti trumpam paimti / išlaipinti, jei tai leidžiama."
+},
+{
+id: 17,
+englishName:"Legenda",
+category:"Lenkimas kairėje (daugiajuostis kelias)",
+description:"Daugiajuosčiuose keliuose lenkti iš kairės leidžiama, kai transporto priemonės važiuoja atskiromis pažymėtomis eismo juostomis ir tai yra saugu."
+},
+{
+id: 18,
+englishName:"Legenda",
+category:"Dažytos eismo salelės (Chevron žymėjimai)",
+description:"Nudažytos eismo salelės / ševronai žymi zoną, kuria draudžiama važiuoti (nebent tai konkrečiai leidžia ženklinimas / ženklai)."
+},
+{
+id: 19,
+englishName:"Legenda",
+category:"Parkavimas šalia sankryžų",
+description:"Per arti kampų / sankryžų parkavimas gali užstoti matomumą ir yra ribotas; visada laikykitės ženklų / kelių eismo taisyklių, kad matomumas išliktų laisvas."
+},
+{
+id: 20,
+englishName:"Legenda",
+category:"Pėsčiųjų pirmenybė posūkiuose",
+description:"Sukdami privalote duoti kelią pėstiesiems, kertantiems kelią, į kurį įvažiuojate (ir būti budriems šalia perėjų bei judrių zonų)."
+},
+{
+id: 21,
+englishName:"Legenda",
+category:"Geležinkelio pervažos",
+description:"Sustokite geležinkelio pervažose, kai mirksi šviesoforai arba nuleisti užtvarai; niekada nevažiuokite, jei negalite saugiai nuvažiuoti nuo bėgių."
+},
+{
+id: 22,
+englishName:"Legenda",
+category:"Žiedinės sankryžos taisyklės",
+description:"Duokite kelią žiedinėje sankryžoje jau esančioms transporto priemonėms; teisingai naudokite posūkio signalus (įskaitant ir kairės pusės signalą išvažiuojant, jei reikia)."
+},
+{
+id: 23,
+englishName:"Legenda",
+category:"Mokyklos zonos greitis",
+description:"Pažymėtose mokyklų zonose nurodytu laiku galioja mažesni greičio apribojimai; sulėtinkite greitį, net jei vaikų nematyti."
+},
+{
+id: 24,
+englishName:"Legenda",
+category:"Tramvajaus stotelių taisyklės",
+description:"Privalote sustoti prieš tramvajus, kai to reikia (pvz., kai durys atidarytos), ir duoti kelią pėstiesiems aplink tramvajų stoteles / saugos zonas."
+},
+{
+id: 25,
+englishName:"Legenda",
+category:"Apsisukimo taisyklės",
+description:"Apsisukti galima tik ten, kur tai leidžiama (nedraudžiama ženklais / žymėjimu), ir tai turi būti daroma saugiai, užleidžiant kelią kitiems."
+}
+]

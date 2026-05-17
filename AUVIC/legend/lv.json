@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Leģenda",
+category:"Alkohola limiti (VIC)",
+description:"Viktorijā mācību un pārbaudes laikā (P1/P2) esošiem autovadītājiem alkohola koncentrācijai asinīs jābūt 0,00. Pilnībā licencētiem autovadītājiem alkohola koncentrācijas ierobežojums parasti ir 0,05."
+},
+{
+id: 2,
+englishName:"Leģenda",
+category:"Bērnu drošības sistēmas",
+description:"Bērniem jāpārnēsā apstiprinātā, viņu vecumam/augumam atbilstošā bērnu sēdeklītī; pieaugušo drošības josta vien var nenodrošināt pareizu aizsardzību."
+},
+{
+id: 3,
+englishName:"Leģenda",
+category:"Šķēršļu ceļš",
+description:"Šķēršļu josla nozīmē, ka zīmēs norādītajā šķēršļu joslas laikā šajā ceļa pusē nedrīkst apstāties vai novietot automašīnu."
+},
+{
+id: 4,
+englishName:"Leģenda",
+category:"Aizsardzības braukšana",
+description:"Aizsargājoša braukšana nozīmē paredzēt citu kļūdas, vērot apkārt notiekošo un saglabāt drošu buferzonu, lai varētu laikus reaģēt uz bīstamām situācijām."
+},
+{
+id: 5,
+englishName:"Leģenda",
+category:"Dubultās nepārtrauktās centra līnijas",
+description:"Dubulta nepārtraukta centra līnija nozīmē, ka nedrīkst šķērsot vai uzkāpt uz līnijām."
+},
+{
+id: 6,
+englishName:"Leģenda",
+category:"Neatliekamās palīdzības transportlīdzekļi dod ceļu",
+description:"Ja neatliekamās palīdzības transportlīdzeklis izmanto gaismas/sirēnas, novietojiet to malā un ļaujiet tam droši pabraukt garām; nesekojiet tam cieši aiz muguras, lai tiktu cauri satiksmei."
+},
+{
+id: 7,
+englishName:"Leģenda",
+category:"Noguruma pārvaldība",
+description:"Nogurums var ietekmēt braukšanu līdzīgi kā alkohols: lēnāka reakcija un nepareizi lēmumi. Ja jūtat miegainību, apstājieties un atpūtieties, pirms turpināt braukt."
+},
+{
+id: 8,
+englishName:"Leģenda",
+category:"Sekošanas attālums (2 sekunžu noteikums)",
+description:"Labos apstākļos ievērojiet vismaz divu sekunžu distanci aiz priekšā braucošā transportlīdzekļa; sliktos apstākļos palieliniet distanci."
+},
+{
+id: 9,
+englishName:"Leģenda",
+category:"Sekošanas attālums (mitrā laikā)",
+description:"Mitros apstākļos palieliniet sekošanas distanci (piemēram, līdz aptuveni četrām sekundēm), jo palielinās bremzēšanas ceļš un samazinās saķere."
+},
+{
+id: 10,
+englishName:"Leģenda",
+category:"Ceļa došana (neregulējami krustojumi)",
+description:"Krustojumos bez zīmēm/luforiem dodiet ceļu saskaņā ar noteikumiem (parasti: dodiet ceļu transportlīdzeklim labajā pusē)."
+},
+{
+id: 11,
+englishName:"Leģenda",
+category:"Hook Turn (VIC tramvaji)",
+description:"Āķa pagrieziens ir īpašs labais pagrieziens, ko izmanto dažos Melburnas centrālā biznesa rajona krustojumos, lai izvairītos no tramvaju bloķēšanas; parasti no kreisās joslas jānogriežas pa labi, ja to norāda zīmes."
+},
+{
+id: 12,
+englishName:"Leģenda",
+category:"Joslas maiņa",
+description:"Pirms joslu maiņas ieslēdziet pagrieziena rādītāju, pārbaudiet spoguļus un aklās zonas un pārvietojieties tikai tad, kad tas ir droši — joslu marķējumi ir jāievēro."
+},
+{
+id: 13,
+englishName:"Leģenda",
+category:"Mācību dalībnieku uzraudzība (VIC)",
+description:"Mācībniekiem jābrauc tikai tad, ja blakus sēž atbilstoši licencēts uzraugošs vadītājs; ja uzraudzība nav efektīva, apstājieties droši."
+},
+{
+id: 14,
+englishName:"Leģenda",
+category:"L veida plāksnes displejs (VIC)",
+description:"Mācību braucējiem L numura zīmēm jābūt skaidri redzamām uz transportlīdzekļa braukšanas laikā."
+},
+{
+id: 15,
+englishName:"Leģenda",
+category:"Mobilie tālruņi (mācekļiem)",
+description:"Viktorijas štata mācību braucēji braukšanas laikā nekādā veidā nedrīkst lietot mobilo tālruni."
+},
+{
+id: 16,
+englishName:"Leģenda",
+category:"Autostāvvieta aizliegta pretstatā apstāšanās aizliegumam",
+description:"Apstāšanās aizliegums nozīmē, ka nedrīkst apstāties vispār (izņemot satiksmes/ārkārtas gadījumus). Apstāšanās aizliegums var atļaut īslaicīgu pasažieru uzņemšanu/izlaišanu, ja tas ir atļauts."
+},
+{
+id: 17,
+englishName:"Leģenda",
+category:"Apdzīšana pa kreisi (daudzjoslu)",
+description:"Uz daudzjoslu ceļiem apdzīšana pa kreiso pusi ir atļauta, ja transportlīdzekļi atrodas atsevišķās marķētās joslās un tas ir droši."
+},
+{
+id: 18,
+englishName:"Leģenda",
+category:"Krāsotas satiksmes saliņas (Chevron marķējumi)",
+description:"Uzkrāsotas satiksmes saliņas/ševroni norāda zonu, pa kuru nedrīkst braukt (ja vien marķējums/zīmes to īpaši neatļauj)."
+},
+{
+id: 19,
+englishName:"Leģenda",
+category:"Autostāvvieta krustojumu tuvumā",
+description:"Novietošana pārāk tuvu stūriem/krustojumiem var bloķēt redzamību un ir ierobežota; vienmēr ievērojiet zīmes/ceļu satiksmes noteikumus, lai saglabātu brīvu redzamību."
+},
+{
+id: 20,
+englishName:"Leģenda",
+category:"Gājēju prioritāte, veicot pagriezienus",
+description:"Nogriežoties, jums jādod ceļš gājējiem, kas šķērso ielu, pa kuru jūs iebraucat (un jābūt uzmanīgiem krustojumu un noslogotu vietu tuvumā)."
+},
+{
+id: 21,
+englishName:"Leģenda",
+category:"Dzelzceļa pārbrauktuves",
+description:"Apstājieties pie dzelzceļa pārbrauktuvēm, kad mirgo luksofora gaismas vai ir nolaisti barjeru vārti; nekad neiebrauciet pārbrauktuvēs, ja nevarat droši atbrīvot sliedes."
+},
+{
+id: 22,
+englishName:"Leģenda",
+category:"Apļa noteikumi",
+description:"Dodiet ceļu transportlīdzekļiem, kas jau atrodas aplī; pareizi lietojiet pagrieziena rādītājus (ieskaitot pagrieziena rādītāju pa kreisi, izbraucot, ja nepieciešams)."
+},
+{
+id: 23,
+englishName:"Leģenda",
+category:"Skolas zonas ātrums",
+description:"Apzīmētajās skolu zonās norādītajos laikos ir spēkā zemāki ātruma ierobežojumi; samaziniet ātrumu pat tad, ja bērni nav redzami."
+},
+{
+id: 24,
+englishName:"Leģenda",
+category:"Tramvaja pieturas noteikumi",
+description:"Jums jāapstājas pie tramvajiem, kad tas nepieciešams (piemēram, ja durvis ir atvērtas), un jādod ceļš gājējiem tramvaja pieturu/drošības zonu tuvumā."
+},
+{
+id: 25,
+englishName:"Leģenda",
+category:"Apgriešanās noteikumi",
+description:"Apgriešanās U virzienā ir atļauta tikai tur, kur tas ir atļauts (nevis aizliegts ar zīmēm/marķējumu), un tā jāveic droši, dodot ceļu citiem."
+}
+]

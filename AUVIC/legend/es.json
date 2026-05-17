@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Leyenda",
+category:"Límites de alcohol (VIC)",
+description:"En Victoria, los conductores principiantes y en período de prueba (P1/P2) deben tener un nivel de alcohol en la sangre (BAC) de 0.00. Los conductores con licencia completa generalmente tienen un límite de 0.05."
+},
+{
+id: 2,
+englishName:"Leyenda",
+category:"Sistemas de retención infantil",
+description:"Los niños deben estar sujetos en un dispositivo de retención infantil aprobado y apropiado para su edad y tamaño; es posible que un cinturón de seguridad para adultos por sí solo no brinde la protección adecuada."
+},
+{
+id: 3,
+englishName:"Leyenda",
+category:"Carretera sin parar",
+description:"Un espacio libre significa que no debe detenerse ni estacionarse en ese lado de la carretera durante los tiempos de espacio libre que se muestran en las señales."
+},
+{
+id: 4,
+englishName:"Leyenda",
+category:"Conducción defensiva",
+description:"Conducir defensivamente significa anticiparse a los errores de los demás, mirar hacia adelante y mantener un espacio seguro para poder responder con anticipación a los peligros."
+},
+{
+id: 5,
+englishName:"Leyenda",
+category:"Líneas centrales continuas dobles",
+description:"Una línea central doble continua significa que no debes cruzar ni colocarte sobre las líneas."
+},
+{
+id: 6,
+englishName:"Leyenda",
+category:"Vehículo de emergencia cediendo el paso",
+description:"Si un vehículo de emergencia está usando luces o sirena, apártese de su camino y déjelo pasar de manera segura; no lo siga de cerca para atravesar el tráfico."
+},
+{
+id: 7,
+englishName:"Leyenda",
+category:"Manejo de la fatiga",
+description:"La fatiga puede afectar la conducción como el alcohol: reacciones más lentas y malas decisiones. Si siente somnolencia, deténgase y descanse antes de continuar."
+},
+{
+id: 8,
+englishName:"Leyenda",
+category:"Distancia de seguimiento (regla de los 2 segundos)",
+description:"En buenas condiciones, mantenga una distancia de al menos dos segundos con el vehículo que va delante; aumente la distancia en malas condiciones."
+},
+{
+id: 9,
+englishName:"Leyenda",
+category:"Distancia de seguimiento (clima húmedo)",
+description:"En condiciones húmedas, aumente la distancia de seguimiento (por ejemplo, a aproximadamente cuatro segundos) porque las distancias de frenado aumentan y el agarre se reduce."
+},
+{
+id: 10,
+englishName:"Leyenda",
+category:"Ceder el paso (intersecciones no controladas)",
+description:"En las intersecciones sin señales, ceda el paso según las reglas (comúnmente: ceda el paso al vehículo de su derecha)."
+},
+{
+id: 11,
+englishName:"Leyenda",
+category:"Hook Turn (tranvías de Victoria)",
+description:"Un giro en gancho es un giro especial a la derecha que se utiliza en algunas intersecciones del centro de Melbourne para evitar bloquear los tranvías; normalmente se gira a la derecha desde el carril izquierdo cuando las señales lo indican."
+},
+{
+id: 12,
+englishName:"Leyenda",
+category:"Cambio de carril",
+description:"Antes de cambiar de carril, señalice, revise los espejos y los puntos ciegos, y muévase solo cuando sea seguro: debe respetar las marcas del carril."
+},
+{
+id: 13,
+englishName:"Leyenda",
+category:"Supervisión de estudiantes (VIC)",
+description:"Los estudiantes deben conducir únicamente con un conductor supervisor con la licencia correspondiente sentado a su lado; si la supervisión no es efectiva, deténgase de manera segura."
+},
+{
+id: 14,
+englishName:"Leyenda",
+category:"Exhibición de placa en L (VIC)",
+description:"Los conductores principiantes deben mostrar las placas L claramente para que sean visibles en el vehículo mientras conducen."
+},
+{
+id: 15,
+englishName:"Leyenda",
+category:"Teléfonos móviles (estudiantes)",
+description:"Los conductores principiantes en Victoria no deben usar un teléfono móvil de ninguna manera mientras conducen."
+},
+{
+id: 16,
+englishName:"Leyenda",
+category:"Prohibido estacionar vs. Prohibido detenerse",
+description:"Prohibido detenerse significa que no debe detenerse en absoluto (excepto en caso de tráfico o emergencia). La prohibición de estacionamiento puede permitir recogidas y desembarques breves, si está permitido."
+},
+{
+id: 17,
+englishName:"Leyenda",
+category:"Adelantamiento por la izquierda (varios carriles)",
+description:"En carreteras de varios carriles, se permite adelantar por la izquierda cuando los vehículos circulan por carriles separados y marcados y es seguro."
+},
+{
+id: 18,
+englishName:"Leyenda",
+category:"Islas de tráfico pintadas (marcas de chevron)",
+description:"Las islas de tráfico/chevrones pintados indican un área en la que no debe conducir (a menos que las marcas/señales lo permitan específicamente)."
+},
+{
+id: 19,
+englishName:"Leyenda",
+category:"Estacionamiento cerca de intersecciones",
+description:"Estacionar demasiado cerca de las esquinas o intersecciones puede bloquear la visibilidad y está restringido; siga siempre las señales y las normas de tránsito para mantener despejadas las líneas de visión."
+},
+{
+id: 20,
+englishName:"Leyenda",
+category:"Prioridad de peatones al girar",
+description:"Al girar, debe ceder el paso a los peatones que cruzan la calle a la que está ingresando (y permanecer alerta cerca de los cruces y áreas concurridas)."
+},
+{
+id: 21,
+englishName:"Leyenda",
+category:"Cruces ferroviarios",
+description:"Deténgase en los cruces ferroviarios cuando las luces estén encendidas o las barreras estén bajadas; nunca entre si no puede cruzar las vías de manera segura."
+},
+{
+id: 22,
+englishName:"Leyenda",
+category:"Reglas de rotonda",
+description:"Ceda el paso a los vehículos que ya se encuentran en la rotonda; utilice los indicadores correctamente (incluso señalizando hacia la izquierda al salir cuando sea necesario)."
+},
+{
+id: 23,
+englishName:"Leyenda",
+category:"Velocidad en la zona escolar",
+description:"En las zonas escolares señalizadas, se aplican límites de velocidad más bajos durante los horarios indicados; reduzca la velocidad incluso si no hay niños visibles."
+},
+{
+id: 24,
+englishName:"Leyenda",
+category:"Normas de la parada del tranvía",
+description:"Debe detenerse ante los tranvías cuando sea necesario (por ejemplo, cuando las puertas estén abiertas) y ceder el paso a los peatones en las paradas de tranvía o zonas de seguridad."
+},
+{
+id: 25,
+englishName:"Leyenda",
+category:"Reglas de giro en U",
+description:"Los giros en U solo están permitidos donde esté permitido (no prohibido por señales o marcas) y deben realizarse de manera segura, cediendo el paso a los demás."
+}
+]

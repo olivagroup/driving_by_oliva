@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Legenda",
+category:"Limity alkoholu (VIC)",
+description:"Ve Victorii musí mít řidiči ve fázi zkoušky a ve fázi řízení (P1/P2) hladinu alkoholu v krvi 0,00. Řidiči s plně licencovaným řidičským oprávněním mají obecně limit 0,05."
+},
+{
+id: 2,
+englishName:"Legenda",
+category:"Dětské zádržné systémy",
+description:"Děti musí být připoutány ve schválené a vhodné dětské autosedačce pro jejich věk/velikost; bezpečnostní pás pro dospělé sám o sobě nemusí poskytovat dostatečnou ochranu."
+},
+{
+id: 3,
+englishName:"Legenda",
+category:"Průchod",
+description:"Průjezdný pruh znamená, že nesmíte zastavit ani parkovat na dané straně silnice během doby vyhrazené pro průjezdný pruh uvedené na značkách."
+},
+{
+id: 4,
+englishName:"Legenda",
+category:"Defenzivní jízda",
+description:"Defenzivní jízda znamená předvídat chyby ostatních, sledovat situaci vpřed a udržovat bezpečný nárazník, abyste mohli včas reagovat na nebezpečí."
+},
+{
+id: 5,
+englishName:"Legenda",
+category:"Dvojité spojité středové čáry",
+description:"Dvojitá souvislá středová čára znamená, že je nesmíte překračovat ani přes ně stát."
+},
+{
+id: 6,
+englishName:"Legenda",
+category:"Záchranné vozidlo dává přednost v jízdě",
+description:"Pokud vozidlo záchranné služby používá světla/sirénu, uhněte mu z cesty a nechte ho bezpečně projet; nesledujte ho těsně za sebou, abyste se probojovali provozem."
+},
+{
+id: 7,
+englishName:"Legenda",
+category:"Zvládání únavy",
+description:"Únava může ovlivnit řízení podobně jako alkohol: pomalejší reakce a špatná rozhodnutí. Pokud se cítíte ospalí, zastavte se a odpočiňte si, než budete pokračovat."
+},
+{
+id: 8,
+englishName:"Legenda",
+category:"Sledování vzdálenosti (pravidlo 2 sekund)",
+description:"Za dobrých podmínek dodržujte za vozidlem vpředu alespoň dvousekundový odstup; za špatných podmínek odstup zvětšete."
+},
+{
+id: 9,
+englishName:"Legenda",
+category:"Sledovaná vzdálenost (vlhké počasí)",
+description:"Za mokra prodlužte brzdnou vzdálenost (např. na přibližně čtyři sekundy), protože se prodlužuje brzdná dráha a snižuje se přilnavost."
+},
+{
+id: 10,
+englishName:"Legenda",
+category:"Dávání přednosti v jízdě (neřízené křižovatky)",
+description:"Na křižovatkách bez značení/semaforů dejte přednost v souladu s pravidly (běžně: dejte přednost vozidlu po vaší pravici)."
+},
+{
+id: 11,
+englishName:"Legenda",
+category:"Hook Turn (tramvaje VIC)",
+description:"Háková odbočka je speciální odbočka vpravo používaná na některých křižovatkách v centru Melbourne, aby se zabránilo blokování tramvají; obvykle se odbočuje vpravo z levého jízdního pruhu, když to ukazují značky."
+},
+{
+id: 12,
+englishName:"Legenda",
+category:"Změna jízdního pruhu",
+description:"Před změnou jízdního pruhu zapněte blinkr, zkontrolujte zrcátka a mrtvé úhly a pohybujte se pouze tehdy, když je to bezpečné – je nutné dodržovat vodorovné dopravní značení."
+},
+{
+id: 13,
+englishName:"Legenda",
+category:"Supervize studentů (VIC)",
+description:"Žáci musí řídit pouze pod dohledem řidiče s příslušným řidičským oprávněním, který sedí vedle nich; pokud dohled není účinný, bezpečně zastavte."
+},
+{
+id: 14,
+englishName:"Legenda",
+category:"L-Plate Display (VIC)",
+description:"Řidiči-začátečníci musí mít na vozidle jasně viditelné registrační značky L, aby byly během řízení viditelné."
+},
+{
+id: 15,
+englishName:"Legenda",
+category:"Mobilní telefony (pro studenty)",
+description:"Začínající řidiči ve Victorii nesmí během řízení žádným způsobem používat mobilní telefon."
+},
+{
+id: 16,
+englishName:"Legenda",
+category:"Zákaz parkování vs. zákaz zastavení",
+description:"Zákaz zastavení znamená, že nesmíte vůbec zastavit (s výjimkou dopravních/nouzových situací). Zákaz parkování může umožnit krátké nastoupení/vysazení, pokud je to povoleno."
+},
+{
+id: 17,
+englishName:"Legenda",
+category:"Předjíždění vlevo (vícepruhový provoz)",
+description:"Na víceproudých silnicích je předjíždění vlevo povoleno, pokud se vozidla nacházejí v oddělených vyznačených pruzích a je to bezpečné."
+},
+{
+id: 18,
+englishName:"Legenda",
+category:"Malované dopravní ostrůvky (značení Chevron)",
+description:"Malované dopravní ostrůvky/šípy označují oblast, po které nesmíte jezdit (pokud to vodorovné dopravní značení/značky výslovně neumožňují)."
+},
+{
+id: 19,
+englishName:"Legenda",
+category:"Parkování v blízkosti křižovatek",
+description:"Parkování příliš blízko rohů/křižovatek může omezit viditelnost a je omezeno; vždy dodržujte značení/pravidla silničního provozu, abyste zachovali volný výhled."
+},
+{
+id: 20,
+englishName:"Legenda",
+category:"Přednost chodců při odbočování",
+description:"Při odbočování musíte dát přednost chodcům přecházejícím silnici, na kterou vjíždíte (a buďte ostražití v blízkosti přechodů a rušných oblastí)."
+},
+{
+id: 21,
+englishName:"Legenda",
+category:"Železniční přejezdy",
+description:"Zastavte na železničních přejezdech, když blikají semafory nebo jsou spuštěné závory; nikdy nevstupujte, pokud nemůžete bezpečně opustit koleje."
+},
+{
+id: 22,
+englishName:"Legenda",
+category:"Pravidla pro kruhový objezd",
+description:"Dejte přednost vozidlům, která již vjíždějí do kruhového objezdu; správně používejte směrovky (včetně signalizace vlevo při výjezdu, kde je to nutné)."
+},
+{
+id: 23,
+englishName:"Legenda",
+category:"Rychlost školní zóny",
+description:"V označených školních zónách platí v uvedených časech nižší rychlostní limity; zpomalte, i když děti nejsou viditelné."
+},
+{
+id: 24,
+englishName:"Legenda",
+category:"Pravidla pro tramvajové zastávky",
+description:"V případě potřeby musíte zastavit před tramvají (např. když jsou dveře otevřené) a dát přednost chodcům v okolí tramvajových zastávek/bezpečnostních zón."
+},
+{
+id: 25,
+englishName:"Legenda",
+category:"Pravidla pro otočení do protisměru",
+description:"Otáčení v protisměru je povoleno pouze tam, kde je to dovoleno (není to zakázáno značkami/značením) a musí být provedeno bezpečně a zároveň dáno přednost ostatním."
+}
+]

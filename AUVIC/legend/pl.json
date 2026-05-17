@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Legenda",
+category:"Limity alkoholu (VIC)",
+description:"W stanie Wiktoria kierowcy uczący się i w okresie próbnym (P1/P2) muszą mieć stężenie alkoholu we krwi wynoszące 0,00. Kierowcy z pełnym prawem jazdy zazwyczaj mają limit stężenia alkoholu we krwi wynoszący 0,05."
+},
+{
+id: 2,
+englishName:"Legenda",
+category:"Foteliki dziecięce",
+description:"Dzieci muszą być przewożone w odpowiednich, homologowanych fotelikach dziecięcych, dostosowanych do ich wieku i rozmiaru. Same pasy bezpieczeństwa dla dorosłych nie zapewniają odpowiedniej ochrony."
+},
+{
+id: 3,
+englishName:"Legenda",
+category:"Clearway",
+description:"Przejście wolne oznacza, że nie wolno zatrzymywać się ani parkować po tej stronie drogi w czasie wskazanym na znakach."
+},
+{
+id: 4,
+englishName:"Legenda",
+category:"Jazda defensywna",
+description:"Jazda defensywna oznacza przewidywanie błędów innych, przewidywanie sytuacji i zachowanie bezpiecznej odległości, aby móc wcześnie reagować na zagrożenia."
+},
+{
+id: 5,
+englishName:"Legenda",
+category:"Podwójne ciągłe linie środkowe",
+description:"Podwójna ciągła linia środkowa oznacza, że nie wolno jej przekraczać ani rozciągać się nad nią."
+},
+{
+id: 6,
+englishName:"Legenda",
+category:"Ustąpienie pierwszeństwa pojazdowi uprzywilejowanemu",
+description:"Jeśli pojazd uprzywilejowany używa świateł/syreny, zjedź z jego drogi i pozwól mu bezpiecznie przejechać; nie jedź tuż za nim, aby przecisnąć się między pojazdami."
+},
+{
+id: 7,
+englishName:"Legenda",
+category:"Zarządzanie zmęczeniem",
+description:"Zmęczenie może wpływać na prowadzenie pojazdu podobnie jak alkohol: spowalniać reakcje i podejmować złe decyzje. Jeśli odczuwasz senność, zatrzymaj się i odpocznij przed kontynuowaniem jazdy."
+},
+{
+id: 8,
+englishName:"Legenda",
+category:"Odległość od poprzedzającego pojazdu (zasada 2 sekund)",
+description:"W dobrych warunkach należy zachować co najmniej dwusekundowy odstęp za pojazdem jadącym przed nami; w złych warunkach należy zwiększyć odstęp."
+},
+{
+id: 9,
+englishName:"Legenda",
+category:"Odległość od poprzedzającego pojazdu (mokra pogoda)",
+description:"W warunkach mokrej nawierzchni zwiększ odstęp od poprzedzającego pojazdu (np. do około czterech sekund), ponieważ droga hamowania wydłuża się, a przyczepność maleje."
+},
+{
+id: 10,
+englishName:"Legenda",
+category:"Ustąpienie pierwszeństwa (skrzyżowania niekontrolowane)",
+description:"Na skrzyżowaniach bez znaków/sygnalizacji ustąp pierwszeństwa zgodnie z przepisami (zwykle: ustąp pierwszeństwa pojazdowi z prawej strony)."
+},
+{
+id: 11,
+englishName:"Legenda",
+category:"Hook Turn (tramwaje VIC)",
+description:"Skręt w prawo to specjalny rodzaj skrętu w prawo stosowany na niektórych skrzyżowaniach w centralnej części Melbourne, który pozwala uniknąć blokowania tramwajów. Zazwyczaj skręca się w prawo z lewego pasa, gdy znaki na to wskazują."
+},
+{
+id: 12,
+englishName:"Legenda",
+category:"Zmiana pasa ruchu",
+description:"Przed zmianą pasa ruchu zasygnalizuj, sprawdź lusterka i martwe pola, a następnie ruszaj tylko wtedy, gdy jest to bezpieczne — należy przestrzegać oznaczeń pasów ruchu."
+},
+{
+id: 13,
+englishName:"Legenda",
+category:"Nadzór nad uczniami (VIC)",
+description:"Uczestnicy kursu muszą prowadzić pojazd wyłącznie pod opieką odpowiednio licencjonowanego kierowcy, siedzącego obok nich. Jeśli nadzór nie jest skuteczny, należy bezpiecznie zatrzymać pojazd."
+},
+{
+id: 14,
+englishName:"Legenda",
+category:"Wyświetlacz L-Plate (VIC)",
+description:"Osoby uczące się jeździć muszą wyraźnie eksponować tablice z literą L, aby były widoczne na pojeździe podczas jazdy."
+},
+{
+id: 15,
+englishName:"Legenda",
+category:"Telefony komórkowe (dla uczniów)",
+description:"W Victorii osobom uczącym się jazdy samochodem nie wolno w żaden sposób korzystać z telefonu komórkowego podczas prowadzenia pojazdu."
+},
+{
+id: 16,
+englishName:"Legenda",
+category:"Zakaz parkowania kontra zakaz zatrzymywania się",
+description:"Zakaz zatrzymywania oznacza, że nie wolno zatrzymywać się wcale (z wyjątkiem sytuacji awaryjnych/z powodu ruchu ulicznego). Zakaz parkowania może zezwalać na krótkotrwałe wsiadanie/wysiadanie, jeśli jest to dozwolone."
+},
+{
+id: 17,
+englishName:"Legenda",
+category:"Wyprzedzanie z lewej strony (wielopasmowe)",
+description:"Na drogach wielopasmowych wyprzedzanie z lewej strony jest dozwolone, gdy pojazdy znajdują się na oddzielnych, oznakowanych pasach ruchu i jest to bezpieczne."
+},
+{
+id: 18,
+englishName:"Legenda",
+category:"Malowane wyspy drogowe (oznaczenia w jodełkę)",
+description:"Namalowane wysepki/jodełki drogowe wskazują obszar, po którym nie wolno jeździć (chyba że oznakowanie/znaki wyraźnie na to zezwalają)."
+},
+{
+id: 19,
+englishName:"Legenda",
+category:"Parkowanie w pobliżu skrzyżowań",
+description:"Parkowanie zbyt blisko narożników/skrzyżowań może ograniczać widoczność i jest ograniczone. Zawsze należy przestrzegać znaków i przepisów ruchu drogowego, aby zachować widoczność."
+},
+{
+id: 20,
+englishName:"Legenda",
+category:"Priorytet dla pieszych podczas skręcania",
+description:"Skręcając, musisz ustąpić pierwszeństwa pieszym przechodzącym przez jezdnię, na którą wjeżdżasz (oraz zachować czujność w pobliżu przejść i miejsc o dużym natężeniu ruchu)."
+},
+{
+id: 21,
+englishName:"Legenda",
+category:"Przejazdy kolejowe",
+description:"Zatrzymuj się na przejazdach kolejowych, gdy migają światła lub zapory są opuszczone; nigdy nie wjeżdżaj na przejazd, jeśli nie możesz bezpiecznie opuścić torów."
+},
+{
+id: 22,
+englishName:"Legenda",
+category:"Zasady dotyczące rond",
+description:"Ustąp pierwszeństwa pojazdom znajdującym się już na rondzie; prawidłowo używaj kierunkowskazów (w tym sygnalizuj skręt w lewo przy zjeździe, jeśli jest to wymagane)."
+},
+{
+id: 23,
+englishName:"Legenda",
+category:"Prędkość w strefie szkolnej",
+description:"W oznakowanych strefach szkolnych obowiązują niższe ograniczenia prędkości w podanych godzinach; należy zwolnić, nawet jeśli dzieci nie są widoczne."
+},
+{
+id: 24,
+englishName:"Legenda",
+category:"Zasady dotyczące przystanków tramwajowych",
+description:"Musisz zatrzymać się, aby przejechać tramwajem, gdy jest to konieczne (np. gdy drzwi są otwarte) i ustąpić pierwszeństwa pieszym w pobliżu przystanków tramwajowych/stref bezpieczeństwa."
+},
+{
+id: 25,
+englishName:"Legenda",
+category:"Zasady zawracania",
+description:"Zawracanie jest dozwolone wyłącznie tam, gdzie jest to dozwolone (nie jest zabronione znakami/oznakowaniem) i należy je wykonywać z zachowaniem środków ostrożności, ustępując pierwszeństwa innym uczestnikom ruchu."
+}
+]

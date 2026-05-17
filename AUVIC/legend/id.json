@@ -1,0 +1,152 @@
+[
+{
+id: 1,
+englishName:"Legenda",
+category:"Batas Konsumsi Alkohol (VIC)",
+description:"Di Victoria, pengemudi yang masih dalam tahap belajar dan masa percobaan (P1/P2) harus memiliki kadar alkohol dalam darah (BAC) 0,00. Pengemudi yang memiliki SIM penuh umumnya memiliki batas BAC 0,05."
+},
+{
+id: 2,
+englishName:"Legenda",
+category:"Pengaman Anak",
+description:"Anak-anak harus diikat dengan alat pengaman anak yang disetujui dan sesuai dengan usia/ukuran mereka; sabuk pengaman dewasa saja mungkin tidak memberikan perlindungan yang memadai."
+},
+{
+id: 3,
+englishName:"Legenda",
+category:"Clearway",
+description:"Zona bebas hambatan berarti Anda tidak boleh berhenti atau parkir di sisi jalan tersebut selama waktu bebas hambatan yang tertera pada rambu-rambu."
+},
+{
+id: 4,
+englishName:"Legenda",
+category:"Mengemudi Defensif",
+description:"Mengemudi defensif berarti mengantisipasi kesalahan orang lain, mengamati lingkungan sekitar, dan menjaga jarak aman agar dapat merespons bahaya sejak dini."
+},
+{
+id: 5,
+englishName:"Legenda",
+category:"Garis Tengah Ganda Berkesinambungan",
+description:"Garis tengah ganda yang berkesinambungan berarti Anda tidak boleh melintasi atau berada di atas garis-garis tersebut."
+},
+{
+id: 6,
+englishName:"Legenda",
+category:"Kendaraan Darurat Memberi Jalan",
+description:"Jika kendaraan darurat menggunakan lampu/sirene, minggirlah dari jalurnya dan biarkan kendaraan tersebut lewat dengan aman; jangan mengikuti terlalu dekat di belakangnya untuk menerobos lalu lintas."
+},
+{
+id: 7,
+englishName:"Legenda",
+category:"Manajemen Kelelahan",
+description:"Kelelahan dapat memengaruhi kemampuan mengemudi seperti halnya alkohol: reaksi lebih lambat dan pengambilan keputusan yang buruk. Jika Anda merasa mengantuk, berhentilah dan beristirahat sebelum melanjutkan perjalanan."
+},
+{
+id: 8,
+englishName:"Legenda",
+category:"Jarak Aman (Aturan 2 Detik)",
+description:"Dalam kondisi baik, jaga jarak minimal dua detik di belakang kendaraan di depan; tingkatkan jarak tersebut dalam kondisi buruk."
+},
+{
+id: 9,
+englishName:"Legenda",
+category:"Jarak Aman (Cuaca Basah)",
+description:"Dalam kondisi basah, tingkatkan jarak aman Anda (misalnya, menjadi sekitar empat detik) karena jarak pengereman meningkat dan daya cengkeram berkurang."
+},
+{
+id: 10,
+englishName:"Legenda",
+category:"Beri Jalan (Persimpangan Tanpa Kontrol)",
+description:"Di persimpangan tanpa rambu/sinyal, berikan jalan sesuai aturan (umumnya: berikan jalan kepada kendaraan di sebelah kanan Anda)."
+},
+{
+id: 11,
+englishName:"Legenda",
+category:"Belokan Kait (Trem VIC)",
+description:"Belokan kait (hook turn) adalah belokan kanan khusus yang digunakan di beberapa persimpangan CBD Melbourne untuk menghindari menghalangi trem; Anda biasanya berbelok ke kanan dari lajur kiri ketika rambu-rambu menunjukkan demikian."
+},
+{
+id: 12,
+englishName:"Legenda",
+category:"Berganti Jalur",
+description:"Sebelum berpindah jalur, beri sinyal, periksa kaca spion dan titik buta, dan hanya berpindah jika aman—marka jalur harus dipatuhi."
+},
+{
+id: 13,
+englishName:"Legenda",
+category:"Supervisi Pembelajaran (VIC)",
+description:"Para pelajar hanya boleh mengemudi dengan pengemudi pendamping yang memiliki lisensi yang sesuai dan duduk di samping mereka; jika pengawasan tidak efektif, berhentilah dengan aman."
+},
+{
+id: 14,
+englishName:"Legenda",
+category:"Tampilan Plat L (VIC)",
+description:"Pengemudi pemula wajib memasang rambu L dengan jelas agar terlihat pada kendaraan saat berkendara."
+},
+{
+id: 15,
+englishName:"Legenda",
+category:"Ponsel (Pelajar)",
+description:"Pengemudi pemula di Victoria dilarang menggunakan telepon seluler dengan cara apa pun saat mengemudi."
+},
+{
+id: 16,
+englishName:"Legenda",
+category:"Dilarang Parkir vs Dilarang Berhenti",
+description:"Dilarang Berhenti berarti Anda tidak boleh berhenti sama sekali (kecuali karena lalu lintas/keadaan darurat). Dilarang Parkir mungkin mengizinkan penjemputan/pengantaran singkat jika diizinkan."
+},
+{
+id: 17,
+englishName:"Legenda",
+category:"Menyalip dari Kiri (Jalur Ganda)",
+description:"Di jalan raya dengan banyak lajur, menyalip dari kiri diperbolehkan jika kendaraan berada di lajur terpisah yang ditandai dan aman."
+},
+{
+id: 18,
+englishName:"Legenda",
+category:"Pulau Lalu Lintas yang Dicat (Marka Chevron)",
+description:"Pulau lalu lintas/tanda panah yang dicat menunjukkan area yang dilarang untuk dilalui kendaraan (kecuali jika tanda/rambu secara khusus mengizinkan)."
+},
+{
+id: 19,
+englishName:"Legenda",
+category:"Parkir di Dekat Persimpangan",
+description:"Memarkir kendaraan terlalu dekat dengan tikungan/persimpangan dapat menghalangi pandangan dan membatasi pergerakan; selalu ikuti rambu/aturan lalu lintas untuk menjaga jarak pandang tetap jelas."
+},
+{
+id: 20,
+englishName:"Legenda",
+category:"Prioritas Pejalan Kaki Saat Berbelok",
+description:"Saat berbelok, Anda harus memberi jalan kepada pejalan kaki yang menyeberang jalan yang akan Anda masuki (dan tetap waspada di dekat penyeberangan dan area ramai)."
+},
+{
+id: 21,
+englishName:"Legenda",
+category:"Perlintasan Kereta Api",
+description:"Berhentilah di perlintasan kereta api ketika lampu berkedip atau palang pintu tertutup; jangan pernah masuk jika Anda tidak dapat menyeberangi rel dengan aman."
+},
+{
+id: 22,
+englishName:"Legenda",
+category:"Aturan Bundaran",
+description:"Berikan jalan kepada kendaraan yang sudah berada di bundaran; gunakan lampu sein dengan benar (termasuk memberi sinyal belok kiri saat keluar jika diperlukan)."
+},
+{
+id: 23,
+englishName:"Legenda",
+category:"Kecepatan Zona Sekolah",
+description:"Di zona sekolah yang ditandai, batas kecepatan yang lebih rendah berlaku selama waktu yang ditunjukkan; kurangi kecepatan meskipun anak-anak tidak terlihat."
+},
+{
+id: 24,
+englishName:"Legenda",
+category:"Aturan Halte Trem",
+description:"Anda wajib berhenti untuk trem jika diperlukan (misalnya, saat pintu terbuka) dan memberi jalan kepada pejalan kaki di sekitar halte trem/zona aman."
+},
+{
+id: 25,
+englishName:"Legenda",
+category:"Aturan Putar Balik",
+description:"Putar balik hanya diperbolehkan di tempat yang diizinkan (tidak dilarang oleh rambu/marka) dan harus dilakukan dengan aman sambil memberi jalan kepada pengguna jalan lain."
+}
+]
