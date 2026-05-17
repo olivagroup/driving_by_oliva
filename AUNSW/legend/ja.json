@@ -1,0 +1,122 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"血中アルコール濃度(BAC)",
+"description":"飲酒をやめた後も BAC は上昇し続ける可能性があり、空腹時にアルコールを摂取したり体重が軽い場合も BAC が上昇する可能性があります。"
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"雨天時の運転",
+"description":"大雨の場合には、停止距離が長くなり視界が悪くなる可能性があるため、余裕を持ったスペースを残すことが重要です。"
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"緊急車両の通過",
+"description":"停止して点滅灯を点灯している緊急車両を追い越すときは、速度を落として注意して追い越さなければなりません。"
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"運転適性",
+"description":"気分が悪くなったり、異常に疲れている場合は、運転能力に影響する可能性があるため、体調が回復して注意力が回復するまで運転しないでください。"
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"危険認識",
+"description":"前方の道路をスキャンすると、危険を早期に検出し、安全な計画を立てて対応できるようになります。"
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"大型車両との相互作用",
+"description":"大型車両と道路を共有する場合は、安全を確保するために余分な時間とスペースを確保する必要があります。"
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"荷物の牽引制限",
+"description":"法定制限を超えて牽引すると、罰金または罰則が科せられる可能性があります。"
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Uターン禁止標識",
+"description":"「Uターン禁止」の標識は、その場所でのUターンが禁止されていることを示します。"
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"交差点付近の駐車",
+"description":"標識のない交差点から制限距離内に駐車してはいけません。"
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"歩行者優先",
+"description":"児童横断歩道では旗が掲示されている場合、歩行者が優先されます。"
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"ランダム呼気検査",
+"description":"飲酒運転の抑止と摘発のために、無作為呼気検査が実施されます。必要な場合は、ご協力いただき、呼気サンプルをご提供いただく必要があります。"
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"スクールゾーンの速度制限",
+"description":"スクールゾーンでは、指定された時間帯に表示されている下限速度に従わなければなりません。"
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"STOPラインルール",
+"description":"標識のない交差点で停止線に近づくときは、停止線で停止して道を譲らなければなりません。"
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"雨の中のテールゲーティング",
+"description":"濡れた路面では、牽引力の低下と停止距離の減少による事故を防ぐため、車両間の間隔を広く保ってください。"
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"追突トラック",
+"description":"トラックの後ろを走行すると視界が悪くなり、停止距離が短くなるため、トラックの後ろを走行することは避けてください。"
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"作業区域の安全",
+"description":"作業員がいる場合は、一時的な速度標識が見えなくても慎重に運転する必要があります。"
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"バスレーンの利用",
+"description":"バスレーンを走行できるのは、標識で許可されている場合と指定された時間帯のみです。"
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"緊急車両の通過",
+"description":"停止して点滅灯を点灯している緊急車両を追い越すときは、速度を落として注意して追い越さなければなりません。"
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"積載ゾーン",
+"description":"標識で許可された車両のみが積載ゾーンを利用できます。不適切な使用は罰金の対象となります。"
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"作業区域の安全",
+"description":"作業員がいる場合は、一時的な速度標識が見えなくても慎重に運転する必要があります。"
+}
+]

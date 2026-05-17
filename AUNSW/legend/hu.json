@@ -1,0 +1,122 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Véralkoholszint (BAC)",
+"description":"A véralkoholszint az ivás abbahagyása után is folyamatosan emelkedhet, és az éhgyomorra történő alkoholfogyasztás vagy a kisebb testsúly növelheti a véralkoholszintet."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Vezetés esőben",
+"description":"Heves esőzés esetén fontos a nagyobb távolság megtartása, mert megnőhet a féktávolság, és csökkenhet a látótávolság."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Sürgősségi járművek elhaladása",
+"description":"Villogó fényekkel közlekedő, megálló sürgősségi jármű mellett haladva lassítani kell és óvatosan kell elhaladni."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Vezetési alkalmasság",
+"description":"Ha rosszul érzi magát vagy szokatlanul fáradtnak érzi magát, ne vezessen gépjárművet, amíg nem ébred fel és nem ébred fel, mivel ez befolyásolhatja a vezetési képességét."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Veszélyészlelés",
+"description":"Az úttest pásztázása segít a veszélyek korai felismerésében, lehetővé téve a biztonságos tervezést és reagálást."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Nehézgépjármű-kölcsönhatás",
+"description":"Amikor nehézgépjárművekkel osztozol az utakon, a biztonság érdekében több időt és helyet kell hagynod."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Vontatási teherkorlátozások",
+"description":"A megengedett határértékeken túli vontatás bírságot vagy büntetést vonhat maga után."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Megfordulni tilos tábla",
+"description":"A TILOS A MEGFORDULNI tábla azt jelzi, hogy az adott helyen tilos a megfordulás."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Parkolás kereszteződésekhez közel",
+"description":"Tilos a jelzőtábla nélküli kereszteződéstől a korlátozott távolságon belül parkolni."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Gyalogoselsőbbség",
+"description":"A gyermekátkelőhelyeken a gyalogosoknak elsőbbségük van, ha zászlókat helyeznek ki."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Véletlenszerű légzésteszt",
+"description":"Véletlenszerű szondázásokat alkalmaznak az ittas vezetés megakadályozására és felderítésére. Szükség esetén együtt kell működnie és légzésmintát kell adnia."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Iskolai övezet sebességkorlátozásai",
+"description":"Iskolai övezetben a megadott időpontokban a kiírt alsó sebességkorlátozást kell betartani."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"STOP vonal szabály",
+"description":"Ha egy olyan kereszteződésben állsz, ahol nincs tábla, akkor meg kell állnod a stopvonalnál, és elsőbbséget kell adnod."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Esőben farokba gurulva",
+"description":"Nedves körülmények között tartson nagyobb követési távolságot a járművek között, hogy elkerülje a csökkent tapadás és féktávolság miatti baleseteket."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Hátsó híddal szerelt teherautók",
+"description":"Kerüld a hátsó ajtóhoz közeledő teherautókat, mivel ez csökkenti a látótávolságot és a féktávolságot."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Munkaterület biztonsága",
+"description":"Amikor munkások vannak jelen, óvatosan kell vezetni, még akkor is, ha nincs látható ideiglenes sebességkorlátozó tábla."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Buszsáv-használat",
+"description":"Buszsávban csak akkor szabad közlekedni, ha azt a jelzések engedélyezik, és csak a meghatározott időpontokban."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Sürgősségi járművek elhaladása",
+"description":"Villogó fényekkel közlekedő, megálló sürgősségi jármű mellett haladva lassítani kell és óvatosan kell elhaladni."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Rakodási zónák",
+"description":"A rakodóterületeket csak a tábla által engedélyezett járművek használhatják; a helytelen használat bírságot vonhat maga után."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Munkaterület biztonsága",
+"description":"Amikor munkások vannak jelen, óvatosan kell vezetni, még akkor is, ha nincs látható ideiglenes sebességkorlátozó tábla."
+}
+]

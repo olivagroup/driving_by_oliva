@@ -1,0 +1,122 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"혈중 알코올 농도(BAC)",
+"description":"혈중 알코올 농도는 음주를 멈춘 후에도 계속 상승할 수 있으며, 공복에 술을 마시거나 체중이 가벼운 경우 혈중 알코올 농도가 더 높아질 수 있습니다."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"빗길 운전하기",
+"description":"폭우 시에는 제동 거리가 늘어나고 시야가 좁아질 수 있으므로 안전거리를 충분히 확보하는 것이 중요합니다."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"긴급 차량 통과 중",
+"description":"경광등을 켜고 정차해 있는 긴급 차량을 지나갈 때는 속도를 줄이고 조심스럽게 추월해야 합니다."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"운전 적합성",
+"description":"몸이 아프거나 평소보다 피곤한 경우, 몸 상태가 좋아지고 정신이 맑아질 때까지 운전하지 마십시오. 운전 능력에 영향을 미칠 수 있습니다."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"위험 인지",
+"description":"앞길을 살피는 것은 위험 요소를 조기에 감지하여 안전하게 대처하고 계획을 세울 수 있도록 도와줍니다."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"대형 차량 상호 작용",
+"description":"대형 차량과 도로를 공유할 때는 안전을 위해 충분한 시간과 공간을 확보해야 합니다."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"견인 하중 제한",
+"description":"법정 제한을 초과하여 견인할 경우 벌금이나 과태료가 부과될 수 있습니다."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"유턴 금지 표지판",
+"description":"유턴 금지' 표지판은 해당 위치에서 유턴하는 것이 금지되어 있음을 나타냅니다."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"교차로 근처 주차",
+"description":"표지판이 없는 교차로의 제한 거리 내에는 주차할 수 없습니다."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"보행자 우선",
+"description":"어린이 횡단보도에서 깃발이 게양되어 있으면 보행자에게 우선권이 있습니다."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"무작위 음주 측정",
+"description":"무작위 음주 측정은 음주 운전을 예방하고 적발하기 위해 사용됩니다. 필요한 경우, 협조하여 호흡 샘플을 제공해야 합니다."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"학교 구역 제한 속도",
+"description":"학교 구역에서는 지정된 시간 동안 표시된 낮은 속도 제한을 준수해야 합니다."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"정지선 규칙",
+"description":"표지판이 없는 교차로에서 정지선에 접근할 때는 정지선에서 정지하고 양보해야 합니다."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"비 오는 날 야외 파티",
+"description":"젖은 노면에서는 접지력 감소와 제동 거리 단축으로 인한 사고를 예방하기 위해 차량 간 간격을 충분히 유지하십시오."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"트럭 테일게이팅",
+"description":"트럭에 바짝 붙어 운전하면 시야가 좁아지고 제동 거리가 줄어들기 때문에 피해야 합니다."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"작업 구역 안전",
+"description":"작업자가 있는 곳에서는 임시 속도 제한 표지판이 보이지 않더라도 주의해서 운전해야 합니다."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"버스 전용차선 이용",
+"description":"버스 전용차선은 표지판으로 허용된 경우와 지정된 시간에만 이용할 수 있습니다."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"긴급 차량 통과 중",
+"description":"경광등을 켜고 정차해 있는 긴급 차량을 지나갈 때는 속도를 줄이고 조심스럽게 추월해야 합니다."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"적재 구역",
+"description":"표지판에 허용된 차량만 적재 구역을 이용할 수 있으며, 이를 위반할 경우 벌금이 부과될 수 있습니다."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"작업 구역 안전",
+"description":"작업자가 있는 곳에서는 임시 속도 제한 표지판이 보이지 않더라도 주의해서 운전해야 합니다."
+}
+]
