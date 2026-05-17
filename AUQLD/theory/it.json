@@ -1,0 +1,586 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Regole e leggi stradali",
+"subcategory":"Autorità legale sulle strade",
+"englishSubcategory":"Legal Authority on Roads",
+"description":"Le regole stradali nel Queensland sono leggi che tutti gli utenti della strada devono rispettare.\n\n I conducenti devono rispettare sempre la segnaletica stradale, i semafori, la segnaletica orizzontale e le regole stradali.\n\n Gli agenti di polizia e i controllori del traffico autorizzati hanno l'autorità legale di dirigere il traffico.\n\n Se un'indicazione di un agente di polizia o di un controllore del traffico è in conflitto con un cartello o un segnale, l'indicazione deve essere seguita.\n\n Non obbedire a un'indicazione legale è un reato."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Regole e leggi stradali",
+"subcategory":"Responsabilità del conducente",
+"englishSubcategory":"Driver Responsibility",
+"description":"I conducenti sono legalmente tenuti a guidare con la dovuta attenzione e cura in ogni momento.\n\n Un conducente non deve guidare in modo imprudente, pericoloso o negligente.\n\n I conducenti devono adottare misure ragionevoli per evitare incidenti e ridurre il rischio per gli altri.\n\n Il conducente è responsabile della guida sicura del proprio veicolo in tutte le condizioni."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Regole e leggi stradali",
+"subcategory":"Dare il via",
+"englishSubcategory":"Giving Way",
+"description":"Dare la precedenza significa rallentare e fermarsi se necessario per evitare una collisione.\n\n I conducenti devono dare la precedenza quando richiesto dalla segnaletica, dal codice stradale o dalle condizioni del traffico.\n\n Un conducente che entra in strada da un vialetto, un parcheggio o un marciapiede deve dare la precedenza a tutti i veicoli e ai pedoni.\n\n Non dare la precedenza quando richiesto è un reato."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Regole e leggi stradali",
+"subcategory":"Intersezioni",
+"englishSubcategory":"Intersections",
+"description":"Agli incroci, i conducenti devono rispettare i semafori, la segnaletica orizzontale e verticale.\n\n In assenza di segnaletica, i conducenti devono dare la precedenza secondo il codice stradale del Queensland.\n\n I conducenti che svoltano a destra devono dare la precedenza al traffico in arrivo che procede dritto o svolta a sinistra.\n\n Anche i pedoni devono avere la precedenza, ove richiesto."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Regole e leggi stradali",
+"subcategory":"Rotatorie",
+"englishSubcategory":"Roundabouts",
+"description":"Avvicinandosi a una rotonda, i conducenti devono dare la precedenza ai veicoli già presenti nella rotonda.\n\n I conducenti devono dare la precedenza ai veicoli che provengono da destra.\n\n È richiesta una corretta segnalazione quando si entra e si esce dalle rotatorie.\n\n Non dare la precedenza a una rotonda può causare gravi collisioni."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Regole e leggi stradali",
+"subcategory":"Segnali stradali",
+"englishSubcategory":"Traffic Signals",
+"description":"I semafori controllano il movimento di veicoli e pedoni.\n\n Una luce rossa significa fermarsi e rimanere fermi.\n\n Una luce gialla significa fermarsi se è sicuro farlo.\n\n Una luce verde consente di procedere, ma è comunque necessario dare la precedenza quando richiesto."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Regole e leggi stradali",
+"subcategory":"Inversioni a U",
+"englishSubcategory":"U-Turns",
+"description":"Le inversioni a U sono consentite nel Queensland, a meno che non siano vietate da un cartello.\n\n I conducenti devono assicurarsi che l'inversione a U possa essere completata in sicurezza.\n\n Un conducente che effettua un'inversione a U deve dare la precedenza a tutti gli altri veicoli e pedoni.\n\n Le inversioni a U non devono essere effettuate dove la visibilità è limitata o non sicura."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Regole e leggi stradali",
+"subcategory":"Pedoni",
+"englishSubcategory":"Pedestrians",
+"description":"Gli automobilisti devono dare la precedenza ai pedoni sulle strisce pedonali.\n\n Quando svoltano a un incrocio, gli automobilisti devono dare la precedenza ai pedoni che attraversano la strada entrando.\n\n È richiesta particolare attenzione in prossimità di scuole, aree commerciali e fermate dei mezzi pubblici."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Regole e leggi stradali",
+"subcategory":"Veicoli di emergenza",
+"englishSubcategory":"Emergency Vehicles",
+"description":"I conducenti devono dare la precedenza ai veicoli di emergenza utilizzando luci lampeggianti o sirene.\n\n Ciò potrebbe richiedere di rallentare, spostarsi o fermarsi, se necessario.\n\n I conducenti non devono ostruire il percorso dei veicoli di emergenza né seguirli da vicino."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Regole e leggi stradali",
+"subcategory":"Rispettare la segnaletica stradale",
+"englishSubcategory":"Obeying Road Signs",
+"description":"La segnaletica stradale fornisce istruzioni e avvertimenti legali agli utenti della strada.\n\n I conducenti devono rispettare la segnaletica di regolamentazione come i segnali di stop, dare precedenza e limite di velocità.\n\n I segnali di avvertimento avvertono i conducenti di potenziali pericoli.\n\n Ignorare la segnaletica stradale costituisce una violazione del codice della strada."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Segnali stradali e segnali",
+"subcategory":"Segnali normativi",
+"englishSubcategory":"Regulatory Signs",
+"description":"I segnali di regolamentazione forniscono istruzioni che i conducenti devono rispettare per legge.\n\n Tra questi segnali rientrano segnali come Stop, Dare precedenza, Divieto di accesso, Divieto di sosta e limiti di velocità.\n\n Non seguire un segnale di regolamentazione è un reato."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Segnali stradali e segnali",
+"subcategory":"Segnali di avvertimento",
+"englishSubcategory":"Warning Signs",
+"description":"I segnali di avvertimento avvertono i conducenti di potenziali pericoli o cambiamenti nelle condizioni stradali.\n\n Di solito sono gialli e a forma di rombo.\n\n I conducenti devono rallentare e prepararsi a reagire in sicurezza."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Segnali stradali e segnali",
+"subcategory":"Segnali di velocità",
+"englishSubcategory":"Speed Signs",
+"description":"I segnali di limite di velocità indicano la velocità massima consentita per una strada o un'area.\n\n I conducenti non devono superare il limite di velocità indicato.\n\n I limiti di velocità possono variare a seconda di condizioni quali lavori stradali o zone scolastiche."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Segnali stradali e segnali",
+"subcategory":"Semaforo",
+"englishSubcategory":"Traffic Lights",
+"description":"I semafori regolano il traffico agli incroci.\n\n Una luce rossa significa stop.\n\n Una luce gialla significa stop se è sicuro farlo.\n\n Una luce verde significa che puoi procedere se l'incrocio è libero."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Segnali stradali e segnali",
+"subcategory":"Segnali a freccia",
+"englishSubcategory":"Arrow Signals",
+"description":"I segnali stradali a freccia si applicano solo alla direzione indicata dalla freccia.\n\n Una freccia verde consente la circolazione solo in quella direzione.\n\n Una freccia rossa significa che non si deve procedere in quella direzione."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Segnali stradali e segnali",
+"subcategory":"Segnali di dare la precedenza e di stop",
+"englishSubcategory":"Give Way & Stop Signs",
+"description":"Un segnale di dare la precedenza obbliga gli automobilisti a rallentare e a dare la precedenza a tutti i veicoli in conflitto.\n\n Un segnale di stop obbliga gli automobilisti a fermarsi completamente e a dare la precedenza prima di proseguire.\n\n Gli automobilisti devono rispettare il segnale anche se la strada sembra libera."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Segnali stradali e segnali",
+"subcategory":"Segnali di controllo della corsia",
+"englishSubcategory":"Lane Control Signals",
+"description":"I segnali di controllo della corsia vengono utilizzati sopra le corsie per gestire il flusso del traffico.\n\n Una freccia verde indica che la corsia è aperta.\n\n Una croce rossa o una X bianca indica che la corsia non deve essere utilizzata."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Segnali stradali e segnali",
+"subcategory":"Segnali pedonali",
+"englishSubcategory":"Pedestrian Signals",
+"description":"I segnali pedonali indicano quando i pedoni possono attraversare la strada.\n\n Gli automobilisti devono dare la precedenza ai pedoni che attraversano quando il segnale pedonale lo consente."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Segnali stradali e segnali",
+"subcategory":"Segnaletica per scopi speciali",
+"englishSubcategory":"Special Purpose Signs",
+"description":"La segnaletica per scopi speciali include segnali come \"Zona condivisa","Corsia degli autobus\"e \"Zona scolastica\".\n\n Questi segnali stabiliscono regole specifiche che i conducenti devono seguire in quelle aree."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Segnali stradali e segnali",
+"subcategory":"Segnali temporanei",
+"englishSubcategory":"Temporary Signs",
+"description":"La segnaletica temporanea viene utilizzata in situazioni quali lavori stradali, incidenti o eventi speciali.\n\n I conducenti devono rispettare la segnaletica temporanea anche se diversa da quella permanente.\n\n Nelle aree di lavori stradali si applicano spesso limiti di velocità ridotti."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Regole di velocità e distanza",
+"subcategory":"Limiti di velocità",
+"englishSubcategory":"Speed Limits",
+"description":"Nel Queensland, il limite di velocità predefinito in un'area edificata è di 50 km/h, salvo diversa segnaletica.\n\n I conducenti devono sempre controllare i segnali di velocità affissi, poiché i limiti possono variare.\n\n Il limite massimo di velocità nel Queensland è di 110 km/h, salvo diversa segnaletica.\n\n I conducenti non devono mai superare il limite di velocità affisso."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Regole di velocità e distanza",
+"subcategory":"Zone scolastiche",
+"englishSubcategory":"School Zones",
+"description":"I limiti di velocità nelle zone scolastiche sono in vigore durante gli orari indicati sui cartelli.\n\n I conducenti devono rispettare i limiti di velocità segnalati nelle zone scolastiche anche se i bambini non sono visibili."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Regole di velocità e distanza",
+"subcategory":"Lavori stradali",
+"englishSubcategory":"Roadworks",
+"description":"Nelle zone interessate da lavori stradali, i limiti di velocità ridotti si applicano dal primo segnale di riduzione della velocità fino al segnale di fine.\n\n I conducenti devono rispettare questi limiti anche in assenza di operai."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Regole di velocità e distanza",
+"subcategory":"Distanza di seguito",
+"englishSubcategory":"Following Distance",
+"description":"In buone condizioni di guida, i conducenti dovrebbero mantenere una distanza minima di almeno due secondi.\n\n Questo consente loro di reagire e fermarsi in sicurezza."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Regole di velocità e distanza",
+"subcategory":"Distanza di seguito",
+"englishSubcategory":"Following Distance",
+"description":"In caso di condizioni di bagnato o di cattive condizioni, i conducenti dovrebbero aumentare la distanza di sicurezza per consentire spazi di arresto più lunghi."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Regole di velocità e distanza",
+"subcategory":"Distanza di arresto",
+"englishSubcategory":"Stopping Distance",
+"description":"La distanza di arresto include la distanza di reazione e la distanza di frenata.\n\n All'aumentare della velocità, la distanza di arresto totale aumenta significativamente."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Regole di velocità e distanza",
+"subcategory":"Distanza di arresto",
+"englishSubcategory":"Stopping Distance",
+"description":"Le strade bagnate, ghiaiose o scivolose aumentano lo spazio di frenata.\n\n I conducenti devono rallentare per adattarsi alle condizioni della strada."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Regole di velocità e distanza",
+"subcategory":"Zone condivise",
+"englishSubcategory":"Shared Zones",
+"description":"Nelle zone condivise, il limite di velocità è di 10 km/h.\n\n Gli automobilisti devono essere sempre pronti a fermarsi per far passare i pedoni."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Regole di velocità e distanza",
+"subcategory":"Responsabilità del conducente",
+"englishSubcategory":"Driver Responsibility",
+"description":"I conducenti sono sempre responsabili del controllo della velocità.\n\n I sistemi di avviso di velocità o la tecnologia dei veicoli non esonerano da questa responsabilità."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Responsabilità del conducente",
+"subcategory":"Doveri generali del conducente",
+"englishSubcategory":"General Driver Duties",
+"description":"I conducenti devono sempre guidare con la dovuta attenzione e cura.\n\n Se ti senti troppo stanco, malato o non in grado di guidare in sicurezza, devi smettere di guidare e riposarti prima di continuare."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Responsabilità del conducente",
+"subcategory":"Incidenti e incidenti",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Se sei coinvolto in un incidente che provoca lesioni o morte, devi fermarti, prestare soccorso se possibile e contattare immediatamente i servizi di emergenza."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Responsabilità del conducente",
+"subcategory":"Doveri generali del conducente",
+"englishSubcategory":"General Driver Duties",
+"description":"Prima di mettersi alla guida, il conducente è tenuto a verificare che il veicolo sia in condizioni di circolare su strada e sicuro da utilizzare."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Responsabilità del conducente",
+"subcategory":"Incidenti e incidenti",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Se un incidente provoca danni materiali e il proprietario non è presente, è necessario fermarsi e lasciare i propri dati o denunciare l'incidente alla polizia."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Responsabilità del conducente",
+"subcategory":"Indicazioni della polizia",
+"englishSubcategory":"Police Directions",
+"description":"I conducenti devono esibire la patente di guida o fornire i propri dati quando richiesto da un agente di polizia."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Responsabilità del conducente",
+"subcategory":"Incidenti e incidenti",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Un incidente deve essere segnalato alla polizia quando provoca feriti, morte o danni materiali ingenti."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Responsabilità del conducente",
+"subcategory":"Passeggeri",
+"englishSubcategory":"Passengers",
+"description":"Gli autisti sono tenuti a garantire che tutti i passeggeri siano correttamente trattenuti con le cinture di sicurezza o con i sistemi di ritenuta omologati."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Responsabilità del conducente",
+"subcategory":"Incidenti e incidenti",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Dopo un incidente lieve senza feriti, i conducenti devono fermarsi e scambiare i dettagli con la parte coinvolta."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Responsabilità del conducente",
+"subcategory":"Doveri generali del conducente",
+"englishSubcategory":"General Driver Duties",
+"description":"Se la vista dovesse peggiorare durante la guida, è necessario interrompere la guida finché non sarà possibile proseguire in sicurezza."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Responsabilità del conducente",
+"subcategory":"Incidenti e incidenti",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Se un altro conducente si allontana dal luogo dell'incidente, è necessario segnalare l'accaduto alla polizia il prima possibile."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alcol, droghe e salute",
+"subcategory":"Limiti di alcol",
+"englishSubcategory":"Alcohol Limits",
+"description":"Nel Queensland, la concentrazione massima di alcol nel sangue (BAC) per un titolare di patente aperta è 0,05.\n\n I conducenti principianti e provvisori devono avere sempre una concentrazione di alcol nel sangue pari a 0,00."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alcol, droghe e salute",
+"subcategory":"Effetti dell'alcol",
+"englishSubcategory":"Alcohol Effects",
+"description":"L'alcol influisce sulla capacità di guida fin dal primo drink.\n\n Rallenta i tempi di reazione, riduce la coordinazione e compromette la capacità di giudizio."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alcol, droghe e salute",
+"subcategory":"Droga e guida",
+"englishSubcategory":"Drugs & Driving",
+"description":"Guidare sotto l'effetto di droghe illegali è un reato nel Queensland.\n\n Puoi essere accusato anche se non ti senti sotto l'effetto di droghe."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alcol, droghe e salute",
+"subcategory":"Droga e guida",
+"englishSubcategory":"Drugs & Driving",
+"description":"I test antidroga effettuati a bordo strada rilevano comunemente cannabis, MDMA e metanfetamina.\n\n La polizia può richiedere un test della saliva in qualsiasi momento."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alcol, droghe e salute",
+"subcategory":"Farmaci e guida",
+"englishSubcategory":"Medication & Driving",
+"description":"Alcuni farmaci da prescrizione e da banco possono influire sulla capacità di guidare.\n\n Controllare sempre le avvertenze ed evitare di guidare in caso di dubbi."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Pratiche di guida sicura",
+"subcategory":"Guida difensiva",
+"englishSubcategory":"Defensive Driving",
+"description":"Guidare in modo difensivo significa anticipare potenziali pericoli e le azioni degli altri utenti della strada.\n\n L'obiettivo è ridurre il rischio di incidenti pianificando in anticipo e mantenendo i margini di sicurezza.\n\n Un principio fondamentale della guida difensiva è mantenere una zona di sicurezza attorno al veicolo.\n\n Questo spazio consente di reagire in caso di cambiamenti improvvisi delle condizioni del traffico.\n\n Se un altro conducente si comporta in modo aggressivo, la risposta più sicura è creare spazio ed evitare di coinvolgerlo.\n\n Non reagire con una guida aggressiva.\n\n Pianificare in anticipo aiuta i conducenti a evitare frenate improvvise o sterzate brusche.\n\n Decisioni fluide e tempestive migliorano il controllo e la sicurezza del veicolo."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Pratiche di guida sicura",
+"subcategory":"Percezione del pericolo",
+"englishSubcategory":"Hazard Perception",
+"description":"La percezione del pericolo implica l'identificazione precoce dei potenziali pericoli e la risposta prima che diventino critici.\n\n I conducenti dovrebbero osservare attentamente davanti a sé e ai lati, non solo il veicolo che precede.\n\n Auto parcheggiate, pedoni, ciclisti e incroci sono comuni fonti di pericolo.\n\n I conducenti dovrebbero prestare attenzione a movimenti improvvisi o cambiamenti nel flusso del traffico.\n\n Controllare regolarmente gli specchietti aiuta i conducenti a rimanere consapevoli del traffico circostante.\n\n Questa consapevolezza è essenziale per cambi di corsia e frenate sicuri."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Pratiche di guida sicura",
+"subcategory":"Condizioni stradali",
+"englishSubcategory":"Road Conditions",
+"description":"Condizioni stradali come pioggia, ghiaia o scarsa visibilità impongono ai conducenti di ridurre la velocità.\n\n I conducenti devono adattare la propria guida alle condizioni.\n\n Le strade bagnate riducono l'aderenza degli pneumatici e aumentano la distanza di arresto.\n\n I conducenti dovrebbero rallentare e aumentare la distanza di sicurezza in condizioni di bagnato.\n\n La visibilità ridotta dovuta a nebbia, pioggia o abbagliamento impone ai conducenti di rallentare e aumentare la distanza di sicurezza.\n\n I fari devono essere utilizzati in modo appropriato per migliorare la visibilità."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Incroci, svolte e rotatorie",
+"subcategory":"Dare il via",
+"englishSubcategory":"Giving Way",
+"description":"A un incrocio non regolamentato, il conducente deve dare la precedenza ai veicoli che provengono da destra.\n\n Questa regola si applica quando non ci sono semafori, segnali di stop o segnali di precedenza.\n\n A un incrocio a T, il conducente sulla strada di fine deve dare la precedenza ai veicoli sulla strada di proseguimento.\n\n Quando si immette in una strada da un vialetto o da un marciapiede, il conducente deve dare la precedenza a tutti i veicoli e pedoni sulla strada."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Incroci, svolte e rotatorie",
+"subcategory":"Giri",
+"englishSubcategory":"Turns",
+"description":"Quando si svolta a sinistra a un incrocio, i conducenti devono dare la precedenza ai pedoni che attraversano la strada in cui stanno entrando.\n\n Quando si svolta a destra a un incrocio, i conducenti devono dare la precedenza ai veicoli provenienti dalla direzione opposta che procedono dritti o che svoltano a sinistra.\n\n Quando si effettua un'inversione a U, un conducente deve dare la precedenza a tutti gli altri veicoli e pedoni.\n\n Prima di svoltare a un incrocio, i conducenti devono segnalare e controllare il traffico, i ciclisti e i pedoni."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Incroci, svolte e rotatorie",
+"subcategory":"Rotatorie",
+"englishSubcategory":"Roundabouts",
+"description":"Quando entrano in una rotonda, i conducenti devono dare la precedenza ai veicoli già presenti.\n\n I conducenti devono segnalare la direzione di marcia a sinistra quando escono da una rotonda per informare gli altri utenti della strada della loro intenzione di uscire.\n\n I conducenti devono avvicinarsi alle rotatorie a una velocità che consenta loro di dare la precedenza in sicurezza e di fermarsi se necessario."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Segnaletica stradale, corsie e sorpasso",
+"subcategory":"Segnaletica stradale",
+"englishSubcategory":"Road Markings",
+"description":"Una singola linea centrale continua significa che i conducenti non devono attraversare o scavalcare la linea.\n\n L'attraversamento è consentito solo in circostanze molto limitate, come entrare o uscire da una proprietà, se consentito.\n\n Una linea centrale tratteggiata indica che i conducenti possono attraversare la linea quando è sicuro farlo.\n\n Questa è comunemente usata per sorpassare o svoltare.\n\n Una doppia linea centrale continua significa che i conducenti non devono attraversare o scavalcare le linee in nessuna circostanza.\n\n Le linee bianche di margine segnano il bordo della carreggiata e aiutano i conducenti a identificare l'area transitabile della strada."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Segnaletica stradale, corsie e sorpasso",
+"subcategory":"Sorpasso",
+"englishSubcategory":"Overtaking",
+"description":"Il sorpasso è vietato quando non è sicuro o quando la segnaletica orizzontale o verticale lo vieta.\n\n I conducenti devono sempre valutare la visibilità e il traffico in arrivo prima di sorpassare.\n\n Il conducente che sorpassa è pienamente responsabile di garantire che la manovra possa essere completata in sicurezza.\n\n Quando sorpassa un ciclista, i conducenti devono lasciare sufficiente spazio laterale per garantire la sicurezza del ciclista."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Segnaletica stradale, corsie e sorpasso",
+"subcategory":"Corsie",
+"englishSubcategory":"Lanes",
+"description":"Prima di cambiare corsia, gli automobilisti devono segnalare la loro intenzione e dare la precedenza ai veicoli già presenti nella corsia in cui si stanno immettendo.\n\n Una corsia contrassegnata dal simbolo di una bicicletta indica una pista ciclabile riservata ai ciclisti.\n\n Gli automobilisti non devono guidare su una pista ciclabile a meno che non siano autorizzati.\n\n Le corsie riservate agli autobus contrassegnate da cartelli e segnaletica orizzontale possono essere utilizzate solo dai veicoli autorizzati.\n\n Gli automobilisti devono rispettare gli orari di servizio indicati sui cartelli."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Regole di sosta, parcheggio e circolazione stradale",
+"subcategory":"Restrizioni di parcheggio",
+"englishSubcategory":"Parking Restrictions",
+"description":"Parcheggiare troppo vicino a un angolo non è sicuro perché blocca la visuale di conducenti e pedoni.\n\n Parcheggiare sul lato sbagliato della strada, contromano, non è sicuro e può essere illegale in molte situazioni.\n\n Fermarsi o parcheggiare sulle strisce pedonali è vietato perché mette in pericolo i pedoni e blocca la visibilità."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Regole di sosta, parcheggio e circolazione stradale",
+"subcategory":"Regole di arresto",
+"englishSubcategory":"Stopping Rules",
+"description":"Prima di aprire la portiera dopo aver parcheggiato vicino al traffico, è necessario controllare gli specchietti e gli angoli ciechi.\n\n Questo aiuta a prevenire collisioni con veicoli, ciclisti o altri utenti della strada.\n\n A un segnale di stop, i conducenti devono fermarsi completamente sulla linea di stop o prima di entrare nell'incrocio.\n\n È necessario fare retromarcia o modificare la posizione ai semafori solo se è sicuro e non mette in pericolo gli altri utenti della strada."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Pedoni, ciclisti e utenti vulnerabili della strada",
+"subcategory":"Pedoni",
+"englishSubcategory":"Pedestrians",
+"description":"Agli attraversamenti pedonali senza semaforo, i conducenti che si avvicinano all'attraversamento devono dare la precedenza ai pedoni che si trovano sull'attraversamento o che vi stanno entrando.\n\n Ai semafori, i conducenti devono dare la precedenza ai pedoni che hanno un segnale verde."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Pedoni, ciclisti e utenti vulnerabili della strada",
+"subcategory":"Ciclisti",
+"englishSubcategory":"Cyclists",
+"description":"Quando si sorpassa un ciclista, i conducenti devono lasciare sufficiente spazio laterale per garantire la sua sicurezza.\n\n I ciclisti sono legittimi utenti della strada e possono circolare sulla strada, sulle piste ciclabili o sui percorsi condivisi, ove consentito."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Pedoni, ciclisti e utenti vulnerabili della strada",
+"subcategory":"Zone condivise",
+"englishSubcategory":"Shared Zones",
+"description":"Nelle zone condivise, i pedoni hanno la precedenza sui veicoli e gli automobilisti devono procedere a velocità molto basse."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Pedoni, ciclisti e utenti vulnerabili della strada",
+"subcategory":"Anziani e disabili",
+"englishSubcategory":"Elderly & Disabled",
+"description":"I pedoni anziani o disabili potrebbero muoversi lentamente o avere una ridotta consapevolezza, il che richiede ai conducenti di prevedere più tempo e spazio.\n\n Quando si avvicinano ai pedoni con un bastone bianco o un cane guida, i conducenti devono rallentare ed essere pronti a fermarsi."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Situazioni speciali e ambienti stradali",
+"subcategory":"Condizioni meteorologiche",
+"englishSubcategory":"Weather Conditions",
+"description":"In caso di forte pioggia, i conducenti dovrebbero ridurre la velocità e aumentare la distanza di sicurezza.\n\n La pioggia riduce la visibilità e l'aderenza degli pneumatici, aumentando le distanze di arresto.\n\n Guidare nell'acqua alluvionale è pericoloso perché la profondità e le condizioni della strada potrebbero essere sconosciute.\n\n L'acqua alluvionale può spazzare via i veicoli o nascondere i danni alla strada.\n\n La nebbia riduce significativamente la visibilità.\n\n I conducenti dovrebbero rallentare, usare gli anabbaglianti ed essere pronti a fermarsi.\n\n I venti forti possono influire sulla stabilità del veicolo, soprattutto per i veicoli con sponde alte.\n\n I conducenti dovrebbero ridurre la velocità e mantenere un controllo saldo dello sterzo.\n\n L'aquaplaning si verifica quando gli pneumatici perdono contatto con la superficie stradale a causa dell'acqua.\n\n I conducenti dovrebbero allentare la pressione sui pedali e sterzare dolcemente se ciò si verifica."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Situazioni speciali e ambienti stradali",
+"subcategory":"Guida rurale",
+"englishSubcategory":"Rural Driving",
+"description":"Sulle strade rurali, gli animali possono entrare in carreggiata inaspettatamente.\n\n I conducenti devono rimanere vigili ed essere pronti a rallentare o fermarsi.\n\n La guida notturna sulle strade rurali è pericolosa a causa della ridotta visibilità e dell'aumento dell'attività della fauna selvatica.\n\n Se un animale appare improvvisamente sulla strada, i conducenti devono frenare con decisione e sterzare in modo sicuro senza sterzare pericolosamente."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Situazioni speciali e ambienti stradali",
+"subcategory":"Lavori stradali",
+"englishSubcategory":"Roadworks",
+"description":"In prossimità di lavori stradali, i conducenti devono rispettare la segnaletica temporanea e i limiti di velocità ridotti.\n\n Queste regole si applicano anche se i lavoratori non sono visibili.\n\n I limiti di velocità temporanei in prossimità di lavori stradali esistono per proteggere i lavoratori e gli utenti della strada.\n\n I conducenti non devono superare questi limiti."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Veicoli di emergenza e indicazioni della polizia",
+"subcategory":"Veicoli di emergenza",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Quando un veicolo di emergenza si avvicina con luci lampeggianti o sirene, i conducenti devono spostarsi in sicurezza e lasciarlo passare.\n\n Sulle strade a più corsie, i conducenti devono indicare la direzione e spostarsi in una corsia libera o a sinistra, ove possibile, per consentire il passaggio dei veicoli di emergenza.\n\n Se fermi al semaforo e un veicolo di emergenza si avvicina da dietro, i conducenti possono spostarsi con cautela oltre la linea di stop, se è sicuro farlo.\n\n I conducenti non devono mai bloccare la traiettoria di un veicolo di emergenza, indipendentemente dal tipo di strada o dalle condizioni del traffico.\n\n Se non è possibile spostarsi immediatamente per far passare un veicolo di emergenza, continuare a guidare in sicurezza finché non è possibile accostare senza creare pericolo.\n\n Quando si sorpassa un veicolo di emergenza fermo con luci lampeggianti, i conducenti devono rallentare e procedere con cautela."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Veicoli di emergenza e indicazioni della polizia",
+"subcategory":"Indicazioni della polizia",
+"englishSubcategory":"Police Directions",
+"description":"I conducenti devono obbedire alle indicazioni fornite dagli agenti di polizia o dai controllori del traffico autorizzati, anche se in conflitto con la segnaletica stradale.\n\n Un agente di polizia o un controllore del traffico autorizzato ha l'autorità legale di dirigere il traffico in modo diverso dalla segnaletica.\n\n Se la polizia vi ordina di fermarvi, svoltare, deviare o accostare, dovete obbedire in modo sicuro e il prima possibile.\n\n Non seguire un'indicazione legale della polizia è un reato e può comportare multe, decurtazione di punti o sospensione della patente."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Cinture di sicurezza, sistemi di ritenuta per bambini e passeggeri",
+"subcategory":"Cinture di sicurezza",
+"englishSubcategory":"Seatbelts",
+"description":"Nel Queensland, il conducente è legalmente responsabile di garantire che tutti i passeggeri di età inferiore ai 16 anni indossino la cintura di sicurezza o un sistema di ritenuta omologato.\n\n Le cinture di sicurezza devono essere indossate in ogni momento quando il veicolo è in movimento, se ne è dotata una.\n\n La cintura di sicurezza deve essere indossata saldamente sulla spalla e bassa sui fianchi per ridurre il rischio di lesioni in caso di incidente.\n\n Le cinture di sicurezza non devono essere indossate in modo errato, ad esempio sotto il braccio o attorcigliate, poiché ciò aumenta notevolmente il rischio di lesioni gravi."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Cinture di sicurezza, sistemi di ritenuta per bambini e passeggeri",
+"subcategory":"Sistemi di ritenuta per bambini",
+"englishSubcategory":"Child Restraints",
+"description":"I neonati devono essere trasportati in un seggiolino per bambini omologato, rivolto all'indietro, perché offre la migliore protezione per la testa e il collo.\n\n I bambini devono passare da un seggiolino rialzato a una cintura di sicurezza per adulti solo quando raggiungono i requisiti minimi di età e altezza previsti dalla legge.\n\n I seggiolini per bambini devono essere montati e regolati correttamente, perché un montaggio errato riduce significativamente la protezione in caso di incidente."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Cinture di sicurezza, sistemi di ritenuta per bambini e passeggeri",
+"subcategory":"Passeggeri",
+"englishSubcategory":"Passengers",
+"description":"I passeggeri non trattenuti possono riportare gravi lesioni o causare lesioni ad altri in caso di incidente a causa di movimenti incontrollati.\n\n Se un passeggero distrae il conducente, la cosa più sicura è chiedergli di fermarsi in modo che il conducente possa concentrarsi sulla guida in sicurezza.\n\n I passeggeri devono sempre controllare il traffico e i ciclisti prima di aprire le portiere del veicolo per evitare collisioni e lesioni."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Nozioni di base sulla sicurezza, i difetti e la manutenzione dei veicoli",
+"subcategory":"Pneumatici",
+"englishSubcategory":"Tyres",
+"description":"Pneumatici sgonfi riducono la maneggevolezza e aumentano la distanza di frenata.\n\n Aumentano anche l'accumulo di calore e possono aumentare il rischio di rottura degli pneumatici.\n\n Gli pneumatici devono essere controllati regolarmente per verificarne la profondità del battistrada e la corretta pressione di gonfiaggio.\n\n Un buon battistrada aiuta a mantenere l'aderenza, soprattutto sul bagnato."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Nozioni di base sulla sicurezza, i difetti e la manutenzione dei veicoli",
+"subcategory":"Luci",
+"englishSubcategory":"Lights",
+"description":"I fari anteriori devono funzionare di notte e in caso di scarsa visibilità.\n\n Le luci di lavoro ti aiutano a vedere i pericoli e aiutano gli altri utenti della strada a vederti.\n\n Le luci dei freni sono importanti perché avvertono gli altri conducenti che stai rallentando o fermandoti.\n\n Le luci dei freni difettose aumentano il rischio di tamponamenti."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Nozioni di base sulla sicurezza, i difetti e la manutenzione dei veicoli",
+"subcategory":"Manutenzione generale",
+"englishSubcategory":"General Maintenance",
+"description":"Il conducente è responsabile di garantire che il veicolo sia in condizioni di circolare.\n\n Controlli e manutenzione regolari aiutano a identificare e risolvere tempestivamente i problemi di sicurezza."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Carichi, traino e consapevolezza dei veicoli pesanti",
+"subcategory":"Carichi",
+"englishSubcategory":"Loads",
+"description":"I carichi devono essere fissati in modo che non possano cadere o muoversi e creare pericolo per gli altri utenti della strada.\n\n Un carico non fissato correttamente può causare incidenti, lesioni e danni.\n\n Se un carico viene posizionato troppo in alto o in modo non uniforme, la stabilità del veicolo può essere ridotta.\n\n Ciò aumenta il rischio di ribaltamento e perdita di controllo.\n\n Sovraccaricare un veicolo può ridurre le prestazioni di frenata e manovrabilità.\n\n Può anche aumentare lo stress su pneumatici e sospensioni, aumentando il rischio di incidenti.\n\n Se un carico sporge dalla parte posteriore del veicolo, deve essere fissato e reso visibile, se necessario.\n\n Carichi sporgenti non fissati correttamente possono colpire altri utenti della strada o cadere sulla strada."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Carichi, traino e consapevolezza dei veicoli pesanti",
+"subcategory":"Traino",
+"englishSubcategory":"Towing",
+"description":"Trainare un rimorchio aumenta la distanza di arresto perché il veicolo ha un peso maggiore da rallentare.\n\n I conducenti dovrebbero lasciare più spazio e frenare prima.\n\n Prima di trainare, i conducenti dovrebbero controllare il gancio, le luci del rimorchio, la catena di sicurezza e che il carico sia fissato saldamente.\n\n Trainare con guasti può causare distacchi o incidenti.\n\n Se un rimorchio inizia a oscillare, la risposta più sicura è rilasciare l'acceleratore e mantenere lo sterzo stabile.\n\n Frenate o accelerazioni brusche possono peggiorare l'oscillazione."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Carichi, traino e consapevolezza dei veicoli pesanti",
+"subcategory":"Veicoli pesanti",
+"englishSubcategory":"Heavy Vehicles",
+"description":"I veicoli pesanti impiegano molto più tempo delle auto per fermarsi.\n\n Tagliare la strada a un camion ne riduce lo spazio di frenata e può causare incidenti gravi.\n\n I camion hanno ampi angoli ciechi accanto e direttamente dietro di loro.\n\n Evita di guidare in queste aree perché l'autista potrebbe non vederti.\n\n I camion potrebbero aver bisogno di più spazio e potrebbero svoltare ampiamente, soprattutto vicino agli incroci.\n\n È pericoloso sorpassare un camion appena prima di un incrocio."
+}
+]

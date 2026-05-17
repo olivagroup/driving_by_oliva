@@ -1,0 +1,586 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Rettsmyndighet på veier",
+"englishSubcategory":"Legal Authority on Roads",
+"description":"Trafikkregler i Queensland er lover som alle trafikanter må overholde.\n\n Sjåfører må følge trafikkskilt, trafikklys, veimerkinger og veiregler til enhver tid.\n\n Politibetjenter og autoriserte trafikkontrollører har juridisk myndighet til å dirigere trafikken.\n\n Hvis en anvisning fra en politibetjent eller trafikkontrollør er i konflikt med et skilt eller signal, må anvisningen følges.\n\n Å unnlate å adlyde en lovlig anvisning er en forbrytelse."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Sjåførens ansvar",
+"englishSubcategory":"Driver Responsibility",
+"description":"Førere er juridisk ansvarlige for å kjøre med tilbørlig forsiktighet og oppmerksomhet til enhver tid.\n\n En fører må ikke kjøre på en uforsiktig, farlig eller uaktsom måte.\n\n Førere må ta rimelige skritt for å unngå ulykker og redusere risikoen for andre.\n\n Føreren er ansvarlig for sikker kjøring av kjøretøyet under alle forhold."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Vikeplass",
+"englishSubcategory":"Giving Way",
+"description":"Å vike betyr å senke farten og stoppe om nødvendig for å unngå en kollisjon.\n\n Førere må vike når det er påkrevd av skilt, trafikkregler eller trafikkforhold.\n\n En fører som kjører inn på en vei fra en innkjørsel, parkeringsplass eller gangsti må vike for alle kjøretøy og fotgjengere.\n\n Å unnlate å vike når det er påkrevd er en forbrytelse."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Kryss",
+"englishSubcategory":"Intersections",
+"description":"I kryss må sjåfører følge trafikklys, skilt og veimerking.\n\n Hvis det ikke er skilt eller signaler, må sjåfører vike i henhold til Queenslands veiregler.\n\n Sjåfører som svinger til høyre, må vike for møtende trafikk som kjører rett frem eller svinger til venstre.\n\n Fotgjengere må også prioriteres der det er nødvendig."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Rundkjøringer",
+"englishSubcategory":"Roundabouts",
+"description":"Når man nærmer seg en rundkjøring, må sjåfører vike for kjøretøy som allerede er i rundkjøringen.\n\n Sjåfører må vike for kjøretøy som nærmer seg fra høyre.\n\n Korrekt signalisering er nødvendig når man kjører inn i og ut av rundkjøringer.\n\n Unnlatelse av å vike i en rundkjøring kan forårsake alvorlige kollisjoner."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Trafikksignaler",
+"englishSubcategory":"Traffic Signals",
+"description":"Trafikklys kontrollerer bevegelsen til kjøretøy og fotgjengere.\n\n Et rødt lys betyr stopp og at du skal forbli i stillstand.\n\n Et gult lys betyr stopp hvis det er trygt å gjøre det.\n\n Et grønt lys lar deg fortsette, men du må fortsatt vike der det er nødvendig."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"U-svinger",
+"englishSubcategory":"U-Turns",
+"description":"U-svinger er tillatt i Queensland med mindre et skilt forbyr det.\n\n Sjåfører må sørge for at U-svingen kan fullføres på en trygg måte.\n\n En sjåfør som foretar en U-sving må vike for alle andre kjøretøy og fotgjengere.\n\n U-svinger må ikke foretas der sikten er begrenset eller utrygg."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Fotgjengere",
+"englishSubcategory":"Pedestrians",
+"description":"Sjåfører må vike for fotgjengere i fotgjengerfelt.\n\n Når man svinger i et kryss, må sjåfører vike for fotgjengere som krysser veien man kjører inn i.\n\n Ekstra forsiktighet er nødvendig i nærheten av skoler, shoppingområder og holdeplasser for offentlig transport."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Utrykningskjøretøy",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Førere må vike for utrykningskjøretøy ved hjelp av blinkende lys eller sirener.\n\n Dette kan kreve at man senker farten, kjører til side eller stopper om nødvendig.\n\n Førere må ikke blokkere utrykningskjøretøyenes vei eller følge dem tett."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Trafikkregler og lover",
+"subcategory":"Å følge veiskilt",
+"englishSubcategory":"Obeying Road Signs",
+"description":"Trafikkskilt gir juridiske instruksjoner og advarsler til trafikanter.\n\n Sjåfører må overholde forskriftsmessige skilt som Stopp, Vikeplikt og Fartsgrense-skilt.\n\n Varselskilt varsler sjåfører om potensielle farer foran.\n\n Å ignorere trafikkskilt er et brudd på trafikkloven."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Reguleringsskilt",
+"englishSubcategory":"Regulatory Signs",
+"description":"Reguleringsskilt gir instruksjoner som sjåfører må følge i henhold til loven.\n\n Disse inkluderer skilt som Stopp, Vikeplikt, Innkjøring forbudt, Parkering forbudt og fartsgrenseskilt.\n\n Det er en forbrytelse å ikke følge et regulert skilt."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Varselskilt",
+"englishSubcategory":"Warning Signs",
+"description":"Varselskilt varsler sjåfører om potensielle farer eller endringer i veiforholdene foran.\n\n De er vanligvis gule og diamantformede.\n\n Sjåfører bør senke farten og forberede seg på å reagere trygt."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Fartsskilt",
+"englishSubcategory":"Speed Signs",
+"description":"Fartsgrenseskilt viser maksimal tillatt hastighet for en vei eller et område.\n\n Sjåfører må ikke overskride den angitte fartsgrensen.\n\n Fartsgrenser kan endres avhengig av forhold som veiarbeid eller skolesoner."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Trafikklys",
+"englishSubcategory":"Traffic Lights",
+"description":"Trafikklys kontrollerer trafikken i kryss.\n\n Et rødt lys betyr stopp.\n\n Et gult lys betyr stopp hvis det er trygt å gjøre det.\n\n Et grønt lys betyr at du kan fortsette hvis krysset er fritt."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Pilsignaler",
+"englishSubcategory":"Arrow Signals",
+"description":"Pilsignaler gjelder kun i retningen som pilen viser.\n\n En grønn pil tillater kun bevegelse i den retningen.\n\n En rød pil betyr at du ikke må fortsette i den retningen."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Vikeplikt og stoppskilt",
+"englishSubcategory":"Give Way & Stop Signs",
+"description":"Et vikepliktsskilt krever at sjåfører sakker ned og viker for all trafikk i konflikt.\n\n Et stoppskilt krever at sjåfører stopper helt og viker før de fortsetter.\n\n Sjåfører må følge skiltet selv om veien ser fri ut."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Filkontrollsignaler",
+"englishSubcategory":"Lane Control Signals",
+"description":"Filkontrollsignaler brukes over filer for å styre trafikkflyten.\n\n En grønn pil betyr at filen er åpen.\n\n Et rødt kryss eller en hvit X betyr at filen ikke må brukes."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Fotgjengersignaler",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Fotgjengersignaler indikerer når fotgjengere kan krysse veien.\n\n Førere må vike for fotgjengere som krysser når fotgjengersignalet tillater det."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Spesialskilt",
+"englishSubcategory":"Special Purpose Signs",
+"description":"Spesialskilt inkluderer skilt som skilt for delt sone, bussfelt og skolesone.\n\n Disse skiltene gjelder spesifikke regler som sjåfører må følge i disse områdene."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Trafikkskilt og -signaler",
+"subcategory":"Midlertidige skilt",
+"englishSubcategory":"Temporary Signs",
+"description":"Midlertidige skilt brukes i situasjoner som veiarbeid, ulykker eller spesielle hendelser.\n\n Sjåfører må følge midlertidige skilt selv om de avviker fra permanente skilt.\n\n Reduserte fartsgrenser gjelder ofte i områder med veiarbeid."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Fartsgrenser",
+"englishSubcategory":"Speed Limits",
+"description":"I Queensland er standard fartsgrense i bebygde områder 50 km/t med mindre annet er skiltet.\n\n Sjåfører må alltid sjekke oppsatte fartsskilt, da grensene kan endres.\n\n Maksimal fartsgrense i Queensland er 110 km/t med mindre en lavere grense er skiltet.\n\n Sjåfører må aldri overskride den oppsatte fartsgrensen."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Skolesoner",
+"englishSubcategory":"School Zones",
+"description":"Fartsgrensene i skolesonen gjelder i tidene som er vist på skiltene.\n\n Sjåfører må overholde den skiltede fartsgrensen i skolesonen selv om barn ikke er synlige."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Veiarbeid",
+"englishSubcategory":"Roadworks",
+"description":"Reduserte fartsgrenser gjelder i veiarbeidssoner fra det første skiltet for fartsreduksjon til et sluttskilt.\n\n Sjåfører må overholde disse grensene selv om det ikke er arbeidere til stede."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Følgende avstand",
+"englishSubcategory":"Following Distance",
+"description":"Under gode kjøreforhold bør sjåfører holde en minimumsavstand på minst to sekunder til føreren.\n\n Dette gir dem tid til å reagere og stoppe trygt."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Følgende avstand",
+"englishSubcategory":"Following Distance",
+"description":"Under våte eller dårlige forhold bør sjåfører øke følgeavstanden for å gi lengre bremselengde."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Stopplengde",
+"englishSubcategory":"Stopping Distance",
+"description":"Stopplengde inkluderer reaksjonslengde og bremselengde.\n\n Etter hvert som hastigheten øker, øker den totale stoppelengden betydelig."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Stopplengde",
+"englishSubcategory":"Stopping Distance",
+"description":"Våte, grusveis- eller glatte veier øker bremselengden.\n\n Førere må senke farten i henhold til veiforholdene."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Delte soner",
+"englishSubcategory":"Shared Zones",
+"description":"I delte soner er fartsgrensen 10 km/t.\n\n Sjåfører må være forberedt på å stoppe for fotgjengere til enhver tid."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Regler for hastighet og avstand",
+"subcategory":"Sjåførens ansvar",
+"englishSubcategory":"Driver Responsibility",
+"description":"Sjåfører er alltid ansvarlige for å kontrollere farten sin.\n\n Fartsvarselsystemer eller kjøretøyteknologi fjerner ikke dette ansvaret."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Generelle sjåføroppgaver",
+"englishSubcategory":"General Driver Duties",
+"description":"Sjåfører må alltid kjøre med tilbørlig forsiktighet og oppmerksomhet.\n\n Hvis du føler deg for sliten, uvel eller uskikket til å kjøre trygt, må du slutte å kjøre og hvile før du fortsetter."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Krasj og hendelser",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Hvis du er involvert i en ulykke som forårsaker skade eller død, må du stoppe, hjelpe til hvis mulig og kontakte nødetatene umiddelbart."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Generelle sjåføroppgaver",
+"englishSubcategory":"General Driver Duties",
+"description":"Før kjøring er føreren ansvarlig for å sørge for at kjøretøyet er i trafikksikkert og trygt å bruke."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Krasj og hendelser",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Hvis en kollisjon forårsaker materielle skader og eieren ikke er til stede, må du stoppe og legge igjen dine opplysninger eller anmelde kollisjonen til politiet."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Politiets veibeskrivelse",
+"englishSubcategory":"Police Directions",
+"description":"Sjåfører må fremvise førerkort eller oppgi sine opplysninger når en politibetjent ber om det."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Krasj og hendelser",
+"englishSubcategory":"Crashes & Incidents",
+"description":"En ulykke skal meldes til politiet når det er skade, død eller betydelig materiell skade."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Passasjerer",
+"englishSubcategory":"Passengers",
+"description":"Sjåfører er ansvarlige for å sørge for at alle passasjerer er riktig fastspent med sikkerhetsbelter eller godkjente sikkerhetsbelter."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Krasj og hendelser",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Etter en mindre ulykke uten skader, må sjåfører stoppe og utveksle detaljer med den andre involverte parten."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Generelle sjåføroppgaver",
+"englishSubcategory":"General Driver Duties",
+"description":"Hvis synet ditt blir svekket mens du kjører, må du slutte å kjøre inntil det er trygt å fortsette."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Sjåførens ansvar",
+"subcategory":"Krasj og hendelser",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Hvis en annen sjåfør forlater ulykkesstedet, bør du rapportere hendelsen til politiet så snart som mulig."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkohol, narkotika og helse",
+"subcategory":"Alkoholgrenser",
+"englishSubcategory":"Alcohol Limits",
+"description":"I Queensland er den maksimale alkoholkonsentrasjonen i blodet (BAC) for en innehaver av åpent førerkort 0,05.\n\n Lærlinge og midlertidige førere må ha en BAC på 0,00 til enhver tid."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkohol, narkotika og helse",
+"subcategory":"Alkoholeffekter",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkohol påvirker kjøreevnen fra første drink.\n\n Det senker reaksjonstiden, reduserer koordinasjonen og svekker dømmekraften."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkohol, narkotika og helse",
+"subcategory":"Narkotika og kjøring",
+"englishSubcategory":"Drugs & Driving",
+"description":"Det er en forbrytelse å kjøre bil med ulovlige rusmidler i kroppen i Queensland.\n\n Du kan bli siktet selv om du ikke føler deg påvirket."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkohol, narkotika og helse",
+"subcategory":"Narkotika og kjøring",
+"englishSubcategory":"Drugs & Driving",
+"description":"Veitester for narkotika påviser ofte cannabis, MDMA og metamfetamin.\n\n Politiet kan kreve en spyttprøve når som helst."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkohol, narkotika og helse",
+"subcategory":"Medisinering og kjøring",
+"englishSubcategory":"Medication & Driving",
+"description":"Noen reseptbelagte og reseptfrie medisiner kan påvirke evnen din til å kjøre.\n\n Sjekk alltid advarslene og unngå å kjøre hvis du er usikker."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Sikker kjørepraksis",
+"subcategory":"Defensiv kjøring",
+"englishSubcategory":"Defensive Driving",
+"description":"Defensiv kjøring betyr å forutse potensielle farer og andre trafikanters handlinger.\n\n Målet er å redusere risikoen for ulykker ved å planlegge fremover og opprettholde sikkerhetsmarginer.\n\n Et sentralt prinsipp for defensiv kjøring er å opprettholde en sikkerhetsbuffer rundt kjøretøyet ditt.\n\n Denne plassen gir tid til å reagere hvis trafikkforholdene endrer seg plutselig.\n\n Hvis en annen sjåfør oppfører seg aggressivt, er den sikreste reaksjonen å skape plass og unngå å bli aktivert.\n\n Ikke reager med aggressiv kjøring.\n\n Planlegging fremover hjelper sjåfører med å unngå bråbremsing eller skarp styring.\n\n Myke, tidlige beslutninger forbedrer kjøretøykontrollen og sikkerheten."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Sikker kjørepraksis",
+"subcategory":"Fareoppfatning",
+"englishSubcategory":"Hazard Perception",
+"description":"Fareoppfatning innebærer å identifisere potensielle farer tidlig og reagere før de blir kritiske.\n\n Sjåfører bør skanne godt fremover og til sidene, ikke bare kjøretøyet foran.\n\n Parkerte biler, fotgjengere, syklister og kryss er vanlige kilder til farer.\n\n Sjåfører bør være oppmerksomme på plutselige bevegelser eller endringer i trafikkflyten.\n\n Å sjekke speilene regelmessig hjelper sjåfører med å holde seg oppmerksomme på trafikken rundt.\n\n Denne bevisstheten er viktig for trygge filskift og bremsing."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Sikker kjørepraksis",
+"subcategory":"Veiforhold",
+"englishSubcategory":"Road Conditions",
+"description":"Veiforhold som regn, grus eller dårlig sikt krever at sjåfører reduserer farten.\n\n Sjåfører må tilpasse kjøringen til forholdene.\n\n Våte veier reduserer dekkenes grep og øker bremselengden.\n\n Sjåfører bør senke farten og øke følgeavstanden i vått føre.\n\n Redusert sikt på grunn av tåke, regn eller blending krever at sjåfører senker farten og øker følgeavstanden.\n\n Frontlykter bør brukes riktig for å forbedre sikten."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Kryss, svinger og rundkjøringer",
+"subcategory":"Vikeplass",
+"englishSubcategory":"Giving Way",
+"description":"I et ukontrollert kryss må en sjåfør vike for kjøretøy som nærmer seg fra høyre.\n\n Denne regelen gjelder når det ikke er trafikklys, stoppskilt eller vikepliktsskilt.\n\n I et T-kryss må sjåføren på den avsluttende veien vike for kjøretøy på den fortsettende veien.\n\n Når man kjører inn på en vei fra en innkjørsel eller gangsti, må sjåføren vike for alle kjøretøy og fotgjengere på veien."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Kryss, svinger og rundkjøringer",
+"subcategory":"Svinger",
+"englishSubcategory":"Turns",
+"description":"Når man svinger til venstre i et kryss, må sjåfører vike for fotgjengere som krysser veien de er på vei inn i.\n\n Når man svinger til høyre i et kryss, må man vike for møtende kjøretøy som kjører rett frem eller svinger til venstre.\n\n Når man foretar en U-sving, må man vike for alle andre kjøretøy og fotgjengere.\n\n Før man svinger i et kryss, må sjåfører gi signal og sjekke for trafikk, syklister og fotgjengere."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Kryss, svinger og rundkjøringer",
+"subcategory":"Rundkjøringer",
+"englishSubcategory":"Roundabouts",
+"description":"Når man kjører inn i en rundkjøring, må sjåfører vike for kjøretøy som allerede er i rundkjøringen.\n\n Sjåfører må blinke til venstre når de kjører ut av rundkjøringen for å informere andre trafikanter om at de har til hensikt å kjøre ut.\n\n Sjåfører bør nærme seg rundkjøringer i en hastighet som gjør at de kan vike trygt og stoppe om nødvendig."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Veimerkinger, kjørefelt og forbikjøring",
+"subcategory":"Veimerkinger",
+"englishSubcategory":"Road Markings",
+"description":"En enkelt sammenhengende midtlinje betyr at sjåfører ikke må krysse eller gå over streken.\n\n Kryssing er bare tillatt under svært begrensede omstendigheter, for eksempel ved inn- eller utkjøring fra en eiendom hvis det er tillatt.\n\n En stiplet midtlinje indikerer at sjåfører kan krysse streken når det er trygt å gjøre det.\n\n Dette brukes ofte til forbikjøring eller svinging.\n\n En dobbel sammenhengende midtlinje betyr at sjåfører ikke må krysse eller gå over streken under noen omstendigheter.\n\n Hvite kantlinjer markerer kanten av kjørebanen og hjelper sjåfører med å identifisere det trafikkerbare området på veien."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Veimerkinger, kjørefelt og forbikjøring",
+"subcategory":"Forbikjøring",
+"englishSubcategory":"Overtaking",
+"description":"Forbikjøring er forbudt når det er utrygt, eller når skilt eller veimerking forbyr det.\n\n Førere må alltid vurdere sikten og møtende trafikk før de forbikjører.\n\n Føreren som forbikjører er fullt ansvarlig for å sikre at manøveren kan fullføres på en sikker måte.\n\n Ved forbikjøring av en syklist må føreren sørge for tilstrekkelig sideveis klaring for å ivareta syklistens sikkerhet."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Veimerkinger, kjørefelt og forbikjøring",
+"subcategory":"Baner",
+"englishSubcategory":"Lanes",
+"description":"Før de bytter fil, må sjåfører gi signal og vike for kjøretøy som allerede er i filen de beveger seg inn i.\n\n Et fil merket med et sykkelsymbol indikerer et sykkelfelt som er reservert for syklister.\n\n Sjåfører må ikke kjøre i et sykkelfelt med mindre det er tillatt.\n\n Bussfelt merket med skilt og veimerkinger kan kun brukes av tillatte kjøretøy.\n\n Sjåfører må overholde driftstidene som er vist på skilt."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Stopp, parkering og veiregler",
+"subcategory":"Parkeringsrestriksjoner",
+"englishSubcategory":"Parking Restrictions",
+"description":"Det er utrygt å parkere for nært et hjørne fordi det blokkerer sikten for sjåfører og fotgjengere.\n\n Parkering på feil side av veien mot trafikken er utrygt og kan være ulovlig i mange situasjoner.\n\n Det er forbudt å stoppe eller parkere på et fotgjengerfelt fordi det setter fotgjengere i fare og blokkerer sikten."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Stopp, parkering og veiregler",
+"subcategory":"Stoppregler",
+"englishSubcategory":"Stopping Rules",
+"description":"Før du åpner døren etter å ha parkert i nærheten av trafikk, må du sjekke speil og blindsoner.\n\n Dette bidrar til å forhindre kollisjoner med kjøretøy, syklister eller andre trafikanter.\n\n Ved et stoppskilt må sjåfører stoppe helt ved stopplinjen eller før de kjører inn i krysset.\n\n Du bør bare rygge eller justere posisjonen ved trafikklys hvis det er trygt og ikke setter andre trafikanter i fare."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Fotgjengere, syklister og sårbare trafikanter",
+"subcategory":"Fotgjengere",
+"englishSubcategory":"Pedestrians",
+"description":"Ved fotgjengeroverganger uten trafikklys må sjåfører som nærmer seg overgangen vike for fotgjengere som er på eller kommer inn i overgangen.\n\n Ved trafikklys må sjåfører vike for fotgjengere som har grønt signal for fotgjengere."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Fotgjengere, syklister og sårbare trafikanter",
+"subcategory":"Syklister",
+"englishSubcategory":"Cyclists",
+"description":"Når man forbikjører en syklist, må sjåfører sørge for tilstrekkelig sideveis klaring for å ivareta syklistens sikkerhet.\n\n Syklister er legitime trafikanter og kan sykle på veien, i sykkelfelt eller på delte stier der det er tillatt."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Fotgjengere, syklister og sårbare trafikanter",
+"subcategory":"Delte soner",
+"englishSubcategory":"Shared Zones",
+"description":"I delte soner har fotgjengere prioritet fremfor kjøretøy, og sjåfører må kjøre i svært lav hastighet."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Fotgjengere, syklister og sårbare trafikanter",
+"subcategory":"Eldre og funksjonshemmede",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Eldre eller funksjonshemmede fotgjengere kan bevege seg sakte eller ha redusert oppmerksomhet, noe som krever at sjåfører beregner ekstra tid og plass.\n\n Når de nærmer seg fotgjengere med hvit stokk eller førerhund, bør sjåfører senke farten og være forberedt på å stoppe."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Spesielle situasjoner og veimiljøer",
+"subcategory":"Værforhold",
+"englishSubcategory":"Weather Conditions",
+"description":"Når man kjører i kraftig regn, bør sjåfører redusere farten og øke følgeavstanden.\n\n Regn reduserer sikten og dekkenes grep, noe som øker bremselengdene.\n\n Det er farlig å kjøre gjennom flomvann fordi veiens dybde og tilstand kan være ukjent.\n\n Flomvann kan vaske bort kjøretøy eller skjule veiskader.\n\n Tåke reduserer sikten betydelig.\n\n Sjåfører bør senke farten, bruke nærlys og være forberedt på å stoppe.\n\n Sterk vind kan påvirke kjøretøyets stabilitet, spesielt for kjøretøy med høye sider.\n\n Sjåfører bør redusere farten og opprettholde god styring.\n\n Vannplaning oppstår når dekkene mister kontakten med veibanen på grunn av vann.\n\n Sjåfører bør lette på pedalene og styre jevnt hvis dette skjer."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Spesielle situasjoner og veimiljøer",
+"subcategory":"Landlig kjøring",
+"englishSubcategory":"Rural Driving",
+"description":"På landeveier kan dyr uventet komme ut på veien.\n\n Sjåfører bør være årvåkne og være forberedt på å senke farten eller stoppe.\n\n Nattkjøring på landeveier er farlig på grunn av redusert sikt og økt dyrelivsaktivitet.\n\n Hvis et dyr plutselig dukker opp på veien, bør sjåfører bremse bestemt og styre trygt uten å svinge farlig unna."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Spesielle situasjoner og veimiljøer",
+"subcategory":"Veiarbeid",
+"englishSubcategory":"Roadworks",
+"description":"Når sjåfører nærmer seg veiarbeid, må de følge midlertidige skilt og reduserte fartsgrenser.\n\n Disse reglene gjelder selv om arbeidere ikke er synlige.\n\n Midlertidige fartsgrenser ved veiarbeid finnes for å beskytte arbeidere og trafikanter.\n\n Sjåfører må ikke overskride disse grensene."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Utrykningskjøretøy og politiets veibeskrivelse",
+"subcategory":"Utrykningskjøretøy",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Når et utrykningskjøretøy nærmer seg med blinkende lys eller sirener, må sjåfører kjøre trygt unna og la det passere.\n\n På veier med flere kjørefelt bør sjåfører blinke og kjøre til et fritt kjørefelt eller til venstre der det er mulig, slik at utrykningskjøretøy kan passere.\n\n Hvis de stopper ved trafikklys og et utrykningskjøretøy nærmer seg bakfra, kan sjåfører kjøre forsiktig forbi stopplinjen hvis det er trygt å gjøre det.\n\n Sjåfører må aldri blokkere veien for et utrykningskjøretøy, uavhengig av veitype eller trafikkforhold.\n\n Hvis du ikke umiddelbart kan kjøre til side for et utrykningskjøretøy, fortsett å kjøre trygt til du kan stoppe uten å skape fare.\n\n Når du passerer et stoppet utrykningskjøretøy med blinkende lys, bør sjåfører senke farten og kjøre forsiktig."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Utrykningskjøretøy og politiets veibeskrivelse",
+"subcategory":"Politiets veibeskrivelse",
+"englishSubcategory":"Police Directions",
+"description":"Sjåfører må følge anvisninger gitt av politibetjenter eller autoriserte trafikkontrollører, selv om de er i konflikt med veiskilt eller signaler.\n\n En politibetjent eller autorisert trafikkontrollør har juridisk myndighet til å dirigere trafikken annerledes enn skilt eller signaler.\n\n Hvis politiet ber deg om å stoppe, svinge, kjøre om eller parkere, må du etterkomme dette på en sikker måte og så snart som mulig.\n\n Å unnlate å følge en lovlig politianvisning er en forbrytelse og kan føre til bøter, prikker eller inndragning av førerkortet."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Sikkerhetsbelter, barneseter og passasjerer",
+"subcategory":"Sikkerhetsbelter",
+"englishSubcategory":"Seatbelts",
+"description":"I Queensland er føreren juridisk ansvarlig for å sørge for at alle passasjerer under 16 år bruker sikkerhetsbelte eller godkjent sikkerhetsbelte.\n\n Sikkerhetsbelter må brukes til enhver tid når kjøretøyet er i bevegelse hvis sikkerhetsbelte er montert.\n\n Sikkerhetsbeltet bør brukes godt over skulderen og lavt over hoftene for å redusere risikoen for skade i en kollisjon.\n\n Sikkerhetsbelter må ikke brukes feil, for eksempel under armen eller vridd, da dette øker risikoen for alvorlig skade betraktelig."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Sikkerhetsbelter, barneseter og passasjerer",
+"subcategory":"Barnesikringsutstyr",
+"englishSubcategory":"Child Restraints",
+"description":"Spedbarn må festes i et godkjent bakovervendt barnesete fordi det gir best beskyttelse for hode og nakke.\n\n Barn bør bare flyttes fra et barnesete til et voksenbelte når de oppfyller minimumskravene til alder og størrelse.\n\n Barneseter må monteres og justeres riktig fordi feil montering reduserer beskyttelsen betydelig i en kollisjon."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Sikkerhetsbelter, barneseter og passasjerer",
+"subcategory":"Passasjerer",
+"englishSubcategory":"Passengers",
+"description":"Usikrede passasjerer kan bli alvorlig skadet eller forårsake skade på andre i en kollisjon på grunn av ukontrollert bevegelse.\n\n Hvis en passasjer distraherer sjåføren, er den sikreste handlingen å be dem om å stoppe slik at sjåføren kan fokusere på å kjøre trygt.\n\n Passasjerer bør alltid sjekke for trafikk og syklister før de åpner bildørene for å forhindre kollisjoner og skader."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Grunnleggende om kjøretøysikkerhet, defekter og vedlikehold",
+"subcategory":"Dekk",
+"englishSubcategory":"Tyres",
+"description":"For lite luft i dekkene reduserer håndteringen og øker bremselengden. De øker også varmeoppbyggingen og kan øke risikoen for dekkhavari. Dekk bør kontrolleres regelmessig for mønsterdybde og riktig dekktrykk. Godt mønster bidrar til å opprettholde grepet, spesielt under våte forhold."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Grunnleggende om kjøretøysikkerhet, defekter og vedlikehold",
+"subcategory":"Lys",
+"englishSubcategory":"Lights",
+"description":"Frontlyktene må fungere om natten og når sikten er dårlig.\n\n Arbeidslys hjelper deg med å se farer og andre trafikanter med å se deg.\n\n Bremselys er viktige fordi de varsler andre sjåfører om at du bremser eller bremser.\n\n Defekte bremselys øker risikoen for påkjørsler bakfra."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Grunnleggende om kjøretøysikkerhet, defekter og vedlikehold",
+"subcategory":"Generelt vedlikehold",
+"englishSubcategory":"General Maintenance",
+"description":"Føreren er ansvarlig for å sørge for at et kjøretøy er i trafikksikker stand.\n\n Regelmessige kontroller og service bidrar til å identifisere og løse sikkerhetsproblemer tidlig."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Last, tauing og bevissthet om tunge kjøretøy",
+"subcategory":"Laster",
+"englishSubcategory":"Loads",
+"description":"Last må sikres slik at den ikke kan falle eller bevege seg og skape fare for andre trafikanter.\n\n En utrygg last kan forårsake ulykker, skader og materielle ..."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Last, tauing og bevissthet om tunge kjøretøy",
+"subcategory":"Tauing",
+"englishSubcategory":"Towing",
+"description":"Å tau en tilhenger øker bremselengden fordi kjøretøyet har ekstra vekt som må bremses ned.\n\n Sjåfører bør gi mer plass og bremse tidligere.\n\n Før tauing bør sjåfører kontrollere koblingen, tilhengerlysene, sikkerhetskjettingen og at lasten er sikret.\n\n Tauing med feil kan føre til løsriving eller kollisjoner.\n\n Hvis en tilhenger begynner å svinge, er den sikreste reaksjonen å lette på gasspedalen og holde styringen stødig.\n\n Hard bremsing eller akselerasjon kan forverre svingen."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Last, tauing og bevissthet om tunge kjøretøy",
+"subcategory":"Tunge kjøretøy",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Tunge kjøretøy trenger mye lengre tid på å stoppe enn biler.\n\n Å kjøre foran en lastebil fjerner stoppeplassen og kan forårsake alvorlige ulykker.\n\n Lastebiler har store blindsoner tett ved siden av og rett bak seg.\n\n Unngå å kjøre i disse områdene fordi sjåføren kanskje ikke ser deg.\n\n Lastebiler kan trenge ekstra plass og kan svinge bredt, spesielt i nærheten av kryss.\n\n Det er utrygt å forbikjøre en lastebil rett før et kryss."
+}
+]

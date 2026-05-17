@@ -1,0 +1,586 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Trafikregler och lagar",
+"subcategory":"Rättslig myndighet på vägar",
+"englishSubcategory":"Legal Authority on Roads",
+"description":"Trafikregler i Queensland är lagar som alla trafikanter måste följa.\n\n Förare måste följa trafikskyltar, trafikljus, vägmarkeringar och trafikregler hela tiden.\n\n Poliser och auktoriserade trafikledare har laglig befogenhet att dirigera trafiken.\n\n Om en anvisning från en polis eller trafikledare strider mot en skylt eller signal måste anvisningen följas.\n\n Att underlåta att följa en laglig anvisning är ett brott."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Trafikregler och lagar",
+"subcategory":"Förarens ansvar",
+"englishSubcategory":"Driver Responsibility",
+"description":"Förare är juridiskt ansvariga för att köra med vederbörlig försiktighet och uppmärksamhet hela tiden.\n\n En förare får inte köra vårdslöst, farligt eller oaktsamt.\n\n Förare måste vidta rimliga åtgärder för att undvika olyckor och minska risken för andra.\n\n Föraren är ansvarig för säker körning av sitt fordon under alla förhållanden."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Trafikregler och lagar",
+"subcategory":"Vika",
+"englishSubcategory":"Giving Way",
+"description":"Att ge företräde innebär att sakta ner och stanna om det är nödvändigt för att undvika en kollision.\n\n Förare måste lämna företräde när det krävs enligt skyltar, trafikregler eller trafikförhållanden.\n\n En förare som kör in på en väg från en uppfart, parkeringsplats eller gångväg måste väja för alla fordon och fotgängare.\n\n Att underlåta att lämna företräde när det krävs är ett brott."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Trafikregler och lagar",
+"subcategory":"Korsningar",
+"englishSubcategory":"Intersections",
+"description":"I korsningar måste förare följa trafikljus, skyltar och vägmarkeringar.\n\n Om det inte finns några skyltar eller signaler måste förarna väja enligt Queenslands trafikregler.\n\n Förare som svänger höger måste väja för mötande trafik som kör rakt fram eller svänger vänster.\n\n Fotgängare måste också prioriteras där det krävs."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Trafikregler och lagar",
+"subcategory":"Rondeller",
+"englishSubcategory":"Roundabouts",
+"description":"När man närmar sig en rondell måste förare väja för fordon som redan finns i rondellen.\n\n Förare måste väja för fordon som närmar sig från höger.\n\n Korrekt signalering krävs vid in- och utkörning ur rondeller.\n\n Underlåtenhet att väja i en rondell kan orsaka allvarliga kollisioner."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Trafikregler och lagar",
+"subcategory":"Trafiksignaler",
+"englishSubcategory":"Traffic Signals",
+"description":"Trafikljus kontrollerar fordons och fotgängares rörelse.\n\n Ett rött ljus betyder att du ska stanna och förbli stillastående.\n\n Ett gult ljus betyder att du ska stanna om det är säkert att göra det.\n\n Ett grönt ljus tillåter dig att fortsätta, men du måste fortfarande lämna företräde där det krävs."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Trafikregler och lagar",
+"subcategory":"U-svängar",
+"englishSubcategory":"U-Turns",
+"description":"U-svängar är tillåtna i Queensland om inte en skylt förbjuder dem.\n\n Förare måste se till att U-svängaren kan genomföras på ett säkert sätt.\n\n En förare som gör en U-svängar måste lämna företräde för alla andra fordon och fotgängare.\n\n U-svängar får inte göras där sikten är begränsad eller osäker."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Trafikregler och lagar",
+"subcategory":"Fotgängare",
+"englishSubcategory":"Pedestrians",
+"description":"Förare måste väja för fotgängare på övergångsställen.\n\n När man svänger i en korsning måste förare väja för fotgängare som korsar vägen man kör in på.\n\n Extra försiktighet krävs nära skolor, shoppingområden och hållplatser för kollektivtrafik."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Trafikregler och lagar",
+"subcategory":"Utryckningsfordon",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Förare måste väja för utryckningsfordon med blinkande ljus eller sirener.\n\n Detta kan kräva att man saktar ner, rör sig åt sidan eller stannar om det behövs.\n\n Förare får inte hindra utryckningsfordonens väg eller följa dem noggrant."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Trafikregler och lagar",
+"subcategory":"Lyda vägskyltar",
+"englishSubcategory":"Obeying Road Signs",
+"description":"Trafikskyltar ger lagliga instruktioner och varningar till trafikanter.\n\n Förare måste följa föreskrivna skyltar som stopp, väjningsskylt och hastighetsbegränsningsskyltar.\n\n Varningsskyltar varnar förare för potentiella faror framöver.\n\n Att ignorera vägskyltar är ett brott mot trafiklagen."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Trafikskyltar och signaler",
+"subcategory":"Reglerande skyltar",
+"englishSubcategory":"Regulatory Signs",
+"description":"Regleringsskyltar ger instruktioner som förare måste följa enligt lag.\n\n Dessa inkluderar skyltar som Stopp, Väj förbi, Infart förbjuden, Parkering förbjuden och hastighetsbegränsningsskyltar.\n\n Att underlåta att följa en regleringsskylt är ett brott."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Trafikskyltar och signaler",
+"subcategory":"Varningsskyltar",
+"englishSubcategory":"Warning Signs",
+"description":"Varningsskyltar varnar förare för potentiella faror eller förändringar i vägförhållandena framöver.\n\n De är vanligtvis gula och diamantformade.\n\n Förare bör sakta ner och förbereda sig för att reagera på ett säkert sätt."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Trafikskyltar och signaler",
+"subcategory":"Hastighetsskyltar",
+"englishSubcategory":"Speed Signs",
+"description":"Hastighetsskyltar visar den högsta tillåtna hastigheten för en väg eller ett område.\n\n Förare får inte överskrida den angivna hastighetsgränsen.\n\n Hastighetsgränserna kan ändras beroende på förhållanden som vägarbeten eller skolzoner."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Trafikskyltar och signaler",
+"subcategory":"Trafikljus",
+"englishSubcategory":"Traffic Lights",
+"description":"Trafikljus styr trafiken i korsningar.\n\n Ett rött ljus betyder stopp.\n\n Ett gult ljus betyder stopp om det är säkert att göra det.\n\n Ett grönt ljus betyder att du får fortsätta om korsningen är fri."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Trafikskyltar och signaler",
+"subcategory":"Pilsignaler",
+"englishSubcategory":"Arrow Signals",
+"description":"Pilsignaler gäller endast i den riktning som pilen visar.\n\n En grön pil tillåter endast rörelse i den riktningen.\n\n En röd pil betyder att du inte får köra i den riktningen."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Trafikskyltar och signaler",
+"subcategory":"Väjningsskyltar och stoppskyltar",
+"englishSubcategory":"Give Way & Stop Signs",
+"description":"En väjningsskylt kräver att förare saktar ner och lämnar företräde för all trafik i konflikt.\n\n En stoppskylt kräver att förare stannar helt och lämnar företräde innan de fortsätter.\n\n Förare måste lyda skylten även om vägen verkar fri."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Trafikskyltar och signaler",
+"subcategory":"Filkontrollsignaler",
+"englishSubcategory":"Lane Control Signals",
+"description":"Filkontrollsignaler används ovanför filer för att hantera trafikflödet.\n\n En grön pil betyder att filen är öppen.\n\n Ett rött kors eller vitt X betyder att filen inte får användas."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Trafikskyltar och signaler",
+"subcategory":"Fotgängarsignaler",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Fotgängarsignaler indikerar när fotgängare får gå över vägen.\n\n Förare måste lämna företräde för fotgängare som går över vägen när fotgängarsignalen tillåter dem att göra det."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Trafikskyltar och signaler",
+"subcategory":"Skyltar för speciella ändamål",
+"englishSubcategory":"Special Purpose Signs",
+"description":"Skyltar med särskilda ändamål inkluderar skyltar som skyltar för delad zon, bussfil och skolzon.\n\n Dessa skyltar gäller specifika regler som förare måste följa i dessa områden."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Trafikskyltar och signaler",
+"subcategory":"Tillfälliga skyltar",
+"englishSubcategory":"Temporary Signs",
+"description":"Tillfälliga skyltar används vid situationer som vägarbeten, olyckor eller speciella händelser.\n\n Förare måste följa tillfälliga skyltar även om de skiljer sig från permanenta skyltar.\n\n Sänkta hastighetsgränser gäller ofta i områden med vägarbeten."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Regler för hastighet och avstånd",
+"subcategory":"Hastighetsgränser",
+"englishSubcategory":"Speed Limits",
+"description":"I Queensland är standardhastighetsgränsen i tätbebyggda områden 50 km/h om inte annat är skyltat.\n\n Förare måste alltid kontrollera skyltar med hastighetsbegränsningar eftersom hastighetsgränserna kan ändras.\n\n Den högsta hastighetsgränsen i Queensland är 110 km/h om inte en lägre hastighetsgräns är skyltad.\n\n Förare får aldrig överskrida den skyltade hastighetsgränsen."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Regler för hastighet och avstånd",
+"subcategory":"Skolzoner",
+"englishSubcategory":"School Zones",
+"description":"Hastighetsbegränsningar i skolzonen gäller under de tider som visas på skyltarna.\n\n Förare måste följa den skyltade hastighetsbegränsningen i skolzonen även om barn inte är synliga."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Regler för hastighet och avstånd",
+"subcategory":"Vägarbeten",
+"englishSubcategory":"Roadworks",
+"description":"Hastighetsbegränsningar gäller i vägarbetszoner från den första hastighetsbegränsningsskylten till en slutskylt.\n\n Förare måste följa dessa begränsningar även om det inte finns någon arbetare närvarande."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Regler för hastighet och avstånd",
+"subcategory":"Följande avstånd",
+"englishSubcategory":"Following Distance",
+"description":"Under goda körförhållanden bör förare hålla ett avstånd på minst två sekunder framför fordonet.\n\n Detta ger tid att reagera och stanna säkert."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Regler för hastighet och avstånd",
+"subcategory":"Följande avstånd",
+"englishSubcategory":"Following Distance",
+"description":"Vid våta eller dåliga förhållanden bör förare öka sitt följaravstånd för att möjliggöra längre stoppsträckor."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Regler för hastighet och avstånd",
+"subcategory":"Stoppsträcka",
+"englishSubcategory":"Stopping Distance",
+"description":"Stoppsträckan inkluderar reaktionssträcka och bromssträcka.\n\n När hastigheten ökar ökar den totala stoppsträckan avsevärt."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Regler för hastighet och avstånd",
+"subcategory":"Stoppsträcka",
+"englishSubcategory":"Stopping Distance",
+"description":"Våta, grusiga eller hala vägar ökar bromssträckan.\n\n Förare måste sakta ner för att anpassa sig till vägförhållandena."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Regler för hastighet och avstånd",
+"subcategory":"Delade zoner",
+"englishSubcategory":"Shared Zones",
+"description":"I delade zoner är hastighetsgränsen 10 km/h.\n\n Förare måste vara beredda att stanna för fotgängare hela tiden."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Regler för hastighet och avstånd",
+"subcategory":"Förarens ansvar",
+"englishSubcategory":"Driver Responsibility",
+"description":"Förare är alltid ansvariga för att kontrollera sin hastighet.\n\n Hastighetsvarningssystem eller fordonsteknik fråntar inte detta ansvar."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Förarens ansvar",
+"subcategory":"Allmänna föraruppgifter",
+"englishSubcategory":"General Driver Duties",
+"description":"Förare måste alltid köra med vederbörlig försiktighet och uppmärksamhet.\n\n Om du känner dig för trött, sjuk eller olämplig att köra säkert måste du sluta köra och vila innan du fortsätter."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Förarens ansvar",
+"subcategory":"Krascher och incidenter",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Om du är inblandad i en olycka som orsakar skada eller dödsfall måste du stanna, hjälpa till om möjligt och omedelbart kontakta räddningstjänsten."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Förarens ansvar",
+"subcategory":"Allmänna föraruppgifter",
+"englishSubcategory":"General Driver Duties",
+"description":"Innan körning är föraren ansvarig för att fordonet är i trafiksäkert skick och säkert att framföra."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Förarens ansvar",
+"subcategory":"Krascher och incidenter",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Om en olycka orsakar egendomsskador och ägaren inte är närvarande måste du stanna och lämna dina uppgifter eller anmäla olyckan till polisen."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Förarens ansvar",
+"subcategory":"Polisens anvisningar",
+"englishSubcategory":"Police Directions",
+"description":"Förare måste visa upp sitt körkort eller lämna sina uppgifter när en polis begär det."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Förarens ansvar",
+"subcategory":"Krascher och incidenter",
+"englishSubcategory":"Crashes & Incidents",
+"description":"En olycka ska anmälas till polisen när det har inträffat personskador, dödsfall eller betydande egendomsskador."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Förarens ansvar",
+"subcategory":"Passagerare",
+"englishSubcategory":"Passengers",
+"description":"Förare är ansvariga för att alla passagerare är korrekt fastspända med säkerhetsbälten eller godkända säkerhetsbälten."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Förarens ansvar",
+"subcategory":"Krascher och incidenter",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Efter en mindre olycka utan personskador måste förarna stanna och utbyta information med den andra inblandade parten."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Förarens ansvar",
+"subcategory":"Allmänna föraruppgifter",
+"englishSubcategory":"General Driver Duties",
+"description":"Om din syn försämras under körning måste du sluta köra tills det är säkert att fortsätta."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Förarens ansvar",
+"subcategory":"Krascher och incidenter",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Om en annan förare lämnar olycksplatsen bör du anmäla händelsen till polisen så snart som möjligt."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkohol, droger och hälsa",
+"subcategory":"Alkoholgränser",
+"englishSubcategory":"Alcohol Limits",
+"description":"I Queensland är den maximala alkoholhalten i blodet (BAC) för en innehavare av öppet körkort 0,05.\n\n Elevförare och tillfälliga förare måste ha en BAC på 0,00 hela tiden."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkohol, droger och hälsa",
+"subcategory":"Alkoholpåverkan",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkohol påverkar körförmågan från första drinken.\n\n Det saktar ner reaktionstiden, minskar koordinationen och försämrar omdömet."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkohol, droger och hälsa",
+"subcategory":"Droger och bilkörning",
+"englishSubcategory":"Drugs & Driving",
+"description":"Att köra bil med illegala droger i kroppen är ett brott i Queensland.\n\n Du kan bli åtalad även om du inte känner dig påverkad."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkohol, droger och hälsa",
+"subcategory":"Droger och bilkörning",
+"englishSubcategory":"Drugs & Driving",
+"description":"Drogtest vid vägkanten upptäcker vanligtvis cannabis, MDMA och metamfetamin.\n\n Polisen kan kräva ett salivtest när som helst."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkohol, droger och hälsa",
+"subcategory":"Medicinering och körning",
+"englishSubcategory":"Medication & Driving",
+"description":"Vissa receptbelagda och receptfria läkemedel kan påverka din förmåga att köra bil.\n\n Läs alltid varningarna och undvik att köra bil om du är osäker."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Säker körning",
+"subcategory":"Defensiv körning",
+"englishSubcategory":"Defensive Driving",
+"description":"Defensiv körning innebär att förutse potentiella faror och andra trafikanters handlingar.\n\n Målet är att minska olycksrisken genom att planera i förväg och bibehålla säkerhetsmarginaler.\n\n En nyckelprincip för defensiv körning är att upprätthålla en säkerhetsbuffert runt ditt fordon.\n\n Detta utrymme ger tid att reagera om trafikförhållandena plötsligt ändras.\n\n Om en annan förare beter sig aggressivt är den säkraste reaktionen att skapa utrymme och undvika kollision.\n\n Reagera inte med aggressiv körning.\n\n Att planera i förväg hjälper förare att undvika plötslig inbromsning eller skarp styrning.\n\n Smidiga, tidiga beslut förbättrar fordonskontrollen och säkerheten."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Säker körning",
+"subcategory":"Riskuppfattning",
+"englishSubcategory":"Hazard Perception",
+"description":"Att upptäcka faror innebär att identifiera potentiella faror tidigt och reagera innan de blir kritiska.\n\n Förare bör skanna långt framåt och åt sidorna, inte bara fordonet framför.\n\n Parkerade bilar, fotgängare, cyklister och korsningar är vanliga källor till faror.\n\n Förare bör vara uppmärksamma på plötsliga rörelser eller förändringar i trafikflödet.\n\n Att kontrollera speglar regelbundet hjälper förarna att hålla sig medvetna om omgivande trafik.\n\n Denna medvetenhet är avgörande för säkra filbyten och inbromsning."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Säker körning",
+"subcategory":"Vägförhållanden",
+"englishSubcategory":"Road Conditions",
+"description":"Vägförhållanden som regn, grus eller dålig sikt kräver att förare minskar hastigheten.\n\n Förare måste anpassa sin körning efter förhållandena.\n\n Våta vägar minskar däckgreppet och ökar stoppsträckan.\n\n Förare bör sakta ner och öka följaravståndet i vått väglag.\n\n Minskad sikt på grund av dimma, regn eller bländning kräver att förare saktar ner och ökar följaravståndet.\n\n Strålkastare bör användas på lämpligt sätt för att förbättra sikten."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Korsningar, svängar och rondeller",
+"subcategory":"Vika",
+"englishSubcategory":"Giving Way",
+"description":"Vid en okontrollerad korsning måste en förare väja för fordon som närmar sig från höger.\n\n Denna regel gäller när det inte finns några trafikljus, stoppskyltar eller väjningsskyltar.\n\n Vid en T-korsning måste föraren på den avslutande vägen väja för fordon på den fortsatta vägen.\n\n När föraren kör in på en väg från en uppfart eller gångväg måste föraren väja för alla fordon och fotgängare på vägen."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Korsningar, svängar och rondeller",
+"subcategory":"Vändningar",
+"englishSubcategory":"Turns",
+"description":"När förare svänger vänster i en korsning måste de väja för fotgängare som korsar vägen de är på väg in på.\n\n När förare svänger höger i en korsning måste de väja för mötande fordon som kör rakt fram eller svänger vänster.\n\n Vid en U-sväng måste föraren väja för alla andra fordon och fotgängare.\n\n Innan föraren svänger i en korsning måste hen signalera och kontrollera trafik, cyklister och fotgängare."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Korsningar, svängar och rondeller",
+"subcategory":"Rondeller",
+"englishSubcategory":"Roundabouts",
+"description":"När förare kör in i en rondell måste de lämna företräde för fordon som redan finns i rondellen.\n\n Förare måste blinka vänster när de kör ut ur rondellen för att informera andra trafikanter om att de avser att lämna.\n\n Förare bör närma sig rondeller i en hastighet som gör att de kan lämna företräde på ett säkert sätt och stanna om det behövs."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Vägmarkeringar, körfält och omkörningar",
+"subcategory":"Vägmarkeringar",
+"englishSubcategory":"Road Markings",
+"description":"En enda sammanhängande mittlinje innebär att förare inte får korsa eller gränsla över linjen.\n\n Korsning är endast tillåten under mycket begränsade omständigheter, till exempel vid körning in på eller ut ur en fastighet om det är tillåtet.\n\n En streckad mittlinje indikerar att förare får korsa linjen när det är säkert att göra det.\n\n Detta används vanligtvis för omkörning eller svängning.\n\n En dubbel sammanhängande mittlinje innebär att förare inte får korsa eller gränsla över linjerna under några omständigheter.\n\n Vita kantlinjer markerar vägkanten och hjälper förare att identifiera det trafikerade området på vägen."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Vägmarkeringar, körfält och omkörningar",
+"subcategory":"Omkörning",
+"englishSubcategory":"Overtaking",
+"description":"Omkörning är förbjuden när det är osäkert eller när skyltar eller vägmarkeringar förbjuder det.\n\n Förare måste alltid bedöma sikten och mötande trafik innan de kör om.\n\n Den omkörande föraren är fullt ansvarig för att säkerställa att manövern kan genomföras säkert.\n\n Vid omkörning av en cyklist måste föraren lämna tillräckligt med sidoutrymme för att garantera cyklistens säkerhet."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Vägmarkeringar, körfält och omkörningar",
+"subcategory":"Körfält",
+"englishSubcategory":"Lanes",
+"description":"Innan förare byter fil måste de signalera sin avsikt och väja för fordon som redan finns i det fil de rör sig in i.\n\n Ett fil markerat med en cykelsymbol indikerar ett cykelfält som är reserverat för cyklister.\n\n Förare får inte köra i ett cykelfält om det inte är tillåtet.\n\n Bussfiler markerade med skyltar och vägmarkeringar får endast användas av tillåtna fordon.\n\n Förare måste följa de öppettider som visas på skyltarna."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Stopp, parkering och vägkantsregler",
+"subcategory":"Parkeringsrestriktioner",
+"englishSubcategory":"Parking Restrictions",
+"description":"Att parkera för nära ett hörn är osäkert eftersom det blockerar sikten för förare och fotgängare.\n\n Parkering på fel sida av vägen mot trafiken är osäkert och kan vara olagligt i många situationer.\n\n Att stanna eller parkera på ett övergångsställe är förbjudet eftersom det äventyrar fotgängare och blockerar sikten."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Stopp, parkering och vägkantsregler",
+"subcategory":"Stoppregler",
+"englishSubcategory":"Stopping Rules",
+"description":"Innan du öppnar dörren efter att ha parkerat nära trafik måste du kontrollera speglar och döda vinklar.\n\n Detta hjälper till att förhindra kollisioner med fordon, cyklister eller andra trafikanter.\n\n Vid en stoppskylt måste förare stanna helt vid stopplinjen eller innan de kör in i korsningen.\n\n Du bör bara backa eller justera positionen vid trafikljus om det är säkert och inte äventyrar andra trafikanter."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Fotgängare, cyklister och oskyddade trafikanter",
+"subcategory":"Fotgängare",
+"englishSubcategory":"Pedestrians",
+"description":"Vid övergångsställen utan trafikljus måste förare som närmar sig övergångsstället väja för fotgängare som befinner sig på eller kommer in i övergångsstället.\n\n Vid trafikljus måste förare väja för fotgängare som har grön signal för gångtrafikanter."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Fotgängare, cyklister och oskyddade trafikanter",
+"subcategory":"Cyklister",
+"englishSubcategory":"Cyclists",
+"description":"Vid omkörning av cyklister måste förare lämna tillräckligt med sidoutrymme för att säkerställa cyklistens säkerhet.\n\n Cyklister är legitima trafikanter och får cykla på vägen, i cykelbanor eller på delade stigar där det är tillåtet."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Fotgängare, cyklister och oskyddade trafikanter",
+"subcategory":"Delade zoner",
+"englishSubcategory":"Shared Zones",
+"description":"I delade zoner har fotgängare företräde framför fordon och förare måste färdas i mycket låga hastigheter."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Fotgängare, cyklister och oskyddade trafikanter",
+"subcategory":"Äldre och funktionshindrade",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Äldre eller funktionshindrade fotgängare kan röra sig långsamt eller ha minskad uppmärksamhet, vilket kräver att förare avsätter extra tid och utrymme.\n\n När de närmar sig fotgängare med vit käpp eller ledarhund bör förare sakta ner och vara beredda att stanna."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Särskilda situationer och vägmiljöer",
+"subcategory":"Väderförhållanden",
+"englishSubcategory":"Weather Conditions",
+"description":"Vid körning i kraftigt regn bör förare minska hastigheten och öka avståndet framför vägen.\n\n Regn minskar sikten och däckgreppet, vilket ökar stoppsträckorna.\n\n Att köra genom översvämningar är farligt eftersom vägens djup och skick kan vara okänt.\n\n Översvämningar kan spola bort fordon eller dölja vägskador.\n\n Dimma minskar sikten avsevärt.\n\n Förare bör sakta ner, använda halvljus och vara beredda att stanna.\n\n Starka vindar kan påverka fordonets stabilitet, särskilt för fordon med höga sidor.\n\n Förare bör minska hastigheten och bibehålla en fast styrning.\n\n Vattenplaning uppstår när däcken tappar kontakten med vägytan på grund av vatten.\n\n Förare bör lätta på pedalerna och styra smidigt om detta inträffar."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Särskilda situationer och vägmiljöer",
+"subcategory":"Landsbygdskörning",
+"englishSubcategory":"Rural Driving",
+"description":"På landsbygdsvägar kan djur oväntat komma ut på vägen.\n\n Förare bör vara uppmärksamma och vara beredda att sakta ner eller stanna.\n\n Nattkörning på landsbygdsvägar är farligt på grund av minskad sikt och ökad djuraktivitet.\n\n Om ett djur plötsligt dyker upp på vägen bör förarna bromsa ordentligt och styra säkert utan att väja farligt."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Särskilda situationer och vägmiljöer",
+"subcategory":"Vägarbeten",
+"englishSubcategory":"Roadworks",
+"description":"När förare närmar sig vägarbeten måste de följa tillfälliga skyltar och reducerade hastighetsbegränsningar.\n\n Dessa regler gäller även om arbetare inte är synliga.\n\n Tillfälliga hastighetsbegränsningar vid vägarbeten finns för att skydda arbetare och trafikanter.\n\n Förare får inte överskrida dessa gränser."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Utryckningsfordon och polisens vägbeskrivning",
+"subcategory":"Utryckningsfordon",
+"englishSubcategory":"Emergency Vehicles",
+"description":"När ett utryckningsfordon närmar sig med blinkande ljus eller sirener måste förarna köra undan på ett säkert sätt och låta det passera.\n\n På flerfiliga vägar bör förarna blinka och flytta till ett fritt körfält eller till vänster där det är möjligt för att låta utryckningsfordon passera.\n\n Om förarna stannar vid trafikljus och ett utryckningsfordon närmar sig bakifrån, får förarna försiktigt köra förbi stopplinjen om det är säkert att göra det.\n\n Förare får aldrig blockera vägen för ett utryckningsfordon, oavsett vägtyp eller trafikförhållanden.\n\n Om du inte omedelbart kan köra åt sidan för ett utryckningsfordon, fortsätt köra säkert tills du kan stanna utan att skapa fara.\n\n När du passerar ett stillastående utryckningsfordon med blinkande ljus bör förarna sakta ner och köra försiktigt."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Utryckningsfordon och polisens vägbeskrivning",
+"subcategory":"Polisens anvisningar",
+"englishSubcategory":"Police Directions",
+"description":"Förare måste följa anvisningar från poliser eller auktoriserade trafikledare, även om de strider mot vägskyltar eller signaler.\n\n En polis eller auktoriserad trafikledare har laglig befogenhet att dirigera trafiken på ett annat sätt än vad som anges i skyltar eller signaler.\n\n Om polisen beordrar dig att stanna, svänga, köra om eller stanna, måste du följa anvisningarna på ett säkert sätt och så snart som möjligt.\n\n Att underlåta att följa en laglig polisanvisning är ett brott och kan leda till böter, prickar eller indraget körkort."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Säkerhetsbälten, barnskydd och passagerare",
+"subcategory":"Säkerhetsbälten",
+"englishSubcategory":"Seatbelts",
+"description":"I Queensland är föraren juridiskt ansvarig för att alla passagerare under 16 år använder säkerhetsbälte eller godkänd säkerhetsanordning.\n\n Säkerhetsbälten måste användas hela tiden när fordonet är i rörelse om ett säkerhetsbälte är monterat.\n\n Ett säkerhetsbälte ska bäras ordentligt över axeln och lågt över höfterna för att minska risken för skador vid en krock.\n\n Säkerhetsbälten får inte användas felaktigt, till exempel under armen eller vridas, eftersom detta avsevärt ökar risken för allvarliga skador."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Säkerhetsbälten, barnskydd och passagerare",
+"subcategory":"Barnsäkerhetsanordningar",
+"englishSubcategory":"Child Restraints",
+"description":"Spädbarn måste vara fastspända i en godkänd bakåtvänd bilbarnstol eftersom den ger bäst skydd för huvud och nacke.\n\n Barn bör endast byta från en bälteskudde till ett säkerhetsbälte för vuxna när de uppfyller de lagstadgade ålders- och storlekskraven.\n\n Barnskydd måste vara korrekt monterade och justerade eftersom felaktig montering avsevärt minskar skyddet vid en krock."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Säkerhetsbälten, barnskydd och passagerare",
+"subcategory":"Passagerare",
+"englishSubcategory":"Passengers",
+"description":"Oskyddade passagerare kan skadas allvarligt eller orsaka skador på andra vid en olycka på grund av okontrollerad rörelse.\n\n Om en passagerare distraherar föraren är den säkraste åtgärden att be dem stanna så att föraren kan fokusera på att köra säkert.\n\n Passagerare bör alltid kontrollera trafik och cyklister innan de öppnar bildörrarna för att förhindra kollisioner och skador."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Grunderna i fordonssäkerhet, defekter och underhåll",
+"subcategory":"Däck",
+"englishSubcategory":"Tyres",
+"description":"För lågt lufttryck i däcken minskar väghållningen och ökar bromssträckan. De ökar också värmeutvecklingen och kan öka risken för däckfel. Däck bör kontrolleras regelbundet för mönsterdjup och korrekt lufttryck. Bra mönsterdjup hjälper till att bibehålla greppet, särskilt i våta förhållanden."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Grunderna i fordonssäkerhet, defekter och underhåll",
+"subcategory":"Ljus",
+"englishSubcategory":"Lights",
+"description":"Strålkastarna måste fungera på natten och när sikten är dålig.\n\n Arbetsljus hjälper dig att se faror och andra trafikanter att se dig.\n\n Bromsljus är viktiga eftersom de varnar andra förare för att du saktar ner eller stannar.\n\n Felaktiga bromsljus ökar risken för påkörningar bakifrån."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Grunderna i fordonssäkerhet, defekter och underhåll",
+"subcategory":"Allmänt underhåll",
+"englishSubcategory":"General Maintenance",
+"description":"Föraren är ansvarig för att säkerställa att ett fordon är trafiksäkert.\n\n Regelbundna kontroller och service hjälper till att identifiera och åtgärda säkerhetsproblem tidigt."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Laster, bogsering och medvetenhet om tunga fordon",
+"subcategory":"Massor",
+"englishSubcategory":"Loads",
+"description":"Laster måste säkras så att de inte kan falla eller röra sig och skapa fara för andra trafikanter.\n\n En osäker last kan orsaka krascher, skador och egendomsskador.\n\n Om en last placeras för högt eller ojämnt kan fordonets stabilitet minskas.\n\n Detta ökar risken för vältning och förlust av kontroll.\n\n Överbelastning av ett fordon kan minska broms- och väghållningsprestanda.\n\n Det kan också öka belastningen på däck och fjädring, vilket ökar kraschrisken.\n\n Om en last sticker ut från fordonets bakre del måste den säkras och göras synlig vid behov.\n\n Dåligt säkrade utskjutande laster kan träffa andra trafikanter eller falla ner på vägen."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Laster, bogsering och medvetenhet om tunga fordon",
+"subcategory":"Bogsering",
+"englishSubcategory":"Towing",
+"description":"Att bogsera en släpvagn ökar stoppsträckan eftersom fordonet har extra vikt att sakta ner.\n\n Förare bör ge mer utrymme och bromsa tidigare.\n\n Innan bogsering bör förarna kontrollera kopplingen, släpvagnsbelysningen, säkerhetskedjan och att lasten är säker.\n\n Bogsering med fel kan leda till lossning eller krockar.\n\n Om en släpvagn börjar svaja är den säkraste åtgärden att lätta på gaspedalen och hålla styrningen stadig.\n\n Hård inbromsning eller acceleration kan förvärra svajandet."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Laster, bogsering och medvetenhet om tunga fordon",
+"subcategory":"Tunga fordon",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Tunga fordon behöver mycket längre tid på sig att stanna än bilar.\n\n Att köra framför en lastbil tar bort dess stopputrymme och kan orsaka allvarliga olyckor.\n\n Lastbilar har stora döda vinklar nära och direkt bakom dem.\n\n Undvik att köra i dessa områden eftersom föraren kanske inte ser dig.\n\n Lastbilar kan behöva extra utrymme och kan svänga för brett, särskilt nära korsningar.\n\n Det är osäkert att köra om en lastbil precis före en korsning."
+}
+]

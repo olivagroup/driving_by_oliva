@@ -1,0 +1,586 @@
+[
+  {
+    "id": 1,
+    "englishName": "Theory",
+    "category": "Road Rules & Laws",
+    "subcategory": "Legal Authority on Roads",
+    "englishSubcategory": "Legal Authority on Roads",
+    "description": "Road rules in Queensland are laws that all road users must obey.\n\nDrivers must follow traffic signs, traffic lights, road markings, and road rules at all times.\n\nPolice officers and authorised traffic controllers have the legal authority to direct traffic.\n\nIf a direction from a police officer or traffic controller conflicts with a sign or signal, the direction must be followed.\n\nFailing to obey a lawful direction is an offence."
+  },
+  {
+    "id": 2,
+    "englishName": "Theory",
+    "category": "Road Rules & Laws",
+    "subcategory": "Driver Responsibility",
+    "englishSubcategory": "Driver Responsibility",
+    "description": "Drivers are legally responsible for driving with due care and attention at all times.\n\nA driver must not drive in a careless, dangerous, or negligent manner.\n\nDrivers must take reasonable steps to avoid crashes and reduce risk to others.\n\nThe driver is responsible for the safe operation of their vehicle under all conditions."
+  },
+  {
+    "id": 3,
+    "englishName": "Theory",
+    "category": "Road Rules & Laws",
+    "subcategory": "Giving Way",
+    "englishSubcategory": "Giving Way",
+    "description": "Giving way means slowing down and stopping if necessary to avoid a collision.\n\nDrivers must give way when required by signs, road rules, or traffic conditions.\n\nA driver entering a road from a driveway, car park, or footpath must give way to all vehicles and pedestrians.\n\nFailing to give way when required is an offence."
+  },
+  {
+    "id": 4,
+    "englishName": "Theory",
+    "category": "Road Rules & Laws",
+    "subcategory": "Intersections",
+    "englishSubcategory": "Intersections",
+    "description": "At intersections, drivers must obey traffic lights, signs, and road markings.\n\nIf there are no signs or signals, drivers must give way according to Queensland road rules.\n\nDrivers turning right must give way to oncoming traffic going straight or turning left.\n\nPedestrians must also be given priority where required."
+  },
+  {
+    "id": 5,
+    "englishName": "Theory",
+    "category": "Road Rules & Laws",
+    "subcategory": "Roundabouts",
+    "englishSubcategory": "Roundabouts",
+    "description": "When approaching a roundabout, drivers must give way to vehicles already in the roundabout.\n\nDrivers must give way to vehicles approaching from the right.\n\nCorrect signalling is required when entering and exiting roundabouts.\n\nFailing to give way at a roundabout can cause serious collisions."
+  },
+  {
+    "id": 6,
+    "englishName": "Theory",
+    "category": "Road Rules & Laws",
+    "subcategory": "Traffic Signals",
+    "englishSubcategory": "Traffic Signals",
+    "description": "Traffic lights control the movement of vehicles and pedestrians.\n\nA red light means stop and remain stopped.\n\nA yellow light means stop if it is safe to do so.\n\nA green light allows you to proceed, but you must still give way where required."
+  },
+  {
+    "id": 7,
+    "englishName": "Theory",
+    "category": "Road Rules & Laws",
+    "subcategory": "U-Turns",
+    "englishSubcategory": "U-Turns",
+    "description": "U-turns are permitted in Queensland unless a sign prohibits them.\n\nDrivers must ensure the U-turn can be completed safely.\n\nA driver making a U-turn must give way to all other vehicles and pedestrians.\n\nU-turns must not be made where visibility is limited or unsafe."
+  },
+  {
+    "id": 8,
+    "englishName": "Theory",
+    "category": "Road Rules & Laws",
+    "subcategory": "Pedestrians",
+    "englishSubcategory": "Pedestrians",
+    "description": "Drivers must give way to pedestrians on pedestrian crossings.\n\nWhen turning at an intersection, drivers must give way to pedestrians crossing the road being entered.\n\nExtra care is required near schools, shopping areas, and public transport stops."
+  },
+  {
+    "id": 9,
+    "englishName": "Theory",
+    "category": "Road Rules & Laws",
+    "subcategory": "Emergency Vehicles",
+    "englishSubcategory": "Emergency Vehicles",
+    "description": "Drivers must give way to emergency vehicles using flashing lights or sirens.\n\nThis may require slowing down, moving aside, or stopping if necessary.\n\nDrivers must not obstruct the path of emergency vehicles or follow them closely."
+  },
+  {
+    "id": 10,
+    "englishName": "Theory",
+    "category": "Road Rules & Laws",
+    "subcategory": "Obeying Road Signs",
+    "englishSubcategory": "Obeying Road Signs",
+    "description": "Traffic signs provide legal instructions and warnings to road users.\n\nDrivers must obey regulatory signs such as Stop, Give Way, and Speed Limit signs.\n\nWarning signs alert drivers to potential hazards ahead.\n\nIgnoring road signs is a breach of road law."
+  },
+  {
+    "id": 11,
+    "englishName": "Theory",
+    "category": "Traffic Signs & Signals",
+    "subcategory": "Regulatory Signs",
+    "englishSubcategory": "Regulatory Signs",
+    "description": "Regulatory signs give instructions that drivers must obey by law.\n\nThese include signs such as Stop, Give Way, No Entry, No Parking, and speed limit signs.\n\nFailing to follow a regulatory sign is an offence."
+  },
+  {
+    "id": 12,
+    "englishName": "Theory",
+    "category": "Traffic Signs & Signals",
+    "subcategory": "Warning Signs",
+    "englishSubcategory": "Warning Signs",
+    "description": "Warning signs alert drivers to potential hazards or changes in road conditions ahead.\n\nThey are usually yellow and diamond-shaped.\n\nDrivers should slow down and prepare to respond safely."
+  },
+  {
+    "id": 13,
+    "englishName": "Theory",
+    "category": "Traffic Signs & Signals",
+    "subcategory": "Speed Signs",
+    "englishSubcategory": "Speed Signs",
+    "description": "Speed limit signs show the maximum legal speed for a road or area.\n\nDrivers must not exceed the posted speed limit.\n\nSpeed limits may change depending on conditions such as roadworks or school zones."
+  },
+  {
+    "id": 14,
+    "englishName": "Theory",
+    "category": "Traffic Signs & Signals",
+    "subcategory": "Traffic Lights",
+    "englishSubcategory": "Traffic Lights",
+    "description": "Traffic lights control traffic at intersections.\n\nA red light means stop.\n\nA yellow light means stop if it is safe to do so.\n\nA green light means you may proceed if the intersection is clear."
+  },
+  {
+    "id": 15,
+    "englishName": "Theory",
+    "category": "Traffic Signs & Signals",
+    "subcategory": "Arrow Signals",
+    "englishSubcategory": "Arrow Signals",
+    "description": "Arrow traffic signals apply only to the direction shown by the arrow.\n\nA green arrow allows movement in that direction only.\n\nA red arrow means you must not proceed in that direction."
+  },
+  {
+    "id": 16,
+    "englishName": "Theory",
+    "category": "Traffic Signs & Signals",
+    "subcategory": "Give Way & Stop Signs",
+    "englishSubcategory": "Give Way & Stop Signs",
+    "description": "A Give Way sign requires drivers to slow down and give way to all conflicting traffic.\n\nA Stop sign requires drivers to come to a complete stop and give way before proceeding.\n\nDrivers must obey the sign even if the road appears clear."
+  },
+  {
+    "id": 17,
+    "englishName": "Theory",
+    "category": "Traffic Signs & Signals",
+    "subcategory": "Lane Control Signals",
+    "englishSubcategory": "Lane Control Signals",
+    "description": "Lane control signals are used above lanes to manage traffic flow.\n\nA green arrow means the lane is open.\n\nA red cross or white X means the lane must not be used."
+  },
+  {
+    "id": 18,
+    "englishName": "Theory",
+    "category": "Traffic Signs & Signals",
+    "subcategory": "Pedestrian Signals",
+    "englishSubcategory": "Pedestrian Signals",
+    "description": "Pedestrian signals indicate when pedestrians may cross the road.\n\nDrivers must give way to pedestrians who are crossing when the pedestrian signal allows them to do so."
+  },
+  {
+    "id": 19,
+    "englishName": "Theory",
+    "category": "Traffic Signs & Signals",
+    "subcategory": "Special Purpose Signs",
+    "englishSubcategory": "Special Purpose Signs",
+    "description": "Special purpose signs include signs such as Shared Zone, Bus Lane, and School Zone signs.\n\nThese signs apply specific rules that drivers must follow in those areas."
+  },
+  {
+    "id": 20,
+    "englishName": "Theory",
+    "category": "Traffic Signs & Signals",
+    "subcategory": "Temporary Signs",
+    "englishSubcategory": "Temporary Signs",
+    "description": "Temporary signs are used for situations such as roadworks, crashes, or special events.\n\nDrivers must obey temporary signs even if they differ from permanent signs.\n\nReduced speed limits often apply in roadwork areas."
+  },
+  {
+    "id": 21,
+    "englishName": "Theory",
+    "category": "Speed & Distance Rules",
+    "subcategory": "Speed Limits",
+    "englishSubcategory": "Speed Limits",
+    "description": "In Queensland, the default speed limit in a built-up area is 50 km/h unless otherwise signed.\n\nDrivers must always check for posted speed signs as limits may change.\n\nThe maximum speed limit in Queensland is 110 km/h unless a lower limit is signed.\n\nDrivers must never exceed the posted speed limit."
+  },
+  {
+    "id": 23,
+    "englishName": "Theory",
+    "category": "Speed & Distance Rules",
+    "subcategory": "School Zones",
+    "englishSubcategory": "School Zones",
+    "description": "School zone speed limits apply during the times shown on the signs.\n\nDrivers must obey the signed school zone speed limit even if children are not visible."
+  },
+  {
+    "id": 24,
+    "englishName": "Theory",
+    "category": "Speed & Distance Rules",
+    "subcategory": "Roadworks",
+    "englishSubcategory": "Roadworks",
+    "description": "Reduced speed limits apply in roadwork zones from the first speed reduction sign until an end sign.\n\nDrivers must obey these limits even if workers are not present."
+  },
+  {
+    "id": 25,
+    "englishName": "Theory",
+    "category": "Speed & Distance Rules",
+    "subcategory": "Following Distance",
+    "englishSubcategory": "Following Distance",
+    "description": "In good driving conditions, drivers should maintain a minimum following distance of at least two seconds.\n\nThis allows time to react and stop safely."
+  },
+  {
+    "id": 26,
+    "englishName": "Theory",
+    "category": "Speed & Distance Rules",
+    "subcategory": "Following Distance",
+    "englishSubcategory": "Following Distance",
+    "description": "In wet or poor conditions, drivers should increase their following distance to allow for longer stopping distances."
+  },
+  {
+    "id": 27,
+    "englishName": "Theory",
+    "category": "Speed & Distance Rules",
+    "subcategory": "Stopping Distance",
+    "englishSubcategory": "Stopping Distance",
+    "description": "Stopping distance includes reaction distance and braking distance.\n\nAs speed increases, total stopping distance increases significantly."
+  },
+  {
+    "id": 28,
+    "englishName": "Theory",
+    "category": "Speed & Distance Rules",
+    "subcategory": "Stopping Distance",
+    "englishSubcategory": "Stopping Distance",
+    "description": "Wet, gravel, or slippery roads increase braking distance.\n\nDrivers must slow down to suit road conditions."
+  },
+  {
+    "id": 29,
+    "englishName": "Theory",
+    "category": "Speed & Distance Rules",
+    "subcategory": "Shared Zones",
+    "englishSubcategory": "Shared Zones",
+    "description": "In shared zones, the speed limit is 10 km/h.\n\nDrivers must be prepared to stop for pedestrians at all times."
+  },
+  {
+    "id": 30,
+    "englishName": "Theory",
+    "category": "Speed & Distance Rules",
+    "subcategory": "Driver Responsibility",
+    "englishSubcategory": "Driver Responsibility",
+    "description": "Drivers are always responsible for controlling their speed.\n\nSpeed warning systems or vehicle technology do not remove this responsibility."
+  },
+  {
+    "id": 31,
+    "englishName": "Theory",
+    "category": "Driver Responsibilities",
+    "subcategory": "General Driver Duties",
+    "englishSubcategory": "General Driver Duties",
+    "description": "Drivers must always drive with due care and attention.\n\nIf you feel too tired, unwell, or unfit to drive safely, you must stop driving and rest before continuing."
+  },
+  {
+    "id": 32,
+    "englishName": "Theory",
+    "category": "Driver Responsibilities",
+    "subcategory": "Crashes & Incidents",
+    "englishSubcategory": "Crashes & Incidents",
+    "description": "If you are involved in a crash causing injury or death, you must stop, assist if possible, and contact emergency services immediately."
+  },
+  {
+    "id": 33,
+    "englishName": "Theory",
+    "category": "Driver Responsibilities",
+    "subcategory": "General Driver Duties",
+    "englishSubcategory": "General Driver Duties",
+    "description": "Before driving, the driver is responsible for ensuring the vehicle is roadworthy and safe to operate."
+  },
+  {
+    "id": 34,
+    "englishName": "Theory",
+    "category": "Driver Responsibilities",
+    "subcategory": "Crashes & Incidents",
+    "englishSubcategory": "Crashes & Incidents",
+    "description": "If a crash causes property damage and the owner is not present, you must stop and leave your details or report the crash to police."
+  },
+  {
+    "id": 35,
+    "englishName": "Theory",
+    "category": "Driver Responsibilities",
+    "subcategory": "Police Directions",
+    "englishSubcategory": "Police Directions",
+    "description": "Drivers must produce their driver licence or provide their details when requested by a police officer."
+  },
+  {
+    "id": 36,
+    "englishName": "Theory",
+    "category": "Driver Responsibilities",
+    "subcategory": "Crashes & Incidents",
+    "englishSubcategory": "Crashes & Incidents",
+    "description": "A crash must be reported to police when there is injury, death, or significant property damage."
+  },
+  {
+    "id": 37,
+    "englishName": "Theory",
+    "category": "Driver Responsibilities",
+    "subcategory": "Passengers",
+    "englishSubcategory": "Passengers",
+    "description": "Drivers are responsible for ensuring that all passengers are correctly restrained with seatbelts or approved restraints."
+  },
+  {
+    "id": 38,
+    "englishName": "Theory",
+    "category": "Driver Responsibilities",
+    "subcategory": "Crashes & Incidents",
+    "englishSubcategory": "Crashes & Incidents",
+    "description": "After a minor crash with no injuries, drivers must stop and exchange details with the other party involved."
+  },
+  {
+    "id": 39,
+    "englishName": "Theory",
+    "category": "Driver Responsibilities",
+    "subcategory": "General Driver Duties",
+    "englishSubcategory": "General Driver Duties",
+    "description": "If your vision becomes impaired while driving, you must stop driving until it is safe to continue."
+  },
+  {
+    "id": 40,
+    "englishName": "Theory",
+    "category": "Driver Responsibilities",
+    "subcategory": "Crashes & Incidents",
+    "englishSubcategory": "Crashes & Incidents",
+    "description": "If another driver leaves the scene of a crash, you should report the incident to police as soon as possible."
+  },
+  {
+    "id": 41,
+    "englishName": "Theory",
+    "category": "Alcohol, Drugs & Health",
+    "subcategory": "Alcohol Limits",
+    "englishSubcategory": "Alcohol Limits",
+    "description": "In Queensland, the maximum blood alcohol concentration (BAC) for an open licence holder is 0.05.\n\nLearner and provisional drivers must have a BAC of 0.00 at all times."
+  },
+  {
+    "id": 42,
+    "englishName": "Theory",
+    "category": "Alcohol, Drugs & Health",
+    "subcategory": "Alcohol Effects",
+    "englishSubcategory": "Alcohol Effects",
+    "description": "Alcohol affects driving ability from the first drink.\n\nIt slows reaction time, reduces coordination, and impairs judgment."
+  },
+  {
+    "id": 43,
+    "englishName": "Theory",
+    "category": "Alcohol, Drugs & Health",
+    "subcategory": "Drugs & Driving",
+    "englishSubcategory": "Drugs & Driving",
+    "description": "Driving with illegal drugs in your system is an offence in Queensland.\n\nYou can be charged even if you do not feel impaired."
+  },
+  {
+    "id": 44,
+    "englishName": "Theory",
+    "category": "Alcohol, Drugs & Health",
+    "subcategory": "Drugs & Driving",
+    "englishSubcategory": "Drugs & Driving",
+    "description": "Roadside drug tests commonly detect cannabis, MDMA, and methamphetamine.\n\nPolice can require a saliva test at any time."
+  },
+  {
+    "id": 45,
+    "englishName": "Theory",
+    "category": "Alcohol, Drugs & Health",
+    "subcategory": "Medication & Driving",
+    "englishSubcategory": "Medication & Driving",
+    "description": "Some prescription and over-the-counter medications can affect your ability to drive.\n\nAlways check warnings and avoid driving if unsure."
+  },
+  {
+    "id": 46,
+    "englishName": "Theory",
+    "category": "Safe Driving Practices",
+    "subcategory": "Defensive Driving",
+    "englishSubcategory": "Defensive Driving",
+    "description": "Defensive driving means anticipating potential hazards and the actions of other road users.\n\nThe goal is to reduce crash risk by planning ahead and maintaining safety margins.\n\nA key principle of defensive driving is maintaining a safety buffer around your vehicle.\n\nThis space allows time to react if traffic conditions change suddenly.\n\nIf another driver behaves aggressively, the safest response is to create space and avoid engagement.\n\nDo not respond with aggressive driving.\n\nPlanning ahead helps drivers avoid sudden braking or sharp steering.\n\nSmooth, early decisions improve vehicle control and safety."
+  },
+  {
+    "id": 47,
+    "englishName": "Theory",
+    "category": "Safe Driving Practices",
+    "subcategory": "Hazard Perception",
+    "englishSubcategory": "Hazard Perception",
+    "description": "Hazard perception involves identifying potential dangers early and responding before they become critical.\n\nDrivers should scan well ahead and to the sides, not just the vehicle in front.\n\nParked cars, pedestrians, cyclists, and intersections are common sources of hazards.\n\nDrivers should be alert for sudden movements or changes in traffic flow.\n\nChecking mirrors regularly helps drivers stay aware of surrounding traffic.\n\nThis awareness is essential for safe lane changes and braking."
+  },
+  {
+    "id": 48,
+    "englishName": "Theory",
+    "category": "Safe Driving Practices",
+    "subcategory": "Road Conditions",
+    "englishSubcategory": "Road Conditions",
+    "description": "Road conditions such as rain, gravel, or poor visibility require drivers to reduce speed.\n\nDrivers must adjust their driving to suit the conditions.\n\nWet roads reduce tyre grip and increase stopping distance.\n\nDrivers should slow down and increase following distance in wet conditions.\n\nReduced visibility due to fog, rain, or glare requires drivers to slow down and increase following distance.\n\nHeadlights should be used appropriately to improve visibility."
+  },
+  {
+    "id": 49,
+    "englishName": "Theory",
+    "category": "Intersections, Turns & Roundabouts",
+    "subcategory": "Giving Way",
+    "englishSubcategory": "Giving Way",
+    "description": "At an uncontrolled intersection, a driver must give way to vehicles approaching from the right.\n\nThis rule applies when there are no traffic lights, stop signs, or give way signs.\n\nAt a T-intersection, the driver on the terminating road must give way to vehicles on the continuing road.\n\nWhen entering a road from a driveway or footpath, the driver must give way to all vehicles and pedestrians on the road."
+  },
+  {
+    "id": 50,
+    "englishName": "Theory",
+    "category": "Intersections, Turns & Roundabouts",
+    "subcategory": "Turns",
+    "englishSubcategory": "Turns",
+    "description": "When turning left at an intersection, drivers must give way to pedestrians crossing the road they are entering.\n\nWhen turning right at an intersection, drivers must give way to oncoming vehicles travelling straight ahead or turning left.\n\nWhen making a U-turn, a driver must give way to all other vehicles and pedestrians.\n\nBefore turning at an intersection, drivers must signal and check for traffic, cyclists, and pedestrians."
+  },
+  {
+    "id": 51,
+    "englishName": "Theory",
+    "category": "Intersections, Turns & Roundabouts",
+    "subcategory": "Roundabouts",
+    "englishSubcategory": "Roundabouts",
+    "description": "When entering a roundabout, drivers must give way to vehicles already in the roundabout.\n\nDrivers must signal left when exiting a roundabout to inform other road users of their intention to leave.\n\nDrivers should approach roundabouts at a speed that allows them to give way safely and stop if required."
+  },
+  {
+    "id": 52,
+    "englishName": "Theory",
+    "category": "Road Markings, Lanes & Overtaking",
+    "subcategory": "Road Markings",
+    "englishSubcategory": "Road Markings",
+    "description": "A single continuous centre line means drivers must not cross or straddle the line.\n\nCrossing is only allowed in very limited circumstances, such as entering or leaving a property if permitted.\n\nA broken centre line indicates that drivers may cross the line when it is safe to do so.\n\nThis is commonly used for overtaking or turning.\n\nA double continuous centre line means drivers must not cross or straddle the lines under any circumstances.\n\nWhite edge lines mark the edge of the roadway and help drivers identify the trafficable area of the road."
+  },
+  {
+    "id": 53,
+    "englishName": "Theory",
+    "category": "Road Markings, Lanes & Overtaking",
+    "subcategory": "Overtaking",
+    "englishSubcategory": "Overtaking",
+    "description": "Overtaking is prohibited whenever it is unsafe or when signs or road markings prohibit it.\n\nDrivers must always assess visibility and oncoming traffic before overtaking.\n\nThe driver overtaking is fully responsible for ensuring the manoeuvre can be completed safely.\n\nWhen overtaking a cyclist, drivers must allow sufficient lateral clearance to ensure the cyclist’s safety."
+  },
+  {
+    "id": 54,
+    "englishName": "Theory",
+    "category": "Road Markings, Lanes & Overtaking",
+    "subcategory": "Lanes",
+    "englishSubcategory": "Lanes",
+    "description": "Before changing lanes, drivers must signal their intention and give way to vehicles already in the lane they are moving into.\n\nA lane marked with a bicycle symbol indicates a bicycle lane reserved for cyclists.\n\nDrivers must not drive in a bicycle lane unless permitted.\n\nBus lanes marked by signs and road markings may only be used by permitted vehicles.\n\nDrivers must obey the operating times shown on signs."
+  },
+  {
+    "id": 55,
+    "englishName": "Theory",
+    "category": "Stopping, Parking & Roadside Rules",
+    "subcategory": "Parking Restrictions",
+    "englishSubcategory": "Parking Restrictions",
+    "description": "Parking too close to a corner is unsafe because it blocks sight lines for drivers and pedestrians.\n\nParking on the wrong side of the road facing against traffic is unsafe and may be illegal in many situations.\n\nStopping or parking on a pedestrian crossing is prohibited because it endangers pedestrians and blocks visibility."
+  },
+  {
+    "id": 56,
+    "englishName": "Theory",
+    "category": "Stopping, Parking & Roadside Rules",
+    "subcategory": "Stopping Rules",
+    "englishSubcategory": "Stopping Rules",
+    "description": "Before opening your door after parking near traffic, you must check mirrors and blind spots.\n\nThis helps prevent collisions with vehicles, cyclists, or other road users.\n\nAt a Stop sign, drivers must come to a complete stop at the stop line or before entering the intersection.\n\nYou should only reverse or adjust position at traffic lights if it is safe and does not endanger other road users."
+  },
+  {
+    "id": 57,
+    "englishName": "Theory",
+    "category": "Pedestrians, Cyclists & Vulnerable Road Users",
+    "subcategory": "Pedestrians",
+    "englishSubcategory": "Pedestrians",
+    "description": "At pedestrian crossings without traffic lights, drivers approaching the crossing must give way to pedestrians who are on or entering the crossing.\n\nAt traffic lights, drivers must give way to pedestrians who have a green walk signal."
+  },
+  {
+    "id": 58,
+    "englishName": "Theory",
+    "category": "Pedestrians, Cyclists & Vulnerable Road Users",
+    "subcategory": "Cyclists",
+    "englishSubcategory": "Cyclists",
+    "description": "When overtaking a cyclist, drivers must allow sufficient lateral clearance to ensure the cyclist’s safety.\n\nCyclists are legitimate road users and may ride on the road, in bicycle lanes, or on shared paths where permitted."
+  },
+  {
+    "id": 59,
+    "englishName": "Theory",
+    "category": "Pedestrians, Cyclists & Vulnerable Road Users",
+    "subcategory": "Shared Zones",
+    "englishSubcategory": "Shared Zones",
+    "description": "In shared zones, pedestrians have priority over vehicles and drivers must travel at very low speeds."
+  },
+  {
+    "id": 60,
+    "englishName": "Theory",
+    "category": "Pedestrians, Cyclists & Vulnerable Road Users",
+    "subcategory": "Elderly & Disabled",
+    "englishSubcategory": "Elderly & Disabled",
+    "description": "Elderly or disabled pedestrians may move slowly or have reduced awareness, requiring drivers to allow extra time and space.\n\nWhen approaching pedestrians with a white cane or guide dog, drivers should slow down and be prepared to stop."
+  },
+  {
+    "id": 61,
+    "englishName": "Theory",
+    "category": "Special Situations & Road Environments",
+    "subcategory": "Weather Conditions",
+    "englishSubcategory": "Weather Conditions",
+    "description": "When driving in heavy rain, drivers should reduce speed and increase following distance.\n\nRain reduces visibility and tyre grip, increasing stopping distances.\n\nDriving through floodwater is dangerous because the depth and condition of the road may be unknown.\n\nFloodwater can wash vehicles away or hide road damage.\n\nFog significantly reduces visibility.\n\nDrivers should slow down, use low beam headlights, and be prepared to stop.\n\nStrong winds can affect vehicle stability, especially for high-sided vehicles.\n\nDrivers should reduce speed and maintain firm steering control.\n\nAquaplaning occurs when tyres lose contact with the road surface due to water.\n\nDrivers should ease off the pedals and steer smoothly if this occurs."
+  },
+  {
+    "id": 62,
+    "englishName": "Theory",
+    "category": "Special Situations & Road Environments",
+    "subcategory": "Rural Driving",
+    "englishSubcategory": "Rural Driving",
+    "description": "On rural roads, animals may enter the roadway unexpectedly.\n\nDrivers should remain alert and be prepared to slow down or stop.\n\nNight driving on rural roads is hazardous due to reduced visibility and increased wildlife activity.\n\nIf an animal suddenly appears on the road, drivers should brake firmly and steer safely without swerving dangerously."
+  },
+  {
+    "id": 63,
+    "englishName": "Theory",
+    "category": "Special Situations & Road Environments",
+    "subcategory": "Roadworks",
+    "englishSubcategory": "Roadworks",
+    "description": "When approaching roadworks, drivers must obey temporary signs and reduced speed limits.\n\nThese rules apply even if workers are not visible.\n\nTemporary speed limits at roadworks exist to protect workers and road users.\n\nDrivers must not exceed these limits."
+  },
+  {
+    "id": 64,
+    "englishName": "Theory",
+    "category": "Emergency Vehicles & Police Directions",
+    "subcategory": "Emergency Vehicles",
+    "englishSubcategory": "Emergency Vehicles",
+    "description": "When an emergency vehicle approaches using flashing lights or sirens, drivers must move out of the way safely and allow it to pass.\n\nOn multi-lane roads, drivers should indicate and move to a clear lane or to the left where possible to allow emergency vehicles to pass.\n\nIf stopped at traffic lights and an emergency vehicle approaches from behind, drivers may move carefully past the stop line if it is safe to do so.\n\nDrivers must never block the path of an emergency vehicle, regardless of road type or traffic conditions.\n\nIf you cannot immediately move aside for an emergency vehicle, continue driving safely until you can pull over without creating danger.\n\nWhen passing a stopped emergency vehicle with flashing lights, drivers should slow down and proceed with caution."
+  },
+  {
+    "id": 65,
+    "englishName": "Theory",
+    "category": "Emergency Vehicles & Police Directions",
+    "subcategory": "Police Directions",
+    "englishSubcategory": "Police Directions",
+    "description": "Drivers must obey directions given by police officers or authorised traffic controllers, even if they conflict with road signs or signals.\n\nA police officer or authorised traffic controller has legal authority to direct traffic differently from signs or signals.\n\nIf police direct you to stop, turn, detour, or pull over, you must comply safely and as soon as possible.\n\nFailing to follow a lawful police direction is an offence and may result in fines, demerit points, or licence suspension."
+  },
+  {
+    "id": 66,
+    "englishName": "Theory",
+    "category": "Seatbelts, Child Restraints & Passengers",
+    "subcategory": "Seatbelts",
+    "englishSubcategory": "Seatbelts",
+    "description": "In Queensland, the driver is legally responsible for ensuring that all passengers under 16 years of age wear a seatbelt or approved restraint.\n\nSeatbelts must be worn at all times when the vehicle is moving if a seatbelt is fitted.\n\nA seatbelt should be worn firmly across the shoulder and low across the hips to reduce the risk of injury in a crash.\n\nSeatbelts must not be worn incorrectly, such as under the arm or twisted, as this greatly increases the risk of serious injury."
+  },
+  {
+    "id": 67,
+    "englishName": "Theory",
+    "category": "Seatbelts, Child Restraints & Passengers",
+    "subcategory": "Child Restraints",
+    "englishSubcategory": "Child Restraints",
+    "description": "Infants must be restrained in an approved rear-facing child restraint because it provides the best protection for the head and neck.\n\nChildren should only move from a booster seat to an adult seatbelt when they meet the minimum legal age and size requirements.\n\nChild restraints must be correctly fitted and adjusted because incorrect fitting significantly reduces protection in a crash."
+  },
+  {
+    "id": 68,
+    "englishName": "Theory",
+    "category": "Seatbelts, Child Restraints & Passengers",
+    "subcategory": "Passengers",
+    "englishSubcategory": "Passengers",
+    "description": "Unrestrained passengers can be seriously injured or cause injury to others in a crash due to uncontrolled movement.\n\nIf a passenger distracts the driver, the safest action is to ask them to stop so the driver can focus on driving safely.\n\nPassengers should always check for traffic and cyclists before opening vehicle doors to prevent collisions and injuries."
+  },
+  {
+    "id": 69,
+    "englishName": "Theory",
+    "category": "Vehicle Safety, Defects & Maintenance Basics",
+    "subcategory": "Tyres",
+    "englishSubcategory": "Tyres",
+    "description": "Under-inflated tyres reduce handling and increase stopping distance.\n\nThey also increase heat buildup and can raise the risk of tyre failure.\n\nTyres should be checked regularly for tread depth and correct inflation pressure.\n\nGood tread helps maintain grip, especially in wet conditions."
+  },
+  {
+    "id": 70,
+    "englishName": "Theory",
+    "category": "Vehicle Safety, Defects & Maintenance Basics",
+    "subcategory": "Lights",
+    "englishSubcategory": "Lights",
+    "description": "Headlights must work at night and whenever visibility is poor.\n\nWorking lights help you see hazards and help other road users see you.\n\nBrake lights are important because they warn other drivers that you are slowing or stopping.\n\nFaulty brake lights increase the risk of rear-end crashes."
+  },
+  {
+    "id": 71,
+    "englishName": "Theory",
+    "category": "Vehicle Safety, Defects & Maintenance Basics",
+    "subcategory": "General Maintenance",
+    "englishSubcategory": "General Maintenance",
+    "description": "The driver is responsible for ensuring a vehicle is roadworthy.\n\nRegular checks and servicing help identify and fix safety issues early."
+  },
+  {
+    "id": 72,
+    "englishName": "Theory",
+    "category": "Loads, Towing & Heavy Vehicle Awareness",
+    "subcategory": "Loads",
+    "englishSubcategory": "Loads",
+    "description": "Loads must be secured so they cannot fall or move and create danger for other road users.\n\nAn insecure load can cause crashes, injuries, and damage.\n\nIf a load is placed too high or unevenly, vehicle stability can be reduced.\n\nThis increases the risk of rollover and loss of control.\n\nOverloading a vehicle can reduce braking and handling performance.\n\nIt can also increase tyre and suspension stress, raising crash risk.\n\nIf a load protrudes from the rear of the vehicle, it must be secured and made visible if required.\n\nPoorly secured protruding loads can strike other road users or fall onto the road."
+  },
+  {
+    "id": 73,
+    "englishName": "Theory",
+    "category": "Loads, Towing & Heavy Vehicle Awareness",
+    "subcategory": "Towing",
+    "englishSubcategory": "Towing",
+    "description": "Towing a trailer increases stopping distance because the vehicle has extra weight to slow down.\n\nDrivers should allow more space and brake earlier.\n\nBefore towing, drivers should check the coupling, trailer lights, safety chain, and that the load is secure.\n\nTowing with faults can lead to detachment or crashes.\n\nIf a trailer starts to sway, the safest response is to ease off the accelerator and keep steering steady.\n\nHarsh braking or acceleration can worsen the sway."
+  },
+  {
+    "id": 74,
+    "englishName": "Theory",
+    "category": "Loads, Towing & Heavy Vehicle Awareness",
+    "subcategory": "Heavy Vehicles",
+    "englishSubcategory": "Heavy Vehicles",
+    "description": "Heavy vehicles need much longer to stop than cars.\n\nCutting in front of a truck removes its stopping space and can cause serious crashes.\n\nTrucks have large blind spots close beside them and directly behind them.\n\nAvoid driving in these areas because the driver may not see you.\n\nTrucks may need extra space and can turn wide, especially near intersections.\n\nIt is unsafe to overtake a truck just before an intersection."
+  }
+]

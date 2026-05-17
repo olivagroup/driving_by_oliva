@@ -1,0 +1,586 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Prometna pravila i zakoni",
+"subcategory":"Pravna ovlast na cestama",
+"englishSubcategory":"Legal Authority on Roads",
+"description":"Prometna pravilauQueenslandu su zakoni kojih se moraju pridržavati svi sudioniciuprometu.\n\n Vozači se morajuusvakom trenutku pridržavati prometnih znakova, semafora, oznaka na cesti i prometnih pravila.\n\n Policajci i ovlašteni kontrolori prometa imaju zakonsku ovlast usmjeravati promet.\n\n Ako je uputa policajca ili kontrolora prometausuprotnosti sa znakom ili signalom, mora se slijediti uputa.\n\n Nepoštivanje zakonite upute je prekršaj."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Prometna pravila i zakoni",
+"subcategory":"Odgovornost vozača",
+"englishSubcategory":"Driver Responsibility",
+"description":"Vozači su zakonski odgovorni za vožnju s dužnom pažnjom i oprezomusvakom trenutku.\n\n Vozač ne smije voziti na neoprezan, opasan ili nemaran način.\n\n Vozači moraju poduzeti razumne korake kako bi izbjegli sudare i smanjili rizik za druge.\n\n Vozač je odgovoran za sigurno upravljanje svojim vozilomusvim uvjetima."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Prometna pravila i zakoni",
+"subcategory":"Popuštanje puta",
+"englishSubcategory":"Giving Way",
+"description":"Davanje prednosti znači usporavanje i zaustavljanje ako je potrebno kako bi se izbjegao sudar.\n\n Vozači moraju dati prednost kada to zahtijevaju znakovi, prometna pravila ili prometni uvjeti.\n\n Vozač koji ulazi na cestu s prilaza, parkirališta ili nogostupa mora dati prednost svim vozilima i pješacima.\n\n Nedavanje prednosti kada je to potrebno je prekršaj."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Prometna pravila i zakoni",
+"subcategory":"Raskrižja",
+"englishSubcategory":"Intersections",
+"description":"Na raskrižjima vozači moraju poštivati semafore, znakove i oznake na cesti.\n\n Ako nema znakova ili signala, vozači moraju dati prednostuskladu s cestovnim propisima Queenslanda.\n\n Vozači koji skreću desno moraju dati prednost nadolazećem prometu koji ide ravno ili skreće lijevo.\n\n Pješaci također moraju imati prednost gdje je to potrebno."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Prometna pravila i zakoni",
+"subcategory":"Kružni tokovi",
+"englishSubcategory":"Roundabouts",
+"description":"Prilikom približavanja kružnom toku, vozači moraju dati prednost vozilima koja su većukružnom toku.\n\n Vozači moraju dati prednost vozilima koja se približavaju s desne strane.\n\n Ispravna signalizacija je potrebna pri ulasku i izlasku iz kružnih tokova.\n\n Nedavanje prednosti na kružnom toku može uzrokovati ozbiljne sudare."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Prometna pravila i zakoni",
+"subcategory":"Prometni signali",
+"englishSubcategory":"Traffic Signals",
+"description":"Semafori kontroliraju kretanje vozila i pješaka.\n\n Crveno svjetlo znači stani i ostani zaustavljen.\n\n Žuto svjetlo znači stani ako je to sigurno.\n\n Zeleno svjetlo vam omogućuje da nastavite, ali i dalje morate dati prednost gdje je to potrebno."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Prometna pravila i zakoni",
+"subcategory":"Polukružni okreti",
+"englishSubcategory":"U-Turns",
+"description":"Polukružna okretanja su dopuštenauQueenslandu osim ako ih znak ne zabranjuje.\n\n Vozači moraju osigurati da se polukružno okretanje može sigurno izvršiti.\n\n Vozač koji izvodi polukružno okretanje mora dati prednost svim ostalim vozilima i pješacima.\n\n Polukružna okretanja ne smiju se izvoditi tamo gdje je vidljivost ograničena ili nesigurna."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Prometna pravila i zakoni",
+"subcategory":"Pješaci",
+"englishSubcategory":"Pedestrians",
+"description":"Vozači moraju dati prednost pješacima na pješačkim prijelazima.\n\n Prilikom skretanja na raskrižju, vozači moraju dati prednost pješacima koji prelaze cestu na koju ulaze.\n\n Potreban je dodatni oprezublizini škola, trgovačkih centara i stajališta javnog prijevoza."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Prometna pravila i zakoni",
+"subcategory":"Vozila hitne pomoći",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Vozači moraju dati prednost vozilima hitne pomoći koja koriste trepćuća svjetla ili sirene.\n\n To može zahtijevati usporavanje, pomicanjeustranu ili zaustavljanje ako je potrebno.\n\n Vozači ne smiju ometati put vozilima hitne pomoći ili ih izbliza pratiti."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Prometna pravila i zakoni",
+"subcategory":"Poštivanje prometnih znakova",
+"englishSubcategory":"Obeying Road Signs",
+"description":"Prometni znakovi daju zakonske upute i upozorenja sudionicimauprometu.\n\n Vozači moraju poštivati propisne znakove kao što su znakovi Stop, Daj prednost i Ograničenje brzine.\n\n Znakovi upozorenja upozoravaju vozače na potencijalne opasnosti ispred.\n\n Ignoriranje prometnih znakova kršenje je prometnih propisa."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Prometni znakovi i signali",
+"subcategory":"Regulatorni znakovi",
+"englishSubcategory":"Regulatory Signs",
+"description":"Propisni znakovi daju upute kojih se vozači moraju pridržavati po zakonu.\n\n To uključuje znakove kao što su Stop, Daj prednost, Zabranjen ulaz, Zabranjeno parkiranje i znakovi ograničenja brzine.\n\n Nepoštivanje propisanog znaka je prekršaj."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Prometni znakovi i signali",
+"subcategory":"Znakovi upozorenja",
+"englishSubcategory":"Warning Signs",
+"description":"Znakovi upozorenja upozoravaju vozače na potencijalne opasnosti ili promjene uvjeta na cesti ispred njih.\n\n Obično su žute boje iuobliku dijamanta.\n\n Vozači bi trebali usporiti i pripremiti se za siguran odgovor."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Prometni znakovi i signali",
+"subcategory":"Znakovi brzine",
+"englishSubcategory":"Speed Signs",
+"description":"Znakovi ograničenja brzine pokazuju maksimalnu zakonsku brzinu za cestu ili područje.\n\n Vozači ne smiju prekoračiti objavljeno ograničenje brzine.\n\n Ograničenja brzine mogu se mijenjati ovisno o uvjetima kao što su radovi na cesti ili školske zone."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Prometni znakovi i signali",
+"subcategory":"Semafori",
+"englishSubcategory":"Traffic Lights",
+"description":"Semafori reguliraju promet na raskrižjima.\n\n Crveno svjetlo znači stoj.\n\n Žuto svjetlo znači stoj ako je sigurno.\n\n Zeleno svjetlo znači da možete nastaviti ako je raskrižje slobodno."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Prometni znakovi i signali",
+"subcategory":"Signali strelica",
+"englishSubcategory":"Arrow Signals",
+"description":"Signaliuprometu sa strelicama primjenjuju se samo na smjer koji pokazuje strelica.\n\n Zelena strelica dopušta kretanje samoutom smjeru.\n\n Crvena strelica znači da ne smijete nastavitiutom smjeru."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Prometni znakovi i signali",
+"subcategory":"Znakovi za ustupak i zaustavljanje",
+"englishSubcategory":"Give Way & Stop Signs",
+"description":"Znak \"Dajte prednost\"zahtijeva od vozača da uspore i daju prednost svim vozilimausuprotnom smjeru.\n\n Znak \"Stop\"zahtijeva od vozača da se potpuno zaustave i daju prednost prije nego što nastave vožnju.\n\n Vozači moraju poštivati znak čak i ako se cesta čini čistom."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Prometni znakovi i signali",
+"subcategory":"Signali za kontrolu trake",
+"englishSubcategory":"Lane Control Signals",
+"description":"Signali za regulaciju prometnih traka koriste se iznad traka za upravljanje protokom prometa.\n\n Zelena strelica znači da je traka otvorena.\n\n Crveni križ ili bijeli X znači da se traka ne smije koristiti."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Prometni znakovi i signali",
+"subcategory":"Pješački signali",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Pješački signali označavaju kada pješaci mogu prelaziti cestu.\n\n Vozači moraju dati prednost pješacima koji prelaze cestu kada im pješački signal to dopušta."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Prometni znakovi i signali",
+"subcategory":"Znakovi za posebne namjene",
+"englishSubcategory":"Special Purpose Signs",
+"description":"Znakovi za posebne namjene uključuju znakove kao što su znakovi Zajednička zona, Autobusna traka i Školska zona.\n\n Ovi znakovi primjenjuju specifična pravila kojih se vozači moraju pridržavatiutim područjima."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Prometni znakovi i signali",
+"subcategory":"Privremeni znakovi",
+"englishSubcategory":"Temporary Signs",
+"description":"Privremeni znakovi koriste se za situacije kao što su radovi na cesti, sudari ili posebni događaji.\n\n Vozači moraju poštivati privremene znakove čak i ako se razlikuju od trajnih znakova.\n\n Smanjena ograničenja brzine često se primjenjuju na područjima radova na cesti."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Pravila brzine i udaljenosti",
+"subcategory":"Ograničenja brzine",
+"englishSubcategory":"Speed Limits",
+"description":"U Queenslandu je zadano ograničenje brzineunaseljenom području 50 km/h, osim ako nije drugačije označeno.\n\n Vozači uvijek moraju provjeriti postoje li postavljeni znakovi brzine jer se ograničenja mogu mijenjati.\n\n Maksimalno ograničenje brzineuQueenslandu je 110 km/h, osim ako nije označeno niže ograničenje.\n\n Vozači nikada ne smiju prekoračiti postavljeno ograničenje brzine."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Pravila brzine i udaljenosti",
+"subcategory":"Školske zone",
+"englishSubcategory":"School Zones",
+"description":"Ograničenja brzineuškolskoj zoni vrijedeuvremenima prikazanim na znakovima.\n\n Vozači moraju poštivati označeno ograničenje brzineuškolskoj zoni čak i ako djeca nisu vidljiva."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Pravila brzine i udaljenosti",
+"subcategory":"Radovi na cesti",
+"englishSubcategory":"Roadworks",
+"description":"Smanjena ograničenja brzine primjenjuju seuzonama radova na cesti od prvog znaka za smanjenje brzine do znaka za kraj.\n\n Vozači se moraju pridržavati ovih ograničenja čak i ako radnici nisu prisutni."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Pravila brzine i udaljenosti",
+"subcategory":"Praćenje udaljenosti",
+"englishSubcategory":"Following Distance",
+"description":"U dobrim uvjetima vožnje, vozači bi trebali održavati minimalni sigurnosni razmak od najmanje dvije sekunde.\n\n To omogućuje vrijeme za reakciju i sigurno zaustavljanje."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Pravila brzine i udaljenosti",
+"subcategory":"Praćenje udaljenosti",
+"englishSubcategory":"Following Distance",
+"description":"U mokrim ili lošim uvjetima, vozači bi trebali povećati sigurnosni razmak kako bi omogućili dulji zaustavni put."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Pravila brzine i udaljenosti",
+"subcategory":"Zaustavni put",
+"englishSubcategory":"Stopping Distance",
+"description":"Zaustavni put uključuje put reakcije i put kočenja.\n\n S povećanjem brzine, ukupni zaustavni put značajno se povećava."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Pravila brzine i udaljenosti",
+"subcategory":"Zaustavni put",
+"englishSubcategory":"Stopping Distance",
+"description":"Mokre, šljunčane ili skliske ceste povećavaju put kočenja.\n\n Vozači moraju usporiti kako bi se prilagodili uvjetima na cesti."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Pravila brzine i udaljenosti",
+"subcategory":"Zajedničke zone",
+"englishSubcategory":"Shared Zones",
+"description":"U zajedničkim zonama ograničenje brzine je 10 km/h.\n\n Vozači moraju biti spremniusvakom trenutku zaustaviti se zbog pješaka."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Pravila brzine i udaljenosti",
+"subcategory":"Odgovornost vozača",
+"englishSubcategory":"Driver Responsibility",
+"description":"Vozači su uvijek odgovorni za kontrolu brzine.\n\n Sustavi za upozorenje na brzinu ili tehnologija vozila ne uklanjaju tu odgovornost."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Odgovornosti vozača",
+"subcategory":"Opće dužnosti vozača",
+"englishSubcategory":"General Driver Duties",
+"description":"Vozači uvijek moraju voziti s dužnim oprezom i pažnjom.\n\n Ako se osjećate previše umorno, loše ili nesposobno za sigurnu vožnju, morate prestati voziti i odmoriti se prije nego što nastavite."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Odgovornosti vozača",
+"subcategory":"Padovi i incidenti",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Ako ste sudjelovaliuprometnoj nesrećiukojoj su ozlijeđeni ili smrtni slučajevi, morate se zaustaviti, pomoći ako je moguće i odmah kontaktirati hitne službe."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Odgovornosti vozača",
+"subcategory":"Opće dužnosti vozača",
+"englishSubcategory":"General Driver Duties",
+"description":"Prije vožnje, vozač je odgovoran za provjeru ispravnosti vozila i sigurnosti upravljanja."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Odgovornosti vozača",
+"subcategory":"Padovi i incidenti",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Ako sudar uzrokuje materijalnu štetu, a vlasnik nije prisutan, morate se zaustaviti i ostaviti svoje podatke ili prijaviti sudar policiji."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Odgovornosti vozača",
+"subcategory":"Policijske upute",
+"englishSubcategory":"Police Directions",
+"description":"Vozači moraju pokazati vozačku dozvolu ili dati svoje podatke kada to zatraži policajac."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Odgovornosti vozača",
+"subcategory":"Padovi i incidenti",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Nesreća se mora prijaviti policiji kada jeupitanju ozljeda, smrt ili značajna materijalna šteta."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Odgovornosti vozača",
+"subcategory":"Putnici",
+"englishSubcategory":"Passengers",
+"description":"Vozači su odgovorni za osiguravanje da su svi putnici pravilno vezani sigurnosnim pojasevima ili odobrenim sustavima zaštite."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Odgovornosti vozača",
+"subcategory":"Padovi i incidenti",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Nakon lakšeg sudara bez ozlijeđenih, vozači se moraju zaustaviti i razmijeniti informacije s drugom stranom."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Odgovornosti vozača",
+"subcategory":"Opće dužnosti vozača",
+"englishSubcategory":"General Driver Duties",
+"description":"Ako vam se vid pogorša tijekom vožnje, morate prestati voziti dok ne budete sigurni za nastavak."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Odgovornosti vozača",
+"subcategory":"Padovi i incidenti",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Ako drugi vozač napusti mjesto nesreće, trebali biste što prije prijaviti incident policiji."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkohol, droge i zdravlje",
+"subcategory":"Ograničenja alkohola",
+"englishSubcategory":"Alcohol Limits",
+"description":"U Queenslandu je maksimalna koncentracija alkoholaukrvi (BAC) za vlasnika otvorene vozačke dozvole 0,05.\n\n Vozači početnici i privremeni vozači morajuusvakom trenutku imati BAC od 0,00."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkohol, droge i zdravlje",
+"subcategory":"Učinci alkohola",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkohol utječe na sposobnost vožnje od prvog pića.\n\n Usporava vrijeme reakcije, smanjuje koordinaciju i oštećuje prosudbu."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkohol, droge i zdravlje",
+"subcategory":"Droge i vožnja",
+"englishSubcategory":"Drugs & Driving",
+"description":"Vožnja s ilegalnim drogamauorganizmu je prekršajuQueenslandu.\n\n Možete biti optuženi čak i ako se ne osjećate pod utjecajem droga."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkohol, droge i zdravlje",
+"subcategory":"Droge i vožnja",
+"englishSubcategory":"Drugs & Driving",
+"description":"Testovi na droge uz cestu obično otkrivaju kanabis, MDMA i metamfetamin.\n\n Policija može zahtijevati test slineubilo kojem trenutku."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkohol, droge i zdravlje",
+"subcategory":"Lijekovi i vožnja",
+"englishSubcategory":"Medication & Driving",
+"description":"Neki lijekovi na recept i lijekovi bez recepta mogu utjecati na vašu sposobnost vožnje.\n\n Uvijek provjerite upozorenja i izbjegavajte vožnju ako niste sigurni."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Sigurne vozačke prakse",
+"subcategory":"Defanzivna vožnja",
+"englishSubcategory":"Defensive Driving",
+"description":"Defenzivna vožnja znači predviđanje potencijalnih opasnosti i postupaka drugih sudionikauprometu.\n\n Cilj je smanjiti rizik od sudara planiranjem unaprijed i održavanjem sigurnosnih margina.\n\n Ključni princip defenzivne vožnje je održavanje sigurnosnog tampon pojasa oko vašeg vozila.\n\n Ovaj prostor omogućuje vrijeme za reakciju ako se uvjetiuprometu naglo promijene.\n\n Ako se drugi vozač ponaša agresivno, najsigurniji odgovor je stvaranje prostora i izbjegavanje sukoba.\n\n Nemojte reagirati agresivnom vožnjom.\n\n Planiranje unaprijed pomaže vozačima da izbjegnu naglo kočenje ili oštro skretanje s puta.\n\n Glatke, rane odluke poboljšavaju kontrolu i sigurnost vozila."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Sigurne vozačke prakse",
+"subcategory":"Percepcija opasnosti",
+"englishSubcategory":"Hazard Perception",
+"description":"Percepcija opasnosti uključuje rano prepoznavanje potencijalnih opasnosti i reagiranje prije nego što postanu kritične.\n\n Vozači bi trebali pregledavati prostor ispred sebe i sa strane, ne samo vozilo ispred sebe.\n\n Parkirani automobili, pješaci, biciklisti i raskrižja uobičajeni su izvori opasnosti.\n\n Vozači bi trebali biti oprezni na nagle pokrete ili promjeneuprotoku prometa.\n\n Redovito provjeravanje retrovizora pomaže vozačima da ostanu svjesni okolnog prometa.\n\n Ova svjesnost je bitna za sigurnu promjenu trake i kočenje."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Sigurne vozačke prakse",
+"subcategory":"Uvjeti na cestama",
+"englishSubcategory":"Road Conditions",
+"description":"Uvjeti na cesti poput kiše, šljunka ili slabe vidljivosti zahtijevaju od vozača smanjenje brzine.\n\n Vozači moraju prilagoditi vožnju uvjetima.\n\n Mokre ceste smanjuju prianjanje guma i povećavaju zaustavni put.\n\n Vozači bi trebali usporiti i povećati zaustavni putumokrim uvjetima.\n\n Smanjena vidljivost zbog magle, kiše ili odsjaja zahtijeva od vozača da uspore i povećaju zaustavni put.\n\n Prednja svjetla treba koristiti na odgovarajući način kako bi se poboljšala vidljivost."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Raskrižja, skretanja i kružni tokovi",
+"subcategory":"Popuštanje puta",
+"englishSubcategory":"Giving Way",
+"description":"Na nereguliranom raskrižju, vozač mora dati prednost vozilima koja se približavaju s desne strane.\n\n Ovo pravilo vrijedi kada nema semafora, znakova stop ili znakova davanja prednosti.\n\n Na T-raskrižju, vozač na završnoj cesti mora dati prednost vozilima na nastavku ceste.\n\n Prilikom ulaska na cestu s prilaza ili nogostupa, vozač mora dati prednost svim vozilima i pješacima na cesti."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Raskrižja, skretanja i kružni tokovi",
+"subcategory":"Okreti",
+"englishSubcategory":"Turns",
+"description":"Prilikom skretanja lijevo na raskrižju, vozači moraju dati prednost pješacima koji prelaze cestu na koju ulaze.\n\n Prilikom skretanja desno na raskrižju, vozači moraju dati prednost vozilima koja dolaze ravno ili skreću lijevo.\n\n Prilikom polukružnog okretanja, vozač mora dati prednost svim ostalim vozilima i pješacima.\n\n Prije skretanja na raskrižju, vozači moraju dati žmigavac i provjeriti promet, bicikliste i pješake."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Raskrižja, skretanja i kružni tokovi",
+"subcategory":"Kružni tokovi",
+"englishSubcategory":"Roundabouts",
+"description":"Prilikom ulaskaukružni tok, vozači moraju dati prednost vozilima koja su većukružnom toku.\n\n Vozači moraju dati lijevi signal prilikom izlaska iz kružnog toka kako bi obavijestili ostale sudionikeuprometu o svojoj namjeri da krenu.\n\n Vozači bi se trebali približavati kružnim tokovima brzinom koja im omogućuje sigurno davanje prednosti i zaustavljanje ako je potrebno."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Oznake na cesti, trake i pretjecanje",
+"subcategory":"Oznake na cesti",
+"englishSubcategory":"Road Markings",
+"description":"Jedna neprekidna središnja linija znači da vozači ne smiju prelaziti ili prelaziti liniju.\n\n Prelazak je dopušten samouvrlo ograničenim okolnostima, kao što je ulazak ili izlazak s posjeda ako je dopušten.\n\n Isprekidana središnja linija označava da vozači mogu prijeći liniju kada je to sigurno.\n\n Ovo se obično koristi za pretjecanje ili skretanje.\n\n Dvostruka neprekidna središnja linija znači da vozači ne smiju prelaziti ili prelaziti linije ni pod kojim okolnostima.\n\n Bijele rubne linije označavaju rub kolnika i pomažu vozačima da prepoznaju prometno područje ceste."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Oznake na cesti, trake i pretjecanje",
+"subcategory":"Pretjecanje",
+"englishSubcategory":"Overtaking",
+"description":"Pretjecanje je zabranjeno kad god je nesigurno ili kada ga znakovi ili oznake na cesti zabranjuju.\n\n Vozači uvijek moraju procijeniti vidljivost i nadolazeći promet prije pretjecanja.\n\n Vozač koji pretječeupotpunosti je odgovoran za osiguravanje sigurnog izvršenja manevra.\n\n Prilikom pretjecanja biciklista, vozači moraju omogućiti dovoljan bočni razmak kako bi se osigurala sigurnost biciklista."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Oznake na cesti, trake i pretjecanje",
+"subcategory":"Trake",
+"englishSubcategory":"Lanes",
+"description":"Prije promjene trake, vozači moraju signalizirati svoju namjeru i dati prednost vozilima koja se već nalazeutraciukoju se kreću.\n\n Traka označena simbolom bicikla označava biciklističku traku rezerviranu za bicikliste.\n\n Vozači ne smiju voziti biciklističkom trakom osim ako im to nije dopušteno.\n\n Autobusne trake označene znakovima i oznakama na cesti smiju koristiti samo vozila kojima je to dopušteno.\n\n Vozači se moraju pridržavati radnog vremena prikazanog na znakovima."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Pravila zaustavljanja, parkiranja i vožnje uz cestu",
+"subcategory":"Ograničenja parkiranja",
+"englishSubcategory":"Parking Restrictions",
+"description":"Parkiranje preblizu ugla nije sigurno jer blokira vidljivost vozačima i pješacima.\n\n Parkiranje na pogrešnoj strani ceste okrenutoj prema prometu nije sigurno iumnogim situacijama može biti ilegalno.\n\n Zaustavljanje ili parkiranje na pješačkom prijelazu je zabranjeno jer ugrožava pješake i blokira vidljivost."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Pravila zaustavljanja, parkiranja i vožnje uz cestu",
+"subcategory":"Pravila zaustavljanja",
+"englishSubcategory":"Stopping Rules",
+"description":"Prije otvaranja vrata nakon parkiranjaublizini prometa, morate provjeriti retrovizore i mrtve kutove.\n\n To pomažeusprječavanju sudara s vozilima, biciklistima ili drugim sudionicimauprometu.\n\n Kod znaka Stop, vozači se moraju potpuno zaustaviti na liniji zaustavljanja ili prije ulaskauraskrižje.\n\n Na semaforu biste trebali voziti unatrag ili mijenjati položaj samo ako je to sigurno i ne ugrožava druge sudionikeuprometu."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Pješaci, biciklisti i ranjivi sudioniciuprometu",
+"subcategory":"Pješaci",
+"englishSubcategory":"Pedestrians",
+"description":"Na pješačkim prijelazima bez semafora, vozači koji se približavaju prijelazu moraju dati prednost pješacima koji se nalaze na prijelazu ili ulaze na njega.\n\n Na semaforima vozači moraju dati prednost pješacima koji imaju zeleni signal za pješake."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Pješaci, biciklisti i ranjivi sudioniciuprometu",
+"subcategory":"Biciklisti",
+"englishSubcategory":"Cyclists",
+"description":"Prilikom pretjecanja biciklista, vozači moraju omogućiti dovoljan bočni razmak kako bi osigurali sigurnost biciklista.\n\n Biciklisti su legitimni korisnici cesta i mogu voziti po cesti, biciklističkim stazama ili zajedničkim putovima gdje je to dopušteno."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Pješaci, biciklisti i ranjivi sudioniciuprometu",
+"subcategory":"Zajedničke zone",
+"englishSubcategory":"Shared Zones",
+"description":"U zajedničkim zonama pješaci imaju prednost pred vozilima, a vozači moraju putovati vrlo malim brzinama."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Pješaci, biciklisti i ranjivi sudioniciuprometu",
+"subcategory":"Starije osobe i osobe s invaliditetom",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Stariji ili invalidni pješaci mogu se kretati sporo ili imati smanjenu svijest, što zahtijeva od vozača da ostave dodatno vrijeme i prostor.\n\n Prilikom približavanja pješacima s bijelim štapom ili psom vodičem, vozači bi trebali usporiti i biti spremni zaustaviti se."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Posebne situacije i cestovna okruženja",
+"subcategory":"Vremenski uvjeti",
+"englishSubcategory":"Weather Conditions",
+"description":"Prilikom vožnje po jakoj kiši, vozači bi trebali smanjiti brzinu i povećati sigurnosni razmak.\n\n Kiša smanjuje vidljivost i prianjanje guma, povećavajući zaustavni put.\n\n Vožnja kroz poplavnu vodu je opasna jer dubina i stanje ceste mogu biti nepoznati.\n\n Poplavna voda može oprati vozila ili sakriti oštećenja na cesti.\n\n Magla značajno smanjuje vidljivost.\n\n Vozači bi trebali usporiti, koristiti kratka svjetla i biti spremni zaustaviti se.\n\n Jaki vjetrovi mogu utjecati na stabilnost vozila, posebno kod vozila s visokim bočnim stranama.\n\n Vozači bi trebali smanjiti brzinu i održavati čvrstu kontrolu upravljanja.\n\n Akvaplaning nastaje kada gume izgube kontakt s površinom ceste zbog vode.\n\n Vozači bi trebali popustiti s papučica i glatko upravljati ako se to dogodi."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Posebne situacije i cestovna okruženja",
+"subcategory":"Vožnjaururalnim područjima",
+"englishSubcategory":"Rural Driving",
+"description":"Na seoskim cestama životinje mogu neočekivano ući na kolnik.\n\n Vozači trebaju ostati oprezni i spremni usporiti ili se zaustaviti.\n\n Noćna vožnja seoskim cestama je opasna zbog smanjene vidljivosti i povećane aktivnosti divljih životinja.\n\n Ako se životinja iznenada pojavi na cesti, vozači trebaju snažno kočiti i sigurno upravljati bez opasnog skretanja."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Posebne situacije i cestovna okruženja",
+"subcategory":"Radovi na cesti",
+"englishSubcategory":"Roadworks",
+"description":"Prilikom približavanja radovima na cesti, vozači moraju poštivati privremene znakove i smanjena ograničenja brzine.\n\n Ova pravila vrijede čak i ako radnici nisu vidljivi.\n\n Privremena ograničenja brzine na radovima na cesti postoje radi zaštite radnika i sudionikauprometu.\n\n Vozači ne smiju prekoračiti ta ograničenja."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Vozila hitne pomoći i upute za policiju",
+"subcategory":"Vozila hitne pomoći",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Kada se vozilo hitne pomoći približava koristeći bljeskajuća svjetla ili sirene, vozači se moraju sigurno maknuti s puta i pustiti ga da prođe.\n\n Na višetračnim cestama vozači trebaju dati znak i pomaknuti seuslobodnu traku ili lijevo gdje je to moguće kako bi omogućili prolazak vozila hitne pomoći.\n\n Ako se vozilo hitne pomoći zaustavi na semaforu i približava se straga, vozači se mogu pažljivo kretati pored crte zaustavljanja ako je to sigurno.\n\n Vozači nikada ne smiju blokirati put vozilu hitne pomoći, bez obzira na vrstu ceste ili prometne uvjete.\n\n Ako se ne možete odmah maknuti za vozilo hitne pomoći, nastavite sigurno voziti dok se ne možete zaustaviti bez stvaranja opasnosti.\n\n Prilikom pretjecanja zaustavljenog vozila hitne pomoći s bljeskajućim svjetlima, vozači trebaju usporiti i nastaviti oprezno."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Vozila hitne pomoći i upute za policiju",
+"subcategory":"Policijske upute",
+"englishSubcategory":"Police Directions",
+"description":"Vozači moraju poštivati upute policajaca ili ovlaštenih prometnih kontrolora, čak i ako su oneusuprotnosti s prometnim znakovima ili signalima.\n\n Policajac ili ovlašteni prometni kontrolor ima zakonsko ovlaštenje usmjeravati promet drugačije od znakova ili signala.\n\n Ako vam policija naloži da se zaustavite, skrenete, zaobiđete ili zaustavite, morate se sigurno i što prije pridržavati uputa.\n\n Nepoštivanje zakonite policijske upute je prekršaj i može rezultirati novčanim kaznama, kaznenim bodovima ili suspenzijom vozačke dozvole."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Sigurnosni pojasevi, dječje sjedalice i putnici",
+"subcategory":"Sigurnosni pojasevi",
+"englishSubcategory":"Seatbelts",
+"description":"U Queenslandu je vozač zakonski odgovoran za osiguravanje da svi putnici mlađi od 16 godina nose sigurnosni pojas ili odobreni sustav zaštite.\n\n Sigurnosni pojasevi moraju se nositi cijelo vrijeme dok se vozilo kreće ako je sigurnosni pojas postavljen.\n\n Sigurnosni pojas treba biti čvrsto vezan preko ramena i nisko preko bokova kako bi se smanjio rizik od ozljedausudaru.\n\n Sigurnosni pojasevi ne smiju se nepravilno nositi, primjerice ispod ruke ili uvrnuti, jer to uvelike povećava rizik od ozbiljnih ozljeda."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Sigurnosni pojasevi, dječje sjedalice i putnici",
+"subcategory":"Dječje autosjedalice",
+"englishSubcategory":"Child Restraints",
+"description":"Dojenčad moraju biti vezanauodobrenoj dječjoj sjedalici okrenutoj prema natrag jer ona pruža najbolju zaštitu za glavu i vrat.\n\n Djeca bi trebala prelaziti iz autosjedaliceusigurnosni pojas za odrasle samo kada ispunjavaju minimalne zakonske uvjete za dob i veličinu.\n\n Dječje sjedalice moraju biti pravilno postavljene i podešene jer neispravno postavljanje značajno smanjuje zaštituuslučaju sudara."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Sigurnosni pojasevi, dječje sjedalice i putnici",
+"subcategory":"Putnici",
+"englishSubcategory":"Passengers",
+"description":"Putnici koji nisu vezani mogu biti teško ozlijeđeni ili ozlijediti drugeusudaru zbog nekontroliranog kretanja.\n\n Ako putnik ometa vozača, najsigurnija je radnja zamoliti ga da se zaustavi kako bi se vozač mogao usredotočiti na sigurnu vožnju.\n\n Putnici bi uvijek trebali provjeriti promet i bicikliste prije otvaranja vrata vozila kako bi spriječili sudare i ozljede."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Sigurnost vozila, osnove kvarova i održavanja",
+"subcategory":"Gume",
+"englishSubcategory":"Tyres",
+"description":"Nedovoljno napumpane gume smanjuju upravljivost i povećavaju zaustavni put.\n\n Također povećavaju nakupljanje topline i mogu povećati rizik od pucanja gume.\n\n Gume treba redovito provjeravati radi dubine profila i ispravnog tlakaugumama.\n\n Dobar profil pomažeuodržavanju prianjanja, posebnoumokrim uvjetima."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Sigurnost vozila, osnove kvarova i održavanja",
+"subcategory":"Svjetla",
+"englishSubcategory":"Lights",
+"description":"Prednja svjetla moraju raditi noću i kad god je vidljivost slaba.\n\n Radna svjetla pomažu vam da vidite opasnosti i pomažu drugim sudionicimauprometu da vas vide.\n\n Stop svjetla su važna jer upozoravaju druge vozače da usporavate ili se zaustavljate.\n\n Neispravna stop svjetla povećavaju rizik od sudara straga."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Sigurnost vozila, osnove kvarova i održavanja",
+"subcategory":"Opće održavanje",
+"englishSubcategory":"General Maintenance",
+"description":"Vozač je odgovoran za osiguravanje ispravnosti vozila.\n\n Redovite provjere i servisiranje pomažuuranom prepoznavanju i rješavanju sigurnosnih problema."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Svijest o teretima, vuči i teškim vozilima",
+"subcategory":"Opterećenja",
+"englishSubcategory":"Loads",
+"description":"Tereti moraju biti osigurani kako ne bi mogli pasti ili se pomicati i stvarati opasnost za druge sudionikeuprometu.\n\n Neosiguran teret može uzrokovati sudare, ozljede i štetu.\n\n Ako je teret postavljen previsoko ili neravnomjerno, stabilnost vozila može se smanjiti.\n\n To povećava rizik od prevrtanja i gubitka kontrole.\n\n Preopterećenje vozila može smanjiti performanse kočenja i upravljanja.\n\n Također može povećati opterećenje guma i ovjesa, povećavajući rizik od sudara.\n\n Ako teret viri iz stražnjeg dijela vozila, mora se osigurati i po potrebi učiniti vidljivim.\n\n Loše osigurani tereti koji vire mogu udariti druge sudionikeuprometu ili pasti na cestu."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Svijest o teretima, vuči i teškim vozilima",
+"subcategory":"Vuča",
+"englishSubcategory":"Towing",
+"description":"Vuča prikolice povećava zaustavni put jer vozilo ima dodatnu težinu za usporavanje.\n\n Vozači bi trebali ostaviti više prostora i ranije kočiti.\n\n Prije vuče vozači bi trebali provjeriti spojnicu, svjetla prikolice, sigurnosni lanac i je li teret osiguran.\n\n Vuča s kvarovima može dovesti do odvajanja ili sudara.\n\n Ako prikolica počne ljuljati, najsigurniji odgovor je otpustiti papučicu gasa i održavati upravljač stabilnim.\n\n Naglo kočenje ili ubrzanje mogu pogoršati ljuljanje."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Svijest o teretima, vuči i teškim vozilima",
+"subcategory":"Teška vozila",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Teškim vozilima treba puno više vremena za zaustavljanje nego automobilima.\n\n Presijecanje ispred kamiona uklanja mu prostor za zaustavljanje i može uzrokovati ozbiljne sudare.\n\n Kamioni imaju velike mrtve kutove blizu sebe i neposredno iza sebe.\n\n Izbjegavajte vožnjuutim područjima jer vas vozač možda neće vidjeti.\n\n Kamionima može biti potreban dodatni prostor i mogu široko skrenuti, posebnoublizini raskrižja.\n\n Nije sigurno pretjecati kamion neposredno prije raskrižja."
+}
+]

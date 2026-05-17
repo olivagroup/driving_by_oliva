@@ -1,0 +1,586 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Ceļu satiksmes noteikumi un likumi",
+"subcategory":"Ceļu juridiskā vara",
+"englishSubcategory":"Legal Authority on Roads",
+"description":"Ceļu satiksmes noteikumi Kvīnslendā ir likumi, kas jāievēro visiem ceļu satiksmes dalībniekiem.\n\n Autovadītājiem vienmēr jāievēro ceļa zīmes, luksofori, ceļa marķējums un ceļu satiksmes noteikumi.\n\n Policijas darbiniekiem un pilnvarotiem satiksmes regulētājiem ir likumīgas tiesības regulēt satiksmi.\n\n Ja policijas darbinieka vai satiksmes regulētāja norādījums ir pretrunā ar zīmi vai signālu, norādījums ir jāievēro.\n\n Likumīga norādījuma neievērošana ir pārkāpums."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Ceļu satiksmes noteikumi un likumi",
+"subcategory":"Vadītāja atbildība",
+"englishSubcategory":"Driver Responsibility",
+"description":"Vadītāji ir juridiski atbildīgi par rūpīgu un uzmanību braukšanu vienmēr.\n\n Vadītājs nedrīkst braukt neuzmanīgi, bīstami vai nolaidīgi.\n\n Vadītājiem ir jāveic saprātīgi pasākumi, lai izvairītos no avārijām un samazinātu risku citiem.\n\n Vadītājs ir atbildīgs par sava transportlīdzekļa drošu vadīšanu jebkuros apstākļos."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Ceļu satiksmes noteikumi un likumi",
+"subcategory":"Dodot ceļu",
+"englishSubcategory":"Giving Way",
+"description":"Ceļa došana nozīmē ātruma samazināšanu un apstāšanos, ja nepieciešams, lai izvairītos no sadursmes.\n\n Vadītājiem ir jādod ceļš, kad to pieprasa zīmes, ceļu satiksmes noteikumi vai satiksmes apstākļi.\n\n Vadītājam, iebraucot ceļā no piebraucamā ceļa, autostāvvietas vai gājēju celiņa, ir jādod ceļš visiem transportlīdzekļiem un gājējiem.\n\n Ceļa nedošana, kad tas nepieciešams, ir pārkāpums."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Ceļu satiksmes noteikumi un likumi",
+"subcategory":"Krustojums",
+"englishSubcategory":"Intersections",
+"description":"Krustojumos autovadītājiem jāievēro luksoforu, zīmju un ceļa marķējumu norādījumi.\n\n Ja zīmju vai signālu nav, autovadītājiem ir jādod ceļš saskaņā ar Kvīnslendas ceļu satiksmes noteikumiem.\n\n Autovadītājiem, kas nogriežas pa labi, ir jādod ceļš pretimbraucošajai satiksmei, kas brauc taisni vai nogriežas pa kreisi.\n\n Arī gājējiem, ja nepieciešams, ir jādod priekšroka."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Ceļu satiksmes noteikumi un likumi",
+"subcategory":"Apļveida krustojumi",
+"englishSubcategory":"Roundabouts",
+"description":"Tuvojoties apļveida krustojumam, autovadītājiem ir jādod ceļš transportlīdzekļiem, kas jau atrodas aplī.\n\n Autovadītājiem ir jādod ceļš transportlīdzekļiem, kas tuvojas no labās puses.\n\n Iebraucot un izbraucot no apļa, ir nepieciešama pareiza signālu lietošana.\n\n Ceļa nedošana aplī var izraisīt nopietnas sadursmes."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Ceļu satiksmes noteikumi un likumi",
+"subcategory":"Satiksmes signāli",
+"englishSubcategory":"Traffic Signals",
+"description":"Luksofori kontrolē transportlīdzekļu un gājēju kustību.\n\n Sarkanā gaisma nozīmē apstāties un palikt apstātam.\n\n Dzeltenā gaisma nozīmē apstāties, ja to ir droši darīt.\n\n Zaļā gaisma ļauj turpināt braukt, bet jums joprojām ir jādod ceļš tur, kur tas nepieciešams."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Ceļu satiksmes noteikumi un likumi",
+"subcategory":"U-apgriezieni",
+"englishSubcategory":"U-Turns",
+"description":"Kvīnslendā ir atļauts apgriezties, ja vien zīme to neaizliedz.\n\n Vadītājiem jānodrošina, ka apgriešanos var veikt droši.\n\n Vadītājam, kas veic apgriešanos, ir jādod ceļš visiem pārējiem transportlīdzekļiem un gājējiem.\n\n Apgriešanos nedrīkst veikt, ja redzamība ir ierobežota vai nedroša."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Ceļu satiksmes noteikumi un likumi",
+"subcategory":"Gājēji",
+"englishSubcategory":"Pedestrians",
+"description":"Autovadītājiem jādod ceļš gājējiem uz gājēju pārejām.\n\n Nogriežoties krustojumā, autovadītājiem jādod ceļš gājējiem, kas šķērso iebrauktuvi.\n\n Īpaša uzmanība nepieciešama skolu, iepirkšanās centru un sabiedriskā transporta pieturu tuvumā."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Ceļu satiksmes noteikumi un likumi",
+"subcategory":"Avārijas transportlīdzekļi",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Autovadītājiem jādod ceļš neatliekamās palīdzības transportlīdzekļiem, izmantojot mirgojošas gaismas vai sirēnas.\n\n Tas var prasīt palēnināt ātrumu, novirzīties malā vai apstāties, ja nepieciešams.\n\n Autovadītāji nedrīkst traucēt neatliekamās palīdzības transportlīdzekļu ceļu vai cieši tiem sekot."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Ceļu satiksmes noteikumi un likumi",
+"subcategory":"Ceļa zīmju ievērošana",
+"englishSubcategory":"Obeying Road Signs",
+"description":"Ceļa zīmes sniedz ceļu satiksmes dalībniekiem juridiskus norādījumus un brīdinājumus.\n\n Autovadītājiem jāievēro regulējošās zīmes, piemēram, “Stop”, “Dodiet ceļu” un “Ātruma ierobežojuma” zīmes.\n\n Brīdinājuma zīmes brīdina autovadītājus par iespējamiem apdraudējumiem priekšā.\n\n Ceļa zīmju ignorēšana ir ceļu satiksmes noteikumu pārkāpums."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Ceļa zīmes un signāli",
+"subcategory":"Normatīvās zīmes",
+"englishSubcategory":"Regulatory Signs",
+"description":"Normatīvās zīmes sniedz norādījumus, kas autovadītājiem jāievēro saskaņā ar likumu.\n\n Tās ietver tādas zīmes kā “Stop”, “Dodiet ceļu”, “Iebraukt aizliegts”, “Apstāties aizliegts” un ātruma ierobežojuma zīmes.\n\n Normatīvās zīmes neievērošana ir pārkāpums."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Ceļa zīmes un signāli",
+"subcategory":"Brīdinājuma zīmes",
+"englishSubcategory":"Warning Signs",
+"description":"Brīdinājuma zīmes brīdina autovadītājus par iespējamiem apdraudējumiem vai ceļa apstākļu izmaiņām priekšā.\n\n Tās parasti ir dzeltenas un rombveida.\n\n Autovadītājiem jāsamazina ātrums un jāsagatavojas droši reaģēt."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Ceļa zīmes un signāli",
+"subcategory":"Ātruma zīmes",
+"englishSubcategory":"Speed Signs",
+"description":"Ātruma ierobežojuma zīmes norāda maksimālo atļauto ātrumu uz ceļa vai apgabala.\n\n Vadītāji nedrīkst pārsniegt noteikto ātruma ierobežojumu.\n\n Ātruma ierobežojumi var mainīties atkarībā no apstākļiem, piemēram, ceļa remontdarbiem vai skolu zonām."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Ceļa zīmes un signāli",
+"subcategory":"Luksofori",
+"englishSubcategory":"Traffic Lights",
+"description":"Luksofori regulē satiksmi krustojumos.\n\n Sarkanā gaisma nozīmē apstāties.\n\n Dzeltenā gaisma nozīmē apstāties, ja to ir droši darīt.\n\n Zaļā gaisma nozīmē, ka drīkstat turpināt braukt, ja krustojums ir brīvs."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Ceļa zīmes un signāli",
+"subcategory":"Bultu signāli",
+"englishSubcategory":"Arrow Signals",
+"description":"Bultu luksofori darbojas tikai bultiņas norādītajā virzienā.\n\n Zaļa bultiņa atļauj kustību tikai šajā virzienā.\n\n Sarkana bultiņa nozīmē, ka šajā virzienā nedrīkst braukt."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Ceļa zīmes un signāli",
+"subcategory":"Ceļa zīmes un apstāšanās zīmes",
+"englishSubcategory":"Give Way & Stop Signs",
+"description":"Zīme “Dodiet ceļu” liek autovadītājiem samazināt ātrumu un dot ceļu visai konfliktējošajai satiksmei.\n\n Zīme “Stop” liek autovadītājiem pilnībā apstāties un dot ceļu, pirms turpināt braukt.\n\n Autovadītājiem ir jāievēro zīme, pat ja ceļš šķiet brīvs."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Ceļa zīmes un signāli",
+"subcategory":"Joslu kontroles signāli",
+"englishSubcategory":"Lane Control Signals",
+"description":"Joslu kontroles luksofori tiek izmantoti virs joslām, lai regulētu satiksmes plūsmu.\n\n Zaļa bultiņa nozīmē, ka josla ir atvērta.\n\n Sarkans krusts vai balts X nozīmē, ka joslu nedrīkst izmantot."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Ceļa zīmes un signāli",
+"subcategory":"Gājēju signāli",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Gājēju luksofora signāls norāda, kad gājēji drīkst šķērsot ceļu.\n\n Autovadītājiem ir jādod ceļš gājējiem, kuri šķērso ceļu, ja gājēju luksofora signāls viņiem to atļauj."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Ceļa zīmes un signāli",
+"subcategory":"Īpaša mērķa zīmes",
+"englishSubcategory":"Special Purpose Signs",
+"description":"Īpaša mērķa zīmes ietver tādas zīmes kā koplietošanas zona, autobusu josla un skolu zona.\n\n Šīs zīmes piemēro īpašus noteikumus, kas autovadītājiem jāievēro šajās zonās."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Ceļa zīmes un signāli",
+"subcategory":"Pagaidu zīmes",
+"englishSubcategory":"Temporary Signs",
+"description":"Pagaidu zīmes tiek izmantotas tādās situācijās kā ceļa remontdarbi, avārijas vai īpaši pasākumi.\n\n Autovadītājiem ir jāievēro pagaidu zīmes, pat ja tās atšķiras no pastāvīgajām zīmēm.\n\n Ceļa remontdarbu zonās bieži tiek piemēroti samazināti ātruma ierobežojumi."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Ātruma un distances noteikumi",
+"subcategory":"Ātruma ierobežojumi",
+"englishSubcategory":"Speed Limits",
+"description":"Kvīnslendā apdzīvotās vietās noklusējuma ātruma ierobežojums ir 50 km/h, ja vien nav norādīts citādi.\n\n Autovadītājiem vienmēr jāpārbauda izvietotās ātruma ierobežojuma zīmes, jo ierobežojumi var mainīties.\n\n Maksimālais ātruma ierobežojums Kvīnslendā ir 110 km/h, ja vien nav norādīts zemāks ierobežojums.\n\n Autovadītāji nekad nedrīkst pārsniegt noteikto ātruma ierobežojumu."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Ātruma un distances noteikumi",
+"subcategory":"Skolu zonas",
+"englishSubcategory":"School Zones",
+"description":"Skolu zonas ātruma ierobežojumi ir spēkā uz zīmēm norādītajā laikā.\n\n Autovadītājiem jāievēro zīmēs norādītais skolas zonas ātruma ierobežojums, pat ja bērni nav redzami."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Ātruma un distances noteikumi",
+"subcategory":"Ceļu remontdarbi",
+"englishSubcategory":"Roadworks",
+"description":"Ceļa darbu zonās ātruma ierobežojumi ir samazināti no pirmās ātruma samazināšanas zīmes līdz ātruma samazināšanas zīmei.\n\n Autovadītājiem šie ierobežojumi ir jāievēro pat tad, ja strādnieku nav klāt."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Ātruma un distances noteikumi",
+"subcategory":"Sekošanas attālums",
+"englishSubcategory":"Following Distance",
+"description":"Labos braukšanas apstākļos autovadītājiem jāievēro vismaz divu sekunžu minimālais attālums.\n\n Tas dod laiku reaģēt un droši apstāties."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Ātruma un distances noteikumi",
+"subcategory":"Sekošanas attālums",
+"englishSubcategory":"Following Distance",
+"description":"Sliktos vai slapjos apstākļos autovadītājiem jāpalielina distance, lai nodrošinātu garāku bremzēšanas ceļu."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Ātruma un distances noteikumi",
+"subcategory":"Apstāšanās ceļš",
+"englishSubcategory":"Stopping Distance",
+"description":"Bremzēšanas ceļš ietver reakcijas ceļu un bremzēšanas ceļu.\n\n Palielinoties ātrumam, kopējais bremzēšanas ceļš ievērojami palielinās."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Ātruma un distances noteikumi",
+"subcategory":"Apstāšanās ceļš",
+"englishSubcategory":"Stopping Distance",
+"description":"Slapji, grants vai slideni ceļi palielina bremzēšanas ceļu.\n\n Vadītājiem ir jāsamazina ātrums, lai tas atbilstu ceļa apstākļiem."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Ātruma un distances noteikumi",
+"subcategory":"Koplietošanas zonas",
+"englishSubcategory":"Shared Zones",
+"description":"Koplietošanas zonās ātruma ierobežojums ir 10 km/h.\n\n Autovadītājiem vienmēr jābūt gataviem apstāties gājēju priekšā."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Ātruma un distances noteikumi",
+"subcategory":"Vadītāja atbildība",
+"englishSubcategory":"Driver Responsibility",
+"description":"Vadītāji vienmēr ir atbildīgi par ātruma kontroli.\n\n Ātruma brīdinājuma sistēmas vai transportlīdzekļa tehnoloģijas neatbrīvo no šīs atbildības."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Vadītāja pienākumi",
+"subcategory":"Vadītāja vispārējie pienākumi",
+"englishSubcategory":"General Driver Duties",
+"description":"Autovadītājiem vienmēr jābrauc uzmanīgi un uzmanīgi.\n\n Ja jūtaties pārāk noguris, slikti vai nespējat droši vadīt automašīnu, pirms turpināt braukt, jums jāpārtrauc braukšana un jāatpūšas."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Vadītāja pienākumi",
+"subcategory":"Avārijas un incidenti",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Ja esat iesaistīts avārijā, kurā gūtas traumas vai nāve, jums nekavējoties jāapstājas, jāpalīdz, ja iespējams, un jāsazinās ar neatliekamās palīdzības dienestiem."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Vadītāja pienākumi",
+"subcategory":"Vadītāja vispārējie pienākumi",
+"englishSubcategory":"General Driver Duties",
+"description":"Pirms braukšanas uzsākšanas vadītājam ir jāpārliecinās, ka transportlīdzeklis ir braukšanas kārtībā un droši lietojams."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Vadītāja pienākumi",
+"subcategory":"Avārijas un incidenti",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Ja avārijas rezultātā rodas mantiski zaudējumi un īpašnieks nav klāt, jums jāapstājas un jāatstāj savi dati vai jāziņo par avāriju policijai."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Vadītāja pienākumi",
+"subcategory":"Policijas norādes",
+"englishSubcategory":"Police Directions",
+"description":"Autovadītājiem jāuzrāda autovadītāja apliecība vai jāsniedz savi dati pēc policijas darbinieka pieprasījuma."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Vadītāja pienākumi",
+"subcategory":"Avārijas un incidenti",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Par negadījumu policijai jāziņo, ja tajā ir cietušie, nāve vai nodarīti ievērojami mantiskie zaudējumi."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Vadītāja pienākumi",
+"subcategory":"Pasažieri",
+"englishSubcategory":"Passengers",
+"description":"Vadītāji ir atbildīgi par to, lai visi pasažieri būtu pareizi piesprādzēti ar drošības jostām vai apstiprinātām drošības sistēmām."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Vadītāja pienākumi",
+"subcategory":"Avārijas un incidenti",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Pēc nelielas avārijas bez cietušajiem autovadītājiem jāapstājas un jāapmainās ar informāciju ar otru iesaistīto pusi."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Vadītāja pienākumi",
+"subcategory":"Vadītāja vispārējie pienākumi",
+"englishSubcategory":"General Driver Duties",
+"description":"Ja braukšanas laikā redze pasliktinās, jums jāpārtrauc braukšana, līdz braukšanu var droši turpināt."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Vadītāja pienākumi",
+"subcategory":"Avārijas un incidenti",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Ja cits vadītājs pamet negadījuma vietu, jums par notikušo pēc iespējas ātrāk jāziņo policijai."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkohols, narkotikas un veselība",
+"subcategory":"Alkohola ierobežojumi",
+"englishSubcategory":"Alcohol Limits",
+"description":"Kvīnslendā maksimālā alkohola koncentrācija asinīs (BAC) atvērta vadītāja apliecības turētājam ir 0,05.\n\n Mācību un pagaidu vadītājiem vienmēr ir jābūt 0,00 promiļu alkohola koncentrācijai asinīs."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkohols, narkotikas un veselība",
+"subcategory":"Alkohola ietekme",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkohols ietekmē braukšanas spējas jau no pirmās iedzeršanas reizes.\n\n Tas palēnina reakcijas laiku, samazina koordināciju un pasliktina spriestspējas."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkohols, narkotikas un veselība",
+"subcategory":"Narkotikas un braukšana",
+"englishSubcategory":"Drugs & Driving",
+"description":"Kvīnslendā braukt ar nelegālām narkotikām ir pārkāpums.\n\n Jums var tikt izvirzīta apsūdzība pat tad, ja nejūtaties apreibis."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkohols, narkotikas un veselība",
+"subcategory":"Narkotikas un braukšana",
+"englishSubcategory":"Drugs & Driving",
+"description":"Ceļa malā veiktajās narkotiku pārbaudēs parasti tiek atklātas kanabisa, MDMA un metamfetamīna vielas.\n\n Policija jebkurā laikā var pieprasīt siekalu testu."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkohols, narkotikas un veselība",
+"subcategory":"Medikamenti un braukšana",
+"englishSubcategory":"Medication & Driving",
+"description":"Dažas recepšu un bezrecepšu zāles var ietekmēt spēju vadīt transportlīdzekli.\n\n Vienmēr pārbaudiet brīdinājumus un izvairieties no braukšanas, ja neesat pārliecināts."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Drošas braukšanas prakse",
+"subcategory":"Aizsardzības braukšana",
+"englishSubcategory":"Defensive Driving",
+"description":"Aizsargājoša braukšana nozīmē paredzēt iespējamās briesmas un citu satiksmes dalībnieku rīcību.\n\n Mērķis ir samazināt avāriju risku, plānojot iepriekš un saglabājot drošības rezerves.\n\n Aizsargājošas braukšanas pamatprincips ir drošības bufera uzturēšana ap savu transportlīdzekli.\n\n Šī telpa dod laiku reaģēt, ja satiksmes apstākļi pēkšņi mainās.\n\n Ja cits vadītājs uzvedas agresīvi, drošākā reakcija ir radīt telpu un izvairīties no sadursmes.\n\n Nereaģējiet ar agresīvu braukšanu.\n\n Plānošana iepriekš palīdz vadītājiem izvairīties no pēkšņas bremzēšanas vai asas stūrēšanas.\n\n Vienmērīgi, agri lēmumi uzlabo transportlīdzekļa kontroli un drošību."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Drošas braukšanas prakse",
+"subcategory":"Apdraudējuma uztvere",
+"englishSubcategory":"Hazard Perception",
+"description":"Bīstamības uztvere ietver potenciālo briesmu agrīnu identificēšanu un reaģēšanu, pirms tās kļūst kritiskas.\n\n Autovadītājiem jāskatās tālu uz priekšu un sāniem, ne tikai uz priekšā braucošo transportlīdzekli.\n\n Novietotas automašīnas, gājēji, velosipēdisti un krustojumi ir bieži sastopami bīstamības avoti.\n\n Autovadītājiem jābūt uzmanīgiem attiecībā uz pēkšņām kustībām vai izmaiņām satiksmes plūsmā.\n\n Regulāra spoguļu pārbaude palīdz autovadītājiem sekot līdzi apkārtējai satiksmei.\n\n Šī izpratne ir būtiska drošai joslu maiņai un bremzēšanai."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Drošas braukšanas prakse",
+"subcategory":"Ceļa apstākļi",
+"englishSubcategory":"Road Conditions",
+"description":"Ceļa apstākļi, piemēram, lietus, grants ceļš vai slikta redzamība, liek autovadītājiem samazināt ātrumu.\n\n Autovadītājiem jāpielāgo sava braukšana apstākļiem.\n\n Slapji ceļi samazina riepu saķeri un palielina bremzēšanas ceļu.\n\n Autovadītājiem slapjos apstākļos jāsamazina ātrums un jāpalielina distance.\n\n Sliktas redzamības dēļ miglas, lietus vai žilbinošas gaismas dēļ autovadītājiem jāsamazina ātrums un jāpalielina distance.\n\n Lai uzlabotu redzamību, atbilstoši jāizmanto priekšējie lukturi."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Krustojumu, pagriezienu un apļu",
+"subcategory":"Dodot ceļu",
+"englishSubcategory":"Giving Way",
+"description":"Neregulējamā krustojumā vadītājam ir jādod ceļš transportlīdzekļiem, kas tuvojas no labās puses.\n\n Šis noteikums ir spēkā, ja nav luksofora, STOP zīmju vai ceļa zīmju.\n\n T veida krustojumā vadītājam, kas brauc pa beigu ceļu, ir jādod ceļš transportlīdzekļiem pa turpinošo ceļu.\n\n Iebraucot ceļā no piebraucamā ceļa vai gājēju celiņa, vadītājam ir jādod ceļš visiem transportlīdzekļiem un gājējiem uz ceļa."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Krustojumu, pagriezienu un apļu",
+"subcategory":"Pagriezieni",
+"englishSubcategory":"Turns",
+"description":"Nogriežoties pa kreisi krustojumā, autovadītājiem jādod ceļš gājējiem, kas šķērso ceļu, pa kuru viņi iebrauc.\n\n Nogriežoties pa labi krustojumā, autovadītājiem jādod ceļš pretimbraucošajiem transportlīdzekļiem, kas brauc taisni uz priekšu vai nogriežas pa kreisi.\n\n Veicot apgriešanos, autovadītājam jādod ceļš visiem pārējiem transportlīdzekļiem un gājējiem.\n\n Pirms pagrieziena krustojumā autovadītājiem jāieslēdz pagrieziena signāls un jāpārbauda satiksme, velosipēdisti un gājēji."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Krustojumu, pagriezienu un apļu",
+"subcategory":"Apļveida krustojumi",
+"englishSubcategory":"Roundabouts",
+"description":"Iebraucot apļveida krustojumā, autovadītājiem ir jādod ceļš transportlīdzekļiem, kas jau atrodas aplī.\n\n Izbraucot no apļveida krustojuma, autovadītājiem ir jāparāda kreisais pagrieziena rādītājs, lai informētu citus satiksmes dalībniekus par savu nodomu izbraukt.\n\n Autovadītājiem jātuvojas apļveida krustojumiem ar ātrumu, kas ļauj viņiem droši dot ceļu un nepieciešamības gadījumā apstāties."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Ceļa marķējumi, joslas un apdzīšana",
+"subcategory":"Ceļa marķējumi",
+"englishSubcategory":"Road Markings",
+"description":"Viena nepārtraukta centra līnija nozīmē, ka autovadītāji nedrīkst šķērsot līniju vai uz tās uzkāpt.\n\n Šķērsošana ir atļauta tikai ļoti ierobežotos apstākļos, piemēram, iebraucot īpašumā vai izbraucot no tā, ja tas ir atļauts.\n\n Pārtraukta centra līnija norāda, ka autovadītāji drīkst šķērsot līniju, kad to ir droši darīt.\n\n To parasti izmanto apdzīšanai vai pagriezieniem.\n\n Dubulta nepārtraukta centra līnija nozīmē, ka autovadītāji nekādos apstākļos nedrīkst šķērsot līnijas vai uz tās uzkāpt.\n\n Baltas malu līnijas iezīmē brauktuves malu un palīdz autovadītājiem noteikt ceļa satiksmes zonu."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Ceļa marķējumi, joslas un apdzīšana",
+"subcategory":"Apdzīšana",
+"englishSubcategory":"Overtaking",
+"description":"Apdzīšana ir aizliegta, ja tā ir nedroša vai ja to aizliedz zīmes vai ceļa marķējums.\n\n Autovadītājiem pirms apdzīšanas vienmēr jānovērtē redzamība un pretimbraucošā satiksme.\n\n Apdzenošais vadītājs ir pilnībā atbildīgs par to, lai manevru varētu droši pabeigt.\n\n Apdzenot velosipēdistu, autovadītājiem jāatstāj pietiekama sānu klīrenss, lai nodrošinātu velosipēdista drošību."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Ceļa marķējumi, joslas un apdzīšana",
+"subcategory":"Joslas",
+"englishSubcategory":"Lanes",
+"description":"Pirms joslu maiņas autovadītājiem ir jāparāda savs nodoms un jādod ceļš transportlīdzekļiem, kas jau atrodas joslā, kurā viņi pārvietojas.\n\n Josla, kas apzīmēta ar velosipēda simbolu, norāda uz velosipēdu joslu, kas paredzēta velosipēdistiem.\n\n Autobusu joslas, kas apzīmētas ar zīmēm un ceļa marķējumu, drīkst izmantot tikai atļautie transportlīdzekļi.\n\n Autovadītājiem ir jāievēro uz zīmēm norādītie darbības laiki."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Apstāšanās, novietošana stāvvietā un ceļa noteikumi",
+"subcategory":"Autostāvvietu ierobežojumi",
+"englishSubcategory":"Parking Restrictions",
+"description":"Novietot automašīnu pārāk tuvu stūrim nav droši, jo tas aizsedz redzamību autovadītājiem un gājējiem.\n\n Novietot automašīnu nepareizajā ceļa pusē pretī satiksmei nav droši un daudzās situācijās var būt nelikumīgi.\n\n Apstāties vai novietot automašīnu uz gājēju pārejas ir aizliegts, jo tas apdraud gājējus un aizsedz redzamību."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Apstāšanās, novietošana stāvvietā un ceļa noteikumi",
+"subcategory":"Apstāšanās noteikumi",
+"englishSubcategory":"Stopping Rules",
+"description":"Pirms durvju atvēršanas pēc novietošanas satiksmē, jāpārbauda spoguļi un aklās zonas.\n\n Tas palīdz novērst sadursmes ar transportlīdzekļiem, velosipēdistiem vai citiem satiksmes dalībniekiem.\n\n Pie STOP zīmes autovadītājiem pilnībā jāapstājas pie STOP līnijas vai pirms iebraukšanas krustojumā.\n\n Braukt atpakaļgaitā vai mainīt pozīciju pie luksoforiem drīkst tikai tad, ja tas ir droši un neapdraud citus satiksmes dalībniekus."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Gājēji, velosipēdisti un neaizsargāti satiksmes dalībnieki",
+"subcategory":"Gājēji",
+"englishSubcategory":"Pedestrians",
+"description":"Gājēju pārejās bez luksofora autovadītājiem, kas tuvojas pārejai, ir jādod ceļš gājējiem, kuri atrodas uz pārejas vai iebrauc tajā.\n\n Pie luksofora autovadītājiem ir jādod ceļš gājējiem, kuriem deg zaļā gaisma."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Gājēji, velosipēdisti un neaizsargāti satiksmes dalībnieki",
+"subcategory":"Velosipēdisti",
+"englishSubcategory":"Cyclists",
+"description":"Apdzenot velosipēdistu, autovadītājiem ir jānodrošina pietiekama sānu brīva vieta, lai nodrošinātu velosipēdista drošību.\n\n Velosipēdisti ir likumīgi ceļu lietotāji un var braukt pa ceļu, velosipēdu celiņiem vai koplietošanas celiņiem, ja tas ir atļauts."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Gājēji, velosipēdisti un neaizsargāti satiksmes dalībnieki",
+"subcategory":"Koplietošanas zonas",
+"englishSubcategory":"Shared Zones",
+"description":"Koplietošanas zonās gājējiem ir prioritāte pār transportlīdzekļiem, un autovadītājiem jābrauc ar ļoti mazu ātrumu."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Gājēji, velosipēdisti un neaizsargāti satiksmes dalībnieki",
+"subcategory":"Gados vecāki cilvēki un cilvēki ar invaliditāti",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Gados vecāki vai invalīdi gājēji var pārvietoties lēni vai viņiem var būt samazināta uzmanība, tāpēc autovadītājiem ir jāparedz papildu laiks un telpa.\n\n Tuvojoties gājējiem ar baltu spieķi vai suni pavadoni, autovadītājiem jāsamazina ātrums un jābūt gataviem apstāties."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Īpašas situācijas un ceļa vide",
+"subcategory":"Laika apstākļi",
+"englishSubcategory":"Weather Conditions",
+"description":"Braucot stiprā lietū, autovadītājiem jāsamazina ātrums un jāpalielina distance.\n\n Lietus samazina redzamību un riepu saķeri, palielinot bremzēšanas ceļu.\n\n Braukšana pa plūdiem ir bīstama, jo ceļa dziļums un stāvoklis var nebūt zināms.\n\n Plūdu ūdens var aizskalot transportlīdzekļus vai paslēpt ceļa bojājumus.\n\n Migla ievērojami samazina redzamību.\n\n Autovadītājiem jāsamazina ātrums, jāizmanto tuvās gaismas un jābūt gataviem apstāties.\n\n Spēcīgs vējš var ietekmēt transportlīdzekļa stabilitāti, īpaši transportlīdzekļiem ar augstām malām.\n\n Autovadītājiem jāsamazina ātrums un jāsaglabā stingra stūrēšanas vadība.\n\n Akvaplanēšana rodas, kad riepas ūdens dēļ zaudē kontaktu ar ceļa virsmu.\n\n Ja tas notiek, autovadītājiem jāatbrīvojas no pedāļiem un jāstūrē vienmērīgi."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Īpašas situācijas un ceļa vide",
+"subcategory":"Braukšana laukos",
+"englishSubcategory":"Rural Driving",
+"description":"Uz lauku ceļiem dzīvnieki var negaidīti iekļūt brauktuvē.\n\n Autovadītājiem jābūt uzmanīgiem un gataviem samazināt ātrumu vai apstāties.\n\n Braukšana naktī pa lauku ceļiem ir bīstama samazinātas redzamības un palielinātas savvaļas dzīvnieku aktivitātes dēļ.\n\n Ja uz ceļa pēkšņi parādās dzīvnieks, autovadītājiem stingri jābremzē un droši stūrēt, neveicot bīstamus pagriezienus."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Īpašas situācijas un ceļa vide",
+"subcategory":"Ceļu remontdarbi",
+"englishSubcategory":"Roadworks",
+"description":"Tuvojoties ceļa remontdarbu vietām, autovadītājiem jāievēro pagaidu zīmes un samazināti ātruma ierobežojumi.\n\n Šie noteikumi ir spēkā pat tad, ja strādnieki nav redzami.\n\n Ceļa remontdarbu vietās pastāv pagaidu ātruma ierobežojumi, lai aizsargātu strādniekus un satiksmes dalībniekus.\n\n Autovadītāji nedrīkst pārsniegt šos ierobežojumus."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Neatliekamās palīdzības transportlīdzekļu un policijas norādes",
+"subcategory":"Avārijas transportlīdzekļi",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Kad tuvojas neatliekamās palīdzības transportlīdzeklis, izmantojot mirgojošas gaismas vai sirēnas, autovadītājiem droši jāpavirzās malā un jāļauj tam pabraukt garām.\n\n Uz daudzjoslu ceļiem autovadītājiem jāieslēdz pagrieziena rādītājs un jāpārvietojas uz brīvu joslu vai, ja iespējams, pa kreisi, lai neatliekamās palīdzības transportlīdzekļi varētu pabraukt garām.\n\n Ja transportlīdzeklis ir apstājies pie luksofora un no aizmugures tuvojas neatliekamās palīdzības transportlīdzeklis, autovadītāji var uzmanīgi pārvietoties garām stoplīnijai, ja tas ir droši.\n\n Autovadītāji nekad nedrīkst bloķēt neatliekamās palīdzības transportlīdzekļa ceļu neatkarīgi no ceļa tipa vai satiksmes apstākļiem.\n\n Ja nevarat nekavējoties pabraukt malā neatliekamās palīdzības transportlīdzeklim, turpiniet droši braukt, līdz varat apstāties, neradot briesmas.\n\n Apbraucot apstājušos neatliekamās palīdzības transportlīdzekli ar mirgojošām gaismām, autovadītājiem jāsamazina ātrums un jābrauc piesardzīgi."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Neatliekamās palīdzības transportlīdzekļu un policijas norādes",
+"subcategory":"Policijas norādes",
+"englishSubcategory":"Police Directions",
+"description":"Autovadītājiem ir jāpakļaujas policijas darbinieku vai pilnvarotu satiksmes regulētāju dotajiem norādījumiem, pat ja tie ir pretrunā ar ceļa zīmēm vai signāliem.\n\n Policijas darbiniekam vai pilnvarotam satiksmes regulētājam ir likumīgas tiesības vadīt satiksmi atšķirīgi no ceļa zīmēm vai signāliem.\n\n Ja policija liek jums apstāties, pagriezties, apbraukt vai novietot ceļu, jums tas jāpakļaujas droši un pēc iespējas ātrāk.\n\n Likumīgu policijas norādījumu neievērošana ir pārkāpums, un par to var tikt piemēroti naudas sodi, soda punkti vai vadītāja apliecības apturēšana."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Drošības jostas, bērnu sēdeklīši un pasažieri",
+"subcategory":"Drošības jostas",
+"englishSubcategory":"Seatbelts",
+"description":"Kvīnslendā vadītājs ir juridiski atbildīgs par to, lai visi pasažieri, kas jaunāki par 16 gadiem, lietotu drošības jostu vai apstiprinātu drošības sistēmu.\n\n Drošības jostas jālieto visu laiku, kad transportlīdzeklis pārvietojas, ja ir uzstādīta drošības josta.\n\n Drošības jostai jābūt stingri piestiprinātai pāri plecam un zemu pāri gurniem, lai samazinātu traumu risku sadursmes gadījumā.\n\n Drošības jostas nedrīkst valkāt nepareizi, piemēram, zem rokas vai savītas, jo tas ievērojami palielina nopietnu traumu risku."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Drošības jostas, bērnu sēdeklīši un pasažieri",
+"subcategory":"Bērnu drošības sistēmas",
+"englishSubcategory":"Child Restraints",
+"description":"Zīdaiņi jāpiesprādzē apstiprinātā, uz aizmuguri vērstā bērnu sēdeklītī, jo tas nodrošina vislabāko galvas un kakla aizsardzību.\n\n Bērniem jāpārsēžas no bērnu sēdeklīša uz pieaugušo drošības jostu tikai tad, ja viņi atbilst minimālajām likumā noteiktajām vecuma un izmēra prasībām.\n\n Bērnu sēdeklīšiem jābūt pareizi uzstādītiem un noregulētiem, jo nepareiza uzstādīšana ievērojami samazina aizsardzību sadursmes gadījumā."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Drošības jostas, bērnu sēdeklīši un pasažieri",
+"subcategory":"Pasažieri",
+"englishSubcategory":"Passengers",
+"description":"Nepiesprādzējušies pasažieri avārijas gadījumā nekontrolētas kustības dēļ var gūt nopietnus savainojumus vai savainot citus.\n\n Ja pasažieris novērš vadītāja uzmanību, drošākā rīcība ir lūgt viņam apstāties, lai vadītājs varētu koncentrēties uz drošu braukšanu.\n\n Pasažieriem pirms transportlīdzekļa durvju atvēršanas vienmēr jāpārbauda satiksme un velosipēdisti, lai novērstu sadursmes un traumas."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Transportlīdzekļu drošības, defektu un apkopes pamati",
+"subcategory":"Riepas",
+"englishSubcategory":"Tyres",
+"description":"Nepietiekami piepūstas riepas pasliktina vadāmību un palielina bremzēšanas ceļu.\n\n Tās arī palielina sakaršanu un var palielināt riepu bojājumu risku.\n\n Riepas regulāri jāpārbauda protektora dziļuma un pareizā spiediena ziņā.\n\n Labs protektors palīdz saglabāt saķeri, īpaši mitros apstākļos."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Transportlīdzekļu drošības, defektu un apkopes pamati",
+"subcategory":"Gaismas",
+"englishSubcategory":"Lights",
+"description":"Priekšējiem lukturiem jādarbojas naktī un ikreiz, kad redzamība ir slikta.\n\n Darbojošies lukturi palīdz saskatīt bīstamību un palīdz citiem satiksmes dalībniekiem jūs redzēt.\n\n Bremžu signāli ir svarīgi, jo tie brīdina citus autovadītājus, ka jūs palēnināt ātrumu vai apstājaties.\n\n Bojāti bremžu signāli palielina aizmugures sadursmju risku."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Transportlīdzekļu drošības, defektu un apkopes pamati",
+"subcategory":"Vispārējā apkope",
+"englishSubcategory":"General Maintenance",
+"description":"Vadītājs ir atbildīgs par transportlīdzekļa braukšanas kārtībā nodrošināšanu.\n\n Regulāras pārbaudes un apkope palīdz laikus identificēt un novērst drošības problēmas."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Kravas, vilkšana un smago transportlīdzekļu apzināšanās",
+"subcategory":"Kravas",
+"englishSubcategory":"Loads",
+"description":"Kravas jānostiprina tā, lai tās nevarētu nokrist vai izkustēties un radīt briesmas citiem satiksmes dalībniekiem.\n\n Nedroša krava var izraisīt avārijas, traumas un bojājumus.\n\n Ja krava ir novietota pārāk augstu vai nevienmērīgi, var samazināties transportlīdzekļa stabilitāte.\n\n Tas palielina apgāšanās un kontroles zaudēšanas risku.\n\n Transportlīdzekļa pārslodze var samazināt bremzēšanas un vadāmības veiktspēju.\n\n Tā var arī palielināt riepu un piekares slodzi, palielinot avārijas risku.\n\n Ja krava izvirzās no transportlīdzekļa aizmugures, tā ir jānostiprina un vajadzības gadījumā jāpadara redzama.\n\n Slikti nostiprinātas izvirzītas kravas var trāpīt citiem satiksmes dalībniekiem vai nokrist uz ceļa."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Kravas, vilkšana un smago transportlīdzekļu apzināšanās",
+"subcategory":"Vilkšana",
+"englishSubcategory":"Towing",
+"description":"Piekabes vilkšana palielina bremzēšanas ceļu, jo transportlīdzeklim ir papildu svars, lai palēninātu ātrumu.\n\n Vadītājiem jāatstāj vairāk vietas un bremzēt agrāk.\n\n Pirms vilkšanas vadītājiem jāpārbauda sakabe, piekabes gaismas, drošības ķēde un vai krava ir nostiprināta.\n\n Vilkšana ar bojājumiem var izraisīt piekabes atvienošanos vai avārijas.\n\n Ja piekabe sāk šūpoties, drošākā reakcija ir atbrīvot akseleratora pedāli un saglabāt stūrēšanu nekustīgu.\n\n Asa bremzēšana vai paātrinājums var pastiprināt šūpošanos."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Kravas, vilkšana un smago transportlīdzekļu apzināšanās",
+"subcategory":"Smagie transportlīdzekļi",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Smagajiem transportlīdzekļiem ir nepieciešams daudz ilgāks laiks, lai apstātos, nekā vieglajām automašīnām.\n\n Apstāšanās kravas automašīnas priekšā samazina tās apstāšanās vietu un var izraisīt nopietnas avārijas.\n\n Kravas automašīnām ir lielas aklās zonas tuvu tām un tieši aiz tām.\n\n Izvairieties no braukšanas šajās vietās, jo vadītājs var jūs neredzēt.\n\n Kravas automašīnām var būt nepieciešama papildu vieta, un tās var veikt platus pagriezienus, īpaši krustojumu tuvumā.\n\n Nav droši apdzīt kravas automašīnu tieši pirms krustojuma."
+}
+]

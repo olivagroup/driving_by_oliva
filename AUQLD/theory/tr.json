@@ -1,0 +1,586 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Trafik Kuralları ve Kanunları",
+"subcategory":"Karayollarında Yasal Otorite",
+"englishSubcategory":"Legal Authority on Roads",
+"description":"Queensland'deki trafik kuralları, tüm yol kullanıcılarının uyması gereken kanunlardır. Sürücüler her zaman trafik işaretlerine, trafik ışıklarına, yol çizgilerine ve trafik kurallarına uymalıdır. Polis memurları ve yetkili trafik kontrolörleri, trafiği yönlendirme konusunda yasal yetkiye sahiptir. Bir polis memuru veya trafik kontrolörünün yönlendirmesi bir işaret veya sinyalle çelişiyorsa, yönlendirmeye uyulmalıdır. Yasal bir yönlendirmeye uymamak suçtur."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Trafik Kuralları ve Kanunları",
+"subcategory":"Sürücünün Sorumluluğu",
+"englishSubcategory":"Driver Responsibility",
+"description":"Sürücüler, her zaman gerekli özen ve dikkatle araç kullanmaktan yasal olarak sorumludurlar. Sürücü, dikkatsiz, tehlikeli veya ihmalkar bir şekilde araç kullanmamalıdır. Sürücüler, kazaları önlemek ve başkalarına yönelik riski azaltmak için makul adımlar atmalıdır. Sürücü, her koşulda aracının güvenli bir şekilde kullanılmasından sorumludur."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Trafik Kuralları ve Kanunları",
+"subcategory":"Yol Vermek",
+"englishSubcategory":"Giving Way",
+"description":"Yol vermek, çarpışmayı önlemek için gerekirse yavaşlamak ve durmak anlamına gelir. Sürücüler, işaretler, trafik kuralları veya trafik koşulları gerektirdiğinde yol vermelidir. Bir araç, otoparktan veya kaldırımdan yola girerken tüm araçlara ve yayalara yol vermelidir. Yol vermemek suçtur."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Trafik Kuralları ve Kanunları",
+"subcategory":"Kavşaklar",
+"englishSubcategory":"Intersections",
+"description":"Kavşaklarda sürücüler trafik ışıklarına, işaretlere ve yol çizgilerine uymalıdır. İşaret veya sinyal yoksa, sürücüler Queensland yol kurallarına göre yol vermelidir. Sağa dönen sürücüler, düz giden veya sola dönen karşıdan gelen trafiğe yol vermelidir. Yayalara da gerektiğinde öncelik verilmelidir."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Trafik Kuralları ve Kanunları",
+"subcategory":"Döner Kavşaklar",
+"englishSubcategory":"Roundabouts",
+"description":"Döner kavşağa yaklaşırken, sürücüler kavşakta bulunan araçlara yol vermelidir. Sağdan yaklaşan araçlara da yol verilmelidir. Döner kavşaklara girerken ve çıkarken doğru sinyal verilmesi gereklidir. Döner kavşakta yol vermemek ciddi kazalara neden olabilir."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Trafik Kuralları ve Kanunları",
+"subcategory":"Trafik Sinyalleri",
+"englishSubcategory":"Traffic Signals",
+"description":"Trafik ışıkları, araçların ve yayaların hareketini kontrol eder. Kırmızı ışık durup beklemeniz gerektiği anlamına gelir. Sarı ışık, güvenli ise durmanız gerektiği anlamına gelir. Yeşil ışık ilerlemenize izin verir, ancak gerektiğinde yol vermelisiniz."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Trafik Kuralları ve Kanunları",
+"subcategory":"U dönüşleri",
+"englishSubcategory":"U-Turns",
+"description":"Queensland'de, bir işaretle yasaklanmadığı sürece U dönüşlerine izin verilir. Sürücüler, U dönüşünün güvenli bir şekilde tamamlanabileceğinden emin olmalıdır. U dönüşü yapan bir sürücü, diğer tüm araçlara ve yayalara yol vermelidir. Görüş mesafesinin sınırlı veya güvenli olmadığı yerlerde U dönüşü yapılmamalıdır."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Trafik Kuralları ve Kanunları",
+"subcategory":"Yayalar",
+"englishSubcategory":"Pedestrians",
+"description":"Sürücüler, yaya geçitlerinde yayalara yol vermelidir. Kavşaklarda dönüş yaparken, sürücüler, girilen yoldan geçen yayalara yol vermelidir. Okulların, alışveriş merkezlerinin ve toplu taşıma duraklarının yakınında ekstra dikkatli olunmalıdır."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Trafik Kuralları ve Kanunları",
+"subcategory":"Acil Durum Araçları",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Sürücüler, yanıp sönen ışıklar veya sirenler kullanan acil durum araçlarına yol vermelidir. Gerekirse yavaşlamak, kenara çekilmek veya durmak gerekebilir. Sürücüler, acil durum araçlarının yolunu engellememeli veya onları yakından takip etmemelidir."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Trafik Kuralları ve Kanunları",
+"subcategory":"Trafik İşaretlerine Uymak",
+"englishSubcategory":"Obeying Road Signs",
+"description":"Trafik işaretleri, yol kullanıcılarına yasal talimatlar ve uyarılar sağlar. Sürücüler, Dur, Yol Ver ve Hız Sınırı işaretleri gibi düzenleyici işaretlere uymak zorundadır. Uyarı işaretleri, sürücüleri ilerideki olası tehlikelere karşı uyarır. Trafik işaretlerini görmezden gelmek, trafik kanununa aykırılıktır."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Trafik İşaretleri ve Sinyalleri",
+"subcategory":"Düzenleyici İşaretler",
+"englishSubcategory":"Regulatory Signs",
+"description":"Yasal işaretler, sürücülerin kanunen uyması gereken talimatları verir. Bunlar arasında Dur, Yol Ver, Giriş Yasak, Park Yasak ve hız sınırı işaretleri bulunur. Yasal bir işarete uymamak suçtur."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Trafik İşaretleri ve Sinyalleri",
+"subcategory":"Uyarı İşaretleri",
+"englishSubcategory":"Warning Signs",
+"description":"Uyarı işaretleri, sürücüleri ilerideki olası tehlikelere veya yol koşullarındaki değişikliklere karşı uyarır. Genellikle sarı renkte ve elmas şeklindedirler. Sürücüler yavaşlamalı ve güvenli bir şekilde tepki vermeye hazırlanmalıdır."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Trafik İşaretleri ve Sinyalleri",
+"subcategory":"Hız Levhaları",
+"englishSubcategory":"Speed Signs",
+"description":"Hız sınırı levhaları, bir yol veya bölge için yasal azami hızı gösterir. Sürücüler, belirtilen hız sınırını aşmamalıdır. Hız sınırları, yol çalışmaları veya okul bölgeleri gibi koşullara bağlı olarak değişebilir."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Trafik İşaretleri ve Sinyalleri",
+"subcategory":"Trafik ışıkları",
+"englishSubcategory":"Traffic Lights",
+"description":"Trafik ışıkları kavşaklardaki trafiği kontrol eder. Kırmızı ışık dur anlamına gelir. Sarı ışık, durmak güvenliyse dur anlamına gelir. Yeşil ışık, kavşak boşsa ilerleyebileceğiniz anlamına gelir."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Trafik İşaretleri ve Sinyalleri",
+"subcategory":"Ok İşaretleri",
+"englishSubcategory":"Arrow Signals",
+"description":"Ok işaretli trafik sinyalleri yalnızca okun gösterdiği yönde geçerlidir. Yeşil ok yalnızca o yönde hareket etmenize izin verir. Kırmızı ok ise o yönde ilerlememeniz gerektiği anlamına gelir."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Trafik İşaretleri ve Sinyalleri",
+"subcategory":"Yol Ver ve Dur İşaretleri",
+"englishSubcategory":"Give Way & Stop Signs",
+"description":"Yol Ver işareti, sürücülerin yavaşlamasını ve karşıdan gelen tüm trafiğe yol vermesini gerektirir. Dur işareti ise sürücülerin tamamen durmasını ve ilerlemeden önce yol vermesini gerektirir. Yol açık görünse bile sürücüler işarete uymalıdır."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Trafik İşaretleri ve Sinyalleri",
+"subcategory":"Şerit Kontrol Sinyalleri",
+"englishSubcategory":"Lane Control Signals",
+"description":"Şerit kontrol sinyalleri, trafik akışını yönetmek için şeritlerin üzerinde kullanılır. Yeşil ok, şeridin açık olduğunu gösterir. Kırmızı çarpı veya beyaz X ise şeridin kullanılmaması gerektiğini gösterir."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Trafik İşaretleri ve Sinyalleri",
+"subcategory":"Yaya Sinyalleri",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Yaya geçidi sinyalleri, yayaların ne zaman yoldan geçebileceğini gösterir. Sürücüler, yaya geçidi sinyali izin verdiğinde yoldan geçen yayalara yol vermelidir."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Trafik İşaretleri ve Sinyalleri",
+"subcategory":"Özel Amaçlı Tabelalar",
+"englishSubcategory":"Special Purpose Signs",
+"description":"Özel amaçlı işaretler arasında Paylaşımlı Alan, Otobüs Şeridi ve Okul Alanı işaretleri gibi işaretler bulunur. Bu işaretler, sürücülerin bu alanlarda uyması gereken belirli kuralları belirtir."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Trafik İşaretleri ve Sinyalleri",
+"subcategory":"Geçici Tabelalar",
+"englishSubcategory":"Temporary Signs",
+"description":"Geçici işaretler, yol çalışmaları, kazalar veya özel etkinlikler gibi durumlarda kullanılır. Sürücüler, kalıcı işaretlerden farklı olsalar bile geçici işaretlere uymak zorundadır. Yol çalışması yapılan alanlarda genellikle hız sınırları düşürülür."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Hız ve Mesafe Kuralları",
+"subcategory":"Hız Sınırları",
+"englishSubcategory":"Speed Limits",
+"description":"Queensland'de, yerleşim alanlarında varsayılan hız sınırı, aksi belirtilmedikçe 50 km/saattir. Sürücüler, hız sınırları değişebileceğinden, her zaman hız levhalarını kontrol etmelidir. Queensland'de azami hız sınırı, daha düşük bir sınır belirtilmedikçe 110 km/saattir. Sürücüler, belirtilen hız sınırını asla aşmamalıdır."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Hız ve Mesafe Kuralları",
+"subcategory":"Okul Bölgeleri",
+"englishSubcategory":"School Zones",
+"description":"Okul bölgesi hız sınırları, işaretlerde belirtilen saatlerde geçerlidir. Sürücüler, çocuklar görünürde olmasa bile, işaretlerde belirtilen okul bölgesi hız sınırına uymak zorundadır."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Hız ve Mesafe Kuralları",
+"subcategory":"Yol çalışmaları",
+"englishSubcategory":"Roadworks",
+"description":"Yol çalışması bölgelerinde, ilk hız azaltma işaretinden bitiş işaretine kadar hız sınırları düşürülmüştür. Sürücüler, işçiler bölgede bulunmasa bile bu sınırlara uymak zorundadır."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Hız ve Mesafe Kuralları",
+"subcategory":"Takip Mesafesi",
+"englishSubcategory":"Following Distance",
+"description":"İyi sürüş koşullarında, sürücüler en az iki saniyelik bir takip mesafesi korumalıdır. Bu, tepki vermek ve güvenli bir şekilde durmak için zaman tanır."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Hız ve Mesafe Kuralları",
+"subcategory":"Takip Mesafesi",
+"englishSubcategory":"Following Distance",
+"description":"Islak veya kötü yol koşullarında, sürücüler daha uzun durma mesafelerini hesaba katmak için takip mesafesini artırmalıdır."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Hız ve Mesafe Kuralları",
+"subcategory":"Durma mesafesi",
+"englishSubcategory":"Stopping Distance",
+"description":"Durma mesafesi, tepki mesafesi ve fren mesafesini içerir. Hız arttıkça, toplam durma mesafesi önemli ölçüde artar."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Hız ve Mesafe Kuralları",
+"subcategory":"Durma mesafesi",
+"englishSubcategory":"Stopping Distance",
+"description":"Islak, çakıllı veya kaygan yollar fren mesafesini artırır. Sürücüler yol koşullarına uygun şekilde yavaşlamalıdır."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Hız ve Mesafe Kuralları",
+"subcategory":"Ortak Alanlar",
+"englishSubcategory":"Shared Zones",
+"description":"Paylaşımlı trafik alanlarında hız sınırı 10 km/saattir. Sürücüler her zaman yayalar için durmaya hazır olmalıdır."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Hız ve Mesafe Kuralları",
+"subcategory":"Sürücünün Sorumluluğu",
+"englishSubcategory":"Driver Responsibility",
+"description":"Sürücüler her zaman hızlarını kontrol etmekten sorumludur. Hız uyarı sistemleri veya araç teknolojisi bu sorumluluğu ortadan kaldırmaz."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Sürücünün Sorumlulukları",
+"subcategory":"Genel Sürücü Görevleri",
+"englishSubcategory":"General Driver Duties",
+"description":"Sürücüler her zaman gerekli özen ve dikkatle araç kullanmalıdır. Eğer kendinizi çok yorgun, hasta veya güvenli bir şekilde araç kullanamayacak durumda hissediyorsanız, sürüşe devam etmeden önce mutlaka durup dinlenmelisiniz."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Sürücünün Sorumlulukları",
+"subcategory":"Kazalar ve Olaylar",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Yaralanma veya ölümle sonuçlanan bir kazaya karıştıysanız, durmalı, mümkünse yardım etmeli ve derhal acil servisleri aramalısınız."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Sürücünün Sorumlulukları",
+"subcategory":"Genel Sürücü Görevleri",
+"englishSubcategory":"General Driver Duties",
+"description":"Araç kullanmadan önce, sürücünün aracın yol güvenliğine uygun ve güvenli bir şekilde kullanılabileceğinden emin olması gerekir."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Sürücünün Sorumlulukları",
+"subcategory":"Kazalar ve Olaylar",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Kaza sonucunda maddi hasar meydana gelirse ve araç sahibi olay yerinde değilse, durup bilgilerinizi bırakmalı veya kazayı polise bildirmelisiniz."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Sürücünün Sorumlulukları",
+"subcategory":"Polis Yönergeleri",
+"englishSubcategory":"Police Directions",
+"description":"Sürücüler, polis memuru tarafından talep edildiğinde sürücü ehliyetlerini göstermeli veya bilgilerini vermelidir."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Sürücünün Sorumlulukları",
+"subcategory":"Kazalar ve Olaylar",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Kaza sonucunda yaralanma, ölüm veya önemli maddi hasar meydana geldiğinde polise bildirilmesi zorunludur."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Sürücünün Sorumlulukları",
+"subcategory":"Yolcular",
+"englishSubcategory":"Passengers",
+"description":"Sürücüler, tüm yolcuların emniyet kemerleriyle veya onaylanmış güvenlik sistemleriyle doğru şekilde bağlanmış olduğundan emin olmakla yükümlüdür."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Sürücünün Sorumlulukları",
+"subcategory":"Kazalar ve Olaylar",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Yaralanma olmayan küçük bir kaza sonrasında, sürücülerin durması ve kazaya karışan diğer tarafla iletişim bilgilerini paylaşması gerekir."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Sürücünün Sorumlulukları",
+"subcategory":"Genel Sürücü Görevleri",
+"englishSubcategory":"General Driver Duties",
+"description":"Sürüş sırasında görüşünüz bozulursa, devam etmek güvenli olana kadar sürüşe ara vermelisiniz."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Sürücünün Sorumlulukları",
+"subcategory":"Kazalar ve Olaylar",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Kaza yerinden başka bir sürücü ayrılırsa, olayı en kısa sürede polise bildirmelisiniz."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkol, Uyuşturucu ve Sağlık",
+"subcategory":"Alkol Limitleri",
+"englishSubcategory":"Alcohol Limits",
+"description":"Queensland'de, açık ehliyet sahibi için azami kan alkol konsantrasyonu (BAC) 0,05'tir. Öğrenci ve geçici ehliyet sahiplerinin ise her zaman 0,00 BAC'ye sahip olmaları gerekmektedir."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkol, Uyuşturucu ve Sağlık",
+"subcategory":"Alkolün Etkileri",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkol, ilk yudumdan itibaren sürüş yeteneğini etkiler. Tepki süresini yavaşlatır, koordinasyonu azaltır ve muhakeme yeteneğini bozar."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkol, Uyuşturucu ve Sağlık",
+"subcategory":"Uyuşturucu ve Araç Kullanımı",
+"englishSubcategory":"Drugs & Driving",
+"description":"Queensland'de, vücudunuzda yasa dışı uyuşturucu madde varken araç kullanmak suçtur. Kendinizi uyuşturucu etkisinde hissetmeseniz bile suçlanabilirsiniz."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkol, Uyuşturucu ve Sağlık",
+"subcategory":"Uyuşturucu ve Araç Kullanımı",
+"englishSubcategory":"Drugs & Driving",
+"description":"Yol kenarında yapılan uyuşturucu testlerinde genellikle esrar, MDMA ve metamfetamin tespit edilir. Polis her an tükürük testi isteyebilir."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkol, Uyuşturucu ve Sağlık",
+"subcategory":"İlaç Kullanımı ve Araç Kullanımı",
+"englishSubcategory":"Medication & Driving",
+"description":"Bazı reçeteli ve reçetesiz ilaçlar araç kullanma yeteneğinizi etkileyebilir. Her zaman uyarıları kontrol edin ve emin değilseniz araç kullanmaktan kaçının."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Güvenli Sürüş Uygulamaları",
+"subcategory":"Savunma Sürüşü",
+"englishSubcategory":"Defensive Driving",
+"description":"Savunma amaçlı sürüş, potansiyel tehlikeleri ve diğer yol kullanıcılarının hareketlerini önceden tahmin etmek anlamına gelir. Amaç, önceden planlama yaparak ve güvenlik marjlarını koruyarak kaza riskini azaltmaktır. Savunma amaçlı sürüşün temel prensiplerinden biri, aracınızın etrafında bir güvenlik tamponu oluşturmaktır. Bu alan, trafik koşulları aniden değişirse tepki vermek için zaman tanır. Başka bir sürücü agresif davranırsa, en güvenli tepki mesafe yaratmak ve çatışmadan kaçınmaktır. Agresif sürüşle karşılık vermeyin. Önceden planlama, sürücülerin ani frenleme veya keskin direksiyon hareketlerinden kaçınmasına yardımcı olur. Yumuşak ve erken kararlar, araç kontrolünü ve güvenliğini artırır."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Güvenli Sürüş Uygulamaları",
+"subcategory":"Tehlike Algısı",
+"englishSubcategory":"Hazard Perception",
+"description":"Tehlike algısı, potansiyel tehlikeleri erken tespit etmeyi ve kritik hale gelmeden önce müdahale etmeyi içerir. Sürücüler sadece öndeki araca değil, ileriyi ve yanları da iyice taramalıdır. Park halindeki araçlar, yayalar, bisikletliler ve kavşaklar yaygın tehlike kaynaklarıdır. Sürücüler ani hareketlere veya trafik akışındaki değişikliklere karşı tetikte olmalıdır. Aynaları düzenli olarak kontrol etmek, sürücülerin çevredeki trafiğin farkında kalmasına yardımcı olur. Bu farkındalık, güvenli şerit değiştirme ve frenleme için çok önemlidir."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Güvenli Sürüş Uygulamaları",
+"subcategory":"Yol Durumu",
+"englishSubcategory":"Road Conditions",
+"description":"Yağmur, çakıl veya düşük görüş mesafesi gibi yol koşulları, sürücülerin hızlarını düşürmelerini gerektirir. Sürücüler, sürüşlerini koşullara uygun şekilde ayarlamalıdır. Islak yollar, lastiklerin yol tutuşunu azaltır ve fren mesafesini artırır. Sürücüler, ıslak koşullarda yavaşlamalı ve takip mesafesini artırmalıdır. Sis, yağmur veya parlamadan kaynaklanan düşük görüş mesafesi, sürücülerin yavaşlamasını ve takip mesafesini artırmasını gerektirir. Görüş mesafesini iyileştirmek için farlar uygun şekilde kullanılmalıdır."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Kavşaklar, Dönüşler ve Döner Kavşaklar",
+"subcategory":"Yol Vermek",
+"englishSubcategory":"Giving Way",
+"description":"Kontrolsüz bir kavşakta, sürücü sağdan yaklaşan araçlara yol vermelidir. Bu kural, trafik ışığı, dur işareti veya yol verme işareti olmadığında geçerlidir. T kavşağında, sonlanan yoldaki sürücü, devam eden yoldaki araçlara yol vermelidir. Bir araba yolundan veya kaldırımdan yola girerken, sürücü yoldaki tüm araçlara ve yayalara yol vermelidir."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Kavşaklar, Dönüşler ve Döner Kavşaklar",
+"subcategory":"Dönüşler",
+"englishSubcategory":"Turns",
+"description":"Kavşakta sola dönerken, sürücüler girdikleri yoldan geçen yayalara yol vermelidir. Kavşakta sağa dönerken, sürücüler düz ilerleyen veya sola dönen karşıdan gelen araçlara yol vermelidir. U dönüşü yaparken, sürücü diğer tüm araçlara ve yayalara yol vermelidir. Kavşakta dönmeden önce, sürücüler sinyal vermeli ve trafiği, bisikletlileri ve yayaları kontrol etmelidir."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Kavşaklar, Dönüşler ve Döner Kavşaklar",
+"subcategory":"Döner Kavşaklar",
+"englishSubcategory":"Roundabouts",
+"description":"Döner kavşağa girerken, sürücüler kavşakta bulunan araçlara yol vermelidir. Sürücüler, döner kavşaktan çıkarken diğer yol kullanıcılarını ayrılma niyetleri konusunda bilgilendirmek için sola sinyal vermelidir. Sürücüler, döner kavşaklara güvenli bir şekilde yol verebilecekleri ve gerekirse durabilecekleri bir hızda yaklaşmalıdır."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Yol İşaretleri, Şeritler ve Sollama",
+"subcategory":"Yol İşaretleri",
+"englishSubcategory":"Road Markings",
+"description":"Tek ve kesintisiz bir orta çizgi, sürücülerin çizgiyi geçmemesi veya üzerine çıkmaması gerektiği anlamına gelir. Geçişe yalnızca çok sınırlı durumlarda, örneğin izin verilmişse bir mülke girerken veya çıkarken izin verilir. Kesik bir orta çizgi, sürücülerin güvenli olduğunda çizgiyi geçebileceğini gösterir. Bu genellikle sollama veya dönüş için kullanılır. Çift ve kesintisiz bir orta çizgi, sürücülerin hiçbir koşulda çizgiyi geçmemesi veya üzerine çıkmaması gerektiği anlamına gelir. Beyaz kenar çizgileri, yolun kenarını işaretler ve sürücülerin yolun trafiğe açık alanını belirlemelerine yardımcı olur."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Yol İşaretleri, Şeritler ve Sollama",
+"subcategory":"Sollama",
+"englishSubcategory":"Overtaking",
+"description":"Sollama, güvenli olmadığı durumlarda veya işaretler ya da yol çizgileri tarafından yasaklandığı durumlarda yasaktır. Sürücüler, sollama yapmadan önce her zaman görüş mesafesini ve karşıdan gelen trafiği değerlendirmelidir. Sollama yapan sürücü, manevranın güvenli bir şekilde tamamlanabilmesini sağlamaktan tamamen sorumludur. Bisikletliyi sollarken, sürücüler bisikletlinin güvenliğini sağlamak için yeterli yanal boşluk bırakmalıdır."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Yol İşaretleri, Şeritler ve Sollama",
+"subcategory":"Şeritler",
+"englishSubcategory":"Lanes",
+"description":"Şerit değiştirmeden önce, sürücüler niyetlerini belirtmeli ve geçmek istedikleri şeritte bulunan araçlara yol vermelidir. Bisiklet sembolüyle işaretlenmiş bir şerit, bisikletliler için ayrılmış bir bisiklet şeridini gösterir. Sürücüler, izin verilmedikçe bisiklet şeridinde araç kullanmamalıdır. İşaret levhaları ve yol işaretlemeleriyle belirtilen otobüs şeritleri yalnızca izin verilen araçlar tarafından kullanılabilir. Sürücüler, işaret levhalarında gösterilen çalışma saatlerine uymalıdır."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Durma, Park Etme ve Yol Kenarı Kuralları",
+"subcategory":"Park Kısıtlamaları",
+"englishSubcategory":"Parking Restrictions",
+"description":"Köşeye çok yakın park etmek, sürücülerin ve yayaların görüş alanını engellediği için tehlikelidir. Yolun ters tarafına, trafiğe ters yönde park etmek tehlikelidir ve birçok durumda yasa dışı olabilir. Yaya geçidinde durmak veya park etmek, yayaları tehlikeye attığı ve görüşü engellediği için yasaktır."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Durma, Park Etme ve Yol Kenarı Kuralları",
+"subcategory":"Durdurma Kuralları",
+"englishSubcategory":"Stopping Rules",
+"description":"Trafikte park ettikten sonra kapınızı açmadan önce aynaları ve kör noktaları kontrol etmelisiniz. Bu, araçlarla, bisikletlilerle veya diğer yol kullanıcılarıyla çarpışmaları önlemeye yardımcı olur. Dur işaretinde, sürücüler durma çizgisinde veya kavşağa girmeden önce tamamen durmalıdır. Trafik ışıklarında yalnızca güvenliyse ve diğer yol kullanıcılarını tehlikeye atmıyorsa geri gitmeli veya pozisyon değiştirmelisiniz."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Yayalar, Bisikletliler ve Savunmasız Yol Kullanıcıları",
+"subcategory":"Yayalar",
+"englishSubcategory":"Pedestrians",
+"description":"Trafik ışığı olmayan yaya geçitlerinde, geçide yaklaşan sürücüler, geçitte bulunan veya geçide giren yayalara yol vermelidir. Trafik ışıklarında ise sürücüler, yeşil yaya geçidi sinyali olan yayalara yol vermelidir."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Yayalar, Bisikletliler ve Savunmasız Yol Kullanıcıları",
+"subcategory":"Bisikletçiler",
+"englishSubcategory":"Cyclists",
+"description":"Bisikletliyi geçerken sürücüler, bisikletlinin güvenliğini sağlamak için yeterli yanal boşluk bırakmalıdır. Bisikletliler meşru yol kullanıcılarıdır ve izin verilen yerlerde yolda, bisiklet şeritlerinde veya ortak kullanım yollarında bisiklet sürebilirler."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Yayalar, Bisikletliler ve Savunmasız Yol Kullanıcıları",
+"subcategory":"Ortak Alanlar",
+"englishSubcategory":"Shared Zones",
+"description":"Paylaşımlı alanlarda yayaların önceliği araçlara aittir ve sürücüler çok düşük hızlarda seyretmelidir."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Yayalar, Bisikletliler ve Savunmasız Yol Kullanıcıları",
+"subcategory":"Yaşlılar ve Engelliler",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Yaşlı veya engelli yayalar yavaş hareket edebilir veya farkındalıkları azalmış olabilir; bu da sürücülerin ekstra zaman ve mesafe bırakmasını gerektirir. Bastonlu veya rehber köpekli yayalara yaklaşırken sürücüler yavaşlamalı ve durmaya hazır olmalıdır."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Özel Durumlar ve Yol Ortamları",
+"subcategory":"Hava Koşulları",
+"englishSubcategory":"Weather Conditions",
+"description":"Şiddetli yağmurda araç kullanırken, sürücüler hızlarını düşürmeli ve takip mesafesini artırmalıdır. Yağmur, görüş mesafesini ve lastiklerin yol tutuşunu azaltarak fren mesafesini uzatır. Sel sularından geçmek tehlikelidir çünkü yolun derinliği ve durumu bilinmeyebilir. Sel suları araçları sürükleyebilir veya yol hasarlarını gizleyebilir. Sis, görüş mesafesini önemli ölçüde azaltır. Sürücüler yavaşlamalı, kısa farlarını kullanmalı ve durmaya hazır olmalıdır. Şiddetli rüzgarlar, özellikle yüksek araçlar için araç stabilitesini etkileyebilir. Sürücüler hızlarını düşürmeli ve direksiyon kontrolünü sıkı tutmalıdır. Su nedeniyle lastiklerin yol yüzeyiyle temasını kaybetmesi durumunda suda kayma (aquaplaning) meydana gelir. Bu durumda sürücüler pedallardan ayağını çekmeli ve direksiyonu yumuşak bir şekilde çevirmelidir."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Özel Durumlar ve Yol Ortamları",
+"subcategory":"Kırsal Kesimde Araç Kullanımı",
+"englishSubcategory":"Rural Driving",
+"description":"Kırsal yollarda, hayvanlar beklenmedik bir şekilde yola çıkabilir. Sürücüler tetikte olmalı ve yavaşlamaya veya durmaya hazır olmalıdır. Kırsal yollarda gece sürüşü, görüş mesafesinin azalması ve vahşi yaşam aktivitesinin artması nedeniyle tehlikelidir. Bir hayvan aniden yola çıkarsa, sürücüler sert bir şekilde fren yapmalı ve tehlikeli bir şekilde savrulmadan güvenli bir şekilde direksiyonu çevirmelidir."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Özel Durumlar ve Yol Ortamları",
+"subcategory":"Yol çalışmaları",
+"englishSubcategory":"Roadworks",
+"description":"Yol yapım çalışmalarına yaklaşırken, sürücüler geçici işaretlere ve düşürülmüş hız sınırlarına uymalıdır. Bu kurallar, işçiler görünür olmasa bile geçerlidir. Yol yapım çalışmalarında geçici hız sınırları, işçileri ve yol kullanıcılarını korumak için uygulanmaktadır. Sürücüler bu sınırları aşmamalıdır."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Acil Durum Araçları ve Polis Yönlendirmeleri",
+"subcategory":"Acil Durum Araçları",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Acil durum aracı yanıp sönen ışıklar veya sirenler kullanarak yaklaştığında, sürücüler güvenli bir şekilde yoldan çekilmeli ve geçmesine izin vermelidir. Çok şeritli yollarda, sürücüler sinyal vermeli ve acil durum araçlarının geçmesine izin vermek için mümkünse boş bir şeride veya sola geçmelidir. Trafik ışıklarında dururken ve arkadan bir acil durum aracı yaklaşıyorsa, sürücüler güvenli ise dikkatlice durma çizgisini geçebilirler. Sürücüler, yol türü veya trafik koşullarından bağımsız olarak, acil durum aracının yolunu asla kapatmamalıdır. Acil durum aracı için hemen kenara çekilemiyorsanız, tehlike yaratmadan kenara çekilene kadar güvenli bir şekilde sürüşe devam edin. Yanıp sönen ışıkları olan durmuş bir acil durum aracının yanından geçerken, sürücüler yavaşlamalı ve dikkatli bir şekilde ilerlemelidir."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Acil Durum Araçları ve Polis Yönlendirmeleri",
+"subcategory":"Polis Yönergeleri",
+"englishSubcategory":"Police Directions",
+"description":"Sürücüler, trafik işaretleri veya sinyalleriyle çelişse bile, polis memurları veya yetkili trafik kontrolörleri tarafından verilen talimatlara uymak zorundadır. Bir polis memuru veya yetkili trafik kontrolörü, trafik işaretlerinden veya sinyallerinden farklı şekilde trafik yönlendirme yetkisine sahiptir. Polis sizi durmaya, dönmeye, alternatif bir yoldan gitmeye veya kenara çekmeye yönlendirirse, güvenli bir şekilde ve mümkün olan en kısa sürede uymanız gerekir. Yasal bir polis talimatına uymamak suçtur ve para cezası, ceza puanı veya ehliyetin askıya alınmasıyla sonuçlanabilir."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Emniyet kemerleri, çocuk koltukları ve yolcular",
+"subcategory":"Emniyet kemerleri",
+"englishSubcategory":"Seatbelts",
+"description":"Queensland'de, sürücünün 16 yaşın altındaki tüm yolcuların emniyet kemeri veya onaylı bir güvenlik sistemi takmasını sağlamaktan yasal olarak sorumlu olduğu belirtilmiştir. Araç hareket halindeyken, emniyet kemeri takılıysa her zaman takılmalıdır. Kaza anında yaralanma riskini azaltmak için emniyet kemeri omuzdan sıkıca ve kalçanın alt kısmından geçirilerek takılmalıdır. Emniyet kemerleri, kolun altından veya bükülmüş şekilde yanlış takılmamalıdır, çünkü bu ciddi yaralanma riskini büyük ölçüde artırır."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Emniyet kemerleri, çocuk koltukları ve yolcular",
+"subcategory":"Çocuk Emniyet Kemerleri",
+"englishSubcategory":"Child Restraints",
+"description":"Bebekler, baş ve boyun için en iyi korumayı sağladığı için onaylı, arkaya dönük çocuk koltuğunda emniyete alınmalıdır. Çocuklar, ancak yasal minimum yaş ve boy şartlarını karşıladıklarında yükseltici koltuktan yetişkin emniyet kemerine geçmelidir. Çocuk koltukları doğru şekilde takılmalı ve ayarlanmalıdır, çünkü yanlış takma, kaza anında korumayı önemli ölçüde azaltır."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Emniyet kemerleri, çocuk koltukları ve yolcular",
+"subcategory":"Yolcular",
+"englishSubcategory":"Passengers",
+"description":"Emniyet kemeri takmayan yolcular, kontrolsüz hareketleri nedeniyle kaza anında ciddi şekilde yaralanabilir veya başkalarına zarar verebilir. Bir yolcu sürücünün dikkatini dağıtırsa, en güvenli hareket, sürücünün güvenli bir şekilde sürüşe odaklanabilmesi için yolcudan durmasını istemektir. Yolcular, çarpışmaları ve yaralanmaları önlemek için araç kapılarını açmadan önce her zaman trafiği ve bisikletlileri kontrol etmelidir."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Araç Güvenliği, Arızaları ve Bakımının Temelleri",
+"subcategory":"Lastikler",
+"englishSubcategory":"Tyres",
+"description":"Lastiklerin az şişirilmesi yol tutuşunu azaltır ve fren mesafesini artırır. Ayrıca ısı birikimini artırır ve lastik arızası riskini yükseltebilir. Lastiklerin diş derinliği ve doğru şişirme basıncı düzenli olarak kontrol edilmelidir. İyi bir diş derinliği, özellikle ıslak koşullarda yol tutuşunu korumaya yardımcı olur."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Araç Güvenliği, Arızaları ve Bakımının Temelleri",
+"subcategory":"Işıklar",
+"englishSubcategory":"Lights",
+"description":"Farlar gece ve görüş mesafesinin düşük olduğu her durumda çalışmalıdır. Çalışır durumdaki farlar tehlikeleri görmenize ve diğer yol kullanıcılarının sizi görmesine yardımcı olur. Fren lambaları önemlidir çünkü diğer sürücüleri yavaşladığınız veya durduğunuz konusunda uyarır. Arızalı fren lambaları arkadan çarpma riskini artırır."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Araç Güvenliği, Arızaları ve Bakımının Temelleri",
+"subcategory":"Genel Bakım",
+"englishSubcategory":"General Maintenance",
+"description":"Araç sürücü tarafından yol güvenliği standartlarına uygun şekilde kullanılabilir durumda olması sağlanır. Düzenli kontroller ve bakımlar, güvenlik sorunlarının erken tespit edilmesine ve giderilmesine yardımcı olur."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Yükler, Çekme ve Ağır Vasıta Farkındalığı",
+"subcategory":"Yükler",
+"englishSubcategory":"Loads",
+"description":"Yükler, düşüp hareket ederek diğer yol kullanıcıları için tehlike oluşturmayacak şekilde sabitlenmelidir. Güvenli olmayan bir yük, kazalara, yaralanmalara ve hasara neden olabilir. Yük çok yüksek veya dengesiz yerleştirilirse, araç stabilitesi azalabilir. Bu, devrilme ve kontrol kaybı riskini artırır. Aracın aşırı yüklenmesi, frenleme ve yol tutuş performansını düşürebilir. Ayrıca lastik ve süspansiyon üzerindeki gerilimi artırarak kaza riskini yükseltebilir. Yük aracın arkasından dışarı çıkıyorsa, sabitlenmeli ve gerekirse görünür hale getirilmelidir. Kötü sabitlenmiş dışarı çıkan yükler, diğer yol kullanıcılarına çarpabilir veya yola düşebilir."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Yükler, Çekme ve Ağır Vasıta Farkındalığı",
+"subcategory":"Çekme",
+"englishSubcategory":"Towing",
+"description":"Römork çekmek, aracın yavaşlaması için ekstra ağırlık taşıması nedeniyle fren mesafesini artırır. Sürücüler daha fazla mesafe bırakmalı ve daha erken fren yapmalıdır. Çekme işleminden önce sürücüler, bağlantı elemanını, römork lambalarını, emniyet zincirini ve yükün güvenli bir şekilde sabitlendiğini kontrol etmelidir. Arızalı römork çekmek, ayrılmaya veya kazalara yol açabilir. Römork sallanmaya başlarsa, en güvenli tepki gaz pedalından ayağınızı çekmek ve direksiyonu sabit tutmaktır. Ani frenleme veya hızlanma sallanmayı daha da kötüleştirebilir."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Yükler, Çekme ve Ağır Vasıta Farkındalığı",
+"subcategory":"Ağır Vasıtalar",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Ağır vasıtaların durması otomobillere göre çok daha uzun sürer. Bir kamyonun önüne aniden geçmek, durma alanını ortadan kaldırır ve ciddi kazalara neden olabilir. Kamyonların yanlarında ve hemen arkalarında büyük kör noktaları vardır. Bu alanlarda araç kullanmaktan kaçının çünkü sürücü sizi göremeyebilir. Kamyonlar ekstra alana ihtiyaç duyabilir ve özellikle kavşaklara yakın yerlerde geniş dönüşler yapabilirler. Bir kavşağın hemen öncesinde bir kamyonu sollamak güvenli değildir."
+}
+]

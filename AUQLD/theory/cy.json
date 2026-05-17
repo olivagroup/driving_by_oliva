@@ -1,0 +1,586 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Rheolau a Chyfreithiau'r Ffordd",
+"subcategory":"Awdurdod Cyfreithiol ar Ffyrdd",
+"englishSubcategory":"Legal Authority on Roads",
+"description":"Mae rheolau ffyrdd yn Queensland yn gyfreithiau y mae'n rhaid i bob defnyddiwr ffordd ufuddhau iddynt.\n\n Rhaid i yrwyr ddilyn arwyddion traffig, goleuadau traffig, marciau ffordd, a rheolau ffyrdd bob amser.\n\n Mae gan swyddogion heddlu a rheolwyr traffig awdurdodedig yr awdurdod cyfreithiol i gyfeirio traffig.\n\n Os yw cyfarwyddyd gan swyddog heddlu neu reolwr traffig yn gwrthdaro ag arwydd neu signal, rhaid dilyn y cyfarwyddyd.\n\n Mae methu ag ufuddhau i gyfarwyddyd cyfreithlon yn drosedd."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Rheolau a Chyfreithiau'r Ffordd",
+"subcategory":"Cyfrifoldeb y Gyrrwr",
+"englishSubcategory":"Driver Responsibility",
+"description":"Mae gyrwyr yn gyfrifol yn gyfreithiol am yrru gyda'r gofal a'r sylw dyladwy bob amser.\n\n Ni ddylai gyrrwr yrru mewn modd diofal, peryglus, nac esgeulus.\n\n Rhaid i yrwyr gymryd camau rhesymol i osgoi damweiniau a lleihau'r risg i eraill.\n\n Y gyrrwr sy'n gyfrifol am weithrediad diogel eu cerbyd o dan bob amodau."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Rheolau a Chyfreithiau'r Ffordd",
+"subcategory":"Rhoi Ffordd",
+"englishSubcategory":"Giving Way",
+"description":"Mae ildio yn golygu arafu a stopio os oes angen i osgoi gwrthdrawiad.\n\n Rhaid i yrwyr ildio pan fo arwyddion, rheolau ffyrdd, neu amodau traffig yn ei gwneud yn ofynnol.\n\n Rhaid i yrrwr sy'n mynd i mewn i ffordd o fynedfa, maes parcio, neu lwybr troed ildio i bob cerbyd a cherddwr.\n\n Mae methu ag ildio pan fo angen yn drosedd."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Rheolau a Chyfreithiau'r Ffordd",
+"subcategory":"Croesffyrdd",
+"englishSubcategory":"Intersections",
+"description":"Wrth groesffyrdd, rhaid i yrwyr ufuddhau i oleuadau traffig, arwyddion a marciau ffordd.\n\n Os nad oes arwyddion na signalau, rhaid i yrwyr ildio yn unol â rheolau ffyrdd Queensland.\n\n Rhaid i yrwyr sy'n troi i'r dde ildio i draffig sy'n dod tuag ato sy'n mynd yn syth neu'n troi i'r chwith.\n\n Rhaid rhoi blaenoriaeth i gerddwyr hefyd lle bo angen."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Rheolau a Chyfreithiau'r Ffordd",
+"subcategory":"Cylchfannau",
+"englishSubcategory":"Roundabouts",
+"description":"Wrth agosáu at gylchfan, rhaid i yrwyr ildio i gerbydau sydd eisoes yn y gylchfan.\n\n Rhaid i yrwyr ildio i gerbydau sy'n agosáu o'r dde.\n\n Mae angen signalau cywir wrth fynd i mewn ac allan o gylchfannau.\n\n Gall methu ag ildio mewn gylchfan achosi gwrthdrawiadau difrifol."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Rheolau a Chyfreithiau'r Ffordd",
+"subcategory":"Signalau Traffig",
+"englishSubcategory":"Traffic Signals",
+"description":"Mae goleuadau traffig yn rheoli symudiad cerbydau a cherddwyr.\n\n Mae golau coch yn golygu stopio ac aros wedi stopio.\n\n Mae golau melyn yn golygu stopio os yw'n ddiogel gwneud hynny.\n\n Mae golau gwyrdd yn caniatáu ichi fynd ymlaen, ond mae'n rhaid i chi ildio lle bo angen."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Rheolau a Chyfreithiau'r Ffordd",
+"subcategory":"Troadau U",
+"englishSubcategory":"U-Turns",
+"description":"Caniateir troeon U yn Queensland oni bai bod arwydd yn eu gwahardd.\n\n Rhaid i yrwyr sicrhau y gellir cwblhau'r tro U yn ddiogel.\n\n Rhaid i yrrwr sy'n gwneud tro U ildio i bob cerbyd a cherddwr arall.\n\n Ni ddylid gwneud troeon U lle mae gwelededd yn gyfyngedig neu'n anniogel."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Rheolau a Chyfreithiau'r Ffordd",
+"subcategory":"Cerddwyr",
+"englishSubcategory":"Pedestrians",
+"description":"Rhaid i yrwyr ildio i gerddwyr ar groesfannau cerddwyr.\n\n Wrth droi mewn croesffordd, rhaid i yrwyr ildio i gerddwyr sy'n croesi'r ffordd y mae'n mynd i mewn iddi.\n\n Mae angen gofal ychwanegol ger ysgolion, ardaloedd siopa ac arosfannau trafnidiaeth gyhoeddus."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Rheolau a Chyfreithiau'r Ffordd",
+"subcategory":"Cerbydau Brys",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Rhaid i yrwyr ildio i gerbydau brys gan ddefnyddio goleuadau sy'n fflachio neu seirenau.\n\n Gall hyn olygu arafu, symud o'r neilltu, neu stopio os oes angen.\n\n Ni ddylai gyrwyr rwystro llwybr cerbydau brys na'u dilyn yn agos."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Rheolau a Chyfreithiau'r Ffordd",
+"subcategory":"Ufuddhau i Arwyddion Ffyrdd",
+"englishSubcategory":"Obeying Road Signs",
+"description":"Mae arwyddion traffig yn darparu cyfarwyddiadau a rhybuddion cyfreithiol i ddefnyddwyr ffyrdd.\n\n Rhaid i yrwyr ufuddhau i arwyddion rheoleiddio fel arwyddion Stopio, Rhoi Ffordd, a Therfyn Cyflymder.\n\n Mae arwyddion rhybuddio yn rhybuddio gyrwyr am beryglon posibl o'u blaenau.\n\n Mae anwybyddu arwyddion ffyrdd yn dorri cyfraith y ffyrdd."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Arwyddion a Signalau Traffig",
+"subcategory":"Arwyddion Rheoleiddio",
+"englishSubcategory":"Regulatory Signs",
+"description":"Mae arwyddion rheoleiddio yn rhoi cyfarwyddiadau y mae'n rhaid i yrwyr eu ufuddhau yn ôl y gyfraith.\n\n Mae'r rhain yn cynnwys arwyddion fel Stopio, Rhoi Ffordd, Dim Mynediad, Dim Parcio, ac arwyddion terfyn cyflymder.\n\n Mae methu â dilyn arwydd rheoleiddio yn drosedd."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Arwyddion a Signalau Traffig",
+"subcategory":"Arwyddion Rhybudd",
+"englishSubcategory":"Warning Signs",
+"description":"Mae arwyddion rhybuddio yn rhybuddio gyrwyr am beryglon posibl neu newidiadau yng nghyflwr y ffyrdd o'u blaenau.\n\n Maent fel arfer yn felyn ac yn siâp diemwnt.\n\n Dylai gyrwyr arafu a pharatoi i ymateb yn ddiogel."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Arwyddion a Signalau Traffig",
+"subcategory":"Arwyddion Cyflymder",
+"englishSubcategory":"Speed Signs",
+"description":"Mae arwyddion terfyn cyflymder yn dangos y cyflymder cyfreithiol uchaf ar gyfer ffordd neu ardal.\n\n Ni ddylai gyrwyr fynd yn fwy na'r terfyn cyflymder a nodir.\n\n Gall terfynau cyflymder newid yn dibynnu ar amodau fel gwaith ffordd neu barthau ysgol."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Arwyddion a Signalau Traffig",
+"subcategory":"Goleuadau Traffig",
+"englishSubcategory":"Traffic Lights",
+"description":"Mae goleuadau traffig yn rheoli traffig mewn croesffyrdd.\n\n Mae golau coch yn golygu stopio.\n\n Mae golau melyn yn golygu stopio os yw'n ddiogel gwneud hynny.\n\n Mae golau gwyrdd yn golygu y gallwch fynd ymlaen os yw'r groesffordd yn glir."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Arwyddion a Signalau Traffig",
+"subcategory":"Signalau Saeth",
+"englishSubcategory":"Arrow Signals",
+"description":"Dim ond i'r cyfeiriad a ddangosir gan y saeth y mae signalau traffig saeth yn berthnasol.\n\n Mae saeth werdd yn caniatáu symudiad i'r cyfeiriad hwnnw yn unig.\n\n Mae saeth goch yn golygu na ddylech fynd ymlaen i'r cyfeiriad hwnnw."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Arwyddion a Signalau Traffig",
+"subcategory":"Arwyddion Rhoi Ffordd a Stopio",
+"englishSubcategory":"Give Way & Stop Signs",
+"description":"Mae arwydd Rhoi Ffordd yn ei gwneud yn ofynnol i yrwyr arafu a rhoi lle i bob traffig sy'n gwrthdaro.\n\n Mae arwydd Stop yn ei gwneud yn ofynnol i yrwyr ddod i stop llwyr a rhoi lle cyn bwrw ymlaen.\n\n Rhaid i yrwyr ufuddhau i'r arwydd hyd yn oed os yw'r ffordd yn ymddangos yn glir."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Arwyddion a Signalau Traffig",
+"subcategory":"Signalau Rheoli Lôn",
+"englishSubcategory":"Lane Control Signals",
+"description":"Defnyddir signalau rheoli lôn uwchben lonydd i reoli llif traffig.\n\n Mae saeth werdd yn golygu bod y lôn ar agor.\n\n Mae croes goch neu X gwyn yn golygu na ddylid defnyddio'r lôn."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Arwyddion a Signalau Traffig",
+"subcategory":"Signalau i Gerddwyr",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Mae signalau cerddwyr yn dangos pryd y gall cerddwyr groesi'r ffordd.\n\n Rhaid i yrwyr ildio i gerddwyr sy'n croesi pan fydd y signal cerddwyr yn caniatáu iddynt wneud hynny."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Arwyddion a Signalau Traffig",
+"subcategory":"Arwyddion Diben Arbennig",
+"englishSubcategory":"Special Purpose Signs",
+"description":"Mae arwyddion at ddiben arbennig yn cynnwys arwyddion fel arwyddion Parth a Rennir, Lôn Fysiau, a Pharth Ysgol.\n\n Mae'r arwyddion hyn yn cymhwyso rheolau penodol y mae'n rhaid i yrwyr eu dilyn yn yr ardaloedd hynny."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Arwyddion a Signalau Traffig",
+"subcategory":"Arwyddion Dros Dro",
+"englishSubcategory":"Temporary Signs",
+"description":"Defnyddir arwyddion dros dro ar gyfer sefyllfaoedd fel gwaith ffordd, damweiniau, neu ddigwyddiadau arbennig.\n\n Rhaid i yrwyr ufuddhau i arwyddion dros dro hyd yn oed os ydynt yn wahanol i arwyddion parhaol.\n\n Yn aml, mae terfynau cyflymder is yn berthnasol mewn ardaloedd gwaith ffordd."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Rheolau Cyflymder a Phellter",
+"subcategory":"Terfynau Cyflymder",
+"englishSubcategory":"Speed Limits",
+"description":"Yn Queensland, y terfyn cyflymder diofyn mewn ardal adeiledig yw 50 km/awr oni bai bod arwyddo gwahanol wedi'i nodi.\n\n Rhaid i yrwyr bob amser wirio am arwyddion cyflymder gan y gall terfynau newid.\n\n Y terfyn cyflymder uchaf yn Queensland yw 110 km/awr oni bai bod terfyn is wedi'i nodi.\n\n Ni ddylai gyrwyr byth fynd yn fwy na'r terfyn cyflymder a nodir."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Rheolau Cyflymder a Phellter",
+"subcategory":"Parthau Ysgol",
+"englishSubcategory":"School Zones",
+"description":"Mae terfynau cyflymder parth ysgol yn berthnasol yn ystod yr amseroedd a ddangosir ar yr arwyddion.\n\n Rhaid i yrwyr ufuddhau i'r terfyn cyflymder parth ysgol sydd wedi'i lofnodi hyd yn oed os nad yw plant i'w gweld."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Rheolau Cyflymder a Phellter",
+"subcategory":"Gwaith ffordd",
+"englishSubcategory":"Roadworks",
+"description":"Mae terfynau cyflymder is yn berthnasol mewn parthau gwaith ffordd o'r arwydd lleihau cyflymder cyntaf hyd at arwydd diwedd.\n\n Rhaid i yrwyr ufuddhau i'r terfynau hyn hyd yn oed os nad yw gweithwyr yn bresennol."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Rheolau Cyflymder a Phellter",
+"subcategory":"Pellter Dilyn",
+"englishSubcategory":"Following Distance",
+"description":"Mewn amodau gyrru da, dylai gyrwyr gynnal pellter dilyn o leiaf ddwy eiliad.\n\n Mae hyn yn caniatáu amser i ymateb a stopio'n ddiogel."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Rheolau Cyflymder a Phellter",
+"subcategory":"Pellter Dilyn",
+"englishSubcategory":"Following Distance",
+"description":"Mewn amodau gwlyb neu wael, dylai gyrwyr gynyddu eu pellter dilyn er mwyn caniatáu pellteroedd stopio hirach."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Rheolau Cyflymder a Phellter",
+"subcategory":"Pellter Stopio",
+"englishSubcategory":"Stopping Distance",
+"description":"Mae pellter stopio yn cynnwys pellter ymateb a phellter brecio.\n\n Wrth i gyflymder gynyddu, mae cyfanswm y pellter stopio yn cynyddu'n sylweddol."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Rheolau Cyflymder a Phellter",
+"subcategory":"Pellter Stopio",
+"englishSubcategory":"Stopping Distance",
+"description":"Mae ffyrdd gwlyb, graean, neu llithrig yn cynyddu'r pellter brecio.\n\n Rhaid i yrwyr arafu i gyd-fynd ag amodau'r ffordd."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Rheolau Cyflymder a Phellter",
+"subcategory":"Parthau a Rennir",
+"englishSubcategory":"Shared Zones",
+"description":"Mewn parthau a rennir, y terfyn cyflymder yw 10 km/awr.\n\n Rhaid i yrwyr fod yn barod i stopio i gerddwyr bob amser."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Rheolau Cyflymder a Phellter",
+"subcategory":"Cyfrifoldeb y Gyrrwr",
+"englishSubcategory":"Driver Responsibility",
+"description":"Mae gyrwyr bob amser yn gyfrifol am reoli eu cyflymder.\n\n Nid yw systemau rhybuddio cyflymder na thechnoleg cerbydau yn dileu'r cyfrifoldeb hwn."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Cyfrifoldebau Gyrwyr",
+"subcategory":"Dyletswyddau Cyffredinol Gyrwyr",
+"englishSubcategory":"General Driver Duties",
+"description":"Rhaid i yrwyr yrru gyda'r gofal a'r sylw dyladwy bob amser.\n\n Os ydych chi'n teimlo'n rhy flinedig, yn sâl, neu'n anaddas i yrru'n ddiogel, rhaid i chi roi'r gorau i yrru a gorffwys cyn parhau."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Cyfrifoldebau Gyrwyr",
+"subcategory":"Damweiniau a Digwyddiadau",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Os ydych chi mewn damwain sy'n achosi anaf neu farwolaeth, rhaid i chi stopio, cynorthwyo os yn bosibl, a chysylltu â'r gwasanaethau brys ar unwaith."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Cyfrifoldebau Gyrwyr",
+"subcategory":"Dyletswyddau Cyffredinol Gyrwyr",
+"englishSubcategory":"General Driver Duties",
+"description":"Cyn gyrru, y gyrrwr sy'n gyfrifol am sicrhau bod y cerbyd yn addas ar gyfer y ffordd ac yn ddiogel i'w weithredu."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Cyfrifoldebau Gyrwyr",
+"subcategory":"Damweiniau a Digwyddiadau",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Os bydd gwrthdrawiad yn achosi difrod i eiddo ac nad yw'r perchennog yn bresennol, rhaid i chi stopio a gadael eich manylion neu roi gwybod am y gwrthdrawiad i'r heddlu."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Cyfrifoldebau Gyrwyr",
+"subcategory":"Cyfarwyddiadau'r Heddlu",
+"englishSubcategory":"Police Directions",
+"description":"Rhaid i yrwyr ddangos eu trwydded yrru neu ddarparu eu manylion pan ofynnir amdanynt gan swyddog heddlu."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Cyfrifoldebau Gyrwyr",
+"subcategory":"Damweiniau a Digwyddiadau",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Rhaid rhoi gwybod i'r heddlu am ddamwain pan fydd anaf, marwolaeth, neu ddifrod sylweddol i eiddo."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Cyfrifoldebau Gyrwyr",
+"subcategory":"Teithwyr",
+"englishSubcategory":"Passengers",
+"description":"Mae gyrwyr yn gyfrifol am sicrhau bod pob teithiwr wedi'i atal yn gywir gyda gwregysau diogelwch neu ataliadau cymeradwy."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Cyfrifoldebau Gyrwyr",
+"subcategory":"Damweiniau a Digwyddiadau",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Ar ôl gwrthdrawiad bach heb unrhyw anafiadau, rhaid i yrwyr stopio a chyfnewid manylion gyda'r parti arall dan sylw."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Cyfrifoldebau Gyrwyr",
+"subcategory":"Dyletswyddau Cyffredinol Gyrwyr",
+"englishSubcategory":"General Driver Duties",
+"description":"Os bydd eich golwg yn cael ei nam wrth yrru, rhaid i chi roi'r gorau i yrru nes ei bod hi'n ddiogel parhau."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Cyfrifoldebau Gyrwyr",
+"subcategory":"Damweiniau a Digwyddiadau",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Os bydd gyrrwr arall yn gadael lleoliad gwrthdrawiad, dylech roi gwybod i'r heddlu cyn gynted â phosibl."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alcohol, Cyffuriau ac Iechyd",
+"subcategory":"Terfynau Alcohol",
+"englishSubcategory":"Alcohol Limits",
+"description":"Yn Queensland, y crynodiad alcohol yn y gwaed (BAC) uchaf ar gyfer deiliad trwydded agored yw 0.05.\n\n Rhaid i yrwyr sy'n dysgu ac yn yrwyr dros dro gael BAC o 0.00 bob amser."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alcohol, Cyffuriau ac Iechyd",
+"subcategory":"Effeithiau Alcohol",
+"englishSubcategory":"Alcohol Effects",
+"description":"Mae alcohol yn effeithio ar y gallu i yrru o'r ddiod gyntaf.\n\n Mae'n arafu amser ymateb, yn lleihau cydlyniad, ac yn amharu ar farn."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alcohol, Cyffuriau ac Iechyd",
+"subcategory":"Cyffuriau a Gyrru",
+"englishSubcategory":"Drugs & Driving",
+"description":"Mae gyrru gyda chyffuriau anghyfreithlon yn eich system yn drosedd yn Queensland.\n\n Gallwch gael eich cyhuddo hyd yn oed os nad ydych chi'n teimlo'n amhariad."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alcohol, Cyffuriau ac Iechyd",
+"subcategory":"Cyffuriau a Gyrru",
+"englishSubcategory":"Drugs & Driving",
+"description":"Mae profion cyffuriau ar ochr y ffordd yn aml yn canfod canabis, MDMA, a methamphetamine.\n\n Gall yr heddlu fynnu prawf poer ar unrhyw adeg."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alcohol, Cyffuriau ac Iechyd",
+"subcategory":"Meddyginiaeth a Gyrru",
+"englishSubcategory":"Medication & Driving",
+"description":"Gall rhai meddyginiaethau presgripsiwn a thros y cownter effeithio ar eich gallu i yrru.\n\n Gwiriwch y rhybuddion bob amser ac osgoi gyrru os ydych yn ansicr."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Arferion Gyrru Diogel",
+"subcategory":"Gyrru Amddiffynnol",
+"englishSubcategory":"Defensive Driving",
+"description":"Mae gyrru amddiffynnol yn golygu rhagweld peryglon posibl a gweithredoedd defnyddwyr ffyrdd eraill.\n\n Y nod yw lleihau'r risg o ddamwain trwy gynllunio ymlaen llaw a chynnal ymylon diogelwch.\n\n Un o egwyddorion allweddol gyrru amddiffynnol yw cynnal byffer diogelwch o amgylch eich cerbyd.\n\n Mae'r gofod hwn yn caniatáu amser i ymateb os bydd amodau traffig yn newid yn sydyn.\n\n Os yw gyrrwr arall yn ymddwyn yn ymosodol, yr ymateb mwyaf diogel yw creu gofod ac osgoi ymgysylltu.\n\n Peidiwch ag ymateb gyda gyrru ymosodol.\n\n Mae cynllunio ymlaen llaw yn helpu gyrwyr i osgoi brecio sydyn neu lywio miniog.\n\n Mae penderfyniadau cynnar, llyfn yn gwella rheolaeth a diogelwch cerbydau."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Arferion Gyrru Diogel",
+"subcategory":"Canfyddiad Perygl",
+"englishSubcategory":"Hazard Perception",
+"description":"Mae canfod peryglon yn cynnwys nodi peryglon posibl yn gynnar ac ymateb cyn iddynt ddod yn ddifrifol.\n\n Dylai gyrwyr sganio ymhell ymlaen ac i'r ochrau, nid dim ond y cerbyd o'u blaen.\n\n Mae ceir wedi'u parcio, cerddwyr, beicwyr a chroesffyrdd yn ffynonellau cyffredin o beryglon.\n\n Dylai gyrwyr fod yn effro am symudiadau sydyn neu newidiadau yn llif y traffig.\n\n Mae gwirio drychau'n rheolaidd yn helpu gyrwyr i aros yn ymwybodol o draffig cyfagos.\n\n Mae'r ymwybyddiaeth hon yn hanfodol ar gyfer newidiadau lôn a brecio'n ddiogel."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Arferion Gyrru Diogel",
+"subcategory":"Cyflyrau'r Ffyrdd",
+"englishSubcategory":"Road Conditions",
+"description":"Mae amodau ffyrdd fel glaw, graean, neu welededd gwael yn ei gwneud yn ofynnol i yrwyr arafu a chynyddu pellter dilyn mewn amodau gwlyb. Mae amodau ffyrdd fel glaw, graean, neu lacharedd yn ei gwneud yn ofynnol i yrwyr arafu a chynyddu pellter dilyn. Dylid defnyddio goleuadau blaen yn briodol i wella gwelededd."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Croesffyrdd, Troadau a Chylchfannau",
+"subcategory":"Rhoi Ffordd",
+"englishSubcategory":"Giving Way",
+"description":"Mewn croesffordd heb ei rheoli, rhaid i yrrwr ildio i gerbydau sy'n dod o'r dde.\n\n Mae'r rheol hon yn berthnasol pan nad oes goleuadau traffig, arwyddion stop, nac arwyddion ildio.\n\n Mewn croesffordd-T, rhaid i'r gyrrwr ar y ffordd derfynol ildio i gerbydau ar y ffordd sy'n parhau.\n\n Wrth fynd i mewn i ffordd o fynedfa neu lwybr troed, rhaid i'r gyrrwr ildio i bob cerbyd a cherddwr ar y ffordd."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Croesffyrdd, Troadau a Chylchfannau",
+"subcategory":"Troadau",
+"englishSubcategory":"Turns",
+"description":"Wrth droi i'r chwith mewn croesffordd, rhaid i yrwyr ildio i gerddwyr sy'n croesi'r ffordd y maent yn mynd arni.\n\n Wrth droi i'r dde mewn croesffordd, rhaid i yrwyr ildio i gerbydau sy'n dod tuag atynt sy'n teithio'n syth ymlaen neu'n troi i'r chwith.\n\n Wrth wneud tro-U, rhaid i yrrwr ildio i bob cerbyd a cherddwr arall.\n\n Cyn troi mewn croesffordd, rhaid i yrwyr roi signal a gwirio am draffig, beicwyr a cherddwyr."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Croesffyrdd, Troadau a Chylchfannau",
+"subcategory":"Cylchfannau",
+"englishSubcategory":"Roundabouts",
+"description":"Wrth fynd i mewn i gylchfan, rhaid i yrwyr ildio i gerbydau sydd eisoes yn y gylchfan.\n\n Rhaid i yrwyr roi signal i'r chwith wrth adael gylchfan i hysbysu defnyddwyr eraill y ffordd o'u bwriad i adael.\n\n Dylai gyrwyr nesáu at gylchfannau ar gyflymder sy'n caniatáu iddynt ildio'n ddiogel a stopio os oes angen."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Marciau Ffordd, Lonydd a Goddiweddyd",
+"subcategory":"Marciau Ffordd",
+"englishSubcategory":"Road Markings",
+"description":"Mae llinell ganol barhaus sengl yn golygu na ddylai gyrwyr groesi na bontio'r llinell.\n\n Dim ond mewn amgylchiadau cyfyngedig iawn y caniateir croesi, fel mynd i mewn neu adael eiddo os caniateir hynny.\n\n Mae llinell ganol doredig yn dangos y gall gyrwyr groesi'r llinell pan fydd yn ddiogel gwneud hynny.\n\n Defnyddir hyn yn gyffredin ar gyfer goddiweddyd neu droi.\n\n Mae llinell ganol barhaus ddwbl yn golygu na ddylai gyrwyr groesi na bontio'r llinellau o dan unrhyw amgylchiadau.\n\n Mae llinellau ymyl gwyn yn nodi ymyl y ffordd ac yn helpu gyrwyr i nodi'r ardal o'r ffordd y gellir teithio ynddi."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Marciau Ffordd, Lonydd a Goddiweddyd",
+"subcategory":"Gorweddi",
+"englishSubcategory":"Overtaking",
+"description":"Gwaherddir goddiweddyd pryd bynnag y mae'n anniogel neu pan fydd arwyddion neu farciau ffordd yn ei wahardd.\n\n Rhaid i yrwyr bob amser asesu gwelededd a thraffig sy'n dod tuag atynt cyn goddiweddyd.\n\n Y gyrrwr sy'n goddiweddyd sy'n gwbl gyfrifol am sicrhau y gellir cwblhau'r symudiad yn ddiogel.\n\n Wrth oddiweddyd beiciwr, rhaid i yrwyr ganiatáu digon o gliriad ochrol i sicrhau diogelwch y beiciwr."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Marciau Ffordd, Lonydd a Goddiweddyd",
+"subcategory":"Lonydd",
+"englishSubcategory":"Lanes",
+"description":"Cyn newid lonydd, rhaid i yrwyr roi signal i'w bwriad ac ildio i gerbydau sydd eisoes yn y lôn y maent yn symud iddi.\n\n Mae lôn wedi'i marcio â symbol beic yn dynodi lôn feic sydd wedi'i chadw ar gyfer beicwyr.\n\n Ni ddylai gyrwyr yrru mewn lôn feiciau oni bai bod caniatâd iddynt.\n\n Dim ond cerbydau a ganiateir all ddefnyddio lonydd bysiau sydd wedi'u marcio gan arwyddion a marciau ffordd.\n\n Rhaid i yrwyr ufuddhau i'r amseroedd gweithredu a ddangosir ar arwyddion."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Stopio, Parcio a Rheolau Ymyl y Ffordd",
+"subcategory":"Cyfyngiadau Parcio",
+"englishSubcategory":"Parking Restrictions",
+"description":"Mae parcio'n rhy agos at gornel yn anniogel oherwydd ei fod yn rhwystro llinellau golwg i yrwyr a cherddwyr.\n\n Mae parcio ar ochr anghywir y ffordd yn wynebu traffig yn anniogel a gall fod yn anghyfreithlon mewn llawer o sefyllfaoedd.\n\n Mae stopio neu barcio ar groesfan i gerddwyr wedi'i wahardd oherwydd ei fod yn peryglu cerddwyr ac yn rhwystro gwelededd."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Stopio, Parcio a Rheolau Ymyl y Ffordd",
+"subcategory":"Rheolau Stopio",
+"englishSubcategory":"Stopping Rules",
+"description":"Cyn agor eich drws ar ôl parcio ger traffig, rhaid i chi wirio drychau a mannau dall.\n\n Mae hyn yn helpu i atal gwrthdrawiadau â cherbydau, beicwyr, neu ddefnyddwyr ffyrdd eraill.\n\n Wrth arwydd Stop, rhaid i yrwyr ddod i stop llwyr wrth y llinell stop neu cyn mynd i mewn i'r groesffordd.\n\n Dylech wrthdroi neu addasu'ch safle wrth oleuadau traffig dim ond os yw'n ddiogel ac nad yw'n peryglu defnyddwyr ffyrdd eraill."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Cerddwyr, Beicwyr a Defnyddwyr Ffyrdd sy'n Agored i Niwed",
+"subcategory":"Cerddwyr",
+"englishSubcategory":"Pedestrians",
+"description":"Mewn croesfannau cerddwyr heb oleuadau traffig, rhaid i yrwyr sy'n agosáu at y groesfan ildio i gerddwyr sydd ar y groesfan neu'n mynd i mewn iddi.\n\n Mewn goleuadau traffig, rhaid i yrwyr ildio i gerddwyr sydd â signal cerdded gwyrdd."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Cerddwyr, Beicwyr a Defnyddwyr Ffyrdd sy'n Agored i Niwed",
+"subcategory":"Beicwyr",
+"englishSubcategory":"Cyclists",
+"description":"Wrth oddiweddyd beiciwr, rhaid i yrwyr ganiatáu digon o gliriad ochrol i sicrhau diogelwch y beiciwr.\n\n Mae beicwyr yn ddefnyddwyr ffyrdd cyfreithlon a gallant reidio ar y ffordd, mewn lonydd beicio, neu ar lwybrau a rennir lle caniateir hynny."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Cerddwyr, Beicwyr a Defnyddwyr Ffyrdd sy'n Agored i Niwed",
+"subcategory":"Parthau a Rennir",
+"englishSubcategory":"Shared Zones",
+"description":"Mewn parthau a rennir, mae gan gerddwyr flaenoriaeth dros gerbydau a rhaid i yrwyr deithio ar gyflymderau isel iawn."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Cerddwyr, Beicwyr a Defnyddwyr Ffyrdd sy'n Agored i Niwed",
+"subcategory":"Henoed ac Anabl",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Gall cerddwyr oedrannus neu anabl symud yn araf neu fod â llai o ymwybyddiaeth, gan olygu bod angen i yrwyr ganiatáu amser a lle ychwanegol.\n\n Wrth agosáu at gerddwyr gyda ffon wen neu gi tywys, dylai gyrwyr arafu a bod yn barod i stopio."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Sefyllfaoedd Arbennig ac Amgylcheddau Ffyrdd",
+"subcategory":"Amodau Tywydd",
+"englishSubcategory":"Weather Conditions",
+"description":"Wrth yrru mewn glaw trwm, dylai gyrwyr leihau cyflymder a chynyddu pellter dilyn.\n\n Mae glaw yn lleihau gwelededd a gafael teiars, gan gynyddu pellteroedd stopio.\n\n Mae gyrru trwy ddŵr llifogydd yn beryglus oherwydd efallai na fydd dyfnder a chyflwr y ffordd yn hysbys.\n\n Gall dŵr llifogydd olchi cerbydau i ffwrdd neu guddio difrod i'r ffordd.\n\n Mae niwl yn lleihau gwelededd yn sylweddol.\n\n Dylai gyrwyr arafu, defnyddio goleuadau trawst isel, a bod yn barod i stopio.\n\n Gall gwyntoedd cryfion effeithio ar sefydlogrwydd cerbydau, yn enwedig ar gyfer cerbydau ag ochrau uchel.\n\n Dylai gyrwyr leihau cyflymder a chynnal rheolaeth lywio gadarn.\n\n Mae dyfrplanio yn digwydd pan fydd teiars yn colli cysylltiad ag wyneb y ffordd oherwydd dŵr.\n\n Dylai gyrwyr lacio'r pedalau a llywio'n esmwyth os bydd hyn yn digwydd."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Sefyllfaoedd Arbennig ac Amgylcheddau Ffyrdd",
+"subcategory":"Gyrru Gwledig",
+"englishSubcategory":"Rural Driving",
+"description":"Ar ffyrdd gwledig, gall anifeiliaid fynd i mewn i'r ffordd yn annisgwyl.\n\n Dylai gyrwyr aros yn effro a bod yn barod i arafu neu stopio.\n\n Mae gyrru yn y nos ar ffyrdd gwledig yn beryglus oherwydd gwelededd llai a mwy o weithgarwch bywyd gwyllt.\n\n Os bydd anifail yn ymddangos yn sydyn ar y ffordd, dylai gyrwyr frecio'n gadarn a llywio'n ddiogel heb wyro'n beryglus."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Sefyllfaoedd Arbennig ac Amgylcheddau Ffyrdd",
+"subcategory":"Gwaith ffordd",
+"englishSubcategory":"Roadworks",
+"description":"Wrth agosáu at waith ffordd, rhaid i yrwyr ufuddhau i arwyddion dros dro a therfynau cyflymder is.\n\n Mae'r rheolau hyn yn berthnasol hyd yn oed os nad yw gweithwyr yn weladwy.\n\n Mae terfynau cyflymder dros dro mewn gwaith ffordd yn bodoli i amddiffyn gweithwyr a defnyddwyr ffyrdd.\n\n Ni ddylai gyrwyr ragori ar y terfynau hyn."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Cerbydau Brys a Chyfarwyddiadau'r Heddlu",
+"subcategory":"Cerbydau Brys",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Pan fydd cerbyd brys yn agosáu gan ddefnyddio goleuadau sy'n fflachio neu seirenau, rhaid i yrwyr symud allan o'r ffordd yn ddiogel a gadael iddo basio.\n\n Ar ffyrdd aml-lôn, dylai gyrwyr nodi a symud i lôn glir neu i'r chwith lle bo modd i ganiatáu i gerbydau brys basio.\n\n Os cânt stopio wrth oleuadau traffig a bod cerbyd brys yn agosáu o'r tu ôl, gall gyrwyr symud yn ofalus heibio'r llinell stopio os yw'n ddiogel gwneud hynny.\n\n Ni ddylai gyrwyr byth rwystro llwybr cerbyd brys, waeth beth fo'r math o ffordd neu amodau traffig.\n\n Os na allwch symud o'r neilltu ar unwaith ar gyfer cerbyd brys, parhewch i yrru'n ddiogel nes y gallwch dynnu i'r ochr heb greu perygl.\n\n Wrth basio cerbyd brys sydd wedi stopio gyda goleuadau sy'n fflachio, dylai gyrwyr arafu a symud ymlaen yn ofalus."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Cerbydau Brys a Chyfarwyddiadau'r Heddlu",
+"subcategory":"Cyfarwyddiadau'r Heddlu",
+"englishSubcategory":"Police Directions",
+"description":"Rhaid i yrwyr ufuddhau i gyfarwyddiadau a roddir gan swyddogion heddlu neu reolwyr traffig awdurdodedig, hyd yn oed os ydynt yn gwrthdaro ag arwyddion neu signalau ffyrdd.\n\n Mae gan swyddog heddlu neu reolwr traffig awdurdodedig awdurdod cyfreithiol i gyfeirio traffig yn wahanol i arwyddion neu signalau.\n\n Os yw'r heddlu'n eich cyfarwyddo i stopio, troi, gwyro, neu dynnu i'r ochr, rhaid i chi gydymffurfio'n ddiogel a chyn gynted â phosibl.\n\n Mae methu â dilyn cyfarwyddyd cyfreithlon yr heddlu yn drosedd a gall arwain at ddirwyon, pwyntiau dirymu, neu atal trwydded."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Gwregysau diogelwch, atalyddion plant a theithwyr",
+"subcategory":"Gwregysau diogelwch",
+"englishSubcategory":"Seatbelts",
+"description":"Yn Queensland, mae'r gyrrwr yn gyfrifol yn gyfreithiol am sicrhau bod pob teithiwr o dan 16 oed yn gwisgo gwregys diogelwch neu ataliad cymeradwy.\n\n Rhaid gwisgo gwregysau diogelwch bob amser pan fydd y cerbyd yn symud os oes gwregys diogelwch wedi'i osod.\n\n Dylid gwisgo gwregys diogelwch yn gadarn ar draws yr ysgwydd ac yn isel ar draws y cluniau i leihau'r risg o anaf mewn damwain.\n\n Ni ddylid gwisgo gwregysau diogelwch yn anghywir, fel o dan y fraich neu wedi'u troelli, gan fod hyn yn cynyddu'r risg o anaf difrifol yn fawr."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Gwregysau diogelwch, atalyddion plant a theithwyr",
+"subcategory":"Cyfyngiadau Plant",
+"englishSubcategory":"Child Restraints",
+"description":"Rhaid i fabanod gael eu clymu mewn gwregys diogelwch plant cymeradwy sy'n wynebu'r cefn oherwydd ei fod yn darparu'r amddiffyniad gorau i'r pen a'r gwddf.\n\n Dim ond pan fyddant yn bodloni'r gofynion oedran a maint cyfreithiol lleiaf y dylai plant symud o sedd hybu i wregys diogelwch oedolyn.\n\n Rhaid gosod a haddasu gwregysau plant yn gywir oherwydd bod eu gosod yn anghywir yn lleihau'r amddiffyniad yn sylweddol mewn damwain."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Gwregysau diogelwch, atalyddion plant a theithwyr",
+"subcategory":"Teithwyr",
+"englishSubcategory":"Passengers",
+"description":"Gall teithwyr heb eu hatal gael eu hanafu'n ddifrifol neu achosi anaf i eraill mewn gwrthdrawiad oherwydd symudiad afreolus.\n\n Os yw teithiwr yn tynnu sylw'r gyrrwr, y cam mwyaf diogel yw gofyn iddo stopio fel y gall y gyrrwr ganolbwyntio ar yrru'n ddiogel.\n\n Dylai teithwyr bob amser wirio am draffig a beicwyr cyn agor drysau cerbydau i atal gwrthdrawiadau ac anafiadau."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Hanfodion Diogelwch, Diffygion a Chynnal a Chadw Cerbydau",
+"subcategory":"Teiars",
+"englishSubcategory":"Tyres",
+"description":"Mae teiars sydd heb ddigon o chwyddiant yn lleihau'r trin ac yn cynyddu'r pellter stopio.\n\n Maent hefyd yn cynyddu cronni gwres a gallant gynyddu'r risg o fethiant teiars.\n\n Dylid gwirio teiars yn rheolaidd am ddyfnder y gwadn a'r pwysau chwyddiant cywir.\n\n Mae gwadn da yn helpu i gynnal gafael, yn enwedig mewn amodau gwlyb."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Hanfodion Diogelwch, Diffygion a Chynnal a Chadw Cerbydau",
+"subcategory":"Goleuadau",
+"englishSubcategory":"Lights",
+"description":"Rhaid i oleuadau pen weithio yn y nos a phryd bynnag y mae'r gwelededd yn wael.\n\n Mae goleuadau gweithio yn eich helpu i weld peryglon ac yn helpu defnyddwyr eraill y ffordd i'ch gweld chi.\n\n Mae goleuadau brêc yn bwysig oherwydd eu bod yn rhybuddio gyrwyr eraill eich bod chi'n arafu neu'n stopio.\n\n Mae goleuadau brêc diffygiol yn cynyddu'r risg o wrthdrawiadau cefn."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Hanfodion Diogelwch, Diffygion a Chynnal a Chadw Cerbydau",
+"subcategory":"Cynnal a Chadw Cyffredinol",
+"englishSubcategory":"General Maintenance",
+"description":"Y gyrrwr sy'n gyfrifol am sicrhau bod cerbyd yn addas ar gyfer y ffordd.\n\n Mae gwiriadau a gwasanaethu rheolaidd yn helpu i nodi a thrwsio problemau diogelwch yn gynnar."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Llwythi, Tynnu ac Ymwybyddiaeth o Gerbydau Trwm",
+"subcategory":"Llwythi",
+"englishSubcategory":"Loads",
+"description":"Rhaid sicrhau llwythi fel na allant syrthio na symud a chreu perygl i ddefnyddwyr eraill y ffordd.\n\n Gall llwyth anniogel achosi damweiniau, anafiadau a difrod.\n\n Os gosodir llwyth yn rhy uchel neu'n anwastad, gall sefydlogrwydd y cerbyd gael ei leihau.\n\n Mae hyn yn cynyddu'r risg o droi drosodd a cholli rheolaeth.\n\n Gall gorlwytho cerbyd leihau perfformiad brecio a thrin.\n\n Gall hefyd gynyddu straen teiars ac ataliad, gan gynyddu'r risg o ddamwain.\n\n Os yw llwyth yn ymwthio allan o gefn y cerbyd, rhaid ei sicrhau a'i wneud yn weladwy os oes angen.\n\n Gall llwythi sy'n ymwthio allan sydd wedi'u sicrhau'n wael daro defnyddwyr eraill y ffordd neu syrthio ar y ffordd."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Llwythi, Tynnu ac Ymwybyddiaeth o Gerbydau Trwm",
+"subcategory":"Tynnu",
+"englishSubcategory":"Towing",
+"description":"Mae tynnu trelar yn cynyddu'r pellter stopio oherwydd bod gan y cerbyd bwysau ychwanegol i arafu.\n\n Dylai gyrwyr ganiatáu mwy o le a brecio'n gynharach.\n\n Cyn tynnu, dylai gyrwyr wirio'r cyplu, goleuadau'r trelar, y gadwyn ddiogelwch, a bod y llwyth yn ddiogel.\n\n Gall tynnu gyda namau arwain at ddatgysylltiad neu wrthdrawiadau.\n\n Os yw trelar yn dechrau siglo, yr ymateb mwyaf diogel yw llacio'r cyflymydd a chadw'r llywio'n gyson.\n\n Gall brecio neu gyflymu llym waethygu'r siglo."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Llwythi, Tynnu ac Ymwybyddiaeth o Gerbydau Trwm",
+"subcategory":"Cerbydau Trwm",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Mae angen llawer mwy o amser ar gerbydau trwm i stopio na cheir.\n\n Mae torri o flaen tryc yn dileu ei le stopio a gall achosi damweiniau difrifol.\n\n Mae gan lorïau fannau dall mawr yn agos atynt ac yn uniongyrchol y tu ôl iddynt.\n\n Osgowch yrru yn yr ardaloedd hyn oherwydd efallai na fydd y gyrrwr yn eich gweld.\n\n Efallai y bydd angen lle ychwanegol ar lorïau a gallant droi'n llydan, yn enwedig ger croesffyrdd.\n\n Mae'n anniogel goddiweddyd tryc ychydig cyn croesffordd."
+}
+]

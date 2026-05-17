@@ -1,0 +1,586 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Normas e leis de tráfico",
+"subcategory":"Autoridade legal en materia de estradas",
+"englishSubcategory":"Legal Authority on Roads",
+"description":"As normas de circulación en Queensland son leis que todos os usuarios da estrada deben obedecer.\n\n Os condutores deben seguir os sinais de tráfico, os semáforos, as marcas viarias e as normas de circulación en todo momento.\n\n Os axentes de policía e os controladores de tráfico autorizados teñen a autoridade legal para dirixir o tráfico.\n\n Se unha indicación dun axente de policía ou dun controlador de tráfico entra en conflito cun sinal ou sinal, débese seguir a indicación.\n\n Non obedecer unha indicación legal é unha infracción."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Normas e leis de tráfico",
+"subcategory":"Responsabilidade do condutor",
+"englishSubcategory":"Driver Responsibility",
+"description":"Os condutores son legalmente responsables de conducir co debido coidado e atención en todo momento.\n\n Un condutor non debe conducir de forma descoidada, perigosa ou neglixente.\n\n Os condutores deben tomar medidas razoables para evitar accidentes e reducir o risco para os demais.\n\n O condutor é responsable da condución segura do seu vehículo en todas as condicións."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Normas e leis de tráfico",
+"subcategory":"Cedendo o paso",
+"englishSubcategory":"Giving Way",
+"description":"Ceder o paso significa reducir a velocidade e deterse se é necesario para evitar unha colisión.\n\n Os condutores deben ceder o paso cando o esixan os sinais, as normas de circulación ou as condicións do tráfico.\n\n Un condutor que entre nunha estrada desde unha entrada de vehículos, un aparcadoiro ou unha beirarrúa debe ceder o paso a todos os vehículos e peóns.\n\n Non ceder o paso cando é necesario constitúe unha infracción."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Normas e leis de tráfico",
+"subcategory":"Interseccións",
+"englishSubcategory":"Intersections",
+"description":"Nos cruzamentos, os condutores deben respectar os semáforos, as sinais e as marcas viarias.\n\n Se non hai sinais ou sinalización, os condutores deben ceder o paso segundo as normas de circulación de Queensland.\n\n Os condutores que xiren á dereita deben ceder o paso ao tráfico que vén en sentido contrario ou que xire á esquerda.\n\n Os peóns tamén deben ter prioridade cando sexa necesario."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Normas e leis de tráfico",
+"subcategory":"Rotondas",
+"englishSubcategory":"Roundabouts",
+"description":"Ao achegarse a unha rotonda, os condutores deben ceder o paso aos vehículos que xa se atopen nela.\n\n Os condutores deben ceder o paso aos vehículos que se achegan pola dereita.\n\n É necesaria unha sinalización correcta ao entrar e saír das rotondas.\n\n Non ceder o paso nunha rotonda pode provocar colisións graves."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Normas e leis de tráfico",
+"subcategory":"Sinais de tráfico",
+"englishSubcategory":"Traffic Signals",
+"description":"Os semáforos controlan o movemento de vehículos e peóns.\n\n Unha luz vermella significa parar e permanecer parado.\n\n Unha luz amarela significa parar se é seguro facelo.\n\n Unha luz verde permíteche avanzar, pero aínda debes ceder o paso onde sexa necesario."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Normas e leis de tráfico",
+"subcategory":"Xiros en U",
+"englishSubcategory":"U-Turns",
+"description":"Os cambios de sentido están permitidos en Queensland a non ser que un sinal os prohíba.\n\n Os condutores deben garantir que o cambio de sentido se poida completar con seguridade.\n\n Un condutor que realice un cambio de sentido debe ceder o paso a todos os demais vehículos e peóns.\n\n Non se deben realizar cambios de sentido onde a visibilidade sexa limitada ou insegura."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Normas e leis de tráfico",
+"subcategory":"Peóns",
+"englishSubcategory":"Pedestrians",
+"description":"Os condutores deben ceder o paso aos peóns nos pasos de peóns.\n\n Ao xirar nun cruzamento, os condutores deben ceder o paso aos peóns que cruzan a estrada á que se dirixen.\n\n É necesario ter especial coidado preto das escolas, zonas comerciais e paradas de transporte público."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Normas e leis de tráfico",
+"subcategory":"Vehículos de emerxencia",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Os condutores deben ceder o paso aos vehículos de emerxencia mediante luces intermitentes ou sirenas.\n\n Isto pode requirir reducir a velocidade, apartarse ou parar se é necesario.\n\n Os condutores non deben obstruír o camiño dos vehículos de emerxencia nin seguilos de preto."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Normas e leis de tráfico",
+"subcategory":"Obedecer as sinais de tráfico",
+"englishSubcategory":"Obeying Road Signs",
+"description":"As sinais de tráfico proporcionan instrucións legais e avisos aos usuarios da estrada.\n\n Os condutores deben obedecer as sinais regulamentarias, como os sinais de alto, cede o paso e límite de velocidade.\n\n As sinais de advertencia alertan os condutores sobre posibles perigos que se presentan.\n\n Ignorar as sinais de tráfico constitúe unha infracción da lei de circulación."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Sinais e sinalización de tráfico",
+"subcategory":"Sinais regulamentarios",
+"englishSubcategory":"Regulatory Signs",
+"description":"Os sinais regulamentarios dan instrucións que os condutores deben obedecer por lei.\n\n Estes inclúen sinais como Pare, Ceda o paso, Prohibida a entrada, Prohibido estacionar e sinais de límite de velocidade.\n\n Non seguir un sinal regulamentario é unha infracción."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Sinais e sinalización de tráfico",
+"subcategory":"Sinais de advertencia",
+"englishSubcategory":"Warning Signs",
+"description":"As sinais de advertencia alertan os condutores sobre posibles perigos ou cambios nas condicións da estrada. Adoitan ser amarelas e ter forma de diamante. Os condutores deben reducir a velocidade e prepararse para responder con seguridade."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Sinais e sinalización de tráfico",
+"subcategory":"Sinais de velocidade",
+"englishSubcategory":"Speed Signs",
+"description":"Os sinais de límite de velocidade mostran a velocidade máxima legal para unha estrada ou zona.\n\n Os condutores non deben superar o límite de velocidade indicado.\n\n Os límites de velocidade poden cambiar dependendo de condicións como obras ou zonas escolares."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Sinais e sinalización de tráfico",
+"subcategory":"Semáforos",
+"englishSubcategory":"Traffic Lights",
+"description":"Os semáforos controlan o tráfico nos cruzamentos.\n\n Unha luz vermella significa que hai que parar.\n\n Unha luz amarela significa que hai que parar se é seguro facelo.\n\n Unha luz verde significa que se pode continuar se o cruzamento está despexado."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Sinais e sinalización de tráfico",
+"subcategory":"Sinais de frecha",
+"englishSubcategory":"Arrow Signals",
+"description":"Os sinais de tráfico en forma de frecha só se aplican á dirección mostrada pola frecha.\n\n Unha frecha verde só permite o movemento nesa dirección.\n\n Unha frecha vermella significa que non debes continuar nesa dirección."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Sinais e sinalización de tráfico",
+"subcategory":"Cede o paso e sinais de stop",
+"englishSubcategory":"Give Way & Stop Signs",
+"description":"Un sinal de \"Ceda o paso\"esixe que os condutores reduzan a velocidade e cedan o paso a todo o tráfico en conflito\n\nUn sinal de \"Stop\"esixe que os condutores se deteñan completamente e cedan o paso antes de continuar\n\nOs condutores deben obedecer o sinal mesmo se a estrada parece despexada."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Sinais e sinalización de tráfico",
+"subcategory":"Sinais de control de carril",
+"englishSubcategory":"Lane Control Signals",
+"description":"Os sinais de control de carril úsanse enriba dos carrís para xestionar o fluxo de tráfico.\n\n Unha frecha verde significa que o carril está aberto.\n\n Unha cruz vermella ou un X branco significa que non se debe usar o carril."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Sinais e sinalización de tráfico",
+"subcategory":"Sinais para peóns",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Os sinais para peóns indican cando os peóns poden cruzar a estrada.\n\n Os condutores deben ceder o paso aos peóns que cruzan cando o sinal para peóns llo permita."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Sinais e sinalización de tráfico",
+"subcategory":"Sinais para fins especiais",
+"englishSubcategory":"Special Purpose Signs",
+"description":"Entre os sinais para fins especiais inclúense os de zona compartida, carril bus e zona escolar. Estes sinais aplican normas específicas que os condutores deben seguir nesas zonas."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Sinais e sinalización de tráfico",
+"subcategory":"Sinais temporais",
+"englishSubcategory":"Temporary Signs",
+"description":"As sinais temporais utilízanse para situacións como obras na estrada, accidentes ou eventos especiais.\n\n Os condutores deben obedecer as sinais temporais mesmo se difiren das sinais permanentes.\n\n Nas zonas de obras na estrada adoitan aplicarse límites de velocidade reducidos."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Regras de velocidade e distancia",
+"subcategory":"Límites de velocidade",
+"englishSubcategory":"Speed Limits",
+"description":"En Queensland, o límite de velocidade predeterminado nunha zona urbanizada é de 50 km/h a non ser que se indique o contrario.\n\n Os condutores deben comprobar sempre os sinais de velocidade, xa que os límites poden cambiar.\n\n O límite de velocidade máxima en Queensland é de 110 km/h a non ser que se indique un límite inferior.\n\n Os condutores nunca deben superar o límite de velocidade publicado."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Regras de velocidade e distancia",
+"subcategory":"Zonas escolares",
+"englishSubcategory":"School Zones",
+"description":"Os límites de velocidade na zona escolar aplícanse durante os horarios que se mostran nos sinais. Os condutores deben respectar o límite de velocidade sinalizado na zona escolar mesmo se os nenos non son visibles."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Regras de velocidade e distancia",
+"subcategory":"Obras viarias",
+"englishSubcategory":"Roadworks",
+"description":"Nas zonas de obras viarias aplícanse límites de velocidade reducidos desde o primeiro sinal de redución de velocidade ata o sinal de fin. Os condutores deben respectar estes límites mesmo se non hai traballadores presentes."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Regras de velocidade e distancia",
+"subcategory":"Distancia de seguimento",
+"englishSubcategory":"Following Distance",
+"description":"En boas condicións de condución, os condutores deben manter unha distancia mínima de seguimento de polo menos dous segundos. Isto permite que haxa tempo para reaccionar e deterse con seguridade."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Regras de velocidade e distancia",
+"subcategory":"Distancia de seguimento",
+"englishSubcategory":"Following Distance",
+"description":"En condicións de humidade ou malas condicións, os condutores deben aumentar a súa distancia de seguimento para permitir distancias de freada máis longas."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Regras de velocidade e distancia",
+"subcategory":"Distancia de freada",
+"englishSubcategory":"Stopping Distance",
+"description":"A distancia de freada inclúe a distancia de reacción e a distancia de freada.\n\n A medida que aumenta a velocidade, a distancia de freada total aumenta significativamente."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Regras de velocidade e distancia",
+"subcategory":"Distancia de freada",
+"englishSubcategory":"Stopping Distance",
+"description":"As estradas molladas, de grava ou esvaradías aumentan a distancia de freada. Os condutores deben reducir a velocidade para adaptarse ás condicións da estrada."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Regras de velocidade e distancia",
+"subcategory":"Zonas compartidas",
+"englishSubcategory":"Shared Zones",
+"description":"Nas zonas compartidas, o límite de velocidade é de 10 km/h. Os condutores deben estar preparados para deterse para evitar que os peóns cheguen a circular."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Regras de velocidade e distancia",
+"subcategory":"Responsabilidade do condutor",
+"englishSubcategory":"Driver Responsibility",
+"description":"Os condutores son sempre responsables de controlar a súa velocidade. Os sistemas de aviso de velocidade ou a tecnoloxía do vehículo non eliminan esta responsabilidade."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Responsabilidades do condutor",
+"subcategory":"Deberes xerais do condutor",
+"englishSubcategory":"General Driver Duties",
+"description":"Os condutores deben conducir sempre co debido coidado e atención.\n\n Se se sente demasiado canso, malestar ou incapaz de conducir con seguridade, debe deixar de conducir e descansar antes de continuar."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Responsabilidades do condutor",
+"subcategory":"Accidentes e accidentes",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Se te ves implicado nun accidente que causa lesións ou a morte, debes deterte, axudar se é posible e contactar cos servizos de emerxencia inmediatamente."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Responsabilidades do condutor",
+"subcategory":"Deberes xerais do condutor",
+"englishSubcategory":"General Driver Duties",
+"description":"Antes de conducir, o condutor é responsable de garantir que o vehículo estea en condicións de circular e que sexa seguro para circular."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Responsabilidades do condutor",
+"subcategory":"Accidentes e accidentes",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Se un accidente causa danos materiais e o propietario non está presente, debes deterte e deixar os teus datos ou denunciar o accidente á policía."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Responsabilidades do condutor",
+"subcategory":"Indicacións policiais",
+"englishSubcategory":"Police Directions",
+"description":"Os condutores deben presentar o seu permiso de conducir ou proporcionar os seus datos cando llo solicite un axente de policía."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Responsabilidades do condutor",
+"subcategory":"Accidentes e accidentes",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Débese denunciar un accidente á policía cando se produzan feridos, mortes ou danos materiais importantes."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Responsabilidades do condutor",
+"subcategory":"Pasaxeiros",
+"englishSubcategory":"Passengers",
+"description":"Os condutores son responsables de garantir que todos os pasaxeiros estean correctamente suxeitos con cintos de seguridade ou sistemas de retención homologados."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Responsabilidades do condutor",
+"subcategory":"Accidentes e accidentes",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Despois dun accidente leve sen feridos, os condutores deben deterse e intercambiar detalles coa outra parte implicada."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Responsabilidades do condutor",
+"subcategory":"Deberes xerais do condutor",
+"englishSubcategory":"General Driver Duties",
+"description":"Se a súa visión se deteriora mentres conduce, debe deixar de conducir ata que sexa seguro continuar."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Responsabilidades do condutor",
+"subcategory":"Accidentes e accidentes",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Se outro condutor abandona o lugar do accidente, debes denunciar o incidente á policía canto antes."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alcol, drogas e saúde",
+"subcategory":"Límites de alcol",
+"englishSubcategory":"Alcohol Limits",
+"description":"En Queensland, a concentración máxima de alcol no sangue (BAC) para o titular dun permiso de conducir aberto é de 0,05.\n\n Os condutores aprendices e provisionais deben ter unha BAC de 0,00 en todo momento."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alcol, drogas e saúde",
+"subcategory":"Efectos do alcol",
+"englishSubcategory":"Alcohol Effects",
+"description":"O alcol afecta á capacidade de condución desde a primeira bebida. Reduce o tempo de reacción, a coordinación e prexudica o xuízo."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alcol, drogas e saúde",
+"subcategory":"Drogas e condución",
+"englishSubcategory":"Drugs & Driving",
+"description":"Conducir con drogas ilegais no organismo é un delito en Queensland.\n\n Poden acusarte mesmo se non te sentes influenciado/a."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alcol, drogas e saúde",
+"subcategory":"Drogas e condución",
+"englishSubcategory":"Drugs & Driving",
+"description":"As probas de drogas nas estradas adoitan detectar cannabis, MDMA e metanfetamina. A policía pode esixir unha proba de saliva en calquera momento."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alcol, drogas e saúde",
+"subcategory":"Medicación e condución",
+"englishSubcategory":"Medication & Driving",
+"description":"Algúns medicamentos con receita e sen receita poden afectar a súa capacidade para conducir\n\nConsulte sempre as advertencias e evite conducir se non ten dúbida."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Prácticas de condución segura",
+"subcategory":"Condución defensiva",
+"englishSubcategory":"Defensive Driving",
+"description":"A condución defensiva significa anticipar os posibles perigos e as accións doutros usuarios da estrada.\n\n O obxectivo é reducir o risco de accidente planificando con antelación e mantendo as marxes de seguridade.\n\n Un principio clave da condución defensiva é manter unha zona de seguridade arredor do vehículo.\n\n Este espazo permite tempo para reaccionar se as condicións do tráfico cambian de súpeto.\n\n Se outro condutor se comporta de forma agresiva, a resposta máis segura é crear espazo e evitar o contacto.\n\n Non respondas cunha condución agresiva.\n\n A planificación con antelación axuda aos condutores a evitar freadas bruscas ou direccións bruscas.\n\n As decisións suaves e temperás melloran o control e a seguridade do vehículo."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Prácticas de condución segura",
+"subcategory":"Percepción de perigos",
+"englishSubcategory":"Hazard Perception",
+"description":"A percepción de perigos implica identificar os perigos potenciais cedo e responder antes de que se volvan críticos.\n\n Os condutores deben ollar ben cara adiante e cara aos lados, non só o vehículo de diante.\n\n Os coches aparcados, os peóns, os ciclistas e as interseccións son fontes comúns de perigos.\n\n Os condutores deben estar atentos aos movementos repentinos ou cambios no fluxo de tráfico.\n\n Revisar os espellos con regularidade axuda aos condutores a estar ao tanto do tráfico circundante.\n\n Esta conciencia é esencial para cambios de carril e freadas seguras."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Prácticas de condución segura",
+"subcategory":"Condicións da estrada",
+"englishSubcategory":"Road Conditions",
+"description":"As condicións da estrada, como choiva, grava ou mala visibilidade, esixen que os condutores reduzamos a velocidade.\n\n Os condutores deben axustar a súa condución ás condicións.\n\n As estradas molladas reducen a adherencia dos pneumáticos e aumentan a distancia de freada.\n\n Os condutores deben reducir a velocidade e aumentar a distancia de seguimento en condicións molladas.\n\n A visibilidade reducida debido á néboa, á choiva ou ao brillo esixe que os condutores reduzamos a velocidade e aumenten a distancia de seguimento.\n\n Os faros deben usarse axeitadamente para mellorar a visibilidade."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Interseccións, xiros e rotondas",
+"subcategory":"Cedendo o paso",
+"englishSubcategory":"Giving Way",
+"description":"Nunha intersección sen control, o condutor debe ceder o paso aos vehículos que se achegan pola dereita.\n\n Esta regra aplícase cando non hai semáforos, sinais de stop ou sinais de ceder o paso.\n\n Nunha intersección en T, o condutor na estrada final debe ceder o paso aos vehículos na estrada que continúa.\n\n Ao entrar nunha estrada desde un camiño de entrada ou unha senda, o condutor debe ceder o paso a todos os vehículos e peóns na estrada."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Interseccións, xiros e rotondas",
+"subcategory":"Xiros",
+"englishSubcategory":"Turns",
+"description":"Ao xirar á esquerda nun cruzamento, os condutores deben ceder o paso aos peóns que cruzan a estrada pola que se están a incorporar.\n\n Ao xirar á dereita nun cruzamento, os condutores deben ceder o paso aos vehículos que veñen de fronte e que circulan en liña recta ou que xiran á esquerda.\n\n Ao facer un xiro en U, o condutor debe ceder o paso a todos os demais vehículos e peóns.\n\n Antes de xirar nun cruzamento, os condutores deben sinalizar e comprobar se hai tráfico, ciclistas e peóns."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Interseccións, xiros e rotondas",
+"subcategory":"Rotondas",
+"englishSubcategory":"Roundabouts",
+"description":"Ao entrar nunha rotonda, os condutores deben ceder o paso aos vehículos que xa se atopen nela\n\nOs condutores deben sinalizar á esquerda ao saír dunha rotonda para informar aos demais usuarios da estrada da súa intención de marchar\n\nOs condutores deben achegarse ás rotondas a unha velocidade que lles permita ceder o paso con seguridade e deterse se é necesario."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Marcas viarias, carrís e adiantamentos",
+"subcategory":"Marcas viarias",
+"englishSubcategory":"Road Markings",
+"description":"Unha única liña central continua significa que os condutores non deben cruzar nin exceder a liña.\n\n O cruzamento só está permitido en circunstancias moi limitadas, como entrar ou saír dunha propiedade se está permitido.\n\n Unha liña central discontinua indica que os condutores poden cruzar a liña cando sexa seguro facelo.\n\n Isto úsase habitualmente para adiantamentos ou xiros.\n\n Unha dobre liña central continua significa que os condutores non deben cruzar nin exceder as liñas baixo ningunha circunstancia.\n\n As liñas brancas de bordo marcan o bordo da calzada e axudan aos condutores a identificar a zona transitable da estrada."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Marcas viarias, carrís e adiantamentos",
+"subcategory":"Adiantamento",
+"englishSubcategory":"Overtaking",
+"description":"Prohíbese adiantamento sempre que non sexa seguro ou cando as sinais ou as marcas viarias o prohíban.\n\n Os condutores deben avaliar sempre a visibilidade e o tráfico que vén de fronte antes de adiantamento.\n\n O condutor que adianta é totalmente responsable de garantir que a manobra se poida realizar con seguridade.\n\n Ao adiantamento a un ciclista, os condutores deben deixar unha separación lateral suficiente para garantir a seguridade do ciclista."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Marcas viarias, carrís e adiantamentos",
+"subcategory":"Carriles",
+"englishSubcategory":"Lanes",
+"description":"Antes de cambiar de carril, os condutores deben sinalizar a súa intención e ceder o paso aos vehículos que xa se atopen no carril no que se están a mover.\n\n Un carril marcado cun símbolo de bicicleta indica un carril bici reservado para ciclistas.\n\n Os condutores non deben circular por un carril bici a menos que estea permitido.\n\n Os carrís bus marcados con sinais e marcas viarias só poden ser utilizados por vehículos permitidos.\n\n Os condutores deben respectar os horarios de funcionamento que se mostran nos sinais."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Normas de parada, estacionamento e beirarrúas",
+"subcategory":"Restricións de estacionamento",
+"englishSubcategory":"Parking Restrictions",
+"description":"Aparcar demasiado preto dunha esquina non é seguro porque bloquea as liñas de visión dos condutores e dos peóns.\n\n Aparcar no lado incorrecto da estrada fronte ao tráfico non é seguro e pode ser ilegal en moitas situacións.\n\n Parar ou aparcar nun paso de peóns está prohibido porque pon en perigo os peóns e bloquea a visibilidade."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Normas de parada, estacionamento e beirarrúas",
+"subcategory":"Regras de parada",
+"englishSubcategory":"Stopping Rules",
+"description":"Antes de abrir a porta despois de aparcar preto do tráfico, debes comprobar os espellos e os puntos cegos.\n\n Isto axuda a evitar colisións con vehículos, ciclistas ou outros usuarios da estrada.\n\n Nun sinal de stop, os condutores deben deterse completamente na liña de stop ou antes de entrar na intersección.\n\n Só debes dar marcha atrás ou axustar a posición nos semáforos se é seguro e non pon en perigo a outros usuarios da estrada."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Peóns, ciclistas e usuarios vulnerables da estrada",
+"subcategory":"Peóns",
+"englishSubcategory":"Pedestrians",
+"description":"Nos pasos de peóns sen semáforos, os condutores que se acheguen ao paso deben ceder o paso aos peóns que estean no paso ou que estean a entrar nel.\n\n Nos semáforos, os condutores deben ceder o paso aos peóns que teñan un sinal de peóns en verde."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Peóns, ciclistas e usuarios vulnerables da estrada",
+"subcategory":"Ciclistas",
+"englishSubcategory":"Cyclists",
+"description":"Ao adiantamento dun ciclista, os condutores deben deixar unha separación lateral suficiente para garantir a súa seguridade. Os ciclistas son usuarios lexítimos da estrada e poden circular pola estrada, por carrís bici ou por sendeiros compartidos onde estea permitido."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Peóns, ciclistas e usuarios vulnerables da estrada",
+"subcategory":"Zonas compartidas",
+"englishSubcategory":"Shared Zones",
+"description":"Nas zonas compartidas, os peóns teñen prioridade sobre os vehículos e os condutores deben circular a velocidades moi baixas."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Peóns, ciclistas e usuarios vulnerables da estrada",
+"subcategory":"Anciáns e persoas con discapacidade",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Os peóns maiores ou con discapacidade poden moverse lentamente ou ter unha consciencia reducida, o que require que os condutores deixen tempo e espazo adicionais.\n\n Ao achegarse a peóns cun bastón branco ou un can guía, os condutores deben reducir a velocidade e estar preparados para deterse."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Situacións especiais e contornas de estrada",
+"subcategory":"Condicións meteorolóxicas",
+"englishSubcategory":"Weather Conditions",
+"description":"Ao conducir baixo choiva intensa, os condutores deben reducir a velocidade e aumentar a distancia de seguimento.\n\n A choiva reduce a visibilidade e a adherencia dos pneumáticos, o que aumenta as distancias de freada.\n\n Conducir a través de inundacións é perigoso porque a profundidade e o estado da estrada poden ser descoñecidos.\n\n A auga das inundacións pode arrastrar os vehículos ou ocultar os danos na estrada.\n\n A néboa reduce significativamente a visibilidade.\n\n Os condutores deben reducir a velocidade, usar as luces curtas e estar preparados para deterse.\n\n Os ventos fortes poden afectar a estabilidade do vehículo, especialmente para os vehículos con laterais altos.\n\n Os condutores deben reducir a velocidade e manter un control firme da dirección.\n\n O aquaplaning prodúcese cando os pneumáticos perden contacto coa superficie da estrada debido á auga.\n\n Os condutores deben soltar os pedais e dirixir suavemente se isto ocorre."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Situacións especiais e contornas de estrada",
+"subcategory":"Condución rural",
+"englishSubcategory":"Rural Driving",
+"description":"Nas estradas rurais, os animais poden entrar na calzada de forma inesperada.\n\n Os condutores deben permanecer alerta e estar preparados para reducir a velocidade ou deterse.\n\n Conducir de noite en estradas rurais é perigoso debido á redución da visibilidade e ao aumento da actividade da fauna silvestre.\n\n Se un animal aparece de súpeto na estrada, os condutores deben frear con firmeza e dirixir con seguridade sen desviarse perigosamente."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Situacións especiais e contornas de estrada",
+"subcategory":"Obras viarias",
+"englishSubcategory":"Roadworks",
+"description":"Ao achegarse a obras na estrada, os condutores deben respectar as sinais temporais e os límites de velocidade reducidos. Estas normas aplícanse mesmo se os traballadores non son visibles. Existen límites de velocidade temporais nas obras para protexer os traballadores e os usuarios da estrada. Os condutores non deben exceder estes límites."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Vehículos de emerxencia e indicacións da policía",
+"subcategory":"Vehículos de emerxencia",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Cando se achegue un vehículo de emerxencia con luces intermitentes ou sirenas, os condutores deben apartarse de forma segura e permitir que pase.\n\n En estradas de varios carrís, os condutores deben indicar e moverse a un carril despexado ou á esquerda sempre que sexa posible para permitir o paso dos vehículos de emerxencia.\n\n Se están parados nun semáforo e se achega un vehículo de emerxencia por detrás, os condutores poden moverse con coidado máis alá da liña de parada se é seguro facelo.\n\n Os condutores nunca deben bloquear o paso dun vehículo de emerxencia, independentemente do tipo de estrada ou das condicións do tráfico.\n\n Se non pode apartarse inmediatamente para un vehículo de emerxencia, continúe conducindo con seguridade ata que poida parar sen crear perigo.\n\n Ao adiantar un vehículo de emerxencia parado con luces intermitentes, os condutores deben reducir a velocidade e proceder con precaución."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Vehículos de emerxencia e indicacións da policía",
+"subcategory":"Indicacións policiais",
+"englishSubcategory":"Police Directions",
+"description":"Os condutores deben obedecer as indicacións dos axentes de policía ou dos controladores de tráfico autorizados, mesmo se estas entran en conflito cos sinais ou sinalización da estrada.\n\n Un axente de policía ou un controlador de tráfico autorizado ten autoridade legal para dirixir o tráfico de forma diferente aos sinais ou sinalizacións.\n\n Se a policía che indica que pares, xires, desvíes ou te pares, debes cumprilas de forma segura e canto antes.\n\n O incumprimento dunha indicación policial legal constitúe unha infracción e pode resultar en multas, puntos de demérito ou a suspensión do permiso de conducir."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Cintos de seguridade, sistemas de retención infantil e pasaxeiros",
+"subcategory":"Cintos de seguridade",
+"englishSubcategory":"Seatbelts",
+"description":"En Queensland, o condutor é legalmente responsable de garantir que todos os pasaxeiros menores de 16 anos leven posto o cinto de seguridade ou un sistema de retención homologado.\n\n Os cintos de seguridade deben levar postos en todo momento cando o vehículo estea en movemento se leva instalado un.\n\n O cinto de seguridade debe levarse firmemente sobre o ombreiro e na parte baixa das cadeiras para reducir o risco de lesións nun accidente.\n\n Os cintos de seguridade non deben levarse incorrectamente, como debaixo do brazo ou retorcidos, xa que isto aumenta considerablemente o risco de lesións graves."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Cintos de seguridade, sistemas de retención infantil e pasaxeiros",
+"subcategory":"Sistemas de retención infantil",
+"englishSubcategory":"Child Restraints",
+"description":"Os bebés deben ir suxeitos nun sistema de retención infantil homologado orientado cara atrás porque proporciona a mellor protección para a cabeza e o pescozo.\n\n Os nenos só deben pasar dun asento elevador a un cinto de seguridade para adultos cando cumpran os requisitos mínimos legais de idade e tamaño.\n\n Os sistemas de retención infantil deben estar colocados e axustados correctamente porque un axuste incorrecto reduce significativamente a protección nun accidente."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Cintos de seguridade, sistemas de retención infantil e pasaxeiros",
+"subcategory":"Pasaxeiros",
+"englishSubcategory":"Passengers",
+"description":"Os pasaxeiros sen suxeición poden resultar gravemente feridos ou causar lesións a outras persoas nun accidente debido a un movemento incontrolado.\n\n Se un pasaxeiro distrae o condutor, a acción máis segura é pedirlle que pare para que o condutor poida concentrarse en conducir con seguridade.\n\n Os pasaxeiros sempre deben comprobar se hai tráfico e ciclistas antes de abrir as portas do vehículo para evitar colisións e lesións."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Seguridade, defectos e conceptos básicos de mantemento de vehículos",
+"subcategory":"Pneumáticos",
+"englishSubcategory":"Tyres",
+"description":"Os pneumáticos con presión insuficiente reducen a manexabilidade e aumentan a distancia de freada.\n\n Tamén aumentan a acumulación de calor e poden aumentar o risco de falla dos pneumáticos.\n\n Os pneumáticos deben revisarse regularmente para comprobar a profundidade do debuxo e a presión de inflado correcta.\n\n Un bo debuxo axuda a manter a adherencia, especialmente en condicións de humidade."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Seguridade, defectos e conceptos básicos de mantemento de vehículos",
+"subcategory":"Luces",
+"englishSubcategory":"Lights",
+"description":"Os faros deben funcionar pola noite e sempre que a visibilidade sexa mala.\n\n As luces de traballo axúdanche a ver os perigos e a que outros usuarios da estrada te vexan.\n\n As luces de freado son importantes porque avisan a outros condutores de que estás a reducir a velocidade ou a parar.\n\n As luces de freado defectuosas aumentan o risco de accidentes traseiros."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Seguridade, defectos e conceptos básicos de mantemento de vehículos",
+"subcategory":"Mantemento xeral",
+"englishSubcategory":"General Maintenance",
+"description":"O condutor é responsable de garantir que un vehículo estea en condicións de circular.\n\n As revisións e os mantementos regulares axudan a identificar e solucionar problemas de seguridade a tempo."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Cargas, remolque e concienciación sobre vehículos pesados",
+"subcategory":"Cargas",
+"englishSubcategory":"Loads",
+"description":"As cargas deben estar suxeitas para que non poidan caer nin moverse e crear perigo para outros usuarios da estrada.\n\n Unha carga insegura pode causar accidentes, lesións e danos.\n\n Se unha carga se coloca demasiado alta ou de forma irregular, a estabilidade do vehículo pode verse reducida.\n\n Isto aumenta o risco de capotamento e perda de control.\n\n A sobrecarga dun vehículo pode reducir o rendemento de freada e manexabilidade.\n\n Tamén pode aumentar a tensión dos pneumáticos e da suspensión, o que aumenta o risco de accidente.\n\n Se unha carga sobresae da parte traseira do vehículo, debe estar suxeita e visible se é necesario.\n\n As cargas sobresaíntes mal suxeitas poden golpear a outros usuarios da estrada ou caer á estrada."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Cargas, remolque e concienciación sobre vehículos pesados",
+"subcategory":"Remolque",
+"englishSubcategory":"Towing",
+"description":"Remolcar un remolque aumenta a distancia de freada porque o vehículo ten peso adicional para reducir a velocidade.\n\n Os condutores deben deixar máis espazo e frear antes.\n\n Antes de remolcar, os condutores deben comprobar o enganche, as luces do remolque, a cadea de seguridade e que a carga estea suxeita.\n\n Remolcar con avarías pode provocar despregamentos ou accidentes.\n\n Se un remolque comeza a balancearse, a resposta máis segura é baixar o acelerador e manter a dirección firme.\n\n Unha freada ou unha aceleración bruscas poden empeorar o balanceo."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Cargas, remolque e concienciación sobre vehículos pesados",
+"subcategory":"Vehículos pesados",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Os vehículos pesados tardan moito máis tempo en deterse que os coches.\n\n Adiantar un camión elimina o seu espazo de parada e pode causar accidentes graves.\n\n Os camións teñen grandes puntos cegos moi preto deles e directamente detrás deles.\n\n Evita conducir nestas zonas porque o condutor pode non verte.\n\n Os camións poden necesitar espazo adicional e poden xirar de par en par, especialmente preto dos cruzamentos.\n\n Non é seguro adiantar un camión xusto antes dun cruzamento."
+}
+]

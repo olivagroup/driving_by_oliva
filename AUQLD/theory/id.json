@@ -1,0 +1,586 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"Peraturan dan Hukum Lalu Lintas",
+"subcategory":"Kewenangan Hukum di Jalan Raya",
+"englishSubcategory":"Legal Authority on Roads",
+"description":"Peraturan lalu lintas di Queensland adalah hukum yang harus dipatuhi oleh semua pengguna jalan. Pengemudi harus mengikuti rambu lalu lintas, lampu lalu lintas, marka jalan, dan peraturan lalu lintas setiap saat. Petugas polisi dan pengatur lalu lintas yang berwenang memiliki kewenangan hukum untuk mengatur lalu lintas. Jika arahan dari petugas polisi atau pengatur lalu lintas bertentangan dengan rambu atau sinyal, arahan tersebut harus diikuti. Tidak mematuhi arahan yang sah merupakan pelanggaran."
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"Peraturan dan Hukum Lalu Lintas",
+"subcategory":"Tanggung Jawab Pengemudi",
+"englishSubcategory":"Driver Responsibility",
+"description":"Pengemudi secara hukum bertanggung jawab untuk mengemudi dengan hati-hati dan penuh perhatian setiap saat.\n\n Pengemudi tidak boleh mengemudi dengan ceroboh, berbahaya, atau lalai.\n\n Pengemudi harus mengambil langkah-langkah yang wajar untuk menghindari kecelakaan dan mengurangi risiko bagi orang lain.\n\n Pengemudi bertanggung jawab atas pengoperasian kendaraannya yang aman dalam segala kondisi."
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"Peraturan dan Hukum Lalu Lintas",
+"subcategory":"Memberi Jalan",
+"englishSubcategory":"Giving Way",
+"description":"Memberi jalan berarti memperlambat kecepatan dan berhenti jika perlu untuk menghindari tabrakan. Pengemudi wajib memberi jalan jika diwajibkan oleh rambu-rambu, peraturan lalu lintas, atau kondisi lalu lintas. Pengemudi yang memasuki jalan dari jalan masuk, tempat parkir, atau trotoar wajib memberi jalan kepada semua kendaraan dan pejalan kaki. Tidak memberi jalan jika diwajibkan merupakan pelanggaran."
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"Peraturan dan Hukum Lalu Lintas",
+"subcategory":"Persimpangan",
+"englishSubcategory":"Intersections",
+"description":"Di persimpangan, pengemudi harus mematuhi lampu lalu lintas, rambu-rambu, dan marka jalan.\n\n Jika tidak ada rambu atau sinyal, pengemudi harus memberi jalan sesuai dengan peraturan lalu lintas Queensland.\n\n Pengemudi yang berbelok ke kanan harus memberi jalan kepada lalu lintas yang datang dari arah berlawanan yang lurus atau berbelok ke kiri.\n\n Pejalan kaki juga harus diprioritaskan jika diperlukan."
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"Peraturan dan Hukum Lalu Lintas",
+"subcategory":"Bundaran",
+"englishSubcategory":"Roundabouts",
+"description":"Saat mendekati bundaran, pengemudi harus memberi jalan kepada kendaraan yang sudah berada di dalam bundaran. Pengemudi harus memberi jalan kepada kendaraan yang datang dari kanan. Pemberian sinyal yang benar diperlukan saat memasuki dan keluar dari bundaran. Kegagalan memberi jalan di bundaran dapat menyebabkan tabrakan serius."
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"Peraturan dan Hukum Lalu Lintas",
+"subcategory":"Lampu Lalu Lintas",
+"englishSubcategory":"Traffic Signals",
+"description":"Lampu lalu lintas mengatur pergerakan kendaraan dan pejalan kaki. Lampu merah berarti berhenti dan tetap berhenti. Lampu kuning berarti berhenti jika aman untuk melakukannya. Lampu hijau memungkinkan Anda untuk melanjutkan perjalanan, tetapi Anda tetap harus memberi jalan jika diperlukan."
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"Peraturan dan Hukum Lalu Lintas",
+"subcategory":"Putar Balik",
+"englishSubcategory":"U-Turns",
+"description":"Putar balik diperbolehkan di Queensland kecuali jika ada rambu yang melarangnya.\n\n Pengemudi harus memastikan putar balik dapat dilakukan dengan aman.\n\n Pengemudi yang melakukan putar balik harus memberi jalan kepada semua kendaraan dan pejalan kaki lainnya.\n\n Putar balik tidak boleh dilakukan di tempat dengan jarak pandang terbatas atau tidak aman."
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"Peraturan dan Hukum Lalu Lintas",
+"subcategory":"Pejalan kaki",
+"englishSubcategory":"Pedestrians",
+"description":"Pengemudi harus memberi jalan kepada pejalan kaki di penyeberangan pejalan kaki.\n\n Saat berbelok di persimpangan, pengemudi harus memberi jalan kepada pejalan kaki yang menyeberang jalan yang akan dimasuki.\n\n Kehati-hatian ekstra diperlukan di dekat sekolah, area perbelanjaan, dan halte transportasi umum."
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"Peraturan dan Hukum Lalu Lintas",
+"subcategory":"Kendaraan Darurat",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Pengemudi wajib memberi jalan kepada kendaraan darurat yang menggunakan lampu berkedip atau sirene.\n\n Hal ini mungkin mengharuskan pengemudi untuk memperlambat kecepatan, menepi, atau berhenti jika perlu.\n\n Pengemudi tidak boleh menghalangi jalur kendaraan darurat atau mengikuti kendaraan darurat terlalu dekat."
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"Peraturan dan Hukum Lalu Lintas",
+"subcategory":"Mematuhi Rambu Lalu Lintas",
+"englishSubcategory":"Obeying Road Signs",
+"description":"Rambu lalu lintas memberikan petunjuk dan peringatan hukum kepada pengguna jalan. Pengemudi harus mematuhi rambu-rambu peraturan seperti rambu Berhenti, Beri Jalan, dan Batas Kecepatan. Rambu peringatan mengingatkan pengemudi tentang potensi bahaya di depan. Mengabaikan rambu lalu lintas merupakan pelanggaran hukum lalu lintas."
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"Rambu dan Sinyal Lalu Lintas",
+"subcategory":"Tanda-Tanda Regulasi",
+"englishSubcategory":"Regulatory Signs",
+"description":"Rambu-rambu peraturan memberikan instruksi yang harus dipatuhi pengemudi sesuai hukum.\n\n Ini termasuk rambu-rambu seperti Berhenti, Beri Jalan, Dilarang Masuk, Dilarang Parkir, dan rambu batas kecepatan.\n\n Tidak mematuhi rambu peraturan merupakan pelanggaran."
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"Rambu dan Sinyal Lalu Lintas",
+"subcategory":"Tanda-Tanda Peringatan",
+"englishSubcategory":"Warning Signs",
+"description":"Rambu peringatan memberitahukan pengemudi tentang potensi bahaya atau perubahan kondisi jalan di depan. Biasanya berwarna kuning dan berbentuk belah ketupat. Pengemudi harus memperlambat kecepatan dan bersiap untuk merespons dengan aman."
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"Rambu dan Sinyal Lalu Lintas",
+"subcategory":"Rambu Batas Kecepatan",
+"englishSubcategory":"Speed Signs",
+"description":"Rambu batas kecepatan menunjukkan kecepatan maksimum yang diizinkan secara hukum untuk suatu jalan atau area.\n\n Pengemudi tidak boleh melebihi batas kecepatan yang tertera.\n\n Batas kecepatan dapat berubah tergantung pada kondisi seperti pekerjaan jalan atau zona sekolah."
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"Rambu dan Sinyal Lalu Lintas",
+"subcategory":"Lampu Lalu Lintas",
+"englishSubcategory":"Traffic Lights",
+"description":"Lampu lalu lintas mengatur lalu lintas di persimpangan.\n\n Lampu merah berarti berhenti.\n\n Lampu kuning berarti berhenti jika aman untuk melakukannya.\n\n Lampu hijau berarti Anda boleh melanjutkan perjalanan jika persimpangan tidak ada lalu lintas."
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"Rambu dan Sinyal Lalu Lintas",
+"subcategory":"Sinyal Panah",
+"englishSubcategory":"Arrow Signals",
+"description":"Rambu lalu lintas panah hanya berlaku untuk arah yang ditunjukkan oleh panah tersebut. Panah hijau hanya mengizinkan pergerakan ke arah tersebut. Panah merah berarti Anda tidak boleh melanjutkan perjalanan ke arah tersebut."
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"Rambu dan Sinyal Lalu Lintas",
+"subcategory":"Rambu Beri Jalan & Rambu Berhenti",
+"englishSubcategory":"Give Way & Stop Signs",
+"description":"Rambu \"Beri Jalan\"mengharuskan pengemudi untuk memperlambat kecepatan dan memberi jalan kepada semua lalu lintas yang berlawanan. Rambu \"Berhenti\"mengharuskan pengemudi untuk berhenti total dan memberi jalan sebelum melanjutkan perjalanan. Pengemudi harus mematuhi rambu tersebut meskipun jalan tampak kosong."
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"Rambu dan Sinyal Lalu Lintas",
+"subcategory":"Sinyal Kontrol Jalur",
+"englishSubcategory":"Lane Control Signals",
+"description":"Sinyal pengatur lajur digunakan di atas lajur untuk mengatur arus lalu lintas. Panah hijau berarti lajur tersebut terbuka. Tanda silang merah atau tanda X putih berarti lajur tersebut tidak boleh digunakan."
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"Rambu dan Sinyal Lalu Lintas",
+"subcategory":"Sinyal Pejalan Kaki",
+"englishSubcategory":"Pedestrian Signals",
+"description":"Rambu penyeberangan pejalan kaki menunjukkan kapan pejalan kaki boleh menyeberang jalan.\n\n Pengemudi harus memberi jalan kepada pejalan kaki yang menyeberang ketika rambu penyeberangan pejalan kaki mengizinkannya."
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"Rambu dan Sinyal Lalu Lintas",
+"subcategory":"Rambu-rambu Tujuan Khusus",
+"englishSubcategory":"Special Purpose Signs",
+"description":"Rambu-rambu khusus mencakup rambu-rambu seperti rambu Zona Bersama, Jalur Bus, dan Zona Sekolah. Rambu-rambu ini menerapkan aturan khusus yang harus dipatuhi pengemudi di area tersebut."
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"Rambu dan Sinyal Lalu Lintas",
+"subcategory":"Rambu Sementara",
+"englishSubcategory":"Temporary Signs",
+"description":"Rambu sementara digunakan untuk situasi seperti pekerjaan jalan, kecelakaan, atau acara khusus. Pengemudi harus mematuhi rambu sementara meskipun berbeda dari rambu permanen. Batas kecepatan yang lebih rendah sering berlaku di area pekerjaan jalan."
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"Aturan Kecepatan & Jarak",
+"subcategory":"Batas Kecepatan",
+"englishSubcategory":"Speed Limits",
+"description":"Di Queensland, batas kecepatan standar di daerah perkotaan adalah 50 km/jam kecuali jika ada rambu yang menunjukkan batas kecepatan lain. Pengemudi harus selalu memeriksa rambu kecepatan yang terpasang karena batas kecepatan dapat berubah. Batas kecepatan maksimum di Queensland adalah 110 km/jam kecuali jika ada rambu yang menunjukkan batas kecepatan yang lebih rendah. Pengemudi tidak boleh melebihi batas kecepatan yang tertera."
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"Aturan Kecepatan & Jarak",
+"subcategory":"Zona Sekolah",
+"englishSubcategory":"School Zones",
+"description":"Batas kecepatan di zona sekolah berlaku selama waktu yang tertera pada rambu.\n\n Pengemudi harus mematuhi batas kecepatan zona sekolah yang tertera pada rambu meskipun anak-anak tidak terlihat."
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"Aturan Kecepatan & Jarak",
+"subcategory":"Pekerjaan jalan",
+"englishSubcategory":"Roadworks",
+"description":"Batas kecepatan yang dikurangi berlaku di zona pekerjaan jalan mulai dari rambu pengurangan kecepatan pertama hingga rambu akhir.\n\n Pengemudi harus mematuhi batas kecepatan ini meskipun tidak ada pekerja di lokasi."
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"Aturan Kecepatan & Jarak",
+"subcategory":"Jarak Aman",
+"englishSubcategory":"Following Distance",
+"description":"Dalam kondisi berkendara yang baik, pengemudi harus menjaga jarak aman minimal dua detik.\n\n Ini memberikan waktu untuk bereaksi dan berhenti dengan aman."
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"Aturan Kecepatan & Jarak",
+"subcategory":"Jarak Aman",
+"englishSubcategory":"Following Distance",
+"description":"Dalam kondisi basah atau buruk, pengemudi harus menambah jarak aman antar kendaraan untuk memberikan jarak pengereman yang lebih panjang."
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"Aturan Kecepatan & Jarak",
+"subcategory":"Jarak Pengereman",
+"englishSubcategory":"Stopping Distance",
+"description":"Jarak berhenti mencakup jarak reaksi dan jarak pengereman.\n\n Seiring peningkatan kecepatan, jarak berhenti total meningkat secara signifikan."
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"Aturan Kecepatan & Jarak",
+"subcategory":"Jarak Pengereman",
+"englishSubcategory":"Stopping Distance",
+"description":"Jalan basah, berkerikil, atau licin meningkatkan jarak pengereman.\n\n Pengemudi harus memperlambat kecepatan sesuai dengan kondisi jalan."
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"Aturan Kecepatan & Jarak",
+"subcategory":"Zona Bersama",
+"englishSubcategory":"Shared Zones",
+"description":"Di zona bersama, batas kecepatan adalah 10 km/jam.\n\n Pengemudi harus siap berhenti untuk pejalan kaki setiap saat."
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"Aturan Kecepatan & Jarak",
+"subcategory":"Tanggung Jawab Pengemudi",
+"englishSubcategory":"Driver Responsibility",
+"description":"Pengemudi selalu bertanggung jawab untuk mengendalikan kecepatan mereka.\n\n Sistem peringatan kecepatan atau teknologi kendaraan tidak menghilangkan tanggung jawab ini."
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"Tanggung Jawab Pengemudi",
+"subcategory":"Tugas Umum Pengemudi",
+"englishSubcategory":"General Driver Duties",
+"description":"Pengemudi harus selalu mengemudi dengan hati-hati dan penuh perhatian.\n\n Jika Anda merasa terlalu lelah, tidak enak badan, atau tidak mampu mengemudi dengan aman, Anda harus berhenti mengemudi dan beristirahat sebelum melanjutkan."
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"Tanggung Jawab Pengemudi",
+"subcategory":"Kecelakaan & Insiden",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Jika Anda terlibat dalam kecelakaan yang menyebabkan cedera atau kematian, Anda harus berhenti, memberikan bantuan jika memungkinkan, dan segera menghubungi layanan darurat."
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"Tanggung Jawab Pengemudi",
+"subcategory":"Tugas Umum Pengemudi",
+"englishSubcategory":"General Driver Duties",
+"description":"Sebelum mengemudi, pengemudi bertanggung jawab untuk memastikan kendaraan tersebut layak jalan dan aman untuk dioperasikan."
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"Tanggung Jawab Pengemudi",
+"subcategory":"Kecelakaan & Insiden",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Jika kecelakaan menyebabkan kerusakan properti dan pemiliknya tidak ada di tempat, Anda harus berhenti dan meninggalkan detail Anda atau melaporkan kecelakaan tersebut kepada polisi."
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"Tanggung Jawab Pengemudi",
+"subcategory":"Arahan Polisi",
+"englishSubcategory":"Police Directions",
+"description":"Pengemudi wajib menunjukkan surat izin mengemudi atau memberikan data diri mereka ketika diminta oleh petugas polisi."
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"Tanggung Jawab Pengemudi",
+"subcategory":"Kecelakaan & Insiden",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Kecelakaan harus dilaporkan ke polisi jika terjadi cedera, kematian, atau kerusakan properti yang signifikan."
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"Tanggung Jawab Pengemudi",
+"subcategory":"Penumpang",
+"englishSubcategory":"Passengers",
+"description":"Pengemudi bertanggung jawab untuk memastikan bahwa semua penumpang diikat dengan benar menggunakan sabuk pengaman atau alat pengaman yang disetujui."
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"Tanggung Jawab Pengemudi",
+"subcategory":"Kecelakaan & Insiden",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Setelah kecelakaan kecil tanpa korban luka, pengemudi harus berhenti dan bertukar informasi dengan pihak lain yang terlibat."
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"Tanggung Jawab Pengemudi",
+"subcategory":"Tugas Umum Pengemudi",
+"englishSubcategory":"General Driver Duties",
+"description":"Jika penglihatan Anda terganggu saat mengemudi, Anda harus berhenti mengemudi sampai aman untuk melanjutkan."
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"Tanggung Jawab Pengemudi",
+"subcategory":"Kecelakaan & Insiden",
+"englishSubcategory":"Crashes & Incidents",
+"description":"Jika pengemudi lain meninggalkan lokasi kecelakaan, Anda harus melaporkan kejadian tersebut kepada polisi sesegera mungkin."
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"Alkohol, Narkoba & Kesehatan",
+"subcategory":"Batasan Konsumsi Alkohol",
+"englishSubcategory":"Alcohol Limits",
+"description":"Di Queensland, batas maksimum kadar alkohol dalam darah (BAC) untuk pemegang SIM umum adalah 0,05. Pengemudi yang masih dalam tahap belajar dan pengemudi dengan SIM sementara harus memiliki BAC 0,00 setiap saat."
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"Alkohol, Narkoba & Kesehatan",
+"subcategory":"Efek Alkohol",
+"englishSubcategory":"Alcohol Effects",
+"description":"Alkohol memengaruhi kemampuan mengemudi sejak tegukan pertama.\n\n Alkohol memperlambat waktu reaksi, mengurangi koordinasi, dan mengganggu penilaian."
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"Alkohol, Narkoba & Kesehatan",
+"subcategory":"Narkoba dan Mengemudi",
+"englishSubcategory":"Drugs & Driving",
+"description":"Mengemudi dengan pengaruh obat-obatan terlarang merupakan pelanggaran di Queensland.\n\n Anda dapat dikenai dakwaan meskipun Anda tidak merasa terganggu."
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"Alkohol, Narkoba & Kesehatan",
+"subcategory":"Narkoba dan Mengemudi",
+"englishSubcategory":"Drugs & Driving",
+"description":"Tes narkoba di pinggir jalan umumnya mendeteksi ganja, MDMA, dan metamfetamin.\n\n Polisi dapat meminta tes air liur kapan saja."
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"Alkohol, Narkoba & Kesehatan",
+"subcategory":"Obat-obatan & Mengemudi",
+"englishSubcategory":"Medication & Driving",
+"description":"Beberapa obat resep dan obat bebas dapat memengaruhi kemampuan Anda untuk mengemudi. Selalu periksa peringatan dan hindari mengemudi jika ragu."
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"Praktik Mengemudi yang Aman",
+"subcategory":"Mengemudi Defensif",
+"englishSubcategory":"Defensive Driving",
+"description":"Mengemudi defensif berarti mengantisipasi potensi bahaya dan tindakan pengguna jalan lainnya. Tujuannya adalah untuk mengurangi risiko kecelakaan dengan merencanakan terlebih dahulu dan menjaga margin keselamatan. Prinsip utama mengemudi defensif adalah menjaga jarak aman di sekitar kendaraan Anda. Jarak ini memberi waktu untuk bereaksi jika kondisi lalu lintas berubah tiba-tiba. Jika pengemudi lain berperilaku agresif, respons teraman adalah menciptakan jarak dan menghindari kontak. Jangan merespons dengan mengemudi agresif. Perencanaan terlebih dahulu membantu pengemudi menghindari pengereman mendadak atau kemudi yang tajam. Keputusan yang halus dan tepat waktu meningkatkan kontrol dan keselamatan kendaraan."
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"Praktik Mengemudi yang Aman",
+"subcategory":"Persepsi Bahaya",
+"englishSubcategory":"Hazard Perception",
+"description":"Persepsi bahaya melibatkan identifikasi potensi bahaya sejak dini dan merespons sebelum bahaya tersebut menjadi kritis. Pengemudi harus mengamati dengan saksama ke depan dan ke samping, bukan hanya kendaraan di depannya. Mobil yang diparkir, pejalan kaki, pengendara sepeda, dan persimpangan adalah sumber bahaya yang umum. Pengemudi harus waspada terhadap gerakan atau perubahan mendadak dalam arus lalu lintas. Memeriksa kaca spion secara teratur membantu pengemudi tetap waspada terhadap lalu lintas di sekitarnya. Kesadaran ini sangat penting untuk perpindahan jalur dan pengereman yang aman."
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"Praktik Mengemudi yang Aman",
+"subcategory":"Kondisi Jalan",
+"englishSubcategory":"Road Conditions",
+"description":"Kondisi jalan seperti hujan, kerikil, atau jarak pandang yang buruk mengharuskan pengemudi untuk mengurangi kecepatan. Pengemudi harus menyesuaikan cara mengemudi mereka dengan kondisi jalan. Jalan basah mengurangi daya cengkeram ban dan meningkatkan jarak pengereman. Pengemudi harus memperlambat kecepatan dan menambah jarak aman di jalan basah. Jarak pandang yang berkurang karena kabut, hujan, atau silau mengharuskan pengemudi untuk memperlambat kecepatan dan menambah jarak aman. Lampu depan harus digunakan dengan tepat untuk meningkatkan jarak pandang."
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"Persimpangan, Belokan & Bundaran",
+"subcategory":"Memberi Jalan",
+"englishSubcategory":"Giving Way",
+"description":"Di persimpangan tanpa rambu lalu lintas, pengemudi harus memberi jalan kepada kendaraan yang datang dari kanan. Aturan ini berlaku ketika tidak ada lampu lalu lintas, rambu berhenti, atau rambu beri jalan. Di persimpangan berbentuk T, pengemudi di jalan yang berakhir harus memberi jalan kepada kendaraan di jalan yang berlanjut. Saat memasuki jalan dari jalan masuk atau jalan setapak, pengemudi harus memberi jalan kepada semua kendaraan dan pejalan kaki di jalan tersebut."
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"Persimpangan, Belokan & Bundaran",
+"subcategory":"Putaran",
+"englishSubcategory":"Turns",
+"description":"Saat berbelok kiri di persimpangan, pengemudi harus memberi jalan kepada pejalan kaki yang menyeberang jalan yang akan mereka masuki.\n\n Saat berbelok kanan di persimpangan, pengemudi harus memberi jalan kepada kendaraan yang datang dari arah berlawanan yang melaju lurus atau berbelok kiri.\n\n Saat melakukan putar balik (U-turn), pengemudi harus memberi jalan kepada semua kendaraan dan pejalan kaki lainnya.\n\n Sebelum berbelok di persimpangan, pengemudi harus memberi sinyal dan memeriksa lalu lintas, pengendara sepeda, dan pejalan kaki."
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"Persimpangan, Belokan & Bundaran",
+"subcategory":"Bundaran",
+"englishSubcategory":"Roundabouts",
+"description":"Saat memasuki bundaran, pengemudi harus memberi jalan kepada kendaraan yang sudah berada di dalam bundaran. Pengemudi harus memberi sinyal belok kiri saat keluar dari bundaran untuk memberi tahu pengguna jalan lain tentang niat mereka untuk keluar. Pengemudi harus mendekati bundaran dengan kecepatan yang memungkinkan mereka untuk memberi jalan dengan aman dan berhenti jika diperlukan."
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"Marka Jalan, Lajur, dan Menyalip",
+"subcategory":"Marka Jalan",
+"englishSubcategory":"Road Markings",
+"description":"Garis tengah tunggal yang kontinu berarti pengemudi tidak boleh melintasi atau melewati garis tersebut. \n. \n. Melintasi garis hanya diperbolehkan dalam keadaan yang sangat terbatas, seperti memasuki atau meninggalkan properti jika diizinkan. \n. \n. Garis tengah putus-putus menunjukkan bahwa pengemudi boleh melintasi garis tersebut jika aman untuk melakukannya. \n. \n. Ini biasanya digunakan untuk menyalip atau berbelok. \n. \n. Garis tengah ganda yang kontinu berarti pengemudi tidak boleh melintasi atau melewati garis tersebut dalam keadaan apa pun. \n. \n. Garis tepi putih menandai tepi jalan dan membantu pengemudi mengidentifikasi area jalan yang dapat dilalui."
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"Marka Jalan, Lajur, dan Menyalip",
+"subcategory":"Menyalip",
+"englishSubcategory":"Overtaking",
+"description":"Menyalip dilarang jika tidak aman atau jika rambu atau marka jalan melarangnya. Pengemudi harus selalu menilai jarak pandang dan lalu lintas yang datang sebelum menyalip. Pengemudi yang menyalip sepenuhnya bertanggung jawab untuk memastikan manuver dapat diselesaikan dengan aman. Saat menyalip pesepeda, pengemudi harus memberikan jarak bebas lateral yang cukup untuk memastikan keselamatan pesepeda."
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"Marka Jalan, Lajur, dan Menyalip",
+"subcategory":"Jalur",
+"englishSubcategory":"Lanes",
+"description":"Sebelum berpindah lajur, pengemudi harus memberi sinyal niat mereka dan memberi jalan kepada kendaraan yang sudah berada di lajur yang akan mereka masuki. Lajur yang ditandai dengan simbol sepeda menunjukkan lajur sepeda yang diperuntukkan bagi pesepeda. Pengemudi tidak boleh berkendara di lajur sepeda kecuali diizinkan. Lajur bus yang ditandai dengan rambu dan marka jalan hanya boleh digunakan oleh kendaraan yang berizin. Pengemudi harus mematuhi jam operasional yang tertera pada rambu."
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"Aturan Berhenti, Parkir & Pinggir Jalan",
+"subcategory":"Pembatasan Parkir",
+"englishSubcategory":"Parking Restrictions",
+"description":"Memarkir kendaraan terlalu dekat dengan tikungan tidak aman karena menghalangi pandangan pengemudi dan pejalan kaki. Memarkir kendaraan di sisi jalan yang salah, melawan arus lalu lintas, tidak aman dan mungkin ilegal dalam banyak situasi. Berhenti atau parkir di penyeberangan pejalan kaki dilarang karena membahayakan pejalan kaki dan menghalangi pandangan."
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"Aturan Berhenti, Parkir & Pinggir Jalan",
+"subcategory":"Aturan Penghentian",
+"englishSubcategory":"Stopping Rules",
+"description":"Sebelum membuka pintu setelah parkir di dekat lalu lintas, Anda harus memeriksa kaca spion dan titik buta.\n\n Ini membantu mencegah tabrakan dengan kendaraan, pengendara sepeda, atau pengguna jalan lainnya.\n\n Di rambu berhenti, pengemudi harus berhenti total di garis berhenti atau sebelum memasuki persimpangan.\n\n Anda hanya boleh mundur atau menyesuaikan posisi di lampu lalu lintas jika aman dan tidak membahayakan pengguna jalan lainnya."
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"Pejalan Kaki, Pengendara Sepeda & Pengguna Jalan yang Rentan",
+"subcategory":"Pejalan kaki",
+"englishSubcategory":"Pedestrians",
+"description":"Di penyeberangan pejalan kaki tanpa lampu lalu lintas, pengemudi yang mendekati penyeberangan harus memberi jalan kepada pejalan kaki yang berada di atau memasuki penyeberangan.\n\n Di lampu lalu lintas, pengemudi harus memberi jalan kepada pejalan kaki yang memiliki sinyal hijau untuk menyeberang."
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"Pejalan Kaki, Pengendara Sepeda & Pengguna Jalan yang Rentan",
+"subcategory":"Pesepeda",
+"englishSubcategory":"Cyclists",
+"description":"Saat menyalip pesepeda, pengemudi harus memberikan jarak lateral yang cukup untuk memastikan keselamatan pesepeda.\n\n Pesepeda adalah pengguna jalan yang sah dan dapat bersepeda di jalan raya, di jalur sepeda, atau di jalur bersama yang diizinkan."
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"Pejalan Kaki, Pengendara Sepeda & Pengguna Jalan yang Rentan",
+"subcategory":"Zona Bersama",
+"englishSubcategory":"Shared Zones",
+"description":"Di zona bersama, pejalan kaki memiliki prioritas atas kendaraan dan pengemudi harus melaju dengan kecepatan sangat rendah."
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"Pejalan Kaki, Pengendara Sepeda & Pengguna Jalan yang Rentan",
+"subcategory":"Lansia & Penyandang Disabilitas",
+"englishSubcategory":"Elderly & Disabled",
+"description":"Pejalan kaki lanjut usia atau penyandang disabilitas mungkin bergerak lambat atau memiliki kesadaran yang berkurang, sehingga pengemudi perlu memberikan waktu dan ruang ekstra.\n\n Saat mendekati pejalan kaki dengan tongkat putih atau anjing penuntun, pengemudi harus memperlambat kecepatan dan bersiap untuk berhenti."
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"Situasi Khusus & Lingkungan Jalan",
+"subcategory":"Kondisi Cuaca",
+"englishSubcategory":"Weather Conditions",
+"description":"Saat berkendara di tengah hujan deras, pengemudi harus mengurangi kecepatan dan menambah jarak aman. Hujan mengurangi jarak pandang dan daya cengkeram ban, sehingga meningkatkan jarak pengereman. Berkendara melalui genangan air berbahaya karena kedalaman dan kondisi jalan mungkin tidak diketahui. Air banjir dapat menghanyutkan kendaraan atau menyembunyikan kerusakan jalan. Kabut secara signifikan mengurangi jarak pandang. Pengemudi harus memperlambat kecepatan, menggunakan lampu depan jarak dekat, dan bersiap untuk berhenti. Angin kencang dapat memengaruhi stabilitas kendaraan, terutama untuk kendaraan bertubuh tinggi. Pengemudi harus mengurangi kecepatan dan mempertahankan kendali kemudi yang kuat. Aquaplaning terjadi ketika ban kehilangan kontak dengan permukaan jalan karena air. Pengemudi harus mengurangi tekanan pada pedal dan mengemudi dengan halus jika hal ini terjadi."
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"Situasi Khusus & Lingkungan Jalan",
+"subcategory":"Mengemudi di Pedesaan",
+"englishSubcategory":"Rural Driving",
+"description":"Di jalan pedesaan, hewan dapat tiba-tiba masuk ke jalan.\n\n Pengemudi harus tetap waspada dan siap untuk memperlambat atau berhenti.\n\n Mengemudi di malam hari di jalan pedesaan berbahaya karena jarak pandang yang berkurang dan peningkatan aktivitas satwa liar.\n\n Jika hewan tiba-tiba muncul di jalan, pengemudi harus mengerem dengan kuat dan mengemudi dengan aman tanpa berbelok secara berbahaya."
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"Situasi Khusus & Lingkungan Jalan",
+"subcategory":"Pekerjaan jalan",
+"englishSubcategory":"Roadworks",
+"description":"Saat mendekati lokasi pekerjaan jalan, pengemudi harus mematuhi rambu-rambu sementara dan batas kecepatan yang dikurangi.\n\n Aturan ini berlaku meskipun pekerja tidak terlihat.\n\n Batas kecepatan sementara di lokasi pekerjaan jalan diberlakukan untuk melindungi pekerja dan pengguna jalan.\n\n Pengemudi tidak boleh melampaui batas kecepatan ini."
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"Kendaraan Darurat & Petunjuk Arah Polisi",
+"subcategory":"Kendaraan Darurat",
+"englishSubcategory":"Emergency Vehicles",
+"description":"Ketika kendaraan darurat mendekat dengan lampu berkedip atau sirene, pengemudi harus menyingkir dengan aman dan membiarkannya lewat.\n\n Di jalan raya multi-jalur, pengemudi harus memberi isyarat dan berpindah ke jalur yang kosong atau ke kiri jika memungkinkan untuk memberi jalan kepada kendaraan darurat.\n\n Jika berhenti di lampu lalu lintas dan kendaraan darurat mendekat dari belakang, pengemudi dapat bergerak dengan hati-hati melewati garis berhenti jika aman untuk melakukannya.\n\n Pengemudi tidak boleh menghalangi jalur kendaraan darurat, terlepas dari jenis jalan atau kondisi lalu lintas.\n\n Jika Anda tidak dapat segera menyingkir untuk kendaraan darurat, teruslah mengemudi dengan aman sampai Anda dapat menepi tanpa menimbulkan bahaya.\n\n Saat melewati kendaraan darurat yang berhenti dengan lampu berkedip, pengemudi harus memperlambat dan melanjutkan dengan hati-hati."
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"Kendaraan Darurat & Petunjuk Arah Polisi",
+"subcategory":"Arahan Polisi",
+"englishSubcategory":"Police Directions",
+"description":"Pengemudi wajib mematuhi arahan yang diberikan oleh petugas polisi atau pengatur lalu lintas yang berwenang, meskipun arahan tersebut bertentangan dengan rambu atau sinyal lalu lintas. Petugas polisi atau pengatur lalu lintas yang berwenang memiliki kewenangan hukum untuk mengarahkan lalu lintas secara berbeda dari rambu atau sinyal lalu lintas. Jika polisi mengarahkan Anda untuk berhenti, berbelok, memutar, atau menepi, Anda harus mematuhinya dengan aman dan sesegera mungkin. Tidak mengikuti arahan polisi yang sah merupakan pelanggaran dan dapat mengakibatkan denda, pengurangan poin, atau penangguhan SIM."
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"Sabuk Pengaman, Pengaman Anak & Penumpang",
+"subcategory":"Sabuk pengaman",
+"englishSubcategory":"Seatbelts",
+"description":"Di Queensland, pengemudi secara hukum bertanggung jawab untuk memastikan bahwa semua penumpang di bawah usia 16 tahun mengenakan sabuk pengaman atau alat pengaman yang disetujui. Sabuk pengaman harus dikenakan setiap saat saat kendaraan bergerak jika sabuk pengaman terpasang. Sabuk pengaman harus dikenakan dengan kencang di bahu dan rendah di pinggul untuk mengurangi risiko cedera dalam kecelakaan. Sabuk pengaman tidak boleh dikenakan dengan tidak benar, seperti di bawah lengan atau terpelintir, karena hal ini sangat meningkatkan risiko cedera serius."
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"Sabuk Pengaman, Pengaman Anak & Penumpang",
+"subcategory":"Pengaman Anak",
+"englishSubcategory":"Child Restraints",
+"description":"Bayi harus diikat dengan alat pengaman anak menghadap ke belakang yang telah disetujui karena memberikan perlindungan terbaik untuk kepala dan leher.\n\n Anak-anak hanya boleh beralih dari kursi booster ke sabuk pengaman dewasa ketika mereka memenuhi persyaratan usia dan ukuran minimum yang ditetapkan undang-undang.\n\n Alat pengaman anak harus dipasang dan disesuaikan dengan benar karena pemasangan yang salah secara signifikan mengurangi perlindungan dalam kecelakaan."
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"Sabuk Pengaman, Pengaman Anak & Penumpang",
+"subcategory":"Penumpang",
+"englishSubcategory":"Passengers",
+"description":"Penumpang yang tidak mengenakan sabuk pengaman dapat mengalami cedera serius atau menyebabkan cedera pada orang lain dalam kecelakaan karena gerakan yang tidak terkendali.\n\n Jika seorang penumpang mengalihkan perhatian pengemudi, tindakan teraman adalah meminta mereka untuk berhenti agar pengemudi dapat fokus mengemudi dengan aman.\n\n Penumpang harus selalu memeriksa lalu lintas dan pengendara sepeda sebelum membuka pintu kendaraan untuk mencegah tabrakan dan cedera."
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"Dasar-Dasar Keselamatan Kendaraan, Kerusakan & Perawatan",
+"subcategory":"Ban",
+"englishSubcategory":"Tyres",
+"description":"Ban yang kurang angin mengurangi kemampuan pengendalian dan meningkatkan jarak pengereman.\n\n Selain itu, ban yang kurang angin juga meningkatkan penumpukan panas dan dapat meningkatkan risiko kerusakan ban.\n\n Ban harus diperiksa secara berkala untuk kedalaman alur dan tekanan angin yang tepat.\n\n Alur ban yang baik membantu menjaga cengkeraman, terutama dalam kondisi basah."
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"Dasar-Dasar Keselamatan Kendaraan, Kerusakan & Perawatan",
+"subcategory":"Lampu",
+"englishSubcategory":"Lights",
+"description":"Lampu depan harus berfungsi di malam hari dan kapan pun jarak pandang buruk. Lampu yang berfungsi membantu Anda melihat bahaya dan membantu pengguna jalan lain melihat Anda. Lampu rem penting karena memperingatkan pengemudi lain bahwa Anda sedang melambat atau berhenti. Lampu rem yang rusak meningkatkan risiko tabrakan dari belakang."
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"Dasar-Dasar Keselamatan Kendaraan, Kerusakan & Perawatan",
+"subcategory":"Pemeliharaan Umum",
+"englishSubcategory":"General Maintenance",
+"description":"Pengemudi bertanggung jawab untuk memastikan kendaraan dalam kondisi layak jalan. Pemeriksaan dan servis rutin membantu mengidentifikasi dan memperbaiki masalah keselamatan sejak dini."
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"Kesadaran tentang Muatan, Penarikan, dan Kendaraan Berat",
+"subcategory":"Banyak",
+"englishSubcategory":"Loads",
+"description":"Muatan harus diamankan agar tidak jatuh atau bergerak dan menimbulkan bahaya bagi pengguna jalan lainnya. Muatan yang tidak aman dapat menyebabkan kecelakaan, cedera, dan kerusakan. Jika muatan diletakkan terlalu tinggi atau tidak rata, stabilitas kendaraan dapat berkurang. Hal ini meningkatkan risiko terguling dan kehilangan kendali. Kelebihan muatan pada kendaraan dapat mengurangi kinerja pengereman dan pengendalian. Hal ini juga dapat meningkatkan tekanan pada ban dan suspensi, sehingga meningkatkan risiko kecelakaan. Jika muatan menonjol dari bagian belakang kendaraan, muatan tersebut harus diamankan dan dibuat terlihat jika diperlukan. Muatan yang menonjol dan tidak diamankan dengan baik dapat mengenai pengguna jalan lain atau jatuh ke jalan."
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"Kesadaran tentang Muatan, Penarikan, dan Kendaraan Berat",
+"subcategory":"Tarikan",
+"englishSubcategory":"Towing",
+"description":"Menarik trailer meningkatkan jarak pengereman karena kendaraan memiliki beban tambahan untuk diperlambat. Pengemudi harus memberi jarak lebih dan mengerem lebih awal. Sebelum menarik trailer, pengemudi harus memeriksa sambungan, lampu trailer, rantai pengaman, dan memastikan muatan aman. Menarik trailer dengan kondisi yang tidak baik dapat menyebabkan terlepasnya trailer atau kecelakaan. Jika trailer mulai bergoyang, respons teraman adalah mengurangi tekanan pada pedal gas dan menjaga kemudi tetap stabil. Pengereman atau akselerasi yang mendadak dapat memperburuk goyangan."
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"Kesadaran tentang Muatan, Penarikan, dan Kendaraan Berat",
+"subcategory":"Kendaraan Berat",
+"englishSubcategory":"Heavy Vehicles",
+"description":"Kendaraan berat membutuhkan waktu pengereman yang jauh lebih lama daripada mobil.\n ..."
+}
+]

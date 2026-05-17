@@ -1,0 +1,586 @@
+[
+{
+"id": 1,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"道路に関する法的権限",
+"englishSubcategory":"Legal Authority on Roads",
+"description":"クイーンズランド州の道路規則は、すべての道路利用者が遵守しなければならない法律です。\n. \n. 運転者は常に交通標識、信号、道路標示、および道路規則に従わなければなりません。\n. \n. 警察官および認可された交通管制官は、交通を誘導する法的権限を有します。\n. \n. 警察官または交通管制官の指示が標識または信号と矛盾する場合は、指示に従わなければなりません。\n. \n. 合法的な指示に従わない場合は犯罪となります。"
+},
+{
+"id": 2,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"ドライバーの責任",
+"englishSubcategory":"Driver Responsibility",
+"description":"運転者には、常に十分な注意を払って運転する法的責任があります。\n. \n. 運転者は、不注意、危険、または怠慢な運転をしてはなりません。\n. \n. 運転者は、衝突を回避し、他者へのリスクを軽減するために合理的な措置を講じる必要があります。\n. \n. 運転者は、あらゆる状況下で車両を安全に運転する責任があります。"
+},
+{
+"id": 3,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"道を譲る",
+"englishSubcategory":"Giving Way",
+"description":"道を譲るということは、衝突を避けるために必要に応じて減速し、停止することを意味します。\n. \n. 運転者は、標識、道路規則、または交通状況によって要求された場合、道を譲らなければなりません。\n. \n. 私道、駐車場、または歩道から道路に進入する運転者は、すべての車両と歩行者に道を譲らなければなりません。\n. \n. 要求されたときに道を譲らない場合は違反となります。"
+},
+{
+"id": 4,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"交差点",
+"englishSubcategory":"Intersections",
+"description":"交差点では、運転者は信号、標識、路面標示に従わなければなりません。\n. \n. 標識や信号がない場合、運転者はクイーンズランド州の道路規則に従って道を譲らなければなりません。\n. \n. 右折する運転者は、直進または左折する対向車に道を譲らなければなりません。\n. \n. 必要に応じて、歩行者にも優先権が与えられなければなりません。"
+},
+{
+"id": 5,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"ラウンドアバウト",
+"englishSubcategory":"Roundabouts",
+"description":"ラウンドアバウトに近づくときは、運転者はすでにラウンドアバウト内にいる車両に道を譲らなければなりません。\n. \n. 運転者は右側から近づいてくる車両に道を譲らなければなりません。\n. \n. ラウンドアバウトの入口と出口では正しい合図が必要です。\n. \n. ラウンドアバウトで道を譲らないと、重大な衝突を引き起こす可能性があります。"
+},
+{
+"id": 6,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"交通信号",
+"englishSubcategory":"Traffic Signals",
+"description":"信号は車両と歩行者の動きを制御します。\n. \n. 赤信号は停止し、停止したままでいることを意味します。\n. \n. 黄色信号は、安全であれば停止することを意味します。\n. \n. 緑信号は前進を許可しますが、必要に応じて道を譲らなければなりません。"
+},
+{
+"id": 7,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"Uターン",
+"englishSubcategory":"U-Turns",
+"description":"クイーンズランド州では、標識で禁止されていない限り、U ターンが許可されています。\n. \n. 運転者は、U ターンが安全に完了できることを確認する必要があります。\n. \n. U ターンを行う運転者は、他のすべての車両と歩行者に道を譲る必要があります。\n. \n. 視界が限られている場合や安全でない場所では、U ターンを行ってはなりません。"
+},
+{
+"id": 8,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"歩行者",
+"englishSubcategory":"Pedestrians",
+"description":"運転者は横断歩道上の歩行者に道を譲らなければなりません。\n. \n. 交差点で曲がるときは、運転者は進入しようとしている道路を横断している歩行者に道を譲らなければなりません。\n. \n. 学校、ショッピングエリア、公共交通機関の停留所の近くでは、特に注意が必要です。"
+},
+{
+"id": 9,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"緊急車両",
+"englishSubcategory":"Emergency Vehicles",
+"description":"運転者は、点滅灯またはサイレンを鳴らしている緊急車両に道を譲らなければなりません。\n. \n. 必要に応じて、減速、脇に寄る、または停止する必要があります。\n. \n. 運転者は、緊急車両の進路を妨害したり、緊急車両のすぐ後を追ってはなりません。"
+},
+{
+"id": 10,
+"englishName":"Theory",
+"category":"道路のルールと法律",
+"subcategory":"道路標識に従う",
+"englishSubcategory":"Obeying Road Signs",
+"description":"交通標識は、道路利用者に法的な指示と警告を提供します。\n. \n. 運転者は、一時停止、譲歩、速度制限などの規制標識に従わなければなりません。\n. \n. 警告標識は、前方の潜在的な危険を運転者に警告します。\n. \n. 道路標識を無視することは道路法違反です。"
+},
+{
+"id": 11,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"規制標識",
+"englishSubcategory":"Regulatory Signs",
+"description":"規制標識は、運転者が法律で遵守しなければならない指示を示します。\n. \n. これらには、停止、譲歩、進入禁止、駐車禁止、速度制限などの標識が含まれます。\n. \n. 規制標識に従わない場合は違反となります。"
+},
+{
+"id": 12,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"警告サイン",
+"englishSubcategory":"Warning Signs",
+"description":"警告標識は、前方の道路状況の潜在的な危険や変化をドライバーに知らせます。\n. \n. 警告標識は通常、黄色でひし形をしています。\n. \n. ドライバーは速度を落とし、安全に対応できるように準備する必要があります。"
+},
+{
+"id": 13,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"速度標識",
+"englishSubcategory":"Speed Signs",
+"description":"速度制限標識は、道路または地域の法定最高速度を示しています。\n. \n. 運転者は、掲示されている速度制限を超えてはなりません。\n. \n. 速度制限は、道路工事や通学区域などの状況に応じて変更される場合があります。"
+},
+{
+"id": 14,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"信号機",
+"englishSubcategory":"Traffic Lights",
+"description":"信号は交差点の交通を制御します。\n. \n. 赤信号は停止を意味します。\n. \n. 黄色信号は、安全であれば停止を意味します。\n. \n. 緑信号は、交差点に空きがあれば進むことができることを意味します。"
+},
+{
+"id": 15,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"矢印信号",
+"englishSubcategory":"Arrow Signals",
+"description":"矢印信号は、矢印が示す方向にのみ適用されます。 \n. \n. 緑の矢印は、その方向への移動のみを許可します。 \n. \n. 赤の矢印は、その方向に進んではいけないことを意味します。"
+},
+{
+"id": 16,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"譲歩と一時停止の標識",
+"englishSubcategory":"Give Way & Stop Signs",
+"description":"「譲歩」の標識は、運転者に速度を落とし、衝突するすべての交通に道を譲ることを義務付けています。\n. \n. 「停止」の標識は、運転者に完全に停止し、進む前に道を譲ることを義務付けています。\n. \n. 道路に障害物がないように見えても、運転者は標識に従わなければなりません。"
+},
+{
+"id": 17,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"車線制御信号",
+"englishSubcategory":"Lane Control Signals",
+"description":"車線制御信号は、交通の流れを管理するために車線上で使用されます。 \n. \n. 緑の矢印は、車線が開いていることを意味します。 \n. \n. 赤い十字または白い X は、車線を使用してはならないことを意味します。"
+},
+{
+"id": 18,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"歩行者用信号",
+"englishSubcategory":"Pedestrian Signals",
+"description":"歩行者信号は、歩行者が道路を横断できることを示します。\n. \n. 歩行者信号が歩行者横断を許可している場合は、運転者は横断中の歩行者に道を譲らなければなりません。"
+},
+{
+"id": 19,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"特殊用途標識",
+"englishSubcategory":"Special Purpose Signs",
+"description":"特別目的の標識には、共有ゾーン、バスレーン、スクールゾーンなどの標識が含まれます。\n. \n. これらの標識には、そのエリアで運転者が従わなければならない特定の規則が適用されます。"
+},
+{
+"id": 20,
+"englishName":"Theory",
+"category":"交通標識と信号",
+"subcategory":"一時的な標識",
+"englishSubcategory":"Temporary Signs",
+"description":"一時的な標識は、道路工事、衝突、特別なイベントなどの状況で使用されます。\n. \n. 運転者は、恒久的な標識と異なる場合でも、一時的な標識に従わなければなりません。\n. \n. 道路工事区域では、多くの場合、制限速度が低下します。"
+},
+{
+"id": 21,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"速度制限",
+"englishSubcategory":"Speed Limits",
+"description":"クイーンズランド州では、市街地でのデフォルトの制限速度は、別途標識がない限り時速 50 キロメートルです。\n. \n. 制限速度は変更される場合があるため、運転者は必ず速度標識を確認してください。\n. \n. クイーンズランド州の最高速度は、下限速度の標識がない限り時速 110 キロメートルです。\n. \n. 運転者は、表示されている制限速度を決して超えてはいけません。"
+},
+{
+"id": 23,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"スクールゾーン",
+"englishSubcategory":"School Zones",
+"description":"スクールゾーンの速度制限は、標識に表示されている時間帯に適用されます。\n. \n. 運転者は、子供が見えなくても、標識に表示されているスクールゾーンの速度制限を守らなければなりません。"
+},
+{
+"id": 24,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"道路工事",
+"englishSubcategory":"Roadworks",
+"description":"道路工事区域では、最初の速度制限標識から終了標識まで、制限速度が低下します。\n. \n. 作業員がいなくても、運転者はこれらの制限速度を守らなければなりません。"
+},
+{
+"id": 25,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"追従距離",
+"englishSubcategory":"Following Distance",
+"description":"良好な運転条件下では、運転者は少なくとも 2 秒の車間距離を維持する必要があります。\n. \n. これにより、反応して安全に停止する時間が確保されます。"
+},
+{
+"id": 26,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"追従距離",
+"englishSubcategory":"Following Distance",
+"description":"雨天時や悪天候時には、停止距離を長くするために運転者は車間距離を広げる必要があります。"
+},
+{
+"id": 27,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"停止距離",
+"englishSubcategory":"Stopping Distance",
+"description":"停止距離には、反応距離と制動距離が含まれます。\n. \n. 速度が増加すると、総停止距離が大幅に増加します。"
+},
+{
+"id": 28,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"停止距離",
+"englishSubcategory":"Stopping Distance",
+"description":"濡れた路面、砂利道、滑りやすい路面では、制動距離が長くなります。\n. \n. 運転者は道路状況に応じて減速する必要があります。"
+},
+{
+"id": 29,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"共有ゾーン",
+"englishSubcategory":"Shared Zones",
+"description":"共用ゾーンでは、制限速度は時速 10 km です。 \n. \n. 運転者は常に歩行者のために停止する準備をしておかなければなりません。"
+},
+{
+"id": 30,
+"englishName":"Theory",
+"category":"速度と距離のルール",
+"subcategory":"ドライバーの責任",
+"englishSubcategory":"Driver Responsibility",
+"description":"運転者は常に速度を制御する責任を負います。\n. \n. 速度警告システムや車両技術によってこの責任が免除されるわけではありません。"
+},
+{
+"id": 31,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"一般的なドライバーの職務",
+"englishSubcategory":"General Driver Duties",
+"description":"運転者は常に十分な注意を払って運転しなければなりません。\n. \n. 極度の疲労、体調不良、または安全な運転ができないと感じた場合は、運転を中止して休憩してから運転を続けなければなりません。"
+},
+{
+"id": 32,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"衝突と事故",
+"englishSubcategory":"Crashes & Incidents",
+"description":"事故に巻き込まれて負傷したり死亡したりした場合は、停止し、可能であれば救助し、直ちに救急サービスに連絡する必要があります。"
+},
+{
+"id": 33,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"一般的なドライバーの職務",
+"englishSubcategory":"General Driver Duties",
+"description":"運転する前に、運転者は車両が道路走行に適しており、安全に運転できることを確認する責任があります。"
+},
+{
+"id": 34,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"衝突と事故",
+"englishSubcategory":"Crashes & Incidents",
+"description":"事故により物的損害が発生し、所有者がその場にいない場合は、車を停めて自分の詳細を残すか、警察に事故を報告しなければなりません。"
+},
+{
+"id": 35,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"警察の指示",
+"englishSubcategory":"Police Directions",
+"description":"運転者は警察官に求められた場合、運転免許証を提示するか詳細情報を提供する必要があります。"
+},
+{
+"id": 36,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"衝突と事故",
+"englishSubcategory":"Crashes & Incidents",
+"description":"事故により負傷、死亡、または重大な物的損害が発生した場合は、警察に通報する必要があります。"
+},
+{
+"id": 37,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"乗客",
+"englishSubcategory":"Passengers",
+"description":"運転手は、すべての乗客がシートベルトまたは承認された拘束装置で正しく拘束されていることを確認する責任があります。"
+},
+{
+"id": 38,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"衝突と事故",
+"englishSubcategory":"Crashes & Incidents",
+"description":"負傷者のいない軽微な衝突の後、運転者は停止し、事故に関わった相手方と詳細を交換する必要があります。"
+},
+{
+"id": 39,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"一般的なドライバーの職務",
+"englishSubcategory":"General Driver Duties",
+"description":"運転中に視力が低下した場合は、安全が回復するまで運転を中止しなければなりません。"
+},
+{
+"id": 40,
+"englishName":"Theory",
+"category":"ドライバーの責任",
+"subcategory":"衝突と事故",
+"englishSubcategory":"Crashes & Incidents",
+"description":"他の運転手が事故現場から立ち去った場合は、できるだけ早く警察に事故を通報する必要があります。"
+},
+{
+"id": 41,
+"englishName":"Theory",
+"category":"アルコール、薬物、健康",
+"subcategory":"アルコール制限",
+"englishSubcategory":"Alcohol Limits",
+"description":"クイーンズランド州では、オープンライセンス保持者の血中アルコール濃度(BAC)の上限は0.05です。\n. \n. 学習運転者および仮運転者は、常にBACを0.00以下に維持する必要があります。"
+},
+{
+"id": 42,
+"englishName":"Theory",
+"category":"アルコール、薬物、健康",
+"subcategory":"アルコールの影響",
+"englishSubcategory":"Alcohol Effects",
+"description":"アルコールは最初の一杯から運転能力に影響を与えます。\n. \n. 反応時間が遅くなり、協調性が低下し、判断力が低下します。"
+},
+{
+"id": 43,
+"englishName":"Theory",
+"category":"アルコール、薬物、健康",
+"subcategory":"薬物と運転",
+"englishSubcategory":"Drugs & Driving",
+"description":"クイーンズランド州では、体内に違法薬物を摂取した状態で運転することは違法です。\n. \n. たとえ運転能力が低下していると感じていなくても、起訴される可能性があります。"
+},
+{
+"id": 44,
+"englishName":"Theory",
+"category":"アルコール、薬物、健康",
+"subcategory":"薬物と運転",
+"englishSubcategory":"Drugs & Driving",
+"description":"路上薬物検査では、一般的に大麻、MDMA、メタンフェタミンが検出されます。 \n. \n. 警察はいつでも唾液検査を要求することができます。"
+},
+{
+"id": 45,
+"englishName":"Theory",
+"category":"アルコール、薬物、健康",
+"subcategory":"薬と運転",
+"englishSubcategory":"Medication & Driving",
+"description":"処方薬や市販薬の中には、運転能力に影響を及ぼすものがあります。\n. \n. 必ず警告を確認し、不明な場合は運転を避けてください。"
+},
+{
+"id": 46,
+"englishName":"Theory",
+"category":"安全運転の実践",
+"subcategory":"守備運転",
+"englishSubcategory":"Defensive Driving",
+"description":"防御運転とは、潜在的な危険や他の道路利用者の行動を予測することを意味します。\n. \n. 目標は、事前に計画を立て、安全マージンを維持することで衝突リスクを減らすことです。\n. \n. 防御運転の重要な原則は、車両の周りに安全なバッファーを維持することです。\n. \n. このスペースにより、交通状況が突然変化した場合に対応する時間を確保できます。\n. \n. 他のドライバーが攻撃的な行動をとった場合、最も安全な対応はスペースを確保して衝突を避けることです。\n. \n. 攻撃的な運転で対応しないでください。\n. \n. 事前に計画を立てることで、ドライバーは急ブレーキや急ハンドルを回避できます。\n. \n. スムーズで早い段階での判断により、車両の制御と安全性が向上します。"
+},
+{
+"id": 47,
+"englishName":"Theory",
+"category":"安全運転の実践",
+"subcategory":"危険認識",
+"englishSubcategory":"Hazard Perception",
+"description":"危険を察知するということは、潜在的な危険を早期に特定し、危険が深刻化する前に対応することです。\n. \n. 運転者は前方の車両だけでなく、前方と左右を十分に確認する必要があります。\n. \n. 駐車中の車、歩行者、自転車、交差点などは、一般的に危険の原因となります。\n. \n. 運転者は、突然の動きや交通の流れの変化に注意する必要があります。\n. \n. ミラーを定期的に確認することで、運転者は周囲の交通状況を常に把握できます。\n. \n. この認識は、安全な車線変更やブレーキ操作に不可欠です。"
+},
+{
+"id": 48,
+"englishName":"Theory",
+"category":"安全運転の実践",
+"subcategory":"道路状況",
+"englishSubcategory":"Road Conditions",
+"description":"雨、砂利、視界不良などの道路状況では、運転者は速度を落とす必要があります。\n. \n. 運転者は状況に合わせて運転を調整する必要があります。\n. \n. 濡れた路面ではタイヤのグリップが低下し、制動距離が長くなります。\n. \n. 運転者は濡れた路面では速度を落とし、車間距離を伸ばす必要があります。\n. \n. 霧、雨、またはまぶしさによる視界不良の場合、運転者は速度を落とし、車間距離を伸ばす必要があります。\n. \n. 視認性を向上させるために、ヘッドライトを適切に使用する必要があります。"
+},
+{
+"id": 49,
+"englishName":"Theory",
+"category":"交差点、ターン、ラウンドアバウト",
+"subcategory":"道を譲る",
+"englishSubcategory":"Giving Way",
+"description":"信号のない交差点では、運転者は右側から接近する車両に道を譲らなければなりません。\n. \n. この規則は、信号、一時停止の標識、または譲歩の標識がない場合に適用されます。\n. \n. T 字路では、終端道路の運転者は、続く道路の車両に道を譲らなければなりません。\n. \n. 私道または歩道から道路に進入する場合、運転者は道路上のすべての車両と歩行者に道を譲らなければなりません。"
+},
+{
+"id": 50,
+"englishName":"Theory",
+"category":"交差点、ターン、ラウンドアバウト",
+"subcategory":"ターン",
+"englishSubcategory":"Turns",
+"description":"交差点で左折する場合、運転者は進入しようとしている道路を横断している歩行者に道を譲らなければなりません。\n. \n. 交差点で右折する場合、運転者は直進または左折する対向車に道を譲らなければなりません。\n. \n. U ターンする場合、運転者は他のすべての車両と歩行者に道を譲らなければなりません。\n. \n. 交差点で曲がる前に、運転者は合図を出し、交通、自転車、歩行者がいないか確認しなければなりません。"
+},
+{
+"id": 51,
+"englishName":"Theory",
+"category":"交差点、ターン、ラウンドアバウト",
+"subcategory":"ラウンドアバウト",
+"englishSubcategory":"Roundabouts",
+"description":"ラウンドアバウトに進入する際、運転者は既にラウンドアバウト内にいる車両に道を譲らなければなりません。\n. \n. ラウンドアバウトから出る際、運転者は左折の合図を出して、他の道路利用者に退出の意思を知らせなければなりません。\n. \n. 運転者は、安全に道を譲り、必要に応じて停止できる速度でラウンドアバウトに進入する必要があります。"
+},
+{
+"id": 52,
+"englishName":"Theory",
+"category":"道路標示、車線、追い越し",
+"subcategory":"道路標示",
+"englishSubcategory":"Road Markings",
+"description":"1 本の実線は、運転者が線を越えたり、またがったりしてはならないことを意味します。\n. \n. 横断は、許可されている場合に敷地内に出入りする場合など、非常に限られた状況でのみ許可されます。\n. \n. 破線のセンター ラインは、運転者が安全な場合に線を越えることができることを示します。\n. \n. これは、追い越しや方向転換によく使用されます。\n. \n. 2 本の実線は、いかなる状況でも運転者が線を越えたり、またがったりしてはならないことを意味します。\n. \n. 白い縁線は道路の端を示し、運転者が道路の通行可能な領域を識別するのに役立ちます。"
+},
+{
+"id": 53,
+"englishName":"Theory",
+"category":"道路標示、車線、追い越し",
+"subcategory":"追い越し",
+"englishSubcategory":"Overtaking",
+"description":"追い越しが安全でない場合、または標識や路面標示で禁止されている場合は、追い越しは禁止されています。\n. \n. 運転者は追い越しの前に必ず視界と対向車線を確認してください。\n. \n. 追い越しを行う運転者は、追い越しを安全に完了させる責任を全面的に負います。\n. \n. 自転車を追い越す場合、運転者は自転車の安全を確保するために十分な横方向の余裕を確保する必要があります。"
+},
+{
+"id": 54,
+"englishName":"Theory",
+"category":"道路標示、車線、追い越し",
+"subcategory":"レーン",
+"englishSubcategory":"Lanes",
+"description":"車線変更をする前に、運転者は変更の意思を示し、変更する車線にすでにいる車両に道を譲らなければなりません。\n. \n. 自転車のシンボルが付いている車線は、自転車専用レーンです。\n. \n. 運転者は、許可がない限り、自転車レーンを走行してはなりません。\n. \n. 標識や路面標示で示されているバスレーンは、許可された車両のみが通行できます。\n. \n. 運転者は、標識に表示されている運行時間を遵守しなければなりません。"
+},
+{
+"id": 55,
+"englishName":"Theory",
+"category":"停止、駐車、路側帯のルール",
+"subcategory":"駐車規制",
+"englishSubcategory":"Parking Restrictions",
+"description":"角に近すぎる駐車は、運転手や歩行者の視界を遮るので危険です。\n. \n. 交通に逆らって道路の反対側に駐車するのは危険であり、多くの場合違法となる可能性があります。\n. \n. 横断歩道上での停止や駐車は、歩行者を危険にさらし、視界を遮るので禁止されています。"
+},
+{
+"id": 56,
+"englishName":"Theory",
+"category":"停止、駐車、路側帯のルール",
+"subcategory":"停止ルール",
+"englishSubcategory":"Stopping Rules",
+"description":"交通量の多い場所に駐車した後、ドアを開ける前に、ミラーと死角を確認してください。\n. \n. これは、車両、自転車、またはその他の道路利用者との衝突を防ぐのに役立ちます。\n. \n. 一時停止の標識では、運転者は停止線で、または交差点に進入する前に完全に停止する必要があります。\n. \n. 信号で後退または位置を調整するのは、安全であり、他の道路利用者に危険を及ぼさない場合にのみ行ってください。"
+},
+{
+"id": 57,
+"englishName":"Theory",
+"category":"歩行者、自転車利用者、および道路弱者",
+"subcategory":"歩行者",
+"englishSubcategory":"Pedestrians",
+"description":"信号のない横断歩道では、横断歩道に近づいている運転者は、横断歩道上にいる歩行者または横断歩道に進入しようとしている歩行者に道を譲らなければなりません。\n. \n. 信号では、運転者は青信号の歩行者に道を譲らなければなりません。"
+},
+{
+"id": 58,
+"englishName":"Theory",
+"category":"歩行者、自転車利用者、および道路弱者",
+"subcategory":"サイクリスト",
+"englishSubcategory":"Cyclists",
+"description":"自転車を追い越す際は、運転者は自転車の安全を確保するために十分な横方向の余裕を持たなければなりません。\n. \n. 自転車は正当な道路利用者であり、許可されている場合は道路、自転車専用レーン、または共有道路を走行できます。"
+},
+{
+"id": 59,
+"englishName":"Theory",
+"category":"歩行者、自転車利用者、および道路弱者",
+"subcategory":"共有ゾーン",
+"englishSubcategory":"Shared Zones",
+"description":"共有ゾーンでは歩行者が車両より優先され、運転者は極めて低速で走行しなければなりません。"
+},
+{
+"id": 60,
+"englishName":"Theory",
+"category":"歩行者、自転車利用者、および道路弱者",
+"subcategory":"高齢者と障害者",
+"englishSubcategory":"Elderly & Disabled",
+"description":"高齢者や障害のある歩行者は動きが遅かったり、注意力が低下したりすることがあるため、運転者は余分な時間とスペースを確保する必要があります。\n. \n. 白杖や盲導犬を連れた歩行者に近づくときは、運転者は速度を落とし、停止する準備をしてください。"
+},
+{
+"id": 61,
+"englishName":"Theory",
+"category":"特殊な状況と道路環境",
+"subcategory":"気象条件",
+"englishSubcategory":"Weather Conditions",
+"description":"大雨の中で運転する場合、運転者は速度を落とし、車間距離を広げる必要があります。\n. \n. 雨は視界とタイヤのグリップを低下させ、制動距離を延ばします。\n. \n. 道路の深さや状態が不明な場合があるため、洪水の中を運転するのは危険です。\n. \n. 洪水は車両を流したり、道路の損傷を隠したりする可能性があります。\n. \n. 霧は視界を著しく低下させます。\n. \n. 運転者は速度を落とし、ロービームを使用し、停止する準備をする必要があります。\n. \n. 強風は、特に車高の高い車両の場合、車両の安定性に影響を与える可能性があります。\n. \n. 運転者は速度を落とし、しっかりとハンドル操作を維持する必要があります。\n. \n. アクアプレーニングは、水のためにタイヤが路面から接地しなくなるときに発生します。\n. \n. ハイドロプレーニングが発生した場合、運転者はペダルから足を離し、スムーズにハンドルを切る必要があります。"
+},
+{
+"id": 62,
+"englishName":"Theory",
+"category":"特殊な状況と道路環境",
+"subcategory":"田舎でのドライブ",
+"englishSubcategory":"Rural Driving",
+"description":"田舎道では、動物が突然道路に現れることがあります。\n. \n. 運転者は常に注意を払い、減速または停止できるように準備しておく必要があります。\n. \n. 田舎道での夜間の運転は、視界が悪く、野生動物の活動が活発になるため危険です。\n. \n. 動物が突然道路に現れた場合、運転者は急ブレーキをかけ、危険な方向にハンドルを切らずに安全にハンドルを切る必要があります。"
+},
+{
+"id": 63,
+"englishName":"Theory",
+"category":"特殊な状況と道路環境",
+"subcategory":"道路工事",
+"englishSubcategory":"Roadworks",
+"description":"道路工事現場に近づくときは、運転者は臨時の標識と制限速度に従わなければなりません。\n. \n. これらの規則は、作業員が見えない場合でも適用されます。\n. \n. 道路工事現場における臨時の制限速度は、作業員と道路利用者を保護するために設けられています。\n. \n. 運転者はこれらの制限速度を超えてはなりません。"
+},
+{
+"id": 64,
+"englishName":"Theory",
+"category":"緊急車両と警察の案内",
+"subcategory":"緊急車両",
+"englishSubcategory":"Emergency Vehicles",
+"description":"緊急車両が点滅灯やサイレンを鳴らしながら近づいてきたら、運転者は安全に道を譲り、緊急車両が通過できるようにしなければなりません。\n. \n. 複数車線の道路では、運転者は方向指示器を出し、空いている車線に移動するか、可能な場合は左側に移動して、緊急車両が通過できるようにしなければなりません。\n. \n. 信号で停止していて、緊急車両が後方から近づいてきた場合、運転者は安全であれば停止線を慎重に通過することができます。\n. \n. 道路の種類や交通状況に関わらず、運転者は緊急車両の進路を決して塞いではなりません。\n. \n. 緊急車両のためにすぐに脇に寄ることができない場合は、危険を及ぼさずに路肩に寄せることができるまで、安全運転を続けてください。\n. \n. 点滅灯を鳴らしながら停止している緊急車両を追い越すときは、運転者は速度を落とし、注意して進んでください。"
+},
+{
+"id": 65,
+"englishName":"Theory",
+"category":"緊急車両と警察の案内",
+"subcategory":"警察の指示",
+"englishSubcategory":"Police Directions",
+"description":"運転者は、たとえ道路標識や信号に反する場合でも、警察官または許可された交通管制官の指示に従わなければなりません。\n. \n. 警察官または許可された交通管制官には、標識や信号とは異なる方法で交通を誘導する法的権限があります。\n. \n. 警察から停止、方向転換、迂回、または路肩への停車を求められた場合には、安全を確保しながら速やかに従わなければなりません。\n. \n. 法的な警察の指示に従わない場合は犯罪であり、罰金、減点、または免許停止の対象となる場合があります。"
+},
+{
+"id": 66,
+"englishName":"Theory",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"シートベルト",
+"englishSubcategory":"Seatbelts",
+"description":"クイーンズランド州では、運転者は 16 歳未満のすべての乗客にシートベルトまたは承認されたシートベルトを着用させる法的責任を負います。\n. \n. シートベルトが装備されている場合は、車両が走行中は常にシートベルトを着用する必要があります。\n. \n. 衝突時の負傷のリスクを軽減するため、シートベルトは肩にしっかりとかけ、腰の低い位置で着用する必要があります。\n. \n. シートベルトは、脇の下やねじりなど、誤った方法で着用しないでください。重大な負傷のリスクが大幅に高まります。"
+},
+{
+"id": 67,
+"englishName":"Theory",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"チャイルドシート",
+"englishSubcategory":"Child Restraints",
+"description":"乳児は、頭部と首を最もよく保護するため、承認された後ろ向きのチャイルド シートに拘束する必要があります。\n. \n. お子様は、最低法定年齢と体格の要件を満たしている場合のみ、ブースター シートから大人用シートベルトに移行する必要があります。\n. \n. チャイルド シートは正しく装着および調整する必要があります。装着が不適切だと、衝突時の保護が大幅に低下します。"
+},
+{
+"id": 68,
+"englishName":"Theory",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"乗客",
+"englishSubcategory":"Passengers",
+"description":"シートベルトを締めていない乗客は、衝突時に制御不能な動きにより重傷を負ったり、他の人に怪我を負わせたりする可能性があります。\n. \n. 乗客が運転手の注意をそらす場合、最も安全な対応は、運転手が安全運転に集中できるように乗客に停止を求めることです。\n. \n. 衝突や怪我を防ぐため、乗客は車のドアを開ける前に必ず交通や自転車の有無を確認してください。"
+},
+{
+"id": 69,
+"englishName":"Theory",
+"category":"車両の安全性、欠陥、メンテナンスの基礎",
+"subcategory":"タイヤ",
+"englishSubcategory":"Tyres",
+"description":"空気圧が低いタイヤは、ハンドリング性能が低下し、制動距離が長くなります。\n. \n. また、熱の蓄積が増加し、タイヤが破損するリスクも高まります。\n. \n. タイヤは、トレッドの深さと適切な空気圧を定期的に点検する必要があります。\n. \n. 良好なトレッドは、特に濡れた路面でのグリップ力の維持に役立ちます。"
+},
+{
+"id": 70,
+"englishName":"Theory",
+"category":"車両の安全性、欠陥、メンテナンスの基礎",
+"subcategory":"ライト",
+"englishSubcategory":"Lights",
+"description":"ヘッドライトは夜間や視界が悪いときに必ず点灯する必要があります。\n. \n. 点灯しているライトは危険を視認しやすくし、他の道路利用者からもあなたの存在を認識できるようにします。\n. \n. ブレーキ ライトは、減速または停止していることを他のドライバーに警告するため重要です。\n. \n. ブレーキ ライトが故障すると追突事故のリスクが高まります。"
+},
+{
+"id": 71,
+"englishName":"Theory",
+"category":"車両の安全性、欠陥、メンテナンスの基礎",
+"subcategory":"一般的なメンテナンス",
+"englishSubcategory":"General Maintenance",
+"description":"運転者は、車両が道路走行に適していることを確認する責任があります。 \n. \n. 定期的な点検と整備により、安全上の問題を早期に特定し、解決することができます。"
+},
+{
+"id": 72,
+"englishName":"Theory",
+"category":"荷物、牽引、大型車両の認識",
+"subcategory":"負荷",
+"englishSubcategory":"Loads",
+"description":"荷物は、落下したり動いたりして他の道路利用者に危険を及ぼさないように固定する必要があります。\n. \n. 荷物が固定されていないと、衝突、負傷、損傷の原因となる可能性があります。\n. \n. 荷物が高すぎたり不均一に置かれたりすると、車両の安定性が低下する可能性があります。\n. \n. これにより、横転や制御不能の危険が高まります。\n. \n. 車両に過積載すると、ブレーキとハンドリング性能が低下する可能性があります。\n. \n. また、タイヤとサスペンションのストレスが増加し、衝突の危険が高まります。\n. \n. 荷物が車両の後部からはみ出ている場合は、固定し、必要に応じて見えるようにする必要があります。\n. \n. しっかりと固定されていないはみ出した荷物は、他の道路利用者にぶつかったり、道路に落ちたりする可能性があります。"
+},
+{
+"id": 73,
+"englishName":"Theory",
+"category":"荷物、牽引、大型車両の認識",
+"subcategory":"曳航",
+"englishSubcategory":"Towing",
+"description":"トレーラーを牽引すると、車両の重量が増すため減速し、停止距離が長くなります。\n. \n. ドライバーは車間距離を長くし、早めにブレーキをかける必要があります。\n. \n. 牽引する前に、カップリング、トレーラー ライト、安全チェーンを確認し、荷物が固定されていることを確認してください。\n. \n. 欠陥のある状態で牽引すると、トレーラーが外れたり衝突したりするおそれがあります。\n. \n. トレーラーが揺れ始めたら、最も安全な対応はアクセルから足を離し、ハンドルを一定に保つことです。\n. \n. 急ブレーキや急加速は揺れを悪化させる可能性があります。"
+},
+{
+"id": 74,
+"englishName":"Theory",
+"category":"荷物、牽引、大型車両の認識",
+"subcategory":"大型車両",
+"englishSubcategory":"Heavy Vehicles",
+"description":"大型車両は、乗用車よりも停止に時間がかかります。\n. \n. トラックの前を横切ると、トラックの停止スペースがなくなり、重大な衝突を引き起こす可能性があります。\n. \n. トラックのすぐ横と真後ろには大きな死角があります。\n. \n. 運転手から見えなくなる可能性があるため、これらのエリアでの運転は避けてください。\n. \n. トラックは余分なスペースを必要とする場合があり、特に交差点の近くでは大きく曲がることがあります。\n. \n. 交差点の直前でトラックを追い越すのは危険です。"
+}
+]
