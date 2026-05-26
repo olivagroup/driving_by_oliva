@@ -1,0 +1,110 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"血中アルコール濃度(BAC)",
+"description":"オーストラリア首都特別地域(ACT)では、仮免許運転者および免許取得予定者は、運転中は血中アルコール濃度(BAC)をゼロに維持しなければならない。"
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"雨天時の運転",
+"description":"雨天時は、停止距離が長くなり視界が悪くなる可能性があるため、速度を落とし、車間距離を広げてください。"
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"緊急車両通過",
+"description":"赤色または青色の点滅灯を点灯させて停車している緊急車両を追い越す際は、時速40キロまで減速しなければなりません。"
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"運転適性",
+"description":"疲労、病気、アルコール、薬物、または薬の影響で安全運転能力が損なわれる可能性がある場合は、運転しないでください。"
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"危険認識",
+"description":"前方を定期的に確認し、ミラーをチェックすることは、ドライバーが危険を早期に察知し、安全に対応するのに役立ちます。"
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"大型車両との相互作用",
+"description":"大型車両の周囲には十分な車間距離を保ち、道路を共有する際は死角に入らないように注意しましょう。"
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"牽引時の積載制限",
+"description":"車両およびトレーラーは、法定の牽引制限または積載制限を超えてはならず、積荷は適切に固定されなければならない。"
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Uターン禁止標識",
+"description":"「Uターン禁止」の標識は、その場所でのUターンが禁止されていることを意味します。"
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"交差点付近の駐車場",
+"description":"標識で許可されている場合を除き、交差点、信号機、横断歩道に近すぎる場所に駐車してはいけません。"
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"歩行者優先",
+"description":"運転者は、横断歩道や歩行者が横断している道路に進入する際には、歩行者に道を譲らなければならない。"
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"ランダム呼気検査",
+"description":"警察は無作為に呼気検査を実施することがあり、運転手は指示された場合、呼気サンプルを提供する義務がある。"
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"学区域の制限速度",
+"description":"ACT(オーストラリア首都特別地域)のスクールゾーンは、スクールゾーン標識に表示されている時間帯は、一般的に時速40キロで走行します。"
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"停止線ルール",
+"description":"一時停止標識または停止線では、完全に停止し、進行する前に道を譲らなければなりません。"
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"雨の中のテールゲートパーティー",
+"description":"路面が濡れている場合は、制動に必要な時間と距離を確保するため、車間距離を広げてください。"
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"テールゲートトラック",
+"description":"トラックに近づきすぎると視界が悪くなり、停止距離も短くなるため、避けてください。"
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"工事現場の安全対策",
+"description":"道路工事区域を通過する際は、一時的な速度制限、標識、交通整理員の指示に従ってください。"
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"バスレーンの利用",
+"description":"バス専用レーンは、標識で別途指示がない限り、許可された車両のみが使用できます。"
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"荷積みエリア",
+"description":"荷積みエリアは許可された車両専用であり、不正使用は罰金または罰則の対象となる場合があります。"
+}
+]

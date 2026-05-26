@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "englishName": "Legend",
+    "category": "Blood Alcohol Concentration (BAC)",
+    "description": "In the ACT, learner and provisional drivers must maintain zero BAC while driving."
+  },
+  {
+    "id": 2,
+    "englishName": "Legend",
+    "category": "Driving in Rain",
+    "description": "In wet weather, reduce speed and increase following distance because stopping distances increase and visibility may be reduced."
+  },
+  {
+    "id": 3,
+    "englishName": "Legend",
+    "category": "Emergency Vehicle Passing",
+    "description": "You must slow to 40 km/h when passing stationary emergency vehicles displaying flashing red or blue lights."
+  },
+  {
+    "id": 4,
+    "englishName": "Legend",
+    "category": "Fitness to Drive",
+    "description": "Do not drive if fatigue, illness, alcohol, drugs or medication could impair your ability to drive safely."
+  },
+  {
+    "id": 5,
+    "englishName": "Legend",
+    "category": "Hazard Perception",
+    "description": "Scanning ahead and checking mirrors regularly helps drivers identify hazards early and react safely."
+  },
+  {
+    "id": 6,
+    "englishName": "Legend",
+    "category": "Heavy Vehicle Interaction",
+    "description": "Allow extra space around heavy vehicles and avoid staying in blind spots when sharing the road."
+  },
+  {
+    "id": 7,
+    "englishName": "Legend",
+    "category": "Load Towing Limits",
+    "description": "Vehicles and trailers must not exceed legal towing or load limits and loads must be secured properly."
+  },
+  {
+    "id": 8,
+    "englishName": "Legend",
+    "category": "No U-Turn Sign",
+    "description": "A NO U-TURN sign means making a U-turn at that location is prohibited."
+  },
+  {
+    "id": 9,
+    "englishName": "Legend",
+    "category": "Parking Near Intersections",
+    "description": "You must not park too close to intersections, traffic lights or pedestrian crossings unless signs permit it."
+  },
+  {
+    "id": 10,
+    "englishName": "Legend",
+    "category": "Pedestrian Priority",
+    "description": "Drivers must give way to pedestrians at crossings and when turning into a road pedestrians are crossing."
+  },
+  {
+    "id": 11,
+    "englishName": "Legend",
+    "category": "Random Breath Testing",
+    "description": "Police may conduct random breath testing, and drivers are required to provide a breath sample when directed."
+  },
+  {
+    "id": 12,
+    "englishName": "Legend",
+    "category": "School Zone Speed Limits",
+    "description": "School zones in the ACT generally operate at 40 km/h during the times shown on school zone signs."
+  },
+  {
+    "id": 13,
+    "englishName": "Legend",
+    "category": "STOP Line Rule",
+    "description": "At a stop sign or stop line, you must stop completely and give way before proceeding."
+  },
+  {
+    "id": 14,
+    "englishName": "Legend",
+    "category": "Tailgating in Rain",
+    "description": "Increase your following distance in wet conditions to allow extra time and distance for braking."
+  },
+  {
+    "id": 15,
+    "englishName": "Legend",
+    "category": "Tailgating Trucks",
+    "description": "Avoid following trucks too closely because visibility and stopping distance are reduced."
+  },
+  {
+    "id": 16,
+    "englishName": "Legend",
+    "category": "Work Zone Safety",
+    "description": "Obey temporary speed limits, signs and traffic controllers when driving through roadwork areas."
+  },
+  {
+    "id": 17,
+    "englishName": "Legend",
+    "category": "Bus Lane Usage",
+    "description": "Bus lanes may only be used by permitted vehicles unless signs indicate otherwise."
+  },
+  {
+    "id": 18,
+    "englishName": "Legend",
+    "category": "Loading Zones",
+    "description": "Loading zones are reserved for authorised vehicles and misuse may result in fines or penalties."
+  }
+]
