@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "englishName": "Legend",
+    "category": "Blood Alcohol Concentration (BAC)",
+    "description": "In South Australia, learner, provisional and probationary drivers must have zero BAC when driving."
+  },
+  {
+    "id": 2,
+    "englishName": "Legend",
+    "category": "Driving in Rain",
+    "description": "In wet weather, slow down and leave extra space because stopping distance increases and visibility may be reduced."
+  },
+  {
+    "id": 3,
+    "englishName": "Legend",
+    "category": "Emergency Vehicle Passing",
+    "description": "You must slow to 25 km/h when passing a stationary emergency service vehicle displaying flashing red or blue lights."
+  },
+  {
+    "id": 4,
+    "englishName": "Legend",
+    "category": "Fitness to Drive",
+    "description": "Do not drive if illness, fatigue, alcohol, drugs or medication could affect your ability to drive safely."
+  },
+  {
+    "id": 5,
+    "englishName": "Legend",
+    "category": "Hazard Perception",
+    "description": "Scan well ahead and around your vehicle so you can identify hazards early and respond safely."
+  },
+  {
+    "id": 6,
+    "englishName": "Legend",
+    "category": "Heavy Vehicle Interaction",
+    "description": "Give trucks and buses extra room, avoid blind spots and allow more time when sharing the road with heavy vehicles."
+  },
+  {
+    "id": 7,
+    "englishName": "Legend",
+    "category": "Load Towing Limits",
+    "description": "Loads and trailers must be safe, secure and within legal vehicle and towing limits."
+  },
+  {
+    "id": 8,
+    "englishName": "Legend",
+    "category": "No U-Turn Sign",
+    "description": "A NO U-TURN sign means you must not make a U-turn at that location."
+  },
+  {
+    "id": 9,
+    "englishName": "Legend",
+    "category": "Parking Near Intersections",
+    "description": "Unless signs allow it, you must not stop or park within 20 metres of traffic lights or within 10 metres of an intersection without traffic lights."
+  },
+  {
+    "id": 10,
+    "englishName": "Legend",
+    "category": "Pedestrian Priority",
+    "description": "When turning at an intersection, you must give way to pedestrians crossing the road you are entering."
+  },
+  {
+    "id": 11,
+    "englishName": "Legend",
+    "category": "Random Breath Testing",
+    "description": "If required by police, you must comply with alcohol testing; refusing a breath or blood sample can lead to serious penalties."
+  },
+  {
+    "id": 12,
+    "englishName": "Legend",
+    "category": "School Zone Speed Limits",
+    "description": "In South Australia, you must drive at 25 km/h in school zones when children are present."
+  },
+  {
+    "id": 13,
+    "englishName": "Legend",
+    "category": "STOP Line Rule",
+    "description": "At a stop sign or stop line, you must come to a complete stop and give way as required before proceeding."
+  },
+  {
+    "id": 14,
+    "englishName": "Legend",
+    "category": "Tailgating in Rain",
+    "description": "In wet conditions, increase your following distance to allow for reduced grip and longer stopping distances."
+  },
+  {
+    "id": 15,
+    "englishName": "Legend",
+    "category": "Tailgating Trucks",
+    "description": "Do not follow trucks closely, as it limits your view ahead and reduces the space needed to stop safely."
+  },
+  {
+    "id": 16,
+    "englishName": "Legend",
+    "category": "Work Zone Safety",
+    "description": "When roadworks signs or workers are present, slow down, obey the posted speed limit and drive with caution."
+  },
+  {
+    "id": 17,
+    "englishName": "Legend",
+    "category": "Bus Lane Usage",
+    "description": "Only permitted vehicles may drive in a bus lane unless signs or road rules allow another vehicle to enter briefly."
+  },
+  {
+    "id": 18,
+    "englishName": "Legend",
+    "category": "Loading Zones",
+    "description": "Loading zones are only for vehicles allowed by the sign, and misuse may result in a fine."
+  }
+]
