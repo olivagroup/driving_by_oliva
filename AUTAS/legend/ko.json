@@ -1,0 +1,110 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"혈중 알코올 농도(BAC)",
+"description":"태즈메이니아에서는 운전 연수생과 임시 운전면허 소지자는 운전 중 혈중 알코올 농도가 0%를 유지해야 합니다."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"빗길 운전하기",
+"description":"비가 오는 날씨에는 도로가 미끄러워지고 시야가 좁아질 수 있으므로 속도를 줄이고 앞차와의 간격을 넓히십시오."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"긴급 차량 통과 중",
+"description":"운전자는 속도를 줄이고 경광등이나 사이렌을 켜고 있는 긴급 차량에 양보해야 합니다."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"운전 적합성",
+"description":"음주, 약물 복용, 피로, 질병 또는 복용 중인 약물이 운전 능력에 영향을 미칠 수 있는 경우에는 운전하지 마십시오."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"위험 인지",
+"description":"앞을 내다보고, 백미러를 확인하고, 위험 요소를 살피는 것은 운전자가 변화하는 도로 상황에 안전하게 대처하는 데 도움이 됩니다."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"대형 차량 상호 작용",
+"description":"대형 차량 주변에는 충분한 공간을 확보하고 사각지대를 피해 운전하십시오."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"견인 하중 제한",
+"description":"차량과 트레일러는 법정 적재량 및 견인 제한을 준수해야 하며, 적재물은 적절하게 고정되어야 합니다."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"유턴 금지 표지판",
+"description":"유턴 금지' 표지판은 해당 위치에서 유턴이 허용되지 않음을 의미합니다."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"교차로 근처 주차",
+"description":"표지판에 허용된 경우를 제외하고 교차로, 횡단보도 및 신호등에 너무 가까이 주차하는 것은 금지되어 있습니다."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"보행자 우선",
+"description":"운전자는 횡단보도에서 보행자에게 양보해야 하며, 보행자가 건너는 도로로 진입할 때도 마찬가지입니다."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"무작위 음주 측정",
+"description":"태즈메이니아 경찰은 무작위로 음주 측정 검사를 실시할 수 있으며, 운전자는 요청 시 음주 측정 샘플을 제공해야 합니다."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"학교 구역 제한 속도",
+"description":"태즈메이니아의 학교 구역에서는 일반적으로 학교 구역 표지판에 표시된 시간 동안 시속 40km의 속도 제한이 적용됩니다."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"정지선 규칙",
+"description":"정지 표지판이나 정지선에서는 교차로에 진입하기 전에 완전히 정지하고 양보해야 합니다."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"비 오는 날 야외 파티",
+"description":"젖은 노면에서는 제동 거리를 확보하기 위해 차량 간 간격을 더 넓게 유지하십시오."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"트럭 테일게이팅",
+"description":"트럭과의 간격을 너무 가깝게 유지하지 마십시오. 트럭은 시야를 가리고 제동 거리를 더 길게 필요로 합니다."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"작업 구역 안전",
+"description":"도로 공사 구간을 주행할 때는 제한 속도, 임시 표지판 및 교통 통제 요원의 지시를 따르십시오."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"버스 전용차선 이용",
+"description":"버스 전용차선은 표지판에 통행 허가 표시가 없는 한 허가된 차량만 이용할 수 있습니다."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"적재 구역",
+"description":"적재 구역은 허가된 적재 및 하역 작업에만 사용되며, 다른 차량은 출입이 제한됩니다."
+}
+]

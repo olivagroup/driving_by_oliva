@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "englishName": "Legend",
+    "category": "Blood Alcohol Concentration (BAC)",
+    "description": "In Tasmania, learner and provisional drivers must maintain zero BAC while driving."
+  },
+  {
+    "id": 2,
+    "englishName": "Legend",
+    "category": "Driving in Rain",
+    "description": "In wet weather, reduce speed and increase following distance because roads can become slippery and visibility may decrease."
+  },
+  {
+    "id": 3,
+    "englishName": "Legend",
+    "category": "Emergency Vehicle Passing",
+    "description": "Drivers must slow down and give way to emergency vehicles displaying flashing lights or sirens."
+  },
+  {
+    "id": 4,
+    "englishName": "Legend",
+    "category": "Fitness to Drive",
+    "description": "Do not drive if alcohol, drugs, fatigue, illness or medication could affect your ability to drive safely."
+  },
+  {
+    "id": 5,
+    "englishName": "Legend",
+    "category": "Hazard Perception",
+    "description": "Looking ahead, checking mirrors and scanning for hazards helps drivers react safely to changing road conditions."
+  },
+  {
+    "id": 6,
+    "englishName": "Legend",
+    "category": "Heavy Vehicle Interaction",
+    "description": "Allow extra room around heavy vehicles and avoid driving in their blind spots."
+  },
+  {
+    "id": 7,
+    "englishName": "Legend",
+    "category": "Load Towing Limits",
+    "description": "Vehicles and trailers must stay within legal load and towing limits, and loads must be properly secured."
+  },
+  {
+    "id": 8,
+    "englishName": "Legend",
+    "category": "No U-Turn Sign",
+    "description": "A NO U-TURN sign means drivers are not permitted to make a U-turn at that location."
+  },
+  {
+    "id": 9,
+    "englishName": "Legend",
+    "category": "Parking Near Intersections",
+    "description": "Parking is prohibited too close to intersections, pedestrian crossings and traffic lights unless signs allow it."
+  },
+  {
+    "id": 10,
+    "englishName": "Legend",
+    "category": "Pedestrian Priority",
+    "description": "Drivers must give way to pedestrians at crossings and when turning into a road pedestrians are crossing."
+  },
+  {
+    "id": 11,
+    "englishName": "Legend",
+    "category": "Random Breath Testing",
+    "description": "Tasmania Police may conduct random breath testing and drivers must provide a breath sample when requested."
+  },
+  {
+    "id": 12,
+    "englishName": "Legend",
+    "category": "School Zone Speed Limits",
+    "description": "School zones in Tasmania generally operate at 40 km/h during the times shown on school zone signs."
+  },
+  {
+    "id": 13,
+    "englishName": "Legend",
+    "category": "STOP Line Rule",
+    "description": "At a STOP sign or stop line, you must stop completely and give way before entering the intersection."
+  },
+  {
+    "id": 14,
+    "englishName": "Legend",
+    "category": "Tailgating in Rain",
+    "description": "Leave a larger gap between vehicles in wet conditions to allow extra braking distance."
+  },
+  {
+    "id": 15,
+    "englishName": "Legend",
+    "category": "Tailgating Trucks",
+    "description": "Avoid following trucks too closely because they reduce visibility and need more stopping distance."
+  },
+  {
+    "id": 16,
+    "englishName": "Legend",
+    "category": "Work Zone Safety",
+    "description": "Obey reduced speed limits, temporary signs and traffic controllers when driving through roadwork areas."
+  },
+  {
+    "id": 17,
+    "englishName": "Legend",
+    "category": "Bus Lane Usage",
+    "description": "Bus lanes may only be used by authorised vehicles unless signs indicate permitted access."
+  },
+  {
+    "id": 18,
+    "englishName": "Legend",
+    "category": "Loading Zones",
+    "description": "Loading zones are reserved for authorised loading and unloading activities and restrictions apply to other vehicles."
+  }
+]
