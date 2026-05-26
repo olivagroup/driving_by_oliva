@@ -1,0 +1,8002 @@
+[
+{
+"id": 1,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"一般的な道路交通規則",
+"question":"ACT(オーストラリア首都特別地域)で仮免許証で運転する場合、車両には何を掲示しなければなりませんか?",
+"answer":"車両の前部と後部にLプレートを装着する",
+"distractor1":"Pプレートは後部のみに装着",
+"distractor2":"監督者がいる場合は、プレートは不要です。"
+},
+{
+"id": 2,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"道を譲る",
+"question":"ACT(オーストラリア首都特別地域)の信号のない交差点では、基本的な優先権のルールは何ですか?",
+"answer":"右側の車両に道を譲ってください",
+"distractor1":"左折する車両にのみ道を譲る",
+"distractor2":"大型車両が先に進む"
+},
+{
+"id": 3,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"交差点",
+"question":"交差点で右折する際、どのような車両に道を譲らなければなりませんか?",
+"answer":"直進または左折してくる対向車",
+"distractor1":"後方の車両のみ",
+"distractor2":"右折する車両のみ"
+},
+{
+"id": 4,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"ロータリー交差点",
+"question":"ロータリーに入る前に何をすべきですか?",
+"answer":"既にロータリー内を走行している車両に道を譲ってください。",
+"distractor1":"指示する場合は、すぐに入力してください",
+"distractor2":"左側の車両にのみ道を譲ってください。"
+},
+{
+"id": 5,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"追い越しと合流",
+"question":"時速60km以下の速度制限区域で自転車を追い越す場合、最低限どのくらいの車間距離を空けなければならないか?",
+"answer":"少なくとも1メートル",
+"distractor1":"少なくとも50センチメートル",
+"distractor2":"指定すれば距離は設定されません"
+},
+{
+"id": 6,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"車線使用状況",
+"question":"時速80kmを超える複数車線の道路で、右車線を使用できるのはどのような場合ですか?",
+"answer":"追い越し、右折、またはその他の許可された理由が適用される場合",
+"distractor1":"交通量が少ない時",
+"distractor2":"制限速度以下で走行する場合のみ"
+},
+{
+"id": 7,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"信号機",
+"question":"黄色の信号機は何を意味しますか?",
+"answer":"安全に停止できないほど接近していない限り、停止してください。",
+"distractor1":"赤信号になる前にスピードを上げろ",
+"distractor2":"黄色信号は優先権を示しているので、そのまま進んでください。"
+},
+{
+"id": 8,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"交通標識",
+"question":"一時停止標識と停止線では、何をしなければなりませんか?",
+"answer":"車両の前部を停車線手前で停止し、道を譲ってください。",
+"distractor1":"交通量がある場合のみ減速してください。",
+"distractor2":"他の車両が接近している場合にのみ停止してください。"
+},
+{
+"id": 9,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"歩行者と横断歩道",
+"question":"信号機では、右左折する車両は誰に道を譲らなければならないのか?",
+"answer":"道路を横断する歩行者が車に轢かれる",
+"distractor1":"通学路を示す標識のある横断歩道では歩行者のみ通行可",
+"distractor2":"左側から来る歩行者のみ"
+},
+{
+"id": 10,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"緊急車両",
+"question":"ライトやサイレンを鳴らした緊急車両が接近してきたら、どうすればよいですか?",
+"answer":"安全にその進路から外れ、必要であれば停止してください。",
+"distractor1":"同じ速度で運転を続けてください",
+"distractor2":"車線内で確認せずにすぐに停止する"
+},
+{
+"id": 11,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"道路標示",
+"question":"道路に描かれた車線矢印は、あなたに何をするように指示していますか?",
+"answer":"自分の車線を示す矢印で示された方向にのみ走行してください。",
+"distractor1":"交通量が少ない場合はどの車線を使っても構いません",
+"distractor2":"標識がない限り、矢印は無視してください。"
+},
+{
+"id": 12,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"道を譲る",
+"question":"私道や駐車場から道路に出る際、誰に道を譲らなければならないのでしょうか?",
+"answer":"道路または道路関連区域上の車両および歩行者",
+"distractor1":"あなたより速く走っている車両のみ",
+"distractor2":"目の前の歩行者のみ"
+},
+{
+"id": 13,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"交差点",
+"question":"標識のないT字路では、どちらが道を譲らなければならないのか?",
+"answer":"終点道路の運転手",
+"distractor1":"道路を走行中のドライバー",
+"distractor2":"左折のみ"
+},
+{
+"id": 14,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"車線使用状況",
+"question":"車線変更をする前に何をすべきですか?",
+"answer":"ミラー、ウインカーを確認し、ヘッドライトをチェックしてください。",
+"distractor1":"移動後にのみ信号を送る",
+"distractor2":"他の車が減速するように、素早く車線変更してください。"
+},
+{
+"id": 15,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"信号機",
+"question":"赤信号にはどのような条件が必要ですか?",
+"answer":"停止線で止まり、信号が変わるまで待ってください。",
+"distractor1":"一時停止し、安全であれば進んでください。",
+"distractor2":"歩行者が横断していない場合はそのまま進んでください。"
+},
+{
+"id": 16,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"追い越しと合流",
+"question":"追い越しをする前に、必ず確認すべきことは何ですか?",
+"answer":"視界が良好で、安全かつ合法である",
+"distractor1":"前方の車両が制限速度以下で走行している",
+"distractor2":"ヘッドライトを点滅させることができる"
+},
+{
+"id": 17,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"歩行者と横断歩道",
+"question":"歩行者が横断歩道を渡っているとき、運転手は何をしなければならないのか?",
+"answer":"歩行者に道を譲ってください",
+"distractor1":"ホーンを鳴らして続ける",
+"distractor2":"歩行者があなたの側にいる場合のみ停止してください。"
+},
+{
+"id": 18,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"一般的な道路交通規則",
+"question":"ACT州の運転免許取得希望者には、どのくらいの血中アルコール濃度または呼気アルコール濃度が適用されるのでしょうか?",
+"answer":"ゼロ",
+"distractor1":"0.05未満",
+"distractor2":"0.02未満"
+},
+{
+"id": 19,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"ロータリー交差点",
+"question":"ロータリー交差点から出る際、可能であればどのような合図を出すべきでしょうか?",
+"answer":"左折方向転換信号",
+"distractor1":"右折方向転換信号",
+"distractor2":"信号は許可されていません"
+},
+{
+"id": 20,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"道路標示",
+"question":"停止・待機線は何を示していますか?",
+"answer":"一時停止標識がある場所では、そこで停止してください。",
+"distractor1":"短時間駐車できる場所",
+"distractor2":"追い越しが始まる場所"
+},
+{
+"id": 21,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"一般的な道路交通規則",
+"question":"ACTの教習生が運転する際、誰が隣に座らなければならないか?",
+"answer":"有効なオーストラリアの運転免許証を所持している人",
+"distractor1":"18歳以上の人",
+"distractor2":"別の教習中のドライバー"
+},
+{
+"id": 22,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"交差点",
+"question":"交差点に進入してはいけないのはどんな時ですか?",
+"answer":"交通を遮断せずにクリアできない場合",
+"distractor1":"信号が青のとき",
+"distractor2":"まっすぐ進むとき"
+},
+{
+"id": 23,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"道を譲る",
+"question":"スリップレーンを使って左折する場合、誰に道を譲らなければなりませんか?",
+"answer":"スリップレーン上の関連車両および歩行者",
+"distractor1":"後方の車両のみ",
+"distractor2":"遠くの歩道には歩行者しかいない"
+},
+{
+"id": 24,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"交通標識",
+"question":"「優先道路」の標識には何が必要ですか?",
+"answer":"速度を落とし、道を譲ってから進んでください。",
+"distractor1":"毎回3秒間停止する",
+"distractor2":"他の車両は停止しなければならないので、進行してください。"
+},
+{
+"id": 25,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"緊急車両",
+"question":"なぜ運転手は緊急車両に道を譲らなければならないのか?",
+"answer":"迅速かつ安全に対応できるようにするため",
+"distractor1":"駐車違反の罰金を避けるためだけに",
+"distractor2":"彼らは常に制限速度以下で走行するから"
+},
+{
+"id": 26,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"道路標示",
+"question":"自転車レーンの標識は、自動車運転者に何を思い出させるのでしょうか?",
+"answer":"その車線は自転車利用者のためのものであり、自転車利用者には優先権があるかもしれない。",
+"distractor1":"その車はいつでもそこに駐車できる",
+"distractor2":"オートバイはその車線を使用しなければならない"
+},
+{
+"id": 27,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"追い越しと合流",
+"question":"時速60km以上の速度制限区域で自転車を追い越す場合、最低限どのくらいの車間距離を空けなければなりませんか?",
+"answer":"最低1.5メートル",
+"distractor1":"少なくとも1メートル",
+"distractor2":"自転車が縁石の近くにある場合は距離は関係ありません"
+},
+{
+"id": 28,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"歩行者と横断歩道",
+"question":"子供たちや監督者がいる通学路では、どうすべきでしょうか?",
+"answer":"速度を落とし、必要であれば停止し、歩行者に道を譲ってください。",
+"distractor1":"制限速度以下であれば通過できます",
+"distractor2":"大人専用停留所"
+},
+{
+"id": 29,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"一般的な道路交通規則",
+"question":"ACT州の運転免許取得希望者は、標識に表示されている速度制限についてどのような注意を払うべきでしょうか?",
+"answer":"制限速度を超えないこと",
+"distractor1":"すべての制限速度より時速10km遅く走行してください。",
+"distractor2":"悪天候時でも制限速度を守って運転してください。"
+},
+{
+"id": 30,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"交差点",
+"question":"交差点で横断または右左折する前に、運転者は何をしなければならないか?",
+"answer":"安全が確保され、道路が封鎖されていない場合にのみ進んでください。",
+"distractor1":"先に入って真ん中で待ってください",
+"distractor2":"前方の車両にしっかりとついていく"
+},
+{
+"id": 31,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"車線使用状況",
+"question":"道路に車線が標示されている場合、どのように運転すべきでしょうか?",
+"answer":"線からはみ出さないでください",
+"distractor1":"視界を良くするために線をまたいでください",
+"distractor2":"道路のどの部分でも使用できます"
+},
+{
+"id": 32,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"交通標識",
+"question":"仮設道路工事標識には何が必要ですか?",
+"answer":"それらは掲示されたときは必ず従わなければならない",
+"distractor1":"これらは労働者が目に見える場合にのみ適用されます",
+"distractor2":"夜間は助言のみとなります"
+},
+{
+"id": 33,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"一般的な道路交通規則",
+"question":"ホルンはいつ使うべきですか?",
+"answer":"他の道路利用者に危険を警告するためだけに",
+"distractor1":"遅いドライバーを急がせる",
+"distractor2":"歩行者に挨拶する"
+},
+{
+"id": 34,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"緊急車両",
+"question":"点滅灯を点灯させて停車している緊急車両や事故対応車両を追い越す場合、最も安全な方法は何ですか?",
+"answer":"速度を落として、注意して追い越してください。",
+"distractor1":"渋滞を避けるため、速度を維持してください。",
+"distractor2":"その横に止まって道を聞いてください"
+},
+{
+"id": 35,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"歩行者と横断歩道",
+"question":"自転車利用者は、歩行者と共有する道路において、歩行者に関してどのような注意を払うべきでしょうか?",
+"answer":"歩行者に道を譲ってください",
+"distractor1":"ベルを鳴らして歩行者に道を譲ってもらう",
+"distractor2":"それらを避けるには右側を走行してください"
+},
+{
+"id": 36,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"車線使用状況",
+"question":"オーストラリア首都特別地域(ACT)では、バス専用レーンへの進入または退出時に、他の車両は一般的にどのくらいの距離まで走行できますか?",
+"answer":"最大100メートル",
+"distractor1":"最大500メートル",
+"distractor2":"交通量が多い場合は、どんな距離でも"
+},
+{
+"id": 37,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"追い越しと合流",
+"question":"最低限のクリアランスを確保して安全に自転車を追い越せない場合は、どうすればよいでしょうか?",
+"answer":"速度を落とし、安全に追い越せるまで待ってください。",
+"distractor1":"ゆっくりと通り抜ける",
+"distractor2":"自転車が止まるまでクラクションを鳴らしてください"
+},
+{
+"id": 38,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"交差点",
+"question":"信号機で、右折する車両は、青矢印信号がない場合、何に道を譲らなければならないのでしょうか?",
+"answer":"スリップレーンを使用しない対向車または左折車",
+"distractor1":"歩行者のみ",
+"distractor2":"彼らの後ろにいる車両のみ"
+},
+{
+"id": 39,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"交通標識",
+"question":"複数車線の道路で「追い越し時以外は左側通行」の標識は何を意味しますか?",
+"answer":"正当な理由がない限り、左車線を使用してください。",
+"distractor1":"常に右側の車線を使用してください",
+"distractor2":"交差点では左折のみ可"
+},
+{
+"id": 40,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"道を譲る",
+"question":"道路から隣接地に入る際、誰に道を譲る必要があるでしょうか?",
+"answer":"歩行者および関連する対向車",
+"distractor1":"後方の車両のみ",
+"distractor2":"あなたが示しているなら誰も"
+},
+{
+"id": 41,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"道路標示",
+"question":"「KEEP CLEAR」という道路標識は何を意味しますか?",
+"answer":"その標識のある区域では停車しないでください",
+"distractor1":"短時間だけそこに駐車してください",
+"distractor2":"マージエリアとして使用する"
+},
+{
+"id": 42,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"信号機",
+"question":"青信号では何ができますか?",
+"answer":"安全で交差点が空いている場合は進んでください。",
+"distractor1":"絶対的な優先通行権をもって進んでください",
+"distractor2":"歩行者を無視する"
+},
+{
+"id": 43,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"一般的な道路交通規則",
+"question":"路面が濡れていたり、視界が悪かったりする場合、どうすればよいですか?",
+"answer":"状況に合わせて速度と車間距離を調整してください。",
+"distractor1":"制限速度を守って運転してください",
+"distractor2":"最も近い車のテールランプに従ってください"
+},
+{
+"id": 44,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"道を譲る",
+"question":"どちらが道を譲るべきか迷った場合、最も安全な対処法は何でしょうか?",
+"answer":"他のすべての車両に道を譲る準備をしてください。",
+"distractor1":"優先権があると仮定してください",
+"distractor2":"走行中に他の車両に道を譲る"
+},
+{
+"id": 45,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"車線使用状況",
+"question":"車線に入った後の安全なルールは何ですか?",
+"answer":"追い越しや方向転換が必要な場合を除き、車線内にとどまってください。",
+"distractor1":"最速の車線を見つけるために、頻繁に車線変更をしましょう。",
+"distractor2":"車線に沿って走行する"
+},
+{
+"id": 46,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"歩行者と横断歩道",
+"question":"歩行者用信号が赤く点滅している場合、歩行者にとってどのような意味を持つのでしょうか?",
+"answer":"渡河を開始してはならないが、速やかに渡河を完了してもよい。",
+"distractor1":"彼らはすぐに渡り始めるかもしれない",
+"distractor2":"運転手は歩行者を無視する可能性がある"
+},
+{
+"id": 47,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"交差点",
+"question":"中央分離帯のある道路にある「一時停止」または「譲れ」の標識は、どのような場合に適用されるのですか?",
+"answer":"交差点全体",
+"distractor1":"最初の車線のみ",
+"distractor2":"標識に最も近い車線のみ"
+},
+{
+"id": 48,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"交通標識",
+"question":"警告標識の目的は何ですか?",
+"answer":"前方の危険や状況をドライバーに知らせるため",
+"distractor1":"駐車料金を設定する",
+"distractor2":"すべての道路規則を置き換える"
+},
+{
+"id": 49,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"一般的な道路交通規則",
+"question":"ACTの教習生ドライバーとして練習を始める前に、何をすべきでしょうか?",
+"answer":"交通規則を確認し、適切な監督の下で運転してください。",
+"distractor1":"まずは静かな道を一人で運転する",
+"distractor2":"夜間のみ練習する"
+},
+{
+"id": 50,
+"englishName":"Quiz",
+"category":"道路交通規則と法律",
+"subcategory":"緊急車両",
+"question":"緊急車両のために道を譲る場合、どのような行動をとるべきでしょうか?",
+"answer":"安全性と、新たな危険の発生を避ける必要性",
+"distractor1":"どこにいても瞬時に停止します",
+"distractor2":"高速で道路の反対側へ進入する"
+},
+{
+"id": 51,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"規制標識",
+"question":"ACT(オーストラリア首都特別地域)の「一時停止」標識では、何をしなければなりませんか?",
+"answer":"完全に停止し、道を譲ってから進んでください。",
+"distractor1":"速度を落とし、視界が良好であれば続行してください。",
+"distractor2":"他の車両が接近している場合にのみ停止してください。"
+},
+{
+"id": 52,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"規制標識",
+"question":"「譲れ」の標識は、運転手にどのようなことを求めているのでしょうか?",
+"answer":"速度を落とし、車や歩行者に道を譲ってから進んでください。",
+"distractor1":"毎回完全に停止する",
+"distractor2":"速度を落とさずに進む"
+},
+{
+"id": 53,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"規制標識",
+"question":"「進入禁止」の標識は何を意味しますか?",
+"answer":"車両は道路または区域に進入してはならない",
+"distractor1":"日中は入場可能です",
+"distractor2":"トラックのみ通行禁止"
+},
+{
+"id": 54,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"規制標識",
+"question":"一方通行の標識は、ドライバーに何を伝えているのでしょうか?",
+"answer":"車両は表示された方向にのみ通行できます。",
+"distractor1":"その道路は片側一車線しかない。",
+"distractor2":"交通はどちらの方向にも通行できます"
+},
+{
+"id": 55,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"規制標識",
+"question":"「Uターン禁止」の標識は何を意味しますか?",
+"answer":"その場所ではUターンをしてはいけません。",
+"distractor1":"ピーク時のみUターンは推奨されません",
+"distractor2":"交通量が少ない場合はUターンが許可されます"
+},
+{
+"id": 56,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"速度標識",
+"question":"掲示されている速度制限標識は何を示していますか?",
+"answer":"理想的な条件下での法定最高速度",
+"distractor1":"推奨速度のみ",
+"distractor2":"最低許容速度"
+},
+{
+"id": 57,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"速度標識",
+"question":"「END」の速度制限標識は何を意味しますか?",
+"answer":"デフォルトの速度制限が適用されます",
+"distractor1":"安全な速度であれば、どんな速度でも運転できます。",
+"distractor2":"以前の速度制限は引き続き適用されます"
+},
+{
+"id": 58,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"速度標識",
+"question":"学校区域の速度制限はいつ適用されますか?",
+"answer":"スクールゾーンの標識に表示されている時間帯",
+"distractor1":"子供たちが見える時のみ",
+"distractor2":"学期中は常に"
+},
+{
+"id": 59,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"速度標識",
+"question":"共有ゾーンの標識は何を示していますか?",
+"answer":"歩行者優先、低速走行可",
+"distractor1":"車両は常に優先されます",
+"distractor2":"駐車はどこでも許可されています"
+},
+{
+"id": 60,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"速度標識",
+"question":"速度制限標識が設置されていない場合、どうすればよいですか?",
+"answer":"その道路の種類に応じた制限速度に従ってください。",
+"distractor1":"どこへ行くにも時速60キロで運転してください。",
+"distractor2":"周囲の交通の流れに合わせる"
+},
+{
+"id": 61,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"警告サイン",
+"question":"警告標識の目的は何ですか?",
+"answer":"前方の危険や変化する道路状況についてドライバーに警告するため",
+"distractor1":"法的指示を提供する",
+"distractor2":"駐車情報を表示する"
+},
+{
+"id": 62,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"警告サイン",
+"question":"カーブ警告標識は何を示していますか?",
+"answer":"前方にカーブがありますので、ご注意ください。",
+"distractor1":"道は先で行き止まりです",
+"distractor2":"速度制限の引き上げが予定されている。"
+},
+{
+"id": 63,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"警告サイン",
+"question":"路面滑りやすい道路の標識は、ドライバーにどのようなことを警告しているのでしょうか?",
+"answer":"路面状況によってはタイヤのグリップ力が低下する場合があります",
+"distractor1":"道路工事が先にあります",
+"distractor2":"洪水は確実です"
+},
+{
+"id": 64,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"警告サイン",
+"question":"警告標識に近づいたとき、どのように対応すべきでしょうか?",
+"answer":"速度を落とし、起こりうる危険に備えよ",
+"distractor1":"速度を維持し、通常通り続行してください。",
+"distractor2":"すぐに停止してください"
+},
+{
+"id": 65,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"警告サイン",
+"question":"歩行者注意標識は何を示していますか?",
+"answer":"歩行者は道路を横断中、または道路付近にいる可能性があります。",
+"distractor1":"信号機のある横断歩道",
+"distractor2":"車両は歩行者よりも優先される。"
+},
+{
+"id": 66,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"信号機",
+"question":"赤信号では何をしなければなりませんか?",
+"answer":"信号が変わるまで停止し、そのまま停止したままにしてください。",
+"distractor1":"少し停止してから、安全であれば続行してください。",
+"distractor2":"スピードを落として進み続ける"
+},
+{
+"id": 67,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"信号機",
+"question":"緑色の信号機は何を意味しますか?",
+"answer":"交差点が空いていれば進んでください。",
+"distractor1":"あなたは常に絶対的な優先権を持っています",
+"distractor2":"歩行者は横断を止めなければならない"
+},
+{
+"id": 68,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"信号機",
+"question":"黄色の信号機は何を意味しますか?",
+"answer":"安全であれば停止してください",
+"distractor1":"交差点を加速して通過する",
+"distractor2":"警戒せずに進んでください"
+},
+{
+"id": 69,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"信号機",
+"question":"赤信号で左折できるのはどのような場合ですか?",
+"answer":"標識で許可されていて、かつ安全な場合に限る",
+"distractor1":"交通量が少ない時はいつでも",
+"distractor2":"ピーク時の交通量以外の時間帯のみ"
+},
+{
+"id": 70,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"信号機",
+"question":"点滅する黄色の信号機は、ドライバーにどのような行動を求めているのでしょうか?",
+"answer":"慎重に進み、停止する準備をしてください。",
+"distractor1":"先に進む前に完全に停止してください",
+"distractor2":"信号を無視する"
+},
+{
+"id": 71,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"歩行者用信号",
+"question":"歩行者にとって、緑色の歩行者用標識は何を意味するのでしょうか?",
+"answer":"歩行者は横断を開始できます",
+"distractor1":"歩行者は待たなければならない",
+"distractor2":"車両が優先されます"
+},
+{
+"id": 72,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"歩行者用信号",
+"question":"点滅する赤い歩行者信号は何を意味しますか?",
+"answer":"歩行者は安全であれば横断を完了すべきである",
+"distractor1":"歩行者は横断を始めるかもしれない",
+"distractor2":"車両は直ちに停止しなければならない"
+},
+{
+"id": 73,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"歩行者用信号",
+"question":"歩行者信号が青の場合、運転手は何をすべきでしょうか?",
+"answer":"合法的に横断している歩行者に道を譲ってください",
+"distractor1":"歩行者が横断する前に速やかに進んでください",
+"distractor2":"歩行者に警告するためにクラクションを鳴らす"
+},
+{
+"id": 74,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"歩行者用信号",
+"question":"歩行者用信号機はなぜ使用されるのですか?",
+"answer":"歩行者横断路を安全に管理するため",
+"distractor1":"すべての道路標識を交換する",
+"distractor2":"車両の速度を上げる"
+},
+{
+"id": 75,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"歩行者用信号",
+"question":"信号機で運転手が道を譲らなければならないのはどのような場合ですか?",
+"answer":"歩行者が有効な信号に従って横断している場合",
+"distractor1":"授業時間中のみ",
+"distractor2":"横断歩道のみ"
+},
+{
+"id": 76,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"仮設標識および道路工事標識",
+"question":"仮設道路工事標識はいつ従わなければならないのか?",
+"answer":"それらが展示されるたびに",
+"distractor1":"労働者が目に見えるときのみ",
+"distractor2":"日中のみ"
+},
+{
+"id": 77,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"仮設標識および道路工事標識",
+"question":"一時的な速度制限標識は何を意味するのですか?",
+"answer":"表示されている速度を超えてはいけません",
+"distractor1":"速度はあくまで目安です",
+"distractor2":"この制限は大型車両にのみ適用されます。"
+},
+{
+"id": 78,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"仮設標識および道路工事標識",
+"question":"道路工事現場で交通整理を行う権限を持つのは誰ですか?",
+"answer":"認可された交通管制官",
+"distractor1":"高視認性衣服を着用している労働者",
+"distractor2":"近くのドライバー"
+},
+{
+"id": 79,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"仮設標識および道路工事標識",
+"question":"仮設の道路工事標識と常設の標識が矛盾する場合、どちらに従うべきでしょうか?",
+"answer":"仮設道路工事標識",
+"distractor1":"常設の道路標識",
+"distractor2":"他のドライバーの指示"
+},
+{
+"id": 80,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"仮設標識および道路工事標識",
+"question":"道路工事で使用されている「一時停止/徐行」標識では、何をしなければなりませんか?",
+"answer":"標識に示された指示に従ってください。",
+"distractor1":"近くに作業員がいない場合は続行してください",
+"distractor2":"交通量の多い時間帯以外は無視してください"
+},
+{
+"id": 81,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"車線制御信号",
+"question":"車線の上に赤い×印が付いているのはどういう意味ですか?",
+"answer":"その車線を走行してはいけません",
+"distractor1":"この車線は慎重に使用してください。",
+"distractor2":"この車線はバス専用です"
+},
+{
+"id": 82,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"車線制御信号",
+"question":"車線の上にある緑色の矢印は何を示していますか?",
+"answer":"車線は通行可能です",
+"distractor1":"すぐに方向転換しなければならない",
+"distractor2":"車線は前方で行き止まりです"
+},
+{
+"id": 83,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"車線制御信号",
+"question":"車線矢印が交通を誘導している場合、どうすればよいですか?",
+"answer":"自分の車線に表示されている指示に従ってください。",
+"distractor1":"任意の車線方向を選択してください",
+"distractor2":"矢印に関係なく、前方の車両について行ってください。"
+},
+{
+"id": 84,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"車線制御信号",
+"question":"点滅する車線矢印は通常、何を示していますか?",
+"answer":"前方で車線変更が必要です",
+"distractor1":"その車線は永久に閉鎖されています",
+"distractor2":"制限速度が上がっています"
+},
+{
+"id": 85,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"車線制御信号",
+"question":"車線に赤い×印が付いている場合はどうすればよいですか?",
+"answer":"できるだけ早く安全に車線を離れてください",
+"distractor1":"車線内で直ちに停止してください",
+"distractor2":"車線が終わるまで運転を続けてください。"
+},
+{
+"id": 86,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"鉄道信号",
+"question":"鉄道の警告灯が点滅している場合、どうすればよいですか?",
+"answer":"停止して線路を横断しないでください",
+"distractor1":"速度を落とし、視界が良好であれば続行してください。",
+"distractor2":"電車が到着する前に急いで渡ってください。"
+},
+{
+"id": 87,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"鉄道信号",
+"question":"いつ鉄道線路を横断できますか?",
+"answer":"安全で警告信号が作動していない場合にのみ",
+"distractor1":"他の車両が先に横断するたびに",
+"distractor2":"遮断機が下ろされる間"
+},
+{
+"id": 88,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"鉄道信号",
+"question":"鉄道踏切の「一時停止」標識には、どのような要件がありますか?",
+"answer":"完全に停止し、安全が確認できた場合にのみ進んでください。",
+"distractor1":"スピードを落として進み続ける",
+"distractor2":"横断する前にクラクションを鳴らしてください"
+},
+{
+"id": 89,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"鉄道信号",
+"question":"踏切に列車が接近してきたら、どうすべきですか?",
+"answer":"列車が完全に通過するまで停止して待機してください。",
+"distractor1":"電車が到着する前に急いで渡ってください。",
+"distractor2":"バリケードを迂回して運転する"
+},
+{
+"id": 90,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"鉄道信号",
+"question":"鉄道の警告標識はなぜ重要なのでしょうか?",
+"answer":"それらは列車との衝突を防ぐのに役立ちます",
+"distractor1":"駐車区域を特定する",
+"distractor2":"燃料消費量を削減する"
+},
+{
+"id": 91,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"注意喚起標識",
+"question":"速度制限標識は何を示していますか?",
+"answer":"前方の状況に応じた推奨安全速度",
+"distractor1":"新たな速度制限の義務化",
+"distractor2":"最低法定速度"
+},
+{
+"id": 92,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"案内標識",
+"question":"案内標識の目的は何ですか?",
+"answer":"道順と目的地情報を提供する",
+"distractor1":"道路交通法を執行する",
+"distractor2":"危険を警告するためだけに"
+},
+{
+"id": 93,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"案内標識",
+"question":"案内標識にはどのような情報が記載されているでしょうか?",
+"answer":"目的地、路線番号、距離",
+"distractor1":"スピード違反の罰金額",
+"distractor2":"車両登録要件"
+},
+{
+"id": 94,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"注意喚起標識",
+"question":"推奨速度標識は、法的に強制力のある速度制限標識ですか?",
+"answer":"いいえ、しかし安全のためには従うべきです",
+"distractor1":"はい、常に着用が義務付けられています。",
+"distractor2":"雨天時のみ"
+},
+{
+"id": 95,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"注意喚起標識",
+"question":"運転手はなぜ注意喚起標識に注意を払うべきなのでしょうか?",
+"answer":"前方の速度や路面状況について警告",
+"distractor1":"速度制限標識をすべて交換する",
+"distractor2":"それらは常に安全に無視できる"
+},
+{
+"id": 96,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"一般信号",
+"question":"信号機が作動していない場合、交差点ではどのように対処すべきでしょうか?",
+"answer":"信号のない交差点として",
+"distractor1":"四方停止",
+"distractor2":"歩行者専用横断歩道として"
+},
+{
+"id": 97,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"一般信号",
+"question":"警察の指示と交通信号が矛盾する場合、どうすればよいですか?",
+"answer":"警察の指示に従ってください",
+"distractor1":"信号に従ってください",
+"distractor2":"近くの道路標識のみに従ってください。"
+},
+{
+"id": 98,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"一般信号",
+"question":"警察以外に、合法的に交通整理を行うことができるのは誰でしょうか?",
+"answer":"認可された交通管制官",
+"distractor1":"道路作業員",
+"distractor2":"免許を持つドライバー"
+},
+{
+"id": 99,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"一般信号",
+"question":"交通指示が矛盾しているように見える場合は、どうすればよいですか?",
+"answer":"最も直接的で合法的な指示に従う",
+"distractor1":"すべての指示を無視する",
+"distractor2":"前方の車両に続いてください"
+},
+{
+"id": 100,
+"englishName":"Quiz",
+"category":"交通標識と信号",
+"subcategory":"一般信号",
+"question":"交通標識や信号を理解することが重要なのはなぜですか?",
+"answer":"これらは道路利用者の安全を確保するための規制、警告、誘導に役立ちます。",
+"distractor1":"これらは教習中のドライバーにのみ適用されます",
+"distractor2":"それらは都市部でのみ重要である"
+},
+{
+"id": 101,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"速度制限",
+"question":"標識に表示されている速度制限は何を示しているのでしょうか?",
+"answer":"良好な条件下で許容される最高速度",
+"distractor1":"常に運転しなければならない速度",
+"distractor2":"道路の最低速度"
+},
+{
+"id": 102,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"速度制限",
+"question":"制限速度を下回る速度で運転すべきなのはどのような場合ですか?",
+"answer":"道路状況、交通状況、または天候状況により危険な場合",
+"distractor1":"警察が近くにいる時のみ",
+"distractor2":"他のドライバーが減速した時のみ"
+},
+{
+"id": 103,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"速度制限",
+"question":"ACT(オーストラリア首都特別地域)の市街地における、特に標識がない限り、デフォルトの制限速度は何キロですか?",
+"answer":"時速50キロ",
+"distractor1":"時速60キロ",
+"distractor2":"時速40キロ"
+},
+{
+"id": 104,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"速度制限",
+"question":"ACT(オーストラリア首都特別地域)の市街地外において、特に標識がない限り、デフォルトの制限速度は何キロですか?",
+"answer":"時速100キロ",
+"distractor1":"時速80キロ",
+"distractor2":"時速110キロ"
+},
+{
+"id": 105,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"速度制限",
+"question":"新しい速度制限標識を通過する際は、どうすればよいですか?",
+"answer":"標識以降の新しい制限速度に従ってください",
+"distractor1":"次の交差点まで待ってください",
+"distractor2":"100メートル経過したら速度を変える"
+},
+{
+"id": 106,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"スクールゾーン",
+"question":"学校区域の速度制限はいつ適用されますか?",
+"answer":"スクールゾーンの標識に表示されている時間帯",
+"distractor1":"子供たちが見える時のみ",
+"distractor2":"毎日いつでも"
+},
+{
+"id": 107,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"スクールゾーン",
+"question":"ACT(オーストラリア首都特別地域)において、標識がない限り、学校区域の通常の制限速度は何キロですか?",
+"answer":"時速40キロ",
+"distractor1":"時速50キロ",
+"distractor2":"時速30キロ"
+},
+{
+"id": 108,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"スクールゾーン",
+"question":"スクールゾーンが通学区域かどうか不明な場合は、どうすればよいですか?",
+"answer":"速度を落とし、標識の時刻を注意深く確認してください。",
+"distractor1":"非アクティブであると仮定します",
+"distractor2":"通常の制限速度で走行してください。"
+},
+{
+"id": 109,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"スクールゾーン",
+"question":"なぜ運転手はスクールゾーンで減速しなければならないのですか?",
+"answer":"道路付近では、子供は予測不可能な行動をとることがある。",
+"distractor1":"追い越しは常に必要とされるため",
+"distractor2":"そこには信号機が適用されないため"
+},
+{
+"id": 110,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"スクールゾーン",
+"question":"学校区域の標識に特定の通行時間が記載されている場合、あなたは何をしなければなりませんか?",
+"answer":"それらの時間帯は、低い速度制限に従ってください。",
+"distractor1":"子供たちが横断している時だけ従ってください。",
+"distractor2":"朝のみに実行してください。"
+},
+{
+"id": 111,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"共有ゾーン",
+"question":"共有ゾーンではどのくらいの速度で走行すべきですか?",
+"answer":"共有ゾーン標識に表示されている低速",
+"distractor1":"最寄りの幹線道路と同じ速度",
+"distractor2":"歩行者がいない場合は、どんな速度でも構いません。"
+},
+{
+"id": 112,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"共有ゾーン",
+"question":"共有ゾーンでは、一般的に誰が優先権を持つのでしょうか?",
+"answer":"歩行者",
+"distractor1":"自動車",
+"distractor2":"最速の道路利用者"
+},
+{
+"id": 113,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"共有ゾーン",
+"question":"共有ゾーンをどのように運転すればよいですか?",
+"answer":"ゆっくり運転し、歩行者のためにいつでも停止できるように準備しておきましょう。",
+"distractor1":"歩行者が道を譲るようにクラクションを鳴らしてください",
+"distractor2":"歩行者とすれ違う際は、歩行者にぴったりと寄り添って素早く通過する。"
+},
+{
+"id": 114,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"共有ゾーン",
+"question":"歩行者が共有区域の道路上にいる場合、どうすればよいですか?",
+"answer":"道を譲り、危険を招かないようにする",
+"distractor1":"制限速度以下であれば、そのまま進んでください。",
+"distractor2":"減速せずにそれらを迂回してください"
+},
+{
+"id": 115,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"共有ゾーン",
+"question":"共有ゾーンの標識は、主にドライバーにどのようなことを警告しているのでしょうか?",
+"answer":"歩行者が道路を利用できる低速区域",
+"distractor1":"車両専用道路",
+"distractor2":"終日駐車禁止の場所"
+},
+{
+"id": 116,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"工事区域",
+"question":"道路工事現場では、どのような場合に速度制限を守らなければならないのでしょうか?",
+"answer":"一時的な速度標識が表示されるときはいつでも",
+"distractor1":"労働者が目に見えるときのみ",
+"distractor2":"日中のみ"
+},
+{
+"id": 117,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"工事区域",
+"question":"一時的な道路工事による速度制限はなぜ設けられるのですか?",
+"answer":"変化した状況下で労働者と道路利用者を保護するため",
+"distractor1":"ドライバーが安全に追い越しができるようにするため",
+"distractor2":"燃料消費量を削減するためだけに"
+},
+{
+"id": 118,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"工事区域",
+"question":"道路工事のため路面が不均一になっている場合は、どうすればよいでしょうか?",
+"answer":"速度を落とし、より慎重に運転してください。",
+"distractor1":"エリアを素早くクリアするためにスピードを上げてください",
+"distractor2":"交通渋滞を避けるため、速度を維持してください。"
+},
+{
+"id": 119,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"工事区域",
+"question":"道路工事中の速度標識と常設の速度標識が矛盾する場合、どちらに従うべきですか?",
+"answer":"仮設道路工事の速度標識",
+"distractor1":"常設の速度標識",
+"distractor2":"どちらの速度が速いか"
+},
+{
+"id": 120,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"工事区域",
+"question":"交通整理員からさらに減速するように指示された場合、どうすればよいですか?",
+"answer":"交通整理員の指示に従ってください",
+"distractor1":"標識に示された速度のみに従ってください。",
+"distractor2":"信号が赤の場合のみ停止してください"
+},
+{
+"id": 121,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"気象状況",
+"question":"路面が濡れているときは、速度をどう調整すれば良いでしょうか?",
+"answer":"速度を落として、コントロールとトラクションを維持してください。",
+"distractor1":"雨天でもグリップに影響はないので、限界まで運転してください。",
+"distractor2":"スリップを避けるために速度を上げる"
+},
+{
+"id": 122,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"気象状況",
+"question":"雨天時や視界不良時には、車間距離をどのように調整すべきでしょうか?",
+"answer":"停止時間を長くするために、ギャップを広げてください。",
+"distractor1":"同じ間隔を保つ",
+"distractor2":"飛沫を避けるために隙間を狭める"
+},
+{
+"id": 123,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"気象状況",
+"question":"霧で視界が悪くなった場合、どうすればよいですか?",
+"answer":"速度を落とし、視界の範囲内で停止できるように準備してください。",
+"distractor1":"ハイビームを使用し、同じ速度を維持してください。",
+"distractor2":"前車のすぐ後ろを走る"
+},
+{
+"id": 124,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"気象状況",
+"question":"強い日差しによるまぶしさへの最も安全な対処法は何ですか?",
+"answer":"速度を落とし、車間距離を広げる",
+"distractor1":"速度を維持し、急に車線変更する",
+"distractor2":"他の車両を追い越すためにスピードを上げる"
+},
+{
+"id": 125,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"気象状況",
+"question":"大雨の中でのスピードの出し過ぎはなぜ危険なのでしょうか?",
+"answer":"グリップ力と視界が低下し、制動距離が長くなる。",
+"distractor1":"エンジンの燃料消費量が少なくなる可能性がある",
+"distractor2":"制動距離が短くなる"
+},
+{
+"id": 126,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"距離を追う",
+"question":"なぜ安全な車間距離を保つ必要があるのでしょうか?",
+"answer":"安全に停止するための十分な時間と空間を確保するため",
+"distractor1":"他のドライバーに追い越させるため",
+"distractor2":"指標の必要性を減らすために"
+},
+{
+"id": 127,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"距離を追う",
+"question":"速度が上がると、車間距離はどのように変化するべきでしょうか?",
+"answer":"増加するはずだ",
+"distractor1":"減少するはずです",
+"distractor2":"現状維持すべきだ"
+},
+{
+"id": 128,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"距離を追う",
+"question":"他のドライバーが車間距離を詰めて走行してきた場合、安全に対処できる方法は何ですか?",
+"answer":"前方との車間距離を広げ、安全な時に追い越させてあげましょう。",
+"distractor1":"彼らに警告するために急ブレーキをかける",
+"distractor2":"制限速度を超えて加速する"
+},
+{
+"id": 129,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"距離を追う",
+"question":"なぜバイクの後ろに余分なスペースを空けておくべきなのでしょうか?",
+"answer":"急に止まる場合があり、見つけにくい場合があります",
+"distractor1":"バイクは常にゆっくり走る",
+"distractor2":"バイクは急ブレーキをかけることができない"
+},
+{
+"id": 130,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"距離を追う",
+"question":"大型車両の後ろに、なぜより多くのスペースを空けるべきなのでしょうか?",
+"answer":"視界を遮る可能性があり、停止するにはより広いスペースが必要になる場合があります。",
+"distractor1":"それらは常に車よりも早く止まる",
+"distractor2":"車線変更は許可されていません"
+},
+{
+"id": 131,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"停止距離",
+"question":"速度が上がると、停止距離はどうなりますか?",
+"answer":"大幅に増加する",
+"distractor1":"変わらない",
+"distractor2":"減少する"
+},
+{
+"id": 132,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"停止距離",
+"question":"総停止距離は何で構成されているのでしょうか?",
+"answer":"反応距離+制動距離",
+"distractor1":"制動距離のみ",
+"distractor2":"車両の長さのみ"
+},
+{
+"id": 133,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"停止距離",
+"question":"アルコール、薬物、または疲労は、制動距離にどのように影響しますか?",
+"answer":"反応時間を遅くすることでそれを増加させる",
+"distractor1":"集中力を高めることでそれを軽減する",
+"distractor2":"これらはステアリングにのみ影響します"
+},
+{
+"id": 134,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"停止距離",
+"question":"摩耗したタイヤは、制動距離にどのような影響を与えるのでしょうか?",
+"answer":"特に濡れた路面では、制動距離が長くなる可能性がある。",
+"distractor1":"それらは常に停止距離を短縮する。",
+"distractor2":"燃費にのみ影響します"
+},
+{
+"id": 135,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"停止距離",
+"question":"前方の道路が見えなくなった場合、どうすればよいでしょうか?",
+"answer":"速度を落とし、車間距離を広げてください。",
+"distractor1":"車両に近づいて周囲を見渡してください",
+"distractor2":"速度を維持し、素早く車線変更する"
+},
+{
+"id": 136,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"安全速度の原則",
+"question":"変化する状況下で、安全な速度をどのように選択すべきでしょうか?",
+"answer":"視界内で安全に停止できる速度で運転してください。",
+"distractor1":"常に制限速度を守って運転してください。",
+"distractor2":"他の車と同じ速度で運転する"
+},
+{
+"id": 137,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"安全速度の原則",
+"question":"丘の頂上や見通しの悪いコーナーに差し掛かる前に、何をすべきでしょうか?",
+"answer":"速度を落とし、危険に備えてください。",
+"distractor1":"道路の中央に移動してください",
+"distractor2":"加速して素早くクリアする"
+},
+{
+"id": 138,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"安全速度の原則",
+"question":"なぜわずかなスピード違反でも危険なのでしょうか?",
+"answer":"反応時間を短縮し、停止距離を延長します。",
+"distractor1":"車両の安定性が向上します",
+"distractor2":"標識が読みやすくなる"
+},
+{
+"id": 139,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"安全速度の原則",
+"question":"遅刻しそうな場合、最も安全な選択肢は何ですか?",
+"answer":"遅刻を受け入れ、法律を遵守し安全運転を心がけましょう",
+"distractor1":"少しスピードを上げて遅れを取り戻そう",
+"distractor2":"テールゲートで移動時間を短縮"
+},
+{
+"id": 140,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"安全速度の原則",
+"question":"減速または停止している車両に接近する際、どうすればよいですか?",
+"answer":"早めに速度を落とし、車間距離を広げる",
+"distractor1":"近づくまで速度を維持し、その後急ブレーキをかける。",
+"distractor2":"追い越すために路肩に移動"
+},
+{
+"id": 141,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"速度制限",
+"question":"速度制限標識が見えにくい場合はどうすればよいでしょうか?",
+"answer":"制限速度を確認するまでは、安全な速度で慎重に運転してください。",
+"distractor1":"最高限度額が適用されると仮定します",
+"distractor2":"標識を無視して他のドライバーについて行ってください"
+},
+{
+"id": 142,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"速度制限",
+"question":"追い越し時に制限速度を超えることは合法ですか?",
+"answer":"いいえ、制限速度を超えてはいけません",
+"distractor1":"はい、安全に追い越す場合",
+"distractor2":"はい、でもほんの数秒間だけです"
+},
+{
+"id": 143,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"気象状況",
+"question":"大雨の際に、なぜ余分なスペースを確保しておくべきなのでしょうか?",
+"answer":"停止距離が長くなり、視界が悪くなる可能性があります。",
+"distractor1":"速度制限は適用されなくなります",
+"distractor2":"他の車両は雨天時にはブレーキが効かない"
+},
+{
+"id": 144,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"距離を追う",
+"question":"車間距離を広げることが特に重要なのはどのような場合ですか?",
+"answer":"重い荷物を牽引または運搬する場合",
+"distractor1":"他の合併を阻止したい場合",
+"distractor2":"短時間テールゲートパーティーを計画する場合"
+},
+{
+"id": 145,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"停止距離",
+"question":"砂利道や砂利道では、制動距離は通常どうなりますか?",
+"answer":"タイヤのグリップ力が低下するため、増加します。",
+"distractor1":"砂利はタイヤをより早く停止させるため、その速度は低下します。",
+"distractor2":"乾燥したアスファルトと同じ状態が続く"
+},
+{
+"id": 146,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"安全速度の原則",
+"question":"交通量の多いエリアで、駐車車両の近くを走行する際の安全な速度はどれくらいですか?",
+"answer":"ドアが開いたり、歩行者が飛び出してくる可能性があるので、速度を落としてください。",
+"distractor1":"掲示されている制限を遵守してください。",
+"distractor2":"駐車車両に近づいて、スペースを空けてください"
+},
+{
+"id": 147,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"工事区域",
+"question":"作業員がいるにもかかわらず、仮設の速度標識が見当たらない場合は、どうすればよいですか?",
+"answer":"慎重に運転し、減速または停止する準備をしてください。",
+"distractor1":"道路の最高速度で運転してください",
+"distractor2":"指示があるまで直ちに停止してください。"
+},
+{
+"id": 148,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"スクールゾーン",
+"question":"学校区域の標識がある時間帯以外でも、学校の近くでは何をするべきでしょうか?",
+"answer":"子供に注意し、路面状況に合わせて運転してください。",
+"distractor1":"この区域は非アクティブなので、歩行者は無視してください",
+"distractor2":"クラクションを使って子供たちを遠ざける"
+},
+{
+"id": 149,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"距離を追う",
+"question":"前方の車両が急ブレーキをかけた場合、安全に対応するために役立つことは何ですか?",
+"answer":"安全な車間距離を保つ",
+"distractor1":"前方の車両に接近して運転する",
+"distractor2":"スピードメーターだけを見て"
+},
+{
+"id": 150,
+"englishName":"Quiz",
+"category":"速度と距離のルール",
+"subcategory":"速度制限",
+"question":"なぜ他のドライバーの速度を参考に自分の速度を決めるべきではないのでしょうか?",
+"answer":"彼らはスピード違反をしているか、危険を回避できていない可能性がある。",
+"distractor1":"夜間のみ危険です",
+"distractor2":"交通量が少ない時は常に安全です"
+},
+{
+"id": 151,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"運転手の義務",
+"question":"道路上での運転手の主な責任は何ですか?",
+"answer":"安全運転を心がけ、交通ルールを守りましょう。",
+"distractor1":"常に制限速度を守って運転してください",
+"distractor2":"最も近い車両についていく"
+},
+{
+"id": 152,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"運転手の義務",
+"question":"警察官から運転免許証の提示を求められた場合、どうすればよいですか?",
+"answer":"求められた場合は免許証を提示してください",
+"distractor1":"スピード違反をしていた場合のみ表示してください",
+"distractor2":"クラッシュ後にのみ表示する"
+},
+{
+"id": 153,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"運転手の義務",
+"question":"車両を運転する前に何をすべきですか?",
+"answer":"運転免許証を所持し、運転に適した状態であることを確認してください。",
+"distractor1":"燃料タンクが満タンであることだけを確認してください。",
+"distractor2":"他人の許可があれば運転する"
+},
+{
+"id": 154,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"運転手の義務",
+"question":"道路状況が急変した場合、どうすればよいですか?",
+"answer":"路面状況に合わせて運転方法を調整してください。",
+"distractor1":"標識速度を守って運転を続けてください",
+"distractor2":"前方の車両にもっと接近してついていく"
+},
+{
+"id": 155,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"運転手の義務",
+"question":"車が故障して危険な状態になった場合、どうすればよいでしょうか?",
+"answer":"可能であれば道路から移動させ、他の道路利用者に警告してください。",
+"distractor1":"警告なしに車線に放置する",
+"distractor2":"交通の流れの中に立って車両を誘導する"
+},
+{
+"id": 156,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"シートベルトとチャイルドシート",
+"question":"乗客がシートベルトを着用することが義務付けられている場合、誰がその着用を確実にする責任を負っているのか?",
+"answer":"運転手",
+"distractor1":"助手席側のみ",
+"distractor2":"警察官のみ"
+},
+{
+"id": 157,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"シートベルトとチャイルドシート",
+"question":"走行中の車両内でシートベルトを着用しなければならないのはどのような場合ですか?",
+"answer":"シートベルトが装着され、必要とされる場合",
+"distractor1":"高速道路のみ",
+"distractor2":"前席のみ"
+},
+{
+"id": 158,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"シートベルトとチャイルドシート",
+"question":"低速走行時でもシートベルトが重要な理由は?",
+"answer":"低速での衝突でも、深刻な怪我を引き起こす可能性がある。",
+"distractor1":"燃料消費量を削減する",
+"distractor2":"スピード違反の罰金を回避できる"
+},
+{
+"id": 159,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"シートベルトとチャイルドシート",
+"question":"乗客が義務付けられているシートベルトの着用を拒否した場合、どうすべきでしょうか?",
+"answer":"着用するまで、または車から降りるまで運転しないでください。",
+"distractor1":"安全のためにゆっくり運転してください",
+"distractor2":"彼らに決めさせよう。リスクは彼ら自身にあるのだから。"
+},
+{
+"id": 160,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"シートベルトとチャイルドシート",
+"question":"子供を車内で安全に固定するにはどうすればよいでしょうか?",
+"answer":"年齢と体格に適した、承認済みの拘束具を使用する",
+"distractor1":"大人の乗客の膝の上",
+"distractor2":"シートベルトが緩んでいる場合"
+},
+{
+"id": 161,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"携帯電話およびデバイス",
+"question":"運転中に携帯電話を使用する際の最も安全な方法は?",
+"answer":"使用しないでください。使用する前に安全な場所に停車してください。",
+"distractor1":"赤信号で素早く使う",
+"distractor2":"ハンドルを握る時は低く保つ"
+},
+{
+"id": 162,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"携帯電話およびデバイス",
+"question":"運転中に携帯電話を使用することが危険なのはなぜですか?",
+"answer":"運転中に目や手、注意力が散漫になる",
+"distractor1":"反応時間を改善します",
+"distractor2":"ヘッドライトの効き目が悪くなる"
+},
+{
+"id": 163,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"携帯電話およびデバイス",
+"question":"ナビゲーションが必要な場合、運転前に何をすべきですか?",
+"answer":"運転を始める前にルートを設定してください",
+"distractor1":"ゆっくりと移動しながらルートに入ります。",
+"distractor2":"スマートフォンをフロントガラスの近くに持っていく"
+},
+{
+"id": 164,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"携帯電話およびデバイス",
+"question":"運転中に緊急のメッセージを受け取った場合、どうすればよいですか?",
+"answer":"安全な場所に停車し、応答する前に停止してください。",
+"distractor1":"次の赤信号で返信",
+"distractor2":"運転中にサッと読んでください"
+},
+{
+"id": 165,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"携帯電話およびデバイス",
+"question":"スマートフォンによる注意散漫を減らすのに役立つ習慣はどれですか?",
+"answer":"運転中は携帯電話を手の届かない場所に置いておく",
+"distractor1":"交差点でのみチェックする",
+"distractor2":"窓の高さより下に保持する"
+},
+{
+"id": 166,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"車両の状態",
+"question":"タイヤがひどく摩耗している場合はどうすれば良いでしょうか?",
+"answer":"安全なグリップとブレーキングを維持するために交換してください。",
+"distractor1":"乾燥した天候時のみ運転してください。",
+"distractor2":"タイヤの空気圧を通常よりはるかに高くする"
+},
+{
+"id": 167,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"車両の状態",
+"question":"なぜライトやインジケーターを定期的に点検する必要があるのでしょうか?",
+"answer":"他の道路利用者があなたとあなたの意図を認識できるように",
+"distractor1":"エンジン出力を向上させる",
+"distractor2":"タイヤの摩耗を軽減するために"
+},
+{
+"id": 168,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"車両の状態",
+"question":"ブレーキの効きがおかしいと感じたら、どうすればいいでしょうか?",
+"answer":"できるだけ早く検査してもらいましょう",
+"distractor1":"より速く運転してテストする",
+"distractor2":"次の登録更新まで無視してください"
+},
+{
+"id": 169,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"車両の状態",
+"question":"フロントガラスを清潔に保つことが重要なのはなぜですか?",
+"answer":"視界をクリアに保ち、まぶしさを軽減するのに役立ちます。",
+"distractor1":"燃費が向上します",
+"distractor2":"スピード違反の検出を阻止します"
+},
+{
+"id": 170,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"車両の状態",
+"question":"インジケーターが機能しなくなった場合はどうすればよいですか?",
+"answer":"必要に応じて安全な手信号を使用し、速やかに故障を修理してください。",
+"distractor1":"合図を出さずに続行する",
+"distractor2":"カーブごとにハザードランプを使用してください"
+},
+{
+"id": 171,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"事故時の責任",
+"question":"物損事故を起こした場合、何をすべきでしょうか?",
+"answer":"立ち止まって相手と連絡先を交換してください",
+"distractor1":"負傷者がいなければ退去する",
+"distractor2":"警察が立ち会う場合のみ連絡先を交換する"
+},
+{
+"id": 172,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"事故時の責任",
+"question":"交通事故で誰かが負傷した場合、どうすればよいですか?",
+"answer":"安全であれば、緊急サービスに連絡して助けを求めてください。",
+"distractor1":"負傷者の確認を行う前に、すべての車両を移動させてください。",
+"distractor2":"交通渋滞を避けるため、現場を離れる。"
+},
+{
+"id": 173,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"事故時の責任",
+"question":"なぜ運転手は事故現場で停車しなければならないのですか?",
+"answer":"支援、詳細情報の提供、および法的責任の履行",
+"distractor1":"車両の損傷を検査するためだけに",
+"distractor2":"交通が遮断された場合のみ"
+},
+{
+"id": 174,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"事故時の責任",
+"question":"駐車中の車にぶつけてしまい、持ち主が不在だった場合、どうすれば良いでしょうか?",
+"answer":"オーナーにあなたの名前と連絡先を伝えてください",
+"distractor1":"被害が深刻な場合のみ立ち去る",
+"distractor2":"誰も見ていなかったら、そのまま走り去る"
+},
+{
+"id": 175,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"事故時の責任",
+"question":"衝突事故が他の交通に危険を及ぼす場合、どうすべきでしょうか?",
+"answer":"他の道路利用者に警告し、安全かつ実行可能な場合は車両を移動させる。",
+"distractor1":"車線に立って、車を通すように合図する",
+"distractor2":"警告なしに危険を去る"
+},
+{
+"id": 176,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"疲労管理",
+"question":"運転中に眠気を感じた場合、最も安全な対処法は何ですか?",
+"answer":"安全な場所に停車して休憩してください",
+"distractor1":"音楽の音量を上げて運転を続けよう",
+"distractor2":"窓を開けてスピードを上げる"
+},
+{
+"id": 177,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"疲労管理",
+"question":"ドライバーにとって疲労はなぜ危険なのか?",
+"answer":"反応速度を遅くし、注意力を低下させる",
+"distractor1":"集中力を高める",
+"distractor2":"乗客のみに影響します"
+},
+{
+"id": 178,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"疲労管理",
+"question":"運転者の疲労を示す兆候は何ですか?",
+"answer":"車線をふらついたり、標識を見落としたりする",
+"distractor1":"兆候をより明確に捉える",
+"distractor2":"より少ない車間距離で済む"
+},
+{
+"id": 179,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"疲労管理",
+"question":"長距離ドライブの前に、どのような準備をしておくべきでしょうか?",
+"answer":"定期的な休憩と十分な睡眠",
+"distractor1":"早く到着するために、停車せずに運転する",
+"distractor2":"旅行の最後に一度だけ休憩がある"
+},
+{
+"id": 180,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"疲労管理",
+"question":"疲れた状態で運転する際、カフェインは適切な休息の代わりになるのでしょうか?",
+"answer":"いいえ、一時的には効果があるかもしれませんが、休息が必要です。",
+"distractor1":"はい、疲労感を完全に解消します。",
+"distractor2":"はい、大音量の音楽と一緒に使用した場合"
+},
+{
+"id": 181,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"学習者および仮免許者向け規則",
+"question":"ACTの仮免許取得者は、運転中に何を表示しなければならないか?",
+"answer":"はっきりと見えるLプレート",
+"distractor1":"夜間はPプレートのみ",
+"distractor2":"監視下では皿は不要"
+},
+{
+"id": 182,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"学習者および仮免許者向け規則",
+"question":"仮免許運転者は、必要に応じて何を掲示しなければならないか?",
+"answer":"はっきりと見えるPプレート",
+"distractor1":"免許取得まではLプレートを着用",
+"distractor2":"ハザードランプを点灯して運転する"
+},
+{
+"id": 183,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"学習者および仮免許者向け規則",
+"question":"仮免許取得者や初心者ドライバーは、免許条件に関してどのようなことをしなければならないのでしょうか?",
+"answer":"免許証に適用されるすべての条件に従ってください。",
+"distractor1":"テスト中のみこれらに従ってください",
+"distractor2":"監視されているときは無視してください"
+},
+{
+"id": 184,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"運転手の監督",
+"question":"運転免許取得希望者は誰が同伴しなければならないか?",
+"answer":"資格のある監督運転手",
+"distractor1":"16歳以上の乗客",
+"distractor2":"別の教習中のドライバー"
+},
+{
+"id": 185,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"運転手の監督",
+"question":"監督運転手の責任範囲は何ですか?",
+"answer":"学習者が安全に運転し、交通ルールを守れるよう支援する",
+"distractor1":"常にハンドルを握る",
+"distractor2":"学習者が兆候を無視することを許す"
+},
+{
+"id": 186,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"運転手の義務",
+"question":"警察官または権限のある人物から指示を受けた場合、何をすべきですか?",
+"answer":"彼らの合法的な指示に従ってください",
+"distractor1":"信号機のみに従ってください",
+"distractor2":"標識がある場合は指示を無視してください"
+},
+{
+"id": 187,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"運転手の義務",
+"question":"車線変更や右左折をする前に、何をすべきですか?",
+"answer":"安全であることを確認し、意図を表明する",
+"distractor1":"先に動いて、後で合図する",
+"distractor2":"他の車が近くにいる場合のみ合図を出す"
+},
+{
+"id": 188,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"車両の状態",
+"question":"タイヤの空気圧を定期的にチェックする必要があるのはなぜですか?",
+"answer":"適切な空気圧は、ハンドリング、ブレーキ性能、タイヤ寿命の向上に役立ちます。",
+"distractor1":"速度制限が引き上げられる",
+"distractor2":"シートベルトの必要性をなくす"
+},
+{
+"id": 189,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"携帯電話およびデバイス",
+"question":"音楽やナビゲーションの調整をするのに最も安全なタイミングはいつですか?",
+"answer":"運転前または安全に駐車している間",
+"distractor1":"ゆっくりと回転しながら",
+"distractor2":"どの赤信号でも"
+},
+{
+"id": 190,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"シートベルトとチャイルドシート",
+"question":"子供を乗せて運転する前に、何をチェックすべきでしょうか?",
+"answer":"それぞれの子供が正しく拘束されていること",
+"distractor1":"子供たちが1つのシートベルトを共有できる",
+"distractor2":"子供は前席にしか座らない"
+},
+{
+"id": 191,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"事故時の責任",
+"question":"事故後、ドライバー同士はどのような情報を交換すべきでしょうか?",
+"answer":"氏名、住所、車両、免許証または登録情報",
+"distractor1":"名のみ",
+"distractor2":"保険会社名のみ"
+},
+{
+"id": 192,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"疲労管理",
+"question":"あくびが止まらず、目が重く感じる場合はどうすれば良いでしょうか?",
+"answer":"安全な場所に停車し、休憩してから再開してください。",
+"distractor1":"注意力を維持するために、より速く運転してください。",
+"distractor2":"前車に接近して走行する"
+},
+{
+"id": 193,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"運転手の義務",
+"question":"緊急車両がライトやサイレンを鳴らして接近してきた場合、あなたは何をすべきですか?",
+"answer":"安全にその進路から外れ、必要であれば停止してください。",
+"distractor1":"速度と車線を維持してください",
+"distractor2":"それより先にレースをする"
+},
+{
+"id": 194,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"車両の状態",
+"question":"なぜ車両は走行可能な状態である必要があるのですか?",
+"answer":"衝突や機械的故障のリスクを軽減するため",
+"distractor1":"車両を洗車しないように",
+"distractor2":"法定速度制限を引き上げる"
+},
+{
+"id": 195,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"運転手の義務",
+"question":"医学的に運転に適さない場合はどうすれば良いでしょうか?",
+"answer":"安全かつ合法になるまで運転しないでください",
+"distractor1":"短距離のみ運転する",
+"distractor2":"ハザードランプを点灯させてゆっくり運転してください"
+},
+{
+"id": 196,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"事故時の責任",
+"question":"交通事故後、いつ緊急サービスに連絡すべきでしょうか?",
+"answer":"誰かが負傷した場合、または危険が生じた場合",
+"distractor1":"車両に損傷がない場合のみ",
+"distractor2":"夜間に事故が発生した場合のみ"
+},
+{
+"id": 197,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"携帯電話およびデバイス",
+"question":"なぜ運転免許取得者は、デバイスの使用による注意散漫を避けるべきなのでしょうか?",
+"answer":"車両を安全に制御するには、十分な注意を払う必要があります。",
+"distractor1":"機器は危険検知能力を向上させる",
+"distractor2":"注意散漫は高速道路でのみ問題となる"
+},
+{
+"id": 198,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"シートベルトとチャイルドシート",
+"question":"大人が子供を膝の上に抱っこすることの何が危険なのでしょうか?",
+"answer":"衝突時に子供が適切に保護されない",
+"distractor1":"快適さにしか影響しない",
+"distractor2":"チャイルドシートよりも安全です"
+},
+{
+"id": 199,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"車両の状態",
+"question":"夜間運転前に確認すべきことは何ですか?",
+"answer":"ヘッドライト、ブレーキランプ、ウインカーが正常に作動する",
+"distractor1":"ラジオが使えることだけが重要だ",
+"distractor2":"窓が閉まっているだけ"
+},
+{
+"id": 200,
+"englishName":"Quiz",
+"category":"運転手の責任",
+"subcategory":"運転手の義務",
+"question":"道路交通規則についてよくわからない場合は、どうすればよいでしょうか?",
+"answer":"最も安全で合法的な行動を選択し、ルールは後で確認してください。",
+"distractor1":"近くのドライバーがしていることを何でも真似しなさい",
+"distractor2":"交通量が少ない場合はルールを無視してください"
+},
+{
+"id": 201,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"血中アルコール濃度(BAC)",
+"question":"ACT州の運転免許取得希望者には、どのくらいの血中アルコール濃度制限が適用されますか?",
+"answer":"血中アルコール濃度ゼロ",
+"distractor1":"血中アルコール濃度0.05",
+"distractor2":"血中アルコール濃度0.02"
+},
+{
+"id": 202,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"血中アルコール濃度(BAC)",
+"question":"ACT州の仮免許運転者には、どのくらいの血中アルコール濃度制限が適用されますか?",
+"answer":"血中アルコール濃度ゼロ",
+"distractor1":"血中アルコール濃度0.05",
+"distractor2":"血中アルコール濃度0.08"
+},
+{
+"id": 203,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"血中アルコール濃度(BAC)",
+"question":"一般的な自動車運転免許保持者の血中アルコール濃度(BAC)の上限値はどのくらいですか?",
+"answer":"血中アルコール濃度0.05未満",
+"distractor1":"血中アルコール濃度0.10未満",
+"distractor2":"正確に0.05 BAC"
+},
+{
+"id": 204,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"血中アルコール濃度(BAC)",
+"question":"なぜ飲酒運転は危険なのでしょうか?",
+"answer":"判断力、協調性、反応時間に影響を与える",
+"distractor1":"自信と注意力を高める",
+"distractor2":"夜間の運転にのみ影響します"
+},
+{
+"id": 205,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"血中アルコール濃度(BAC)",
+"question":"運転する予定がある場合、最も安全な選択肢は何ですか?",
+"answer":"運転前に飲酒しないでください",
+"distractor1":"お酒を飲んだ後にコーヒーを飲む",
+"distractor2":"飲酒後はゆっくり運転してください"
+},
+{
+"id": 206,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"ランダム呼気検査",
+"question":"ランダムな呼気検査は何のために行われるのですか?",
+"answer":"体内にアルコールが残っている可能性のあるドライバーを検出するため",
+"distractor1":"タイヤの空気圧をチェックするには",
+"distractor2":"車両の排出ガスをテストする"
+},
+{
+"id": 207,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"ランダム呼気検査",
+"question":"警察から呼気検査を受けるよう求められた場合、どうすればよいですか?",
+"answer":"法的要件を遵守する",
+"distractor1":"酔っていない場合は断ってください",
+"distractor2":"事故発生後にのみ従う"
+},
+{
+"id": 208,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"ランダム呼気検査",
+"question":"警察は、あなたが普通に運転している場合でも、呼気検査を要求することができますか?",
+"answer":"はい、明らかな危険運転がなくても、無作為の飲酒検査が行われることがあります。",
+"distractor1":"いいえ、警察はまず事故を起こす必要があります",
+"distractor2":"他のドライバーが苦情を申し立てた場合のみ"
+},
+{
+"id": 209,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"ランダム呼気検査",
+"question":"合法的な呼気検査を拒否した場合、どのようなことが起こり得るのでしょうか?",
+"answer":"重大な罰則を受ける可能性があります",
+"distractor1":"シラフであれば何も起こりません",
+"distractor2":"あなたはただ車で立ち去るだけかもしれない"
+},
+{
+"id": 210,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"ランダム呼気検査",
+"question":"警察がアルコール検査を実施する可能性があるのは、どのような場合でしょうか?",
+"answer":"運転中または車両を制御している間はいつでも",
+"distractor1":"金曜日の夜のみ",
+"distractor2":"スピード違反の後のみ"
+},
+{
+"id": 211,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"医薬品",
+"question":"違法薬物はなぜ運転を危険にするのか?",
+"answer":"それらは判断力、協調性、反応時間に影響を与える可能性がある",
+"distractor1":"危険認識を向上させる",
+"distractor2":"これらは乗客のみに影響します"
+},
+{
+"id": 212,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"医薬品",
+"question":"薬を服用した後、運転する前に何をすべきですか?",
+"answer":"運転に影響があるかどうか確認してください。",
+"distractor1":"すべての薬は安全であると仮定する",
+"distractor2":"まずは運転して、後で確認しよう"
+},
+{
+"id": 213,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"医薬品",
+"question":"薬を服用して眠気やめまいを感じた場合は、どうすればよいですか?",
+"answer":"影響を受けている間は運転しないでください",
+"distractor1":"短距離のみ運転する",
+"distractor2":"コーヒーを飲んで続ける"
+},
+{
+"id": 214,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"医薬品",
+"question":"運転中にアルコールと薬を併用することが危険なのはなぜですか?",
+"answer":"これらの複合的な影響により、障害が悪化する可能性がある。",
+"distractor1":"アルコールの効果を打ち消す",
+"distractor2":"集中力を高める"
+},
+{
+"id": 215,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"医薬品",
+"question":"薬が運転に影響を与えるかどうかについて、誰がアドバイスできますか?",
+"answer":"医師または薬剤師",
+"distractor1":"どの乗客でも",
+"distractor2":"運転教官のみ"
+},
+{
+"id": 216,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"疲労と睡眠",
+"question":"運転中に疲労が危険なのはなぜですか?",
+"answer":"注意力を低下させ、反応時間を遅くする",
+"distractor1":"ドライバーの注意力を高める",
+"distractor2":"高速道路でのみ意味がある"
+},
+{
+"id": 217,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"疲労と睡眠",
+"question":"運転中に眠気を感じたらどうすればいいですか?",
+"answer":"安全な場所に停車し、休憩してから再開してください。",
+"distractor1":"窓を開けて運転を続けてください",
+"distractor2":"音楽の音量を上げて"
+},
+{
+"id": 218,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"疲労と睡眠",
+"question":"疲労の兆候として考えられるのはどれですか?",
+"answer":"あくび、眠い目、またはぼんやりと車線を走っている",
+"distractor1":"より鋭い集中力",
+"distractor2":"制動距離が短い"
+},
+{
+"id": 219,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"疲労と睡眠",
+"question":"長距離ドライブに備えるには、どのような準備をすればよいでしょうか?",
+"answer":"十分な睡眠をとり、定期的に休憩を取るようにしましょう。",
+"distractor1":"休憩を省いて早く到着しよう",
+"distractor2":"休憩なしで一晩中運転する"
+},
+{
+"id": 220,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"疲労と睡眠",
+"question":"カフェインは安全運転のために睡眠の代わりになるだろうか?",
+"answer":"いいえ、休息や睡眠こそが疲労を解消する正しい方法です。",
+"distractor1":"はい、カフェインはすべての疲労を取り除きます",
+"distractor2":"はい、大音量の音楽も使用する場合"
+},
+{
+"id": 221,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"病状",
+"question":"健康状態が運転に影響を与える可能性がある場合、どうすればよいでしょうか?",
+"answer":"医師の診察を受け、免許取得要件を遵守する。",
+"distractor1":"自信があるなら無視して構いません",
+"distractor2":"静かな道路のみを走行してください"
+},
+{
+"id": 222,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"病状",
+"question":"なぜ一部の病状は運転の安全性に影響を与えるのでしょうか?",
+"answer":"視覚、運動、意識、または反応時間に影響を与える可能性があります。",
+"distractor1":"彼らは制限速度を引き上げます",
+"distractor2":"これらは乗客のみに影響します"
+},
+{
+"id": 223,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"病状",
+"question":"視力に変化があった場合、どうすればよいですか?",
+"answer":"安全に影響がある場合は、運転を続ける前に点検を受けてください。",
+"distractor1":"道路での時間を短縮するために、より速く運転する",
+"distractor2":"日中はハイビームを使用してください"
+},
+{
+"id": 224,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"病状",
+"question":"運転に関して医師のアドバイスに従うことが重要なのはなぜですか?",
+"answer":"それはあなたと他の道路利用者の安全を守るのに役立ちます",
+"distractor1":"ライセンス条件を無視できる",
+"distractor2":"道路交通規則に従う必要がなくなる"
+},
+{
+"id": 225,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"病状",
+"question":"運転に影響を与える可能性のある病気にかかった後は、どうすればよいですか?",
+"answer":"適切な医師の許可が出るまでは運転しないでください",
+"distractor1":"すぐに家に帰る",
+"distractor2":"交通量が少ない時だけ運転してください。"
+},
+{
+"id": 226,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"運転適性",
+"question":"運転に適した状態とはどういう意味ですか?",
+"answer":"あなたは身体的にも精神的にも安全に運転できる状態です",
+"distractor1":"止まらずに速く運転できます",
+"distractor2":"あなたの車には十分な燃料があります"
+},
+{
+"id": 227,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"運転適性",
+"question":"運転を避けるべきなのはどんな時ですか?",
+"answer":"アルコール、薬物、病気、疲労、または怪我があなたに影響を与える場合",
+"distractor1":"車が汚れている時のみ",
+"distractor2":"交通量が多い時のみ"
+},
+{
+"id": 228,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"運転適性",
+"question":"旅行前にあなたが運転に適しているかどうかを判断する責任者は誰ですか?",
+"answer":"運転手であるあなた",
+"distractor1":"乗客のみ",
+"distractor2":"運転開始後に警察が"
+},
+{
+"id": 229,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"運転適性",
+"question":"運転中に体調が悪くなった場合はどうすれば良いですか?",
+"answer":"安全な場所に停車し、安全な場所で停止してください。",
+"distractor1":"スピードを上げて目的地に早く到着しよう",
+"distractor2":"ハザードランプを点灯したまま運転を続ける"
+},
+{
+"id": 230,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"運転適性",
+"question":"運転を始める前に、なぜ運転適性検査を受けるべきなのでしょうか?",
+"answer":"飲酒運転は衝突事故のリスクを高める可能性がある",
+"distractor1":"制限速度を超えて運転することを可能にする",
+"distractor2":"登録費用を削減します"
+},
+{
+"id": 231,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"血中アルコール濃度(BAC)",
+"question":"少量のアルコールでも運転に影響はありますか?",
+"answer":"はい、少量でも運転能力に影響を与える可能性があります。",
+"distractor1":"いいえ、アルコールは大量飲酒者にしか影響しません",
+"distractor2":"疲れている場合のみ"
+},
+{
+"id": 232,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"血中アルコール濃度(BAC)",
+"question":"体内でアルコールが分解される過程で、血中アルコール濃度(BAC)はどのように変化しますか?",
+"answer":"時間の経過とともに徐々に減少する",
+"distractor1":"コーヒーを飲んだ直後に消える",
+"distractor2":"ゆっくり運転すると、落下速度が速くなります。"
+},
+{
+"id": 233,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"医薬品",
+"question":"運転前に薬のラベルで確認すべきことは何ですか?",
+"answer":"眠気や機械操作に関する警告",
+"distractor1":"パッケージの色",
+"distractor2":"味が強いかどうか"
+},
+{
+"id": 234,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"医薬品",
+"question":"薬が運転に影響を与えるかどうか確信が持てない場合は、どうすればよいでしょうか?",
+"answer":"運転する前に医師または薬剤師に相談してください",
+"distractor1":"まずは運転して自分の力を試してみよう",
+"distractor2":"気分を良くするために薬をもっと飲んでください"
+},
+{
+"id": 235,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"ランダム呼気検査",
+"question":"なぜドライバーは常に路上での呼気検査に備えておくべきなのでしょうか?",
+"answer":"警察はいつでも無作為に呼気検査を実施する可能性がある",
+"distractor1":"衝突後にのみテストが行われる",
+"distractor2":"ドライバーの試験は任意です"
+},
+{
+"id": 236,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"疲労と睡眠",
+"question":"運転前に疲労を防ぐ最善の方法は何ですか?",
+"answer":"旅行前に十分な質の良い睡眠をとる",
+"distractor1":"リラックスするためにお酒を飲む",
+"distractor2":"運転前に食事を抜く"
+},
+{
+"id": 237,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"疲労と睡眠",
+"question":"運転中に小さなミスを犯していることに気づいたら、どうすれば良いでしょうか?",
+"answer":"安全に停車して休憩してください。疲労が影響している可能性があります。",
+"distractor1":"より速く運転して、より集中力を高める",
+"distractor2":"前方の車両に近づく"
+},
+{
+"id": 238,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"運転適性",
+"question":"体調不良を感じた場合、運転前に何をすべきでしょうか?",
+"answer":"安全に運転できる状態になるまでは、運転を避けてください。",
+"distractor1":"左車線をゆっくり走行してください",
+"distractor2":"旅行が短い場合は無視してください"
+},
+{
+"id": 239,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"運転適性",
+"question":"精神的な苦痛が運転上のリスクとなり得るのはなぜでしょうか?",
+"answer":"集中力や意思決定能力を低下させる可能性がある",
+"distractor1":"危険認識能力を向上させる",
+"distractor2":"それは乗客にとってのみ重要だ"
+},
+{
+"id": 240,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"運転適性",
+"question":"安全に運転できない場合は、どうすれば良いでしょうか?",
+"answer":"別の交通手段を利用するか、旅行を延期する",
+"distractor1":"よく知っている道だけを運転してください。",
+"distractor2":"ハザードランプを点灯して運転する"
+},
+{
+"id": 241,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"医薬品",
+"question":"処方薬は運転を危険にする可能性がありますか?",
+"answer":"はい、一部の処方薬は運転能力を損なう可能性があります。",
+"distractor1":"いいえ、処方薬は常に安全です",
+"distractor2":"夜間に服用した場合のみ"
+},
+{
+"id": 242,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"血中アルコール濃度(BAC)",
+"question":"飲酒運転を確実に避ける唯一の方法は何ですか?",
+"answer":"飲酒運転は絶対にしないでください。",
+"distractor1":"飲酒後にしっかり食事を摂る",
+"distractor2":"飲んだ後、数分待つ"
+},
+{
+"id": 243,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"ランダム呼気検査",
+"question":"呼気検査の結果は、警察が何を判断するのに役立つのか?",
+"answer":"運転手が法定アルコール濃度を超えているかどうか",
+"distractor1":"車両が登録されているかどうか",
+"distractor2":"タイヤが安全かどうか"
+},
+{
+"id": 244,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"病状",
+"question":"医療状態について免許交付機関から求められた場合、どのようなことを伝えるべきでしょうか?",
+"answer":"安全運転能力に影響を与える可能性のあるあらゆる状態",
+"distractor1":"運転とは無関係な条件のみ",
+"distractor2":"クラッシュしない限り何も起こらない"
+},
+{
+"id": 245,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"疲労と睡眠",
+"question":"ひどく疲れている状態で運転を続けることよりも安全なことって何だろうか?",
+"answer":"安全な場所で休憩または睡眠をとる",
+"distractor1":"片方の窓を開けて運転する",
+"distractor2":"注意力を維持するために頻繁に車線変更を行う"
+},
+{
+"id": 246,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"運転適性",
+"question":"運転手は毎回の運転前に何を考慮すべきでしょうか?",
+"answer":"彼らが注意力があり、運転能力に問題がなく、運転できる状態であるかどうか",
+"distractor1":"彼らが旅を最速で終えることができるかどうか",
+"distractor2":"乗客が音楽を求めているかどうか"
+},
+{
+"id": 247,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"血中アルコール濃度(BAC)",
+"question":"仮免許取得者や運転免許取得を目指す人は、なぜ運転前に一切のアルコール摂取を避けるべきなのでしょうか?",
+"answer":"彼らは血中アルコール濃度ゼロの要件を遵守しなければならない",
+"distractor1":"彼らは血中アルコール濃度0.05で運転する可能性がある",
+"distractor2":"監視下であれば飲酒してもよい。"
+},
+{
+"id": 248,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"医薬品",
+"question":"薬が運転能力に影響を与える場合、最も安全な選択肢は何でしょうか?",
+"answer":"影響を受けている間は運転しないでください",
+"distractor1":"日中のみ運転してください",
+"distractor2":"いつもよりゆっくり運転してください"
+},
+{
+"id": 249,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"ランダム呼気検査",
+"question":"路上でのアルコール検査を受けることを義務付けられるのは誰ですか?",
+"answer":"運転者または車両を制御する人",
+"distractor1":"乗客のみ",
+"distractor2":"プロのドライバーのみ"
+},
+{
+"id": 250,
+"englishName":"Quiz",
+"category":"アルコール、薬物、健康",
+"subcategory":"運転適性",
+"question":"アルコール、薬物、疲労、または病気の影響を受けた場合、どうすればよいでしょうか?",
+"answer":"運転しないでください",
+"distractor1":"短距離のみ運転する",
+"distractor2":"ハザードランプを点灯して運転する"
+},
+{
+"id": 251,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"危険認識",
+"question":"危険認知とは何ですか?",
+"answer":"潜在的な危険を早期に察知し、安全に対応する",
+"distractor1":"衝突事故が起きてから初めて対応する",
+"distractor2":"前方の車両のみを注視する"
+},
+{
+"id": 252,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"危険認識",
+"question":"なぜドライバーは前方をよく確認する必要があるのか?",
+"answer":"危険を早期に特定し、対応のための時間をより多く確保する",
+"distractor1":"ミラーを確認するのを避けるため",
+"distractor2":"渋滞の中をより速く走る"
+},
+{
+"id": 253,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"危険認識",
+"question":"発生しつつある危険の例を挙げてください。",
+"answer":"歩道に向かって歩いている歩行者",
+"distractor1":"近くに動きのない駐車車両",
+"distractor2":"交通量のない、開けた道路"
+},
+{
+"id": 254,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"危険認識",
+"question":"危険が迫っている可能性がある場合、どうすべきでしょうか?",
+"answer":"アクセルを緩めてブレーキをかける準備をしてください",
+"distractor1":"起こる前に追い越すためにスピードを上げる",
+"distractor2":"車線を塞ぐまで無視してください"
+},
+{
+"id": 255,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"危険認識",
+"question":"駐車車両はなぜ危険になり得るのでしょうか?",
+"answer":"ドアが開いたり、歩行者が外に出たりする可能性があります。",
+"distractor1":"彼らには常に優先権がある",
+"distractor2":"彼らは制限速度を引き上げます"
+},
+{
+"id": 256,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"スペースクッション",
+"question":"スペースクッションとは何ですか?",
+"answer":"車両周囲に安全な間隔を確保する",
+"distractor1":"座席内部のクッション材",
+"distractor2":"道路上の塗装された部分"
+},
+{
+"id": 257,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"スペースクッション",
+"question":"なぜ車の周囲にスペースを確保する必要があるのでしょうか?",
+"answer":"危険を回避する余裕が生まれます",
+"distractor1":"制限速度を超えて運転できます",
+"distractor2":"合図を送る必要がなくなる"
+},
+{
+"id": 258,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"スペースクッション",
+"question":"車間距離が近すぎる場合はどうすれば良いですか?",
+"answer":"前方との車間距離を広げ、安全な時に追い越させてあげましょう。",
+"distractor1":"急ブレーキをかけてドライバーに警告する",
+"distractor2":"制限速度を超えて加速する"
+},
+{
+"id": 259,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"スペースクッション",
+"question":"いつ、居住空間の余裕を増やすべきでしょうか?",
+"answer":"悪天候時、交通量が多い時、または道路上の弱者の近くでは",
+"distractor1":"駐車時のみ",
+"distractor2":"空いている道路でのみ"
+},
+{
+"id": 260,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"スペースクッション",
+"question":"なぜ他の車両の横を長時間走行することを避けるべきなのでしょうか?",
+"answer":"危険が発生した場合、避難の選択肢が減少する可能性があります",
+"distractor1":"インジケーターが機能しなくなります",
+"distractor2":"常に優先権を与えてくれます"
+},
+{
+"id": 261,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"スピードチョイス",
+"question":"速度はどのように選べば良いでしょうか?",
+"answer":"道路状況、交通状況、天候、視界状況に合わせて調整してください。",
+"distractor1":"常に制限速度を守って運転してください。",
+"distractor2":"近くで最速のドライバーとマッチングします"
+},
+{
+"id": 262,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"スピードチョイス",
+"question":"なぜ制限速度は依然として速すぎる可能性があるのでしょうか?",
+"answer":"状況によっては、低速の方が安全な場合もある。",
+"distractor1":"制限速度はあくまで目安です",
+"distractor2":"他のドライバーは道を譲らなければならない"
+},
+{
+"id": 263,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"スピードチョイス",
+"question":"子供や歩行者の近くでは、どのくらいの速度で走行すべきでしょうか?",
+"answer":"素早く停止できる低速",
+"distractor1":"最高速度",
+"distractor2":"周囲の交通速度"
+},
+{
+"id": 264,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"スピードチョイス",
+"question":"見通しの悪いコーナーや頂上に差し掛かる前に、何をすべきでしょうか?",
+"answer":"速度を落とし、危険に備えてください",
+"distractor1":"道路の中央に移動してください",
+"distractor2":"クラクションを鳴らして加速せよ"
+},
+{
+"id": 265,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"スピードチョイス",
+"question":"なぜスピード違反は危険なのか?",
+"answer":"反応時間を短縮し、停止距離を延長します。",
+"distractor1":"車両の制御性を向上させる",
+"distractor2":"道路標識が読みやすくなる"
+},
+{
+"id": 266,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"雨天時の運転",
+"question":"雨天時に運転する際は、どうすればよいですか?",
+"answer":"速度を落とし、車間距離を広げてください。",
+"distractor1":"飛沫を避けるためスピードを上げる",
+"distractor2":"もっとよく見るために、もっと近づいてください"
+},
+{
+"id": 267,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"雨天時の運転",
+"question":"濡れた路面ではなぜブレーキが効きにくくなるのでしょうか?",
+"answer":"タイヤのグリップ力が低下し、制動距離が長くなる",
+"distractor1":"ブレーキが完全に効かなくなる",
+"distractor2":"速度制限は適用されなくなりました"
+},
+{
+"id": 268,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"雨天時の運転",
+"question":"大雨の際に避けるべきことは何ですか?",
+"answer":"急ブレーキ、急ハンドル、スピード違反",
+"distractor1":"ヘッドライトを使用する",
+"distractor2":"車間距離を広げる"
+},
+{
+"id": 269,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"雨天時の運転",
+"question":"道路が水浸しになっている場合、どうすればよいですか?",
+"answer":"水深や安全性が不明な場合は、そこを車で通過しないでください。",
+"distractor1":"停車を避けるため、速やかに通過してください。",
+"distractor2":"前の車両に十分近づいて通過する"
+},
+{
+"id": 270,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"雨天時の運転",
+"question":"視界不良時にヘッドライトを使用する必要があるのはなぜですか?",
+"answer":"それらはあなたが物事を見るのを助け、他の人があなたを見るのを助ける。",
+"distractor1":"より高速な走行が可能になる",
+"distractor2":"制動距離を短縮する"
+},
+{
+"id": 271,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"夜間運転",
+"question":"夜間運転の主なリスクは何ですか?",
+"answer":"視界が悪化し、危険物の発見が困難になる",
+"distractor1":"道路交通法は適用されなくなる",
+"distractor2":"停止距離は常に短くなる"
+},
+{
+"id": 272,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"夜間運転",
+"question":"ハイビームをロービームに切り替えるべきタイミングは?",
+"answer":"他の車両に接近または追従する場合",
+"distractor1":"高速道路のみ",
+"distractor2":"駐車時のみ"
+},
+{
+"id": 273,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"夜間運転",
+"question":"対向車のヘッドライトに眩惑された場合、どうすればよいですか?",
+"answer":"速度を落として、道路の左側を見てください",
+"distractor1":"ライトをまっすぐ見てください",
+"distractor2":"ハイビームを連続点滅"
+},
+{
+"id": 274,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"夜間運転",
+"question":"なぜ夜間は速度を落とすべきなのでしょうか?",
+"answer":"視界の範囲内で停止できる必要があります",
+"distractor1":"夜間の速度制限は常に低くなっています",
+"distractor2":"夜間は車のブレーキが効きやすくなる"
+},
+{
+"id": 275,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"夜間運転",
+"question":"夜間運転前に確認すべきことは何ですか?",
+"answer":"すべてのライトが清潔で正常に点灯していること",
+"distractor1":"ラジオの音量が大きくなった",
+"distractor2":"タイヤの色が見える"
+},
+{
+"id": 276,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"追従とブレーキ",
+"question":"なぜ前方の車両との間に安全な車間距離を保つべきなのでしょうか?",
+"answer":"反応して安全に停止するための時間を確保するため",
+"distractor1":"他の人を追い越すよう促す",
+"distractor2":"鏡の使用を避けるため"
+},
+{
+"id": 277,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"追従とブレーキ",
+"question":"前方の交通が減速し始めたら、どうすればよいですか?",
+"answer":"早めにアクセルを緩めて、スムーズにブレーキをかける",
+"distractor1":"最後の瞬間までスピードを維持しよう",
+"distractor2":"加速してギャップを縮める"
+},
+{
+"id": 278,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"追従とブレーキ",
+"question":"車間距離を広げるべきタイミングはいつですか?",
+"answer":"高速走行時、悪天候時、または視界不良時",
+"distractor1":"駐車時のみ",
+"distractor2":"スピードカメラを通過した後のみ"
+},
+{
+"id": 279,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"追従とブレーキ",
+"question":"スムーズなブレーキングはどのような場合に役立つのでしょうか?",
+"answer":"制御を維持し、追突事故のリスクを軽減する",
+"distractor1":"停止距離の延長",
+"distractor2":"タイヤのグリップを失わせる"
+},
+{
+"id": 280,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"追従とブレーキ",
+"question":"必要がない限り、急ブレーキを避けるべき理由は?",
+"answer":"後続車の制御不能や不意打ちを引き起こす可能性がある",
+"distractor1":"車両の速度が上がる",
+"distractor2":"合図を送る必要がなくなる"
+},
+{
+"id": 281,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"防御運転",
+"question":"防御運転とは何ですか?",
+"answer":"危険や他者のミスを予測して衝突を回避する運転",
+"distractor1":"自分のポジションを守るためにアグレッシブに運転する",
+"distractor2":"他のドライバーがあなたを避けてくれることを期待する"
+},
+{
+"id": 282,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"防御運転",
+"question":"なぜ他の道路利用者が間違いを犯す可能性があると想定すべきなのでしょうか?",
+"answer":"事故を未然に防ぎ、回避するのに役立ちます",
+"distractor1":"優先通行権が与えられます",
+"distractor2":"交通標識を無視できる"
+},
+{
+"id": 283,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"防御運転",
+"question":"安全運転を心がけるドライバーは、どのような点を避けるべきでしょうか?",
+"answer":"攻撃的な運転、車間距離不保持、危険な追い越し",
+"distractor1":"ミラーを確認する",
+"distractor2":"スペースを空ける"
+},
+{
+"id": 284,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"防御運転",
+"question":"交通量の多い場所で、安全運転をするために役立つことは何ですか?",
+"answer":"周囲を警戒し、スペースを確保し、脱出方法を計画する",
+"distractor1":"誰も合流しないように、クローズに続いています",
+"distractor2":"合図を出さずに車線変更する"
+},
+{
+"id": 285,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"防御運転",
+"question":"攻撃的な運転をするドライバーにどう対応すべきでしょうか?",
+"answer":"落ち着いて、距離を保ち、関わらないようにしてください。",
+"distractor1":"ブレーキチェック",
+"distractor2":"彼らと競争して距離を稼ごう"
+},
+{
+"id": 286,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"交差点の安全",
+"question":"交差点に入る前に何をすべきですか?",
+"answer":"交通、歩行者、自転車、信号を確認してください。",
+"distractor1":"前方の車両のみを見る",
+"distractor2":"遅延を避けるため、お早めにお入りください。"
+},
+{
+"id": 287,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"交差点の安全",
+"question":"通行止めになっている交差点に進入してはいけない理由は何ですか?",
+"answer":"交通を妨害し、危険を引き起こす可能性があります。",
+"distractor1":"優先権が与えられます",
+"distractor2":"交通渋滞を短縮します"
+},
+{
+"id": 288,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"交差点の安全",
+"question":"交差点で曲がる際に注意すべき点は何ですか?",
+"answer":"あなたが進入する道路を横断する歩行者と自転車",
+"distractor1":"後方の車両のみ",
+"distractor2":"右車線のみ通行可"
+},
+{
+"id": 289,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"交差点の安全",
+"question":"交差点付近で減速すべき理由は?",
+"answer":"他の道路利用者が予期せず進入または方向転換する可能性がある",
+"distractor1":"信号機はいつも故障している",
+"distractor2":"そこでは速度制限は適用されません"
+},
+{
+"id": 290,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"交差点の安全",
+"question":"交差点が混雑している場合、青信号でもどうすれば良いでしょうか?",
+"answer":"安全に進めるスペースができるまでお待ちください。",
+"distractor1":"緑色は進むことを意味するので、進入してください。",
+"distractor2":"他のドライバーが動くまで永久に停止する"
+},
+{
+"id": 291,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"動物による危険",
+"question":"道路付近に動物が現れた場合、どうすればよいですか?",
+"answer":"速度を落とし、安全に停止する準備をしてください。",
+"distractor1":"急に別の車線にハンドルを切る",
+"distractor2":"動き出す前にスピードを上げろ"
+},
+{
+"id": 292,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"動物による危険",
+"question":"動物のために急ハンドルを切ることを避けるべき理由とは?",
+"answer":"制御を失ったり、他の道路利用者と衝突したりする可能性があります。",
+"distractor1":"動物の走りを速くする",
+"distractor2":"制動距離が短縮されます"
+},
+{
+"id": 293,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"路面上の危険箇所",
+"question":"砂利道や路面が緩い場所では、どうすればよいですか?",
+"answer":"速度を落とし、スムーズにハンドルを切ってください",
+"distractor1":"グリップを向上させるために急ブレーキをかける",
+"distractor2":"カーブを素早く加速して通過する"
+},
+{
+"id": 294,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"路面上の危険箇所",
+"question":"なぜ路面の穴や凹凸は危険なのでしょうか?",
+"answer":"これらは、ステアリング、ブレーキ、および車両制御に影響を与える可能性があります。",
+"distractor1":"停止距離を短縮する",
+"distractor2":"車両の燃費を向上させる"
+},
+{
+"id": 295,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"路面上の危険箇所",
+"question":"滑りやすい路面には、どのように対処すべきでしょうか?",
+"answer":"速度を落とし、急ブレーキや急ハンドルを避けてください。",
+"distractor1":"加速して制御を維持する",
+"distractor2":"旋回中に急ブレーキをかける"
+},
+{
+"id": 296,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"シート位置とミラー",
+"question":"運転前にシートを調整する必要があるのはなぜですか?",
+"answer":"操作系に快適に手が届くように、良好な視界を確保する。",
+"distractor1":"車両を速くするために",
+"distractor2":"鏡の必要性を減らすために"
+},
+{
+"id": 297,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"シート位置とミラー",
+"question":"ミラーの調整はいつ行うべきですか?",
+"answer":"運転を始める前に",
+"distractor1":"後退時のみ",
+"distractor2":"高速道路に入ってから"
+},
+{
+"id": 298,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"シート位置とミラー",
+"question":"なぜ定期的に鏡をチェックする必要があるのでしょうか?",
+"answer":"横や後ろの交通状況に注意を払う",
+"distractor1":"先を見ないようにするために",
+"distractor2":"ヘッドチェックを完全に置き換える"
+},
+{
+"id": 299,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"シート位置とミラー",
+"question":"ミラーを確認した後でも、車線変更前に何をすべきでしょうか?",
+"answer":"死角を頭で確認しましょう",
+"distractor1":"すぐに車線変更してください",
+"distractor2":"他のドライバーに頼って移動する"
+},
+{
+"id": 300,
+"englishName":"Quiz",
+"category":"安全運転の実践",
+"subcategory":"防御運転",
+"question":"良い防御運転の習慣とは何ですか?",
+"answer":"事前に計画を立て、予期せぬ出来事にも備えておく",
+"distractor1":"合流を防ぐために接近して運転してください",
+"distractor2":"他人は常にルールに従うと想定する"
+},
+{
+"id": 301,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点での譲り合い",
+"question":"信号のない交差点では、誰に道を譲らなければならないのでしょうか?",
+"answer":"右側から接近してくる車両",
+"distractor1":"左側から接近してくる車両",
+"distractor2":"直進する車両のみ"
+},
+{
+"id": 302,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点での譲り合い",
+"question":"交差点で右折する際、誰に道を譲らなければなりませんか?",
+"answer":"直進または左折する対向車",
+"distractor1":"後ろには交通渋滞だけ",
+"distractor2":"右折する車両のみ"
+},
+{
+"id": 303,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点での譲り合い",
+"question":"「譲れ」の標識では、何をしなければなりませんか?",
+"answer":"速度を落とし、道を譲ってから進んでください。",
+"distractor1":"毎回3秒間停止する",
+"distractor2":"広い道路を走行している場合は、そのまま進んでください。"
+},
+{
+"id": 304,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点での譲り合い",
+"question":"一時停止標識がある交差点では、交差点に入る前に何をしなければなりませんか?",
+"answer":"完全に停止して道を譲ってください",
+"distractor1":"速度を落とし、視界が良好であれば続行してください。",
+"distractor2":"交通状況が確認できる場合にのみ停止してください。"
+},
+{
+"id": 305,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点での譲り合い",
+"question":"標識のないT字路では、一般的にどちらが道を譲るのでしょうか?",
+"answer":"終点道路の運転手",
+"distractor1":"道路を走行中のドライバー",
+"distractor2":"車両がより速く走行している"
+},
+{
+"id": 306,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"回転ルール",
+"question":"曲がる前に何をすべきですか?",
+"answer":"交通状況を確認し、合図を出し、安全が確認できた時のみ曲がってください。",
+"distractor1":"最初に曲がって、その後合図を出す",
+"distractor2":"他のドライバーが近くにいる場合のみ合図を送る"
+},
+{
+"id": 307,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"回転ルール",
+"question":"方向指示器を出す必要があるのはどのような場合ですか?",
+"answer":"他の道路利用者に警告するのに十分な時間",
+"distractor1":"交差点に入ってから",
+"distractor2":"交通量が多い時のみ"
+},
+{
+"id": 308,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"回転ルール",
+"question":"Uターンをする前に必ずしなければならないことは何ですか?",
+"answer":"許可されているか、安全であるかを確認してください。",
+"distractor1":"まず最初にホーンを鳴らしてください",
+"distractor2":"左車線からのみ右折してください"
+},
+{
+"id": 309,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"回転ルール",
+"question":"Uターンをする際、誰に道を譲らなければなりませんか?",
+"answer":"その他のすべての車両および歩行者",
+"distractor1":"後方の車両のみ",
+"distractor2":"横断歩道には歩行者のみ"
+},
+{
+"id": 310,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"回転ルール",
+"question":"標識で右左折が禁止されている場合は、どうすればよいですか?",
+"answer":"その方向へ曲がらないでください",
+"distractor1":"道路が空いていれば曲がってください",
+"distractor2":"ピーク時以外のみ通行してください。"
+},
+{
+"id": 311,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"スリップレーン",
+"question":"スリップレーンは何のために使われるのですか?",
+"answer":"主要交差点エリアに入らずに左折する",
+"distractor1":"追い越しで交通が停止",
+"distractor2":"交差点付近の駐車場"
+},
+{
+"id": 312,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"スリップレーン",
+"question":"スリップレーンを使用する際、誰に注意すべきですか?",
+"answer":"歩行者、自転車、そして交通の流れに加わらなければなりません",
+"distractor1":"後方の車両のみ",
+"distractor2":"右折専用"
+},
+{
+"id": 313,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"スリップレーン",
+"question":"スリップレーンにある「譲れ」の標識では、何をしなければなりませんか?",
+"answer":"合流または進入する前に道を譲ってください",
+"distractor1":"車線に加速して入る",
+"distractor2":"車線が狭い場合のみ停止してください"
+},
+{
+"id": 314,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"スリップレーン",
+"question":"なぜスリップレーンでは減速する必要があるのでしょうか?",
+"answer":"歩行者や自転車が横断している可能性があります",
+"distractor1":"スリップレーンは常にタイヤのグリップ力が低い",
+"distractor2":"すべてのスリップレーンで停止しなければなりません"
+},
+{
+"id": 315,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"スリップレーン",
+"question":"スリップレーンから本線に合流する際、何をしなければなりませんか?",
+"answer":"必要な場所では道を譲り、安全に合流してください。",
+"distractor1":"交通の流れを減速させる",
+"distractor2":"ミラーを確認せずに乗車する"
+},
+{
+"id": 316,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"ロータリー交差点",
+"question":"ロータリー交差点に入る際に必ずしなければならないことは何ですか?",
+"answer":"既にロータリー内を走行している車両に道を譲ってください。",
+"distractor1":"左側の車両にのみ道を譲ってください。",
+"distractor2":"直進する場合は入力してください"
+},
+{
+"id": 317,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"ロータリー交差点",
+"question":"ロータリー交差点で左折の合図を出すべきタイミングは?",
+"answer":"ロータリーから出る際は、可能であれば",
+"distractor1":"入場時のみ",
+"distractor2":"ロータリー交差点では決して"
+},
+{
+"id": 318,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"ロータリー交差点",
+"question":"ロータリー交差点で右折する際、どのように合図を出すべきでしょうか?",
+"answer":"可能であれば、進入前に右に、退出時に左に合図してください。",
+"distractor1":"進入前に左折の合図",
+"distractor2":"絶対に合図しないでください"
+},
+{
+"id": 319,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"ロータリー交差点",
+"question":"ロータリー交差点に自転車がいたら、どうすべきですか?",
+"answer":"彼らにスペースを与え、道を譲る準備をしましょう",
+"distractor1":"ロータリー内で追い越す",
+"distractor2":"クラクションを鳴らして、彼らを立ち去らせよう"
+},
+{
+"id": 320,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"ロータリー交差点",
+"question":"複数車線のロータリーでは、どの車線を使用すべきですか?",
+"answer":"出口として指定されている、または適切な車線",
+"distractor1":"常に正しい車線",
+"distractor2":"標識に関係なくどの車線でも"
+},
+{
+"id": 321,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点の封鎖",
+"question":"交差点に進入してはいけないのはどのような場合ですか?",
+"answer":"交通を遮断せずにクリアできない場合",
+"distractor1":"信号が赤の時のみ",
+"distractor2":"右折時のみ"
+},
+{
+"id": 322,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点の封鎖",
+"question":"前方の交通が停止している場合、青信号でどうすればよいですか?",
+"answer":"交差点に十分なスペースができるまで待ってください。",
+"distractor1":"信号が青なので進入してください",
+"distractor2":"交差点の真ん中で止まる"
+},
+{
+"id": 323,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点の封鎖",
+"question":"交差点を塞ぐことが危険なのはなぜですか?",
+"answer":"交差する車両や緊急車両を停止させることができる",
+"distractor1":"次回のサイクルで優先権が得られます",
+"distractor2":"信号機の切り替えが速くなる"
+},
+{
+"id": 324,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点の封鎖",
+"question":"交通量の多い交差点を渡る前に、何をすべきでしょうか?",
+"answer":"反対側に車両を停めるスペースがあるか確認してください。",
+"distractor1":"前方の車両にしっかりとついていきましょう。",
+"distractor2":"まずは参加して、後で決めよう"
+},
+{
+"id": 325,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点の封鎖",
+"question":"交差点の先で、あなたの車が歩行者横断路を塞いでしまう場合、どうすべきでしょうか?",
+"answer":"十分なスペースができるまで、入場をお待ちください。",
+"distractor1":"横断歩道で少しの間停止する",
+"distractor2":"歩行者が見えない場合は進んでください"
+},
+{
+"id": 326,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点の歩行者",
+"question":"交差点で曲がる際、誰に道を譲らなければならないのですか?",
+"answer":"あなたが進入しようとしている道路を横断する歩行者",
+"distractor1":"ベビーカーを押している歩行者のみ",
+"distractor2":"通学路横断歩道では歩行者のみ"
+},
+{
+"id": 327,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点の歩行者",
+"question":"信号機で歩行者がまだ横断している場合、どうすればよいですか?",
+"answer":"彼らが安全にあなたの進路を横切るまで待ちましょう",
+"distractor1":"それらをゆっくりと迂回してください",
+"distractor2":"クラクションを鳴らして急がせよう"
+},
+{
+"id": 328,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点の歩行者",
+"question":"曲がる前に歩道を確認する必要があるのはなぜですか?",
+"answer":"歩行者が横断しようとしているかもしれません",
+"distractor1":"交通標識は歩道にのみ設置されている。",
+"distractor2":"ウインカーを出さずに曲がることができます"
+},
+{
+"id": 329,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点の歩行者",
+"question":"交差点で子供や高齢の歩行者の近くにいる場合、どのような対策を講じる必要がありますか?",
+"answer":"スピードを落とし、停止する準備をしてください。",
+"distractor1":"彼らがより速く動くことを期待してください",
+"distractor2":"彼らに見えるように近くを運転してください"
+},
+{
+"id": 330,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点の歩行者",
+"question":"歩道を通って私道から道路に出る場合、誰に道を譲らなければならないのでしょうか?",
+"answer":"歩行者およびその他の道路利用者",
+"distractor1":"道路上の車両のみ",
+"distractor2":"右側から歩いてくる歩行者のみ"
+},
+{
+"id": 331,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"右折",
+"question":"右折する前に、何をすべきですか?",
+"answer":"合図を出し、正しい位置にとどまり、必要な場所で道を譲る。",
+"distractor1":"まず左に動く",
+"distractor2":"安全であれば、合図なしで曲がってください。"
+},
+{
+"id": 332,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"右折",
+"question":"対向車線を横切って右折する場合、何をしなければなりませんか?",
+"answer":"直進または左折してくる対向車に道を譲ってください。",
+"distractor1":"対向車が停止する可能性がある",
+"distractor2":"大型車両にのみ道を譲る"
+},
+{
+"id": 333,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"右折",
+"question":"右折する前に視界がはっきりしない場合は、どうすればよいですか?",
+"answer":"安全な間隔が確保され、視界が開けるまで待ちましょう。",
+"distractor1":"交通が到着する前に素早く方向転換してください。",
+"distractor2":"前方の車両を確認せずに追従する"
+},
+{
+"id": 334,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"右折",
+"question":"双方向道路で右折する際、車両はどこに停車させるべきですか?",
+"answer":"道路の中心にできるだけ近い場所",
+"distractor1":"できるだけ左へ",
+"distractor2":"両車線にわたって"
+},
+{
+"id": 335,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"右折",
+"question":"右折を開始した後、注意すべき点は何ですか?",
+"answer":"あなたが進入する道路を横断する歩行者と自転車",
+"distractor1":"後方の車両のみ",
+"distractor2":"あなたが去る道路には駐車車両しかありません"
+},
+{
+"id": 336,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"左折",
+"question":"左折する前に、何をすべきですか?",
+"answer":"合図を出し、ミラーと死角を確認し、必要な場所で道を譲る。",
+"distractor1":"いずれの場合も、まずは右方向へ移動してください。",
+"distractor2":"自転車を確認せずに曲がる"
+},
+{
+"id": 337,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"左折",
+"question":"左折する前に誰を確認すべきですか?",
+"answer":"歩行者、自転車、車両があなたのそばにいます",
+"distractor1":"後ろには交通渋滞だけ",
+"distractor2":"対向車のみ"
+},
+{
+"id": 338,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"左折",
+"question":"左折する際、一般的に車両はどの位置に停車させるべきですか?",
+"answer":"道路の左側にできるだけ近い位置",
+"distractor1":"右車線",
+"distractor2":"センターラインを越えて"
+},
+{
+"id": 339,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"左折",
+"question":"左折前に自転車が横にいたら、どうすればいいでしょうか?",
+"answer":"自転車に道を譲るか、安全になるまで待つ。",
+"distractor1":"彼らの進路を横切る",
+"distractor2":"クラクションを鳴らして方向転換"
+},
+{
+"id": 340,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"左折",
+"question":"歩行者が横断している道路に左折する場合、どうすればよいですか?",
+"answer":"歩行者に道を譲ってください",
+"distractor1":"彼らがあなたの車線に到達する前に曲がってください。",
+"distractor2":"それらをゆっくりと迂回してください"
+},
+{
+"id": 341,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"ロータリー交差点の危険性",
+"question":"ロータリー交差点でよくある危険は何ですか?",
+"answer":"道を譲らずに進入するドライバー",
+"distractor1":"交通の流れがいつも遅すぎる",
+"distractor2":"ロータリー内では歩行者が優先されます"
+},
+{
+"id": 342,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"ロータリー交差点の危険性",
+"question":"なぜロータリー交差点では車両の方向指示器を注意深く見るべきなのでしょうか?",
+"answer":"運転手が合図を間違えたり、合図をしなかったりする可能性がある",
+"distractor1":"指標は常に正確な意図を示す",
+"distractor2":"インジケーターが道を譲る必要性をなくす"
+},
+{
+"id": 343,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"ロータリー交差点の危険性",
+"question":"ロータリー交差点で大型車両の近くを通る際は、どうすればよいですか?",
+"answer":"彼らにはもっとスペースが必要かもしれないので、余分なスペースを与えてあげてください。",
+"distractor1":"ロータリー内で追い越す",
+"distractor2":"彼らのすぐそばを運転する"
+},
+{
+"id": 344,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"ロータリー交差点の危険性",
+"question":"なぜロータリー交差点の手前で減速する必要があるのでしょうか?",
+"answer":"交通状況を確認し、安全に道を譲る",
+"distractor1":"あらゆる場合において停止する",
+"distractor2":"後続車が追い越せるようにするため"
+},
+{
+"id": 345,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"ロータリー交差点の危険性",
+"question":"ロータリー交差点から出る際に注意すべき点は何ですか?",
+"answer":"出口付近には歩行者、自転車、車両がいます。",
+"distractor1":"後ろから進入する車両のみ",
+"distractor2":"向こう側だけが交通量が多い"
+},
+{
+"id": 346,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点の一般的な安全対策",
+"question":"交差点に近づく際、どのような行動をとるべきでしょうか?",
+"answer":"速度を落とし、周囲を確認し、必要に応じて道を譲る準備をしてください。",
+"distractor1":"加速して素早くクリアする",
+"distractor2":"信号機だけを見てください"
+},
+{
+"id": 347,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点の一般的な安全対策",
+"question":"交差点で両方向を確認する必要があるのはなぜですか?",
+"answer":"車両、自転車、歩行者はどちら側からでも接近できます。",
+"distractor1":"右側通行のみが重要",
+"distractor2":"標識を無視できる"
+},
+{
+"id": 348,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点の一般的な安全対策",
+"question":"交差点で他のドライバーが迷っているように見えたら、どうすればいいでしょうか?",
+"answer":"速度を落とし、道を譲るか停止する準備をしてください",
+"distractor1":"力ずくで突破する",
+"distractor2":"角笛を鳴らし続ける"
+},
+{
+"id": 349,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点の一般的な安全対策",
+"question":"交差点で停止状態から発進する前に、何をすべきでしょうか?",
+"answer":"交差点に障害物がなく、安全に進行できることを確認してください。",
+"distractor1":"前方の車両が動き出したらすぐに動く",
+"distractor2":"ダッシュボードだけを見てください"
+},
+{
+"id": 350,
+"englishName":"Quiz",
+"category":"交差点、曲がり角、ロータリー",
+"subcategory":"交差点の一般的な安全対策",
+"question":"あらゆる交差点で安全に過ごせる習慣とは何でしょうか?",
+"answer":"危険を予測し、停止する準備をしてください。",
+"distractor1":"他のドライバーは常に道を譲ると仮定する",
+"distractor2":"ためらわずに素早く入場してください"
+},
+{
+"id": 351,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線表示",
+"question":"途切れた車線線は何を意味しますか?",
+"answer":"車線変更が安全な状況になったら渡って構いません。",
+"distractor1":"決してそれを越えてはならない",
+"distractor2":"確認せずに渡っても構いません"
+},
+{
+"id": 352,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線表示",
+"question":"途切れていない車線線は通常、何を意味しますか?",
+"answer":"許可されている場合や必要な場合を除き、そこを横断してはいけません。",
+"distractor1":"いつでも渡ることができます",
+"distractor2":"これは駐車レーンを示すだけです"
+},
+{
+"id": 353,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線表示",
+"question":"車線標識の矢印はドライバーに何を伝えているのでしょうか?",
+"answer":"その車線の車両が進むべき方向",
+"distractor1":"車線における最も安全な速度",
+"distractor2":"駐車が許可されている場所"
+},
+{
+"id": 354,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線表示",
+"question":"塗装された交通島は何を示しているのでしょうか?",
+"answer":"許可されている場合または必要な場合を除き、その上を車で走行してはならない。",
+"distractor1":"追い越し車線です",
+"distractor2":"ここは荷積み場です"
+},
+{
+"id": 355,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線表示",
+"question":"道路標識を越える前に、何をすべきですか?",
+"answer":"横断が許可されており、安全であることを確認してください。",
+"distractor1":"先に渡ってから確認する",
+"distractor2":"クラクションを鳴らして進んでください"
+},
+{
+"id": 356,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線使用",
+"question":"車線矢印が指示された方向を示している場合、何をすべきですか?",
+"answer":"自分の車線を示す矢印に従ってください。",
+"distractor1":"安全であれば、どの方向でも構いません。",
+"distractor2":"隣の車両についていく"
+},
+{
+"id": 357,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線使用",
+"question":"曲がる際に、正しい車線を選ぶべきタイミングはいつですか?",
+"answer":"交差点や曲がり角に到達する前に",
+"distractor1":"交差点に入った後",
+"distractor2":"信号が青に変わったときだけ"
+},
+{
+"id": 358,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線使用",
+"question":"間違った車線を走ってしまった場合はどうすれば良いでしょうか?",
+"answer":"安全に進み、必要に応じて後で方向転換してください。",
+"distractor1":"すぐに車線を横切ってください",
+"distractor2":"交通がなくなるまで車線内で停止してください"
+},
+{
+"id": 359,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線使用",
+"question":"複数車線の道路で車線変更をする前に、何をすべきですか?",
+"answer":"ミラーと死角を確認し、ウィンカーを出し、安全が確認できた時のみ発進する。",
+"distractor1":"移動後の信号",
+"distractor2":"わずかな隙間があれば移動する"
+},
+{
+"id": 360,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線使用",
+"question":"なぜ車線変更を避けるべきなのでしょうか?",
+"answer":"衝突リスクを高め、他者の反応時間を短くする。",
+"distractor1":"交通の流れを改善します",
+"distractor2":"交通量の多い場所では必須です"
+},
+{
+"id": 361,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"追い越しルール",
+"question":"どのような場合に他の車両を追い越すことができますか?",
+"answer":"合法で安全で、視界が良好な場合に限ります。",
+"distractor1":"より速く移動するたびに",
+"distractor2":"他のドライバーが合図を出したときのみ"
+},
+{
+"id": 362,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"追い越しルール",
+"question":"追い越しをしてはいけないのはどんな時ですか?",
+"answer":"道路標識や視界不良により危険または違法となる場合",
+"distractor1":"道がまっすぐな時だけ",
+"distractor2":"交通量が少ない時のみ"
+},
+{
+"id": 363,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"追い越しルール",
+"question":"追い越し時に制限速度を超えることはできますか?",
+"answer":"いいえ、制限速度を守ってください",
+"distractor1":"はい、短期間ですが",
+"distractor2":"はい、道路が空いていれば"
+},
+{
+"id": 364,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"追い越しルール",
+"question":"自転車を追い越す際、何をすべきですか?",
+"answer":"安全な追い越し距離を保つ",
+"distractor1":"できるだけ近くを通過する",
+"distractor2":"クラクションを鳴らして左へ追い出せ"
+},
+{
+"id": 365,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"追い越しルール",
+"question":"追い越し後には何をすべきですか?",
+"answer":"安全が確認できた場合にのみ、元の車線に戻ってください。",
+"distractor1":"すぐに減らす",
+"distractor2":"車両の前で急ブレーキをかける"
+},
+{
+"id": 366,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"マージ",
+"question":"一方の車線が終わり、車両が合流しなければならない場合、誰が道を譲るのでしょうか?",
+"answer":"最終車線のドライバーは、継続車線の車両に道を譲る。",
+"distractor1":"継続車線は常に道を譲らなければならない",
+"distractor2":"速い方の車両が先に進む"
+},
+{
+"id": 367,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"マージ",
+"question":"合併前に何をすべきですか?",
+"answer":"合図を出し、ミラーと死角を確認し、安全に合流する。",
+"distractor1":"隙間に無理やり入り込む",
+"distractor2":"合流車線で急停車する"
+},
+{
+"id": 368,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"マージ",
+"question":"車線表示がない状態で2つの車線が合流する場合、どちらが道を譲るべきでしょうか?",
+"answer":"後続車が前続車に道を譲る",
+"distractor1":"左側の車両は常に道を譲る",
+"distractor2":"小型車両が道を譲る"
+},
+{
+"id": 369,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"マージ",
+"question":"安全な場所で合流する際に、なぜ交通速度を合わせるべきなのでしょうか?",
+"answer":"スムーズに交通の流れに合流するのに役立ちます",
+"distractor1":"優先権ルールを無視できる",
+"distractor2":"制限速度を超えることができます"
+},
+{
+"id": 370,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"マージ",
+"question":"安全に合流できる隙間がない場合はどうすればよいですか?",
+"answer":"安全な間隔が現れるまで待つか、速度を調整してください。",
+"distractor1":"ゆっくりと車線に入ってください",
+"distractor2":"クラクションを鳴らして入場"
+},
+{
+"id": 371,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"専用レーン",
+"question":"バス専用レーンを走行する前に、何をしなければならないのですか?",
+"answer":"標識を確認して、あなたの車が許可されているかどうかを確認してください。",
+"distractor1":"交通渋滞時に使用してください",
+"distractor2":"右折する場合のみ使用してください。"
+},
+{
+"id": 372,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"専用レーン",
+"question":"自転車専用レーンは主に何のためにあるのですか?",
+"answer":"自転車に乗る人",
+"distractor1":"いつでも駐車車両",
+"distractor2":"遅い車を追い越す"
+},
+{
+"id": 373,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"専用レーン",
+"question":"専用レーンにはいつ進入できますか?",
+"answer":"標識や規則で許可されている場合のみ",
+"distractor1":"空っぽの時はいつでも",
+"distractor2":"交通渋滞が発生するたびに"
+},
+{
+"id": 374,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"専用レーン",
+"question":"自転車専用レーンを横断する前に、なぜ自転車がいないか確認しなければならないのですか?",
+"answer":"自転車が車線を走行している可能性があります",
+"distractor1":"自転車は車のために必ず停止しなければならない",
+"distractor2":"自転車レーンは単なる装飾に過ぎない"
+},
+{
+"id": 375,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"専用レーン",
+"question":"標識に特定の車両専用レーンと表示されている場合、どうすればよいですか?",
+"answer":"車両が許可されている場合のみ使用してください。",
+"distractor1":"急いでいる時に使ってください",
+"distractor2":"警察が近くにいないときに使用してください"
+},
+{
+"id": 376,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"左側通行",
+"question":"複数車線の道路では、追い越し時以外はいつ左側を走行すべきですか?",
+"answer":"標識で指示されている場合、または制限速度が80km/hを超える場合",
+"distractor1":"日中のみ",
+"distractor2":"交通が停止している時のみ"
+},
+{
+"id": 377,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"左側通行",
+"question":"複数車線の道路で、右車線を使用できるのはどのような場合ですか?",
+"answer":"追い越し、右折、障害物回避、または許可されている場合",
+"distractor1":"常に",
+"distractor2":"ゆっくり運転するためだけに"
+},
+{
+"id": 378,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"左側通行",
+"question":"左側通行が重要な理由は何ですか?",
+"answer":"交通の流れをスムーズにし、追い越しや右折のために右車線を確保します。",
+"distractor1":"ドライバーが車線標識を無視できるようにする",
+"distractor2":"速度制限は任意となる"
+},
+{
+"id": 379,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"左側通行",
+"question":"複数車線の道路で追い越しをした後、どうすべきでしょうか?",
+"answer":"安全かつ必要であれば、左車線に戻ってください。",
+"distractor1":"右車線をずっと走行してください",
+"distractor2":"右車線で停止してください"
+},
+{
+"id": 380,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"左側通行",
+"question":"「左側通行」の標識が表示されている場合は、どうすればよいですか?",
+"answer":"標識の左側を通ります",
+"distractor1":"標識のところで止まってください",
+"distractor2":"安全であれば右へ通過してください"
+},
+{
+"id": 381,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線変更",
+"question":"車線変更をする前に何をすべきですか?",
+"answer":"ミラーを確認し、死角を確認し、ウィンカーを出し、安全が確認できた時のみ発進する。",
+"distractor1":"車線変更後に合図を出す",
+"distractor2":"素早く動けば、他の人は減速せざるを得ない"
+},
+{
+"id": 382,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線変更",
+"question":"車線変更時に道を譲らなければならないのは誰ですか?",
+"answer":"車線変更するドライバー",
+"distractor1":"運転手はすでに車線内にいる",
+"distractor2":"より速いドライバー"
+},
+{
+"id": 383,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線変更",
+"question":"車線変更前に後方確認が必要なのはなぜですか?",
+"answer":"車両の横の死角を確認する",
+"distractor1":"鏡の使用を避けるため",
+"distractor2":"燃料計を確認するには"
+},
+{
+"id": 384,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線変更",
+"question":"死角に他の車両がいる場合、どうすればよいですか?",
+"answer":"安全が確認できるまで車線変更を待ってください。",
+"distractor1":"とにかくゆっくり進んでください",
+"distractor2":"角笛を鳴らして彼らを追い払え"
+},
+{
+"id": 385,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"車線変更",
+"question":"車線変更はどのように行うべきですか?",
+"answer":"他の道路利用者の邪魔をすることなくスムーズに",
+"distractor1":"急にスペースを確保する",
+"distractor2":"交通量が少ない場合は合図なしで"
+},
+{
+"id": 386,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"追い越し時の安全性",
+"question":"追い越しをする前に確認すべきことは何ですか?",
+"answer":"前方の道路が空いており、追い越しが許可されていること",
+"distractor1":"ただ、あなたの車の方が速いだけです。",
+"distractor2":"ただ、前のドライバーが遅いだけです"
+},
+{
+"id": 387,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"追い越し時の安全性",
+"question":"なぜ丘の頂上付近やカーブ付近での追い越しを避けるべきなのでしょうか?",
+"answer":"対向車や危険物が見えにくい場合があります。",
+"distractor1":"道路が広くなる",
+"distractor2":"視認性が向上します"
+},
+{
+"id": 388,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"追い越し時の安全性",
+"question":"追い越し操作が危険な状況になった場合、どうすべきでしょうか?",
+"answer":"後退して安全な位置に戻る",
+"distractor1":"限界を超えて加速する",
+"distractor2":"他のドライバーに減速を強要する"
+},
+{
+"id": 389,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"追い越し時の安全性",
+"question":"追い越しをする際に十分な車間距離を空けなければならないのはなぜですか?",
+"answer":"側面衝突を回避し、安全に車線に戻るために",
+"distractor1":"後方の車両を停止させる",
+"distractor2":"相手のドライバーにブレーキをかけさせる"
+},
+{
+"id": 390,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"追い越し時の安全性",
+"question":"追い越されそうになった時、どうすべきでしょうか?",
+"answer":"安全な場所では左側通行をし、スピードを上げないでください",
+"distractor1":"追い越しを防ぐためにスピードを上げる",
+"distractor2":"右に移動して車両をブロックする"
+},
+{
+"id": 391,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"一般的な車線安全",
+"question":"なぜ自分の車線を中央に維持すべきなのでしょうか?",
+"answer":"車両や路上の危険物から安全な距離を保つため",
+"distractor1":"車線変更を不要にする",
+"distractor2":"他人が鏡を使うのを防ぐため"
+},
+{
+"id": 392,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"一般的な車線安全",
+"question":"車線表示が薄れていたり、不明瞭な場合はどうすればよいですか?",
+"answer":"慎重に運転し、道路のレイアウトを参考にしてください。",
+"distractor1":"車線規律を無視する",
+"distractor2":"2車線の中央を走行する"
+},
+{
+"id": 393,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"一般的な車線安全",
+"question":"なぜ他車の死角に入る運転を避けるべきなのでしょうか?",
+"answer":"運転手はあなたに気づかず、あなたの車線に進入してくる可能性があります。",
+"distractor1":"優先権が与えられます",
+"distractor2":"停止距離が短縮されます"
+},
+{
+"id": 394,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"一般的な車線安全",
+"question":"自分の車線が前方に塞がれている場合、どうすればよいですか?",
+"answer":"減速し、合図を出し、安全な場合にのみ車線変更を行ってください。",
+"distractor1":"すぐにハンドルを切る",
+"distractor2":"障害物を乗り越えて走行する"
+},
+{
+"id": 395,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"一般的な車線安全",
+"question":"他のドライバーがあなたの車線変更を理解するのに役立つものは何ですか?",
+"answer":"車線変更や右左折の前に明確な合図を出す",
+"distractor1":"急な動き",
+"distractor2":"方向指示器を出さずに運転する"
+},
+{
+"id": 396,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"一般的な車線安全",
+"question":"車線が狭くなった場合、どうすればよいですか?",
+"answer":"速度を落とし、周囲の車両との安全な車間距離を保ってください。",
+"distractor1":"スピードを上げて最初に追い越す",
+"distractor2":"両車線を部分的に走行する"
+},
+{
+"id": 397,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"一般的な車線安全",
+"question":"なぜ車線標識を早めに確認すべきなのでしょうか?",
+"answer":"急な変更なしに正しい車線を選択する",
+"distractor1":"車線矢印を無視する",
+"distractor2":"最後の瞬間まで信号送信を遅らせる"
+},
+{
+"id": 398,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"一般的な車線安全",
+"question":"大型車両が車線変更する際、どのような行動をとるべきでしょうか?",
+"answer":"彼らに十分なスペースを与え、死角を避けてください。",
+"distractor1":"彼らのすぐそばに移動してください",
+"distractor2":"左右どちら側でもすぐに追い越す"
+},
+{
+"id": 399,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"一般的な車線安全",
+"question":"他のドライバーが自分の車線に割り込んできた場合、安全に対処できる方法は何ですか?",
+"answer":"速度を落とし、安全な車間距離を回復する",
+"distractor1":"加速してブロックする",
+"distractor2":"イライラを示すためにテールゲート"
+},
+{
+"id": 400,
+"englishName":"Quiz",
+"category":"道路標示、車線、追い越し",
+"subcategory":"一般的な車線安全",
+"question":"車線規律を守るための最も安全な方法は?",
+"answer":"正しい車線を使用し、早めに合図を出し、安全が確認できた時のみ発進してください。",
+"distractor1":"時間を節約するために、頻繁に車線変更をしましょう",
+"distractor2":"他のドライバーがあなたを避けることを期待する"
+},
+{
+"id": 401,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"停車 vs 駐車",
+"question":"停車と駐車の違いは何ですか?",
+"answer":"駐車とは一般的に、すぐに送迎する必要がある場合よりも長く車両を停車させておくことを意味する。",
+"distractor1":"停車と駐車は常に同じ意味です",
+"distractor2":"駐車は夜間のみ有効です"
+},
+{
+"id": 402,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"停車 vs 駐車",
+"question":"駐車せずに短時間停車できるのはどのような場合ですか?",
+"answer":"交通状況に応じて必要な場合、または許可されている場合は即時の乗降",
+"distractor1":"場所を問わず、時間も問わない",
+"distractor2":"荷積み区域のみ"
+},
+{
+"id": 403,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"停車 vs 駐車",
+"question":"交通量の多い道路で不必要な停車を避けるべき理由とは?",
+"answer":"交通を妨げ、危険を生じさせる可能性がある",
+"distractor1":"交通の流れを改善します",
+"distractor2":"他の人が追い越しやすくなる"
+},
+{
+"id": 404,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"停車 vs 駐車",
+"question":"路肩に停車する前に、何をすべきでしょうか?",
+"answer":"ミラーを確認し、合図を出し、安全に停止してください。",
+"distractor1":"警告なしに急ブレーキをかける",
+"distractor2":"すぐに車線内で停止してください"
+},
+{
+"id": 405,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"停車 vs 駐車",
+"question":"車を駐車した後は、何をすべきですか?",
+"answer":"車両を固定し、危険が生じないようにしてください。",
+"distractor1":"ギアを入れたままエンジンをかけたままにしておく",
+"distractor2":"視界を確保するためにドアを開けておく"
+},
+{
+"id": 406,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"停車禁止区域",
+"question":"「停止禁止」の標識は何を意味しますか?",
+"answer":"緊急時以外はそこで止まってはならない",
+"distractor1":"乗客を乗せるために短時間停車しても構いません",
+"distractor2":"最大2分間駐車できます"
+},
+{
+"id": 407,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"停車禁止区域",
+"question":"なぜ停車禁止区域が設けられているのですか?",
+"answer":"交通の流れを維持し、安全性を向上させるため",
+"distractor1":"追加の駐車スペースを作るため",
+"distractor2":"自家用車用のエリアを確保する"
+},
+{
+"id": 408,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"停車禁止区域",
+"question":"駐停車禁止区域で電話に出るために停車してもいいですか?",
+"answer":"いいえ、本当に緊急事態でない限りは。",
+"distractor1":"はい、短い通話なら",
+"distractor2":"はい、ハザードランプが点灯している場合"
+},
+{
+"id": 409,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"停車禁止区域",
+"question":"駐車禁止区域付近で交通渋滞が発生した場合、どうすればよいですか?",
+"answer":"交通状況により停止が必要な場合を除き、前進を続けてください。",
+"distractor1":"標識の横に一時的に駐車してください",
+"distractor2":"そこで停車して交通が途切れるのを待つ"
+},
+{
+"id": 410,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"停車禁止区域",
+"question":"違法停車を避けるための最も安全な方法は何ですか?",
+"answer":"事前に計画を立て、標識や規則で許可されている場所でのみ停車する。",
+"distractor1":"停車する場所では必ずハザードランプを使用してください。",
+"distractor2":"交通量が少ないと思ったら止まってください"
+},
+{
+"id": 411,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"駐車禁止区域",
+"question":"「駐車禁止」の標識は、一般的にどのような駐車を許可しているのでしょうか?",
+"answer":"許可されている場合は、短時間停車してすぐにピックアップまたはドロップオフを行う。",
+"distractor1":"長時間駐車",
+"distractor2":"いかなる目的であれ停止する"
+},
+{
+"id": 412,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"駐車禁止区域",
+"question":"駐車禁止区域に車を放置してもいいですか?",
+"answer":"いいえ",
+"distractor1":"はい、もし5分間だけなら。",
+"distractor2":"はい、ハザードランプが点灯している場合"
+},
+{
+"id": 413,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"駐車禁止区域",
+"question":"駐車禁止区域で乗客を降ろす場合はどうすればよいでしょうか?",
+"answer":"車両のそばに留まり、速やかに出発してください。",
+"distractor1":"車両を無人で放置する",
+"distractor2":"交通が途切れるまでそこで待っていてください。"
+},
+{
+"id": 414,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"駐車禁止区域",
+"question":"駐車禁止区域が重要な理由とは?",
+"answer":"交通の流れをスムーズにし、安全性を向上させる。",
+"distractor1":"駐車機会が増える",
+"distractor2":"彼らは自転車専用道路を確保している"
+},
+{
+"id": 415,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"駐車禁止区域",
+"question":"標識のある区域で停車する前に、何をチェックすべきでしょうか?",
+"answer":"標識に表示されている制限事項",
+"distractor1":"道路の幅だけ",
+"distractor2":"近くに駐車している車両のみ"
+},
+{
+"id": 416,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"クリアウェイ",
+"question":"クリアウェイは何のために使われるのですか?",
+"answer":"指定された時間帯に車線を空けて交通を確保する",
+"distractor1":"終日駐車可能",
+"distractor2":"荷積みゾーンの作成"
+},
+{
+"id": 417,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"クリアウェイ",
+"question":"運行時間中に、通行可能な場所に停車できますか?",
+"answer":"いいえ、緊急時を除いて",
+"distractor1":"はい、乗客を素早く降ろすため",
+"distractor2":"はい、交通量が少ない場合"
+},
+{
+"id": 418,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"クリアウェイ",
+"question":"駐車禁止区域に違法に停車した車両には、どのようなことが起こる可能性がありますか?",
+"answer":"罰金を科せられたり、レッカー移動されたりする可能性がある。",
+"distractor1":"ハザードランプを使用しても何も起こりません",
+"distractor2":"それらは自動的に積載車両となる"
+},
+{
+"id": 419,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"クリアウェイ",
+"question":"通行止め区域の運用時間を注意深く確認する必要があるのはなぜですか?",
+"answer":"制限は表示されている時間帯のみ適用されます。",
+"distractor1":"クリアウェイは常に終日稼働しています",
+"distractor2":"通行禁止区域はトラックのみに適用されます"
+},
+{
+"id": 420,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"クリアウェイ",
+"question":"駐車禁止区域の近くで停車する必要がある場合は、どうすればよいですか?",
+"answer":"制限区域外の合法的な停車場所を探してください。",
+"distractor1":"クリアウェイで少し停車してください",
+"distractor2":"自転車専用レーンを利用してください"
+},
+{
+"id": 421,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"バス停とバスゾーン",
+"question":"なぜ運転手はバス停留所での停車を避けなければならないのですか?",
+"answer":"バスには乗客の安全な乗降手段が必要です",
+"distractor1":"バス専用レーンは緊急車両専用レーンです。",
+"distractor2":"そこではバスのみが追い越しを許可されている。"
+},
+{
+"id": 422,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"バス停とバスゾーン",
+"question":"バス停付近ではどのような点に注意すべきでしょうか?",
+"answer":"歩行者が横断し、バスが交通に復帰する",
+"distractor1":"駐輪された自転車のみ",
+"distractor2":"タクシーのみ"
+},
+{
+"id": 423,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"バス停とバスゾーン",
+"question":"バス停留所に駐車できますか?",
+"answer":"いいえ、標識で特に許可されている場合を除きます。",
+"distractor1":"はい、ピーク時間帯以外であれば標識を確認せずに",
+"distractor2":"はい、最大10分間"
+},
+{
+"id": 424,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"バス停とバスゾーン",
+"question":"バスが停留所から出発する合図を出したとき、どうすればよいですか?",
+"answer":"必要に応じて道を譲る準備をしてください。",
+"distractor1":"すぐに加速する",
+"distractor2":"バスのすぐ横を走る"
+},
+{
+"id": 425,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"バス停とバスゾーン",
+"question":"乗客のために停車しているバスの近くでは、なぜ速度を落とす必要があるのでしょうか?",
+"answer":"歩行者は予期せず道路に飛び出すことがある",
+"distractor1":"バスは方向指示器を使用できません",
+"distractor2":"そこでは速度制限は適用されません"
+},
+{
+"id": 426,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"車道と交差点",
+"question":"なぜ私道に駐車してはいけないのですか?",
+"answer":"車両の出入りを遮断します",
+"distractor1":"視認性が向上します",
+"distractor2":"駐車スペースが増える"
+},
+{
+"id": 427,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"車道と交差点",
+"question":"交差点付近で駐車規制が設けられているのはなぜですか?",
+"answer":"視認性と安全性を向上させるため",
+"distractor1":"より迅速な駐車を可能にするため",
+"distractor2":"配達専用のスペースを確保する"
+},
+{
+"id": 428,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"車道と交差点",
+"question":"交差点に近すぎる場所に駐車すると、どのようなことが起こる可能性がありますか?",
+"answer":"運転手や歩行者の視界を遮る可能性があります。",
+"distractor1":"信号機が作動しなくなる可能性があります",
+"distractor2":"道路標識が消える"
+},
+{
+"id": 429,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"車道と交差点",
+"question":"角付近に駐車する前に確認すべきことは何ですか?",
+"answer":"車両が合法的に配置されており、視界を妨げていないこと",
+"distractor1":"他の車が近くにいるかどうかのみ",
+"distractor2":"縁石が塗装されているかどうかのみ"
+},
+{
+"id": 430,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"車道と交差点",
+"question":"歩行者横断歩道付近での停車を避けるべき理由とは?",
+"answer":"視界を遮り、歩行者にとって危険となる可能性がある。",
+"distractor1":"横断歩道は自転車専用です",
+"distractor2":"交通の流れを改善します"
+},
+{
+"id": 431,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"荷積みエリア",
+"question":"荷積みエリアは主に何のために設けられていますか?",
+"answer":"許可された場所で貨物を積み下ろしする車両",
+"distractor1":"一般長期駐車場",
+"distractor2":"緊急車両専用"
+},
+{
+"id": 432,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"荷積みエリア",
+"question":"荷積みゾーンを使用する前に確認すべきことは何ですか?",
+"answer":"誰がどのくらいの時間使用できるかを示す標識",
+"distractor1":"縁石の色だけ",
+"distractor2":"近くに駐車している車両のみ"
+},
+{
+"id": 433,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"荷積みエリア",
+"question":"運転手は荷積みエリアを通常の駐車スペースとして利用できますか?",
+"answer":"いいえ、標識が許可しない限り",
+"distractor1":"はい、ゾーンが空の場合",
+"distractor2":"はい、週末のみ"
+},
+{
+"id": 434,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"荷積みエリア",
+"question":"なぜ荷積み場は空けておくべきなのか?",
+"answer":"商用車や許可車両は迅速なアクセスが必要になる場合があります",
+"distractor1":"それらは歩行者専用です",
+"distractor2":"追い越しの機会が増える"
+},
+{
+"id": 435,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"荷積みエリア",
+"question":"荷積み・荷降ろしゾーンで荷積みまたは荷降ろしを行った後は、何をすべきですか?",
+"answer":"速やかに車両を移動してください",
+"distractor1":"利便性を考慮して駐車したままにしておく",
+"distractor2":"そこで乗客をお待ちください"
+},
+{
+"id": 436,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"駐車位置",
+"question":"縁石の横に駐車するにはどうすれば良いですか?",
+"answer":"縁石にできるだけ近く、平行に",
+"distractor1":"交通の流れに対して斜めに",
+"distractor2":"視界を確保するため、縁石から十分に離れている。"
+},
+{
+"id": 437,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"駐車位置",
+"question":"正しい駐車位置が重要なのはなぜですか?",
+"answer":"交通の妨げを回避し、安全性を向上させるのに役立ちます",
+"distractor1":"速度制限が引き上げられる",
+"distractor2":"鏡の必要性を減らす"
+},
+{
+"id": 438,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"駐車位置",
+"question":"駐車後、車のドアを開ける前に何をすべきですか?",
+"answer":"自転車、歩行者、交通状況を確認してください。",
+"distractor1":"確認せずに素早くドアを開ける",
+"distractor2":"チェックランプの代わりにハザードランプを使用する"
+},
+{
+"id": 439,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"駐車位置",
+"question":"上り坂や下り坂に駐車する場合、どのような点を考慮すべきでしょうか?",
+"answer":"車両が転がらないように固定する",
+"distractor1":"エンジンをかけたまま",
+"distractor2":"2台分の駐車スペースにまたがって駐車する"
+},
+{
+"id": 440,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"駐車位置",
+"question":"夜間に駐車した後はどうすれば良いでしょうか?",
+"answer":"必要に応じて、車両が安全な場所に駐車され、視認できることを確認してください。",
+"distractor1":"ハイビームを点灯したままにする",
+"distractor2":"いずれの場合も、交通に逆らって駐車してください。"
+},
+{
+"id": 441,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"緊急停止",
+"question":"緊急時において、制限区域内で停車できるのはどのような場合ですか?",
+"answer":"危険を回避するため、または緊急事態に対応するために必要な場合",
+"distractor1":"遅刻しそうな時はいつでも",
+"distractor2":"交通量が多いときはいつでも"
+},
+{
+"id": 442,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"緊急停止",
+"question":"車が故障した場合、どうすればよいですか?",
+"answer":"可能であれば安全な場所に移動させ、他の道路利用者に警告する。",
+"distractor1":"車線内に放置してください",
+"distractor2":"交通渋滞時はその後ろに立ってください"
+},
+{
+"id": 443,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"緊急停止",
+"question":"ハザードランプはなぜ慎重に使用する必要があるのでしょうか?",
+"answer":"彼らは他のドライバーに危険や停車中の車両を警告する",
+"distractor1":"どこにでも駐車できます",
+"distractor2":"ブレーキランプを交換する"
+},
+{
+"id": 444,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"緊急停止",
+"question":"緊急時に停車できる最も安全な場所はどこですか?",
+"answer":"道路から外れて、交通量の多い場所から離れた",
+"distractor1":"中央車線で",
+"distractor2":"交差点のすぐ手前"
+},
+{
+"id": 445,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"緊急停止",
+"question":"緊急停止中に視界が悪くなった場合はどうすればよいですか?",
+"answer":"ハザードランプを使用し、交通に注意を促すために特に注意を払ってください。",
+"distractor1":"すべての照明を消してください",
+"distractor2":"交通渋滞の中に立ち、車を通すように手を振る"
+},
+{
+"id": 446,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"一般的な駐車規則",
+"question":"駐車する前に必ず確認すべきことは何ですか?",
+"answer":"標識、路面標示、および地域の駐車規制",
+"distractor1":"道路が静かかどうかだけ",
+"distractor2":"他の車両が近くに駐車されているかどうかのみ"
+},
+{
+"id": 447,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"一般的な駐車規則",
+"question":"視界の悪い場所に駐車することを避けるべき理由とは?",
+"answer":"あなたの車両は他の道路利用者に危険をもたらす可能性があります",
+"distractor1":"追い越しの機会が増える",
+"distractor2":"交通の流れを速めるのに役立ちます"
+},
+{
+"id": 448,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"一般的な駐車規則",
+"question":"駐車が許可されているかどうか不明な場合は、どうすればよいですか?",
+"answer":"別の合法的な駐車場所を探す",
+"distractor1":"短時間駐車して、許可されることを願う",
+"distractor2":"ハザードランプを点灯し、車から離れてください。"
+},
+{
+"id": 449,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"一般的な駐車規則",
+"question":"駐車した車両から離れる前に、何をすべきですか?",
+"answer":"パーキングブレーキをかけて車両を固定する",
+"distractor1":"エンジンをかけたままにしておく",
+"distractor2":"ブレーキをかけずに車両をニュートラルに入れたままにする"
+},
+{
+"id": 450,
+"englishName":"Quiz",
+"category":"停車、駐車、および路側規則",
+"subcategory":"一般的な駐車規則",
+"question":"合法的な駐車が重要なのはなぜですか?",
+"answer":"安全性、アクセス性、交通の流れが改善されます",
+"distractor1":"付近の制限速度が引き上げられる",
+"distractor2":"道路標識が不要になる"
+},
+{
+"id": 451,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"歩行者優先",
+"question":"交差点で曲がる際、運転手は誰に道を譲らなければならないのか?",
+"answer":"歩行者が、運転手が進入しようとしている道路を横断している。",
+"distractor1":"信号機には歩行者のみ",
+"distractor2":"左側から歩いてくる歩行者のみ"
+},
+{
+"id": 452,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"歩行者優先",
+"question":"横断歩道に近づくときは、どうすればよいですか?",
+"answer":"スピードを落とし、停止する準備をしてください",
+"distractor1":"交差点を素早く通過するために加速してください",
+"distractor2":"歩行者に警告するためにクラクションを鳴らしてください"
+},
+{
+"id": 453,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"歩行者優先",
+"question":"ドライバーはなぜ交差点付近の歩道に注意を払うべきなのでしょうか?",
+"answer":"歩行者は予期せず道路に飛び出すことがある",
+"distractor1":"交通標識は歩道にのみ設置されています",
+"distractor2":"歩道は車線の一部である"
+},
+{
+"id": 454,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"歩行者優先",
+"question":"信号が変わった時に歩行者がまだ横断中の場合はどうすれば良いでしょうか?",
+"answer":"彼らが安全に道を空けてくれるまで待ってください。",
+"distractor1":"それらをゆっくりと迂回してください",
+"distractor2":"クラクションを鳴らして急がせよう"
+},
+{
+"id": 455,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"歩行者優先",
+"question":"なぜ運転手はショッピングエリア付近で特に注意しなければならないのでしょうか?",
+"answer":"歩行者の往来は多く、予測不可能な場合がある",
+"distractor1":"そこでは速度制限は適用されません",
+"distractor2":"歩行者は常に車両に道を譲る"
+},
+{
+"id": 456,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"子供と学校区域",
+"question":"なぜ運転手は学校の近くで速度を落とすべきなのか?",
+"answer":"子どもは道路付近で予測不能な行動をとることがある",
+"distractor1":"スクールゾーンはバスのみに適用されます。",
+"distractor2":"子供たちはいつも横断歩道を正しく利用します"
+},
+{
+"id": 457,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"子供と学校区域",
+"question":"通学路付近では、どのような行動をとるべきでしょうか?",
+"answer":"速度を落とし、子供や横断歩道指導員のために停止する準備をしてください。",
+"distractor1":"子供たちが来る前に急いで通り抜けてください。",
+"distractor2":"他の車が先に停止した場合にのみ停止する"
+},
+{
+"id": 458,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"子供と学校区域",
+"question":"学校の近くに駐車された車はなぜ危険なのでしょうか?",
+"answer":"子供が車の隙間から飛び出す可能性があります",
+"distractor1":"彼らは速度制限を引き上げる",
+"distractor2":"彼らは自転車利用者が道路を利用するのを阻止する"
+},
+{
+"id": 459,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"子供と学校区域",
+"question":"学校周辺ではどのようなことが予想されるでしょうか?",
+"answer":"速度制限の引き下げと歩行者の増加",
+"distractor1":"横断歩道はありません",
+"distractor2":"交通速度の向上"
+},
+{
+"id": 460,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"子供と学校区域",
+"question":"学校付近での安全運転習慣とは?",
+"answer":"注意を怠らず、適切な速度で運転してください。",
+"distractor1":"遅い車両を積極的に追い越す",
+"distractor2":"他の車両に十分注意して走行してください。"
+},
+{
+"id": 461,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"道路上のサイクリスト",
+"question":"自転車は道路を通行できますか?",
+"answer":"はい、自転車利用者は正当な道路利用者です",
+"distractor1":"いいえ、自転車は歩道を通行しなければなりません。",
+"distractor2":"18歳以上の自転車利用者のみが道路を利用できます。"
+},
+{
+"id": 462,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"道路上のサイクリスト",
+"question":"自転車の近くを運転する際は、どうすればよいですか?",
+"answer":"彼らに十分なスペースを与え、動きを注意深く観察してください。",
+"distractor1":"車を近づけて運転すると、車は脇に寄るだろう。",
+"distractor2":"ホーンを連続して使用する"
+},
+{
+"id": 463,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"道路上のサイクリスト",
+"question":"なぜ自転車は道路上で急に動き出すことができるのか?",
+"answer":"彼らは、路面の穴や駐車車両などの危険物を避ける必要があるかもしれない。",
+"distractor1":"自転車に乗る人は道路交通規則を無視することが許されている",
+"distractor2":"彼らはいつもまっすぐ走る"
+},
+{
+"id": 464,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"道路上のサイクリスト",
+"question":"車のドアを開ける前に確認すべきことは何ですか?",
+"answer":"自転車に乗っている人や他の道路利用者に注意してください。",
+"distractor1":"車のミラーだけを確認する",
+"distractor2":"確認する前に素早くドアを開けてください"
+},
+{
+"id": 465,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"道路上のサイクリスト",
+"question":"なぜドライバーは自転車の死角に入るのを避けるべきなのでしょうか?",
+"answer":"自転車に乗っている人は、車が自分の横にいることに気づかないかもしれない。",
+"distractor1":"自転車に乗る人は必ずミラーを持っている",
+"distractor2":"死角はトラックにのみ影響します"
+},
+{
+"id": 466,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"自転車専用レーン",
+"question":"自転車専用レーンの主な目的は何ですか?",
+"answer":"道路を走るサイクリスト",
+"distractor1":"一般駐車場",
+"distractor2":"緊急停止"
+},
+{
+"id": 467,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"自転車専用レーン",
+"question":"自転車専用レーンを横断する前に、何をすべきですか?",
+"answer":"自転車に乗っている人がいないか注意深く確認してください。",
+"distractor1":"そこを素早く横断する",
+"distractor2":"自転車に乗っている人はいないと仮定します。"
+},
+{
+"id": 468,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"自転車専用レーン",
+"question":"交通量が多い時でも、自転車専用レーンを走行してもいいですか?",
+"answer":"いいえ、道路交通法で許可されている場合に限ります。",
+"distractor1":"はい、ピーク時間帯には",
+"distractor2":"はい、自転車に乗っている人がいなければ"
+},
+{
+"id": 469,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"自転車専用レーン",
+"question":"自転車専用レーンに駐車してはいけない理由とは?",
+"answer":"自転車利用者を車道に押し出し、危険を生み出す",
+"distractor1":"自転車の視認性を向上させる",
+"distractor2":"追い越し車線を作る"
+},
+{
+"id": 470,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"自転車専用レーン",
+"question":"自転車レーン付近では、ドライバーはどのようなことを想定しておくべきでしょうか?",
+"answer":"自転車は車線に出入りすることができます",
+"distractor1":"自転車はすべての車のために停止しなければならない",
+"distractor2":"交差点では自転車レーンは使用されていません。"
+},
+{
+"id": 471,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"共有パス",
+"question":"共有パスは誰が利用できますか?",
+"answer":"歩行者と自転車利用者",
+"distractor1":"乗用車とトラック",
+"distractor2":"オートバイのみ"
+},
+{
+"id": 472,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"共有パス",
+"question":"道路と交差する共用歩道付近では、なぜドライバーは注意する必要があるのでしょうか?",
+"answer":"自転車や歩行者が予期せず横断する可能性がある",
+"distractor1":"共有通路は装飾に過ぎない",
+"distractor2":"ドライバーは常に自動的に優先権を持つ"
+},
+{
+"id": 473,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"共有パス",
+"question":"共有歩道の交差点付近では、どうすればよいですか?",
+"answer":"速度を落とし、道路上の弱者に注意してください。",
+"distractor1":"交差点を素早く通過するために加速してください",
+"distractor2":"横断歩道に近づいてくる自転車は無視してください"
+},
+{
+"id": 474,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"共有パス",
+"question":"共有経路が重要な理由とは?",
+"answer":"これらは歩行者と自転車利用者が安全に通行できる空間を提供する。",
+"distractor1":"それらは緊急車両専用です",
+"distractor2":"それらは全ての横断歩道を置き換える"
+},
+{
+"id": 475,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"共有パス",
+"question":"公園やレクリエーションエリアの近くでは、どのようなことが予想されるでしょうか?",
+"answer":"歩行者と自転車利用者の増加",
+"distractor1":"脆弱な道路利用者はいない",
+"distractor2":"制限速度の引き上げ"
+},
+{
+"id": 476,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"高齢者および身体障がいのある歩行者",
+"question":"なぜ運転手は高齢の歩行者の近くでは忍耐強く運転すべきなのでしょうか?",
+"answer":"彼らはよりゆっくりと移動したり、横断に余分な時間を必要とするかもしれない。",
+"distractor1":"彼らは常に素早く渡らなければならない",
+"distractor2":"彼らは車両に道を譲らなければならない"
+},
+{
+"id": 477,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"高齢者および身体障がいのある歩行者",
+"question":"歩行補助具を使用している人に近づく際、どのように対応すべきでしょうか?",
+"answer":"ペースを落として、彼らに十分なスペースと時間を与えましょう",
+"distractor1":"追い越しを素早く行うために接近して運転する",
+"distractor2":"クラクションを鳴らして彼らに知らせてください"
+},
+{
+"id": 478,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"高齢者および身体障がいのある歩行者",
+"question":"なぜ障害のある人の近くでは注意が必要なのでしょうか?",
+"answer":"交通量の多い場所では、より多くの時間や支援が必要になる場合があります。",
+"distractor1":"彼らは常に警察官を伴っている",
+"distractor2":"彼らは常に道路から離れていなければならない"
+},
+{
+"id": 479,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"高齢者および身体障がいのある歩行者",
+"question":"高齢の歩行者が利用する横断歩道では、運転手は何をすべきでしょうか?",
+"answer":"彼らが安全に渡り終えるまで辛抱強く待ちましょう",
+"distractor1":"それらをゆっくりと迂回してください",
+"distractor2":"ヘッドライトを点滅させて急がせる"
+},
+{
+"id": 480,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"高齢者および身体障がいのある歩行者",
+"question":"歩行者などの弱者に対する安全な態度とはどのようなものでしょうか?",
+"answer":"忍耐強く、慎重に、そして思いやりを持って行動しましょう。",
+"distractor1":"彼らが迅速に動くことを期待してください",
+"distractor2":"車両を避けるため、彼らに頼る"
+},
+{
+"id": 481,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"最低通過距離",
+"question":"運転手は自転車を追い越す際に、なぜ車間距離を空けなければならないのですか?",
+"answer":"自転車に乗る人は危険にさらされやすく、安全のためのスペースが必要です。",
+"distractor1":"自転車は道路から離れなければならない",
+"distractor2":"追い越し距離が重要になるのは交差点だけだ"
+},
+{
+"id": 482,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"最低通過距離",
+"question":"自転車を追い越す前に、何をすべきでしょうか?",
+"answer":"十分なスペースがあり、安全に通行できることを確認してください。",
+"distractor1":"車線を越えないように、接近して追い越してください。",
+"distractor2":"ホーンを鳴らしてすぐに続行してください"
+},
+{
+"id": 483,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"最低通過距離",
+"question":"高速走行時において、安全な追い越し距離が重要なのはなぜですか?",
+"answer":"空気の動きと反応時間の短縮によりリスクが増加する",
+"distractor1":"自転車に乗っている人が見えやすくなる",
+"distractor2":"道路交通法はもはや適用されない"
+},
+{
+"id": 484,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"最低通過距離",
+"question":"自転車を安全に追い越すのに十分なスペースがない場合、どうすればよいでしょうか?",
+"answer":"安全に追い越せるまで待つ",
+"distractor1":"低速で接近して通過する",
+"distractor2":"自転車に乗っている人を道路から追い出す"
+},
+{
+"id": 485,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"最低通過距離",
+"question":"自転車を追い越す最も安全な方法は何ですか?",
+"answer":"十分な間隔を保ち、制限速度内でスムーズに通過する。",
+"distractor1":"彼らを勢いよく追い越す",
+"distractor2":"位置を変えずに追い越す"
+},
+{
+"id": 486,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"動物およびその他の脆弱なユーザー",
+"question":"道路付近に動物が現れた場合、どうすればよいですか?",
+"answer":"速度を落とし、安全に停止する準備をしてください。",
+"distractor1":"急に別の車線にハンドルを切る",
+"distractor2":"交差点を横切る前に加速してください"
+},
+{
+"id": 487,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"動物およびその他の脆弱なユーザー",
+"question":"なぜ運転手は乗馬者に対して注意を払うべきなのでしょうか?",
+"answer":"馬は騒音や突然の動きに驚くことがある",
+"distractor1":"乗馬者は常に制限速度を超えて走行する",
+"distractor2":"馬はすべての交通に道を譲らなければならない"
+},
+{
+"id": 488,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"動物およびその他の脆弱なユーザー",
+"question":"乗馬者に近づく際は、どうすればよいですか?",
+"answer":"速度を落とし、十分な間隔を空けて慎重に追い越してください。",
+"distractor1":"角笛を使って馬に警告する",
+"distractor2":"加速して素早く追い越す"
+},
+{
+"id": 489,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"動物およびその他の脆弱なユーザー",
+"question":"なぜ運転手は夜明けと夕暮れ時に野生動物に注意すべきなのでしょうか?",
+"answer":"動物たちはその時間帯に活動的になることが多い",
+"distractor1":"夜明けとともに道路交通規則が変わる",
+"distractor2":"野生動物は高速道路にしか現れない"
+},
+{
+"id": 490,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"動物およびその他の脆弱なユーザー",
+"question":"動物を避けるために急ハンドルを切ること以上に安全な方法があるだろうか?",
+"answer":"コントロールを維持しながらしっかりとブレーキをかける",
+"distractor1":"対向車線に進入する",
+"distractor2":"目を閉じて、ハンドルを切って"
+},
+{
+"id": 491,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"一般的な安全原則",
+"question":"なぜ運転手は、道路上の弱者を保護すべきなのか?",
+"answer":"彼らは衝突事故で重傷を負うリスクが高い。",
+"distractor1":"彼らはどんな状況でも常に最優先される",
+"distractor2":"彼らは車両を避ける責任がある"
+},
+{
+"id": 492,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"一般的な安全原則",
+"question":"交通弱者の近くで安全に行動するにはどうすればよいでしょうか?",
+"answer":"スピードを落とし、注意を怠らず、十分なスペースを確保しましょう。",
+"distractor1":"通常通り運転してください。彼らは脇に避けてくれます。",
+"distractor2":"ホーンを頻繁に使う"
+},
+{
+"id": 493,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"一般的な安全原則",
+"question":"なぜ、交通弱者から予測不可能な行動を期待すべきなのでしょうか?",
+"answer":"子供、歩行者、自転車は突然方向を変える可能性があります",
+"distractor1":"彼らは常にドライバーの合図に従います",
+"distractor2":"それらは車両よりも予測可能な動きをする"
+},
+{
+"id": 494,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"一般的な安全原則",
+"question":"歩行者や自転車利用者が多い地域では、運転手はどのような行動をとるべきでしょうか?",
+"answer":"速度を落とし、注意力を高める",
+"distractor1":"交通の流れを維持するために、車間距離を詰めて運転してください。",
+"distractor2":"ミラーを確認するのは避けてください"
+},
+{
+"id": 495,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"一般的な安全原則",
+"question":"交通弱者の安全を守るために役立つものは何ですか?",
+"answer":"忍耐強く思いやりのある運転",
+"distractor1":"頻繁な追い越し",
+"distractor2":"ブレーキングが遅れる"
+},
+{
+"id": 496,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"ドライバーの意識",
+"question":"運転手はなぜ頻繁にミラーを確認する必要があるのでしょうか?",
+"answer":"自転車、歩行者、周囲の交通状況に注意を払う",
+"distractor1":"先を見ないようにするために",
+"distractor2":"車間距離を縮める"
+},
+{
+"id": 497,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"ドライバーの意識",
+"question":"自転車や歩行者の近くで曲がる前に、何をすべきでしょうか?",
+"answer":"ミラーと死角を注意深く確認してください。",
+"distractor1":"彼らが到着する前に素早く方向転換してください。",
+"distractor2":"指標のみを頼りにする"
+},
+{
+"id": 498,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"ドライバーの意識",
+"question":"なぜ先読みが重要なのか?",
+"answer":"道路利用者の脆弱性や危険を早期に特定するのに役立ちます",
+"distractor1":"鏡が不要になる",
+"distractor2":"より高速な走行が可能になる"
+},
+{
+"id": 499,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"ドライバーの意識",
+"question":"駐車車両の近くでは、どのようなことが予想されるでしょうか?",
+"answer":"歩行者や自転車が突然現れることがあります",
+"distractor1":"信号機の切り替えが速くなる可能性がある",
+"distractor2":"道路標識が不明瞭になる"
+},
+{
+"id": 500,
+"englishName":"Quiz",
+"category":"歩行者、自転車利用者、および交通弱者",
+"subcategory":"ドライバーの意識",
+"question":"安全運転意識において重要な要素は何ですか?",
+"answer":"常に危険を監視し、予測する",
+"distractor1":"前方の車両のみを見る",
+"distractor2":"危険が現れてから初めて反応する"
+},
+{
+"id": 501,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"道路工事",
+"question":"道路工事現場に近づく際は、どうすればよいですか?",
+"answer":"速度を落とし、標識に従い、作業員や状況の変化に注意してください。",
+"distractor1":"作業員が見えない限り、速度を維持する",
+"distractor2":"道路が通行可能に見える場合は、仮設標識を無視してください。"
+},
+{
+"id": 502,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"道路工事",
+"question":"道路工事現場で交通整理を行う権限を持つのは誰ですか?",
+"answer":"認可された交通管制官",
+"distractor1":"近くにいる歩行者",
+"distractor2":"他のドライバーだけ"
+},
+{
+"id": 503,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"道路工事",
+"question":"道路工事による速度制限が表示された場合、どうすればよいですか?",
+"answer":"一時的な速度制限を守ってください",
+"distractor1":"代わりに恒久的な制限に従ってください",
+"distractor2":"あくまで提案としてお考えください"
+},
+{
+"id": 504,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"道路工事",
+"question":"道路工事現場で余分なスペースを確保しておくべき理由は何ですか?",
+"answer":"交通が突然停止したり、車線が変わったりする場合があります。",
+"distractor1":"これにより、労働者を追い越すことができます",
+"distractor2":"車線規制を無視できる"
+},
+{
+"id": 505,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"道路工事",
+"question":"道路工事の標識と通常の標識が矛盾する場合は、どうすればよいですか?",
+"answer":"仮設道路工事の標識に従ってください。",
+"distractor1":"通常の標識のみに従ってください",
+"distractor2":"より高速な速度を許可する標識に従ってください。"
+},
+{
+"id": 506,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"鉄道踏切",
+"question":"鉄道の警告灯が点滅している場合、どうすればよいですか?",
+"answer":"安全に渡れるまで立ち止まって待ってください。",
+"distractor1":"電車が到着する前に急いで渡ってください。",
+"distractor2":"スピードを落として続けてください"
+},
+{
+"id": 507,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"鉄道踏切",
+"question":"いつ鉄道線路を横断できますか?",
+"answer":"列車が接近しておらず、信号が許可している場合に限る",
+"distractor1":"遮断機が下がっているとき",
+"distractor2":"他の車両が先に横断したとき"
+},
+{
+"id": 508,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"鉄道踏切",
+"question":"前方の交通状況によって線路上で立ち往生してしまう可能性がある場合、どうすべきでしょうか?",
+"answer":"横断歩道の向こうに十分なスペースができるまで、横断歩道の手前で待ってください。",
+"distractor1":"線路上で短時間停止する",
+"distractor2":"前方の車両にしっかりとついていきましょう。"
+},
+{
+"id": 509,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"鉄道踏切",
+"question":"鉄道踏切の「一時停止」標識には、どのような要件がありますか?",
+"answer":"完全に停止し、安全が確保された場合にのみ進んでください。",
+"distractor1":"スピードを落として続けてください",
+"distractor2":"角笛を鳴らして十字架を渡りましょう"
+},
+{
+"id": 510,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"鉄道踏切",
+"question":"閉鎖された鉄道踏切を車で迂回してはいけない理由とは?",
+"answer":"列車が接近しており、すぐに停止できない可能性があります。",
+"distractor1":"路面が荒れている可能性があります",
+"distractor2":"小型車両のみに許可されています"
+},
+{
+"id": 511,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"トンネル",
+"question":"トンネルに入る前に何をすべきですか?",
+"answer":"必要に応じてヘッドライトを点灯し、標識や車線表示を確認してください。",
+"distractor1":"進入前にスピードを上げてください",
+"distractor2":"急に車線変更する"
+},
+{
+"id": 512,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"トンネル",
+"question":"トンネル内での不必要な車線変更を避けるべき理由は?",
+"answer":"スペースが限られているため、危険を回避するのが難しくなる。",
+"distractor1":"トンネル内では車線表示は適用されません。",
+"distractor2":"トンネル内では車両はブレーキをかけることができません。"
+},
+{
+"id": 513,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"トンネル",
+"question":"トンネル内で交通が停止した場合、どうすればよいですか?",
+"answer":"安全な距離を保ち、標識や指示に従ってください。",
+"distractor1":"歩道に乗り入れる",
+"distractor2":"トンネルからバックで出る"
+},
+{
+"id": 514,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"トンネル",
+"question":"トンネル内でヘッドライトを使用する必要があるのはなぜですか?",
+"answer":"それらは視界を確保し、車両の視認性を向上させるのに役立ちます。",
+"distractor1":"より高速な走行が可能になる",
+"distractor2":"これらはインジケーターを置き換えるものです"
+},
+{
+"id": 515,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"トンネル",
+"question":"トンネル内で車が故障した場合、どうすればよいですか?",
+"answer":"ハザードランプを点灯し、緊急時の指示に従ってください。",
+"distractor1":"ライトを消した状態で車線を走行してください",
+"distractor2":"交通量の多い道路を歩いて車両を誘導する"
+},
+{
+"id": 516,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"高速道路とランプ",
+"question":"高速道路のランプウェイから本線に進入する際、どのような手順を踏むべきですか?",
+"answer":"安全に速度を上げ、ウィンカーを出し、安全な間隔ができたら合流する。",
+"distractor1":"毎回スロープの端で停止してください",
+"distractor2":"ミラーを確認せずに乗車する"
+},
+{
+"id": 517,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"高速道路とランプ",
+"question":"高速道路の出口を通り過ぎてしまった場合はどうすればいいですか?",
+"answer":"次の出口まで進み、安全にお戻りください。",
+"distractor1":"肩に沿って逆方向に",
+"distractor2":"止まって振り返る"
+},
+{
+"id": 518,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"高速道路とランプ",
+"question":"高速道路で安全な車間距離を保つべき理由は何ですか?",
+"answer":"高速走行では、停止するまでにより多くの時間と距離が必要となる。",
+"distractor1":"安全にテールゲートパーティーを楽しめる",
+"distractor2":"先を見張る必要性が減る"
+},
+{
+"id": 519,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"高速道路とランプ",
+"question":"高速道路を降りる前に何をすべきですか?",
+"answer":"早めに正しい車線に移動し、意思表示をしてください。",
+"distractor1":"最後の瞬間に車線を横切る",
+"distractor2":"右車線で急ブレーキをかける"
+},
+{
+"id": 520,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"高速道路とランプ",
+"question":"高速道路の路肩は主に何のためにあるのですか?",
+"answer":"緊急時および許可された使用",
+"distractor1":"低速走行車を追い越す",
+"distractor2":"必要な時にいつでも電話を使うために立ち止まる"
+},
+{
+"id": 521,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"悪天候",
+"question":"大雨の時はどのように運転すべきですか?",
+"answer":"速度を落とし、車間距離を広げ、必要に応じてヘッドライトを使用してください。",
+"distractor1":"雨を早く洗い流すためにスピードを上げる",
+"distractor2":"前車のすぐ後ろを走る"
+},
+{
+"id": 522,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"悪天候",
+"question":"道路が水で覆われている場合は、どうすればよいですか?",
+"answer":"水深や安全性が不明な場合は、そこを車で通過しないでください。",
+"distractor1":"すぐに通過できます",
+"distractor2":"トラックの後ろにぴったりとついて行く"
+},
+{
+"id": 523,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"悪天候",
+"question":"雨天はなぜドライバーにとって危険なのでしょうか?",
+"answer":"グリップ力が低下し、制動距離が長くなる",
+"distractor1":"制動距離が短くなる",
+"distractor2":"速度制限は適用されなくなりました"
+},
+{
+"id": 524,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"悪天候",
+"question":"滑りやすい路面で避けるべきことは何ですか?",
+"answer":"急ブレーキ、鋭いハンドル操作、急加速",
+"distractor1":"車間距離を広げる",
+"distractor2":"スムーズに走行"
+},
+{
+"id": 525,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"悪天候",
+"question":"天候が悪化した場合、どうすればよいですか?",
+"answer":"旅行を延期するか、安全な場所に停車することを検討してください",
+"distractor1":"旅を終えるために、もっと速く運転しよう",
+"distractor2":"道路状況が分かっている場合は、その点を気にしないでください。"
+},
+{
+"id": 526,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"まぶしさと太陽光",
+"question":"太陽のまぶしさで視界が悪くなった場合、どうすればよいですか?",
+"answer":"速度を落とし、車間距離を広げてください。",
+"distractor1":"眩しさから逃れるためにスピードを上げる",
+"distractor2":"前方の車両にしっかりとついていきましょう。"
+},
+{
+"id": 527,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"まぶしさと太陽光",
+"question":"太陽光のまぶしさの影響を軽減するにはどうすればよいでしょうか?",
+"answer":"サンバイザーやサングラスを着用し、フロントガラスを清潔に保ちましょう。",
+"distractor1":"ハイビームヘッドライトを使用してください",
+"distractor2":"目を少しの間閉じる"
+},
+{
+"id": 528,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"まぶしさと太陽光",
+"question":"交差点で眩しさが危険なのはなぜですか?",
+"answer":"歩行者、自転車、または車両が見えにくくなる可能性がある",
+"distractor1":"信号機が明るくなる",
+"distractor2":"道を譲る必要がなくなる"
+},
+{
+"id": 529,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"まぶしさと太陽光",
+"question":"まぶしさで視界が悪くなってしまった場合は、どうすれば良いでしょうか?",
+"answer":"速度を落とし、安全に停止する準備をしてください。",
+"distractor1":"制限速度で走行してください",
+"distractor2":"確認せずに車線変更する"
+},
+{
+"id": 530,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"まぶしさと太陽光",
+"question":"なぜフロントガラスを清潔に保つ必要があるのでしょうか?",
+"answer":"汚れやシミは、まぶしさを悪化させ、視界を悪化させる可能性があります。",
+"distractor1":"エンジン出力を向上させる",
+"distractor2":"車線変更を防止します"
+},
+{
+"id": 531,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"動物",
+"question":"道路の近くに動物がいる場合、どうすればよいですか?",
+"answer":"速度を落とし、安全に停止する準備をしてください。",
+"distractor1":"急ハンドルを切って別の車線へ",
+"distractor2":"それを追い越す"
+},
+{
+"id": 532,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"動物",
+"question":"なぜドライバーは夜明けと夕暮れ時に特に注意する必要があるのでしょうか?",
+"answer":"動物たちはその時間帯に道路付近でより活発に活動することが多い。",
+"distractor1":"その時は道路交通法は適用されない",
+"distractor2":"視界は常に完璧です"
+},
+{
+"id": 533,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"動物",
+"question":"動物を避けるために急ハンドルを切ること以上に安全なことはあるだろうか?",
+"answer":"コントロールを維持しながらしっかりとブレーキをかける",
+"distractor1":"対向車線に進入する",
+"distractor2":"目を閉じて、ハンドルを切って"
+},
+{
+"id": 534,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"動物",
+"question":"乗馬中の人を追い越す際は、どうすればよいですか?",
+"answer":"スピードを落として、十分なスペースを確保してください",
+"distractor1":"角笛を使って馬に警告する",
+"distractor2":"できるだけ近くを通過する"
+},
+{
+"id": 535,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"動物",
+"question":"動物はなぜ深刻な道路上の危険を引き起こす可能性があるのか?",
+"answer":"彼らは予測不能な動きで交通量の多い道路に飛び出す可能性がある",
+"distractor1":"彼らは常に道路標識に従う",
+"distractor2":"車両を自動的に停止させる"
+},
+{
+"id": 536,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"故障と緊急事態",
+"question":"車が故障した場合、どうすればよいですか?",
+"answer":"可能であれば道路から移動させ、他の道路利用者に警告してください。",
+"distractor1":"ライトを点灯せずに車線に放置する",
+"distractor2":"交通量の多い場所では、その後ろに立ってください。"
+},
+{
+"id": 537,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"故障と緊急事態",
+"question":"ハザードランプはいつ使用すべきですか?",
+"answer":"危険や停車中の車両を他の人に警告するため",
+"distractor1":"どこにでも合法的に駐車する",
+"distractor2":"夜間にヘッドライトを交換する"
+},
+{
+"id": 538,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"故障と緊急事態",
+"question":"危険な場所で車が停止した場合、どこで待機すべきでしょうか?",
+"answer":"可能であれば、交通量の少ない安全な場所に。",
+"distractor1":"車の横の車線で",
+"distractor2":"道路上の車両の後方"
+},
+{
+"id": 539,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"故障と緊急事態",
+"question":"緊急車両がライトやサイレンを鳴らして近づいてきたら、どうすればよいですか?",
+"answer":"安全に道を譲り、必要であれば停止してください。",
+"distractor1":"同じ速度で進み続ける",
+"distractor2":"それより先にレースをする"
+},
+{
+"id": 540,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"故障と緊急事態",
+"question":"交通事故で負傷者が出た場合、どうすればよいですか?",
+"answer":"緊急サービスに連絡し、安全であれば助けを求めてください。",
+"distractor1":"交通渋滞を避けるために車で出発する",
+"distractor2":"誰かを検査する前に、すべての車両を移動させてください。"
+},
+{
+"id": 541,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"視界不良",
+"question":"霧や煙の中ではどうすれば良いでしょうか?",
+"answer":"速度を落とし、車間距離を広げ、適切なライトを使用してください。",
+"distractor1":"ハイビームを使用し、通常の速度を維持してください。",
+"distractor2":"前車に接近して走行する"
+},
+{
+"id": 542,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"視界不良",
+"question":"霧の中でハイビームの使用を避けるべき理由は?",
+"answer":"反射して視界を悪化させる可能性がある",
+"distractor1":"タイヤのグリップ力が失われる",
+"distractor2":"ブレーキランプを消灯します"
+},
+{
+"id": 543,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"視界不良",
+"question":"視界不良時にはどのくらいの速度で走行すべきですか?",
+"answer":"視界の範囲内で停止できる速度",
+"distractor1":"常に制限速度を守ってください",
+"distractor2":"前方の車両の速度"
+},
+{
+"id": 544,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"視界不良",
+"question":"視界が悪すぎて安全に走行を続けられない場合は、どうすればよいでしょうか?",
+"answer":"交通から安全な場所に停車し、必要であれば待機してください。",
+"distractor1":"ハザードランプのみを使用して運転を続けてください",
+"distractor2":"車線の中央で停止する"
+},
+{
+"id": 545,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"視界不良",
+"question":"視界不良時に車間距離を広げるべき理由は何ですか?",
+"answer":"危険を検知し、対応するにはより多くの時間が必要です。",
+"distractor1":"より速く運転できます",
+"distractor2":"ヘッドライトの必要性を軽減する"
+},
+{
+"id": 546,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"一般的な特殊状況",
+"question":"見慣れない道路状況において、最も安全な運転方法は?",
+"answer":"速度を落とし、前方をよく見て、標識や指示に従ってください。",
+"distractor1":"早くその場を離れるためにスピードを上げてください",
+"distractor2":"チェックせずに他の車両に追従する"
+},
+{
+"id": 547,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"一般的な特殊状況",
+"question":"前方に危険を警告する標識が表示された場合、どうすればよいですか?",
+"answer":"速度を調整し、安全に反応できるよう準備してください。",
+"distractor1":"危険が見えるまで速度を維持してください。",
+"distractor2":"交通量が少ない場合は標識を無視してください"
+},
+{
+"id": 548,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"一般的な特殊状況",
+"question":"異常な状況下での急な動きを避けるべき理由は?",
+"answer":"それらは制御不能を引き起こしたり、他の道路利用者を驚かせたりする可能性がある",
+"distractor1":"タイヤのグリップ力を向上させる",
+"distractor2":"危険箇所が見やすくなる"
+},
+{
+"id": 549,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"一般的な特殊状況",
+"question":"道路環境が危険だと感じた場合、どうすればよいですか?",
+"answer":"速度を落とし、車両周辺に十分なスペースを確保してください。",
+"distractor1":"スピードを上げて素早く逃げろ",
+"distractor2":"前方の車両にもっと近づいて運転してください。"
+},
+{
+"id": 550,
+"englishName":"Quiz",
+"category":"特殊な状況と道路環境",
+"subcategory":"一般的な特殊状況",
+"question":"特別な運転状況における重要なルールは何ですか?",
+"answer":"路面状況に合わせて運転し、安全を最優先する",
+"distractor1":"常に制限速度を守ってください",
+"distractor2":"危険を回避するために他のドライバーに頼る"
+},
+{
+"id": 551,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"緊急車両に道を譲る",
+"question":"点滅灯やサイレンを鳴らした緊急車両が近づいてきたら、どうすればよいですか?",
+"answer":"安全に道を譲り、必要であれば停止してください。",
+"distractor1":"速度と車線を維持してください",
+"distractor2":"車両の前方で加速する"
+},
+{
+"id": 552,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"緊急車両に道を譲る",
+"question":"なぜ運転手は緊急車両に道を譲らなければならないのか?",
+"answer":"彼らは緊急事態に緊急対応している可能性がある",
+"distractor1":"緊急車両はすべての交通規制の対象外です。",
+"distractor2":"彼らはいつも制限速度を超えて走行する"
+},
+{
+"id": 553,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"緊急車両に道を譲る",
+"question":"緊急車両のために道を譲る際に、避けるべきことは何ですか?",
+"answer":"突然の危険な動きや予測不能な停止",
+"distractor1":"移動前にミラーを確認する",
+"distractor2":"慎重に速度を落とす"
+},
+{
+"id": 554,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"緊急車両に道を譲る",
+"question":"緊急車両が接近している際に交通量が多い場合は、どうすればよいですか?",
+"answer":"可能な限り安全な移動をしてスペースを確保する",
+"distractor1":"交通が途切れるまでサイレンを無視してください",
+"distractor2":"追い越しを防ぐために交差点を封鎖する"
+},
+{
+"id": 555,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"緊急車両に道を譲る",
+"question":"緊急車両が通過した後、いつ通常の運転に戻るべきですか?",
+"answer":"安全で交通状況が許す場合に限る",
+"distractor1":"交通状況を確認せずにすぐに",
+"distractor2":"他の車両が先に動いた後のみ"
+},
+{
+"id": 556,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"交差点における緊急車両",
+"question":"緊急車両が交差点に接近してきた場合、どうすればよいですか?",
+"answer":"安全に道を譲り、交差点を塞がないようにしてください。",
+"distractor1":"交差点に素早く進入する",
+"distractor2":"交差点の真ん中で止まる"
+},
+{
+"id": 557,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"交差点における緊急車両",
+"question":"緊急車両のために交差点を封鎖することが危険なのはなぜですか?",
+"answer":"緊急対応を遅らせ、危険を生み出す。",
+"distractor1":"交通の流れを改善します",
+"distractor2":"緊急車両は安全に通行できます"
+},
+{
+"id": 558,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"交差点における緊急車両",
+"question":"信号が青なのに緊急車両が接近している場合はどうすれば良いでしょうか?",
+"answer":"緊急車両に安全に道を譲ってください。",
+"distractor1":"青信号が出ているので、そのまま進んでください。",
+"distractor2":"到着する前に急いでください"
+},
+{
+"id": 559,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"交差点における緊急車両",
+"question":"交差点で脇道に逸れる前に確認すべきことは何ですか?",
+"answer":"他の交通、歩行者、および安全な避難スペース",
+"distractor1":"後ろの車両のみ",
+"distractor2":"信号機の色のみ"
+},
+{
+"id": 560,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"交差点における緊急車両",
+"question":"緊急時、交差点付近で最も安全な対処法は何ですか?",
+"answer":"落ち着いて、警戒を怠らず、予測可能な動きを心がけましょう。",
+"distractor1":"急加速する",
+"distractor2":"車線表示を無視する"
+},
+{
+"id": 561,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"警察の指示",
+"question":"運転手は警察官の指示を受けた場合、何をすべきか?",
+"answer":"警察の指示に従ってください",
+"distractor1":"通常の信号に従ってください",
+"distractor2":"交通量が少ない場合は、指示を無視してください"
+},
+{
+"id": 562,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"警察の指示",
+"question":"警察の指示と交通信号が矛盾する場合はどうすればよいでしょうか?",
+"answer":"警察の指示に従ってください",
+"distractor1":"信号機のみに従ってください",
+"distractor2":"停止して別のドライバーを待つ"
+},
+{
+"id": 563,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"警察の指示",
+"question":"警察官が手動で交通整理を行うのはなぜですか?",
+"answer":"緊急事態、事故、または交通の流れを管理するため",
+"distractor1":"道路標識を恒久的に交換する",
+"distractor2":"速度制限を引き上げる"
+},
+{
+"id": 564,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"警察の指示",
+"question":"警察官の指示がわからない場合はどうすればよいでしょうか?",
+"answer":"ペースを落として、指示に注意深く従ってください。",
+"distractor1":"方向を無視する",
+"distractor2":"すぐに通過できます"
+},
+{
+"id": 565,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"警察の指示",
+"question":"警察の交通整理に近づく際に重要なことは何ですか?",
+"answer":"警戒を怠らず、いつでも停止できるように準備しておきましょう。",
+"distractor1":"加速してエリアをクリアする",
+"distractor2":"前方の車両のみを追従する"
+},
+{
+"id": 566,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"警察の指示に従って停車する",
+"question":"警察官に停止を指示された場合、どうすればよいですか?",
+"answer":"できるだけ早く安全な場所に停車してください。",
+"distractor1":"家まで運転を続けてください",
+"distractor2":"交通車線内で急停車する"
+},
+{
+"id": 567,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"警察の指示に従って停車する",
+"question":"警察官の指示に従って安全に停車しなければならない理由は何ですか?",
+"answer":"自分自身と他人の危険を避けるため",
+"distractor1":"意図的に交通を遮断する",
+"distractor2":"警察に車線変更を強制するため"
+},
+{
+"id": 568,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"警察の指示に従って停車する",
+"question":"警察の指示に従って停車した後、どうすべきですか?",
+"answer":"落ち着いて指示に従ってください",
+"distractor1":"許可なく直ちに車両から降りる",
+"distractor2":"ゆっくりと走り去る"
+},
+{
+"id": 569,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"警察の指示に従って停車する",
+"question":"警察官に停車を求められた場合、どこで停車すべきでしょうか?",
+"answer":"可能であれば、交通量の少ない安全な場所で",
+"distractor1":"交差点の真ん中",
+"distractor2":"鉄道線路の上"
+},
+{
+"id": 570,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"警察の指示に従って停車する",
+"question":"交通検問の際に警察との協力が重要な理由は何ですか?",
+"answer":"安全と秩序の維持に役立つ",
+"distractor1":"ライセンスが不要になる",
+"distractor2":"ドライバーが道路交通規則を無視することを許容する"
+},
+{
+"id": 571,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"呼気検査および薬物検査",
+"question":"警察は路上検査場で運転手にどのようなことを要求する可能性があるか?",
+"answer":"息を吸うか、薬物検査を受ける",
+"distractor1":"車両を無人で放置する",
+"distractor2":"停車せずに通過する"
+},
+{
+"id": 572,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"呼気検査および薬物検査",
+"question":"なぜ路上での呼気検査や薬物検査が行われるのか?",
+"answer":"道路の安全性を向上させ、飲酒運転や薬物運転などの危険運転を検出するため",
+"distractor1":"交通渋滞を緩和するために",
+"distractor2":"車両の燃料レベルを確認するには"
+},
+{
+"id": 573,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"呼気検査および薬物検査",
+"question":"検査場に近づく際、何をすべきでしょうか?",
+"answer":"速度を落とし、警察の指示に従ってください。",
+"distractor1":"急に振り向く",
+"distractor2":"チェックポイントを加速して通過する"
+},
+{
+"id": 574,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"呼気検査および薬物検査",
+"question":"処方薬は運転能力に影響を与えることがありますか?",
+"answer":"はい、一部の薬は運転能力を損なう可能性があります。",
+"distractor1":"運転に影響を与える薬はありません",
+"distractor2":"違法薬物だけが運転能力を損なう"
+},
+{
+"id": 575,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"呼気検査および薬物検査",
+"question":"飲酒運転や薬物運転に関して、最も安全な方法は何ですか?",
+"answer":"飲酒運転は絶対にしないでください。",
+"distractor1":"飲酒後はゆっくり運転してください",
+"distractor2":"コーヒーで酩酊状態を解消する"
+},
+{
+"id": 576,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"事故・インシデント対応指示",
+"question":"運転手は、事故現場や事件現場付近では何をすべきでしょうか?",
+"answer":"警察官または救急隊員の指示に従ってください。",
+"distractor1":"事件を見守るために立ち止まる",
+"distractor2":"一時的な交通規制は無視してください"
+},
+{
+"id": 577,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"事故・インシデント対応指示",
+"question":"緊急事態発生現場付近では、なぜ減速する必要があるのでしょうか?",
+"answer":"労働者、救助隊員、その他の道路利用者を保護するため",
+"distractor1":"追い越しを容易にするため",
+"distractor2":"速度制限はもはや適用されないため"
+},
+{
+"id": 578,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"事故・インシデント対応指示",
+"question":"事故現場付近で車線が閉鎖されている場合、どうすればよいですか?",
+"answer":"安全に合流し、交通指示に従ってください。",
+"distractor1":"障害物を迂回して走行する",
+"distractor2":"閉鎖車線で停止してください"
+},
+{
+"id": 579,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"事故・インシデント対応指示",
+"question":"事故現場付近で運転手が注意散漫になるのを避けるべき理由は?",
+"answer":"注意散漫は、状況の変化に応じて衝突リスクを高める。",
+"distractor1":"事故は交通の流れに影響を与えない",
+"distractor2":"緊急対応要員は、ドライバーが"
+},
+{
+"id": 580,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"事故・インシデント対応指示",
+"question":"迂回路を通るように指示された場合、どうすればよいですか?",
+"answer":"迂回路の標識や指示に安全に従ってください。",
+"distractor1":"迂回路は無視して続行してください",
+"distractor2":"通行止め区域を通過する際は十分注意してください。"
+},
+{
+"id": 581,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"一般コンプライアンス",
+"question":"緊急時の指示に従うことが重要なのはなぜですか?",
+"answer":"道路の安全確保と交通整理に役立ちます",
+"distractor1":"ドライバーが標識を無視することを許容する",
+"distractor2":"ライセンスが不要になる"
+},
+{
+"id": 582,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"一般コンプライアンス",
+"question":"一時的な緊急標識が表示された場合、運転手はどうすべきでしょうか?",
+"answer":"仮設の標識と指示に従ってください。",
+"distractor1":"交通量が少ない場合は無視してください",
+"distractor2":"常設の標識のみに従ってください。"
+},
+{
+"id": 583,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"一般コンプライアンス",
+"question":"緊急時対応において、最も安全な姿勢とは何でしょうか?",
+"answer":"忍耐強く、注意深く、協力的な姿勢を保ちましょう。",
+"distractor1":"遅延が増える前に急いでください",
+"distractor2":"緊急車両のすぐ後ろを走行してください。"
+},
+{
+"id": 584,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"一般コンプライアンス",
+"question":"緊急対応要員が手動で交通整理を行っている場合、どうすればよいですか?",
+"answer":"注意深く観察し、彼らの指示に従ってください。",
+"distractor1":"信号機だけを頼りにする",
+"distractor2":"安全だと思うなら続けてください"
+},
+{
+"id": 585,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"一般コンプライアンス",
+"question":"緊急時にドライバーが冷静さを保つべき理由とは?",
+"answer":"落ち着いた運転はミスを減らし、安全性を向上させる。",
+"distractor1":"パニックは反応を助ける",
+"distractor2":"高速運転は緊急事態をより早く解決する"
+},
+{
+"id": 586,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"交通渋滞中の緊急車両",
+"question":"交通渋滞で緊急車両が後ろにいる場合、どうすればよいですか?",
+"answer":"可能な場合は安全な場所に退避してください。",
+"distractor1":"自分の車線内で急ブレーキをかける",
+"distractor2":"スピードを上げて先を行こう"
+},
+{
+"id": 587,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"交通渋滞中の緊急車両",
+"question":"緊急車両のすぐ後ろを走行することを避けるべき理由とは?",
+"answer":"危険であり、違法となる可能性もある。",
+"distractor1":"より速い移動を保証します",
+"distractor2":"緊急車両は護衛車両を好む"
+},
+{
+"id": 588,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"交通渋滞中の緊急車両",
+"question":"緊急車両のために左折する前に、何をチェックすべきでしょうか?",
+"answer":"ミラー、死角、近くの道路利用者",
+"distractor1":"スピードメーターのみ",
+"distractor2":"車線表示のみ"
+},
+{
+"id": 589,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"交通渋滞中の緊急車両",
+"question":"すぐに安全に停車できる場所がない場合、どうすればよいでしょうか?",
+"answer":"安全な場所が見つかるまで、慎重に進んでください。",
+"distractor1":"交通渋滞で急停車する",
+"distractor2":"緊急車両を無視する"
+},
+{
+"id": 590,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"交通渋滞中の緊急車両",
+"question":"緊急車両の周囲で最も安全な行動とは?",
+"answer":"予測可能な運転を心がけ、急な行動は避けてください。",
+"distractor1":"道路スペースを巡って競争する",
+"distractor2":"追い越しには路肩を利用してください"
+},
+{
+"id": 591,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"法的影響",
+"question":"運転手が警察の指示を無視した場合、どのような事態が起こりうるでしょうか?",
+"answer":"彼らは罰則や法的措置に直面する可能性がある",
+"distractor1":"交通量が少ない場合は何も問題ありません",
+"distractor2":"ライセンスは自動的にアップグレードされます"
+},
+{
+"id": 592,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"法的影響",
+"question":"緊急車両の規則を守ることが重要なのはなぜですか?",
+"answer":"人命を守り、緊急対応を支援する",
+"distractor1":"道路速度を上げる",
+"distractor2":"指標の使用を避けるため"
+},
+{
+"id": 593,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"法的影響",
+"question":"緊急車両の通行を妨害すると、どのような事態になる可能性がありますか?",
+"answer":"危険を生じさせ、犯罪を犯す可能性があります。",
+"distractor1":"警告のみが自動的に届きます",
+"distractor2":"後で謝罪すれば何も問題ない"
+},
+{
+"id": 594,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"法的影響",
+"question":"運転者はなぜ路上での検査要件に従うべきなのでしょうか?",
+"answer":"これらは道路安全法の一部である",
+"distractor1":"経験豊富なドライバーにとって、テストは任意です。",
+"distractor2":"商用運転手のみが遵守しなければならない"
+},
+{
+"id": 595,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"法的影響",
+"question":"道路上で法的罰則を避けるための最も安全な方法は何ですか?",
+"answer":"道路交通規則と合法的な指示に従ってください。",
+"distractor1":"他のドライバーの行動を真似る",
+"distractor2":"交通の流れよりも速く走る"
+},
+{
+"id": 596,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"一般的な緊急事態への認識",
+"question":"運転手はなぜサイレンや点滅灯に注意を払うべきなのでしょうか?",
+"answer":"緊急車両は交通をすぐに通過する必要があるかもしれません",
+"distractor1":"サイレンは儀式でのみ使用されます",
+"distractor2":"信号機の代わりに点滅灯が使用される"
+},
+{
+"id": 597,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"一般的な緊急事態への認識",
+"question":"サイレンの音が聞こえたのに、車両が見えない場合はどうすればよいでしょうか?",
+"answer":"注意を怠らず、動く前に注意深く見てください。",
+"distractor1":"車が見えるまで無視してください",
+"distractor2":"交通状況を確認せずに急ブレーキをかける"
+},
+{
+"id": 598,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"一般的な緊急事態への認識",
+"question":"緊急時に予測可能な運転が重要なのはなぜですか?",
+"answer":"緊急車両の運転手などが安全に反応するのに役立ちます。",
+"distractor1":"急な行動は交通の流れを改善する",
+"distractor2":"予測可能な運転は夜間のみ必要となる"
+},
+{
+"id": 599,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"一般的な緊急事態への認識",
+"question":"緊急事態発生現場付近では、どのようなことが予想されるでしょうか?",
+"answer":"交通状況の変更と一時的な通行規制",
+"distractor1":"常に通常の道路速度",
+"distractor2":"近くに歩行者や作業員はいません"
+},
+{
+"id": 600,
+"englishName":"Quiz",
+"category":"緊急車両と警察の指示",
+"subcategory":"一般的な緊急事態への認識",
+"question":"道路上の緊急事態における重要な原則は何ですか?",
+"answer":"冷静さを保ち、警戒を怠らず、合法的な指示に従ってください。",
+"distractor1":"渋滞を避けるため、速やかに運転してください。",
+"distractor2":"他のドライバーに判断を委ねる"
+},
+{
+"id": 601,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"シートベルトの基本",
+"question":"なぜシートベルトを着用しなければならないのですか?",
+"answer":"これらは衝突時の負傷を軽減するのに役立ちます",
+"distractor1":"燃費を向上させる",
+"distractor2":"より高い速度制限が認められる"
+},
+{
+"id": 602,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"シートベルトの基本",
+"question":"シートベルトが利用できる場合、誰がシートベルトを着用しなければならないか?",
+"answer":"運転手と乗客",
+"distractor1":"ドライバーのみ",
+"distractor2":"前席の乗客のみ"
+},
+{
+"id": 603,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"シートベルトの基本",
+"question":"シートベルトはどのように装着すべきですか?",
+"answer":"腰と胸をしっかりと支え、ねじらない。",
+"distractor1":"ゆったりとした着心地",
+"distractor2":"脇の下のみ"
+},
+{
+"id": 604,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"シートベルトの基本",
+"question":"ねじれたシートベルトはなぜ危険なのでしょうか?",
+"answer":"衝突時に適切に保護されない可能性があります",
+"distractor1":"快適性を向上させるだけです",
+"distractor2":"エアバッグの作動を妨げる"
+},
+{
+"id": 605,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"シートベルトの基本",
+"question":"シートベルトはいつ締めるべきですか?",
+"answer":"車両が動き出す前に",
+"distractor1":"交通速度に達した後",
+"distractor2":"高速道路のみ"
+},
+{
+"id": 606,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"運転者の責任",
+"question":"乗客とシートベルトに関して、運転手にはどのような責任がありますか?",
+"answer":"乗客がシートベルト着用義務を遵守していることを確認してください。",
+"distractor1":"乗客は常に全責任を負います",
+"distractor2":"前席の乗客だけが重要"
+},
+{
+"id": 607,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"運転者の責任",
+"question":"運転手はなぜ出発前に乗客を確認する必要があるのでしょうか?",
+"answer":"全員が安全に着席し、シートベルトを着用していることを確認するため",
+"distractor1":"車両の速度を上げる",
+"distractor2":"燃料使用量を削減するために"
+},
+{
+"id": 608,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"運転者の責任",
+"question":"走行中に乗客がシートベルトを外した場合、運転手はどうすべきでしょうか?",
+"answer":"乗客が安全にシートベルトを締め直していることを確認してください。",
+"distractor1":"乗客を無視する",
+"distractor2":"旅を早く終えるために加速する"
+},
+{
+"id": 609,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"運転者の責任",
+"question":"なぜ運転手は子供の乗客に対して責任を負うのでしょうか?",
+"answer":"子どもは安全規則を正しく理解したり、守ったりできない可能性がある",
+"distractor1":"子供は拘束の対象外です",
+"distractor2":"子供たちは安全に自分の体を支えることができる"
+},
+{
+"id": 610,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"運転者の責任",
+"question":"運転手は乗客を乗せて出発する前に何をすべきでしょうか?",
+"answer":"すべての拘束具が正しく固定されていることを確認してください。",
+"distractor1":"角笛を2回鳴らす",
+"distractor2":"エンジン回転数を上げる"
+},
+{
+"id": 611,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"チャイルドシート使用に関する規則",
+"question":"なぜ子供は認可されたチャイルドシートを使用しなければならないのですか?",
+"answer":"大人のシートベルトでは子供を適切に保護できない可能性があります",
+"distractor1":"子供には拘束具は必要ありません",
+"distractor2":"子供は車内に立っている方が安全です"
+},
+{
+"id": 612,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"チャイルドシート使用に関する規則",
+"question":"子供にはどのような拘束具を使用すべきでしょうか?",
+"answer":"年齢と体格に適した拘束具",
+"distractor1":"緩んだシートベルト",
+"distractor2":"短距離旅行には制限なし"
+},
+{
+"id": 613,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"チャイルドシート使用に関する規則",
+"question":"チャイルドシートの正しい取り付けが重要なのはなぜですか?",
+"answer":"不適切な取り付けは、衝突時の保護性能を低下させる可能性があります。",
+"distractor1":"快適さにしか影響しない",
+"distractor2":"燃費が向上します"
+},
+{
+"id": 614,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"チャイルドシート使用に関する規則",
+"question":"チャイルドシートを装着して運転する前に、何をチェックすべきでしょうか?",
+"answer":"拘束具がしっかりと固定され、適切に調整されていること",
+"distractor1":"車載ラジオのみ",
+"distractor2":"タイヤの空気圧のみ"
+},
+{
+"id": 615,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"チャイルドシート使用に関する規則",
+"question":"なぜ子供は旅行中に拘束されなければならないのでしょうか?",
+"answer":"予期せぬブレーキや衝突はいつでも起こり得る",
+"distractor1":"交差点でのみ拘束装置が必要です",
+"distractor2":"子供たちは安全に自分の体を支えることができる"
+},
+{
+"id": 616,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"フロントシートのルール",
+"question":"なぜ子供は通常、後部座席の方が安全なのでしょうか?",
+"answer":"後部座席は一般的に優れた保護性能を提供する",
+"distractor1":"前席にはシートベルトがありません",
+"distractor2":"子供たちは後ろから交通状況を監視できる"
+},
+{
+"id": 617,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"フロントシートのルール",
+"question":"子供を助手席に乗せる前に、何をチェックすべきでしょうか?",
+"answer":"座席配置が安全規則に準拠していること",
+"distractor1":"エアコンのみ",
+"distractor2":"座席がリクライニングするかどうかのみ"
+},
+{
+"id": 618,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"フロントシートのルール",
+"question":"エアバッグはなぜ一部の子供にとって危険なのでしょうか?",
+"answer":"衝突時にエアバッグは大きな力で展開する",
+"distractor1":"エアバッグがシートベルトに取って代わる",
+"distractor2":"エアバッグがブレーキを妨げます"
+},
+{
+"id": 619,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"フロントシートのルール",
+"question":"前部座席の乗客は常に何をすべきでしょうか?",
+"answer":"正しく装着されたシートベルトを着用してください。",
+"distractor1":"快適に座るには横向きに座りましょう",
+"distractor2":"ベルトを彼らの後ろに置きます"
+},
+{
+"id": 620,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"フロントシートのルール",
+"question":"助手席に同乗者を乗せて運転する前に、最も安全な方法は何ですか?",
+"answer":"座席と拘束装置を正しく調整してください",
+"distractor1":"シートベルトを確認せずに座席を一番後ろまでスライドさせてください。",
+"distractor2":"乗客が子供を抱っこすることを許可する"
+},
+{
+"id": 621,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"乗客の行動",
+"question":"乗客はなぜ運転手の注意をそらすような行為を避けるべきなのでしょうか?",
+"answer":"注意散漫は衝突事故のリスクを高める",
+"distractor1":"ドライバーは集中力を必要としない",
+"distractor2":"乗客が車両を操縦します"
+},
+{
+"id": 622,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"乗客の行動",
+"question":"車両が走行中、乗客は何をすべきでしょうか?",
+"answer":"拘束具を装着したまま着席してください。",
+"distractor1":"自由に動き回れる",
+"distractor2":"新鮮な空気を取り入れるためにドアを開ける"
+},
+{
+"id": 623,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"乗客の行動",
+"question":"乗客はなぜ腕や頭を車内に入れておくべきなのでしょうか?",
+"answer":"物体や交通による怪我を避けるため",
+"distractor1":"燃費を向上させるため",
+"distractor2":"エンジン音を低減するために"
+},
+{
+"id": 624,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"乗客の行動",
+"question":"乗客はドアを開ける前に何をすべきですか?",
+"answer":"自転車、歩行者、交通状況を確認してください。",
+"distractor1":"ドアを素早く開ける",
+"distractor2":"まずハザードランプを点灯してください"
+},
+{
+"id": 625,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"乗客の行動",
+"question":"どのような乗客の行動が安全運転につながるのでしょうか?",
+"answer":"穏やかで思いやりのある行動",
+"distractor1":"絶えず指示を叫んでいる",
+"distractor2":"運転手の視界を遮る"
+},
+{
+"id": 626,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"免除および特別措置",
+"question":"シートベルト着用義務の免除が適用される限定的な状況はありますか?",
+"answer":"はい、特定の法的条件下では例外が存在します。",
+"distractor1":"いかなる例外も認められない",
+"distractor2":"誰でもシートベルトを着用しないことを選択できます。"
+},
+{
+"id": 627,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"免除および特別措置",
+"question":"シートベルト着用義務の免除を受けているドライバーは、どうすべきでしょうか?",
+"answer":"免除が有効かつ合法であることを確認してください。",
+"distractor1":"拘束ルールはすべて無視する",
+"distractor2":"車両からすべてのシートベルトを取り外してください"
+},
+{
+"id": 628,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"免除および特別措置",
+"question":"なぜ免除が制限されているのか?",
+"answer":"シートベルトは怪我を減らすために重要です",
+"distractor1":"ほとんどのドライバーにとってシートベルトは任意です",
+"distractor2":"拘束具の恩恵を受けるのは乗客のみである"
+},
+{
+"id": 629,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"免除および特別措置",
+"question":"拘束免除について確信が持てない場合は、どうすればよいですか?",
+"answer":"最新の交通規則または公式のアドバイスを確認してください。",
+"distractor1":"免除が適用されるものとします",
+"distractor2":"拘束要件を無視する"
+},
+{
+"id": 630,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"免除および特別措置",
+"question":"明確な例外規定がない場合、最も安全な選択肢は何でしょうか?",
+"answer":"シートベルトまたは適切な拘束装置を着用してください。",
+"distractor1":"制約のない旅",
+"distractor2":"ダッシュボードにつかまってください"
+},
+{
+"id": 631,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"罰金および罰則",
+"question":"シートベルト着用義務違反があった場合、どのような事態が起こり得るでしょうか?",
+"answer":"運転手または同乗者は罰金や罰則を受ける可能性があります。",
+"distractor1":"旅行が短い場合は何も問題ありません",
+"distractor2":"警告のみが発せられる"
+},
+{
+"id": 632,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"罰金および罰則",
+"question":"シートベルト着用義務違反に対する罰則はなぜ施行されているのか?",
+"answer":"より安全な行動を促し、怪我を減らすため",
+"distractor1":"交通渋滞を悪化させる",
+"distractor2":"エアバッグの必要性を減らすために"
+},
+{
+"id": 633,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"罰金および罰則",
+"question":"チャイルドシートの不適切な使用で罰せられるのは誰ですか?",
+"answer":"運転手は責任を問われる可能性がある",
+"distractor1":"子供だけ",
+"distractor2":"後部座席の乗客のみ"
+},
+{
+"id": 634,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"罰金および罰則",
+"question":"運転手はなぜ定期的にシートベルトの装着状況を確認する必要があるのでしょうか?",
+"answer":"乗客の安全を守り、罰則を回避するため",
+"distractor1":"エンジンの性能を向上させるため",
+"distractor2":"車両の速度を上げる"
+},
+{
+"id": 635,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"罰金および罰則",
+"question":"シートベルト違反の罰則を避けるための最善の方法は何ですか?",
+"answer":"運転する前に全員が正しくシートベルトを着用していることを確認してください。",
+"distractor1":"静かな道路のみを走行してください",
+"distractor2":"走行中はハザードランプを使用してください"
+},
+{
+"id": 636,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"安全原則",
+"question":"短距離の移動でもシートベルトが重要な理由は?",
+"answer":"事故は自宅の近くで発生する可能性がある",
+"distractor1":"シートベルトは高速道路でのみ有効です",
+"distractor2":"短距離旅行は常に安全です"
+},
+{
+"id": 637,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"安全原則",
+"question":"拘束具の主な利点の1つは何ですか?",
+"answer":"重傷を負うリスクを軽減します",
+"distractor1":"衝突リスクをすべて排除します",
+"distractor2":"タイヤのグリップ力を向上させる"
+},
+{
+"id": 638,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"安全原則",
+"question":"なぜ車内の緩んだ物を固定する必要があるのでしょうか?",
+"answer":"急ブレーキや衝突時には危険になる可能性がある",
+"distractor1":"車両のバランスを改善します",
+"distractor2":"エアバッグの展開を助ける"
+},
+{
+"id": 639,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"安全原則",
+"question":"子どもにとって最も安全な移動手段は何ですか?",
+"answer":"適切な座席位置にきちんと固定されている",
+"distractor1":"大人の膝の上に座る",
+"distractor2":"後部座席に立っている"
+},
+{
+"id": 640,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"安全原則",
+"question":"乗客の安全に関する主な原則は何ですか?",
+"answer":"誰もが適切に拘束されるべきである",
+"distractor1":"保護が必要なのは運転手だけです",
+"distractor2":"乗客は拘束具を着用するかどうかを選択できます"
+},
+{
+"id": 641,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"車両の種類",
+"question":"シートベルト着用義務は、ほとんどの車種に適用されますか?",
+"answer":"はい、シートベルト着用義務は幅広い車種に適用されます。",
+"distractor1":"シートベルトが必要なのは車だけです",
+"distractor2":"大型車両には拘束装置は一切必要ない"
+},
+{
+"id": 642,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"車両の種類",
+"question":"タクシーやライドシェア車両に乗車した乗客は、どのような行動をとるべきでしょうか?",
+"answer":"シートベルトが備え付けられている場合は着用してください。",
+"distractor1":"後部座席に自由に座る",
+"distractor2":"代わりにシートにつかまってください"
+},
+{
+"id": 643,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"車両の種類",
+"question":"四輪駆動車やバンでは、なぜシートベルトなどの拘束装置を使用すべきなのでしょうか?",
+"answer":"すべての車両が衝突事故に巻き込まれる可能性がある",
+"distractor1":"大型車両は衝突できない",
+"distractor2":"シートベルトが必要なのは小型車だけです。"
+},
+{
+"id": 644,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"車両の種類",
+"question":"見慣れない乗り物で旅行する際に、何をチェックすべきでしょうか?",
+"answer":"すべての拘束具が利用可能であり、正しく使用されていること",
+"distractor1":"ステレオコントロールのみ",
+"distractor2":"タイヤブランドのみ"
+},
+{
+"id": 645,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"車両の種類",
+"question":"複数の乗客を運ぶ際に重要なことは何ですか?",
+"answer":"すべての乗客は適切な座席と拘束装置を備えているべきである。",
+"distractor1":"乗客はシートベルトを共有する場合があります。",
+"distractor2":"混雑時は子供は拘束されずに乗車できる"
+},
+{
+"id": 646,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"一般常識",
+"question":"なぜ運転手は乗客に安全運転の習慣を奨励すべきなのか?",
+"answer":"安全な習慣は怪我や注意散漫を軽減する",
+"distractor1":"乗客の行動は運転に影響を与えない",
+"distractor2":"前席の安全性だけが重要"
+},
+{
+"id": 647,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"一般常識",
+"question":"旅行を始める前に何をすべきでしょうか?",
+"answer":"全員が適切に拘束されていることを確認してください。",
+"distractor1":"燃料レベルのみを確認してください",
+"distractor2":"発進後にミラーを調整する"
+},
+{
+"id": 648,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"一般常識",
+"question":"なぜ拘束装置に関する法律はすべての乗客にとって重要なのでしょうか?",
+"answer":"シートベルトを着用していない乗員は、衝突事故の際に自身や他者を負傷させる可能性がある。",
+"distractor1":"シートベルトは運転者のみを保護する",
+"distractor2":"乗客は衝突事故で影響を受けることは決してない"
+},
+{
+"id": 649,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"一般常識",
+"question":"乗客の安全を支える姿勢とはどのようなものか?",
+"answer":"責任感と安全意識を持つこと",
+"distractor1":"拘束に関する注意を無視する",
+"distractor2":"短い旅行を気軽に扱う"
+},
+{
+"id": 650,
+"englishName":"Quiz",
+"category":"シートベルト、チャイルドシート、乗客",
+"subcategory":"一般常識",
+"question":"拘束装置と乗客に関する重要なメッセージは何ですか?",
+"answer":"適切な拘束は命を救う",
+"distractor1":"地方道路ではシートベルトの着用は任意です",
+"distractor2":"乗客は拘束具なしの方が安全です"
+},
+{
+"id": 651,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"車両の道路走行適合性",
+"question":"車両の道路走行適合性とはどういう意味ですか?",
+"answer":"この車両は安全で、公道を走行するのに適しています。",
+"distractor1":"車は洗車済みです",
+"distractor2":"車両の燃料タンクは満タンです。"
+},
+{
+"id": 652,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"車両の道路走行適合性",
+"question":"車両が安全に運転できる状態であることを確認する責任は誰にあるのでしょうか?",
+"answer":"運転手",
+"distractor1":"車両メーカーのみ",
+"distractor2":"乗客のみ"
+},
+{
+"id": 653,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"車両の道路走行適合性",
+"question":"車両に重大な欠陥が生じた場合、どうすればよいでしょうか?",
+"answer":"修理されて安全になるまで運転しないでください",
+"distractor1":"夜間のみ運転する",
+"distractor2":"ハザードランプを点灯して、"
+},
+{
+"id": 654,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"車両の道路走行適合性",
+"question":"安全でない車両を運転することが危険なのはなぜですか?",
+"answer":"欠陥により制御不能や衝突事故が発生する可能性がある",
+"distractor1":"制限速度が引き上げられる",
+"distractor2":"ブレーキ性能が向上します"
+},
+{
+"id": 655,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"車両の道路走行適合性",
+"question":"旅行前に確認すべきことは何ですか?",
+"answer":"車両が安全で、合法であり、正常に動作していること",
+"distractor1":"ラジオの音量のみ",
+"distractor2":"車両の色のみ"
+},
+{
+"id": 656,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"タイヤ",
+"question":"安全運転においてタイヤが重要な理由は何ですか?",
+"answer":"これらは、ステアリング、ブレーキ、およびコントロールのためのグリップを提供します。",
+"distractor1":"彼らはヘッドライトを制御する",
+"distractor2":"信号を送る必要性を減らす"
+},
+{
+"id": 657,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"タイヤ",
+"question":"タイヤがひどく摩耗している場合はどうすれば良いでしょうか?",
+"answer":"さらに運転する前に交換してください。",
+"distractor1":"エンジンを温めるためにスピードを上げて",
+"distractor2":"雨天時のみ使用してください"
+},
+{
+"id": 658,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"タイヤ",
+"question":"タイヤの空気圧を定期的にチェックする必要があるのはなぜですか?",
+"answer":"空気圧が不適切だと、ハンドリング、ブレーキ性能、タイヤの摩耗に影響が出る可能性があります。",
+"distractor1":"道路の制限速度が変わります",
+"distractor2":"ブレーキの必要性をなくす"
+},
+{
+"id": 659,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"タイヤ",
+"question":"走行中にタイヤが故障した場合、どのような事態が起こり得るでしょうか?",
+"answer":"運転手が車両の制御を失う可能性がある",
+"distractor1":"車両は安全に瞬時に停止します",
+"distractor2":"ステアリング操作が楽になります"
+},
+{
+"id": 660,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"タイヤ",
+"question":"濡れた路面では、なぜ良質なタイヤが特に重要なのでしょうか?",
+"answer":"グリップ力を維持するのに役立ち、制動距離を短縮します。",
+"distractor1":"濡れた道路を乾かす",
+"distractor2":"ドライバーが制限速度を超えることを許可する"
+},
+{
+"id": 661,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"ブレーキ",
+"question":"ブレーキを良好な状態に保たなければならないのはなぜですか?",
+"answer":"車両が安全に減速および停止できるようにする",
+"distractor1":"それらは指標をより明るくする",
+"distractor2":"エンジン出力を向上させる"
+},
+{
+"id": 662,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"ブレーキ",
+"question":"ブレーキペダルに違和感を感じた場合はどうすればよいですか?",
+"answer":"できるだけ早くブレーキの点検を受けてください",
+"distractor1":"車がまだ動いている場合は無視してください",
+"distractor2":"ブレーキのテストのためにスピードを上げて運転する"
+},
+{
+"id": 663,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"ブレーキ",
+"question":"制動距離を長くする要因は何ですか?",
+"answer":"ブレーキの摩耗、タイヤの劣化、スピードの出し過ぎ、または滑りやすい路面",
+"distractor1":"晴天時のみ",
+"distractor2":"指標の使用"
+},
+{
+"id": 664,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"ブレーキ",
+"question":"運転中にブレーキが故障した場合、どうすればよいですか?",
+"answer":"落ち着いて、安全に減速し、可能であれば交通の流れから外れてください。",
+"distractor1":"加速して制御を取り戻す",
+"distractor2":"すべての照明を消してください"
+},
+{
+"id": 665,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"ブレーキ",
+"question":"長距離ドライブの前にブレーキを点検する必要があるのはなぜですか?",
+"answer":"長距離走行では、さまざまな状況下での確実なブレーキ操作が求められる場合がある。",
+"distractor1":"ブレーキは長距離走行時のみ使用する",
+"distractor2":"車両の燃料消費量が増える"
+},
+{
+"id": 666,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"ライトとインジケーター",
+"question":"ヘッドライトが正常に作動していなければならない理由は何ですか?",
+"answer":"それらはあなたが物事を見るのを助け、他の人があなたを見るのを助ける。",
+"distractor1":"それらは車両を速くする",
+"distractor2":"それらは鏡の必要性をなくす"
+},
+{
+"id": 667,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"ライトとインジケーター",
+"question":"ブレーキランプが重要な理由は何ですか?",
+"answer":"後続車のドライバーに、あなたが減速または停止していることを警告します。",
+"distractor1":"燃料レベルが表示されます",
+"distractor2":"彼らはサイドブレーキを操作する"
+},
+{
+"id": 668,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"ライトとインジケーター",
+"question":"インジケーターが機能しない場合は、どうすればよいですか?",
+"answer":"修理してもらい、必要に応じて安全な手信号を使用してください。",
+"distractor1":"永久に信号送信を停止する",
+"distractor2":"カーブを曲がる際はハイビームを使用してください"
+},
+{
+"id": 669,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"ライトとインジケーター",
+"question":"ヘッドライトはいつ使用すべきですか?",
+"answer":"夜間や視界が悪い時",
+"distractor1":"高速道路のみ",
+"distractor2":"追い越し時のみ"
+},
+{
+"id": 670,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"ライトとインジケーター",
+"question":"なぜ指標を正しく使用する必要があるのか?",
+"answer":"それらは、あなたが何をしようとしているかを他の道路利用者に伝えます。",
+"distractor1":"彼らはあなたを優先します",
+"distractor2":"急な車線変更が可能"
+},
+{
+"id": 671,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"フロントガラスとミラー",
+"question":"なぜ車のフロントガラスは清潔に保つ必要があるのでしょうか?",
+"answer":"視界を良好に保ち、まぶしさを軽減するため",
+"distractor1":"燃費を向上させるため",
+"distractor2":"車両の音を大きくするために"
+},
+{
+"id": 672,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"フロントガラスとミラー",
+"question":"フロントガラスにひびが入って視界が悪くなった場合、どうすれば良いでしょうか?",
+"answer":"安全に影響がある場合は、運転する前に修理してください。",
+"distractor1":"広がるまで無視する",
+"distractor2":"眩しさを軽減するために、より速く運転してください。"
+},
+{
+"id": 673,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"フロントガラスとミラー",
+"question":"なぜミラーは正しく調整する必要があるのですか?",
+"answer":"横や後ろの交通状況を確認するのに役立ちます",
+"distractor1":"指標の使用を避けるため",
+"distractor2":"車をより幅広く見せるため"
+},
+{
+"id": 674,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"フロントガラスとミラー",
+"question":"ミラーの調整はいつ行うべきですか?",
+"answer":"運転する前に",
+"distractor1":"車線変更時のみ",
+"distractor2":"逆方向に動かした後のみ"
+},
+{
+"id": 675,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"フロントガラスとミラー",
+"question":"なぜワイパーが正常に作動することが重要なのでしょうか?",
+"answer":"雨や水しぶきの中でも視界を維持するのに役立ちます。",
+"distractor1":"制動距離が短縮される",
+"distractor2":"彼らはヘッドライトを制御する"
+},
+{
+"id": 676,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"警告表示",
+"question":"重大な警告灯が点灯した場合、どうすればよいですか?",
+"answer":"必要に応じて安全な場所に停車し、問題を確認してください。",
+"distractor1":"ライトを覆って運転を続ける",
+"distractor2":"加速してシステムをリセットする"
+},
+{
+"id": 677,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"警告表示",
+"question":"ダッシュボードの警告灯を無視してはいけない理由とは?",
+"answer":"これらは安全上の問題や機械的な問題を示している可能性があります。",
+"distractor1":"これらは単なる装飾品です",
+"distractor2":"ラジオの音量を表示します"
+},
+{
+"id": 678,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"警告表示",
+"question":"オイル警告灯が点灯したままの場合はどうすればよいですか?",
+"answer":"安全に停車し、問題を確認してから続行してください。",
+"distractor1":"次のサービスエリアまで運転を続けてください。",
+"distractor2":"オイルを循環させるために、より速く走行してください。"
+},
+{
+"id": 679,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"警告表示",
+"question":"温度警告ランプが点灯した場合、どうすればよいですか?",
+"answer":"安全な場所に停車し、必要に応じて車両を冷ましてください。",
+"distractor1":"ハイビームを点灯する",
+"distractor2":"交通量が少ない場合は無視してください"
+},
+{
+"id": 680,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"警告表示",
+"question":"警告灯が不明瞭な場合はどうすればよいですか?",
+"answer":"車両のマニュアルを確認するか、専門家のアドバイスを受けてください。",
+"distractor1":"重要ではないと仮定する",
+"distractor2":"ダッシュボードの接続を解除します"
+},
+{
+"id": 681,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"体液レベル",
+"question":"エンジンオイルを点検する必要があるのはなぜですか?",
+"answer":"オイル不足はエンジンを損傷し、安全な運転に影響を与える可能性があります。",
+"distractor1":"道路交通規則が変わる",
+"distractor2":"タイヤの寿命を永遠に延ばす"
+},
+{
+"id": 682,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"体液レベル",
+"question":"冷却液が重要な理由は何ですか?",
+"answer":"エンジンの過熱を防ぐのに役立ちます",
+"distractor1":"インジケーターが点滅します",
+"distractor2":"ブレーキフルードの代替品です"
+},
+{
+"id": 683,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"体液レベル",
+"question":"なぜフロントガラスウォッシャー液のメンテナンスが必要なのでしょうか?",
+"answer":"フロントガラスの視界をクリアに保つのに役立ちます",
+"distractor1":"タイヤのグリップ力を向上させます",
+"distractor2":"停止距離を短縮します"
+},
+{
+"id": 684,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"体液レベル",
+"question":"ブレーキフルードが重要な理由は何ですか?",
+"answer":"ブレーキシステムが適切に機能するのに役立ちます",
+"distractor1":"ヘッドライトに電力を供給する",
+"distractor2":"タイヤを冷やす"
+},
+{
+"id": 685,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"体液レベル",
+"question":"車から液体が漏れていることに気づいたら、どうすればよいでしょうか?",
+"answer":"安全に影響が出る可能性がある場合は、運転前に車両を点検してもらってください。",
+"distractor1":"車が止まらない限り無視してください",
+"distractor2":"漏れを解消するために、より速く運転してください。"
+},
+{
+"id": 686,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"負荷と可視性",
+"question":"車両に荷物を積む際は、どのように積載すべきでしょうか?",
+"answer":"しっかりと固定されているので、動いたり倒れたりすることはありません。",
+"distractor1":"簡単にアクセスできるよう緩めに作られています",
+"distractor2":"運転手の膝の上"
+},
+{
+"id": 687,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"負荷と可視性",
+"question":"荷物が運転手の視界を遮ってはいけないのはなぜですか?",
+"answer":"運転手は全方向をはっきりと見渡せる必要がある",
+"distractor1":"視界が遮られると集中力が高まる",
+"distractor2":"鏡は不要になる"
+},
+{
+"id": 688,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"負荷と可視性",
+"question":"荷物が固定されていない場合、どのような事態が起こり得るでしょうか?",
+"answer":"ずれたり、倒れたり、危険を生じたりする可能性がある",
+"distractor1":"車両の安定性が向上します",
+"distractor2":"制動距離を短縮します"
+},
+{
+"id": 689,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"負荷と可視性",
+"question":"積荷が車両からはみ出してしまった場合は、どうすればよいですか?",
+"answer":"必要な場合は、しっかりと固定し、マークを付けてください。",
+"distractor1":"ゆっくり運転している場合は無視してください",
+"distractor2":"乗客に持たせてください"
+},
+{
+"id": 690,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"負荷と可視性",
+"question":"車内の緩んだ物を固定する必要があるのはなぜですか?",
+"answer":"急ブレーキや衝突時には危険になる可能性がある",
+"distractor1":"車両を軽量化する",
+"distractor2":"操縦性を向上させる"
+},
+{
+"id": 691,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"メンテナンス習慣",
+"question":"定期的な車両メンテナンスが重要な理由は何ですか?",
+"answer":"安全性に影響を与える可能性のある不具合を防ぐのに役立ちます",
+"distractor1":"道路交通規則に従う必要がなくなる",
+"distractor2":"より高速な走行が可能になる"
+},
+{
+"id": 692,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"メンテナンス習慣",
+"question":"車から異音が聞こえた場合、どうすればよいですか?",
+"answer":"危険になる前に点検してもらいましょう",
+"distractor1":"ラジオの音量を上げて",
+"distractor2":"スピードを上げてクリアする"
+},
+{
+"id": 693,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"メンテナンス習慣",
+"question":"車両の整備スケジュールに従うべき理由は何ですか?",
+"answer":"車両の信頼性と安全性を維持するのに役立ちます",
+"distractor1":"免許の種類が変わります",
+"distractor2":"クラッシュしないことを保証します"
+},
+{
+"id": 694,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"メンテナンス習慣",
+"question":"長距離旅行前に身につけておくと良い習慣は何ですか?",
+"answer":"タイヤ、オイル、ライト、および車両全体の状態を確認してください。",
+"distractor1":"音楽プレイリストのみをチェックする",
+"distractor2":"旅程が既知の場合は、メンテナンスは無視してください。"
+},
+{
+"id": 695,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"メンテナンス習慣",
+"question":"安全に関わる欠陥に気づいた場合、どうすればよいですか?",
+"answer":"運転が危険な場合は、修理を手配してから運転を続けてください。",
+"distractor1":"登録更新までお待ちください",
+"distractor2":"乗客に危険に注意するよう伝えてください。"
+},
+{
+"id": 696,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"一般的な安全原則",
+"question":"車両の欠陥に対する最も安全な対処法は何ですか?",
+"answer":"危険が生じる前に速やかに修理してください",
+"distractor1":"車両がまだ動いている場合は、それらを無視してください。",
+"distractor2":"修理する代わりにハザードランプを使用する"
+},
+{
+"id": 697,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"一般的な安全原則",
+"question":"ドライバーはなぜ基本的な車両点検方法を知っておくべきなのでしょうか?",
+"answer":"これらは運転前に問題を特定するのに役立ちます",
+"distractor1":"それらはすべての専門的なサービスに取って代わる",
+"distractor2":"ドライバーが警告灯を無視することを許可している"
+},
+{
+"id": 698,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"一般的な安全原則",
+"question":"旅行中に車両が危険な状態になった場合、どうすればよいですか?",
+"answer":"安全な場所に停車し、助けや修理の手配をしてください。",
+"distractor1":"目的地まで進んでください",
+"distractor2":"ハザードランプを点灯して右車線を走行してください"
+},
+{
+"id": 699,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"一般的な安全原則",
+"question":"車両の状態が他の道路利用者に影響を与えるのはなぜですか?",
+"answer":"故障は、他者を巻き込む危険や事故を引き起こす可能性がある",
+"distractor1":"これは車両所有者のみに影響します",
+"distractor2":"他のドライバーにも責任がある"
+},
+{
+"id": 700,
+"englishName":"Quiz",
+"category":"車両の安全性、欠陥、およびメンテナンス",
+"subcategory":"一般的な安全原則",
+"question":"車両安全に関する重要なメッセージは何ですか?",
+"answer":"安全な車両は、安全運転を可能にする。",
+"distractor1":"車両の安全性はオプションです",
+"distractor2":"メンテナンスが必要なのは新車だけです。"
+},
+{
+"id": 701,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"積荷の安全性",
+"question":"荷物を適切に固定しなければならないのはなぜですか?",
+"answer":"移動中にずれたり落ちたりしないようにするため",
+"distractor1":"車両の速度を上げる",
+"distractor2":"燃料品質を向上させるため"
+},
+{
+"id": 702,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"積荷の安全性",
+"question":"走行中に積荷が動いた場合、どのようなことが起こる可能性がありますか?",
+"answer":"車両の制御に影響を与え、危険を引き起こす可能性があります。",
+"distractor1":"操作性が向上します",
+"distractor2":"制動距離が短縮されます"
+},
+{
+"id": 703,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"積荷の安全性",
+"question":"荷物を積んで運転する前に、何をチェックすべきですか?",
+"answer":"荷物が安定しており、しっかりと固定されていること",
+"distractor1":"ラジオの設定のみ",
+"distractor2":"燃料計のみ"
+},
+{
+"id": 704,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"積荷の安全性",
+"question":"荷物が鏡や窓を塞いではいけない理由は?",
+"answer":"運転者は視界を良好に保つ必要がある",
+"distractor1":"牽引時のミラーはオプションです",
+"distractor2":"視界が遮られると集中力が高まる"
+},
+{
+"id": 705,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"積荷の安全性",
+"question":"積荷の一部が緩んでしまった場合は、どうすればよいですか?",
+"answer":"安全に停止し、安全を確保してから続行してください。",
+"distractor1":"引き続き安全運転を心がけてください。",
+"distractor2":"速度を上げて安定させる"
+},
+{
+"id": 706,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"積載制限",
+"question":"車両の積載制限が重要な理由は何ですか?",
+"answer":"過積載は安全性を低下させ、車両を損傷させる可能性があります。",
+"distractor1":"タイヤのグリップ力を向上させる",
+"distractor2":"ブレーキの必要性を軽減する"
+},
+{
+"id": 707,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"積載制限",
+"question":"車両が過積載になると、どのような事態が起こり得るでしょうか?",
+"answer":"操縦性や制動性能が悪化する可能性がある",
+"distractor1":"燃費は常に向上する",
+"distractor2":"停止距離が短くなる"
+},
+{
+"id": 708,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"積載制限",
+"question":"なぜ重量は均等に分散されるべきなのでしょうか?",
+"answer":"積載量の不均一は車両の安定性に影響を与える可能性がある",
+"distractor1":"インジケーターが明るくなります",
+"distractor2":"速度制限が変わります"
+},
+{
+"id": 709,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"積載制限",
+"question":"運転手は重い荷物を運ぶ前に何を知っておくべきか?",
+"answer":"車両の法定積載量",
+"distractor1":"車両の色のみ",
+"distractor2":"タイヤブランドのみ"
+},
+{
+"id": 710,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"積載制限",
+"question":"過積載車両が坂道で危険なのはなぜですか?",
+"answer":"重量が増えると、ブレーキ性能とコントロール性が低下する可能性があります。",
+"distractor1":"重い荷物はコーナリング性能を向上させる",
+"distractor2":"過積載車両はより早く停止する"
+},
+{
+"id": 711,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"牽引の基本",
+"question":"トレーラーを牽引する前に、運転手は何をすべきでしょうか?",
+"answer":"トレーラーがしっかりと接続され、安全であることを確認してください。",
+"distractor1":"タイヤの空気圧を最大まで上げる",
+"distractor2":"検査なしですぐに運転できます"
+},
+{
+"id": 712,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"牽引の基本",
+"question":"牽引が制動距離に影響を与えるのはなぜですか?",
+"answer":"重量が増えると、安全に停止するためにはより長い距離が必要になります。",
+"distractor1":"トレーラーは制動時間を短縮します",
+"distractor2":"停止距離は変わりません"
+},
+{
+"id": 713,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"牽引の基本",
+"question":"牽引時に重要な運転調整は何ですか?",
+"answer":"よりスムーズに運転し、車間距離を空けてください。",
+"distractor1":"カーブを曲がる時はもっと強く加速する",
+"distractor2":"車にもっと接近してついていく"
+},
+{
+"id": 714,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"牽引の基本",
+"question":"牽引中に速度を慎重に管理する必要があるのはなぜですか?",
+"answer":"速度が上がるとトレーラーの安定性が低下する可能性があります",
+"distractor1":"トレーラーは高速走行時の方が安全である",
+"distractor2":"速度は牽引に影響しない"
+},
+{
+"id": 715,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"牽引の基本",
+"question":"トレーラーを牽引して後退する前に、何をすべきですか?",
+"answer":"ゆっくりと移動し、周囲を注意深く確認してください。",
+"distractor1":"素早く後退してコントロールを維持する",
+"distractor2":"バックするときはミラーを無視してください"
+},
+{
+"id": 716,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"トレーラー装備",
+"question":"トレーラーのライトが正常に作動しなければならない理由は何ですか?",
+"answer":"これらは他の道路利用者にあなたの意図を伝えるのに役立ちます",
+"distractor1":"牽引速度が上がる",
+"distractor2":"それらはミラーを交換する"
+},
+{
+"id": 717,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"トレーラー装備",
+"question":"トレーラーは旅行前に何を点検すべきですか?",
+"answer":"タイヤ、ライト、接続部品、安全チェーン",
+"distractor1":"塗料の色のみ",
+"distractor2":"トレーラーの床だけ"
+},
+{
+"id": 718,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"トレーラー装備",
+"question":"牽引時に安全チェーンが重要な理由は何ですか?",
+"answer":"連結部が破損した場合にトレーラーを繋ぎ止めるのに役立ちます",
+"distractor1":"燃費を向上させる",
+"distractor2":"タイヤの摩耗を軽減します"
+},
+{
+"id": 719,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"トレーラー装備",
+"question":"トレーラーのタイヤの状態が悪いと、どのようなことが起こり得るでしょうか?",
+"answer":"トレーラーが不安定になったり、危険な状態になる可能性がある",
+"distractor1":"トレーラーのバックが容易になる",
+"distractor2":"タイヤは走行中に自動的に性能が向上します"
+},
+{
+"id": 720,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"トレーラー装備",
+"question":"トレーラーの連結部はなぜ安全でなければならないのでしょうか?",
+"answer":"連結部の緩みはトレーラーの分離を引き起こす可能性がある",
+"distractor1":"緩いカップリングは柔軟性を向上させる",
+"distractor2":"短距離移動では連結器は不要です"
+},
+{
+"id": 721,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"大型車両の認識",
+"question":"なぜドライバーは大型車両に余分なスペースを与えるべきなのか?",
+"answer":"大型車両は停止や操縦のために広いスペースを必要とする",
+"distractor1":"大型車両は乗用車よりも早く停止する",
+"distractor2":"大型車両は瞬時に方向転換できる"
+},
+{
+"id": 722,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"大型車両の認識",
+"question":"大型車両の周囲にある死角とは何ですか?",
+"answer":"運転手が他の道路利用者を視認できない可能性のある場所",
+"distractor1":"トラックだけが検出できる道路の欠陥",
+"distractor2":"専用駐車場"
+},
+{
+"id": 723,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"大型車両の認識",
+"question":"大型車両の前に割り込むことを避けるべき理由は何ですか?",
+"answer":"安全に停止できない可能性がある",
+"distractor1":"大型車両は常にゆっくり走行する",
+"distractor2":"トラックは瞬時に停止できる"
+},
+{
+"id": 724,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"大型車両の認識",
+"question":"大型車両が旋回時に大きく左右に振れるのはなぜですか?",
+"answer":"大型車両は旋回するためにより広いスペースを必要とする",
+"distractor1":"ステアリングが機能しない",
+"distractor2":"彼らはいつも複数の車線を違法に利用する"
+},
+{
+"id": 725,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"大型車両の認識",
+"question":"坂道で大型車両の近くを走行する際、運転手はどのような行動をとるべきでしょうか?",
+"answer":"辛抱強く、余裕を持って行動しましょう",
+"distractor1":"彼らのすぐ後ろを走る",
+"distractor2":"視界を確認せずに追い越す"
+},
+{
+"id": 726,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"運転行動",
+"question":"荷物を積載したり牽引したりする際に、最も安全な運転スタイルはどれですか?",
+"answer":"スムーズで制御された運転",
+"distractor1":"急加速と急ブレーキ",
+"distractor2":"急な車線変更"
+},
+{
+"id": 727,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"運転行動",
+"question":"牽引時にドライバーが車間距離を広く取るべき理由は?",
+"answer":"重量が増えると制動距離が長くなる",
+"distractor1":"トレーラーは車両をより速く停止させる",
+"distractor2":"車間距離はそれほど重要ではなくなる"
+},
+{
+"id": 728,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"運転行動",
+"question":"トレーラーを牽引する際に、ドライバーはどのような点を避けるべきでしょうか?",
+"answer":"急なハンドル操作、ブレーキ操作、または加速",
+"distractor1":"定期的に鏡を使う",
+"distractor2":"死角の確認"
+},
+{
+"id": 729,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"運転行動",
+"question":"牽引中にカーブを曲がる際に注意が必要なのはなぜですか?",
+"answer":"トレーラーは車両のバランスと直進性に影響を与える可能性があります",
+"distractor1":"トレーラーは曲がることができません",
+"distractor2":"コーナリングスピードは関係ない"
+},
+{
+"id": 730,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"運転行動",
+"question":"牽引中に追い越しをする際に重要なことは何ですか?",
+"answer":"時間とスペースに余裕を持たせてください",
+"distractor1":"他の車両の前に素早く後退する",
+"distractor2":"トレーラーの長さは無視してください"
+},
+{
+"id": 731,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"法的責任",
+"question":"車両の積荷を固定する責任は誰にありますか?",
+"answer":"運転手",
+"distractor1":"乗客のみ",
+"distractor2":"製造元のみ"
+},
+{
+"id": 732,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"法的責任",
+"question":"牽引装置はなぜ法的要件を満たさなければならないのですか?",
+"answer":"安全でない機器は、深刻な道路上の危険を引き起こす可能性があります。",
+"distractor1":"法的基準は任意です",
+"distractor2":"どんなロープでも安全に牽引できます"
+},
+{
+"id": 733,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"法的責任",
+"question":"荷物が適切に固定されていない場合、どのような事態が発生する可能性がありますか?",
+"answer":"運転手は罰則や安全上のリスクに直面する可能性がある",
+"distractor1":"交通量が少ない場合は何も問題ありません",
+"distractor2":"乗客のみが責任を負う"
+},
+{
+"id": 734,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"法的責任",
+"question":"運転者はなぜ自分の車の牽引制限を知っておく必要があるのでしょうか?",
+"answer":"制限を超えると、車両が危険になり、違法となる可能性があります。",
+"distractor1":"制限はトラックにのみ適用されます",
+"distractor2":"車両制限は任意の提案です"
+},
+{
+"id": 735,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"法的責任",
+"question":"牽引に関する規則がよくわからない場合、運転手はどうすべきでしょうか?",
+"answer":"牽引する前に公式のガイダンスを確認してください",
+"distractor1":"通常の運転規則で十分だと仮定する",
+"distractor2":"他のドライバーの設定をコピーする"
+},
+{
+"id": 736,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"一般的な安全原則",
+"question":"荷物を運ぶ際に最も安全な方法は?",
+"answer":"荷物をしっかり固定し、慎重に運転してください。",
+"distractor1":"移動時間を短縮するために、より速く運転してください。",
+"distractor2":"車両の操縦性の変化は無視してください"
+},
+{
+"id": 737,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"一般的な安全原則",
+"question":"牽引時に特別な注意が必要なのはなぜですか?",
+"answer":"牽引すると、車両の操縦性や停止の仕方が変わります。",
+"distractor1":"トレーラーはあらゆる車両の制御性を向上させます",
+"distractor2":"牽引は運転に影響を与えません"
+},
+{
+"id": 738,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"一般的な安全原則",
+"question":"大型車両に関して、運転手はどのような点に注意すべきでしょうか?",
+"answer":"彼らには反応するためのより多くの空間と時間が必要だ",
+"distractor1":"瞬時に停止できる",
+"distractor2":"彼らは常に制限速度以下で走行する"
+},
+{
+"id": 739,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"一般的な安全原則",
+"question":"牽引作業を行う前に、何をすべきでしょうか?",
+"answer":"車両、トレーラー、積荷を注意深く点検してください。",
+"distractor1":"トレーラーのライトのみを確認してください",
+"distractor2":"準備なしですぐに運転する"
+},
+{
+"id": 740,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"一般的な安全原則",
+"question":"安全な牽引と積載のための重要な原則は何ですか?",
+"answer":"準備と慎重な運転はリスクを軽減する",
+"distractor1":"速度が上がると牽引時の安定性が向上する",
+"distractor2":"積載量は車両の制御に影響を与えない"
+},
+{
+"id": 741,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"道路との相互作用",
+"question":"大型車両の周囲では、なぜ運転手は忍耐強く運転すべきなのでしょうか?",
+"answer":"大型車両は操縦に余分な時間とスペースが必要になる場合があります",
+"distractor1":"大型車両は常に意図的にゆっくり走行する",
+"distractor2":"高速道路では忍耐は不要です"
+},
+{
+"id": 742,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"道路との相互作用",
+"question":"大型車両を追い越す前に、何をすべきでしょうか?",
+"answer":"十分なクリアな空間と視界を確保してください。",
+"distractor1":"確認せずに突然出発する",
+"distractor2":"追い越す前に、しっかりと後続してください。"
+},
+{
+"id": 743,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"道路との相互作用",
+"question":"トラックの死角を走行することを避けるべき理由とは?",
+"answer":"トラックの運転手はあなたを見ることができないかもしれません",
+"distractor1":"死角はより安全な場所である",
+"distractor2":"トラックにはミラーがない"
+},
+{
+"id": 744,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"道路との相互作用",
+"question":"大型車両の近くを走行する際、ドライバーはどのような点に注意すべきでしょうか?",
+"answer":"旋回幅が広くなり、停止速度が遅くなり、死角も大きくなる。",
+"distractor1":"車よりも鋭いブレーキ",
+"distractor2":"瞬時の車線変更"
+},
+{
+"id": 745,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"道路との相互作用",
+"question":"トラックが旋回する際に、運転手はなぜ車間距離を空けるべきなのでしょうか?",
+"answer":"大型車両は追加の車線や旋回スペースが必要になる場合があります。",
+"distractor1":"トラックはその場で旋回できる",
+"distractor2":"方向転換するトラックは常に優先権を持つ"
+},
+{
+"id": 746,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"執行と罰則",
+"question":"積荷が安全でなかったり、固定されていなかったりすると、どのようなことが起こる可能性がありますか?",
+"answer":"運転手は罰則を受ける可能性があり、重大な危険を引き起こす可能性がある。",
+"distractor1":"速度が速いほど、荷物の安全性が高まる",
+"distractor2":"警告のみが発せられる"
+},
+{
+"id": 747,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"執行と罰則",
+"question":"牽引や積載に関する規則が施行されるのはなぜですか?",
+"answer":"すべての人々の道路安全性を向上させるために",
+"distractor1":"交通渋滞を悪化させる",
+"distractor2":"車両所有を減らすため"
+},
+{
+"id": 748,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"執行と罰則",
+"question":"牽引装置に欠陥があった場合、どのような事態が起こり得るでしょうか?",
+"answer":"トレーラーが危険な状態になったり、外れたりする可能性があります",
+"distractor1":"トレーラーの操縦が容易になる",
+"distractor2":"ゆっくり移動すれば何も問題ない"
+},
+{
+"id": 749,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"執行と罰則",
+"question":"運転手はなぜ積載量と牽引に関する法律を遵守しなければならないのでしょうか?",
+"answer":"これらは衝突や怪我を防ぐのに役立ちます",
+"distractor1":"これらは都市部でのみ適用されます",
+"distractor2":"これらは経験豊富なドライバーにとってオプションです"
+},
+{
+"id": 750,
+"englishName":"Quiz",
+"category":"積載、牽引、大型車両に関する認識",
+"subcategory":"執行と罰則",
+"question":"牽引や荷物運搬時に罰則を避けるための最善の方法は何ですか?",
+"answer":"法的要件を遵守し、安全な機器を維持する",
+"distractor1":"夜間のみ運転する",
+"distractor2":"他のドライバーの指示を頼りにしてください。"
+},
+{
+"id": 751,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"免許取得講座",
+"question":"なぜ異なるライセンス区分が用いられるのですか?",
+"answer":"車両の種類によって、必要な技能や許可が異なる。",
+"distractor1":"すべての車両は、どの運転免許証でも運転できます。",
+"distractor2":"免許区分はトラックにのみ適用されます"
+},
+{
+"id": 752,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"免許取得講座",
+"question":"運転者は新しいタイプの車両を運転する前に、どのような点を確認すべきでしょうか?",
+"answer":"彼らの免許証で運転できること",
+"distractor1":"燃料レベルのみ",
+"distractor2":"登録の有効期限のみ"
+},
+{
+"id": 753,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"免許取得講座",
+"question":"自分の運転免許証で認められている車両のみを運転することが重要なのはなぜですか?",
+"answer":"自分の免許区分外の車を運転することは違法であり、危険です。",
+"distractor1":"車両の種類は関係ない",
+"distractor2":"どの運転手でも大型車両を運転できます"
+},
+{
+"id": 754,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"免許取得講座",
+"question":"仮免許では何が許可されますか?",
+"answer":"教習生の条件下における監督付き運転練習",
+"distractor1":"制限のない単独運転",
+"distractor2":"大型車両を運転する"
+},
+{
+"id": 755,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"免許取得講座",
+"question":"仮免許にはなぜ制限があるのですか?",
+"answer":"新米ドライバーはまだ経験を積んでいる段階です",
+"distractor1":"経験豊富なドライバーにはより多くの監督が必要である",
+"distractor2":"制限は観光客にのみ適用されます"
+},
+{
+"id": 756,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"Lプレート",
+"question":"なぜ運転免許取得希望者はLプレートを表示しなければならないのですか?",
+"answer":"他の道路利用者に、運転手が学習中であることを示すため",
+"distractor1":"より高い速度制限を可能にするため",
+"distractor2":"シートベルトを着用しないために"
+},
+{
+"id": 757,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"Lプレート",
+"question":"初心者マークはどこに表示すべきですか?",
+"answer":"車両の前部と後部に明確に表示されています",
+"distractor1":"トランク内部のみ",
+"distractor2":"ダッシュボードのみ"
+},
+{
+"id": 758,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"Lプレート",
+"question":"教習中のドライバーは誰が監督しなければならないのか?",
+"answer":"資格のある監督運転手",
+"distractor1":"どの乗客でも",
+"distractor2":"別の教習中のドライバー"
+},
+{
+"id": 759,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"Lプレート",
+"question":"なぜ運転免許取得希望者は様々な条件下で練習する必要があるのでしょうか?",
+"answer":"経験は安全運転スキルの向上に役立つ",
+"distractor1":"郊外ではどこも交通ルールが変わる",
+"distractor2":"学習者は高速道路での練習のみを行う必要がある"
+},
+{
+"id": 760,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"Lプレート",
+"question":"運転免許取得を目指す人は、運転中に何を携帯すべきでしょうか?",
+"answer":"彼らの仮免許証",
+"distractor1":"パスポートのみ",
+"distractor2":"空白のログブックのみ"
+},
+{
+"id": 761,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"P1制限",
+"question":"P1ドライバーにはなぜ特別な制限が課せられているのですか?",
+"answer":"運転経験を積みながらリスクを軽減する",
+"distractor1":"より高い速度制限を可能にするため",
+"distractor2":"道路交通規則を置き換える"
+},
+{
+"id": 762,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"P1制限",
+"question":"P1ドライバーは運転前に何をすべきでしょうか?",
+"answer":"仮免許のすべての条件を理解し、遵守してください。",
+"distractor1":"一時的な制限を無視する",
+"distractor2":"友達と一緒の時だけ運転する"
+},
+{
+"id": 763,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"P1制限",
+"question":"なぜ危険な運転行動に制限が課されるのか?",
+"answer":"初心者ドライバーは事故に遭いやすい",
+"distractor1":"経験豊富なドライバーはスキルが低い",
+"distractor2":"制限はあくまで便宜上のものです"
+},
+{
+"id": 764,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"P1制限",
+"question":"P1ドライバーは運転中に何を表示すべきでしょうか?",
+"answer":"はっきりと見えるPプレート",
+"distractor1":"Lプレートのみ",
+"distractor2":"プレートは不要です"
+},
+{
+"id": 765,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"P1制限",
+"question":"仮免許ドライバーにとって最も安全な心構えとは何でしょうか?",
+"answer":"慎重に運転し、すべての条件に従ってください。",
+"distractor1":"自信をつけるために、もっとリスクを取ってみよう。",
+"distractor2":"他人の危険な行動を真似する"
+},
+{
+"id": 766,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"携帯電話",
+"question":"なぜ仮免許取得者や初心者ドライバーに対して、携帯電話の使用に関する規則が厳しいのでしょうか?",
+"answer":"携帯電話の使用による注意散漫は、衝突事故のリスクを大幅に高める。",
+"distractor1":"スマートフォンは反応時間を向上させる",
+"distractor2":"経験豊富なドライバーだけが注意散漫になる"
+},
+{
+"id": 767,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"携帯電話",
+"question":"運転免許取得中の人や仮免許取得者は、運転中に携帯電話をどのように扱うべきでしょうか?",
+"answer":"法律で許可されている場合を除き、使用を避けてください。",
+"distractor1":"信号機ではテキストのみ",
+"distractor2":"ナビゲーションに常に携帯電話を使用する"
+},
+{
+"id": 768,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"携帯電話",
+"question":"運転中にメールを打つのはなぜ危険なのでしょうか?",
+"answer":"視覚、思考、制御を妨げる",
+"distractor1":"集中力を高める",
+"distractor2":"乗客のみに影響します"
+},
+{
+"id": 769,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"携帯電話",
+"question":"緊急に携帯電話を使う必要が生じた場合、どうすれば良いでしょうか?",
+"answer":"使用する前に安全に停止してください",
+"distractor1":"片手でハンドル操作しながら使用してください",
+"distractor2":"ダッシュボードの下に持ってください"
+},
+{
+"id": 770,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"携帯電話",
+"question":"運転中に携帯電話を使用する際の最も安全な方法は?",
+"answer":"運転に全力を注ぐ",
+"distractor1":"メッセージを簡単に確認する",
+"distractor2":"赤信号でソーシャルメディアを使う"
+},
+{
+"id": 771,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"乗客",
+"question":"なぜ乗客は新米ドライバーの注意をそらす可能性があるのか?",
+"answer":"会話や行動は集中力を低下させる可能性がある",
+"distractor1":"乗客のブレーキ性能が向上する",
+"distractor2":"乗客が増えることで鏡の必要性がなくなる"
+},
+{
+"id": 772,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"乗客",
+"question":"初心者ドライバーにとって、どのような乗客の行動が最も安全でしょうか?",
+"answer":"落ち着いていて、気を散らさない行動",
+"distractor1":"大音量の音楽と叫び声",
+"distractor2":"友人からの絶え間ない指示"
+},
+{
+"id": 773,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"乗客",
+"question":"なぜ一部の仮免許運転者には乗客制限が適用される場合があるのでしょうか?",
+"answer":"注意散漫や衝突リスクを軽減するため",
+"distractor1":"車両の速度を上げる",
+"distractor2":"シートベルトの使用を避けるため"
+},
+{
+"id": 774,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"乗客",
+"question":"運転手は乗客に関してどのような点に注意すべきでしょうか?",
+"answer":"全員が安全に着席し、拘束されています。",
+"distractor1":"乗車時間が短い場合は、乗客は立っても構いません。",
+"distractor2":"シートベルトが必要なのは前席の乗客のみです。"
+},
+{
+"id": 775,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"乗客",
+"question":"運転免許を取得したばかりの人が、友人を乗せて運転する際、最も安全な方法は何ですか?",
+"answer":"気を散らすものを避け、運転に集中する",
+"distractor1":"運転技術を披露しよう",
+"distractor2":"他の車両とレースをする"
+},
+{
+"id": 776,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"運転時間",
+"question":"なぜ教習生は監督下での運転時間を記録する必要があるのでしょうか?",
+"answer":"練習時間は運転経験を積むのに役立ちます",
+"distractor1":"運転免許試験の代わりに時間制",
+"distractor2":"高速道路での運転のみが対象となります。"
+},
+{
+"id": 777,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"運転時間",
+"question":"夜間運転の練習が重要な理由は何ですか?",
+"answer":"さまざまな状況に応じて追加のスキルが必要となる",
+"distractor1":"夜間は交通規則は適用されません",
+"distractor2":"夜間の運転は昼間の運転よりも簡単だ"
+},
+{
+"id": 778,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"運転時間",
+"question":"運転免許取得を目指す人は、練習中に何を目標にすべきでしょうか?",
+"answer":"さまざまな交通状況や気象条件下での経験",
+"distractor1":"静かな道路のみを走行",
+"distractor2":"交差点を永久に避ける"
+},
+{
+"id": 779,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"運転時間",
+"question":"指導付き実習が価値あるものとなるのはなぜか?",
+"answer":"これは学習者がより安全な運転習慣を身につけるのに役立ちます",
+"distractor1":"道路交通規則の必要性をなくす",
+"distractor2":"クラッシュしないことを保証します"
+},
+{
+"id": 780,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"運転時間",
+"question":"運転時間を記録する際に重要なことは何ですか?",
+"answer":"記録が正確かつ正直であることを確認してください。",
+"distractor1":"後で記憶を頼りに時間を推定する",
+"distractor2":"簡単な旅行のみ記録する"
+},
+{
+"id": 781,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"減点と罰則",
+"question":"なぜ減点制度が採用されているのですか?",
+"answer":"安全で合法的な運転を促進する",
+"distractor1":"スピード違反を奨励する",
+"distractor2":"燃費を向上させるため"
+},
+{
+"id": 782,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"減点と罰則",
+"question":"減点点数が過剰に蓄積されると、どのような事態が起こる可能性がありますか?",
+"answer":"免許が停止または影響を受ける可能性があります",
+"distractor1":"ライセンスは自動的にアップグレードされます",
+"distractor2":"道路交通法はもはや適用されない"
+},
+{
+"id": 783,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"減点と罰則",
+"question":"仮免許取得者や初心者ドライバーはなぜ交通違反を避けるべきなのでしょうか?",
+"answer":"ペナルティは彼らの進歩能力に影響を与える可能性がある",
+"distractor1":"違反行為は運転技術を向上させる",
+"distractor2":"経験豊富なドライバーのみが罰則を受ける"
+},
+{
+"id": 784,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"減点と罰則",
+"question":"罰則を回避する最も安全な方法は何ですか?",
+"answer":"道路交通規則と免許条件を遵守してください。",
+"distractor1":"日中のみ運転してください",
+"distractor2":"他のドライバーの行動を真似る"
+},
+{
+"id": 785,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"減点と罰則",
+"question":"なぜ危険運転行為に対する罰則はより厳しくなっているのか?",
+"answer":"危険な行動は衝突リスクを高める",
+"distractor1":"罰則はランダムです",
+"distractor2":"危険運転は運転者のみに影響する"
+},
+{
+"id": 786,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"テストと進捗状況",
+"question":"仮免許取得者は、なぜ次の段階に進む前に試験に合格しなければならないのですか?",
+"answer":"テストは運転に関する知識とスキルを確認するのに役立ちます",
+"distractor1":"試験は経験豊富なドライバーのみを対象としています",
+"distractor2":"試験は監督下での実践に取って代わる"
+},
+{
+"id": 787,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"テストと進捗状況",
+"question":"運転免許試験を受ける前に、教習生は何をすべきでしょうか?",
+"answer":"安全運転を心がけ、交通ルールを理解しましょう",
+"distractor1":"ルートだけを記憶する",
+"distractor2":"駐車の練習は避けてください"
+},
+{
+"id": 788,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"テストと進捗状況",
+"question":"次のライセンス段階に進む前に、経験を積むことが重要なのはなぜですか?",
+"answer":"経験は衝突リスクの軽減に役立つ",
+"distractor1":"経験は用心深さを不要にする",
+"distractor2":"初心者ドライバーは練習なしでも安全だ"
+},
+{
+"id": 789,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"テストと進捗状況",
+"question":"運転免許取得の過程で、ドライバーはどのような点に重点を置くべきでしょうか?",
+"answer":"安全で責任ある運転習慣を身につける",
+"distractor1":"交通の流れよりも速く走る",
+"distractor2":"監視を完全に回避する"
+},
+{
+"id": 790,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"テストと進捗状況",
+"question":"運転指導義務の目的の一つは何ですか?",
+"answer":"自信と実践経験を積むため",
+"distractor1":"道路安全教育に代わるもの",
+"distractor2":"危険な運転を助長する"
+},
+{
+"id": 791,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"一般コンプライアンス",
+"question":"運転手はなぜ免許の条件を守らなければならないのですか?",
+"answer":"安全性を向上させるための条件が設計されています",
+"distractor1":"条件は任意です",
+"distractor2":"条件は高速道路でのみ適用されます"
+},
+{
+"id": 792,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"一般コンプライアンス",
+"question":"運転免許証の規則について不明な点がある場合、ドライバーはどうすればよいでしょうか?",
+"answer":"道路管理当局の公式情報を確認してください",
+"distractor1":"他のドライバーを参考に推測する",
+"distractor2":"テストされるまではルールを無視してください"
+},
+{
+"id": 793,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"一般コンプライアンス",
+"question":"仮免許取得者や初心者ドライバーにとって、法令遵守が重要なのはなぜですか?",
+"answer":"安全運転の習慣を早期に身につけるのに役立ちます",
+"distractor1":"安全習慣が必要なのは、完全な免許保持者のみです。",
+"distractor2":"法令遵守は安全性に影響しない"
+},
+{
+"id": 794,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"一般コンプライアンス",
+"question":"運転中に携帯すべきものは何ですか?",
+"answer":"有効な運転免許証",
+"distractor1":"保険証のみ",
+"distractor2":"写真付き身分証明書のみ"
+},
+{
+"id": 795,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"一般コンプライアンス",
+"question":"免許条件に関して、最も安全なアプローチは何でしょうか?",
+"answer":"常に理解し、遵守してください。",
+"distractor1":"慣れた道路の状況は無視してください",
+"distractor2":"警察が近くにいる時だけ彼らに従う"
+},
+{
+"id": 796,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"最終原則",
+"question":"段階的免許制度の主な目的は何ですか?",
+"answer":"ドライバーが時間をかけて安全に経験を積めるように支援する",
+"distractor1":"道路の混雑を悪化させる",
+"distractor2":"道路交通規則の必要性を減らす"
+},
+{
+"id": 797,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"最終原則",
+"question":"なぜ初心者ドライバーにとって忍耐力が重要なのでしょうか?",
+"answer":"運転技術は経験を積むにつれて徐々に向上する。",
+"distractor1":"速く運転するとスキルが最速で身につく",
+"distractor2":"免許を取得すれば、忍耐は不要です"
+},
+{
+"id": 798,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"最終原則",
+"question":"初心者ドライバーは、何に最も重点を置くべきでしょうか?",
+"answer":"安全で責任ある、そして合法的な運転",
+"distractor1":"他の車より速く走る",
+"distractor2":"乗客に好印象を与える"
+},
+{
+"id": 799,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"最終原則",
+"question":"ドライバーにとって経験と判断力が重要なのはなぜですか?",
+"answer":"これらはドライバーが危険を認識し、安全に対応するのに役立ちます",
+"distractor1":"道路標識の代わりに",
+"distractor2":"鏡の必要性をなくす"
+},
+{
+"id": 800,
+"englishName":"Quiz",
+"category":"運転免許、仮免許、Pプレートに関する規則(ACT)",
+"subcategory":"最終原則",
+"question":"運転免許取得を目指す人や仮免許取得者にとっての重要なメッセージは何ですか?",
+"answer":"幼い頃に身につけた安全な習慣は、一生涯続く。",
+"distractor1":"交通ルールは時間の経過とともに重要性が低下する",
+"distractor2":"経験だけが安全運転を保証する"
+}
+]
