@@ -1,0 +1,8002 @@
+[
+{
+"id": 1,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"一般道路规则",
+"question":"在华盛顿州,道路交通规则的主要目的是什么?",
+"answer":"为了帮助道路使用者安全、可预测地出行",
+"distractor1":"给予大型车辆优先权",
+"distractor2":"允许驾驶员自行决定规则"
+},
+{
+"id": 2,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"让路",
+"question":"在华盛顿州一个没有路标的十字路口,通常应该给谁让路?",
+"answer":"右侧驶来的车辆",
+"distractor1":"左侧驶来的车辆",
+"distractor2":"只有比你行驶速度快的车辆"
+},
+{
+"id": 3,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"交叉路口",
+"question":"在十字路口右转时,必须让哪辆车先行?",
+"answer":"迎面而来的车辆直行或左转",
+"distractor1":"只有你身后的车辆",
+"distractor2":"左侧仅限行人通行"
+},
+{
+"id": 4,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"环岛",
+"question":"进入环岛前必须做什么?",
+"answer":"让行环岛内已行驶的车辆",
+"distractor1":"每次进入前都要停下来",
+"distractor2":"只让左侧车辆先行"
+},
+{
+"id": 5,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"超车与并入",
+"question":"什么情况下超车是不安全的?",
+"answer":"当你无法清楚地看到驶近的车辆时",
+"distractor1":"当前方车辆行驶速度低于限速时",
+"distractor2":"当道路笔直畅通时"
+},
+{
+"id": 6,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"车道使用情况",
+"question":"在多车道道路上,变换车道前应该做什么?",
+"answer":"检查后视镜和盲点,打转向灯,并让行。",
+"distractor1":"移动后才发出信号",
+"distractor2":"快速行驶,以便其他司机减速。"
+},
+{
+"id": 7,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"交通信号灯",
+"question":"黄灯常亮是什么意思?",
+"answer":"如果可以安全停下,请停止。",
+"distractor1":"加速通过路口",
+"distractor2":"无需检查即可继续"
+},
+{
+"id": 8,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"交通标志",
+"question":"遇到停车标志时,你必须做什么?",
+"answer":"完全停车并让行后再继续行驶。",
+"distractor1":"仅在交通拥堵时减速。",
+"distractor2":"只有当其他驾驶员先停车时,您才需要停车。"
+},
+{
+"id": 9,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"行人与过街设施",
+"question":"在人行横道上,什么情况下必须让行?",
+"answer":"当行人正在过马路或进入过马路时",
+"distractor1":"只有当行人走到路中间时,才能横穿马路。",
+"distractor2":"仅限上课时间"
+},
+{
+"id": 10,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"紧急车辆",
+"question":"当紧急车辆闪着灯或鸣着警笛靠近时,你应该怎么做?",
+"answer":"一旦安全,立即避开它的行进路线。",
+"distractor1":"保持车速和车道",
+"distractor2":"立即停车,无需查看交通状况"
+},
+{
+"id": 11,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"道路标线",
+"question":"连续中心线通常意味着什么?",
+"answer":"除非有例外情况,否则不得越过此路。",
+"distractor1":"你可以随时穿过它进行超车。",
+"distractor2":"它仅适用于重型车辆"
+},
+{
+"id": 12,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"让路",
+"question":"从车道驶入公路时,应该给谁让路?",
+"answer":"道路或人行道上的车辆、骑自行车的人和行人",
+"distractor1":"道路上只有机动车辆",
+"distractor2":"只有你正前方的行人。"
+},
+{
+"id": 13,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"交叉路口",
+"question":"在没有标志的丁字路口,谁应该让行?",
+"answer":"终点路上的司机",
+"distractor1":"司机继续行驶在道路上",
+"distractor2":"司机车速更快"
+},
+{
+"id": 14,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"车道使用情况",
+"question":"当道路上画有车道箭头时,你必须做什么?",
+"answer":"请仅按车道指示方向行驶",
+"distractor1":"如果交通顺畅,可以随意选择方向。",
+"distractor2":"无论箭头指向如何,都跟随前方车辆行驶。"
+},
+{
+"id": 15,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"交通信号灯",
+"question":"红灯时你必须做什么?",
+"answer":"停车并保持停车状态,直至获准通行。",
+"distractor1":"稍作停留,如果情况允许则继续。",
+"distractor2":"放慢速度,小心行驶。"
+},
+{
+"id": 16,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"超车与并入",
+"question":"并入另一条车道时必须做什么?",
+"answer":"让行已在该车道上的车辆",
+"distractor1":"预计其他车辆会为你让路。",
+"distractor2":"鸣笛示意其他人让开"
+},
+{
+"id": 17,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"行人与过街设施",
+"question":"转弯进入公路时,应该给谁让路?",
+"answer":"行人正在过马路,你即将进入这条路。",
+"distractor1":"只有行人才能在标有路标的人行横道上通行。",
+"distractor2":"只有行人才可以从你的右侧过马路。"
+},
+{
+"id": 18,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"一般道路规则",
+"question":"何时应该发出指示?",
+"answer":"转弯、变换车道或向左/向右移动之前",
+"distractor1":"只有当后面有其他车辆时才行",
+"distractor2":"仅在交通信号灯处"
+},
+{
+"id": 19,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"环岛",
+"question":"在环岛路口何时应该打左转灯?",
+"answer":"离开环岛时,如果可行的话",
+"distractor1":"只有在进入环岛时",
+"distractor2":"绝不,因为环岛不需要信号灯。"
+},
+{
+"id": 20,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"道路标线",
+"question":"虚线车道线允许你做什么?",
+"answer":"安全时再变换车道。",
+"distractor1":"不打转向灯就变换车道",
+"distractor2":"在两条车道之间行驶"
+},
+{
+"id": 21,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"一般道路规则",
+"question":"什么情况下必须低于限速行驶?",
+"answer":"当天气、交通或路况使限速变得不安全时",
+"distractor1":"只有当警察在附近时才行",
+"distractor2":"如果公布的限额更高,则绝不这样做。"
+},
+{
+"id": 22,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"交叉路口",
+"question":"什么情况下不应该进入十字路口?",
+"answer":"当前方车辆会挡住你在十字路口的去路时",
+"distractor1":"当信号灯为绿灯时",
+"distractor2":"当你打算左转时"
+},
+{
+"id": 23,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"让路",
+"question":"变换车道时谁先让行?",
+"answer":"司机正在变换车道",
+"distractor1":"司机已经在车道上了",
+"distractor2":"行驶速度较慢的司机"
+},
+{
+"id": 24,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"交通标志",
+"question":"看到“让路”标志需要做什么?",
+"answer":"必要时减速或停车,并让行。",
+"distractor1":"始终停顿三秒钟",
+"distractor2":"请继续,因为您拥有优先权。"
+},
+{
+"id": 25,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"紧急车辆",
+"question":"为什么必须给鸣笛闪灯的紧急车辆让路?",
+"answer":"所以它可以快速安全地通过。",
+"distractor1":"只是为了避免被罚款",
+"distractor2":"只有当你在高速公路上时"
+},
+{
+"id": 26,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"道路标线",
+"question":"双连续中心线是什么意思?",
+"answer":"除非有例外情况,否则不得越过这些障碍。",
+"distractor1":"你可以穿过它们来超越慢速车辆。",
+"distractor2":"它们标示着一条专用停车道"
+},
+{
+"id": 27,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"超车与并入",
+"question":"超车前,你必须确定什么?",
+"answer":"这样做是合法、安全的,而且有足够的安全距离。",
+"distractor1":"前方车辆低于限速",
+"distractor2":"你可以短暂地超过限速。"
+},
+{
+"id": 28,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"行人与过街设施",
+"question":"在共享区域内,通常谁拥有优先权?",
+"answer":"行人",
+"distractor1":"机动车辆",
+"distractor2":"最快的道路使用者"
+},
+{
+"id": 29,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"一般道路规则",
+"question":"路况突然变化时应该怎么办?",
+"answer":"根据路况调整车速和驾驶方式。",
+"distractor1":"继续按规定的限速行驶",
+"distractor2":"更紧密地跟随最近的车辆"
+},
+{
+"id": 30,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"交叉路口",
+"question":"在设有“停止”标志的停车线上,你应该在哪里停车?",
+"answer":"在停止线处或之前",
+"distractor1":"在那条线之后,你可以看得更清楚",
+"distractor2":"就在标志旁边"
+},
+{
+"id": 31,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"车道使用情况",
+"question":"如果你的车道即将结束,你应该怎么办?",
+"answer":"出现合适的空隙时,发出信号并安全并线。",
+"distractor1":"强行驶入下一条车道",
+"distractor2":"在车道尽头突然停车"
+},
+{
+"id": 32,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"交通标志",
+"question":"禁止掉头标志是什么意思?",
+"answer":"你绝对不能在那里掉头。",
+"distractor1":"如果附近没有车辆,则允许掉头。",
+"distractor2":"只有卡车禁止掉头。"
+},
+{
+"id": 33,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"一般道路规则",
+"question":"开车时如果对某项交通规则不确定,应该怎么办?",
+"answer":"选择最安全合法的行动,并谨慎行事。",
+"distractor1":"复制你旁边司机的指令",
+"distractor2":"停在车道上做决定"
+},
+{
+"id": 34,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"紧急车辆",
+"question":"当经过一辆停着并闪着灯的紧急车辆时,你应该怎么做?",
+"answer":"减速慢行,谨慎安全通过。",
+"distractor1":"保持车速,避免延误交通。",
+"distractor2":"经过时请鸣笛。"
+},
+{
+"id": 35,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"行人与过街设施",
+"question":"当儿童过马路时,在儿童过马路点附近你必须做什么?",
+"answer":"停车让行,直到安全为止。",
+"distractor1":"慢慢绕过它们",
+"distractor2":"只有在交通信号灯为红灯时才让行"
+},
+{
+"id": 36,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"车道使用情况",
+"question":"什么情况下可以驶入公交车道?",
+"answer":"只有在标志或交通规则允许的情况下",
+"distractor1":"每当交通拥堵时",
+"distractor2":"当你在500米范围内转弯时"
+},
+{
+"id": 37,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"超车与并入",
+"question":"被超车时应该避免什么?",
+"answer":"在其他车辆超车时加速。",
+"distractor1":"安全时靠左行驶",
+"distractor2":"保持匀速"
+},
+{
+"id": 38,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"交叉路口",
+"question":"在掉头之前,你必须确保什么?",
+"answer":"对所有道路使用者来说,这样做是允许的且安全的。",
+"distractor1":"你现在在左侧车道。",
+"distractor2":"其他车辆都会为你停车。"
+},
+{
+"id": 39,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"交通标志",
+"question":"“靠左行驶”的标志要求你做什么?",
+"answer":"从标志牌左侧通过。",
+"distractor1":"在下一条街左转",
+"distractor2":"仅使用右侧车道"
+},
+{
+"id": 40,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"让路",
+"question":"离开停车位时,必须给谁让路?",
+"answer":"您的移动将影响所有车辆和行人。",
+"distractor1":"只有从后方驶来的车辆",
+"distractor2":"只有行人才能在标有路标的人行横道上通行。"
+},
+{
+"id": 41,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"道路标线",
+"question":"彩绘交通岛通常代表什么?",
+"answer":"除非获得许可或确有必要,否则不得驾车驶入该路段。",
+"distractor1":"这里可以短暂停车。",
+"distractor2":"它标志着超车道"
+},
+{
+"id": 42,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"交通信号灯",
+"question":"红灯时什么时候可以左转?",
+"answer":"只有在标志允许且安全的情况下才能这样做。",
+"distractor1":"只要没有交通拥堵",
+"distractor2":"只有在夜晚"
+},
+{
+"id": 43,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"一般道路规则",
+"question":"作为西澳的学员或驾驶员,您的责任是什么?",
+"answer":"了解并遵守交通规则,安全驾驶。",
+"distractor1":"只学习考试中出现的规则",
+"distractor2":"依靠乘客的指示来决定该怎么做。"
+},
+{
+"id": 44,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"让路",
+"question":"从路边驶入车流时,应该怎么做?",
+"answer":"让路给路上的车辆",
+"distractor1":"立即发出信号并进入",
+"distractor2":"只让重型车辆先行"
+},
+{
+"id": 45,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"车道使用情况",
+"question":"什么情况下可以越过破损的车道线?",
+"answer":"何时变换车道既安全又合法",
+"distractor1":"仅当右转时",
+"distractor2":"绝不"
+},
+{
+"id": 46,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"行人与过街设施",
+"question":"在交通信号灯处,驾驶员何时必须让行人先行?",
+"answer":"当行人依法过马路时",
+"distractor1":"只有当行人挥手时",
+"distractor2":"只有当驾驶员向右转弯时才会这样。"
+},
+{
+"id": 47,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"交叉路口",
+"question":"在没有交通信号灯的十字路口,关键的让行规则是什么?",
+"answer":"请让右侧车辆先行",
+"distractor1":"请让左侧车辆先行",
+"distractor2":"只给公交车让路"
+},
+{
+"id": 48,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"交通标志",
+"question":"单行道标志是什么意思?",
+"answer":"车辆必须仅按所示方向行驶。",
+"distractor1":"这条路只有一条车道",
+"distractor2":"一次只允许一辆车驶入。"
+},
+{
+"id": 49,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"一般道路规则",
+"question":"如果警察指挥交通的方式与标志或信号灯不同,你应该怎么做?",
+"answer":"服从警察的指示",
+"distractor1":"只遵守交通信号灯",
+"distractor2":"跟随前车行驶"
+},
+{
+"id": 50,
+"englishName":"Quiz",
+"category":"道路规则与法律",
+"subcategory":"紧急车辆",
+"question":"如果紧急车辆需要通行,最安全的应对措施是什么?",
+"answer":"保持冷静,如有需要请示意,然后安全地移开。",
+"distractor1":"立即猛踩刹车",
+"distractor2":"加快速度,才能保持领先。"
+},
+{
+"id": 51,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"监管标志",
+"question":"看到“停止”标志需要做什么?",
+"answer":"完全停止并让行后再继续前进。",
+"distractor1":"减速慢行,如果道路状况良好,则继续前行。",
+"distractor2":"仅当有其他车辆时才停车。"
+},
+{
+"id": 52,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"监管标志",
+"question":"看到“让路”标志需要做什么?",
+"answer":"必要时减速或停车并让行",
+"distractor1":"始终停顿三秒钟",
+"distractor2":"请继续,因为您拥有优先权。"
+},
+{
+"id": 53,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"监管标志",
+"question":"“禁止入内”标志是什么意思?",
+"answer":"你不得驾车越过标志驶入那条路",
+"distractor1":"只有本地车辆才能进入",
+"distractor2":"非高峰时段允许入场"
+},
+{
+"id": 54,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"监管标志",
+"question":"单行道标志是什么意思?",
+"answer":"车辆必须仅按所示方向行驶。",
+"distractor1":"这条路只有一条车道",
+"distractor2":"同一时间只能有一辆车使用这条道路。"
+},
+{
+"id": 55,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"监管标志",
+"question":"禁止掉头标志是什么意思?",
+"answer":"您不得在该地点掉头。",
+"distractor1":"如果附近没有车辆,则允许掉头。",
+"distractor2":"只有重型车辆禁止掉头。"
+},
+{
+"id": 56,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"限速标志",
+"question":"限速标志显示的是什么?",
+"answer":"在良好条件下允许的最高速度",
+"distractor1":"你必须达到的最低行驶速度",
+"distractor2":"仅建议速度"
+},
+{
+"id": 57,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"限速标志",
+"question":"新的限速规定何时生效?",
+"answer":"从经过限速标志的那一刻起",
+"distractor1":"只有在下一个十字路口之后。",
+"distractor2":"标志牌后100米"
+},
+{
+"id": 58,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"限速标志",
+"question":"在华盛顿州,如果学校附近出现闪烁的限速标志,应该怎么办?",
+"answer":"减速至学校区域规定的限速。",
+"distractor1":"如果没有看到孩子,则以正常速度继续行驶。",
+"distractor2":"停车,直到指示灯停止闪烁。"
+},
+{
+"id": 59,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"限速标志",
+"question":"如果路况导致限速不安全,你该怎么办?",
+"answer":"以较低的安全速度行驶。",
+"distractor1":"请按规定的限速行驶",
+"distractor2":"加速行驶,尽快离开危险区域"
+},
+{
+"id": 60,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"限速标志",
+"question":"限速提示标志表示什么?",
+"answer":"建议根据前方路况保持安全速度。",
+"distractor1":"新的法定限速",
+"distractor2":"道路最低速度"
+},
+{
+"id": 61,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"警告标志",
+"question":"警告标志的作用是什么?",
+"answer":"提醒前方可能存在的危险",
+"distractor1":"仅用于显示停车限制",
+"distractor2":"提供目的地信息"
+},
+{
+"id": 62,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"警告标志",
+"question":"看到弯道警告标志时应该怎么做?",
+"answer":"放慢速度,做好弯道准备。",
+"distractor1":"在弯道前加速",
+"distractor2":"移到路中央"
+},
+{
+"id": 63,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"警告标志",
+"question":"路面湿滑警告标志是什么意思?",
+"answer":"路面可能已失去抓地力。",
+"distractor1":"前方道路封闭。",
+"distractor2":"必须立即停止"
+},
+{
+"id": 64,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"警告标志",
+"question":"看到行人警告标志后应该怎么做?",
+"answer":"仔细观察,并做好减速或停车的准备。",
+"distractor1":"持续鸣笛",
+"distractor2":"假设行人必须为你让路。"
+},
+{
+"id": 65,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"警告标志",
+"question":"道路施工警告标志会告诉你什么?",
+"answer":"前方路况可能发生变化或有施工人员。",
+"distractor1":"这条路一直封闭着。",
+"distractor2":"正常情况持续"
+},
+{
+"id": 66,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"交通信号灯",
+"question":"红灯时你必须做什么?",
+"answer":"停下来等待,直到允许你继续前进。",
+"distractor1":"稍作停留,如果情况允许则继续。",
+"distractor2":"放慢速度,小心行驶。"
+},
+{
+"id": 67,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"交通信号灯",
+"question":"绿灯代表什么意思?",
+"answer":"如果安全且道路畅通,您可以继续前进。",
+"distractor1":"您始终拥有绝对优先权。",
+"distractor2":"行人必须始终等待"
+},
+{
+"id": 68,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"交通信号灯",
+"question":"黄色交通信号灯是什么意思?",
+"answer":"如果可以安全停下,请停止。",
+"distractor1":"加速抢在红灯前到达",
+"distractor2":"如果交通状况良好,则无需理会。"
+},
+{
+"id": 69,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"交通信号灯",
+"question":"红灯时什么时候可以左转?",
+"answer":"只有在标志允许且安全的情况下才能这样做。",
+"distractor1":"每当没有车辆驶来时",
+"distractor2":"仅在白天"
+},
+{
+"id": 70,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"交通信号灯",
+"question":"如果交通信号灯不工作了,你应该怎么办?",
+"answer":"谨慎通过十字路口,并遵守让行规则。",
+"distractor1":"由于信号灯不适用,因此可以驾车直行。",
+"distractor2":"假设所有其他驾驶员都必须停车。"
+},
+{
+"id": 71,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"行人信号",
+"question":"行人绿灯意味着什么?",
+"answer":"行人可能开始过马路",
+"distractor1":"行人必须等待",
+"distractor2":"车辆可能会忽略行人"
+},
+{
+"id": 72,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"行人信号",
+"question":"闪烁的红色行人信号灯是什么意思?",
+"answer":"行人如果已经开始过马路,就应该完成过马路。",
+"distractor1":"行人可能开始过马路",
+"distractor2":"司机必须加速"
+},
+{
+"id": 73,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"行人信号",
+"question":"当行人依法按照交通信号灯过马路时,司机应该怎么做?",
+"answer":"让行人先行",
+"distractor1":"绕着它们慢慢开。",
+"distractor2":"鸣笛让他们加快速度"
+},
+{
+"id": 74,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"行人信号",
+"question":"行人信号灯的目的是什么?",
+"answer":"为了帮助行人和车辆安全通行。",
+"distractor1":"更换所有道路标志",
+"distractor2":"始终给予车辆优先权"
+},
+{
+"id": 75,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"行人信号",
+"question":"当你在人行横道上转弯时应该怎么做?",
+"answer":"让行人先行,行人正在过马路或即将过马路。",
+"distractor1":"在行人走出大门前迅速转身",
+"distractor2":"只有在有交通协管员在场的情况下才应让行。"
+},
+{
+"id": 76,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"临时标志和道路施工标志",
+"question":"什么情况下必须遵守临时道路施工标志?",
+"answer":"每当它们被展示时",
+"distractor1":"只有当工人可见时",
+"distractor2":"仅限营业时间内"
+},
+{
+"id": 77,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"临时标志和道路施工标志",
+"question":"临时限速标志是什么意思?",
+"answer":"您不得超过临时限速规定。",
+"distractor1":"仅推荐使用此速度",
+"distractor2":"它仅适用于卡车。"
+},
+{
+"id": 78,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"临时标志和道路施工标志",
+"question":"道路施工期间,谁可以指挥交通?",
+"answer":"经授权的交通管制员",
+"distractor1":"任何穿着鲜艳服装的人",
+"distractor2":"排队的第一位司机"
+},
+{
+"id": 79,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"临时标志和道路施工标志",
+"question":"如果道路施工标志与永久标志冲突,应该遵循哪个标志?",
+"answer":"临时道路施工标志",
+"distractor1":"永久标志",
+"distractor2":"任何允许更高速度的标志"
+},
+{
+"id": 80,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"临时标志和道路施工标志",
+"question":"当交通管制员举着“停止/慢行”标志时,你必须做什么?",
+"answer":"请按照指示牌上的说明进行操作。",
+"distractor1":"如果看不到工人,请继续。",
+"distractor2":"只有当其他车辆停止时才停车"
+},
+{
+"id": 81,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"车道控制信号",
+"question":"车道上方的红色 X 代表什么意思?",
+"answer":"你不得驶入该车道",
+"distractor1":"该车道仅供公交车通行。",
+"distractor2":"车道已开放,但需谨慎驾驶。"
+},
+{
+"id": 82,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"车道控制信号",
+"question":"车道上方的绿色箭头是什么意思?",
+"answer":"该车道已开放通行。",
+"distractor1":"你必须朝那个方向转。",
+"distractor2":"车道即将关闭"
+},
+{
+"id": 83,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"车道控制信号",
+"question":"当车道箭头指示你的行驶路线时,你应该怎么做?",
+"answer":"按照你所在车道的箭头指示行驶。",
+"distractor1":"只要安全,选择任何方向都可以。",
+"distractor2":"跟随最快的车流"
+},
+{
+"id": 84,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"车道控制信号",
+"question":"如果车道控制信号显示你的车道即将关闭,你应该怎么办?",
+"answer":"安全驶入空旷车道",
+"distractor1":"立即停车",
+"distractor2":"继续行驶,直到车道实际结束。"
+},
+{
+"id": 85,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"车道控制信号",
+"question":"为什么要使用车道控制信号?",
+"answer":"显示哪些车道开放或关闭",
+"distractor1":"显示停车位",
+"distractor2":"替换速度标志"
+},
+{
+"id": 86,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"铁路信号",
+"question":"铁路道口警示灯闪烁时,你必须做什么?",
+"answer":"停下来,等到安全且信号灯停止后再走。",
+"distractor1":"火车来之前赶紧过马路。",
+"distractor2":"如果看不到火车,请减速并继续行驶。"
+},
+{
+"id": 87,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"铁路信号",
+"question":"什么情况下可以过铁路道口?",
+"answer":"只有在安全且没有信号或火车阻碍的情况下你才能这样做",
+"distractor1":"当前方车辆越过",
+"distractor2":"当栏杆放下时"
+},
+{
+"id": 88,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"铁路信号",
+"question":"在铁路道口看到“停止”标志时,你必须做什么?",
+"answer":"仅在安全的情况下停车并继续行驶",
+"distractor1":"放慢速度继续",
+"distractor2":"鸣笛并交叉"
+},
+{
+"id": 89,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"铁路信号",
+"question":"如果火车正驶近平交道口,你应该怎么做?",
+"answer":"停车等待,直到火车通过且安全为止。",
+"distractor1":"如果火车还很远,赶紧过马路。",
+"distractor2":"绕过障碍物"
+},
+{
+"id": 90,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"铁路信号",
+"question":"如果前方交通拥堵导致你被困在铁轨上,你应该怎么办?",
+"answer":"在确认安全之前,请勿进入路口。",
+"distractor1":"进入十字路口并等待",
+"distractor2":"在铁轨上停车并打开危险警示灯"
+},
+{
+"id": 91,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"警示标志",
+"question":"限速提示标志表示什么意思?",
+"answer":"前方存在危险或状况时建议的安全速度",
+"distractor1":"强制性限速",
+"distractor2":"最低速度要求"
+},
+{
+"id": 92,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"指示牌",
+"question":"指示牌的主要用途是什么?",
+"answer":"提供方向、目的地或路线信息",
+"distractor1":"警示所有道路危险",
+"distractor2":"制定交通违章规定"
+},
+{
+"id": 93,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"指示牌",
+"question":"指示牌上可能显示哪些信息?",
+"answer":"目的地、距离、路线或服务",
+"distractor1":"仅限速度限制",
+"distractor2":"仅停车罚款"
+},
+{
+"id": 94,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"警示标志",
+"question":"驾驶员应该如何看待警示标志?",
+"answer":"利用它们来调整速度并为各种情况做好准备",
+"distractor1":"别理会它们,因为它们毫无用处。",
+"distractor2":"将它们视为超速行驶的许可"
+},
+{
+"id": 95,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"警示标志",
+"question":"为什么要遵守限速标志?",
+"answer":"它们能帮助你选择更安全的行驶速度。",
+"distractor1":"他们取消了所有其他道路规则。",
+"distractor2":"它们展现了最快的合法速度。"
+},
+{
+"id": 96,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"通用信号",
+"question":"如果交通信号灯与警察的指示相冲突,你该怎么办?",
+"answer":"听从警官的指示",
+"distractor1":"按照交通信号灯行驶",
+"distractor2":"跟随前车行驶"
+},
+{
+"id": 97,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"通用信号",
+"question":"谁有权在道路施工区域指挥交通?",
+"answer":"经授权的交通管制员",
+"distractor1":"任何道路工人",
+"distractor2":"任何在交通中等待的司机"
+},
+{
+"id": 98,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"通用信号",
+"question":"当信号或标志难以辨认时,应该怎么办?",
+"answer":"减速慢行,格外小心",
+"distractor1":"别理他们,继续前进",
+"distractor2":"加快速度快速通过该区域"
+},
+{
+"id": 99,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"通用信号",
+"question":"为什么交通标志和信号灯很重要?",
+"answer":"它们负责规范道路交通、发出警告并引导道路使用者安全通行。",
+"distractor1":"这些规定仅适用于新手驾驶员。",
+"distractor2":"城市以外的地方是可选的。"
+},
+{
+"id": 100,
+"englishName":"Quiz",
+"category":"交通标志和信号",
+"subcategory":"通用信号",
+"question":"如果执法人员向您发出交通指令,您应该怎么做?",
+"answer":"在确保安全的情况下,服从指示。",
+"distractor1":"如果交通信号灯是绿灯,则忽略它。",
+"distractor2":"请按照您计划的路线行驶。"
+},
+{
+"id": 101,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"速度限制",
+"question":"标示的限速标志代表什么?",
+"answer":"理想条件下的最高合法速度",
+"distractor1":"在所有情况下都建议使用此速度",
+"distractor2":"你必须达到的最低行驶速度"
+},
+{
+"id": 102,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"速度限制",
+"question":"什么情况下应该低于限速行驶?",
+"answer":"当交通、天气或路况使出行变得不安全时",
+"distractor1":"只有当其他司机减速时",
+"distractor2":"只有在夜晚"
+},
+{
+"id": 103,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"速度限制",
+"question":"在华盛顿州没有限速标志的建成区,默认限速是多少?",
+"answer":"50公里/小时",
+"distractor1":"40公里/小时",
+"distractor2":"60公里/小时"
+},
+{
+"id": 104,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"速度限制",
+"question":"在没有限速标志的建成区以外,西澳大利亚州的通常默认限速是多少?",
+"answer":"除非另有标志,限速110公里/小时",
+"distractor1":"90公里/小时",
+"distractor2":"130公里/小时"
+},
+{
+"id": 105,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"速度限制",
+"question":"即使车速低于限速,你也必须始终做什么?",
+"answer":"以适合路况的安全速度行驶。",
+"distractor1":"与最快车速保持一致",
+"distractor2":"以比限速低10公里/小时的速度行驶"
+},
+{
+"id": 106,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"学校区域",
+"question":"学校区域限速规定何时生效?",
+"answer":"在学校区域标志牌所示的时间段内",
+"distractor1":"只有当孩子可见时",
+"distractor2":"仅限工作日上午9点以后"
+},
+{
+"id": 107,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"学校区域",
+"question":"在华盛顿州,除非另有标志,学校区域的通常限速是多少?",
+"answer":"40公里/小时",
+"distractor1":"25公里/小时",
+"distractor2":"50公里/小时"
+},
+{
+"id": 108,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"学校区域",
+"question":"为什么驾驶员在学校区域要格外小心?",
+"answer":"儿童在道路附近可能会有难以预料的行为。",
+"distractor1":"道路总是更窄。",
+"distractor2":"鼓励超车"
+},
+{
+"id": 109,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"学校区域",
+"question":"如果学校区域标志闪烁,你应该怎么办?",
+"answer":"减速至学校区域限速标志所示速度",
+"distractor1":"停车直到灯熄灭",
+"distractor2":"继续以正常速度行驶"
+},
+{
+"id": 110,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"学校区域",
+"question":"在学校附近开车时,最安全的做法是什么?",
+"answer":"减速并做好停车准备",
+"distractor1":"保持车速以避免拥堵",
+"distractor2":"紧跟其他车辆行驶"
+},
+{
+"id": 111,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"共享区域",
+"question":"共享区域的通常限速是多少?",
+"answer":"除非另有标志,限速10公里/小时",
+"distractor1":"20公里/小时",
+"distractor2":"40公里/小时"
+},
+{
+"id": 112,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"共享区域",
+"question":"在共享区域内,谁通常拥有优先权?",
+"answer":"行人",
+"distractor1":"机动车辆",
+"distractor2":"仅限骑行者"
+},
+{
+"id": 113,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"共享区域",
+"question":"如何正确驾驶车辆通过共享区域?",
+"answer":"缓慢行驶,随时准备停下来让行人通过。",
+"distractor1":"与附近车辆速度相同",
+"distractor2":"迅速清理该区域"
+},
+{
+"id": 114,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"共享区域",
+"question":"如果行人正在穿越共享区域道路,你应该怎么做?",
+"answer":"让路,避免制造危险",
+"distractor1":"鸣笛让他们让开",
+"distractor2":"如果它们不在正前方,则继续前进。"
+},
+{
+"id": 115,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"共享区域",
+"question":"为什么共享区域要设置低速限制?",
+"answer":"为了提高行人和驾驶员的安全",
+"distractor1":"仅为了降低燃油消耗",
+"distractor2":"为了鼓励超车"
+},
+{
+"id": 116,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"施工区域",
+"question":"在道路施工区域,什么情况下必须遵守限速规定?",
+"answer":"临时标志牌展示期间",
+"distractor1":"只有当工人可见时",
+"distractor2":"仅在白天"
+},
+{
+"id": 117,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"施工区域",
+"question":"为什么施工区域要降低车速?",
+"answer":"保护工人和道路使用者",
+"distractor1":"以便车辆安全超车",
+"distractor2":"仅用于降低交通噪音"
+},
+{
+"id": 118,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"施工区域",
+"question":"道路施工导致路面不平整时,应该怎么办?",
+"answer":"减速慢行,谨慎驾驶。",
+"distractor1":"保持正常速度限制",
+"distractor2":"加速通过"
+},
+{
+"id": 119,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"施工区域",
+"question":"如果道路施工限速标志与永久标志不同,那么以哪种标志为准?",
+"answer":"临时道路施工标志",
+"distractor1":"永久性标志",
+"distractor2":"速度较高的那个人,就选速度较快的那个人。"
+},
+{
+"id": 120,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"施工区域",
+"question":"如果交通管制员让你进一步减速,你应该怎么做?",
+"answer":"请听从交通管制员的指示。",
+"distractor1":"忽略他们,只按照指示牌走。",
+"distractor2":"停车等待警察"
+},
+{
+"id": 121,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"天气状况",
+"question":"在湿滑路面上行驶时应该怎么做?",
+"answer":"降低车速,谨慎驾驶",
+"distractor1":"以正常限速行驶",
+"distractor2":"比平时更用力刹车"
+},
+{
+"id": 122,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"天气状况",
+"question":"暴雨天气下跟车距离应该如何变化?",
+"answer":"增加与前车的距离",
+"distractor1":"保持同样的差距",
+"distractor2":"缩小间隙以提高可见度"
+},
+{
+"id": 123,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"天气状况",
+"question":"在能见度低的雾霾天气中应该怎么做?",
+"answer":"减速慢行,做好安全停车的准备。",
+"distractor1":"使用远光灯并保持速度",
+"distractor2":"紧跟在另一辆车后面"
+},
+{
+"id": 124,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"天气状况",
+"question":"应对强光眩光最安全的办法是什么?",
+"answer":"降低车速并增加跟车距离",
+"distractor1":"加快速度,尽快清理该区域",
+"distractor2":"靠近前方车辆行驶。"
+},
+{
+"id": 125,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"天气状况",
+"question":"为什么在暴雨中超速行驶很危险?",
+"answer":"握力下降会增加失去控制的风险。",
+"distractor1":"发动机动力下降",
+"distractor2":"道路标志变得越来越难以辨认"
+},
+{
+"id": 126,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"跟车距离",
+"question":"为什么保持安全跟车距离很重要?",
+"answer":"它能给你时间和空间安全停车。",
+"distractor1":"它能帮助其他司机超车。",
+"distractor2":"它仅减少燃料消耗"
+},
+{
+"id": 127,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"跟车距离",
+"question":"随着车速增加,跟车距离应该如何变化?",
+"answer":"增加跟车距离",
+"distractor1":"减小跟车距离",
+"distractor2":"保持相同距离"
+},
+{
+"id": 128,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"跟车距离",
+"question":"如果其他司机紧跟在你后面,你应该怎么办?",
+"answer":"拉开与他们的距离,安全时再让他们通过。",
+"distractor1":"突然刹车以警告他们",
+"distractor2":"加速超过限速"
+},
+{
+"id": 129,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"跟车距离",
+"question":"为什么要在摩托车后方留出额外的空间?",
+"answer":"它们可能会突然停止,而且不太容易被发现。",
+"distractor1":"他们不能突然刹车",
+"distractor2":"他们总是慢悠悠地走着。"
+},
+{
+"id": 130,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"跟车距离",
+"question":"为什么要与重型车辆保持更大的距离?",
+"answer":"它们需要更远的距离才能停下来,而且可能会挡住你的视线。",
+"distractor1":"它们比汽车刹车更快。",
+"distractor2":"他们不允许突然刹车。"
+},
+{
+"id": 131,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"制动距离",
+"question":"随着速度增加,制动距离会发生什么变化?",
+"answer":"制动距离显著增加",
+"distractor1":"制动距离保持不变",
+"distractor2":"制动距离缩短"
+},
+{
+"id": 132,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"制动距离",
+"question":"总制动距离由哪些部分组成?",
+"answer":"反应距离加制动距离",
+"distractor1":"仅制动距离",
+"distractor2":"仅反应时间"
+},
+{
+"id": 133,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"制动距离",
+"question":"疲劳如何影响刹车距离?",
+"answer":"它通过减缓反应速度来增加制动距离。",
+"distractor1":"它能提高注意力。",
+"distractor2":"它只会影响转向。"
+},
+{
+"id": 134,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"制动距离",
+"question":"磨损的轮胎会如何影响刹车距离?",
+"answer":"它们会增加制动距离,尤其是在潮湿路面上。",
+"distractor1":"它们缩短了刹车距离",
+"distractor2":"它们只会影响舒适度。"
+},
+{
+"id": 135,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"制动距离",
+"question":"如果前方视线被遮挡,你应该怎么办?",
+"answer":"减速并增加跟车距离",
+"distractor1":"靠近前方车辆",
+"distractor2":"保持速度并立即超车"
+},
+{
+"id": 136,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"安全速度原则",
+"question":"如何选择安全车速?",
+"answer":"以能够在视线范围内安全停车的速度行驶",
+"distractor1":"始终严格按照限速行驶。",
+"distractor2":"匹配周围最快的车流"
+},
+{
+"id": 137,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"安全速度原则",
+"question":"在视线受阻的拐角处或山顶附近应该怎么做?",
+"answer":"降低车速并做好应对危险的准备",
+"distractor1":"在到达之前加速",
+"distractor2":"移到路中央"
+},
+{
+"id": 138,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"安全速度原则",
+"question":"为什么超速行驶很危险?",
+"answer":"它能缩短反应时间并增加制动距离。",
+"distractor1":"它能提高制动性能",
+"distractor2":"它使转向更容易"
+},
+{
+"id": 139,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"安全速度原则",
+"question":"如果你快迟到了,最稳妥的选择是什么?",
+"answer":"即使迟到,也要合法安全地驾驶。",
+"distractor1":"稍微加快速度以弥补时间",
+"distractor2":"紧跟在速度更快的车辆后面"
+},
+{
+"id": 140,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"安全速度原则",
+"question":"遇到停滞或减速的车辆时应该怎么做?",
+"answer":"提前减速并留出更多空间",
+"distractor1":"保持车速直至接近车流。",
+"distractor2":"靠路肩行驶超车"
+},
+{
+"id": 141,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"速度限制",
+"question":"如果限速标志损坏或不清晰,您应该怎么办?",
+"answer":"谨慎驾驶,选择安全速度。",
+"distractor1":"假设适用最高限速。",
+"distractor2":"在下一个标志出现之前,请忽略所有限速规则。"
+},
+{
+"id": 142,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"速度限制",
+"question":"为什么仅仅依靠其他车辆的速度是不安全的?",
+"answer":"其他司机可能超速行驶或不安全驾驶。",
+"distractor1":"交通始终以最安全的速度行驶。",
+"distractor2":"前面的司机总是更了解路况。"
+},
+{
+"id": 143,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"天气状况",
+"question":"为什么在暴雨中要预留额外的空间?",
+"answer":"能见度和轮胎抓地力可能会降低。",
+"distractor1":"发动机更容易过热。",
+"distractor2":"道路标志变得不准确"
+},
+{
+"id": 144,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"跟车距离",
+"question":"什么时候应该进一步增加跟车距离?",
+"answer":"牵引或运输重物时",
+"distractor1":"在空旷的道路上行驶",
+"distractor2":"仅在白天"
+},
+{
+"id": 145,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"制动距离",
+"question":"碎石或松软路面如何影响刹车性能?",
+"answer":"由于抓地力降低,它们会增加制动距离。",
+"distractor1":"它们缩短了刹车距离",
+"distractor2":"它们不影响制动"
+},
+{
+"id": 146,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"安全速度原则",
+"question":"在停放的车辆附近,最安全的行驶速度是多少?",
+"answer":"减速慢行,因为门或行人可能突然出现。",
+"distractor1":"驾车靠近停放的车辆",
+"distractor2":"加速快速清除该区域"
+},
+{
+"id": 147,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"施工区域",
+"question":"如果施工人员在路边作业,但没有看到限速标志,您应该怎么办?",
+"answer":"谨慎驾驶,随时准备减速或停车。",
+"distractor1":"以最大正常速度行驶",
+"distractor2":"停止移动,直到接到移动指令。"
+},
+{
+"id": 148,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"学校区域",
+"question":"如果标志牌上显示了学校区域的限时时间,你必须怎么做?",
+"answer":"在这些时段请遵守较低的限速规定。",
+"distractor1":"仅当儿童可见时才遵循此规则",
+"distractor2":"阴天不用理会它"
+},
+{
+"id": 149,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"跟车距离",
+"question":"如果前方车辆突然刹车,最安全的应对措施是什么?",
+"answer":"平稳刹车,同时保持控制",
+"distractor1":"立即急转弯,无需检查",
+"distractor2":"加速以避免被后方车辆撞击。"
+},
+{
+"id": 150,
+"englishName":"Quiz",
+"category":"速度和距离规则",
+"subcategory":"速度限制",
+"question":"为什么根据路况调整车速很重要?",
+"answer":"因为在某些情况下,即使标明的限速也可能不安全。",
+"distractor1":"因为限速规定只在白天适用",
+"distractor2":"因为慢速车辆始终拥有优先权。"
+},
+{
+"id": 151,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"驾驶员义务",
+"question":"在西澳道路上,驾驶员的主要职责是什么?",
+"answer":"安全驾驶,遵守交通规则,避免危及他人安全。",
+"distractor1":"无论在任何情况下都应按限速行驶。",
+"distractor2":"尽可能紧跟前车。"
+},
+{
+"id": 152,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"驾驶员义务",
+"question":"开车时什么情况下必须携带驾驶证?",
+"answer":"在您的执照条款要求时",
+"distractor1":"只有在驶出郊区时才会发生这种情况",
+"distractor2":"仅在载客时"
+},
+{
+"id": 153,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"驾驶员义务",
+"question":"如果警察要求你停车,你应该怎么做?",
+"answer":"安全停车并遵守合法指示",
+"distractor1":"继续前行直至到达目的地",
+"distractor2":"只有当你觉得自己做错了事时才应该停止。"
+},
+{
+"id": 154,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"驾驶员义务",
+"question":"如果您的车辆变得不安全,您该怎么办?",
+"answer":"停止使用,直至修复或确保安全为止。",
+"distractor1":"减速慢行,直至下一个服务区。",
+"distractor2":"使用危险警告灯并正常行驶。"
+},
+{
+"id": 155,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"驾驶员义务",
+"question":"出发旅行前必须做什么?",
+"answer":"确保您和您的车辆状况良好,适合安全驾驶。",
+"distractor1":"只需检查燃料是否充足即可",
+"distractor2":"至少预热发动机十分钟"
+},
+{
+"id": 156,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"安全带和儿童安全座椅",
+"question":"什么情况下必须系安全带?",
+"answer":"车辆行驶时且系好安全带后",
+"distractor1":"仅在高速公路上",
+"distractor2":"仅限前排乘客"
+},
+{
+"id": 157,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"安全带和儿童安全座椅",
+"question":"谁负责确保儿童得到正确约束?",
+"answer":"司机",
+"distractor1":"只有孩子的父母",
+"distractor2":"只有前排乘客"
+},
+{
+"id": 158,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"安全带和儿童安全座椅",
+"question":"儿童应该使用哪种类型的约束装置?",
+"answer":"经批准的、适合儿童体型和年龄的约束装置",
+"distractor1":"任何成人安全带,只要是带卡扣的。",
+"distractor2":"短途旅行无需系安全带"
+},
+{
+"id": 159,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"安全带和儿童安全座椅",
+"question":"为什么即使在低速行驶时,安全带也很重要?",
+"answer":"低速碰撞仍可能造成严重伤害",
+"distractor1":"它们能提高燃油经济性",
+"distractor2":"它们可以避免超速罚款"
+},
+{
+"id": 160,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"安全带和儿童安全座椅",
+"question":"如果乘客拒绝系安全带,你应该怎么办?",
+"answer":"在他们佩戴好口罩或离开车辆之前,请勿驾驶。",
+"distractor1":"慢速行驶更安全",
+"distractor2":"让他们自己决定,因为这是他们的选择。"
+},
+{
+"id": 161,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"移动电话和设备",
+"question":"开车时使用手机最安全的方法是什么?",
+"answer":"尽量避免使用,如果必须使用,请安全地靠边停车。",
+"distractor1":"在红灯时迅速使用它",
+"distractor2":"把它放低,以免挡住你的视线。"
+},
+{
+"id": 162,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"移动电话和设备",
+"question":"为什么开车时使用手机很危险?",
+"answer":"它会分散你开车时的眼睛、双手和注意力。",
+"distractor1":"这会导致车辆消耗更多燃料",
+"distractor2":"它会降低灯光的亮度。"
+},
+{
+"id": 163,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"移动电话和设备",
+"question":"何时应该在设备上设置导航?",
+"answer":"开始驾驶前",
+"distractor1":"堵车时",
+"distractor2":"慢速行驶"
+},
+{
+"id": 164,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"移动电话和设备",
+"question":"开车时收到紧急信息该怎么办?",
+"answer":"请先安全靠边停车,然后再进行检查或回应。",
+"distractor1":"等下一个红灯的时候赶紧读一下。",
+"distractor2":"单手握住方向盘,同时回答问题"
+},
+{
+"id": 165,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"移动电话和设备",
+"question":"减少手机干扰的好方法是什么?",
+"answer":"开车时请将手机放在够不着的地方或调成静音。",
+"distractor1":"仅在直路上查看通知。",
+"distractor2":"将手机放在方向盘下方"
+},
+{
+"id": 166,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"车辆状况",
+"question":"为什么要保持轮胎良好状态?",
+"answer":"它们有助于保持抓地力、转向和制动性能。",
+"distractor1":"它们会把喇叭声调大。",
+"distractor2":"它们减少了指示的必要性。"
+},
+{
+"id": 167,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"车辆状况",
+"question":"为什么要定期检查车灯和指示灯?",
+"answer":"这样其他道路使用者就能看到你和你的意图。",
+"distractor1":"为了提高发动机功率",
+"distractor2":"为了降低注册费用"
+},
+{
+"id": 168,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"车辆状况",
+"question":"如果刹车感觉失灵,应该怎么办?",
+"answer":"在行驶不必要的距离之前,请先检查并修理它们。",
+"distractor1":"加快车速以减少行程时间",
+"distractor2":"请忽略此问题,直到下次定期服务。"
+},
+{
+"id": 169,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"车辆状况",
+"question":"为什么挡风玻璃和后视镜需要保持清洁?",
+"answer":"为了保持清晰的可见性",
+"distractor1":"为了减轻车辆重量",
+"distractor2":"防止轮胎磨损"
+},
+{
+"id": 170,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"车辆状况",
+"question":"如果某个指标停止工作,应该怎么办?",
+"answer":"把它修好,必要时使用安全手势信号。",
+"distractor1":"不打转向灯行驶",
+"distractor2":"用喇叭代替示意"
+},
+{
+"id": 171,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"事故责任",
+"question":"发生车祸后你必须做什么?",
+"answer":"停下来看看是否有人需要帮助",
+"distractor1":"如果你的车还能开,就离开吧。",
+"distractor2":"只有当损失严重时才应停止。"
+},
+{
+"id": 172,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"事故责任",
+"question":"如果有人在车祸中受伤,你应该怎么做?",
+"answer":"如果安全,请拨打紧急服务电话并提供帮助。",
+"distractor1":"检查伤情前,请先移走所有车辆。",
+"distractor2":"离开去寻求帮助,不要返回"
+},
+{
+"id": 173,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"事故责任",
+"question":"车祸后,驾驶员应该交换哪些细节信息?",
+"answer":"姓名、地址、车辆信息以及驾照或登记详情(按要求)",
+"distractor1":"仅限名字",
+"distractor2":"仅限保险公司名称"
+},
+{
+"id": 174,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"事故责任",
+"question":"如果您损坏了停放的车辆,而车主不在场,您应该怎么办?",
+"answer":"请留下您的详细信息,如有需要请举报。",
+"distractor1":"如果损失轻微,请离开。",
+"distractor2":"等五分钟,然后开车离开"
+},
+{
+"id": 175,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"事故责任",
+"question":"为什么应该尽可能确保事故现场安全?",
+"answer":"为了降低再次发生碰撞或受伤的风险",
+"distractor1":"为了避免所有文书工作",
+"distractor2":"让交通以全速通行"
+},
+{
+"id": 176,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"疲劳管理",
+"question":"驾驶员疲劳的常见迹象有哪些?",
+"answer":"打哈欠、走神或注意力难以集中",
+"distractor1":"反应时间缩短",
+"distractor2":"更好的夜视能力"
+},
+{
+"id": 177,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"疲劳管理",
+"question":"开车时如果感到疲倦该怎么办?",
+"answer":"在安全的地方停下来休息。",
+"distractor1":"打开车窗,继续开车几个小时。",
+"distractor2":"开快点,早点到达。"
+},
+{
+"id": 178,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"疲劳管理",
+"question":"为什么疲劳驾驶对驾驶员来说很危险?",
+"answer":"它会减慢反应时间,并可能导致微睡眠。",
+"distractor1":"它能缩短刹车距离",
+"distractor2":"它能提高长途旅行时的注意力。"
+},
+{
+"id": 179,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"疲劳管理",
+"question":"长途驾驶的安全策略是什么?",
+"answer":"保证充足睡眠,并定期休息。",
+"distractor1":"持续驾驶以尽快完成任务。",
+"distractor2":"如果交通顺畅,可以跳过休息时间。"
+},
+{
+"id": 180,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"疲劳管理",
+"question":"驾驶时缓解疲劳的最佳方法是什么?",
+"answer":"睡眠或适当休息",
+"distractor1":"把音乐开到最大声",
+"distractor2":"握紧方向盘"
+},
+{
+"id": 181,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"学员及临时规则",
+"question":"新手司机在驾驶时必须做什么?",
+"answer":"遵守学习驾照的各项规定,并在合适的监督员的陪同下驾驶。",
+"distractor1":"如果行程短,请独自驾车。",
+"distractor2":"只遵守他们已知的规则。"
+},
+{
+"id": 182,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"学员及临时规则",
+"question":"为什么新手司机在需要时必须悬挂“L”牌?",
+"answer":"向其他道路使用者表明他们正在学习",
+"distractor1":"给予它们在十字路口的优先通行权",
+"distractor2":"允许他们超过速度限制"
+},
+{
+"id": 183,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"学员及临时规则",
+"question":"持有临时驾照的司机在开车前应该做什么?",
+"answer":"理解并遵守其执照上的所有条款。",
+"distractor1":"假设适用与正式许可证相同的规则",
+"distractor2":"只有在警察在附近时才遵守这些规定。"
+},
+{
+"id": 184,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"监督驾驶员",
+"question":"督导驾驶员的职责是什么?",
+"answer":"指导学员并确保其驾驶安全合法。",
+"distractor1":"让学习者在没有帮助的情况下自行做出所有决定。",
+"distractor2":"仅在崩溃后才接管控制权。"
+},
+{
+"id": 185,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"监督驾驶员",
+"question":"督导驾驶员应该做好哪些准备?",
+"answer":"提供清晰的指示并帮助管理风险",
+"distractor1":"监督期间可以使用手机",
+"distractor2":"除非另有要求,否则请忽略路况。"
+},
+{
+"id": 186,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"驾驶员义务",
+"question":"当您的驾照条件发生变化时,您必须怎么做?",
+"answer":"理解并遵守新规定",
+"distractor1":"继续遵守之前的条件",
+"distractor2":"下次续订前请忽略它们。"
+},
+{
+"id": 187,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"驾驶员义务",
+"question":"如果您受到酒精或毒品的影响,应该怎么办?",
+"answer":"请勿驾驶",
+"distractor1":"只在安静的道路上行驶",
+"distractor2":"打开危险警示灯,缓慢行驶"
+},
+{
+"id": 188,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"车辆状况",
+"question":"为什么要正确固定货物?",
+"answer":"防止物品掉落或造成危险",
+"distractor1":"为了使车辆加速更快",
+"distractor2":"为了减少对镜子的需求"
+},
+{
+"id": 189,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"移动电话和设备",
+"question":"使用设备听音乐或导航之前应该做什么?",
+"answer":"开车前请设置好。",
+"distractor1":"交通拥堵时请调整车速",
+"distractor2":"握住它,同时控制方向盘"
+},
+{
+"id": 190,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"安全带和儿童安全座椅",
+"question":"开车载客前应该检查哪些内容?",
+"answer":"所有人都已正确就座并系好安全带。",
+"distractor1":"只有前排乘客需要系安全带。",
+"distractor2":"乘客知道目的地"
+},
+{
+"id": 191,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"事故责任",
+"question":"发生车祸后何时应该拨打紧急服务电话?",
+"answer":"当有人受伤或存在危险需要紧急救助时",
+"distractor1":"仅当双方司机同意时",
+"distractor2":"如果车辆还能行驶,那就永远不会发生这种情况。"
+},
+{
+"id": 192,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"疲劳管理",
+"question":"长途驾驶前应该避免什么?",
+"answer":"出发时已经很累了",
+"distractor1":"规划休息站",
+"distractor2":"如果可以的话,轮流驾驶"
+},
+{
+"id": 193,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"驾驶员义务",
+"question":"如果您不熟悉道路规则或标志,应该怎么办?",
+"answer":"放慢速度,仔细观察,并遵守合法指示。",
+"distractor1":"先别理会他们,直到其他司机做出反应。",
+"distractor2":"在车道上突然停车"
+},
+{
+"id": 194,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"车辆状况",
+"question":"长途旅行前为什么要检查车辆?",
+"answer":"为了降低发生故障或不安全故障的几率",
+"distractor1":"为了避免遵守道路施工标志",
+"distractor2":"提高速度限制"
+},
+{
+"id": 195,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"驾驶员义务",
+"question":"如果你的驾驶行为可能危及他人安全,你应该怎么做?",
+"answer":"改变驾驶行为或停止驾驶,直到安全为止。",
+"distractor1":"如果您离家很近,请继续。",
+"distractor2":"打开危险警示灯,继续行驶"
+},
+{
+"id": 196,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"事故责任",
+"question":"如果交通事故造成交通堵塞,你应该怎么办?",
+"answer":"确保区域安全,仅在安全且适当的情况下移动车辆。",
+"distractor1":"立即出发,以免延误。",
+"distractor2":"漫不经心地站在车流中指挥车辆"
+},
+{
+"id": 197,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"移动电话和设备",
+"question":"为什么开车时不应该发短信?",
+"answer":"它会分散你对道路的注意力。",
+"distractor1":"它会使发动机运行温度升高。",
+"distractor2":"它能提高反应时间"
+},
+{
+"id": 198,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"安全带和儿童安全座椅",
+"question":"对儿童乘客来说,什么才是不安全的?",
+"answer":"乘坐不适合他们体型的约束装置旅行",
+"distractor1":"使用经认证的儿童安全座椅",
+"distractor2":"坐姿端正,系好安全带"
+},
+{
+"id": 199,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"车辆状况",
+"question":"如果仪表盘上出现警告灯,您应该怎么办?",
+"answer":"检查问题并根据车辆手册安全操作。",
+"distractor1":"如果车辆仍然移动,则忽略它。",
+"distractor2":"加快行驶速度为车辆充电"
+},
+{
+"id": 200,
+"englishName":"Quiz",
+"category":"驾驶员职责",
+"subcategory":"驾驶员义务",
+"question":"对驾驶员来说,最安全的态度是什么?",
+"answer":"请保持耐心、警觉,并体谅所有道路使用者。",
+"distractor1":"期望别人为你让路",
+"distractor2":"与其他司机竞争以节省时间"
+},
+{
+"id": 201,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"血液酒精浓度(BAC)",
+"question":"血液酒精浓度(BAC)测量的是什么?",
+"answer":"血液中的酒精含量",
+"distractor1":"你买了多少杯饮料?",
+"distractor2":"饮酒后感觉有多疲倦"
+},
+{
+"id": 202,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"血液酒精浓度(BAC)",
+"question":"西澳州学员驾驶员驾驶时必须达到多少血液酒精浓度?",
+"answer":"零血液酒精浓度",
+"distractor1":"仅低于 0.05",
+"distractor2":"如果缓慢驾驶,血液酒精浓度(BAC)会是多少?"
+},
+{
+"id": 203,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"血液酒精浓度(BAC)",
+"question":"为什么少量饮酒也会影响驾驶?",
+"answer":"它会降低判断力、协调能力和反应时间。",
+"distractor1":"它能增强自信心和控制力。",
+"distractor2":"它只会影响夜间行驶的司机。"
+},
+{
+"id": 204,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"血液酒精浓度(BAC)",
+"question":"如果打算饮酒,最安全的选择是什么?",
+"answer":"不要开车,另行安排回家方式。",
+"distractor1":"只在安静的道路上行驶",
+"distractor2":"开车前喝杯咖啡"
+},
+{
+"id": 205,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"血液酒精浓度(BAC)",
+"question":"饮酒后如何降低血液酒精浓度?",
+"answer":"身体需要时间来代谢酒精。",
+"distractor1":"冷水澡",
+"distractor2":"浓咖啡"
+},
+{
+"id": 206,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"随机呼吸测试",
+"question":"随机酒精测试的目的是什么?",
+"answer":"检测和阻止酒后驾驶",
+"distractor1":"检查轮胎气压",
+"distractor2":"测试车辆前大灯"
+},
+{
+"id": 207,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"随机呼吸测试",
+"question":"如果警方要求进行酒精测试,你应该怎么做?",
+"answer":"遵守合法指示",
+"distractor1":"如果你感觉清醒,就开车离开。",
+"distractor2":"除非你遭遇车祸,否则拒绝。"
+},
+{
+"id": 208,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"随机呼吸测试",
+"question":"即使驾驶员看起来驾驶正常,也可以随机拦下进行酒精测试吗?",
+"answer":"是的,即使没有明显的驾驶违规行为,也可以进行随机酒精测试。",
+"distractor1":"不,只有超速驾驶者才能接受测试。",
+"distractor2":"不,只有发生事故的驾驶员才能接受测试。"
+},
+{
+"id": 209,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"随机呼吸测试",
+"question":"如果驾驶员拒绝接受必要的酒精测试,会发生什么?",
+"answer":"他们可能面临严厉的处罚。",
+"distractor1":"他们可能会选择笔试。",
+"distractor2":"如果他们说自己清醒,那就什么事都没有。"
+},
+{
+"id": 210,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"随机呼吸测试",
+"question":"为什么西澳要进行路边酒精测试?",
+"answer":"通过清除酒驾或药驾司机来提高道路安全。",
+"distractor1":"收取停车费",
+"distractor2":"检查车辆登记标签"
+},
+{
+"id": 211,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"药品和药物",
+"question":"非法药物如何影响驾驶?",
+"answer":"它们会损害判断力、协调能力和反应时间。",
+"distractor1":"它们能提高驾驶员在交通中的安全性。",
+"distractor2":"它们只会影响乘客。"
+},
+{
+"id": 212,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"药品和药物",
+"question":"服药后开车前应该做什么?",
+"answer":"检查是否会影响驾驶,并遵医嘱。",
+"distractor1":"假设所有药物对驾驶都是安全的。",
+"distractor2":"只有在医生处方的情况下才能开车。"
+},
+{
+"id": 213,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"药品和药物",
+"question":"如果药物让你感到困倦,你应该怎么办?",
+"answer":"受影响时请勿驾驶",
+"distractor1":"开车时打开车窗",
+"distractor2":"开快点,早点到达。"
+},
+{
+"id": 214,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"药品和药物",
+"question":"为什么将酒精与毒品或药物混合使用会有风险?",
+"answer":"这些综合影响会大大加剧损伤。",
+"distractor1":"它可以抵消酒精的影响。",
+"distractor2":"它能提高注意力。"
+},
+{
+"id": 215,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"药品和药物",
+"question":"关于药物,你应该问医生或药剂师哪些问题?",
+"answer":"服用该药物后驾车是否安全?",
+"distractor1":"它是否能降低汽车的燃油消耗",
+"distractor2":"是否会改变限速"
+},
+{
+"id": 216,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"疲劳与睡眠",
+"question":"为什么疲劳驾驶很危险?",
+"answer":"它会减缓反应速度,并可能导致微睡眠。",
+"distractor1":"它能提高注意力。",
+"distractor2":"它缩短了刹车距离"
+},
+{
+"id": 217,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"疲劳与睡眠",
+"question":"疲劳的预警信号有哪些?",
+"answer":"打哈欠、注意力不集中或难以集中注意力",
+"distractor1":"更清晰的视力",
+"distractor2":"更快的反应"
+},
+{
+"id": 218,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"疲劳与睡眠",
+"question":"开车时如果感到困倦该怎么办?",
+"answer":"安全停车休息",
+"distractor1":"把收音机音量调大,继续播放",
+"distractor2":"开快点,早点到达终点。"
+},
+{
+"id": 219,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"疲劳与睡眠",
+"question":"长途旅行前预防疲劳的最佳方法是什么?",
+"answer":"保证充足睡眠,并安排规律的休息时间。",
+"distractor1":"为了更快到达目的地,会取消休息时间。",
+"distractor2":"吃顿大餐,然后连夜开车。"
+},
+{
+"id": 220,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"疲劳与睡眠",
+"question":"治疗疲劳的唯一真正方法是什么?",
+"answer":"睡眠或适当休息",
+"distractor1":"大声的音乐",
+"distractor2":"打开窗户"
+},
+{
+"id": 221,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"医疗状况",
+"question":"为什么疾病会影响驾驶?",
+"answer":"它们可能会影响视力、警觉性、控制力或判断力。",
+"distractor1":"他们总能提高驾驶技能",
+"distractor2":"它们只对乘客重要。"
+},
+{
+"id": 222,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"医疗状况",
+"question":"如果某种疾病可能会影响您的驾驶,您应该怎么办?",
+"answer":"寻求医疗建议并遵守执业许可要求",
+"distractor1":"如果你觉得自己有信心,那就忽略它。",
+"distractor2":"仅在白天驾驶,无需任何建议"
+},
+{
+"id": 223,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"医疗状况",
+"question":"如果视力发生变化,应该怎么办?",
+"answer":"请先检查视力,再继续危险驾驶。",
+"distractor1":"坐得离方向盘近一些。",
+"distractor2":"白天请使用远光灯。"
+},
+{
+"id": 224,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"医疗状况",
+"question":"为什么听从医生关于驾驶的建议很重要?",
+"answer":"它有助于保护您和其他道路使用者。",
+"distractor1":"它可以让你无视路标",
+"distractor2":"它无需使用安全带。"
+},
+{
+"id": 225,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"医疗状况",
+"question":"开车时如果突然感到身体不适,应该怎么办?",
+"answer":"尽快安全地靠边停车",
+"distractor1":"继续前行,直到下一个城镇",
+"distractor2":"加快速度,以便更快获得帮助"
+},
+{
+"id": 226,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"驾驶资格",
+"question":"什么是驾驶资格?",
+"answer":"具备安全驾驶所需的身体和心理素质。",
+"distractor1":"能够举起重物",
+"distractor2":"拥有一辆新车"
+},
+{
+"id": 227,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"驾驶资格",
+"question":"什么情况下不应该开车?",
+"answer":"当酒精、毒品、疾病、疲劳或压力损害你的能力时",
+"distractor1":"只有当您的车辆燃油不足时才需要加油",
+"distractor2":"只有在交通拥堵时才会发生这种情况"
+},
+{
+"id": 228,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"驾驶资格",
+"question":"开车前应该考虑哪些因素?",
+"answer":"无论您是否神志清醒、身体健康、头脑清醒且能够安全驾驶。",
+"distractor1":"这段旅程是否足够短,值得冒险",
+"distractor2":"其他司机是否谨慎"
+},
+{
+"id": 229,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"驾驶资格",
+"question":"如果你情绪低落、心神不宁,应该怎么办?",
+"answer":"等你冷静下来,能够安全驾驶时再开车。",
+"distractor1":"开快点,尽快结束行程。",
+"distractor2":"别理会它,因为情绪不会影响驾驶。"
+},
+{
+"id": 230,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"驾驶资格",
+"question":"谁负责在出行前决定你是否适合驾驶?",
+"answer":"你,司机",
+"distractor1":"只有您的乘客",
+"distractor2":"只有车辆制造商"
+},
+{
+"id": 231,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"血液酒精浓度(BAC)",
+"question":"为什么新手司机在开车前应该完全避免饮酒?",
+"answer":"他们必须血液酒精浓度为零,并且必须保持高度警觉。",
+"distractor1":"他们可能在喝一杯酒后驾车",
+"distractor2":"酒精仅对持有完整驾照者有效。"
+},
+{
+"id": 232,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"血液酒精浓度(BAC)",
+"question":"你能通过数酒杯数来准确计算血液酒精浓度吗?",
+"answer":"不,血液酒精浓度受多种因素影响。",
+"distractor1":"是的,喝一杯酒的血液酒精浓度始终相同。",
+"distractor2":"是的,如果你喝水的话"
+},
+{
+"id": 233,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"药品和药物",
+"question":"如果药品标签警告不要驾驶,你应该怎么办?",
+"answer":"受影响时请勿驾驶,并遵照警告。",
+"distractor1":"只在短途出行时开车",
+"distractor2":"如果药物合法,则无需理会。"
+},
+{
+"id": 234,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"药品和药物",
+"question":"为什么服用处方药后仍可能存在驾驶风险?",
+"answer":"它们可能会导致嗜睡或反应迟钝。",
+"distractor1":"它们总是能让驾驶更安全。",
+"distractor2":"它们能消除疲劳"
+},
+{
+"id": 235,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"随机呼吸测试",
+"question":"清醒的驾驶员在随机酒精测试点应该怎么做?",
+"answer":"听从警方指示完成测试",
+"distractor1":"非法掉头即可避开该地点",
+"distractor2":"拒绝,因为他们没有喝酒"
+},
+{
+"id": 236,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"疲劳与睡眠",
+"question":"如果你不断偏离车道该怎么办?",
+"answer":"安全停车休息,因为你可能已经感到疲劳。",
+"distractor1":"握紧方向盘,继续",
+"distractor2":"向中心线方向行驶"
+},
+{
+"id": 237,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"疲劳与睡眠",
+"question":"为什么长途驾驶中定期休息很重要?",
+"answer":"它们有助于减轻疲劳,保持警觉。",
+"distractor1":"他们后来允许你无视限速规定。",
+"distractor2":"它们使安全带变得不必要。"
+},
+{
+"id": 238,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"驾驶资格",
+"question":"如果您不适合驾驶,应该怎么办?",
+"answer":"不要开车,另行安排更安全的出行方式。",
+"distractor1":"只有在熟悉路线的情况下才开车。",
+"distractor2":"请乘客留意路况,为你留意。"
+},
+{
+"id": 239,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"驾驶资格",
+"question":"压力如何影响驾驶?",
+"answer":"它会降低注意力,导致糟糕的决策。",
+"distractor1":"它总能提高反应速度",
+"distractor2":"它对驾驶没有影响。"
+},
+{
+"id": 240,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"驾驶资格",
+"question":"服用可能损害自身行为能力的物质后,最安全的选择是什么?",
+"answer":"在您不再受影响之前,请勿驾驶。",
+"distractor1":"打开危险警示灯,缓慢行驶",
+"distractor2":"只有在车里有其他人的情况下才能开车。"
+},
+{
+"id": 241,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"药品和药物",
+"question":"如果你体内含有非法药物却开车,会发生什么?",
+"answer":"你可能会被起诉,而且你的驾驶能力可能会受到影响。",
+"distractor1":"如果你感觉正常,就可以。",
+"distractor2":"允许短途旅行"
+},
+{
+"id": 242,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"血液酒精浓度(BAC)",
+"question":"为什么饮酒过量后的第二天早上不应该开车?",
+"answer":"你体内可能仍含有酒精。",
+"distractor1":"早高峰总是更快",
+"distractor2":"咖啡能去除所有酒精"
+},
+{
+"id": 243,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"随机呼吸测试",
+"question":"路边检测专业版 grams 能帮助警方做什么?",
+"answer":"检测受酒精或药物影响的驾驶员",
+"distractor1":"查看停车罚单",
+"distractor2":"测量轮胎胎面深度"
+},
+{
+"id": 244,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"医疗状况",
+"question":"如果健康状况影响了您对车辆的控制能力,您应该怎么办?",
+"answer":"在确保安全并获得适当建议之前,请勿驾车。",
+"distractor1":"只能在左侧车道行驶",
+"distractor2":"开车时请打开危险警示灯"
+},
+{
+"id": 245,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"疲劳与睡眠",
+"question":"什么是微睡眠?",
+"answer":"驾驶过程中可能发生的短暂的非自主睡眠。",
+"distractor1":"短暂的计划休息时间",
+"distractor2":"提高注意力的方法"
+},
+{
+"id": 246,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"驾驶资格",
+"question":"为什么驾驶员应该如实报告自己的驾驶能力?",
+"answer":"因为不安全驾驶会伤害自己和他人。",
+"distractor1":"因为这让他们可以无视交通规则。",
+"distractor2":"因为乘客必须为他们做决定。"
+},
+{
+"id": 247,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"血液酒精浓度(BAC)",
+"question":"对于驾驶员来说,最安全的血液酒精浓度是多少?",
+"answer":"零血液酒精浓度",
+"distractor1":"略低于法定限值",
+"distractor2":"怎么舒服怎么来"
+},
+{
+"id": 248,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"药品和药物",
+"question":"如果您不确定某种药物是否会影响驾驶,应该怎么办?",
+"answer":"开车前请咨询医生或药剂师。",
+"distractor1":"通过短途驾驶来测试一下自己的驾驶能力",
+"distractor2":"如果不是酒精,就假定它是安全的。"
+},
+{
+"id": 249,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"随机呼吸测试",
+"question":"为什么驾驶员应该预料到会被进行路边酒精或毒品检测?",
+"answer":"测试可以帮助阻止不安全驾驶员上路。",
+"distractor1":"测试只在午夜之后进行。",
+"distractor2":"测试仅适用于新手驾驶员。"
+},
+{
+"id": 250,
+"englishName":"Quiz",
+"category":"酒精、毒品与健康",
+"subcategory":"驾驶资格",
+"question":"如果您对自己的安全驾驶能力有任何疑问,应该如何选择?",
+"answer":"请勿驾驶",
+"distractor1":"加快车速以减少道路行驶时间",
+"distractor2":"只有在乘客同意的情况下才开车"
+},
+{
+"id": 251,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"危险感知",
+"question":"什么是危险感知?",
+"answer":"识别并安全应对道路上的潜在危险",
+"distractor1":"车速比周围车辆快",
+"distractor2":"紧跟其他车辆"
+},
+{
+"id": 252,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"危险感知",
+"question":"为什么驾驶员在驾驶时应该提前观察前方路况?",
+"answer":"及早发现危险并安全应对",
+"distractor1":"为了避免查看后视镜",
+"distractor2":"为了更快地提高速度"
+},
+{
+"id": 253,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"危险感知",
+"question":"如果发现潜在危险正在形成,应该怎么办?",
+"answer":"放慢速度,做好安全应对的准备。",
+"distractor1":"加速快速通过",
+"distractor2":"先别管它,直到它变得迫在眉睫。"
+},
+{
+"id": 254,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"危险感知",
+"question":"为什么停放的车辆可能构成安全隐患?",
+"answer":"行人或车辆可能会突然出现在你的道路上。",
+"distractor1":"他们总是堵塞十字路口。",
+"distractor2":"他们提高了附近的限速。"
+},
+{
+"id": 255,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"危险感知",
+"question":"学校或购物区附近应该注意什么?",
+"answer":"可能突然进入道路的行人",
+"distractor1":"高速倒车的司机",
+"distractor2":"燃油价格变化"
+},
+{
+"id": 256,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"太空垫",
+"question":"驾驶中的安全带是什么?",
+"answer":"车辆周围的安全空间",
+"distractor1":"仅停放车辆之间的距离",
+"distractor2":"座椅中的一种安全功能"
+},
+{
+"id": 257,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"太空垫",
+"question":"保持一定的空间缓冲为何很重要?",
+"answer":"它能让你有更多时间安全应对。",
+"distractor1":"它能帮助你开得更快。",
+"distractor2":"它减少了指示的必要性。"
+},
+{
+"id": 258,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"太空垫",
+"question":"如何改善交通拥堵时的空间缓冲?",
+"answer":"增加跟车距离",
+"distractor1":"紧跟在大型车辆后面行驶",
+"distractor2":"多按喇叭"
+},
+{
+"id": 259,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"太空垫",
+"question":"如果后车跟车过近,你应该怎么办?",
+"answer":"拉开与他们的距离,如果安全的话就让他们先行。",
+"distractor1":"突然刹车以警告他们",
+"distractor2":"速度超过限制"
+},
+{
+"id": 260,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"太空垫",
+"question":"为什么应该避免驶入其他驾驶员的盲区?",
+"answer":"他们可能看不到你的车辆",
+"distractor1":"它能提高燃油经济性",
+"distractor2":"它能让你反应更慢。"
+},
+{
+"id": 261,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"速度选择",
+"question":"什么因素决定你的驾驶速度?",
+"answer":"道路、天气、交通和能见度状况",
+"distractor1":"最快车辆的速度",
+"distractor2":"你迟到了多久?"
+},
+{
+"id": 262,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"速度选择",
+"question":"为什么车速过快会造成危险?",
+"answer":"它会降低你安全停车的能力。",
+"distractor1":"它能提高轮胎抓地力。",
+"distractor2":"它提高了可见度"
+},
+{
+"id": 263,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"速度选择",
+"question":"接近盲弯时应该怎么做?",
+"answer":"降低车速并做好应对危险的准备",
+"distractor1":"入弯前加速",
+"distractor2":"沿中心线行驶"
+},
+{
+"id": 264,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"速度选择",
+"question":"在人流密集区域附近,最安全的车速是多少?",
+"answer":"较低的速度使你能够安全反应。",
+"distractor1":"最高合法速度",
+"distractor2":"与周围车辆速度相同"
+},
+{
+"id": 265,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"速度选择",
+"question":"如果能见度降低,应该怎么办?",
+"answer":"减速慢行,提高警惕",
+"distractor1":"靠近前方车辆",
+"distractor2":"始终使用远光灯"
+},
+{
+"id": 266,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"雨天驾驶",
+"question":"暴雨中驾车时应该怎么做?",
+"answer":"降低车速并增加跟车距离",
+"distractor1":"保持正常速度",
+"distractor2":"靠近其他车辆行驶"
+},
+{
+"id": 267,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"雨天驾驶",
+"question":"为什么湿滑路面更危险?",
+"answer":"轮胎抓地力下降,刹车距离增加。",
+"distractor1":"道路标志变得不准确",
+"distractor2":"车辆刹车更快"
+},
+{
+"id": 268,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"雨天驾驶",
+"question":"如果你的车辆开始打滑,你应该怎么办?",
+"answer":"保持冷静,平稳驾驶。",
+"distractor1":"立即猛踩刹车",
+"distractor2":"猛踩油门"
+},
+{
+"id": 269,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"雨天驾驶",
+"question":"为什么在湿滑路面上应该避免急刹车?",
+"answer":"它会导致失控。",
+"distractor1":"它过度提高了牵引力。",
+"distractor2":"它会使前大灯变暗。"
+},
+{
+"id": 270,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"雨天驾驶",
+"question":"雨天行车前应该检查哪些事项?",
+"answer":"轮胎、车灯和雨刮器",
+"distractor1":"只有收音机",
+"distractor2":"仅燃油量"
+},
+{
+"id": 271,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"夜间驾驶",
+"question":"为什么夜间行车更困难?",
+"answer":"能见度降低,危险更难被发现。",
+"distractor1":"夜间道路规则会发生变化",
+"distractor2":"车辆刹车更快"
+},
+{
+"id": 272,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"夜间驾驶",
+"question":"夜间行车应该注意什么?",
+"answer":"以能够在视线范围内停车的速度行驶",
+"distractor1":"因为道路比较安静,所以要开快点。",
+"distractor2":"紧跟其他车辆。"
+},
+{
+"id": 273,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"夜间驾驶",
+"question":"如果迎面驶来的车辆的前灯刺得你睁不开眼,你应该怎么办?",
+"answer":"减速并稍微向道路左侧边缘看去",
+"distractor1":"直视车灯",
+"distractor2":"持续闪烁远光灯"
+},
+{
+"id": 274,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"夜间驾驶",
+"question":"为什么夜间保持挡风玻璃清洁很重要?",
+"answer":"脏污的挡风玻璃会增加眩光。",
+"distractor1":"它能改善发动机冷却效果",
+"distractor2":"它改变了速度限制。"
+},
+{
+"id": 275,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"夜间驾驶",
+"question":"夜间驾车时如果感到疲倦该怎么办?",
+"answer":"安全停车休息",
+"distractor1":"打开车窗,继续行驶",
+"distractor2":"开快点,早点到达。"
+},
+{
+"id": 276,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"跟车与刹车",
+"question":"为什么要保持安全跟车距离?",
+"answer":"留出足够的时间安全停车。",
+"distractor1":"为防止其他车辆超车",
+"distractor2":"仅减少轮胎磨损"
+},
+{
+"id": 277,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"跟车与刹车",
+"question":"随着车速增加,刹车距离会发生什么变化?",
+"answer":"制动距离增加",
+"distractor1":"制动距离缩短",
+"distractor2":"制动距离保持不变"
+},
+{
+"id": 278,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"跟车与刹车",
+"question":"在正常情况下,最安全的刹车方式是什么?",
+"answer":"平稳渐进地刹车",
+"distractor1":"在最后一秒突然刹车",
+"distractor2":"刹车时踩油门"
+},
+{
+"id": 279,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"跟车与刹车",
+"question":"为什么要与重型车辆保持更大的距离?",
+"answer":"它们可能会挡住你的视线,而且需要更长时间才能停下来。",
+"distractor1":"它们比汽车刹车更快。",
+"distractor2":"他们不允许突然刹车。"
+},
+{
+"id": 280,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"跟车与刹车",
+"question":"如果前方交通突然减速,你应该怎么办?",
+"answer":"提前刹车并增加跟车距离",
+"distractor1":"立即加速超车",
+"distractor2":"持续鸣笛"
+},
+{
+"id": 281,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"防御性驾驶",
+"question":"什么是防御性驾驶?",
+"answer":"以降低风险和做好应对危险准备的方式驾驶",
+"distractor1":"以激进的方式驾驶以控制交通",
+"distractor2":"只在右侧车道行驶"
+},
+{
+"id": 282,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"防御性驾驶",
+"question":"你为什么会认为其他司机也会犯错?",
+"answer":"做好准备有助于避免事故。",
+"distractor1":"其他司机总是无视交通规则。",
+"distractor2":"它能让你安全加速。"
+},
+{
+"id": 283,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"防御性驾驶",
+"question":"变换车道前应该做什么?",
+"answer":"检查后视镜、盲点和转向灯",
+"distractor1":"快速行动,无需检查",
+"distractor2":"只需查看后视镜即可"
+},
+{
+"id": 284,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"防御性驾驶",
+"question":"安全驾驶的正确态度是什么?",
+"answer":"保持冷静、警觉和耐心",
+"distractor1":"与其他司机竞争",
+"distractor2":"积极驾驶以节省时间"
+},
+{
+"id": 285,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"防御性驾驶",
+"question":"为什么开车时应该避免分心?",
+"answer":"分心会降低对危险的警觉性。",
+"distractor1":"干扰会提高反应时间",
+"distractor2":"分心只会影响乘客。"
+},
+{
+"id": 286,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"十字路口安全",
+"question":"为什么驾驶员在接近十字路口时应该减速?",
+"answer":"危险或交通冲突可能突然出现。",
+"distractor1":"十字路口必须完全停车。",
+"distractor2":"那里没有限速规定。"
+},
+{
+"id": 287,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"十字路口安全",
+"question":"绿灯亮起时进入十字路口前应该做什么?",
+"answer":"检查路口是否畅通。",
+"distractor1":"立即加速",
+"distractor2":"假设所有其他车辆都会停止行驶"
+},
+{
+"id": 288,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"十字路口安全",
+"question":"为什么要注意十字路口的行人?",
+"answer":"行人可能正在合法过马路",
+"distractor1":"行人从不使用十字路口",
+"distractor2":"行人必须始终让行车辆。"
+},
+{
+"id": 289,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"十字路口安全",
+"question":"如果前方路口交通堵塞,你应该怎么办?",
+"answer":"等到有足够的空间才能通过路口。",
+"distractor1":"缓慢驶入并在路口停车。",
+"distractor2":"鸣笛并继续"
+},
+{
+"id": 290,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"十字路口安全",
+"question":"在十字路口转弯时,什么最重要?",
+"answer":"注意观察是否有车辆、自行车和行人",
+"distractor1":"只关注交通信号灯",
+"distractor2":"尽快转身"
+},
+{
+"id": 291,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"动物危害",
+"question":"为什么驾驶员在有野生动物标志的区域应该格外小心?",
+"answer":"动物可能会突然闯入道路",
+"distractor1":"路面总是很滑。",
+"distractor2":"那里没有限速规定。"
+},
+{
+"id": 292,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"动物危害",
+"question":"如果前方道路上出现动物,你应该怎么办?",
+"answer":"安全刹车并保持对车辆的控制。",
+"distractor1":"不检查就猛打方向盘",
+"distractor2":"加速超越,赶在它移动之前通过。"
+},
+{
+"id": 293,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"路面危险",
+"question":"为什么碎石路更危险?",
+"answer":"轮胎抓地力下降,刹车距离增加。",
+"distractor1":"车辆在碎石路上刹车更快。",
+"distractor2":"道路规则不适用于碎石路面。"
+},
+{
+"id": 294,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"路面危险",
+"question":"在路面松软或不平整的情况下应该怎么做?",
+"answer":"降低速度并平稳转向",
+"distractor1":"加速以保持牵引力",
+"distractor2":"转弯时急刹车"
+},
+{
+"id": 295,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"路面危险",
+"question":"为什么驾驶员在湿滑路面上应避免突然转向?",
+"answer":"突然的动作会导致失去控制",
+"distractor1":"它们能提高牵引力",
+"distractor2":"它们能缩短刹车距离"
+},
+{
+"id": 296,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"座椅位置和后视镜",
+"question":"为什么正确的坐姿很重要?",
+"answer":"它能帮助您安全舒适地操控车辆。",
+"distractor1":"它能提高燃油效率",
+"distractor2":"它改变了转向比"
+},
+{
+"id": 297,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"座椅位置和后视镜",
+"question":"开车前应该调整哪些设置?",
+"answer":"您的座椅、后视镜和方向盘位置",
+"distractor1":"只有收音机音量",
+"distractor2":"只有空调"
+},
+{
+"id": 298,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"座椅位置和后视镜",
+"question":"为什么后视镜需要正确调整?",
+"answer":"减少盲点并提高感知能力",
+"distractor1":"为了提高发动机性能",
+"distractor2":"为了减少轮胎磨损"
+},
+{
+"id": 299,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"座椅位置和后视镜",
+"question":"倒车前应该做什么?",
+"answer":"检查后视镜、盲区以及车辆周围区域。",
+"distractor1":"趁着车流还没到来,赶紧倒车。",
+"distractor2":"只依赖后视镜"
+},
+{
+"id": 300,
+"englishName":"Quiz",
+"category":"安全驾驶规范",
+"subcategory":"防御性驾驶",
+"question":"防御性驾驶的目标是什么?",
+"answer":"通过预判危险来降低事故风险",
+"distractor1":"尽快到达",
+"distractor2":"迫使其他司机让路"
+},
+{
+"id": 301,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"在十字路口让行",
+"question":"在没有标志或信号灯的十字路口,一般应该给谁让路?",
+"answer":"右侧驶来的车辆",
+"distractor1":"左侧驶来的车辆",
+"distractor2":"只有比你行驶速度快的车辆"
+},
+{
+"id": 302,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"在十字路口让行",
+"question":"在十字路口右转时,必须让哪辆车先行?",
+"answer":"迎面驶来的车辆,无论是直行还是左转。",
+"distractor1":"只有你身后的车辆",
+"distractor2":"仅允许右转车辆通行"
+},
+{
+"id": 303,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"在十字路口让行",
+"question":"在没有标志的丁字路口,谁应该让行?",
+"answer":"终点路上的司机",
+"distractor1":"司机继续行驶在道路上",
+"distractor2":"更大的车辆"
+},
+{
+"id": 304,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"在十字路口让行",
+"question":"在十字路口看到“让行”标志时,你必须做什么?",
+"answer":"必要时减速或停车,并让行。",
+"distractor1":"每次停顿三秒",
+"distractor2":"如果您要左转,请继续前进。"
+},
+{
+"id": 305,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"在十字路口让行",
+"question":"在十字路口遇到停车标志时,你必须做什么?",
+"answer":"完全停止并让行后再继续前进。",
+"distractor1":"如果没有人鸣笛,就减速继续行驶。",
+"distractor2":"只有当有其他车辆可见时才停车。"
+},
+{
+"id": 306,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"转弯规则",
+"question":"在转弯之前应该做什么?",
+"answer":"查看交通状况、信号灯,确保安全。",
+"distractor1":"先转弯,再打转向灯。",
+"distractor2":"只有当后方有其他车辆时才打转向灯"
+},
+{
+"id": 307,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"转弯规则",
+"question":"何时必须发出转向信号?",
+"answer":"转弯前,请给予其他道路使用者足够的警告。",
+"distractor1":"转弯才进行到一半",
+"distractor2":"只有在交通拥堵时才会发生这种情况"
+},
+{
+"id": 308,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"转弯规则",
+"question":"掉头前应该做什么?",
+"answer":"确保这是允许的且安全的。",
+"distractor1":"转弯前请鸣笛。",
+"distractor2":"只能从左侧车道转弯"
+},
+{
+"id": 309,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"转弯规则",
+"question":"在横穿另一条车道之前,你应该检查哪些内容?",
+"answer":"确保有足够的安全距离,并且你的道路上没有其他道路使用者。",
+"distractor1":"只是你的指标在工作而已。",
+"distractor2":"只是后面的车停了下来。"
+},
+{
+"id": 310,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"转弯规则",
+"question":"为什么转弯时要平稳且保持安全速度?",
+"answer":"为了保持交通秩序,避免惊扰其他道路使用者",
+"distractor1":"为了减少寻找行人的需要",
+"distractor2":"允许您忽略车道线"
+},
+{
+"id": 311,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"滑行道",
+"question":"辅道通常用于什么用途?",
+"answer":"允许车辆从主路口单独左转。",
+"distractor1":"允许车辆在十字路口停车",
+"distractor2":"允许车辆非法掉头"
+},
+{
+"id": 312,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"滑行道",
+"question":"使用专用车道时需要注意哪些人?",
+"answer":"您即将加入的行人、骑行者和车流",
+"distractor1":"只有你身后的车辆",
+"distractor2":"只有反方向行驶的车辆"
+},
+{
+"id": 313,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"滑行道",
+"question":"从匝道驶入车流前应该做什么?",
+"answer":"必要时让路,仅在安全时并线。",
+"distractor1":"加速行驶,因为辅路始终具有优先通行权。",
+"distractor2":"停在车道上等待"
+},
+{
+"id": 314,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"滑行道",
+"question":"为什么驾驶员在匝道上应该减速?",
+"answer":"行人或骑自行车的人可能正在过马路,而且交通可能很拥挤。",
+"distractor1":"匝道上总会有减速带。",
+"distractor2":"匝道上不受限速限制。"
+},
+{
+"id": 315,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"滑行道",
+"question":"如果匝道上有“让行”标志,你应该怎么做?",
+"answer":"进入或穿越车流前请先让行",
+"distractor1":"忽略它,因为辅路车道具有优先权。",
+"distractor2":"只给公交车让路"
+},
+{
+"id": 316,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"环岛",
+"question":"进入环岛前必须做什么?",
+"answer":"让行环岛内已行驶的车辆",
+"distractor1":"无论交通状况如何,每次都要停车。",
+"distractor2":"只让后方驶入的车辆先行。"
+},
+{
+"id": 317,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"环岛",
+"question":"在环岛路口何时应该打左转灯?",
+"answer":"离开环岛时,如果可行的话",
+"distractor1":"只有在进入环岛时",
+"distractor2":"在环岛处切勿打转向灯"
+},
+{
+"id": 318,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"环岛",
+"question":"如果您打算在环岛右转,接近环岛时应该如何打转向灯?",
+"answer":"进入前打信号",
+"distractor1":"进入前请打左转向灯",
+"distractor2":"离开前请勿打转向灯。"
+},
+{
+"id": 319,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"环岛",
+"question":"在环岛直行时应该怎么做?",
+"answer":"安全时再进入,如果可行,离开时打左转灯。",
+"distractor1":"进入前打信号",
+"distractor2":"驶出环岛前,请在环岛处停车。"
+},
+{
+"id": 320,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"环岛",
+"question":"为什么接近环岛时要保持安全速度?",
+"answer":"让行时,选择正确的车道,并对危险情况做出反应。",
+"distractor1":"迫使其他车辆停车",
+"distractor2":"为了避免使用指标"
+},
+{
+"id": 321,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"路口堵塞",
+"question":"什么情况下应该避免进入十字路口?",
+"answer":"前方交通拥堵导致你无法通行",
+"distractor1":"绿灯亮起时",
+"distractor2":"仅在左转时"
+},
+{
+"id": 322,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"路口堵塞",
+"question":"为什么在十字路口中间停车不安全?",
+"answer":"它会阻碍其他交通,造成碰撞风险。",
+"distractor1":"当灯光变化时,它能让你享有优先权。",
+"distractor2":"它能帮助行人更快地过马路。"
+},
+{
+"id": 323,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"路口堵塞",
+"question":"如果交通信号灯是绿灯,但前方道路被堵住了,你应该怎么办?",
+"answer":"在路口前等待,直到有足够的空间通过。",
+"distractor1":"进入路口并等待",
+"distractor2":"逆向行驶绕过车流"
+},
+{
+"id": 324,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"路口堵塞",
+"question":"在交通繁忙时通过十字路口前应该考虑哪些因素?",
+"answer":"另一边是否有足够的空间",
+"distractor1":"你的喇叭是否正常工作",
+"distractor2":"无论后面的车辆是否希望你移动"
+},
+{
+"id": 325,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"路口堵塞",
+"question":"如果前方十字路口附近车辆突然停止行驶,最安全的做法是什么?",
+"answer":"如果无法通过路口,请在进入路口前停车。",
+"distractor1":"进入十字路口以保持您的位置",
+"distractor2":"未经检查突然变换车道"
+},
+{
+"id": 326,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"十字路口的行人",
+"question":"在十字路口转弯时,必须让哪辆车先行?",
+"answer":"行人正在过马路,你即将进入这条路。",
+"distractor1":"学校路口只允许行人通行",
+"distractor2":"只有行人才可以从你的右侧过马路。"
+},
+{
+"id": 327,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"十字路口的行人",
+"question":"如果绿灯亮起时仍有行人正在过马路,你应该怎么做?",
+"answer":"等他们安全清理出一条路后再走。",
+"distractor1":"绕着它们慢慢开。",
+"distractor2":"鸣笛让他们快点"
+},
+{
+"id": 328,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"十字路口的行人",
+"question":"为什么要在十字路口转弯前查看两侧?",
+"answer":"行人和骑自行车的人可以从两侧过马路。",
+"distractor1":"找到最快的车道",
+"distractor2":"为了避免查看后视镜"
+},
+{
+"id": 329,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"十字路口的行人",
+"question":"在十字路口,遇到儿童或老年行人时应该怎么做?",
+"answer":"减速慢行,并预留更多时间让他们过马路。",
+"distractor1":"预计他们会迅速行动。",
+"distractor2":"如果它们速度慢,就绕开它们。"
+},
+{
+"id": 330,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"十字路口的行人",
+"question":"通过十字路口前,有哪些安全习惯?",
+"answer":"继续前进前,请观察是否有行人、骑自行车的人和车辆。",
+"distractor1":"只看前方车辆。",
+"distractor2":"后车驶离后立即前进。"
+},
+{
+"id": 331,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"右转",
+"question":"右转前必须检查什么?",
+"answer":"迎面而来的车辆、行人、骑自行车的人和信号灯",
+"distractor1":"只有你身后的车辆",
+"distractor2":"只有道路是否足够宽这个问题才需要考虑。"
+},
+{
+"id": 332,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"右转",
+"question":"右转横穿迎面而来的车辆时,必须等待什么?",
+"answer":"迎面而来的车辆之间留出安全空隙",
+"distractor1":"另一位司机鸣笛示意",
+"distractor2":"后面的车辆闪灯"
+},
+{
+"id": 333,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"右转",
+"question":"如果无法安全完成右转,应该怎么办?",
+"answer":"等到安全时再转弯",
+"distractor1":"在车流到达之前迅速转弯",
+"distractor2":"驶入对向车道,强行拉开与迎面而来的车流的距离。"
+},
+{
+"id": 334,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"右转",
+"question":"为什么右转前要提前打转向灯?",
+"answer":"提醒其他道路使用者您的意图",
+"distractor1":"为了在迎面而来的车辆中拥有优先通行权",
+"distractor2":"使行人自动停止"
+},
+{
+"id": 335,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"右转",
+"question":"在交通信号灯处右转时,如果对向车辆仍在行驶,你应该怎么做?",
+"answer":"让路,只有在安全的情况下才转弯。",
+"distractor1":"转向,因为你的转向灯优先。",
+"distractor2":"永久停车,直到下一个绿灯亮起。"
+},
+{
+"id": 336,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"左转",
+"question":"左转前应该检查什么?",
+"answer":"你旁边或后面的行人、骑自行车的人和车辆",
+"distractor1":"仅对向车辆",
+"distractor2":"只有正前方的车辆"
+},
+{
+"id": 337,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"左转",
+"question":"为什么左转前要检查后视镜和盲点?",
+"answer":"你旁边可能有骑自行车的人或其他道路使用者。",
+"distractor1":"为了避免使用指标",
+"distractor2":"选择更高的速度"
+},
+{
+"id": 338,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"左转",
+"question":"在人行横道左转前应该做什么?",
+"answer":"让行人先行,行人正在过马路或即将过马路。",
+"distractor1":"如果您的转向灯亮着,请直接驶入通道。",
+"distractor2":"只有当行人挥手示意时才让行。"
+},
+{
+"id": 339,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"左转",
+"question":"如何左转?",
+"answer":"从正确的车道以安全速度行驶。",
+"distractor1":"无论从哪条车道打转向灯,只要你打转向灯就行。",
+"distractor2":"尽可能向迎面而来的车辆方向驶去"
+},
+{
+"id": 340,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"左转",
+"question":"左转时应该避免什么?",
+"answer":"横穿骑自行车的人或行人",
+"distractor1":"检查后视镜",
+"distractor2":"转弯前减速"
+},
+{
+"id": 341,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"环岛危险",
+"question":"为什么要在环岛处注意骑自行车的人?",
+"answer":"它们可能更难被发现,并且可能会穿过环岛。",
+"distractor1":"骑自行车的人必须从第一个出口离开。",
+"distractor2":"自行车禁止靠近环岛。"
+},
+{
+"id": 342,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"环岛危险",
+"question":"如果其他司机在环岛处没有打转向灯,你应该怎么做?",
+"answer":"务必等到确定安全后再进入。",
+"distractor1":"无论如何都要进去,因为他们应该打信号。",
+"distractor2":"鸣笛强行闯入"
+},
+{
+"id": 343,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"环岛危险",
+"question":"为什么大型车辆在环岛行驶会造成危险?",
+"answer":"它们可能需要额外的空间来转弯",
+"distractor1":"它们总是比汽车跑得快。",
+"distractor2":"他们无需让步"
+},
+{
+"id": 344,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"环岛危险",
+"question":"在环岛内,靠近重型车辆时应该怎么做?",
+"answer":"给它足够的空间,避免挡住它的去路",
+"distractor1":"在环岛内超车",
+"distractor2":"紧贴着它行驶。"
+},
+{
+"id": 345,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"环岛危险",
+"question":"如何安全驶过繁忙的环岛?",
+"answer":"减速,选择正确的车道,并寻找安全的空隙。",
+"distractor1":"快速进入以制造空隙",
+"distractor2":"在环岛内停车决定"
+},
+{
+"id": 346,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"一般路口安全",
+"question":"为什么十字路口是高风险区域?",
+"answer":"车辆、行人和骑自行车的人可能会交叉通行。",
+"distractor1":"那里没有限速规定。",
+"distractor2":"司机在那里永远不需要让行。"
+},
+{
+"id": 347,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"一般路口安全",
+"question":"遇到十字路口时应该怎么做?",
+"answer":"减速,观察路况,做好让行准备。",
+"distractor1":"加速尽快清除它",
+"distractor2":"只需注意前方车辆。"
+},
+{
+"id": 348,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"一般路口安全",
+"question":"如果另一位司机在十字路口显得困惑,你应该怎么做?",
+"answer":"请耐心等待并预留额外空间",
+"distractor1":"靠近他们施加压力",
+"distractor2":"通过十字路口超车"
+},
+{
+"id": 349,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"一般路口安全",
+"question":"为什么不能仅仅依靠优先权呢?",
+"answer":"其他道路使用者可能会犯错",
+"distractor1":"优先权意味着你必须每次都停下来",
+"distractor2":"优先权取消了检查危险的必要性。"
+},
+{
+"id": 350,
+"englishName":"Quiz",
+"category":"十字路口、转弯和环岛",
+"subcategory":"一般路口安全",
+"question":"进入十字路口最安全的路线是什么?",
+"answer":"只有在道路畅通且安全的情况下才能继续前进。",
+"distractor1":"前方车辆移动后立即驶入。",
+"distractor2":"尽快进入,以免耽误他人。"
+},
+{
+"id": 351,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"车道线",
+"question":"车道线断裂通常意味着什么?",
+"answer":"在安全的情况下,您可以穿过它来变换车道。",
+"distractor1":"你绝对不能越过它",
+"distractor2":"它标志着一个停车场。"
+},
+{
+"id": 352,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"车道线",
+"question":"连续车道线通常意味着什么?",
+"answer":"除非获得许可或必要,否则你不应该越过它。",
+"distractor1":"你可以随时通过它。",
+"distractor2":"它仅适用于重型车辆"
+},
+{
+"id": 353,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"车道线",
+"question":"道路上绘制的车道箭头指示什么意思?",
+"answer":"你必须从那条车道出发,朝那个方向行驶",
+"distractor1":"车道推荐速度",
+"distractor2":"允许停车的地方"
+},
+{
+"id": 354,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"车道线",
+"question":"跨越车道线前应该做什么?",
+"answer":"确认变道合法安全后再打转向灯。",
+"distractor1":"先行动,后检查",
+"distractor2":"用喇叭代替打转向灯。"
+},
+{
+"id": 355,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"车道线",
+"question":"彩绘交通岛通常代表什么?",
+"answer":"除非获得许可或确有必要,否则不得驾车驶入该路段。",
+"distractor1":"这是超车道。",
+"distractor2":"这里是停车休息的地方。"
+},
+{
+"id": 356,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"车道使用",
+"question":"在多车道道路上,应该如何使用标线车道?",
+"answer":"除非安全变道,否则请保持在车道内行驶。",
+"distractor1":"驶过车道线才能看清前方路况",
+"distractor2":"如果交通流量较小,则使用两条车道。"
+},
+{
+"id": 357,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"车道使用",
+"question":"如果你的车道上有转弯箭头,你应该怎么做?",
+"answer":"按照箭头指示的方向操作。",
+"distractor1":"只要安全,选择任何方向都可以。",
+"distractor2":"仅跟随前方车辆行驶"
+},
+{
+"id": 358,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"车道使用",
+"question":"如果你在转弯时走错了车道,应该怎么办?",
+"answer":"继续安全行驶,如有需要可更改路线。",
+"distractor1":"在最后一刻横穿车道",
+"distractor2":"停在车道上并倒车"
+},
+{
+"id": 359,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"车道使用",
+"question":"为什么应该避免跨越车道线?",
+"answer":"这可能会使其他驾驶员感到困惑,并增加事故风险。",
+"distractor1":"它提高了所有人的可见度",
+"distractor2":"交通缓慢时需要它"
+},
+{
+"id": 360,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"车道使用",
+"question":"在十字路口前如何安全地选择车道?",
+"answer":"尽早选择正确的车道,并打转向灯示意任何变道。",
+"distractor1":"等到最后一刻再做决定",
+"distractor2":"选择车速最快的车道行驶。"
+},
+{
+"id": 361,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"超车规则",
+"question":"什么时候应该超车?",
+"answer":"只有在合法、安全且视野清晰的情况下才能进行。",
+"distractor1":"当前方车辆速度较慢时",
+"distractor2":"只有当你能够超过速度限制时"
+},
+{
+"id": 362,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"超车规则",
+"question":"什么情况下绝对不能超车?",
+"answer":"当你看不清前方足够远的路,无法安全行事时",
+"distractor1":"当道路笔直畅通时",
+"distractor2":"当前方车辆行驶速度低于限速时"
+},
+{
+"id": 363,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"超车规则",
+"question":"超车前必须做什么?",
+"answer":"检查后视镜、盲点、标志、标线和来车情况。",
+"distractor1":"鸣笛并立即离开",
+"distractor2":"首先紧随其后,向司机施压。"
+},
+{
+"id": 364,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"超车规则",
+"question":"被超车时应该避免什么?",
+"answer":"在其他车辆超车时加速",
+"distractor1":"保持匀速",
+"distractor2":"安全时靠左行驶"
+},
+{
+"id": 365,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"超车规则",
+"question":"为什么超车后返航时必须留出足够的空间?",
+"answer":"为了避免切入你经过的车辆的前方路口",
+"distractor1":"阻止后方车辆通过",
+"distractor2":"延长使用两条车道的时间"
+},
+{
+"id": 366,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"合并",
+"question":"并入车流前应该做什么?",
+"answer":"打转向灯,检查后视镜和盲点,安全时再并线。",
+"distractor1":"先行一步,然后等着别人刹车",
+"distractor2":"在车道尽头突然停车"
+},
+{
+"id": 367,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"合并",
+"question":"从一条车道变道到另一条车道时,谁应该让行?",
+"answer":"司机正在变换车道",
+"distractor1":"司机已经在车道上了",
+"distractor2":"更大的车辆"
+},
+{
+"id": 368,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"合并",
+"question":"如果你的车道即将结束,你应该怎么办?",
+"answer":"调整车速,安全地并入合适的缝隙。",
+"distractor1":"强行挤入车流",
+"distractor2":"继续沿肩部行驶"
+},
+{
+"id": 369,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"合并",
+"question":"在安全的情况下,并线时为什么要与车流速度保持一致?",
+"answer":"它能帮助你顺利进入缝隙。",
+"distractor1":"它赋予你自动优先权",
+"distractor2":"它可以让你忽略车道线。"
+},
+{
+"id": 370,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"合并",
+"question":"合并时应该避免什么?",
+"answer":"切入时距离其他车辆太近",
+"distractor1":"检查盲点",
+"distractor2":"使用您的指标"
+},
+{
+"id": 371,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"特殊通道",
+"question":"公交车道的主要用途是什么?",
+"answer":"公共汽车和其他车辆,只要符合标志或规则允许即可通行。",
+"distractor1":"繁忙交通期间所有车辆",
+"distractor2":"私人车辆停放"
+},
+{
+"id": 372,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"特殊通道",
+"question":"什么情况下可以使用专用车道?",
+"answer":"仅当标志或交通规则允许时",
+"distractor1":"当它是空的时候",
+"distractor2":"当你迟到的时候"
+},
+{
+"id": 373,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"特殊通道",
+"question":"为什么要在进入专用车道前查看标志?",
+"answer":"部分车道仅限特定车辆或在特定时间段内通行。",
+"distractor1":"指示牌仅显示旅游信息",
+"distractor2":"特殊车道没有规则"
+},
+{
+"id": 374,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"特殊通道",
+"question":"在自行车道附近应该做什么?",
+"answer":"注意避让骑自行车的人,未经许可请勿进入。",
+"distractor1":"交通拥堵时,可以开车行驶在这些道路上。",
+"distractor2":"将它们用作超车道"
+},
+{
+"id": 375,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"特殊通道",
+"question":"公交专用道或高乘载车道是做什么用的?",
+"answer":"符合乘客或车辆要求的车辆",
+"distractor1":"任何载有一人的车辆",
+"distractor2":"只有右转的车辆才能通行。"
+},
+{
+"id": 376,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"保持左侧",
+"question":"在需要靠左行驶的道路上,通常应该往哪边开?",
+"answer":"除非超车或另有许可,否则应在左侧车道行驶。",
+"distractor1":"始终保持在右侧车道",
+"distractor2":"横跨两条车道"
+},
+{
+"id": 377,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"保持左侧",
+"question":"在多车道道路上,什么情况下可以使用右侧车道?",
+"answer":"超车、右转或当标志或交通状况允许时",
+"distractor1":"只要你喜欢",
+"distractor2":"只有在低于限速行驶时才适用"
+},
+{
+"id": 378,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"保持左侧",
+"question":"为什么靠左行走很重要?",
+"answer":"它有助于交通安全、可预测地流动。",
+"distractor1":"它允许司机无视速度限制",
+"distractor2":"它赋予左侧车道驾驶员在所有路段的优先权。"
+},
+{
+"id": 379,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"保持左侧",
+"question":"在安全合法的情况下,速度较慢的车辆应该怎么做?",
+"answer":"靠左行驶,以便其他车辆安全通行。",
+"distractor1":"保持在右侧车道行驶以控制交通",
+"distractor2":"驶过中线"
+},
+{
+"id": 380,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"保持左侧",
+"question":"如果指示牌告诉你靠左行驶,你应该怎么做?",
+"answer":"从标志或障碍物的左侧通过",
+"distractor1":"在下一条街左转",
+"distractor2":"停在标志牌旁边"
+},
+{
+"id": 381,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"变道",
+"question":"变换车道前必须做什么?",
+"answer":"检查后视镜,检查盲点,打转向灯,并让行。",
+"distractor1":"移动后发出信号",
+"distractor2":"只需检查前挡风玻璃"
+},
+{
+"id": 382,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"变道",
+"question":"变道时谁应该让路?",
+"answer":"司机正在变换车道",
+"distractor1":"司机已经在车道上了",
+"distractor2":"行驶速度较慢的司机"
+},
+{
+"id": 383,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"变道",
+"question":"为什么变换车道前必须检查盲点?",
+"answer":"车辆或骑车人可能无法从后视镜中看到。",
+"distractor1":"为了避免使用指标",
+"distractor2":"为了提高你的速度"
+},
+{
+"id": 384,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"变道",
+"question":"何时应该打转向灯变换车道?",
+"answer":"在移动之前,请给予其他道路使用者足够的警告。",
+"distractor1":"只有当你驶入车道一半时",
+"distractor2":"只有当其他司机鸣笛时才行。"
+},
+{
+"id": 385,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"变道",
+"question":"在交通拥堵的情况下,最安全的变道方式是什么?",
+"answer":"等待安全空隙,平稳移动。",
+"distractor1":"慢慢强行闯入",
+"distractor2":"在你的车道上停下,直到有人让你进去。"
+},
+{
+"id": 386,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"超车安全",
+"question":"在双向道路上超车前应该检查哪些内容?",
+"answer":"前方道路畅通,安全距离内畅通无阻。",
+"distractor1":"你的喇叭声音足够大。",
+"distractor2":"前面的车辆颜色相同"
+},
+{
+"id": 387,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"超车安全",
+"question":"为什么在弯道或坡顶附近超车很危险?",
+"answer":"您可能无法及时看到迎面而来的车辆。",
+"distractor1":"它能改善你的道路视野",
+"distractor2":"那里总是需要的。"
+},
+{
+"id": 388,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"超车安全",
+"question":"如果你不确定超车是否安全,应该怎么办?",
+"answer":"不要超车",
+"distractor1":"在情况发生变化之前迅速超车",
+"distractor2":"开车靠近些,以便看得更清楚。"
+},
+{
+"id": 389,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"超车安全",
+"question":"为什么应该避免同时超车多辆车?",
+"answer":"它会增加安全通过所需的时间和距离。",
+"distractor1":"它始终能降低碰撞风险",
+"distractor2":"它可以让你忽略迎面而来的车辆。"
+},
+{
+"id": 390,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"超车安全",
+"question":"超车后你必须做什么?",
+"answer":"只有在安全且有足够的空间的情况下,才能返回你的车道。",
+"distractor1":"立即减少投入",
+"distractor2":"待在道路的错误一侧"
+},
+{
+"id": 391,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"一般车道安全",
+"question":"为什么可预测的车道使用方式很重要?",
+"answer":"它可以帮助其他道路使用者了解你的行驶路线。",
+"distractor1":"它允许突然转弯",
+"distractor2":"它省去了使用镜子的必要。"
+},
+{
+"id": 392,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"一般车道安全",
+"question":"如果其他车辆偏离车道驶入你的车道,你应该怎么做?",
+"answer":"必要时减速或安全离开",
+"distractor1":"加速阻挡它们",
+"distractor2":"开车靠近一些,提醒他们。"
+},
+{
+"id": 393,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"一般车道安全",
+"question":"车道狭窄时应该避免什么?",
+"answer":"与其他车辆行驶距离过近",
+"distractor1":"降低速度",
+"distractor2":"待在你的车道内"
+},
+{
+"id": 394,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"一般车道安全",
+"question":"前方车道封闭时应该如何应对?",
+"answer":"根据标志和交通情况,尽早安全地并线。",
+"distractor1":"加速驶入封闭车道",
+"distractor2":"直到最后一刻才理会那些信号。"
+},
+{
+"id": 395,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"一般车道安全",
+"question":"为什么应该避免突然变换车道?",
+"answer":"它们可能会令其他道路使用者措手不及,并导致交通事故。",
+"distractor1":"他们总是能节省燃料",
+"distractor2":"他们会优先考虑你。"
+},
+{
+"id": 396,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"一般车道安全",
+"question":"车道线褪色或难以辨认时应该怎么办?",
+"answer":"放慢速度,格外小心,保持位置。",
+"distractor1":"无视车道纪律",
+"distractor2":"在路中间行驶"
+},
+{
+"id": 397,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"一般车道安全",
+"question":"在变换车道或超车时,靠近骑自行车的人应该怎么做?",
+"answer":"留出足够的空间,仅在安全的情况下移动。",
+"distractor1":"尽可能靠近通过",
+"distractor2":"用喇叭让他们停下来"
+},
+{
+"id": 398,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"一般车道安全",
+"question":"为什么应该提前计划变道?",
+"answer":"它能减少突然的动作,并向他人发出警告",
+"distractor1":"它让你无视各种标志",
+"distractor2":"它允许更快转弯"
+},
+{
+"id": 399,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"一般车道安全",
+"question":"如果盲区内有车辆,你应该怎么办?",
+"answer":"等车道畅通后再移动。",
+"distractor1":"无论如何都要移动,因为你已经表明了这一点",
+"distractor2":"在你的车道上突然刹车"
+},
+{
+"id": 400,
+"englishName":"Quiz",
+"category":"道路标线、车道和超车",
+"subcategory":"一般车道安全",
+"question":"最安全的车道纪律执行方式是什么?",
+"answer":"保持警惕,遵循标志,提前发出信号,并在需要时让行。",
+"distractor1":"随时使用任何车道",
+"distractor2":"经常变换车道以节省时间"
+},
+{
+"id": 401,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"停车与泊车",
+"question":"是什么阻止了它?",
+"answer":"即使是短暂地停车,也可能导致危险。",
+"distractor1":"离开车辆超过一小时",
+"distractor2":"只有在发动机熄火的情况下才能停车"
+},
+{
+"id": 402,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"停车与泊车",
+"question":"什么是停车?",
+"answer":"停车并离开车辆等待一段时间",
+"distractor1":"只在红绿灯处停车",
+"distractor2":"只停在车道上"
+},
+{
+"id": 403,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"停车与泊车",
+"question":"为什么了解停车和停止之间的区别很重要?",
+"answer":"每个区域可能适用不同的标志和规则。",
+"distractor1":"它们的意思始终完全相同。",
+"distractor2":"停车规则仅适用于夜间。"
+},
+{
+"id": 404,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"停车与泊车",
+"question":"在禁止停车的地方可以短暂停车吗?",
+"answer":"不,除非是为了避免危险或法律指示。",
+"distractor1":"是的,如果你待在车里的话。",
+"distractor2":"是的,如果你的危险警告灯亮着的话。"
+},
+{
+"id": 405,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"停车与泊车",
+"question":"停车路边之前应该检查哪些内容?",
+"answer":"停车是允许且安全的。",
+"distractor1":"只有道路是否平坦才是关键。",
+"distractor2":"仅取决于你的引擎是否运转"
+},
+{
+"id": 406,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"禁止停车区",
+"question":"禁止停车标志是什么意思?",
+"answer":"除非法律或安全需要,否则您不得在此停车。",
+"distractor1":"您可能会短暂停车接载乘客。",
+"distractor2":"非高峰时段您可以在那里停车。"
+},
+{
+"id": 407,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"禁止停车区",
+"question":"在禁止停车区域开启危险警示灯等待可以吗?",
+"answer":"不,危险警示灯并不允许非法停车。",
+"distractor1":"是的,最多五分钟",
+"distractor2":"是的,如果你一直坐在驾驶座上的话。"
+},
+{
+"id": 408,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"禁止停车区",
+"question":"为什么不使用禁止停车区?",
+"answer":"为了保障交通、视线和道路使用者的安全",
+"distractor1":"创建私人停车位",
+"distractor2":"允许随时装载"
+},
+{
+"id": 409,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"禁止停车区",
+"question":"在禁止停车区域,什么情况下可以停车?",
+"answer":"仅在避免碰撞或遵守合法指令时",
+"distractor1":"每次接载乘客时",
+"distractor2":"交通顺畅的时候"
+},
+{
+"id": 410,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"禁止停车区",
+"question":"如果您的预定接客地点位于禁停区,您应该怎么办?",
+"answer":"选择另一个合法安全的停车地点。",
+"distractor1":"打开危险警示灯,迅速停车",
+"distractor2":"停车时,只有两个车轮要压在路沿上。"
+},
+{
+"id": 411,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"禁止停车区域",
+"question":"禁止停车标志通常允许什么情况?",
+"answer":"如获许可,可短暂停车接送乘客或货物。",
+"distractor1":"如果您住在附近,可以全天停车。",
+"distractor2":"购物时将车辆停放在无人看管的地方"
+},
+{
+"id": 412,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"禁止停车区域",
+"question":"在禁停区域内必须避免哪些行为?",
+"answer":"车辆停放时间过长或等待时间过长",
+"distractor1":"快速接送乘客",
+"distractor2":"根据交通状况要求停车"
+},
+{
+"id": 413,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"禁止停车区域",
+"question":"在禁停区送人后应该怎么办?",
+"answer":"一旦安全合法,就尽快离开。",
+"distractor1":"在那儿等他们回来",
+"distractor2":"关闭发动机,离开"
+},
+{
+"id": 414,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"禁止停车区域",
+"question":"为什么要阅读完整的停车标志?",
+"answer":"规则适用时,时间、日期和情况可能会发生变化。",
+"distractor1":"停车标志仅供游客使用",
+"distractor2":"只有标志的颜色才重要"
+},
+{
+"id": 415,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"禁止停车区域",
+"question":"禁停区域还能设置时间限制或附加条件吗?",
+"answer":"是的,标志牌可能会显示具体的时间或条件。",
+"distractor1":"不,所有禁止停车标志永久有效。",
+"distractor2":"不,标牌上从来不会包含条件。"
+},
+{
+"id": 416,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"清道夫",
+"question":"什么是畅通通道?",
+"answer":"在标示的时间段内,道路某一段禁止停车。",
+"distractor1":"免费停车区",
+"distractor2":"仅供转弯使用的场地"
+},
+{
+"id": 417,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"清道夫",
+"question":"为什么要使用禁行道?",
+"answer":"为了在高峰时段保持交通畅通",
+"distractor1":"提供长期停车位",
+"distractor2":"始终设置装卸区"
+},
+{
+"id": 418,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"清道夫",
+"question":"在禁行标志附近停车前应该检查哪些内容?",
+"answer":"牌子上显示的日期和时间",
+"distractor1":"只有道路是否宽敞才重要。",
+"distractor2":"只有其他车辆是否停在那里才能确定。"
+},
+{
+"id": 419,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"清道夫",
+"question":"在运营时间内将车停在禁停路段会发生什么?",
+"answer":"您的车辆可能会被罚款或拖走。",
+"distractor1":"您的车辆享有优先权",
+"distractor2":"如果危险警示灯亮起,您可以继续停留。"
+},
+{
+"id": 420,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"清道夫",
+"question":"在禁停区域内,什么情况下允许停车?",
+"answer":"在已标明的禁行路段运行时间之外,如果没有其他限制,则适用以下规定",
+"distractor1":"交通顺畅的时候",
+"distractor2":"只有当你留在车内时"
+},
+{
+"id": 421,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"公交车站和区域",
+"question":"公交车站或公交站台的主要用途是什么?",
+"answer":"公交车停靠上下客",
+"distractor1":"私家车等候乘客",
+"distractor2":"摩托车全天停放"
+},
+{
+"id": 422,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"公交车站和区域",
+"question":"为什么未经允许不得在公交专用道停车?",
+"answer":"它会阻碍公交车通行,并对乘客造成危险。",
+"distractor1":"它能加快公交车的行驶速度。",
+"distractor2":"它赋予您的车辆优先权"
+},
+{
+"id": 423,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"公交车站和区域",
+"question":"在公交车站附近应该注意什么?",
+"answer":"行人下车,公交车驶离",
+"distractor1":"仅停放的自行车",
+"distractor2":"只有跟在你后面的车辆"
+},
+{
+"id": 424,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"公交车站和区域",
+"question":"当公交车发出驶离车站的信号时,你应该怎么做?",
+"answer":"做好在必要且安全的情况下让路的准备。",
+"distractor1":"每次都加速超越",
+"distractor2":"开车靠近以阻止它并线"
+},
+{
+"id": 425,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"公交车站和区域",
+"question":"如果你需要在公交车站附近接人,应该怎么办?",
+"answer":"请使用合法停车地点,不要阻碍公交车站通行。",
+"distractor1":"为了方便起见,请在公交站下车。",
+"distractor2":"在交通车道上的公交车站旁停车"
+},
+{
+"id": 426,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"车道和十字路口",
+"question":"为什么必须避免堵塞车道?",
+"answer":"车辆和行人需要安全通行。",
+"distractor1":"车道总是公交车道。",
+"distractor2":"这样一来,停车标志就显得没必要了。"
+},
+{
+"id": 427,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"车道和十字路口",
+"question":"为什么把车停在离十字路口太近的地方很危险?",
+"answer":"它会阻挡视线,造成碰撞风险。",
+"distractor1":"它提高了速度限制。",
+"distractor2":"它赋予停放车辆优先权。"
+},
+{
+"id": 428,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"车道和十字路口",
+"question":"在街角停车前应该检查哪些内容?",
+"answer":"标志、道路标线以及是否阻碍视线或通行",
+"distractor1":"仅取决于路缘石是否涂漆。",
+"distractor2":"仅看那里是否停放着其他车辆。"
+},
+{
+"id": 429,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"车道和十字路口",
+"question":"等候期间,您能否停在人行道或车道对面?",
+"answer":"不,如果它阻碍访问或造成危险,那就不行。",
+"distractor1":"是的,如果你待在车里的话。",
+"distractor2":"是的,如果只是几分钟的话。"
+},
+{
+"id": 430,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"车道和十字路口",
+"question":"离开车道时应该怎么做?",
+"answer":"礼让行人、自行车和车辆",
+"distractor1":"如果发出信号,请立即驶入车流。",
+"distractor2":"只让右侧车辆先行"
+},
+{
+"id": 431,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"装卸区",
+"question":"装卸区是用来做什么的?",
+"answer":"根据标志允许,装卸货物或乘客。",
+"distractor1":"所有车辆均可长期停车",
+"distractor2":"超车道"
+},
+{
+"id": 432,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"装卸区",
+"question":"谁可以使用装卸区?",
+"answer":"只有符合标志和规则的车辆和驾驶员才被允许通行。",
+"distractor1":"任何车辆,无论行驶时间长短。",
+"distractor2":"只有开启了危险警告灯的车辆"
+},
+{
+"id": 433,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"装卸区",
+"question":"在装卸区停车前应该做什么?",
+"answer":"请阅读告示,了解谁可以使用以及何时可以使用。",
+"distractor1":"假设停车始终免费。",
+"distractor2":"先停下来,稍后再读。"
+},
+{
+"id": 434,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"装卸区",
+"question":"为什么装卸区必须保持畅通,以供允许用途?",
+"answer":"它们有助于货物和人员安全流动。",
+"distractor1":"它们专供超速车辆使用。",
+"distractor2":"它们取代了人行横道。"
+},
+{
+"id": 435,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"装卸区",
+"question":"装卸完毕后应该做什么?",
+"answer":"一旦安全合法,立即离开该区域。",
+"distractor1":"请在时限结束前保持停车状态。",
+"distractor2":"整天将车辆停放在无人看管的地方。"
+},
+{
+"id": 436,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"停车位",
+"question":"通常情况下,应该如何将车停在路边?",
+"answer":"除非标志或标线另有规定,否则应靠近路缘石并与之平行。",
+"distractor1":"无论你选择哪个角度",
+"distractor2":"面向与交通方向相反的方向"
+},
+{
+"id": 437,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"停车位",
+"question":"停车后打开车门前应该做什么?",
+"answer":"注意观察是否有骑自行车的人、车辆和行人。",
+"distractor1":"趁着车流还没来,赶紧打开。",
+"distractor2":"只需检查前挡风玻璃"
+},
+{
+"id": 438,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"停车位",
+"question":"为什么停放的车辆不应阻碍交通?",
+"answer":"它会造成危险并阻碍道路使用者。",
+"distractor1":"它赋予您的车辆优先权",
+"distractor2":"它使道路变宽。"
+},
+{
+"id": 439,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"停车位",
+"question":"在斜坡上停车应该怎么办?",
+"answer":"固定车辆,防止其溜车。",
+"distractor1":"将车辆置于空挡",
+"distractor2":"停车时请比平时离路沿更远一些。"
+},
+{
+"id": 440,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"停车位",
+"question":"停车后应该检查什么?",
+"answer":"车辆已安全停放且不会造成危险。",
+"distractor1":"只是收音机关掉了。",
+"distractor2":"只是窗户很干净而已。"
+},
+{
+"id": 441,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"紧急停止",
+"question":"什么情况下需要紧急停车?",
+"answer":"需要停车以避免危险或事故时",
+"distractor1":"当你想接听电话时",
+"distractor2":"当你想把车停在离商店更近的地方时"
+},
+{
+"id": 442,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"紧急停止",
+"question":"如果你的车辆发生故障,你应该怎么办?",
+"answer":"如果可能,请将其移至安全地点,并警告其他道路使用者。",
+"distractor1":"把它停在没有灯光的车道上",
+"distractor2":"在车流中站在它后面"
+},
+{
+"id": 443,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"紧急停止",
+"question":"什么情况下应该使用危险警示灯?",
+"answer":"警告他人注意危险或紧急情况",
+"distractor1":"允许非法停车",
+"distractor2":"在交通中优先通行"
+},
+{
+"id": 444,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"紧急停止",
+"question":"紧急情况下必须在路边停车,什么才是安全的做法?",
+"answer":"尽可能远离车流停车,并保持警惕",
+"distractor1":"停在车道中间",
+"distractor2":"站在路边,车辆旁边。"
+},
+{
+"id": 445,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"紧急停止",
+"question":"如果待在抛锚车辆附近不安全,应该怎么办?",
+"answer":"如果可能,请移至远离交通的更安全地点。",
+"distractor1":"坐在车后的路边。",
+"distractor2":"尝试在行驶的车流中推动车辆。"
+},
+{
+"id": 446,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"一般停车规则",
+"question":"停车前应该检查哪些内容?",
+"answer":"标志、道路标线以及停车是否安全合法。",
+"distractor1":"只看那里是否停着其他车辆。",
+"distractor2":"只需考虑该空间是否靠近您的目的地即可"
+},
+{
+"id": 447,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"一般停车规则",
+"question":"为什么应该避免在视线受阻的地方停车?",
+"answer":"其他道路使用者可能看不清你或危险情况。",
+"distractor1":"它能让你的车更容易被找到。",
+"distractor2":"它提高了速度限制。"
+},
+{
+"id": 448,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"一般停车规则",
+"question":"如果停车标志显示的时间或条件不同,您应该怎么办?",
+"answer":"遵守当时当地适用的限制措施。",
+"distractor1":"如果空间为空,请忽略标志。",
+"distractor2":"只跟随数字最大的标志。"
+},
+{
+"id": 449,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"一般停车规则",
+"question":"倒车驶出停车位前应该做什么?",
+"answer":"注意周围是否有行人、骑自行车的人和车辆。",
+"distractor1":"如果指示灯亮起,请立即倒车。",
+"distractor2":"仅依赖倒车传感器"
+},
+{
+"id": 450,
+"englishName":"Quiz",
+"category":"停车、泊车和路边规则",
+"subcategory":"一般停车规则",
+"question":"安全的停车习惯是什么?",
+"answer":"合法停车,锁好车辆,避免造成危险。",
+"distractor1":"哪里有空地就停车。",
+"distractor2":"使用危险警示灯取消限制"
+},
+{
+"id": 451,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"行人优先",
+"question":"在人行横道上,什么情况下必须礼让行人?",
+"answer":"当行人正在过马路或进入过马路时",
+"distractor1":"只有当他们走到一半的时候",
+"distractor2":"仅在白天"
+},
+{
+"id": 452,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"行人优先",
+"question":"转入公路时,需要注意谁?",
+"answer":"行人正在过马路,你即将进入这条路。",
+"distractor1":"只有你身后的车辆",
+"distractor2":"只有推婴儿车的行人"
+},
+{
+"id": 453,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"行人优先",
+"question":"行人过马路时,你应该怎么做?",
+"answer":"等他们安全清理出一条路后再走。",
+"distractor1":"绕着它们慢慢开。",
+"distractor2":"鸣笛让他们加快速度"
+},
+{
+"id": 454,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"行人优先",
+"question":"为什么驾驶员在人行横道附近应该减速?",
+"answer":"行人可能会突然踏上人行横道。",
+"distractor1":"车辆在那里始终享有优先权。",
+"distractor2":"交叉路口取消限速"
+},
+{
+"id": 455,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"行人优先",
+"question":"在人流密集的步行区域附近,怎样做才算安全?",
+"answer":"放慢速度,仔细扫描,随时准备停止",
+"distractor1":"保持车速,以保证交通畅通。",
+"distractor2":"车辆驶近路沿线时,请尽量避开行人。"
+},
+{
+"id": 456,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"儿童和学校区域",
+"question":"为什么驾驶员在儿童附近行驶时必须格外小心?",
+"answer":"儿童行为难以预测,可能会突然闯入马路。",
+"distractor1":"儿童总是能理解交通间隙。",
+"distractor2":"儿童与成人拥有相同的道路判断能力"
+},
+{
+"id": 457,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"儿童和学校区域",
+"question":"在学校活动区域内应该怎么做?",
+"answer":"遵守学校区域限速标志,并注意儿童。",
+"distractor1":"如果没有儿童在视线范围内,请以正常速度行驶。",
+"distractor2":"学校放学前请停在车道上"
+},
+{
+"id": 458,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"儿童和学校区域",
+"question":"在学校附近过马路应该怎么做?",
+"answer":"减速慢行,并做好停车避让儿童和行人的准备。",
+"distractor1":"加快速度,赶在孩子们到达前通过。",
+"distractor2":"如果有空位,请绕过行人。"
+},
+{
+"id": 459,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"儿童和学校区域",
+"question":"为什么要留意停放车辆附近的儿童?",
+"answer":"他们可能藏匿起来,然后突然出现。",
+"distractor1":"停放的车辆始终享有优先权。",
+"distractor2":"儿童绝不会从停放的车辆之间穿过。"
+},
+{
+"id": 460,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"儿童和学校区域",
+"question":"如果附近有校车或孩子,你应该怎么做?",
+"answer":"减速慢行,注意过马路的儿童。",
+"distractor1":"趁公交车还没开动就迅速超车",
+"distractor2":"开车靠近公交车,以便看清前方路况。"
+},
+{
+"id": 461,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"路上的骑行者",
+"question":"驾驶员在道路上应该如何对待骑自行车的人?",
+"answer":"作为需要安全空间的合法道路使用者",
+"distractor1":"行人必须离开道路",
+"distractor2":"车辆必须始终为汽车停车"
+},
+{
+"id": 462,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"路上的骑行者",
+"question":"为什么要在转弯或变换车道前检查盲点?",
+"answer":"骑自行车的人可能就在你的车旁边。",
+"distractor1":"骑自行车的人总能在后视镜里看到。",
+"distractor2":"盲区仅影响重型车辆"
+},
+{
+"id": 463,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"路上的骑行者",
+"question":"跟随骑自行车的人时应该怎么做?",
+"answer":"保持安全距离,仅在安全的情况下通过。",
+"distractor1":"密切关注并鼓励他们行动",
+"distractor2":"持续鸣笛"
+},
+{
+"id": 464,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"路上的骑行者",
+"question":"为什么骑自行车的人在十字路口更难被看到?",
+"answer":"它们体积较小,可能位于视觉盲区。",
+"distractor1":"它们总是比汽车跑得快。",
+"distractor2":"它们不允许出现在十字路口。"
+},
+{
+"id": 465,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"路上的骑行者",
+"question":"经过骑自行车的人时应该避免什么?",
+"answer":"超车距离过近或过早切入",
+"distractor1":"检查是否有来车",
+"distractor2":"等待安全间隙"
+},
+{
+"id": 466,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"自行车道",
+"question":"自行车道的主要用途是什么?",
+"answer":"沿路骑行的自行车手",
+"distractor1":"私人车辆停放",
+"distractor2":"随时超车"
+},
+{
+"id": 467,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"自行车道",
+"question":"驾驶员在什么情况下可以驶入自行车道?",
+"answer":"只有在允许的情况下,例如为了安全转弯或避开障碍物。",
+"distractor1":"交通缓慢的时候",
+"distractor2":"车道空闲时"
+},
+{
+"id": 468,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"自行车道",
+"question":"过自行车道转弯前应该做什么?",
+"answer":"注意观察是否有骑自行车的人,并在需要时让路。",
+"distractor1":"先转弯,因为汽车有优先权。",
+"distractor2":"鸣笛并继续"
+},
+{
+"id": 469,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"自行车道",
+"question":"为什么驾驶员应该避免在自行车道上停车?",
+"answer":"这会迫使骑自行车的人进入车流,造成危险。",
+"distractor1":"它能让骑自行车的人更快出行。",
+"distractor2":"它赋予停放的车辆优先权。"
+},
+{
+"id": 470,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"自行车道",
+"question":"在自行车道附近打开车门前应该注意什么?",
+"answer":"后方驶来的骑车人",
+"distractor1":"只有从前方驶来的车辆。",
+"distractor2":"人行道上只有行人。"
+},
+{
+"id": 471,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"共享路径",
+"question":"哪些用户经常使用共享路径?",
+"answer":"行人和骑自行车的人",
+"distractor1":"仅限机动车辆",
+"distractor2":"仅限重型车辆"
+},
+{
+"id": 472,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"共享路径",
+"question":"驾驶员在接近共享道路交叉口时应该注意什么?",
+"answer":"行人和骑自行车的人进入或穿越道路",
+"distractor1":"仅限停放的车辆",
+"distractor2":"仅交通标志"
+},
+{
+"id": 473,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"共享路径",
+"question":"为什么要在共享道路入口附近减速?",
+"answer":"用户可能会突然从任一方向出现",
+"distractor1":"共享路径会自动更改道路限速。",
+"distractor2":"司机在那里始终享有优先权。"
+},
+{
+"id": 474,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"共享路径",
+"question":"在穿越共享道路时,转弯时采取什么措施才是安全的?",
+"answer":"仔细检查,并在需要时让路。",
+"distractor1":"在行人到达之前迅速转弯",
+"distractor2":"忽略骑自行车的人,因为他们必须停下来"
+},
+{
+"id": 475,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"共享路径",
+"question":"为什么驾驶员在车道与公共道路交叉口附近要格外小心?",
+"answer":"行人和骑自行车的人可能会沿着这条路行进。",
+"distractor1":"从车道驶出的车辆始终享有优先通行权。",
+"distractor2":"共享路径仅在夜间使用"
+},
+{
+"id": 476,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"老年人和残疾行人",
+"question":"为什么驾驶员应该为老年行人预留更多时间?",
+"answer":"它们可能移动速度较慢,或者需要更多时间才能通过。",
+"distractor1":"他们总是走外侧人行横道。",
+"distractor2":"他们无权使用这条道路"
+},
+{
+"id": 477,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"老年人和残疾行人",
+"question":"如果一名使用助行器的行人过马路,你应该怎么做?",
+"answer":"耐心等待,直到他们安全离开。",
+"distractor1":"绕着它们慢慢开。",
+"distractor2":"鸣笛催促他们。"
+},
+{
+"id": 478,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"老年人和残疾行人",
+"question":"为什么有些行人需要更多的空间和耐心?",
+"answer":"他们可能出现行动不便、视力或听力障碍。",
+"distractor1":"它们不允许出现在十字路口。",
+"distractor2":"他们必须始终给汽车让路"
+},
+{
+"id": 479,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"老年人和残疾行人",
+"question":"遇到看起来不知所措的行人,怎样做才安全?",
+"answer":"减速并做好停车准备",
+"distractor1":"加速,让他们等待",
+"distractor2":"开车靠近,以便显示您的路线"
+},
+{
+"id": 480,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"老年人和残疾行人",
+"question":"在易受攻击的行人附近应该避免做什么?",
+"answer":"急躁或突然的驾驶动作",
+"distractor1":"给他们时间过河",
+"distractor2":"仔细观察"
+},
+{
+"id": 481,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"最小通过距离",
+"question":"为什么驾驶员在超越骑自行车的人时必须留出足够的空间?",
+"answer":"骑自行车的人很脆弱,可能需要足够的空间来避开危险。",
+"distractor1":"骑自行车的人总是沿直线行驶。",
+"distractor2":"超车空间只在高速公路上才重要"
+},
+{
+"id": 482,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"最小通过距离",
+"question":"如果没有足够的空间安全超越骑自行车的人,你应该怎么做?",
+"answer":"等到有足够的安全通行空间后再行。",
+"distractor1":"慢慢挤过去",
+"distractor2":"鸣笛然后照样通过。"
+},
+{
+"id": 483,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"最小通过距离",
+"question":"为什么骑自行车的人会突然横向移动?",
+"answer":"他们可能需要避开坑洼、碎屑或停放的车门。",
+"distractor1":"他们试图阻断交通。",
+"distractor2":"他们需要编织"
+},
+{
+"id": 484,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"最小通过距离",
+"question":"超车骑自行车的人时,最安全的方法是什么?",
+"answer":"减速慢行,保持安全距离,仅在前方道路畅通时才超车。",
+"distractor1":"尽可能靠近通过",
+"distractor2":"传球后立即切回。"
+},
+{
+"id": 485,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"最小通过距离",
+"question":"为什么应该避免在十字路口或弯道附近超越骑自行车的人?",
+"answer":"能见度和空间可能受限。",
+"distractor1":"骑自行车的人必须在每个弯道处停车。",
+"distractor2":"车辆在那里总有额外的空间。"
+},
+{
+"id": 486,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"动物及其他弱势用户",
+"question":"为什么要在道路上或路边遇到动物时减速?",
+"answer":"动物的移动可能难以预测",
+"distractor1":"动物总是会避开车辆。",
+"distractor2":"道路规则在动物附近不适用。"
+},
+{
+"id": 487,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"动物及其他弱势用户",
+"question":"如果前方突然出现动物,你应该怎么办?",
+"answer":"安全刹车并保持对车辆的控制。",
+"distractor1":"不检查就猛打方向盘",
+"distractor2":"加速超越,赶在它移动之前通过。"
+},
+{
+"id": 488,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"动物及其他弱势用户",
+"question":"在道路上遇到骑马者时应该怎么做?",
+"answer":"减速慢行,保持足够距离,避免突然发出噪音",
+"distractor1":"鸣笛警告他们",
+"distractor2":"靠近他们以减少与他们相处的时间。"
+},
+{
+"id": 489,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"动物及其他弱势用户",
+"question":"为什么摩托车骑行者被认为是道路上的弱势群体?",
+"answer":"它们防护措施较少,也更难被发现。",
+"distractor1":"他们不允许使用普通车道。",
+"distractor2":"它们始终优先于汽车。"
+},
+{
+"id": 490,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"动物及其他弱势用户",
+"question":"在摩托车或踏板车附近转弯前应该做什么?",
+"answer":"仔细检查后视镜和盲区。",
+"distractor1":"假设他们已经停止了",
+"distractor2":"在他们到达之前迅速转身"
+},
+{
+"id": 491,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"一般安全原则",
+"question":"保护弱势道路使用者安全的关键原则是什么?",
+"answer":"放慢速度,给他们留出更多空间",
+"distractor1":"期望他们给你让路",
+"distractor2":"开车靠近他们,让他们看到你"
+},
+{
+"id": 492,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"一般安全原则",
+"question":"为什么驾驶员应该对弱势道路使用者保持耐心?",
+"answer":"他们更有可能在车祸中受重伤。",
+"distractor1":"他们不需要道路空间",
+"distractor2":"它们必须始终比汽车行驶得更快。"
+},
+{
+"id": 493,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"一般安全原则",
+"question":"当道路使用者周围能见度差,无法看到弱势道路使用者时,应该怎么办?",
+"answer":"减速并做好停车准备",
+"distractor1":"保持速度并依靠它们移动",
+"distractor2":"开车靠近些,看得更清楚"
+},
+{
+"id": 494,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"一般安全原则",
+"question":"在骑自行车的人和行人附近应该避免什么?",
+"answer":"突然、猛烈或近距离的动作",
+"distractor1":"检查后视镜",
+"distractor2":"离开安全空间"
+},
+{
+"id": 495,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"一般安全原则",
+"question":"什么样的态度有助于保护弱势道路使用者?",
+"answer":"礼貌、耐心和谨慎",
+"distractor1":"急躁和压力",
+"distractor2":"假设他们总是会停止"
+},
+{
+"id": 496,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"驾驶员意识",
+"question":"为什么驾驶员应该经常查看后视镜?",
+"answer":"时刻注意骑自行车的人、摩托车骑手和其他交通工具。",
+"distractor1":"为了避免检查盲点",
+"distractor2":"观察后座乘客"
+},
+{
+"id": 497,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"驾驶员意识",
+"question":"为什么开门前要检查盲区?",
+"answer":"可能有骑自行车的人或车辆从你旁边经过。",
+"distractor1":"门总是安全打开的。",
+"distractor2":"只有乘客需要检查"
+},
+{
+"id": 498,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"驾驶员意识",
+"question":"在行人附近倒车前应该做什么?",
+"answer":"检查四周,确保安全后再缓慢倒车。",
+"distractor1":"仅依赖传感器或摄像头",
+"distractor2":"在有人靠近之前迅速倒车"
+},
+{
+"id": 499,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"驾驶员意识",
+"question":"为什么要扫描人行道和道路边缘?",
+"answer":"行人、骑自行车的人或动物可能会进入道路",
+"distractor1":"寻找更快捷的路线",
+"distractor2":"为了避免遵守标志"
+},
+{
+"id": 500,
+"englishName":"Quiz",
+"category":"行人、骑自行车者和弱势道路使用者",
+"subcategory":"驾驶员意识",
+"question":"在弱势道路使用者周围,哪些习惯是安全的?",
+"answer":"预料到意外情况,并预留额外时间应对。",
+"distractor1":"假设他们总能看到你",
+"distractor2":"开车靠近点,让他们知道你在那里。"
+},
+{
+"id": 501,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"道路施工",
+"question":"遇到道路施工路段应该怎么做?",
+"answer":"减速慢行,并遵守所有标志和指示。",
+"distractor1":"如果看不到工人,请保持正常速度。",
+"distractor2":"如果交通拥堵,请绕过障碍物。"
+},
+{
+"id": 502,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"道路施工",
+"question":"为什么道路施工区域要降低限速?",
+"answer":"保护工人和道路使用者",
+"distractor1":"完全停止交通",
+"distractor2":"允许驾驶员自由超车"
+},
+{
+"id": 503,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"道路施工",
+"question":"道路施工区域会有哪些情况?",
+"answer":"交通状况变化、路面不平整以及附近有施工人员",
+"distractor1":"更高的速度限制",
+"distractor2":"没有车道线或规则"
+},
+{
+"id": 504,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"道路施工",
+"question":"如果交通管制员发出指令,你应该怎么做?",
+"answer":"仔细遵循他们的指示。",
+"distractor1":"如果标志不同,请忽略它们。",
+"distractor2":"只在白天跟随他们"
+},
+{
+"id": 505,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"道路施工",
+"question":"为什么要在道路施工区域预留额外空间?",
+"answer":"交通可能突然中断或车道可能变窄。",
+"distractor1":"允许超速车辆通过",
+"distractor2":"因为那里不需要指标。"
+},
+{
+"id": 506,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"铁路平交道口",
+"question":"当铁路道口的警示灯或警报响起时,你必须做什么?",
+"answer":"停下来,等到安全后再过马路。",
+"distractor1":"火车来之前赶紧过马路。",
+"distractor2":"如果立即看不到火车,请继续前进。"
+},
+{
+"id": 507,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"铁路平交道口",
+"question":"为什么永远不能在铁轨上停车?",
+"answer":"火车可能无法及时停下来。",
+"distractor1":"火车总是会为汽车减速。",
+"distractor2":"轨道仅在夜间使用"
+},
+{
+"id": 508,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"铁路平交道口",
+"question":"进入铁路道口前应该检查哪些内容?",
+"answer":"你可以完全清除轨道",
+"distractor1":"只有当通道足够宽时才需要考虑。",
+"distractor2":"只看你身后是否有其他车辆。"
+},
+{
+"id": 509,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"铁路平交道口",
+"question":"在没有信号灯或栏杆的铁路道口应该怎么做?",
+"answer":"减速慢行,仔细观察,确保安全后再过马路。",
+"distractor1":"假设没有火车驶来。",
+"distractor2":"停在铁轨上,检查两条线路"
+},
+{
+"id": 510,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"铁路平交道口",
+"question":"为什么铁路道口被认为是高风险区域?",
+"answer":"火车体积庞大、速度很快,而且无法快速停下来。",
+"distractor1":"那里不适用道路交通规则。",
+"distractor2":"司机始终拥有优先于火车行驶的权利。"
+},
+{
+"id": 511,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"隧道",
+"question":"进入隧道前应该做什么?",
+"answer":"打开车头灯,查看路况",
+"distractor1":"加快速度快速通过",
+"distractor2":"关闭所有灯光"
+},
+{
+"id": 512,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"隧道",
+"question":"为什么要在隧道内保持安全跟车距离?",
+"answer":"能见度和逃生选择可能受到限制。",
+"distractor1":"车辆在隧道中刹车更快。",
+"distractor2":"遵守距离规则在那里不适用。"
+},
+{
+"id": 513,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"隧道",
+"question":"在隧道里应该避免做什么?",
+"answer":"除非必要或有指示,否则停止。",
+"distractor1":"使用车头灯",
+"distractor2":"在车道内行驶"
+},
+{
+"id": 514,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"隧道",
+"question":"如果隧道内交通堵塞,你应该怎么办?",
+"answer":"保持冷静,保持距离,并遵循指示牌或指示。",
+"distractor1":"立即倒车",
+"distractor2":"将车辆停放在车道上"
+},
+{
+"id": 515,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"隧道",
+"question":"为什么驾驶员应该注意隧道标志和信号?",
+"answer":"路况或车道方向可能突然改变",
+"distractor1":"标志牌仅供重型车辆使用。",
+"distractor2":"隧道标志取代所有道路规则"
+},
+{
+"id": 516,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"高速公路和匝道",
+"question":"进入高速公路时应该怎么做?",
+"answer":"以适当的速度安全并入车流。",
+"distractor1":"在坡道尽头停下",
+"distractor2":"以极低的速度驶入高速公路"
+},
+{
+"id": 517,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"高速公路和匝道",
+"question":"为什么并入高速公路时检查盲点很重要?",
+"answer":"车辆可能就在你旁边,但从后视镜中看不到。",
+"distractor1":"盲区只会影响卡车",
+"distractor2":"后视镜可以显示汽车周围的每个区域。"
+},
+{
+"id": 518,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"高速公路和匝道",
+"question":"在出口匝道上应该怎么做?",
+"answer":"根据需要安全减速并遵守交通标志",
+"distractor1":"离开高速公路前急刹车",
+"distractor2":"如果错过出口,请倒车。"
+},
+{
+"id": 519,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"高速公路和匝道",
+"question":"为什么在多车道高速公路上需要靠左行驶?",
+"answer":"为了帮助交通安全、可预测地流动",
+"distractor1":"为了完全防止超车",
+"distractor2":"因为右侧车道仅供公交车通行。"
+},
+{
+"id": 520,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"高速公路和匝道",
+"question":"如果你错过了高速公路出口该怎么办?",
+"answer":"继续安全前往下一个出口",
+"distractor1":"沿肩部反向",
+"distractor2":"停在车道上"
+},
+{
+"id": 521,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"恶劣天气",
+"question":"暴雨中驾车时应该怎么做?",
+"answer":"减速并增加跟车距离",
+"distractor1":"保持正常速度",
+"distractor2":"靠近其他车辆行驶"
+},
+{
+"id": 522,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"恶劣天气",
+"question":"为什么湿滑路面很危险?",
+"answer":"轮胎抓地力下降,刹车距离增加。",
+"distractor1":"车辆在湿滑路面上刹车距离更短。",
+"distractor2":"道路标志不再适用"
+},
+{
+"id": 523,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"恶劣天气",
+"question":"遇到强风应该怎么办?",
+"answer":"握紧方向盘,必要时降低车速。",
+"distractor1":"靠近大型车辆",
+"distractor2":"加速以减少风阻"
+},
+{
+"id": 524,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"恶劣天气",
+"question":"为什么在恶劣天气条件下也应该使用车头灯?",
+"answer":"为了帮助你看到别人,也为了让别人看到你。",
+"distractor1":"提高速度限制",
+"distractor2":"为了提高轮胎抓地力"
+},
+{
+"id": 525,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"恶劣天气",
+"question":"如果天气状况变得过于危险,你应该怎么办?",
+"answer":"必要时,找个安全的地方停下来等候。",
+"distractor1":"继续以正常速度行驶",
+"distractor2":"紧跟其他车辆"
+},
+{
+"id": 526,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"眩光和阳光",
+"question":"如果阳光造成眩光该怎么办?",
+"answer":"放慢速度,如果合适,请使用遮阳板或太阳镜。",
+"distractor1":"短暂闭上眼睛",
+"distractor2":"在眩光中加速行驶"
+},
+{
+"id": 527,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"眩光和阳光",
+"question":"为什么眩光很危险?",
+"answer":"它会降低你发现危险的能力。",
+"distractor1":"它提高了可见性",
+"distractor2":"它能增加轮胎抓地力"
+},
+{
+"id": 528,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"眩光和阳光",
+"question":"如果眩光导致视线模糊,该怎么办?",
+"answer":"降低车速,谨慎驾驶",
+"distractor1":"继续以同样的速度行驶",
+"distractor2":"紧跟前车"
+},
+{
+"id": 529,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"眩光和阳光",
+"question":"为什么在阳光强烈的情况下也应该保持挡风玻璃清洁?",
+"answer":"脏玻璃会增加眩光。",
+"distractor1":"清洁的玻璃会增加燃料消耗",
+"distractor2":"阳光会褪去道路标线。"
+},
+{
+"id": 530,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"眩光和阳光",
+"question":"日出日落时驾车应该注意什么?",
+"answer":"能见度降低,道路使用者被眩光遮蔽",
+"distractor1":"改变车道线",
+"distractor2":"自动提高速度限制"
+},
+{
+"id": 531,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"动物",
+"question":"为什么驾驶员在有野生动物踪迹的区域应该减速慢行?",
+"answer":"动物可能会突然闯入道路",
+"distractor1":"那里没有限速规定。",
+"distractor2":"动物总是远离公路"
+},
+{
+"id": 532,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"动物",
+"question":"开车时如果前方出现动物,应该怎么办?",
+"answer":"安全刹车,保持车辆控制",
+"distractor1":"不检查就猛打方向盘",
+"distractor2":"加速吓走它"
+},
+{
+"id": 533,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"动物",
+"question":"为什么为了躲避动物而猛打方向盘很危险?",
+"answer":"您可能会失去控制或与其他道路使用者发生碰撞。",
+"distractor1":"动物总是迅速离开。",
+"distractor2":"急转弯可以提高轮胎抓地力"
+},
+{
+"id": 534,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"动物",
+"question":"在骑马者附近应该做什么?",
+"answer":"减速慢行,保持足够距离谨慎超车。",
+"distractor1":"经过前请鸣笛。",
+"distractor2":"在马匹旁边迅速加速"
+},
+{
+"id": 535,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"动物",
+"question":"动物通常在什么情况下更活跃于道路附近?",
+"answer":"在黎明、黄昏和夜晚",
+"distractor1":"仅在中午",
+"distractor2":"仅在交通拥堵时"
+},
+{
+"id": 536,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"故障与紧急情况",
+"question":"如果你的车辆发生故障,你应该怎么办?",
+"answer":"如果可能,请移至安全地点并警告其他道路使用者。",
+"distractor1":"将车辆停放在车道上",
+"distractor2":"站在车后的路面上。"
+},
+{
+"id": 537,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"故障与紧急情况",
+"question":"何时应该使用危险警告灯?",
+"answer":"当您的车辆停止时,可能会造成危险。",
+"distractor1":"允许非法停车",
+"distractor2":"表示超车"
+},
+{
+"id": 538,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"故障与紧急情况",
+"question":"如果你的抛锚车辆无法移动,你应该怎么办?",
+"answer":"尽量注意安全并寻求帮助",
+"distractor1":"把它推入行驶中的车流中",
+"distractor2":"关闭警示灯"
+},
+{
+"id": 539,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"故障与紧急情况",
+"question":"为什么车辆抛锚后应该避免站在车流附近?",
+"answer":"过往车辆可能会造成危险",
+"distractor1":"驾驶员总是自动停车。",
+"distractor2":"路肩是正在使用的交通车道"
+},
+{
+"id": 540,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"故障与紧急情况",
+"question":"在路边紧急情况下,什么最重要?",
+"answer":"保护好自己并提醒其他道路使用者",
+"distractor1":"保持在车道内",
+"distractor2":"忽略驶近的车辆"
+},
+{
+"id": 541,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"低能见度",
+"question":"在雾或烟中应该怎么做?",
+"answer":"降低车速并使用合适的灯光",
+"distractor1":"持续使用远光灯",
+"distractor2":"以正常速度行驶"
+},
+{
+"id": 542,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"低能见度",
+"question":"为什么低能见度很危险?",
+"answer":"危险物和其他道路使用者更难被发现",
+"distractor1":"车辆刹车更快",
+"distractor2":"路标变得不再必要"
+},
+{
+"id": 543,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"低能见度",
+"question":"在能见度较低的情况下,应该增加哪些因素?",
+"answer":"保持距离",
+"distractor1":"行驶速度",
+"distractor2":"号角的使用"
+},
+{
+"id": 544,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"低能见度",
+"question":"如果能见度极差,应该怎么办?",
+"answer":"大幅减速,必要时安全停车。",
+"distractor1":"继续按限速行驶",
+"distractor2":"紧跟前方车辆"
+},
+{
+"id": 545,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"低能见度",
+"question":"为什么在能见度低的情况下应该避免突然移动?",
+"answer":"其他司机可能无法及时做出反应。",
+"distractor1":"突然的动作可以提高能见度",
+"distractor2":"它们能增加轮胎抓地力"
+},
+{
+"id": 546,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"一般特殊情况",
+"question":"在不熟悉的道路环境中,最安全的方法是什么?",
+"answer":"减速慢行,时刻注意路况变化。",
+"distractor1":"加速行驶,尽快离开该区域",
+"distractor2":"忽视警告信号"
+},
+{
+"id": 547,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"一般特殊情况",
+"question":"为什么驾驶员应该适应不断变化的路况?",
+"answer":"路况会影响制动距离和车辆操控。",
+"distractor1":"路况不会影响安全",
+"distractor2":"危险路段限速自动提高"
+},
+{
+"id": 548,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"一般特殊情况",
+"question":"当标志牌警告前方有特殊危险时,你应该怎么做?",
+"answer":"降低车速并做好安全应对准备",
+"distractor1":"如果交通顺畅,可以忽略它们。",
+"distractor2":"在到达该区域之前加速"
+},
+{
+"id": 549,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"一般特殊情况",
+"question":"为什么在复杂的驾驶环境中提前规划路线很重要?",
+"answer":"它能让你有更多时间安全应对。",
+"distractor1":"这样就无需查看后视镜了。",
+"distractor2":"它可以让你忽略道路标线。"
+},
+{
+"id": 550,
+"englishName":"Quiz",
+"category":"特殊情况和道路环境",
+"subcategory":"一般特殊情况",
+"question":"在特殊道路情况下,什么态度能提高安全性?",
+"answer":"耐心、谨慎和警觉",
+"distractor1":"攻击性驾驶",
+"distractor2":"努力保持速度"
+},
+{
+"id": 551,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"为紧急车辆让路",
+"question":"当紧急车辆鸣着警灯或闪着警笛靠近时,你应该怎么做?",
+"answer":"如果可能,请让路并安全靠边。",
+"distractor1":"保持车速和车道",
+"distractor2":"立即停在路中央"
+},
+{
+"id": 552,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"为紧急车辆让路",
+"question":"为什么驾驶员必须给紧急车辆让路?",
+"answer":"他们可能正在应对紧急情况",
+"distractor1":"紧急车辆始终以高于限速的速度行驶。",
+"distractor2":"紧急车辆不遵守交通规则"
+},
+{
+"id": 553,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"为紧急车辆让路",
+"question":"当紧急车辆靠近时,你应该避免做什么?",
+"answer":"阻挡其路径或惊慌失措",
+"distractor1":"检查后视镜",
+"distractor2":"安全减速"
+},
+{
+"id": 554,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"为紧急车辆让路",
+"question":"如果你听到警笛声但看不到紧急车辆,应该怎么办?",
+"answer":"保持警惕,仔细观察周围环境,并做好让路的准备。",
+"distractor1":"别管它,直到车辆出现在你旁边。",
+"distractor2":"加速行驶以避免延误交通"
+},
+{
+"id": 555,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"为紧急车辆让路",
+"question":"给紧急车辆让路时,最重要的是什么?",
+"answer":"安全搬迁,避免造成其他危险",
+"distractor1":"尽可能突然停止",
+"distractor2":"立即驶入道路的错误一侧"
+},
+{
+"id": 556,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"十字路口的紧急车辆",
+"question":"如果紧急车辆驶近十字路口,你应该怎么做?",
+"answer":"让路,让它安全通过。",
+"distractor1":"在它到达路口之前迅速进入。",
+"distractor2":"如果指示灯是绿灯,则忽略它。"
+},
+{
+"id": 557,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"十字路口的紧急车辆",
+"question":"为什么驾驶员在十字路口靠近紧急车辆时应该保持冷静?",
+"answer":"突然或不可预测的行动可能会造成危险。",
+"distractor1":"紧急车辆遇到交通堵塞时必须停车。",
+"distractor2":"交通信号灯不再适用于任何驾驶员。"
+},
+{
+"id": 558,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"十字路口的紧急车辆",
+"question":"在有紧急车辆靠近的十字路口,应该避免做什么?",
+"answer":"阻塞十字路口或无故停车",
+"distractor1":"检查后视镜",
+"distractor2":"注意行人"
+},
+{
+"id": 559,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"十字路口的紧急车辆",
+"question":"如果紧急车辆导致十字路口交通中断,你应该怎么做?",
+"answer":"保持耐心并安全地遵循指示。",
+"distractor1":"绕着停着的车辆行驶",
+"distractor2":"鸣笛驱赶车辆"
+},
+{
+"id": 560,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"十字路口的紧急车辆",
+"question":"紧急车辆通过后,在移动之前应该检查哪些内容?",
+"answer":"道路畅通安全",
+"distractor1":"仅需确认后方车辆是否移动。",
+"distractor2":"你是否能够快速加速"
+},
+{
+"id": 561,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"警方指示",
+"question":"如果警察指示你做什么,你必须做什么?",
+"answer":"遵照他们的合法指示",
+"distractor1":"如果标牌上的信息与此不同,请忽略它们。",
+"distractor2":"仅在紧急情况下服从"
+},
+{
+"id": 562,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"警方指示",
+"question":"如果警察的指示与交通信号灯或标志相冲突,谁拥有优先权?",
+"answer":"警方指示",
+"distractor1":"交通信号灯",
+"distractor2":"行驶速度最快的交通"
+},
+{
+"id": 563,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"警方指示",
+"question":"为什么警察可以手动指挥交通?",
+"answer":"为了应对安全或异常交通状况",
+"distractor1":"永久更换所有交通标志",
+"distractor2":"提高速度限制"
+},
+{
+"id": 564,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"警方指示",
+"question":"如果警察临时封锁交通,你应该怎么办?",
+"answer":"耐心等待,直到接到移动指示。",
+"distractor1":"绕过停滞的车流",
+"distractor2":"未经许可缓慢前进"
+},
+{
+"id": 565,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"警方指示",
+"question":"驾驶员在服从警方指示时应该抱持怎样的态度?",
+"answer":"冷静、耐心和合作",
+"distractor1":"攻击性和不耐烦",
+"distractor2":"如果指令延迟,则忽略指令"
+},
+{
+"id": 566,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"停车接受警方检查",
+"question":"如果警察示意你停车,你应该怎么做?",
+"answer":"条件允许时,安全靠边停车。",
+"distractor1":"继续开车直到到达家。",
+"distractor2":"在车道上突然停车"
+},
+{
+"id": 567,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"停车接受警方检查",
+"question":"为什么你应该在警察指示下立即停车?",
+"answer":"这是法律要求,有助于确保安全。",
+"distractor1":"警方仅为练习而随机拦截车辆。",
+"distractor2":"在交通顺畅的情况下,停车是可选的。"
+},
+{
+"id": 568,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"停车接受警方检查",
+"question":"如果可能的话,警方应该在哪里停车最安全?",
+"answer":"远离交通繁忙路段的安全地点",
+"distractor1":"在十字路口中央",
+"distractor2":"在铁路道口"
+},
+{
+"id": 569,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"停车接受警方检查",
+"question":"被警察拦下后应该怎么办?",
+"answer":"保持冷静并听从指示",
+"distractor1":"立即离开车辆,无需任何指示",
+"distractor2":"如果延误,请驾车离开。"
+},
+{
+"id": 570,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"停车接受警方检查",
+"question":"当警察命令你停车时,你应该避免什么?",
+"answer":"突然进行不安全操作或拒绝停车",
+"distractor1":"使用指标",
+"distractor2":"安全移至路边"
+},
+{
+"id": 571,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"呼吸和药物检测",
+"question":"警方在路边检测行动中可能会要求驾驶员做什么?",
+"answer":"提供呼吸或药物检测样本",
+"distractor1":"请勿离开车辆。",
+"distractor2":"无需停车即可驾车通过"
+},
+{
+"id": 572,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"呼吸和药物检测",
+"question":"为什么要进行路边酒精和毒品测试?",
+"answer":"为了提高道路安全并减少酒后驾驶行为",
+"distractor1":"为了加剧交通拥堵",
+"distractor2":"测试车辆性能"
+},
+{
+"id": 573,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"呼吸和药物检测",
+"question":"遇到路边检测点时应该怎么做?",
+"answer":"减速慢行,并听从警方指示",
+"distractor1":"加速浏览网站",
+"distractor2":"突然转身"
+},
+{
+"id": 574,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"呼吸和药物检测",
+"question":"哪些因素会影响您的安全驾驶能力?",
+"answer":"酒精、毒品或某些药物",
+"distractor1":"使用车头灯",
+"distractor2":"以低于限速的速度行驶"
+},
+{
+"id": 575,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"呼吸和药物检测",
+"question":"为什么驾驶员应该配合路边检测?",
+"answer":"它符合法律要求和道路安全要求。",
+"distractor1":"如果交通流量较小,则测试并非必要。",
+"distractor2":"只有商业驾驶员才需要配合"
+},
+{
+"id": 576,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"事故及事件处理指南",
+"question":"到达事故现场时应该怎么做?",
+"answer":"减速慢行,并听从应急人员的指示。",
+"distractor1":"加快速度快速通过",
+"distractor2":"停在车道上观看"
+},
+{
+"id": 577,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"事故及事件处理指南",
+"question":"为什么警察或急救人员会在事故现场指挥交通?",
+"answer":"为保护道路使用者并安全处置现场",
+"distractor1":"增加延误",
+"distractor2":"创建新的停车区域"
+},
+{
+"id": 578,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"事故及事件处理指南",
+"question":"事故现场附近应该避免什么?",
+"answer":"分心驾驶或过度减速观察",
+"distractor1":"遵照警方指示",
+"distractor2":"注意安全隐患"
+},
+{
+"id": 579,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"事故及事件处理指南",
+"question":"事故发生后车道封闭,您应该怎么办?",
+"answer":"安全并线,并遵守所有标志和指示。",
+"distractor1":"驶过封闭车道",
+"distractor2":"忽略临时标志"
+},
+{
+"id": 580,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"事故及事件处理指南",
+"question":"为什么驾驶员在紧急情况附近要保持警惕?",
+"answer":"交通状况和危险情况可能随时发生变化",
+"distractor1":"那里的交通规则不再适用。",
+"distractor2":"紧急车辆总是会完全阻断交通。"
+},
+{
+"id": 581,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"一般合规性",
+"question":"为什么遵守合法指令很重要?",
+"answer":"它有助于维护道路安全和秩序",
+"distractor1":"在交通顺畅的情况下,方向指示可有可无。",
+"distractor2":"只有重型车辆驾驶员才必须遵守"
+},
+{
+"id": 582,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"一般合规性",
+"question":"当驾驶员无法确定当局的指示时应该怎么做?",
+"answer":"放慢速度,安全地理解指令。",
+"distractor1":"完全忽略方向",
+"distractor2":"无论其他驾驶员的指示如何,都要听从他们的指挥。"
+},
+{
+"id": 583,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"一般合规性",
+"question":"应对临时交通管制措施的安全措施是什么?",
+"answer":"请遵循标志、信号和官方指示。",
+"distractor1":"绕过障碍物",
+"distractor2":"利用封闭车道节省时间"
+},
+{
+"id": 584,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"一般合规性",
+"question":"为什么驾驶员在交通中断期间应该保持耐心?",
+"answer":"急躁可能会造成额外的危险。",
+"distractor1":"延误期间交通规则暂停执行。",
+"distractor2":"激进驾驶可以安全地缓解交通拥堵。"
+},
+{
+"id": 585,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"一般合规性",
+"question":"驾驶员在接到上级指示时应该始终执行哪些操作?",
+"answer":"安全合法合规",
+"distractor1":"以个人判断代替指令",
+"distractor2":"快速操作以避免延误"
+},
+{
+"id": 586,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"交通中的紧急车辆",
+"question":"在交通拥堵的情况下,如果后面跟着一辆紧急车辆,你应该怎么办?",
+"answer":"尽可能安全地靠边让行,让它通过。",
+"distractor1":"在你的车道上突然刹车",
+"distractor2":"加速前进,保持领先"
+},
+{
+"id": 587,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"交通中的紧急车辆",
+"question":"为什么在交通拥堵时不能阻碍紧急车辆通行?",
+"answer":"他们可能正在应对紧急情况。",
+"distractor1":"紧急车辆始终可以使用人行道。",
+"distractor2":"交通拥堵取消了让行规则"
+},
+{
+"id": 588,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"交通中的紧急车辆",
+"question":"在为紧急车辆腾出空间时,应该避免哪些事情?",
+"answer":"不安全或不可预测的操作",
+"distractor1":"检查后视镜",
+"distractor2":"谨慎减速"
+},
+{
+"id": 589,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"交通中的紧急车辆",
+"question":"紧急车辆通过后,驾驶员应该注意什么?",
+"answer":"更多应急车辆正在赶来。",
+"distractor1":"只有交通信号灯在变化",
+"distractor2":"附近有停车位"
+},
+{
+"id": 590,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"交通中的紧急车辆",
+"question":"当附近有急救车辆时,最安全的做法是什么?",
+"answer":"保持冷静、警觉和可预测性",
+"distractor1":"尽快清理道路",
+"distractor2":"无论身在何处,无需检查即可停止。"
+},
+{
+"id": 591,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"法律后果",
+"question":"如果你不服从警方的合法指令,会发生什么?",
+"answer":"您可能面临处罚或法律后果。",
+"distractor1":"如果交通顺畅,则无需任何操作。",
+"distractor2":"只能进行口头警告"
+},
+{
+"id": 592,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"法律后果",
+"question":"为什么阻碍紧急车辆通行会被处罚?",
+"answer":"阻塞可能危及生命并延误应急响应",
+"distractor1":"紧急车辆不需要畅通的道路。",
+"distractor2":"延误只会影响交通流量。"
+},
+{
+"id": 593,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"法律后果",
+"question":"在紧急情况下,避免受到处罚最安全的方法是什么?",
+"answer":"严格遵守道路交通规则和官方指示。",
+"distractor1":"模仿那些不耐烦的司机。",
+"distractor2":"忽略临时交通管制"
+},
+{
+"id": 594,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"法律后果",
+"question":"在紧急事故现场附近进行不安全行为是否会增加事故风险?",
+"answer":"是的,不安全行为会造成额外的危险。",
+"distractor1":"不,紧急现场始终受到全面保护。",
+"distractor2":"只有重型车辆才有风险"
+},
+{
+"id": 595,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"法律后果",
+"question":"驾驶员为何应该遵守紧急交通管制?",
+"answer":"它们旨在保护现场所有人员的安全。",
+"distractor1":"他们只帮助紧急救援人员",
+"distractor2":"这些是可选建议"
+},
+{
+"id": 596,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"一般应急意识",
+"question":"为什么驾驶员应该时刻警惕紧急车辆?",
+"answer":"紧急情况可能随时发生。",
+"distractor1":"紧急车辆仅在夜间运行。",
+"distractor2":"警报器仅在农村地区使用。"
+},
+{
+"id": 597,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"一般应急意识",
+"question":"在道路紧急情况下,安全的态度是什么?",
+"answer":"保持冷静,配合当局工作。",
+"distractor1":"与其他司机竞争空间",
+"distractor2":"如果延误,请忽略指示"
+},
+{
+"id": 598,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"一般应急意识",
+"question":"为什么驾驶员应该定期查看后视镜?",
+"answer":"尽早注意到驶近的紧急车辆",
+"distractor1":"为了避免查看前方路况",
+"distractor2":"为减少跟车距离"
+},
+{
+"id": 599,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"一般应急意识",
+"question":"如果因紧急情况导致交通状况突然改变,您应该怎么做?",
+"answer":"放慢速度,安全适应。",
+"distractor1":"继续正常驾驶,无需担心",
+"distractor2":"突然变道"
+},
+{
+"id": 600,
+"englishName":"Quiz",
+"category":"紧急车辆和警察路线指引",
+"subcategory":"一般应急意识",
+"question":"处理道路紧急情况的关键原则是什么?",
+"answer":"自身及他人的安全至上",
+"distractor1":"避免延误最为重要",
+"distractor2":"不惜一切代价保持速度"
+},
+{
+"id": 601,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"安全带基础知识",
+"question":"在车内什么情况下必须系安全带?",
+"answer":"车辆行驶时且系好安全带后",
+"distractor1":"仅在高速公路上",
+"distractor2":"仅限前排座位"
+},
+{
+"id": 602,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"安全带基础知识",
+"question":"为什么安全带很重要?",
+"answer":"它们有助于降低车祸中受伤的风险。",
+"distractor1":"它们能提高燃油经济性",
+"distractor2":"他们提高了速度限制"
+},
+{
+"id": 603,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"安全带基础知识",
+"question":"安全带应该如何正确佩戴?",
+"answer":"身体低矮、坚实、平坦",
+"distractor1":"宽松地垂在腋下",
+"distractor2":"背后舒适"
+},
+{
+"id": 604,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"安全带基础知识",
+"question":"短途旅行中,安全带能保护你吗?",
+"answer":"是的,车祸甚至可能发生在家附近。",
+"distractor1":"不,安全带只在长途旅行中有用。",
+"distractor2":"只有在高速公路上以高速行驶时才行"
+},
+{
+"id": 605,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"安全带基础知识",
+"question":"如果安全带损坏了该怎么办?",
+"answer":"在使用那个座位之前,请先将其修理或更换。",
+"distractor1":"把它绑在一起,继续开车",
+"distractor2":"仅在低速下使用。"
+},
+{
+"id": 606,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"驾驶员责任",
+"question":"谁负责确保乘客正确系好安全带?",
+"answer":"司机",
+"distractor1":"只有前排乘客",
+"distractor2":"只有车辆所有人"
+},
+{
+"id": 607,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"驾驶员责任",
+"question":"司机载着乘客出发前应该做什么?",
+"answer":"检查乘客是否正确就座并系好安全带。",
+"distractor1":"只需检查燃油表",
+"distractor2":"旅程开始后询问乘客"
+},
+{
+"id": 608,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"驾驶员责任",
+"question":"如果乘客拒绝系安全带,司机应该怎么办?",
+"answer":"乘客系好安全带或离开车辆前,请勿驾驶。",
+"distractor1":"慢速行驶更安全",
+"distractor2":"让乘客自己决定,因为这是他们的风险。"
+},
+{
+"id": 609,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"驾驶员责任",
+"question":"为什么驾驶员必须认真对待儿童安全座椅?",
+"answer":"儿童需要适合其体型和年龄的安全约束装置",
+"distractor1":"孩子坐在成人腿上更安全。",
+"distractor2":"儿童安全座椅仅适用于长途旅行。"
+},
+{
+"id": 610,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"驾驶员责任",
+"question":"载客驾驶员应养成哪些安全习惯?",
+"answer":"开车前请确认所有乘客都已正确系好安全带。",
+"distractor1":"开始驾驶,乘客系好安全带。",
+"distractor2":"仅检查前排座椅"
+},
+{
+"id": 611,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"儿童安全座椅规则",
+"question":"儿童应该使用哪种类型的约束装置?",
+"answer":"一款经认证的、适合儿童体型和年龄的儿童安全座椅",
+"distractor1":"任何成人安全带,只要是带卡扣的。",
+"distractor2":"短途旅行不受限制"
+},
+{
+"id": 612,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"儿童安全座椅规则",
+"question":"为什么儿童安全座椅必须正确安装?",
+"answer":"不正确的安装会降低碰撞时的保护效果。",
+"distractor1":"安装不当会导致汽车速度变慢。",
+"distractor2":"只有在高速公路上才需要正确安装。"
+},
+{
+"id": 613,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"儿童安全座椅规则",
+"question":"使用儿童安全座椅前应该检查哪些方面?",
+"answer":"它已获批准、适用且安装正确。",
+"distractor1":"只是颜色和车身颜色相配而已。",
+"distractor2":"只是孩子喜欢而已。"
+},
+{
+"id": 614,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"儿童安全座椅规则",
+"question":"为什么旅行时不能让孩子坐在成人腿上?",
+"answer":"在碰撞事故中,他们将无法得到充分保护。",
+"distractor1":"它比儿童安全座椅更安全。",
+"distractor2":"如果行程较短,则允许这样做。"
+},
+{
+"id": 615,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"儿童安全座椅规则",
+"question":"当孩子长大不再适合使用安全带时,应该怎么办?",
+"answer":"将他们移至下一个合适的、经批准的约束装置处。",
+"distractor1":"让他们自由旅行。",
+"distractor2":"放松使用旧的约束"
+},
+{
+"id": 616,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"前排座位规则",
+"question":"为什么后排座椅通常对儿童更安全?",
+"answer":"它们距离前排安全气囊和正面碰撞力更远。",
+"distractor1":"后排座椅不需要安全带。",
+"distractor2":"孩子们在那里可以更轻松地活动。"
+},
+{
+"id": 617,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"前排座位规则",
+"question":"允许孩子坐在前排座位之前,应该检查哪些方面?",
+"answer":"符合儿童年龄和约束需求,且合法安全。",
+"distractor1":"只是孩子想坐在那里。",
+"distractor2":"只是收音机在触手可及的地方。"
+},
+{
+"id": 618,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"前排座位规则",
+"question":"为什么安全气囊会对幼儿造成危险?",
+"answer":"它们展开时威力很大,可能会伤到坐得太近的孩子。",
+"distractor1":"它们使安全带变得不必要。",
+"distractor2":"它们只能在后排座椅上使用。"
+},
+{
+"id": 619,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"前排座位规则",
+"question":"前排乘客应该始终做什么?",
+"answer":"正确佩戴安全带并保持正确的坐姿。",
+"distractor1":"将腰带系在他们的背后",
+"distractor2":"如果侧坐更舒服,可以侧坐。"
+},
+{
+"id": 620,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"前排座位规则",
+"question":"什么是安全的副驾驶驾驶习惯?",
+"answer":"坐直,并正确系好安全带",
+"distractor1":"身体前倾靠近仪表盘。",
+"distractor2":"把脚放在仪表板上"
+},
+{
+"id": 621,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"乘客行为",
+"question":"乘客在行驶的车辆中应该如何表现?",
+"answer":"请保持坐姿,系好安全带,避免分散驾驶员注意力。",
+"distractor1":"自由活动",
+"distractor2":"鼓励司机加速"
+},
+{
+"id": 622,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"乘客行为",
+"question":"为什么乘客应该避免分散驾驶员的注意力?",
+"answer":"分心会降低驾驶员的注意力和反应时间。",
+"distractor1":"分心反而能增强驾驶员的信心",
+"distractor2":"乘客负责操控方向盘。"
+},
+{
+"id": 623,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"乘客行为",
+"question":"乘客在使用安全带时应该避免哪些行为?",
+"answer":"将腰带放在腋下或背后。",
+"distractor1":"将腰带平贴在身上佩戴",
+"distractor2":"保持腰带系紧牢固"
+},
+{
+"id": 624,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"乘客行为",
+"question":"乘客为什么要将身体部位留在车内?",
+"answer":"他们可能会被物体或过往车辆撞伤。",
+"distractor1":"它能提高燃油经济性",
+"distractor2":"它能增强安全气囊的威力"
+},
+{
+"id": 625,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"乘客行为",
+"question":"车辆启动前,乘客应养成哪些安全习惯?",
+"answer":"系好安全带,坐好",
+"distractor1":"站立或跪在座位上",
+"distractor2":"等到车辆达到一定速度后再系好安全带。"
+},
+{
+"id": 626,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"豁免与特殊情况",
+"question":"如果您认为存在安全带豁免情况,应该怎么办?",
+"answer":"确保其合法且有充分依据。",
+"distractor1":"不检查安全带使用规则就无视它",
+"distractor2":"假设任何不适都属于例外情况。"
+},
+{
+"id": 627,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"豁免与特殊情况",
+"question":"免系安全带是否可以成为忽视安全的理由?",
+"answer":"不,安全问题仍然需要认真考虑。",
+"distractor1":"是的,豁免条款消除了所有碰撞风险。",
+"distractor2":"是的,豁免乘客不会受伤。"
+},
+{
+"id": 628,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"豁免与特殊情况",
+"question":"如果乘客表示无法系安全带,司机应该怎么办?",
+"answer":"驾车前请确认是否符合合法豁免条件。",
+"distractor1":"开车时无需询问任何问题",
+"distractor2":"让所有乘客解开安全带。"
+},
+{
+"id": 629,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"豁免与特殊情况",
+"question":"为什么特殊情况需要谨慎处理?",
+"answer":"不正确的约束方式会增加受伤风险。",
+"distractor1":"特殊情况下,无需安全驾驶。",
+"distractor2":"乘客可以决定道路规则"
+},
+{
+"id": 630,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"豁免与特殊情况",
+"question":"如果孩子有特殊的约束需求,应该怎么办?",
+"answer":"寻求适当的建议,并使用安全合法的约束方式",
+"distractor1":"完全不要有任何克制。",
+"distractor2":"成人腰带要系得松一些。"
+},
+{
+"id": 631,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"罚款和处罚",
+"question":"如果乘员没有得到适当的约束,会发生什么情况?",
+"answer":"驾驶员或乘客可能面临处罚。",
+"distractor1":"如果行程短,则无需任何额外费用。",
+"distractor2":"只有车主会受到影响"
+},
+{
+"id": 632,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"罚款和处罚",
+"question":"为什么会有不系安全带的处罚?",
+"answer":"鼓励安全使用约束装置并减少伤害",
+"distractor1":"让乘客感到不舒服",
+"distractor2":"允许在更安全的汽车中超速行驶"
+},
+{
+"id": 633,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"罚款和处罚",
+"question":"如果车内儿童乘客未正确使用安全带,驾驶员是否会受到处罚?",
+"answer":"是的,司机对儿童乘客负有责任。",
+"distractor1":"不,只有孩子要负责。",
+"distractor2":"不,儿童安全座椅并非强制使用。"
+},
+{
+"id": 634,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"罚款和处罚",
+"question":"避免因未系安全带而受到处罚的最佳方法是什么?",
+"answer":"确保车内所有人员都正确系好安全带后再驾车。",
+"distractor1":"只在安静的道路上行驶",
+"distractor2":"载客时请使用危险警示灯"
+},
+{
+"id": 635,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"罚款和处罚",
+"question":"为什么驾驶员不应该仅仅依靠避免罚款?",
+"answer":"正确的约束措施主要是为了防止受伤。",
+"distractor1":"罚款是唯一的安全隐患",
+"distractor2":"安全带只在警察检查时有用。"
+},
+{
+"id": 636,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"安全原则",
+"question":"安全带的主要安全作用是什么?",
+"answer":"为了在碰撞或紧急制动时帮助固定车内人员。",
+"distractor1":"为了使车辆更快",
+"distractor2":"更换安全气囊"
+},
+{
+"id": 637,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"安全原则",
+"question":"为什么安全带和安全气囊要一起使用?",
+"answer":"它们的设计目的是协同工作,以提高防护能力。",
+"distractor1":"安全气囊使安全带变得不再必要。",
+"distractor2":"安全带会阻止安全气囊正常工作。"
+},
+{
+"id": 638,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"安全原则",
+"question":"为什么被束缚时保持正确的坐姿很重要?",
+"answer":"它有助于约束装置正确保护你。",
+"distractor1":"它能提高车辆速度",
+"distractor2":"它允许将安全带系在后背。"
+},
+{
+"id": 639,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"安全原则",
+"question":"如果安全带不合适该怎么办?",
+"answer":"使用合适的、经批准的约束措施或寻求建议",
+"distractor1":"无论如何,都可以随意使用。",
+"distractor2":"不要佩戴任何束缚装置。"
+},
+{
+"id": 640,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"安全原则",
+"question":"每次出行最安全的方式是什么?",
+"answer":"每次都要使用正确的约束方式",
+"distractor1":"仅在长途旅行中使用安全带",
+"distractor2":"仅在警察在场时才使用约束措施。"
+},
+{
+"id": 641,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"车辆类型",
+"question":"安全带规定只适用于汽车吗?",
+"answer":"不,安全带使用规则可能适用于不同类型的车辆(如有配备)。",
+"distractor1":"是的,只有私家车才有安全带规定。",
+"distractor2":"城镇里的车辆不需要安全带。"
+},
+{
+"id": 642,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"车辆类型",
+"question":"在配备安全带的车辆中,乘客应该怎么做?",
+"answer":"正确佩戴安全带",
+"distractor1":"只有在长途旅行时才使用腰带。",
+"distractor2":"与另一位乘客共用一条安全带"
+},
+{
+"id": 643,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"车辆类型",
+"question":"为什么需要了解不同车辆的安全带使用规则?",
+"answer":"不同的座位安排可能有特定的安全要求",
+"distractor1":"规则会根据车辆颜色而有所不同",
+"distractor2":"大型车辆无需安全带。"
+},
+{
+"id": 644,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"车辆类型",
+"question":"乘坐载客车辆时,应该避免哪些行为?",
+"answer":"载客量超过合适的座位和安全带数量",
+"distractor1":"检查乘客是否系好安全带",
+"distractor2":"使用经认可的儿童安全座椅"
+},
+{
+"id": 645,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"车辆类型",
+"question":"在搭载乘客之前,在不熟悉的车辆上应该检查哪些方面?",
+"answer":"座椅和安全带是否合适且运转正常",
+"distractor1":"只有座椅的颜色",
+"distractor2":"只有立体声系统"
+},
+{
+"id": 646,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"常识",
+"question":"为什么驾驶员在开车前应该与乘客讨论安全带的使用?",
+"answer":"确保每个人都明白他们必须被正确约束",
+"distractor1":"为了避免检查约束装置",
+"distractor2":"让乘客选择是否使用它们"
+},
+{
+"id": 647,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"常识",
+"question":"如果您对儿童安全座椅有任何疑问,应该怎么办?",
+"answer":"使用前请寻求可靠的建议",
+"distractor1":"根据孩子的身高猜测",
+"distractor2":"在确定之前不要采取任何限制措施"
+},
+{
+"id": 648,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"常识",
+"question":"驾驶员在乘客安全方面应该注意哪些事项?",
+"answer":"乘客依赖司机做出安全的选择。",
+"distractor1":"乘客不会影响驾驶安全",
+"distractor2":"乘客安全仅在高速公路上才重要"
+},
+{
+"id": 649,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"常识",
+"question":"借用或租用车辆时,哪些习惯是安全的?",
+"answer":"检查所有需要的约束装置是否齐全且可用。",
+"distractor1":"假设所有约束条件都适用于所有人",
+"distractor2":"无需检查座位即可搭载额外乘客"
+},
+{
+"id": 650,
+"englishName":"Quiz",
+"category":"安全带、儿童安全座椅和乘客",
+"subcategory":"常识",
+"question":"关于约束措施,关键信息是什么?",
+"answer":"正确使用安全带可以保障每次出行中的生命安全",
+"distractor1":"对于谨慎的驾驶员来说,安全带并非必需品。",
+"distractor2":"只有在恶劣天气下才需要使用约束装置。"
+},
+{
+"id": 651,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"车辆道路适行性",
+"question":"车辆符合上路标准意味着什么?",
+"answer":"驾驶安全,符合法律安全标准。",
+"distractor1":"它可以高速行驶",
+"distractor2":"它的油箱是满的。"
+},
+{
+"id": 652,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"车辆道路适行性",
+"question":"为什么车辆适路性很重要?",
+"answer":"不安全的车辆会增加事故风险。",
+"distractor1":"符合道路行驶标准的车辆仅消耗较少的燃料",
+"distractor2":"车辆适航性仅影响外观。"
+},
+{
+"id": 653,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"车辆道路适行性",
+"question":"如果您的车辆存在严重的安全缺陷,您应该怎么办?",
+"answer":"如有必要,请在驾驶前修复缺陷。",
+"distractor1":"如果行程很短,可以忽略它。",
+"distractor2":"加快车速以减少问题"
+},
+{
+"id": 654,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"车辆道路适行性",
+"question":"为了确保车辆适于上路行驶,驾驶员应该定期检查哪些项目?",
+"answer":"轮胎、刹车、车灯和其他安全部件",
+"distractor1":"仅油漆状况",
+"distractor2":"只有娱乐系统"
+},
+{
+"id": 655,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"车辆道路适行性",
+"question":"谁负责确保车辆行驶安全?",
+"answer":"驾驶员和车主",
+"distractor1":"只有机械师",
+"distractor2":"仅限乘客"
+},
+{
+"id": 656,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"轮胎",
+"question":"为什么轮胎对车辆安全很重要?",
+"answer":"它们提供抓地力、转向和制动控制。",
+"distractor1":"它们只会影响舒适度。",
+"distractor2":"它们减少了对刹车的需求。"
+},
+{
+"id": 657,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"轮胎",
+"question":"轮胎磨损或损坏会发生什么情况?",
+"answer":"车辆控制和制动能力可能会降低",
+"distractor1":"限速提高",
+"distractor2":"燃料使用变得不可能"
+},
+{
+"id": 658,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"轮胎",
+"question":"为什么需要定期检查轮胎气压?",
+"answer":"压力不当会影响操作和安全。",
+"distractor1":"轮胎气压只会影响收音机",
+"distractor2":"压力始终不变"
+},
+{
+"id": 659,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"轮胎",
+"question":"如果轮胎看起来不安全,应该怎么办?",
+"answer":"长途驾驶前请进行检查或更换。",
+"distractor1":"开快点测试一下",
+"distractor2":"暂时忽略,等到下次服务时再处理。"
+},
+{
+"id": 660,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"轮胎",
+"question":"为什么劣质轮胎在雨天尤其危险?",
+"answer":"抓地力降低,打滑风险增加",
+"distractor1":"湿滑路面能提高轮胎抓地力。",
+"distractor2":"轮胎不会影响雨天刹车性能"
+},
+{
+"id": 661,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"刹车",
+"question":"为什么刹车对于安全驾驶至关重要?",
+"answer":"它们能帮助你减速并安全停车。",
+"distractor1":"它们只会提高燃油经济性。",
+"distractor2":"它们取代了转向控制"
+},
+{
+"id": 662,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"刹车",
+"question":"如果刹车感觉无力或异常,应该怎么办?",
+"answer":"尽快安排检查",
+"distractor1":"开快点去测试它们",
+"distractor2":"干燥天气下忽略这个问题"
+},
+{
+"id": 663,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"刹车",
+"question":"为什么应该避免驾驶刹车失灵的车辆?",
+"answer":"安全停车可能无法实现",
+"distractor1":"刹车失灵反而提升了转弯性能",
+"distractor2":"刹车问题仅影响停车。"
+},
+{
+"id": 664,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"刹车",
+"question":"刹车系统出现哪些迹象表明可能需要检修?",
+"answer":"异常噪音、振动或制动反应减弱",
+"distractor1":"透过挡风玻璃可以清晰地看到路况",
+"distractor2":"正常的转向感觉"
+},
+{
+"id": 665,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"刹车",
+"question":"为什么制动系统需要定期维护?",
+"answer":"可靠的刹车系统对道路安全至关重要。",
+"distractor1":"维护保养使安全带不再必要。",
+"distractor2":"刹车会随着时间推移而自我修复。"
+},
+{
+"id": 666,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"指示灯和指示灯",
+"question":"为什么指示灯和指示器很重要?",
+"answer":"它们能帮助你看到其他道路使用者并与他们沟通。",
+"distractor1":"它们能提高轮胎抓地力",
+"distractor2":"它们能提高发动机功率"
+},
+{
+"id": 667,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"指示灯和指示灯",
+"question":"如果前大灯或刹车灯不亮了该怎么办?",
+"answer":"及时修理或更换。",
+"distractor1":"永远只在白天开车",
+"distractor2":"改用危险警示灯"
+},
+{
+"id": 668,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"指示灯和指示灯",
+"question":"为什么需要正确使用指标?",
+"answer":"他们会提醒其他人你的行动计划。",
+"distractor1":"他们允许合法超速",
+"distractor2":"它们取代了镜检"
+},
+{
+"id": 669,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"指示灯和指示灯",
+"question":"什么时候车头灯特别重要?",
+"answer":"夜间或能见度低的情况下",
+"distractor1":"仅在停车时",
+"distractor2":"仅在高速公路上"
+},
+{
+"id": 670,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"指示灯和指示灯",
+"question":"为什么要定期检查车辆灯光?",
+"answer":"故障的车灯会降低安全性和能见度。",
+"distractor1":"车灯只会影响燃油消耗。",
+"distractor2":"恶劣天气下不需要开灯"
+},
+{
+"id": 671,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"挡风玻璃和后视镜",
+"question":"为什么挡风玻璃必须保持清洁透明?",
+"answer":"为了保持良好的道路能见度",
+"distractor1":"为了减少轮胎磨损",
+"distractor2":"为了提高速度"
+},
+{
+"id": 672,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"挡风玻璃和后视镜",
+"question":"如果你的挡风玻璃严重破裂,你应该怎么办?",
+"answer":"修理或更换",
+"distractor1":"如果能见度尚可接受,则忽略它。",
+"distractor2":"用贴纸盖住它"
+},
+{
+"id": 673,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"挡风玻璃和后视镜",
+"question":"为什么镜子很重要?",
+"answer":"它们可以帮助您监控车辆周围的交通状况。",
+"distractor1":"它们能提升发动机性能",
+"distractor2":"它们完全消除了盲点。"
+},
+{
+"id": 674,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"挡风玻璃和后视镜",
+"question":"开车前应该检查哪些东西?",
+"answer":"后视镜已正确调整",
+"distractor1":"只有收音机音量",
+"distractor2":"只有座椅颜色"
+},
+{
+"id": 675,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"挡风玻璃和后视镜",
+"question":"为什么雨刮器应该保持良好状态?",
+"answer":"它们有助于在雨中保持能见度",
+"distractor1":"它们能提高轮胎抓地力",
+"distractor2":"它们能缩短刹车距离"
+},
+{
+"id": 676,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"警告指示器",
+"question":"仪表盘上出现警告灯时应该怎么办?",
+"answer":"检查问题并根据需要寻求建议",
+"distractor1":"永久忽略它",
+"distractor2":"开快点把它冲过去"
+},
+{
+"id": 677,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"警告指示器",
+"question":"为什么仪表盘上的警告指示器很重要?",
+"answer":"他们可以提醒您车辆存在的问题。",
+"distractor1":"它们只会提升舒适度",
+"distractor2":"它们是装饰灯"
+},
+{
+"id": 678,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"警告指示器",
+"question":"如果忽视警告灯会发生什么?",
+"answer":"小问题可能会演变成大问题。",
+"distractor1":"车辆的燃油效率更高",
+"distractor2":"道路规则不再适用"
+},
+{
+"id": 679,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"警告指示器",
+"question":"驾驶员应该了解哪些关于车辆的知识?",
+"answer":"重要预警指标的含义",
+"distractor1":"如何调节收音机",
+"distractor2":"只有仪表盘指示灯的颜色"
+},
+{
+"id": 680,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"警告指示器",
+"question":"为什么应该认真对待预警信号?",
+"answer":"它们可能与安全关键系统有关。",
+"distractor1":"它们只是清洁提醒。",
+"distractor2":"它们从不影响驾驶安全"
+},
+{
+"id": 681,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"液位",
+"question":"为什么需要定期检查车辆液位?",
+"answer":"液位过低会影响车辆的安全性和性能。",
+"distractor1":"体液水平始终不变",
+"distractor2":"液体只会影响车辆外观。"
+},
+{
+"id": 682,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"液位",
+"question":"发动机机油过少会发生什么情况?",
+"answer":"发动机可能已损坏",
+"distractor1":"轮胎充气过量",
+"distractor2":"前大灯立即停止工作"
+},
+{
+"id": 683,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"液位",
+"question":"为什么玻璃水很重要?",
+"answer":"它有助于保持挡风玻璃清晰",
+"distractor1":"它能给轮胎降温。",
+"distractor2":"它能提高燃油效率"
+},
+{
+"id": 684,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"液位",
+"question":"如果发现液体泄漏,应该怎么办?",
+"answer":"尽快对车辆进行检查。",
+"distractor1":"如果车辆仍然移动,则忽略它。",
+"distractor2":"用水冲洗道路"
+},
+{
+"id": 685,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"液位",
+"question":"为什么要保持刹车油液位?",
+"answer":"刹车油液位过低会影响制动性能",
+"distractor1":"刹车油只会影响喇叭。",
+"distractor2":"刹车油会增加轮胎气压"
+},
+{
+"id": 686,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"负载与可见性",
+"question":"为什么货物必须妥善固定?",
+"answer":"松散的货物会造成危险并影响控制。",
+"distractor1":"松散的货物能提高燃油经济性",
+"distractor2":"只有在高速公路上,载重才重要。"
+},
+{
+"id": 687,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"负载与可见性",
+"question":"装载车辆时应避免哪些情况?",
+"answer":"阻挡驾驶员视线",
+"distractor1":"使用经批准的约束措施",
+"distractor2":"定期检查后视镜"
+},
+{
+"id": 688,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"负载与可见性",
+"question":"为什么超载车辆会很危险?",
+"answer":"它们会影响制动、转向和稳定性。",
+"distractor1":"它们能提高轮胎抓地力",
+"distractor2":"它们缩短了刹车距离"
+},
+{
+"id": 689,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"负载与可见性",
+"question":"司机在搬运大件物品前应该检查哪些内容?",
+"answer":"货物固定牢固,视野清晰",
+"distractor1":"仅看物品颜色是否与汽车颜色匹配。",
+"distractor2":"只有乘客能不能承受得住"
+},
+{
+"id": 690,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"负载与可见性",
+"question":"为什么要保持后方视野?",
+"answer":"驾驶员需要看到车辆后方和周围的交通情况。",
+"distractor1":"后方视野仅影响停车舒适度",
+"distractor2":"后窗是装饰性的"
+},
+{
+"id": 691,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"维护习惯",
+"question":"定期车辆保养为何如此重要?",
+"answer":"它有助于确保车辆的安全性和可靠性。",
+"distractor1":"它无需使用安全带。",
+"distractor2":"它提高了速度限制"
+},
+{
+"id": 692,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"维护习惯",
+"question":"良好的保养习惯是什么?",
+"answer":"定期检查安全设备",
+"distractor1":"忽略异常噪音",
+"distractor2":"等待重大故障发生"
+},
+{
+"id": 693,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"维护习惯",
+"question":"为什么要检查车辆的异常行为?",
+"answer":"这可能预示着安全问题正在发展。",
+"distractor1":"车辆总能自我修复。",
+"distractor2":"它只会影响舒适度。"
+},
+{
+"id": 694,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"维护习惯",
+"question":"如果您不确定车辆是否存在问题,应该怎么办?",
+"answer":"寻求专业建议或检查",
+"distractor1":"完全忽略这个问题。",
+"distractor2":"开快点测试一下"
+},
+{
+"id": 695,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"维护习惯",
+"question":"为什么要遵守维护计划?",
+"answer":"它们有助于识别和预防安全问题。",
+"distractor1":"日程安排仅供出场之用。",
+"distractor2":"对于安全车辆而言,维护保养并非必要。"
+},
+{
+"id": 696,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"一般安全原则",
+"question":"对待车辆安全最安全的态度是什么?",
+"answer":"及早解决问题,安全驾驶。",
+"distractor1":"忽视缺陷,直到它们变得严重。",
+"distractor2":"假设警告信号无关紧要"
+},
+{
+"id": 697,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"一般安全原则",
+"question":"为什么驾驶员应该定期检查车辆?",
+"answer":"小问题也可能演变成重大安全隐患",
+"distractor1":"检查只会提高转售价值",
+"distractor2":"适于上路的车辆状态始终不变"
+},
+{
+"id": 698,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"一般安全原则",
+"question":"长途旅行前应该做些什么?",
+"answer":"检查车辆状况和安全部件",
+"distractor1":"开车时无需检查任何信息",
+"distractor2":"只依赖仪表盘指示灯"
+},
+{
+"id": 699,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"一般安全原则",
+"question":"为什么车辆安全是安全驾驶的一部分?",
+"answer":"不安全的车辆会危及道路上所有人的安全。",
+"distractor1":"车辆安全仅影响车主",
+"distractor2":"路况比车辆状况更重要"
+},
+{
+"id": 700,
+"englishName":"Quiz",
+"category":"车辆安全、缺陷与维护",
+"subcategory":"一般安全原则",
+"question":"车辆保养和安全检查的主要目标是什么?",
+"answer":"为了降低风险并提高安全驾驶水平",
+"distractor1":"让车辆声音更大",
+"distractor2":"为了避免清洗车辆"
+},
+{
+"id": 701,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"负载安全",
+"question":"为什么货物必须妥善固定?",
+"answer":"防止物品在运输过程中掉落或移位",
+"distractor1":"为了增加燃料使用",
+"distractor2":"仅为了加快卸载速度"
+},
+{
+"id": 702,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"负载安全",
+"question":"行驶过程中货物发生移位会发生什么情况?",
+"answer":"车辆控制和稳定性可能受到影响",
+"distractor1":"轮胎气压自动升高",
+"distractor2":"限速变化"
+},
+{
+"id": 703,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"负载安全",
+"question":"载货驾驶前应该检查哪些内容?",
+"answer":"负载安全稳定",
+"distractor1":"只是收音机还能用。",
+"distractor2":"只希望乘客感到舒适。"
+},
+{
+"id": 704,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"负载安全",
+"question":"为什么要管控车内散落物品?",
+"answer":"它们在急刹车或碰撞时可能会变得危险。",
+"distractor1":"它们能改善车辆平衡性",
+"distractor2":"它们能缩短刹车距离"
+},
+{
+"id": 705,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"负载安全",
+"question":"搬运重物时有哪些安全习惯?",
+"answer":"长途旅行期间请重新检查载重。",
+"distractor1":"假设负载自动保持安全。",
+"distractor2":"加快车速以减少移动"
+},
+{
+"id": 706,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"负载限制",
+"question":"为什么要遵守车辆载重限制?",
+"answer":"超载会影响制动、转向和稳定性。",
+"distractor1":"载重限制只会影响舒适度",
+"distractor2":"超载可以提高轮胎抓地力。"
+},
+{
+"id": 707,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"负载限制",
+"question":"车辆超载会发生什么?",
+"answer":"车辆可能变得难以控制,存在安全隐患。",
+"distractor1":"车辆会自动减速",
+"distractor2":"道路规则不再适用"
+},
+{
+"id": 708,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"负载限制",
+"question":"为什么重物在车内放置时要格外小心?",
+"answer":"重量分布不均会影响操控性能。",
+"distractor1":"重物可提高加速性能",
+"distractor2":"体重分布无关紧要"
+},
+{
+"id": 709,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"负载限制",
+"question":"司机在装载车辆前应该了解哪些内容?",
+"answer":"车辆的安全载重能力",
+"distractor1":"仅车辆颜色",
+"distractor2":"只有引擎声"
+},
+{
+"id": 710,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"负载限制",
+"question":"为什么超载车辆会增加刹车距离?",
+"answer":"额外的重量会降低制动效率",
+"distractor1":"额外的重量可以改善制动性能",
+"distractor2":"制动距离不随负载变化。"
+},
+{
+"id": 711,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"拖车基础知识",
+"question":"为什么驾驶员在拖车时要格外小心?",
+"answer":"拖车会改变车辆操控性和制动距离",
+"distractor1":"拖车可提高加速性能",
+"distractor2":"拖车比轿车刹车更快。"
+},
+{
+"id": 712,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"拖车基础知识",
+"question":"拖车前应该做什么?",
+"answer":"检查拖车是否已连接并牢固。",
+"distractor1":"假设它已正确安装。",
+"distractor2":"先开车,后再检查"
+},
+{
+"id": 713,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"拖车基础知识",
+"question":"为什么拖车应该占用更多空间?",
+"answer":"制动距离可能会增加",
+"distractor1":"拖车比轿车刹车更快。",
+"distractor2":"只有在晚上才需要额外的空间"
+},
+{
+"id": 714,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"拖车基础知识",
+"question":"拖车时,驾驶员应该避免哪些问题?",
+"answer":"突然转向、刹车或加速",
+"distractor1":"检查后视镜",
+"distractor2":"使用指标"
+},
+{
+"id": 715,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"拖车基础知识",
+"question":"为什么拖挂车倒车更困难?",
+"answer":"拖车的运动方式与牵引车辆不同。",
+"distractor1":"拖车无法转弯",
+"distractor2":"拖车会改变倒车规则"
+},
+{
+"id": 716,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"拖车设备",
+"question":"拖车出行前应该检查哪些方面?",
+"answer":"车灯、轮胎和连接件",
+"distractor1":"只有拖车颜色",
+"distractor2":"只有拖车的货物价值"
+},
+{
+"id": 717,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"拖车设备",
+"question":"为什么拖车灯很重要?",
+"answer":"它们能帮助其他道路使用者了解你的意图。",
+"distractor1":"它们能提高牵引速度",
+"distractor2":"它们能减轻拖车重量"
+},
+{
+"id": 718,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"拖车设备",
+"question":"如果拖车轮胎损坏了,应该怎么办?",
+"answer":"旅行前请修理或更换它们",
+"distractor1":"仅在干燥天气下行驶",
+"distractor2":"短途旅行可以忽略它们。"
+},
+{
+"id": 719,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"拖车设备",
+"question":"为什么拖车连接器必须牢固?",
+"answer":"脱离拖车连接可能会造成严重危险。",
+"distractor1":"松散联轴器可改善转弯性能",
+"distractor2":"耦合器仅影响停车"
+},
+{
+"id": 720,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"拖车设备",
+"question":"安全的拖车习惯是什么?",
+"answer":"定期检查拖车设备",
+"distractor1":"假设拖车自动保持安全。",
+"distractor2":"加快车速以稳定拖车"
+},
+{
+"id": 721,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"重型车辆安全意识",
+"question":"为什么驾驶员应该给重型车辆留出更多空间?",
+"answer":"重型车辆需要更大的停车和转弯空间。",
+"distractor1":"重型车辆可以瞬间停止。",
+"distractor2":"重型车辆始终享有优先权。"
+},
+{
+"id": 722,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"重型车辆安全意识",
+"question":"为什么重型车辆会有较大的盲区?",
+"answer":"它们的尺寸限制了驾驶员在车辆周围的视野。",
+"distractor1":"重型车辆后视镜是不必要的",
+"distractor2":"盲区仅影响小型汽车"
+},
+{
+"id": 723,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"重型车辆安全意识",
+"question":"在重型车辆附近应该避免做什么?",
+"answer":"长时间在盲区行驶",
+"distractor1":"安全通过,路况良好",
+"distractor2":"保持安全距离"
+},
+{
+"id": 724,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"重型车辆安全意识",
+"question":"为什么重型车辆转弯时可能会摆动幅度过大?",
+"answer":"它们的长度需要额外的转弯空间",
+"distractor1":"重型车辆无法正常转向。",
+"distractor2":"道路标线不适用于卡车。"
+},
+{
+"id": 725,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"重型车辆安全意识",
+"question":"驾驶员在超车重型车辆时应该注意什么?",
+"answer":"返回车道前,请留出足够的空隙。",
+"distractor1":"传球后迅速切入",
+"distractor2":"尽可能长时间地跟在卡车旁边行驶。"
+},
+{
+"id": 726,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"驾驶行为",
+"question":"载货或拖车时应该如何驾驶?",
+"answer":"平稳且格外小心",
+"distractor1":"积极地保持速度",
+"distractor2":"快速转向"
+},
+{
+"id": 727,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"驾驶行为",
+"question":"为什么拖车时应增加跟车距离?",
+"answer":"额外的重量会增加刹车距离",
+"distractor1":"拖车可提高制动性能",
+"distractor2":"跟车距离只有在雨天才重要"
+},
+{
+"id": 728,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"驾驶行为",
+"question":"驾驶员在运输不稳定货物时应避免哪些问题?",
+"answer":"急转弯和突然刹车",
+"distractor1":"谨慎驾驶",
+"distractor2":"检查后视镜"
+},
+{
+"id": 729,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"驾驶行为",
+"question":"为什么在拖车或重载时需要调整车速?",
+"answer":"车辆操控性能可能会发生变化",
+"distractor1":"负载总是能提高稳定性。",
+"distractor2":"速度限制不再适用"
+},
+{
+"id": 730,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"驾驶行为",
+"question":"驾驶拖车或装载货物时,有哪些重要的习惯?",
+"answer":"提前做好计划并预留额外的安全余量。",
+"distractor1":"靠近其他车辆行驶",
+"distractor2":"并线时突然加速"
+},
+{
+"id": 731,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"法律责任",
+"question":"谁负责确保货物安全?",
+"answer":"司机和责任方",
+"distractor1":"只有制造商",
+"distractor2":"只有其他道路使用者"
+},
+{
+"id": 732,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"法律责任",
+"question":"为什么必须严格遵守拖车和装载规则?",
+"answer":"不安全的装载或拖曳操作会危及道路使用者。",
+"distractor1":"规则仅适用于商用车辆",
+"distractor2":"在农村地区,负荷规则是可选的。"
+},
+{
+"id": 733,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"法律责任",
+"question":"拖车前,驾驶员应该了解哪些信息?",
+"answer":"他们的车辆牵引限制和安全要求",
+"distractor1":"只有拖车颜色",
+"distractor2":"仅路线长度"
+},
+{
+"id": 734,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"法律责任",
+"question":"为什么货物未固定会导致处罚?",
+"answer":"它们会造成严重的安全风险",
+"distractor1":"未固定的货物提高了可见性",
+"distractor2":"处罚仅适用于卡车"
+},
+{
+"id": 735,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"法律责任",
+"question":"如何以最安全的方式实现合法载重合规?",
+"answer":"驾驶前请检查限位、设备和安全措施。",
+"distractor1":"假设负载在可接受范围内。",
+"distractor2":"先开车,后再检查"
+},
+{
+"id": 736,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"一般安全原则",
+"question":"搬运重物时最重要的安全原则是什么?",
+"answer":"保持货物安全、平衡且在限度内。",
+"distractor1":"尽可能多地携带物品",
+"distractor2":"忽略体重分布"
+},
+{
+"id": 737,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"一般安全原则",
+"question":"为什么司机在长途运输过程中应该检查货物?",
+"answer":"货物可能会发生位移,或者约束装置可能会松动。",
+"distractor1":"旅行途中,行李会变轻。",
+"distractor2":"检查货物仅适用于卡车"
+},
+{
+"id": 738,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"一般安全原则",
+"question":"驾驶员在拖车和停车方面应该记住什么?",
+"answer":"可能需要保持更远的距离并做好更周密的计划。",
+"distractor1":"拖车缩短了停车距离",
+"distractor2":"拖车不会影响制动性能。"
+},
+{
+"id": 739,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"一般安全原则",
+"question":"为什么在重型车辆周围要格外小心?",
+"answer":"它们需要更多的空间和时间才能安全运行。",
+"distractor1":"重型车辆可以瞬间停止。",
+"distractor2":"重型车辆没有盲区。"
+},
+{
+"id": 740,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"一般安全原则",
+"question":"拖车或载货时最安全的心态是什么?",
+"answer":"耐心驾驶,并尽早预判危险。",
+"distractor1":"加快速度以减少旅行时间",
+"distractor2":"只依赖其他司机"
+},
+{
+"id": 741,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"道路互动",
+"question":"为什么驾驶员应该避免在重型车辆前方切入?",
+"answer":"重型车辆可能需要更长的刹车距离",
+"distractor1":"重型车辆必须立即让行。",
+"distractor2":"重型车辆比轿车刹车距离更短。"
+},
+{
+"id": 742,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"道路互动",
+"question":"超车重型车辆前应该做什么?",
+"answer":"确保前方道路足够畅通。",
+"distractor1":"开车到旁边查看载重情况。",
+"distractor2":"用肩膀传球"
+},
+{
+"id": 743,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"道路互动",
+"question":"为什么在转弯的卡车附近要格外小心?",
+"answer":"他们可能需要额外的道路空间",
+"distractor1":"它们只能在一条狭窄的车道内转弯。",
+"distractor2":"他们无视车道标线。"
+},
+{
+"id": 744,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"道路互动",
+"question":"驾驶员在与拖车共用道路时应该怎么做?",
+"answer":"留出额外空间,避免突然移动",
+"distractor1":"紧跟在他们后面行驶",
+"distractor2":"弯道超车"
+},
+{
+"id": 745,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"道路互动",
+"question":"为什么在大型车辆和拖车周围保持耐心很重要?",
+"answer":"它们可能会加速、停止和减速转弯。",
+"distractor1":"大型车辆的行驶方式与小型汽车完全相同。",
+"distractor2":"在高速公路上,耐心是不必要的。"
+},
+{
+"id": 746,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"执法与处罚",
+"question":"如果货物没有正确固定会发生什么情况?",
+"answer":"可能导致处罚和安全风险",
+"distractor1":"该货物自动合法化。",
+"distractor2":"仅燃料使用受到影响"
+},
+{
+"id": 747,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"执法与处罚",
+"question":"为什么要执行拖车和装载规则?",
+"answer":"为了提高所有人的道路安全。",
+"distractor1":"减少车辆销售",
+"distractor2":"增加交通延误"
+},
+{
+"id": 748,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"执法与处罚",
+"question":"避免因拖车而受到处罚的最安全方法是什么?",
+"answer":"仔细遵守装载、牵引和设备要求。",
+"distractor1":"仅在夜间行驶",
+"distractor2":"忽略拖车维护"
+},
+{
+"id": 749,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"执法与处罚",
+"question":"为什么不安全的拖车行为会造成严重后果?",
+"answer":"它可能导致交通事故和人员伤亡。",
+"distractor1":"它只会影响燃油经济性。",
+"distractor2":"不安全的拖曳提高了机动性"
+},
+{
+"id": 750,
+"englishName":"Quiz",
+"category":"载重、牵引和重型车辆安全意识",
+"subcategory":"执法与处罚",
+"question":"驾驶员应该记住哪些关于货物装载和拖车的法律规定?",
+"answer":"它们的存在是为了保护所有道路使用者。",
+"distractor1":"这些规定仅适用于商业运营商。",
+"distractor2":"在安静的道路上,它们是可选的。"
+},
+{
+"id": 751,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"驾照类别",
+"question":"为什么必须持有正确的驾照等级?",
+"answer":"这表明您有权驾驶该类型的车辆。",
+"distractor1":"它能让你驾驶任何车辆",
+"distractor2":"它取消了所有许可条件"
+},
+{
+"id": 752,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"驾照类别",
+"question":"驾驶不同类型的车辆之前应该检查哪些方面?",
+"answer":"你的驾照允许你驾驶它",
+"distractor1":"只是车辆有燃料而已。",
+"distractor2":"只是这辆车是自动挡的。"
+},
+{
+"id": 753,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"驾照类别",
+"question":"驾驶超出驾照级别的车辆会发生什么?",
+"answer":"你可能会面临处罚,并且属于非法驾驶。",
+"distractor1":"您的驾照类别将自动变更",
+"distractor2":"如果行程较短,则允许这样做。"
+},
+{
+"id": 754,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"驾照类别",
+"question":"为什么会使用不同的驾照等级?",
+"answer":"不同的车辆需要不同的技能和职责。",
+"distractor1":"它们仅基于车辆颜色",
+"distractor2":"这些规定仅适用于职业司机。"
+},
+{
+"id": 755,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"驾照类别",
+"question":"如果驾驶员对驾照条件有任何疑问,应该怎么办?",
+"answer":"驾车前请核对官方驾照信息",
+"distractor1":"根据其他司机的情况猜测",
+"distractor2":"续约前请忽略这些条件。"
+},
+{
+"id": 756,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"L牌",
+"question":"为什么新手司机在需要时必须悬挂“L”牌?",
+"answer":"向其他道路使用者表明他们正在学习",
+"distractor1":"给予它们在十字路口的优先通行权",
+"distractor2":"允许他们超过速度限制"
+},
+{
+"id": 757,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"L牌",
+"question":"新手司机在开车前应该做什么?",
+"answer":"确保他们符合所有学习驾照条件。",
+"distractor1":"如果信心十足,可以独自驾车。",
+"distractor2":"只遵循他们记住的条件。"
+},
+{
+"id": 758,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"L牌",
+"question":"谁必须监督新手驾驶员?",
+"answer":"符合监管驾驶员要求的人员",
+"distractor1":"任何乘客",
+"distractor2":"任何有道路经验的朋友"
+},
+{
+"id": 759,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"L牌",
+"question":"L牌应该是什么样子的?",
+"answer":"按照许可证规则的要求清晰展示",
+"distractor1":"隐藏在手套箱里",
+"distractor2":"仅在夜间展出"
+},
+{
+"id": 760,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"L牌",
+"question":"为什么新手司机应该在各种不同的路况下练习驾驶?",
+"answer":"培养安全驾驶技能和经验",
+"distractor1":"为了避免学习交通规则",
+"distractor2":"为了更快地驾驶"
+},
+{
+"id": 761,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"P1 限制",
+"question":"为什么P1驾照持有者会受到驾照限制?",
+"answer":"为了在积累经验的同时降低风险",
+"distractor1":"给予他们优先权,高于持有正式驾照的司机。",
+"distractor2":"允许他们无视某些交通规则"
+},
+{
+"id": 762,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"P1 限制",
+"question":"P1级驾驶员在驾驶前应该做什么?",
+"answer":"请检查并遵守所有P1驾照条款。",
+"distractor1":"假设他们拥有完整的许可权限",
+"distractor2":"测试期间仅需遵守相关规定"
+},
+{
+"id": 763,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"P1 限制",
+"question":"为什么必须按要求展示实习驾照(P牌)?",
+"answer":"确定驾驶员的临时驾照状态",
+"distractor1":"预订停车位",
+"distractor2":"允许不安全驾驶"
+},
+{
+"id": 764,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"P1 限制",
+"question":"P1驾照持有者违反驾照规定会发生什么?",
+"answer":"他们可能面临处罚或吊销执照的处分。",
+"distractor1":"他们的限制消失了",
+"distractor2":"如果他们小心谨慎,就不会有事。"
+},
+{
+"id": 765,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"P1 限制",
+"question":"对于刚拿到临时驾照的新手来说,安全的做法是什么?",
+"answer":"谨慎驾驶,并遵守所有驾照规定。",
+"distractor1":"承担风险以快速建立自信",
+"distractor2":"即使不安全,也要模仿经验丰富的司机。"
+},
+{
+"id": 766,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"手机",
+"question":"实习驾驶员和临时驾驶员在驾驶时应该如何使用手机?",
+"answer":"遵守许可证条款,避免使用手机。",
+"distractor1":"仅在红灯时使用手机",
+"distractor2":"慢速驾驶时使用手机"
+},
+{
+"id": 767,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"手机",
+"question":"为什么新手司机开车时使用手机会有风险?",
+"answer":"它会分散驾驶员的注意力",
+"distractor1":"它能提高反应时间",
+"distractor2":"它使车辆更容易控制。"
+},
+{
+"id": 768,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"手机",
+"question":"出行前何时应该设置导航?",
+"answer":"驾驶开始前",
+"distractor1":"并入车流时",
+"distractor2":"停在车道上"
+},
+{
+"id": 769,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"手机",
+"question":"开车时接到紧急电话留言,最安全的应对方式是什么?",
+"answer":"检查前请先安全靠边停车。",
+"distractor1":"边走边快速阅读",
+"distractor2":"请另一位司机检查一下。"
+},
+{
+"id": 770,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"手机",
+"question":"驾驶员如何减少使用手机时的分心?",
+"answer":"请将手机放在够不着的地方或调至静音模式。",
+"distractor1":"将手机放低,靠近座椅。",
+"distractor2":"仅在笔直的道路上检查。"
+},
+{
+"id": 771,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"乘客",
+"question":"为什么乘客会增加新手司机的风险?",
+"answer":"它们会分散驾驶员的注意力或助长危险行为。",
+"distractor1":"乘客总是能提高注意力。",
+"distractor2":"乘客控制车辆"
+},
+{
+"id": 772,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"乘客",
+"question":"新司机在载客时应该注意什么?",
+"answer":"保持专注,确保乘客安全系好安全带。",
+"distractor1":"让乘客决定速度",
+"distractor2":"忽视乘客行为"
+},
+{
+"id": 773,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"乘客",
+"question":"如果乘客分散了驾驶员的注意力,驾驶员应该怎么办?",
+"answer":"必要时,请他们停车或安全靠边停车。",
+"distractor1":"继续开车,忽略路况",
+"distractor2":"加快速度完成旅程"
+},
+{
+"id": 774,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"乘客",
+"question":"为什么驾驶员需要了解驾照上的乘客限制?",
+"answer":"某些许可证可能会限制可搭载的乘客种类或乘客人数。",
+"distractor1":"乘客规则始终是可选的。",
+"distractor2":"乘客人数限制仅适用于公交车。"
+},
+{
+"id": 775,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"乘客",
+"question":"对于任何驾驶员来说,安全乘客应遵循的规则是什么?",
+"answer":"不要允许乘客做出分散你注意力或给你施加压力的行为。",
+"distractor1":"允许乘客选择不安全的捷径",
+"distractor2":"乘客要求时,请开快点"
+},
+{
+"id": 776,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"驾驶时间",
+"question":"为什么驾驶时长对新手司机或临时司机很重要?",
+"answer":"某些驾照条件可能会限制驾驶时间。",
+"distractor1":"道路规则仅在白天适用",
+"distractor2":"夜间驾驶始终不受限制。"
+},
+{
+"id": 777,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"驾驶时间",
+"question":"为什么深夜驾驶对新手司机来说风险更高?",
+"answer":"疲劳和能见度降低会增加危险性。",
+"distractor1":"夜间道路总是更安全。",
+"distractor2":"夜间不适用限速规定"
+},
+{
+"id": 778,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"驾驶时间",
+"question":"新手司机夜间开车前应该做什么?",
+"answer":"检查您的驾照条款并保持警惕",
+"distractor1":"因为道路比较安静,所以要开快点。",
+"distractor2":"仅使用停车灯"
+},
+{
+"id": 779,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"驾驶时间",
+"question":"开车时如果感到疲倦该怎么办?",
+"answer":"安全停车休息",
+"distractor1":"打开窗户,然后一直开下去。",
+"distractor2":"开快点,早点到达。"
+},
+{
+"id": 780,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"驾驶时间",
+"question":"为什么新手司机应该避免不必要的高风险驾驶时间?",
+"answer":"经验不足会使危险更难应对。",
+"distractor1":"他们当时不受道路规则约束。",
+"distractor2":"高风险时期自动提升驾驶技能"
+},
+{
+"id": 781,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"扣分和处罚",
+"question":"扣分有什么用?",
+"answer":"将某些交通违章行为记录在驾照上。",
+"distractor1":"奖励安全驾驶",
+"distractor2":"提高限速"
+},
+{
+"id": 782,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"扣分和处罚",
+"question":"如果驾驶员达到扣分上限会发生什么?",
+"answer":"他们的执照可能会被暂停或受到影响。",
+"distractor1":"他们的驾照将不再受限制。",
+"distractor2":"他们会获得更高等级的驾照。"
+},
+{
+"id": 783,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"扣分和处罚",
+"question":"为什么实习驾驶员和临时驾驶员应该格外注意违章行为?",
+"answer":"它们可能有更严格的限制和后果。",
+"distractor1":"他们不能受到处罚。",
+"distractor2":"只有持有正式驾照的人才会被扣分。"
+},
+{
+"id": 784,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"扣分和处罚",
+"question":"避免驾照处罚的最佳方法是什么?",
+"answer":"安全驾驶,遵守交通规则和驾照规定。",
+"distractor1":"只有在警察不在附近时才开车。",
+"distractor2":"短途旅行时忽略条件"
+},
+{
+"id": 785,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"扣分和处罚",
+"question":"为什么处罚的影响范围不仅限于本次行程?",
+"answer":"它们可能会影响您的驾照状态和未来的驾驶能力。",
+"distractor1":"付款后它们立即消失。",
+"distractor2":"它们能改善你的驾驶记录"
+},
+{
+"id": 786,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"测试与进度",
+"question":"为什么要进行驾驶员考试?",
+"answer":"在继续之前检查知识和技能。",
+"distractor1":"取代监督实践",
+"distractor2":"取消所有道路规则"
+},
+{
+"id": 787,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"测试与进度",
+"question":"学员在参加驾驶考试前应该做什么?",
+"answer":"安全驾驶,并了解道路规则。",
+"distractor1":"只需记住道路标志的颜色",
+"distractor2":"避免在交通路段练习。"
+},
+{
+"id": 788,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"测试与进度",
+"question":"执照升级通常需要哪些条件?",
+"answer":"符合资格、测试和条件要求",
+"distractor1":"仅仅拥有一辆车",
+"distractor2":"无人监管驾驶"
+},
+{
+"id": 789,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"测试与进度",
+"question":"为什么驾驶员通过考试后还要继续学习?",
+"answer":"经验和安全习惯是随着时间推移而逐渐养成的。",
+"distractor1":"通过测试意味着不再存在风险。",
+"distractor2":"考试结束后,道路交通规则不再适用。"
+},
+{
+"id": 790,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"测试与进度",
+"question":"如果驾驶考试没通过该怎么办?",
+"answer":"从结果中吸取教训,并在再次尝试之前进行练习。",
+"distractor1":"无论如何都要独自开车",
+"distractor2":"忽略反馈"
+},
+{
+"id": 791,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"一般合规性",
+"question":"许可证合规性意味着什么?",
+"answer":"遵守适用于您驾照的所有规则和条件。",
+"distractor1":"只遵守你同意的规则",
+"distractor2":"未检查路况便驾车"
+},
+{
+"id": 792,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"一般合规性",
+"question":"为什么驾驶员应该及时更新驾照信息?",
+"answer":"准确的细节有助于履行法律责任。",
+"distractor1":"获得许可后,细节就无关紧要了。",
+"distractor2":"只有乘客需要了解最新信息"
+},
+{
+"id": 793,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"一般合规性",
+"question":"如果您的驾照被吊销或注销,您应该怎么办?",
+"answer":"在获得法律允许之前,请勿驾驶。",
+"distractor1":"仅在白天驾驶",
+"distractor2":"只开短途车"
+},
+{
+"id": 794,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"一般合规性",
+"question":"为什么持证人应该仔细阅读官方通知?",
+"answer":"它们可能包含重要的变更或要求",
+"distractor1":"通知仅用于广告宣传。",
+"distractor2":"通知不会影响驾驶"
+},
+{
+"id": 795,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"一般合规性",
+"question":"如果驾照条件不清楚该怎么办?",
+"answer":"开车前请先咨询官方渠道。",
+"distractor1":"如果觉得不方便,可以忽略它。",
+"distractor2":"请另一位学习者猜测"
+},
+{
+"id": 796,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"最终原则",
+"question":"学习驾照和临时驾照规则的主要目标是什么?",
+"answer":"为了帮助新驾驶员安全地积累经验",
+"distractor1":"为了让新司机开得更快",
+"distractor2":"免除新司机的责任"
+},
+{
+"id": 797,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"最终原则",
+"question":"什么样的态度有助于新手司机安全驾驶?",
+"answer":"耐心、谨慎和持续学习的意愿",
+"distractor1":"过度自信",
+"distractor2":"忽略反馈"
+},
+{
+"id": 798,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"最终原则",
+"question":"为什么新手司机应该避免冒险?",
+"answer":"经验不足会使危险更难应对。",
+"distractor1":"承担风险有助于提高驾照获取速度。",
+"distractor2":"道路规则允许新手司机承担更大的风险。"
+},
+{
+"id": 799,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"最终原则",
+"question":"每位持证人都应该记住什么?",
+"answer":"驾驶是一项责任,需要做出安全的选择。",
+"distractor1":"执照可以免除执业的必要性。",
+"distractor2":"其他道路使用者必须始终让行。"
+},
+{
+"id": 800,
+"englishName":"Quiz",
+"category":"新南威尔士州驾照、学员及P牌规则",
+"subcategory":"最终原则",
+"question":"最安全的驾照条件处理方式是什么?",
+"answer":"了解它们,遵守它们,并在你的驾驶范围内行驶。",
+"distractor1":"仅在测试期间关注他们",
+"distractor2":"如果交通顺畅,可以忽略它们。"
+}
+]
