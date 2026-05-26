@@ -1,0 +1,110 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"혈중 알코올 농도(BAC)",
+"description":"서호주에서는 초보 운전자는 운전 중 혈중 알코올 농도가 0%를 유지해야 합니다."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"빗길 운전하기",
+"description":"비가 오는 날씨에는 도로가 미끄러워지고 제동 거리가 길어지므로 속도를 줄이고 앞차와의 간격을 넓히십시오."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"긴급 차량 통과 중",
+"description":"서호주(WA)의 SLOMO 법에 따라, 정지해 있는 비상 차량이나 고장 차량이 깜빡이는 불빛을 켜고 있을 경우, 시속 40km로 속도를 줄이고 안전하게 차선을 변경하여 지나가야 합니다."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"운전 적합성",
+"description":"피로, 질병, 음주, 약물 복용 또는 운전에 지장을 줄 수 있는 약물의 영향을 받는 경우 운전하지 마십시오."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"위험 인지",
+"description":"훌륭한 운전자는 위험 요소를 조기에 파악하고 대응하기 위해 끊임없이 전방과 주변 도로 환경을 살핍니다."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"대형 차량 상호 작용",
+"description":"트럭이나 버스 근처를 운전할 때는 충분한 안전거리를 유지하고 사각지대에 장시간 머무르지 않도록 하십시오."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"견인 하중 제한",
+"description":"트레일러와 적재물은 법정 견인 및 중량 제한을 준수해야 하며, 출발 전에 안전하게 고정되어야 합니다."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"유턴 금지 표지판",
+"description":"유턴 금지' 표지판은 해당 위치에서 유턴하는 것이 금지되어 있음을 의미합니다."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"교차로 근처 주차",
+"description":"표지판에서 허용한 경우가 아니면 교차로, 신호등 또는 횡단보도에 너무 가까이 주차해서는 안 됩니다."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"보행자 우선",
+"description":"운전자는 횡단보도에서 보행자에게 양보해야 하며, 보행자가 건너는 도로로 진입할 때도 마찬가지입니다."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"무작위 음주 측정",
+"description":"경찰은 운전자에게 음주 측정이나 약물 검사를 요구할 수 있으며, 적법한 검사를 거부할 경우 처벌을 받을 수 있습니다."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"학교 구역 제한 속도",
+"description":"서호주에서는 일반적으로 등교 시간 동안 학교 구역의 제한 속도가 시속 40km입니다."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"정지선 규칙",
+"description":"정지 표지판이나 정지선에서는 교차로에 진입하기 전에 완전히 정지하고 양보해야 합니다."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"비 오는 날 야외 파티",
+"description":"젖은 노면에서는 접지력이 감소하고 제동 거리가 길어지므로 앞차와의 간격을 충분히 유지하십시오."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"트럭 테일게이팅",
+"description":"트럭 바로 뒤에서 운전하면 시야와 반응 시간이 줄어들 수 있으므로 주의하십시오."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"작업 구역 안전",
+"description":"도로 공사 구역에서는 작업자와 다른 도로 이용자를 보호하기 위해 임시 속도 제한 및 지시 사항을 준수하십시오."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"버스 전용차선 이용",
+"description":"버스 전용차선은 허가된 차량만 이용할 수 있으며, 다른 차량의 일시적인 진입을 허용하는 표지판이 있는 경우는 예외입니다."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"적재 구역",
+"description":"하역 구역은 표지판에 허용된 차량만 이용할 수 있으며 일반 주차 용도로 사용할 수 없습니다."
+}
+]
