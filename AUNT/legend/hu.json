@@ -1,0 +1,110 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Véralkoholszint (BAC)",
+"description":"Az Északi Területen a tanuló és ideiglenes vezetőknek vezetés közben nulla véralkoholszintet kell fenntartaniuk."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Vezetés esőben",
+"description":"Esős időben csökkentse a sebességet és hagyjon több helyet, mert a féktávolság megnő, és az utak csúszóssá válhatnak."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Sürgősségi járművek elhaladása",
+"description":"Villogó fényt mutató, álló sürgősségi járművek mellett 40 km/h-ra kell lassítani."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Vezetési alkalmasság",
+"description":"Ne vezessen, ha fáradtság, betegség, alkohol, drogok vagy gyógyszerek fogyasztása befolyásolhatja a biztonságos vezetési képességét."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Veszélyészlelés",
+"description":"Az előre néző pásztázás és a tükrök rendszeres ellenőrzése segít a vezetőknek időben felismerni a veszélyeket, és biztonságosan reagálni."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Nehézgépjármű-kölcsönhatás",
+"description":"Hagyjon több helyet a nehézgépjárművek körül, és kerülje a holtterükben való utazást."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Vontatási teherkorlátozások",
+"description":"A rakományokat és a pótkocsikat megfelelően rögzíteni kell, és a vontatási és súlykorlátozásokon belül kell maradniuk."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Megfordulni tilos tábla",
+"description":"A TILOS A MEGFORDULNI tábla azt jelenti, hogy az adott helyen tilos megfordulni."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Parkolás kereszteződésekhez közel",
+"description":"Nem szabad túl közel parkolni kereszteződéshez, közlekedési lámpához vagy gyalogátkelőhelyhez, kivéve, ha a jelzések ezt engedélyezik."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Gyalogoselsőbbség",
+"description":"A gépjárművezetőknek elsőbbséget kell adniuk a gyalogosoknak az útátkelőhelyeken, valamint olyan útra való bekanyarodáskor, ahol gyalogosok kelnek át."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Véletlenszerű légzésteszt",
+"description":"A rendőrség véletlenszerű alkoholtesztet végezhet, és a járművezetőknek be kell tartaniuk az utasításokat az alkoholminta leadására."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Iskolai övezet sebességkorlátozásai",
+"description":"Az Északi Terület iskolai övezeteiben általában 40 km/h sebességgel közlekedhetnek a táblákon feltüntetett időpontokban."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"STOP vonal szabály",
+"description":"STOP táblánál vagy stopvonalnál teljesen meg kell állni és elsőbbséget kell adni, mielőtt behajtanak a kereszteződésbe."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Esőben farokba gurulva",
+"description":"Nedves időben növelje a követési távolságot, hogy több fékezési időt biztosítson és csökkentse az ütközések kockázatát."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Hátsó híddal szerelt teherautók",
+"description":"Kerülje a teherautók túl szoros követését, mert a látótávolság és a féktávolság csökkenhet."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Munkaterület biztonsága",
+"description":"Lassítson le, és tartsa be az ideiglenes sebességkorlátozásokat és a forgalmi utasításokat az útépítési területeken."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Buszsáv-használat",
+"description":"A buszsávok az engedélyezett járművek számára vannak fenntartva, kivéve, ha a táblák azt jelzik, hogy más járművek is behajthatnak."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Rakodási zónák",
+"description":"A rakodási zónákat csak engedéllyel rendelkező járművek használhatják, és a helytelen használat büntetést vonhat maga után."
+}
+]
