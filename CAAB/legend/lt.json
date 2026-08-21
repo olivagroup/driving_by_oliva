@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Vairuotojo pažymėjimo įgijimas baigus studijas (GDL)",
+"description":"Albertos etapais vykdoma licencijavimo programa, leidžianti naujiems vairuotojams įgyti įgūdžių ir patirties kontroliuojamomis sąlygomis."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"7 klasės mokinio pažymėjimas",
+"description":"Pirmasis GDL etapas, leidžiantis vairuoti prižiūrint mokiniui."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"5 klasės GDL licencija",
+"description":"Bandomojo laikotarpio licencija, turėta antrojo Albertos GDL programos etapo metu."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Pilna 5 klasės licencija",
+"description":"Ne GDL licencija, leidžianti savarankiškai vairuoti automobilius ir kitas tinkamas lengvąsias transporto priemones."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Žinių testas",
+"description":"Kompiuterizuotas testas su pasirenkamaisiais atsakymais, apimantis kelių eismo taisykles, saugaus vairavimo praktiką ir kelio ženklus."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Kelio bandymas",
+"description":"Praktinis transporto priemonės valdymo, stebėjimo, sprendimų priėmimo ir kelių eismo taisyklių laikymosi vertinimas."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Regėjimo vertinimas",
+"description":"Privalomas patikrinimas, patvirtinantis, kad vairuotojas atitinka minimalius Albertos regėjimo standartus."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Registro agentas",
+"description":"Įgaliotasis Albertos biuras, teikiantis tokias paslaugas kaip licencijavimas, registracija, testavimas ir licencijų atnaujinimas."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Vairuotojų egzaminuotojas",
+"description":"Asmuo, įgaliotas atlikti kelių egzaminus ir įvertinti, ar kandidatai turi reikiamus vairavimo įgūdžius."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Pneumatinių stabdžių patvirtinimas (Q)",
+"description":"Licencijos patvirtinimas, reikalingas vairuoti transporto priemones su tik pneumatiniais arba kombinuotais pneumatiniais ir hidrauliniais stabdžiais."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Būklės kodas",
+"description":"Kodas, nurodytas vairuotojo pažymėjime, nurodantis specialų vairavimo reikalavimą, pavyzdžiui, korekcinius akinius."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Patvirtinimo kodas",
+"description":"Kodas, rodantis, kad vairuotojas yra baigęs specialius mokymus arba gali vairuoti specialiai įrengtas transporto priemones."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Trūkumų taškai",
+"description":"Taškai, įrašyti vairuotojo pažymėjime po apkaltinamojo nuosprendžio už tam tikrus kelių eismo taisyklių pažeidimus."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Vairuotojo santrauka",
+"description":"Oficialus įrašas, kuriame pateikiami vairuotojo pažymėjimų turėjimo teistumai, teisės vairuoti atėmimai ir kita informacija."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Eismo reguliavimo signalas",
+"description":"Raudonas, geltonas arba žalias šviesoforo signalas, naudojamas eismo srautui reguliuoti sankryžose arba susijungiančiose gatvėse."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Nuolatinė raudona šviesa",
+"description":"Signalas, reikalaujantis visiškai sustoti prieš sustojimo liniją, pėsčiųjų perėją ar sankryžą."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Nuolatinė geltona šviesa",
+"description":"Įspėjimas, kad šviesoforo signalas keičiasi į raudoną ir vairuotojai privalo sustoti, nebent sustoti neįmanoma saugiai."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Nuolatinė žalia šviesa",
+"description":"Signalas, leidžiantis judėti sankryžoje, tačiau vis tiek reikalaujantis duoti kelią."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Mirksintis raudonas šviesoforas",
+"description":"Signalas, traktuojamas kaip STOP ženklas, reikalaujantis visiškai sustoti, o po to duoti kelią prieš tęsiant."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Mirksintis geltonas šviestuvas",
+"description":"Signalas, leidžiantis vairuotojams atsargiai važiuoti, užleidus kelią eismui ir pėstiesiems."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Mirksintis žalias šviesoforo signalas",
+"description":"Signalas, leidžiantis judėti arba sukti nesustojant, tačiau reikalaujantis, kad vairuotojai duotų kelią teisėtiems eismo dalyviams."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Eismo juostos keitimo signalas",
+"description":"Viršuje esanti raudona X arba žalia rodyklė, rodanti, ar eismo juosta nurodyta kryptimi uždaryta, ar laisva."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Reguliavimo ženklas",
+"description":"Ženklas, nurodantis, ką eismo dalyviai privalo arba neturi daryti, įskaitant greičio, posūkių, stovėjimo ir privažiavimo taisykles."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Įspėjamasis ženklas",
+"description":"Ženklas, iš anksto įspėjantis apie pavojų, kelio sąlygas, sankryžą, perėją arba būtiną veiksmą."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Leidžiamasis ženklas",
+"description":"Baltas kvadratas su žaliu apskritimu, rodantis, kad nurodytas veiksmas yra leidžiamas."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Draudžiamasis ženklas",
+"description":"Baltas ženklas su raudonu apskritimu ir įstriža juosta, rodantis, kad nurodytas veiksmas yra draudžiamas."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"STOP ženklas",
+"description":"Ženklas, reikalaujantis visiškai sustoti ir duoti kelią prieš saugiai tęsiant kelią."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Duokite kelią",
+"description":"Ženklas, reikalaujantis vairuotojui sulėtinti greitį, būti pasiruošusiam sustoti ir prireikus duoti kelią."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Greičio apribojimas",
+"description":"Didžiausias leistinas greitis idealiomis sąlygomis, nebūtinai saugus greitis prastomis sąlygomis."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Mokyklos zona",
+"description":"Teritorija, pažymėta mokyklos ženklu ir greičio apribojimu, kurioje galioja specialūs greičio ir lenkimo apribojimai."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Mokyklos teritorija",
+"description":"Teritorija, pažymėta mokyklos ženklu be pritvirtinto greičio ribojimo ženklo, įspėjančio vairuotojus būti atsargiems."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Žaidimų aikštelės zona",
+"description":"Teritorija su žaidimų aikštelės ženklu ir greičio apribojimu, kurioje galioja sumažintas greitis ir lenkimo apribojimai."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Žaidimų aikštelė",
+"description":"Žaidimų aikštelės ženklu pažymėta zona be greičio ribojimo ženklo, įspėjančio, kad netoliese gali būti vaikų."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Statybų zona",
+"description":"Kelio darbų zona, kurioje privaloma laikytis nustatytų greičio apribojimų, įspėjamųjų ženklų ir vairuotojo nurodymų."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Rezervuota juosta",
+"description":"Eismo juosta, skirta tam tikriems eismo dalyviams, pavyzdžiui, autobusams, taksi, dviračiams ar transporto priemonėms, kuriose daug keleivių."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Ištisinė linija",
+"description":"Gatvės žymėjimas, paprastai draudžiantis kirsti kelią norint aplenkti ar persikelti į kitą eismo juostą."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Nutrūkusi linija",
+"description":"Gatvės žymėjimas, leidžiantis pereiti kelią, aplenkti ar persikelti į kitą eismo juostą, kai tai saugu."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Geltona linija",
+"description":"Grindinio žymėjimas, skiriantis priešingomis kryptimis važiuojančius eismus."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Balta linija",
+"description":"Gatvės žymėjimas, skiriantis ta pačia kryptimi važiuojančius eismus."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Stop linija",
+"description":"Kelio žymėjimas, rodantis, kur transporto priemonė privalo sustoti sankryžoje ar geležinkelio pervažoje."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Pėsčiųjų perėja",
+"description":"Pažymėta arba nepažymėta zona, kurioje pėstieji eina per gatvę ir vairuotojai privalo duoti kelią."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Dviračių takas",
+"description":"Pažymėta juosta, skirta dviratininkams, į kurią motorinės transporto priemonės gali įvažiuoti tik ten, kur tai leidžiama, pavyzdžiui, posūkiams."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Bendro naudojimo juosta",
+"description":"Eismo juosta, pažymėta siekiant vairuotojams priminti, kad dviratininkai gali važiuoti ta pačia juosta."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Akloji zona",
+"description":"Zona šalia transporto priemonės arba šiek tiek už jos, kurios nematyti jos veidrodėliuose."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Pečių patikrinimas",
+"description":"Greitas žvilgtelėjimas per petį, norint patikrinti vietą, kurios nematyti veidrodėliuose."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Kosminė pagalvėlė",
+"description":"Aplink transporto priemonę palikta atvira erdvė, skirta sustoti arba išvengti pavojų."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Sekimo atstumas",
+"description":"Laikas ir erdvė, išlaikoma tarp jūsų transporto priemonės ir priekyje važiuojančios transporto priemonės."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Dviejų sekundžių taisyklė",
+"description":"Minimalus rekomenduojamas sekimo laikas esant normalioms kelio ir oro sąlygoms."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Suvokimo laikas",
+"description":"Laikas, reikalingas situacijai atpažinti ir suprasti, kad reikia sustoti ar kitaip reaguoti."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Reakcijos laikas",
+"description":"Laikas, reikalingas reaguoti į pavojų, pavyzdžiui, perkelti koją nuo akceleratoriaus pedalo ant stabdžių."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Stabdymo kelias",
+"description":"Atstumas, kurį transporto priemonė nuvažiuoja paspaudus stabdžius, kol sustoja."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Bendras stabdymo kelias",
+"description":"Bendras atstumas, nuvažiuotas suvokimo, reakcijos ir stabdymo metu."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Slenksčio stabdymas",
+"description":"Tvirtas stabdymas iki pat ratų užsiblokavimo, išsaugant vairavimo gebėjimą."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Stabdžių antiblokavimo sistema (ABS)",
+"description":"Sistema, kuri cikliškai keičia stabdžių slėgį, kad padėtų išvengti ratų užsiblokavimo ir išsaugotų vairavimo valdymą."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Trinties taškas",
+"description":"Sankabos padėtis, kurioje mechaninė pavarų dėžė pradeda perduoti variklio galią ratams."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Važiavimas sankaba",
+"description":"Pernelyg didelis kojos laikymas ant sankabos pedalo, dėl kurio sankaba dar labiau susidėvi."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Lygiagretus parkavimas",
+"description":"Parkavimas lygiagrečiai šaligatviui, erdvėje tarp transporto priemonių."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Kampinis parkavimas",
+"description":"Parkavimas įstrižai, dažniausiai maždaug 45 laipsnių kampu eismo juostos atžvilgiu, esančioje stovėjimo aikštelėje."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Statmenas parkavimas",
+"description":"Parkavimas stovėjimo aikštelėje, pastatytoje 90 laipsnių kampu į šaligatvio bortelį."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Pirmenybės teisė",
+"description":"Taisyklės, nustatančios, kuris eismo dalyvis privalo duoti kelią, o kuris gali važiuoti toliau."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Kontroliuojama sankryža",
+"description":"Sankryža, reguliuojama kelio ženklais, šviesoforais arba abiem."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Nereguliuojama sankryža",
+"description":"Sankryža be ženklų ar šviesoforų, kurioje vairuotojai paprastai duoda kelią dešinėje esančiai transporto priemonei."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Mandagumo kampelis",
+"description":"Trijų arba keturių krypčių sustojimas, kai pirmiausia pajuda pirma atvykusi transporto priemonė arba dešinėje esanti transporto priemonė, kai atvyksta kelios transporto priemonės vienu metu."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Eismo žiedas",
+"description":"Žiedinė sankryža, kurioje eismas važiuoja prieš laikrodžio rodyklę, o įvažiuojančios transporto priemonės užleidžia vietą viduje esantiems eismui."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Žiedinė sankryža",
+"description":"Žiedinė sankryža su staigesniais posūkiais, siekiant skatinti mažesnį greitį."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Dviejų eismo juostų posūkis",
+"description":"Posūkis iš vienos iš dviejų pažymėtų posūkio juostų į atitinkamą paskirties juostą."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Dvipusio eismo kairiojo posūkio juosta",
+"description":"Bendra vidurinė eismo juosta, kuria eismas naudojasi abiem kryptimis, ruošdamasis pasukti į kairę."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Apsisukimas",
+"description":"Manevras, kurio metu transporto priemonė apsisuka, kad važiuotų priešinga kryptimi, naudodama artėjančių eismo juostas."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Pravažiavimo juosta",
+"description":"Papildoma greitkelio juosta, leidžianti greitesniam eismui saugiai aplenkti lėtesnes transporto priemones."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Avarinio stabdymo juosta",
+"description":"Greitkelio kelkraštis skirtas skubiems sustojimams arba transporto priemonių problemoms, o ne įprastam vairavimui ar lenkimui."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Greitėjimo juosta",
+"description":"Eismo juosta, naudojama greičiui padidinti ir eismo srautui pritaikyti prieš įvažiuojant į važiuojamąją kelio dalį."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Lėtėjimo juosta",
+"description":"Eismo juosta, naudojama greičiui sumažinti išvažiuojant iš greitkelio ar pagrindinio kelio."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Sujungimas",
+"description":"Bendras saugaus eismo sujungimo procesas, kai dvi kelio dalys susijungia į vieną."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Pynimo zona",
+"description":"Bendra eismo juosta, kurioje įvažiuojantys automobiliai greitėja, o išvažiuojantys – lėtėja."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Slysti",
+"description":"Transporto priemonės valdymo praradimas dėl sumažėjusio padangų sukibimo."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Stabdymo slydimas",
+"description":"Slydimas, atsirandantis stabdant, užblokuoja automobilio be ABS ratus."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Maitinimo slydimas",
+"description":"Slydimas, kurį sukelia per greitas greitėjimas ir varomųjų ratų prasisukimas."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Slydimas posūkiuose",
+"description":"Šoninis slydimas, kurį sukelia per didelis greitis važiuojant posūkio metu."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Akvaplaningas",
+"description":"Padangų sąlyčio su šlapia kelio danga praradimas, dėl kurio gali būti prarasta transporto priemonės kontrolė."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Juodasis ledas",
+"description":"Sunkiai pastebimas ledo sluoksnis susidarė, kai ant kelio užšąla drėgmei."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Atgaivinimas bekelėje",
+"description":"Kontroliuojamas lėtėjimo ir laipsniško grįžimo į važiuojamąją kelio dalį procesas nuvažiavus nuo šaligatvio."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Avariniai žibintai",
+"description":"Keturiomis kryptimis mirksintys žibintai, naudojami įspėti kitus, kad transporto priemonė sustojo arba kelia pavojų."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Proaktyvus vairavimas",
+"description":"Numatyti pavojus ir imtis ankstyvų veiksmų, kad juos sumažintų, iki minimumo sumažintų arba išvengtų."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Vizualinis gamybos laikas",
+"description":"Atstumas sekundėmis, kurį vairuotojas nuskaito į priekį, kad turėtų laiko reaguoti į pavojus."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Fiksuotas pavojus",
+"description":"Nuolatinė kelio būklė, pavyzdžiui, posūkis, kalva, sankryža arba paslėpta įvažiavimo dalis."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Kintamas pavojus",
+"description":"Besikeičiančios sąlygos, pavyzdžiui, pėstieji, apledėję paviršiai, greitosios pagalbos automobiliai arba pasenę žali šviesoforo signalai."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Išsiblaškęs vairavimas",
+"description":"Vairavimas, kai dėmesį blaško tokia veikla kaip telefono naudojimas, žinučių rašymas, skaitymas, įrenginių programavimas ar grožio procedūros."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Vaiko saugos kėdutė",
+"description":"Patvirtinta apsaugos priemonė, parinkta pagal vaiko amžių arba svorį ir sumontuota pagal gamintojo instrukcijas."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/UŽRAKTAS",
+"description":"Universali tvirtinimo sistema, naudojama suderinamoms vaikų saugos kėdutėms pritvirtinti prie transporto priemonės."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Paaukštinta sėdynė",
+"description":"Patvirtinta sėdynė, kurioje vaikas tinkamai pasėtas, kad būtų galima naudoti automobilio saugos diržą."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Pažeidžiamas eismo dalyvis",
+"description":"Pėsčiasis, dviratininkas ar motociklininkas, turintis mažesnę fizinę apsaugą nei uždaros transporto priemonės keleivis."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Mokyklinio autobuso gintaro šviesos",
+"description":"Besikeičiantys įspėjamieji žibintai, rodantys, kad mokyklinis autobusas lėtina greitį ir ruošiasi sustoti."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Mokyklinio autobuso raudonos šviesos",
+"description":"Įjungus besikeičiančius šviesoforus, eismas turi sustoti, kol mokiniai įlipa, išlipa arba kerta gatvę šalia autobuso."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Sniego valymo įspėjamieji žibintai",
+"description":"Mirksintys geltoni ir raudoni šviesoforai rodo, kad priekyje veikia sniego valytuvas."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Geležinkelio pervaža",
+"description":"Vieta, kur kelias kerta geležinkelio bėgius ir vairuotojai privalo duoti kelią traukiniams."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Geležinkelio Crossbuck",
+"description":"X formos geležinkelio pervažos ženklas, reikalaujantis vairuotojams duoti kelią traukiniams."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Lengvasis geležinkelis (LRT)",
+"description":"Tyli elektra varoma geležinkelio sistema, kurios pervažos turi būti traktuojamos kaip ir kitos geležinkelio pervažos."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Laidotuvių procesija",
+"description":"Glaudžiai sugrupuota transporto priemonių eilė su įjungtais priekiniais žibintais, kuri, kai saugu, gali kartu važiuoti per sankryžą."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Vairavimas apsvaigus nuo alkoholio",
+"description":"Vairavimas apsvaigus nuo alkoholio, narkotikų, vaistų ar esant kitoms būklėms, mažinančioms gebėjimą vairuoti."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Neatidėliotinos sankcijos kelyje (IRS)",
+"description":"Albertos griežtinama administracinių baudų programa už vairavimą išgėrus."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERIS: Pradedantysis",
+"description":"Nulinės tolerancijos alkoholio ir narkotikų programa 7 klasės mokiniams ir 5-GDL klasės vairuotojams."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS ZERAS: Komercinis",
+"description":"Nulinės tolerancijos alkoholio ir narkotikų programa komercinės paskirties vairuotojams, dirbantiems komerciniais tikslais."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: ĮSPĖJIMAS",
+"description":"Baudos kelyje taikomos, kai vairuotojo kraujyje esanti alkoholio koncentracija pasiekia nustatytą įspėjamąją ribą."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: NESĖKMINGAS",
+"description":"Griežtos sankcijos kelyje, taikomos už nusikalstamo pobūdžio apsvaigus nuo narkotikų, draudžiamą koncentraciją arba teisėto reikalavimo atsisakymą."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Uždegimo blokavimo įtaisas",
+"description":"Įtaisas, matuojantis alkoholio kiekį iškvepiamame ore ir neleidžiantis užvesti transporto priemonės, kai rodmuo viršija nustatytą ribą."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"„SafeRoads Alberta“",
+"description":"Administracinė institucija, kuri nagrinėja provincijos nustatytas baudas už vairavimą išgėrus ir transporto priemonių konfiskavimą."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Registratoriaus persvarstymo procesas",
+"description":"Procesas, naudojamas prašyti peržiūrėti administracinius sprendimus, susijusius su vairavimu ne apsvaigus."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Priekabų saugos grandinės",
+"description":"Tvirtai pritvirtintos grandinės, sukryžiuotos po priekabos liežuviu, kad būtų užtikrintas antrinis sujungimas."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Avarinio atjungimo sistema",
+"description":"Priekabos saugos sistema, skirta įsijungti, jei priekaba atsiskiria nuo vilkiko."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Nukrypimas nuo sekimo",
+"description":"Priekabos ratų polinkis važiuoti trajektorija, esančia vilkiko ratų pasirinkto kelio viduje."
+}
+]

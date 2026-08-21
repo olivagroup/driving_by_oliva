@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Útskrifað ökuskírteini (GDL)",
+"description":"Leyfisveitingaráætlun Alberta í Alberta sem gerir nýjum ökumönnum kleift að öðlast færni og reynslu við stýrðar aðstæður."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Nemendaskírteini í 7. flokki",
+"description":"Fyrsta GDL-stigið, sem gerir kleift að aka undir eftirliti nemenda."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Leyfi fyrir 5. flokks GDL",
+"description":"Reynsluleyfi sem var haldið á öðrum áfanga GDL-áætlunarinnar í Alberta."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Fullt 5. flokks leyfi",
+"description":"Leyfi sem ekki er GDL-leyfi sem heimilar sjálfstæðan akstur bifreiða og annarra gjaldgengra léttra ökutækja."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Þekkingarpróf",
+"description":"Tölvupróf með fjölvalssvörum sem fjalla um umferðarreglur, örugga akstursvenjur og umferðarskilti."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Vegpróf",
+"description":"Hagnýtt mat á meðhöndlun ökutækis, athugunum, dómgreind og fylgni við umferðarreglur."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Sjónmat",
+"description":"Skyldubundin skoðun sem staðfestir að ökumaður uppfylli lágmarkssjónkröfur Alberta."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Skráningarfulltrúi",
+"description":"Viðurkennd skrifstofa í Alberta sem veitir þjónustu eins og leyfisveitingar, skráningu, prófanir og uppfærslur á leyfisveitingum."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Ökuprófsmaður",
+"description":"Sá sem hefur heimild til að framkvæma aksturspróf og meta hvort umsækjendur hafi tilskilda aksturshæfni."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Áritun fyrir loftbremsur (Q)",
+"description":"Skírteinisáritun sem krafist er til að aka ökutækjum með eingöngu loftbremsum eða samsettum loft- og vökvabremsum."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Ástandskóði",
+"description":"Kóði sem settur er á ökuskírteini til að auðkenna sérstakar aksturskröfur, svo sem leiðréttingargleraugu."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Áritunarkóði",
+"description":"Kóði sem sýnir að ökumaður hefur lokið sérstakri þjálfun eða megi aka sérútbúnum ökutækjum."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Ógildingarstig",
+"description":"Stig skráð á ökuskrá eftir sakfellingu fyrir ákveðin umferðarlagabrot."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Ágrip ökumanns",
+"description":"Opinber skrá sem sýnir ökuréttindadóma, sviptingar ökuréttinda og aðrar upplýsingar um ökuréttindi."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Umferðarstýringarmerki",
+"description":"Rautt, gult eða grænt ljós sem notað er til að stjórna umferðarflæði á gatnamótum eða sameinuðum götum."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Rautt ljós í stöðugu ljósi",
+"description":"Merki sem krefst algjörrar stöðvunar fyrir stöðvunarlínu, gangbraut eða gatnamót."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Stöðugt gult ljós",
+"description":"Viðvörun um að ljósaljósið sé að breytast í rautt og ökumenn verði að nema ekki sé hægt að stöðva á öruggan hátt."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Grænt ljós stöðugt",
+"description":"Merki sem leyfir akstur um gatnamót en krefst samt viðeigandi undanþágu."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Blikkandi rautt ljós",
+"description":"Merki sem meðhöndlað er eins og stöðvunarmerki, þar sem krafist er algjörrar stöðvunar og síðan víkja skal fyrir áður en haldið er áfram."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Blikkandi gult ljós",
+"description":"Merki sem gerir ökumönnum kleift að aka varlega eftir að hafa vikið fyrir umferð og gangandi vegfarendum."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Blikkandi grænt ljós",
+"description":"Merki sem leyfir akstur eða beygjur án þess að stoppa en krefst þess að ökumenn víki fyrir löglegum vegfarendum."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Akreinaviðsnúningsljós",
+"description":"Rauður X eða græn ör fyrir ofan sem stýrir hvort akrein er lokuð eða tiltæk í tilgreindri átt."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Reglugerðarskilti",
+"description":"Skilti sem gefur til kynna hvað vegfarendur mega og mega ekki gera, þar á meðal reglur um hraða, beygjur, bílastæði og aðgang."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Viðvörunarskilti",
+"description":"Skilti sem gefur til kynna hættu, ástand vegar, gatnamót, gangbraut eða nauðsynlegar aðgerðir fyrirfram."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Leyfilegt skilti",
+"description":"Hvítur ferningur með grænum hring sem sýnir að tilgreind aðgerð er leyfileg."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Bannskilti",
+"description":"Hvítt skilti með rauðum hring og skástriki sem sýnir að tilgreind aðgerð er bönnuð."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Stöðvunarmerki",
+"description":"Skilti sem kveður á um að ökumaður skuli stöðva alveg og víkja fyrir áður en haldið er áfram á öruggan hátt."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Veggjastimpill",
+"description":"Merki sem kveður á um að ökumaður skuli hægja á sér, vera tilbúinn að stoppa og víkja fyrir ef þörf krefur."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Hraðatakmarkanir",
+"description":"Hámarks löglegur hraði við kjöraðstæður, ekki endilega öruggur hraði við slæmar aðstæður."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Skólasvæði",
+"description":"Svæði merkt með skólaskilti og hraðatakmörkunum þar sem sérstakar hraða- og framúraksturstakmarkanir gilda."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Skólasvæði",
+"description":"Svæði merkt með skólaskilti án áfests hraðaskiltis, sem varar ökumenn við að gæta varúðar."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Leiksvæði",
+"description":"Svæði með skilti sem sýnir leikvöll og hraðatakmörkunum þar sem takmarkanir á hraða og framúrakstur gilda."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Leiksvæði",
+"description":"Svæði sem er merkt með leiksvæðisskilti án hraðaskiltis, sem varar við því að börn gætu verið í nágrenninu."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Byggingarsvæði",
+"description":"Vinnusvæði á vegum þar sem fylgja skal fyrirmælum um hraða, viðvörunarskilti og fánavörðum."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Frátekin akrein",
+"description":"Akrein sem er ætluð tilteknum vegfarendum, svo sem strætisvögnum, leigubílum, reiðhjólum eða ökutækjum með mikla farþegarými."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Óbrotin lína",
+"description":"Merking á gangstétt sem almennt bannar að fara yfir veg til að fara fram úr eða skipta um akrein."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Brotin lína",
+"description":"Merking á gangstétt sem gerir kleift að fara yfir veginn eða skipta um akrein þegar það er óhætt."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Gula línan",
+"description":"Merking á gangstétt sem aðskilur umferð sem fer í gagnstæðar áttir."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Hvíta línan",
+"description":"Merking á gangstétt sem aðskilur umferð sem ekur í sömu átt."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Stöðvunarlína",
+"description":"Merking á gangstétt sem sýnir hvar ökutæki verður að stoppa á gatnamótum eða járnbrautarstöðvum."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Gangbraut",
+"description":"Merkt eða ómerkt svæði þar sem gangandi vegfarendur fara yfir og ökumenn verða að víkja eftir þörfum."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Hjólreiðastígur",
+"description":"Merkt akrein sem er ætluð hjólreiðamönnum og ökutækjum er aðeins heimilt að aka inn á þar sem það er leyfilegt, til dæmis til að beygja."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Samnýtt akrein",
+"description":"Akrein merkt til að minna ökumenn á að hjólreiðamenn mega nota sömu akrein."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Blindsvæði",
+"description":"Svæði við hliðina á eða rétt fyrir aftan ökutæki sem ekki sést í speglunum."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Öxlskoðun",
+"description":"Stutt svip yfir öxlina til að athuga svæði sem ekki sést í speglinum."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Geimpúði",
+"description":"Opið rými sem viðhaldið er í kringum ökutæki til að veita pláss til að stöðva eða forðast hættur."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Eftirfylgnifjarlægð",
+"description":"Tíminn og rýmið sem er milli ökutækisins þíns og ökutækisins á undan."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Tveggja sekúndna reglan",
+"description":"Lágmarks ráðlagður eftirfylgnitími við eðlilegar veg- og veðuraðstæður."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Skynjunartími",
+"description":"Tíminn sem þarf til að þekkja aðstæður og skilja að þörf er á að stöðva eða bregðast við á annan hátt."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Viðbragðstími",
+"description":"Tíminn sem það tekur að bregðast við hættu, eins og að færa fótinn af bensíngjöfinni yfir á bremsuna."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Hemlunarvegalengd",
+"description":"Sú vegalengd sem ökutæki ferðast eftir að hemlum er beitt þar til það stöðvast."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Heildarstöðvunarvegalengd",
+"description":"Samanlögð vegalengd sem ekin er við skynjun, viðbrögð og hemlun."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Þröskuldshemlun",
+"description":"Öflug hemlun þar til rétt áður en hjólin læsast, sem varðveitir stýrishæfni."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Læsivörn (ABS)",
+"description":"Kerfi sem endurstillir hemlunarþrýsting til að koma í veg fyrir hjóllæsingu og viðhalda stýrisstjórnun."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Núningspunktur",
+"description":"Kúplingsstaðan þar sem beinskipting byrjar að tengja vélarafl við hjólin."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Að ríða kúplingu",
+"description":"Að hvíla fótinn að óþarfa á kúplingspedalinum, sem veldur auknu sliti á kúplingunni."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Samsíða bílastæði",
+"description":"Bílastæði samsíða gangstéttinni í bili á milli ökutækja."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Bílastæði í horni",
+"description":"Að leggja í bás sem staðsettur er á ská, venjulega í um það bil 45 gráðu horni miðað við akreinina."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Hornrétt bílastæði",
+"description":"Bílastæði í bílskúr sem er staðsettur í 90 gráðu horni við gangstéttina."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Réttur til vegs",
+"description":"Reglur sem ákvarða hvaða vegfarendur skulu víkja og hverjir mega halda áfram."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Stýrð gatnamót",
+"description":"Gatnamót sem eru stjórnuð með umferðarskiltum, umferðarljósum eða hvoru tveggja."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Óstýrð gatnamót",
+"description":"Gatnamót án skilta eða ljósa þar sem ökumenn víkja almennt fyrir ökutæki hægra megin."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Kurteisihornið",
+"description":"Þriggja eða fjögurra vega stoppistöðvun þar sem fyrsta ökutækið sem kemur ekur fyrst, eða ökutækið hægra megin ekur þegar komur eru samtímis."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Umferðarhringur",
+"description":"Hringlaga gatnamót þar sem umferð ekur rangsælis og ökutæki sem koma inn víkja fyrir umferð sem þegar er inni."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Hringtorg",
+"description":"Hringlaga gatnamót hönnuð með þrengri beygjum til að hvetja til lægri hraða."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Tvöföld akreinabeygja",
+"description":"Beygja sem tekin er frá einni af tveimur merktum beygjuakreinum yfir á samsvarandi áfangastaðarakrein."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Tvíhliða vinstri beygjuakrein",
+"description":"Sameiginleg miðakrein sem umferð úr báðum áttum notar þegar hún er að búa sig undir að beygja til vinstri."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"U-beygja",
+"description":"Beygja þar sem ökutæki er snýrð við til að aka í gagnstæða átt eftir akreinum sem koma á móti."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Akrein",
+"description":"Auka akrein á þjóðvegi sem gerir hraðari umferð kleift að komast fram úr hægari ökutækjum á öruggan hátt."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Neyðarstöðvunarbraut",
+"description":"Þjóðvegaröxlin er frátekin fyrir brýnar stopp eða vandamál með ökutæki, ekki venjulegan akstur eða framúrakstur."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Hröðunarbraut",
+"description":"Akrein sem notuð er til að auka hraða og aðlaga umferðarflæði áður en ekið er inn á akbraut."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Hægfara akrein",
+"description":"Akrein sem notuð er til að draga úr hraða þegar ekið er út af þjóðvegi eða aðalvegi."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Sameining",
+"description":"Sameiginlegt ferli við að blanda umferð á öruggan hátt þar sem tvær vegir sameinast í eina."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Vefsvæði",
+"description":"Sameiginleg akrein þar sem umferð sem kemur inn á akrein hraðar en umferð sem kemur út á akrein hægir á sér."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Renna",
+"description":"Tap á stjórn á ökutæki vegna minnkaðs veggrips í dekkjum."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Bremsuskrið",
+"description":"Skriða sem myndast við hemlun læsir hjól ökutækis án ABS."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Rafsleði",
+"description":"Skriða af völdum of hröðrar hraðgjafar og þess vegna spólunar á drifhjólunum."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Beygjusneið",
+"description":"Hliðarrennsla af völdum of hraður aksturs við beygju."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Vatnsflæði",
+"description":"Tap á snertingu dekksins við blautan veg, sem getur valdið því að stjórn á ökutækinu tapast."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Svartur ís",
+"description":"Íslag sem erfitt er að sjá myndast þegar raki frýs á veginum."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Björgun utan vega",
+"description":"Stýrt ferli við að hægja á sér og koma smám saman aftur út á akbrautina eftir að hafa farið af malbikinu."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Viðvörunarljós fyrir neyðartilvik",
+"description":"Fjögurra vídda blikkljós notuð til að vara aðra við því að ökutæki sé kyrrstætt eða skapi hættu."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Fyrirbyggjandi akstur",
+"description":"Að sjá fyrir hættur og bregðast snemma við til að draga úr, lágmarka eða forðast hættur."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Sjónrænn afhendingartími",
+"description":"Sú vegalengd mæld í sekúndum sem ökumaður skannar framundan til að gefa sér tíma til að bregðast við hættum."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Fast hætta",
+"description":"Varanlegt ástand á vegi, svo sem beygja, brekka, gatnamót eða falin innkeyrsla."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Breytileg hætta",
+"description":"Breytingar á aðstæðum, svo sem gangandi vegfarendur, hálka, neyðarbílar eða gömul græn ljós."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Truflaður akstur",
+"description":"Akstur á meðan athyglin er dregin frá athöfnum eins og notkun síma, smáskilaboðum, lestri, forritun tækja eða snyrtingu."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Barnaöryggisstóll",
+"description":"Viðurkenndur öryggisbúnaður sem er valinn fyrir aldur eða þyngd barns og settur upp samkvæmt leiðbeiningum framleiðanda."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Ómaneitur/lás",
+"description":"Alhliða akkerikerfi sem notað er til að festa samhæfða barnastóla við ökutæki."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Hjálparsæti",
+"description":"Viðurkenndur stóll sem staðsetur barn rétt fyrir notkun öryggisbeltis ökutækisins."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Viðkvæmur vegfarandi",
+"description":"Gangandi vegfarandi, hjólreiðamaður eða mótorhjólamaður með minni líkamlega vernd en farþegi í lokuðu ökutæki."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Gul ljós skólabíls",
+"description":"Viðvörunarljós sem blikka til skiptis og gefa til kynna að skólabíll sé að hægja á sér og sé að búa sig undir að nema staðar."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Rauð ljós skólabíls",
+"description":"Skiptisljós sem krefjast þess að viðeigandi umferð stöðvist á meðan nemendur fara inn í, út úr eða yfir nálægt strætó."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Viðvörunarljós fyrir snjóruðningstæki",
+"description":"Blikkandi gul og rauð ljós gefa til kynna að snjóruðningstæki sé að vinna framundan."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Járnbrautarstöð",
+"description":"Staður þar sem vegur liggur yfir járnbrautarteinar og ökumenn verða að víkja fyrir lestum."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Járnbrautarkrossbuck",
+"description":"X-laga skilti á járnbrautarstöðvum sem krefst þess að ökumenn víki fyrir lestum."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Léttlestarsamgöngur (LRT)",
+"description":"Rafknúið járnbrautarkerfi þar sem yfirgöngin verða að vera meðhöndluð eins og önnur járnbrautaryfirgöng."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Útfararganga",
+"description":"Þétt röð ökutækja með kveikt aðalljós sem mega aka saman yfir gatnamót þegar það er óhætt."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Ökutæki undir áhrifum áfengis",
+"description":"Akstur ökutækis á meðan áfengi, fíkniefni, lyf eða annað ástand dregur úr aksturshæfni."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Tafarlausar viðurlög við vegfarendum (IRS)",
+"description":"Stigvaxandi stjórnsýsluviðurlög í Alberta fyrir akstur undir áhrifum áfengis."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS NÚLL: Byrjandi",
+"description":"Núll umburðarlyndi gegn áfengi og fíkniefnum fyrir ökumenn í 7. bekk og 5. bekk með GDL."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS NÚLL: Viðskiptaleg",
+"description":"Núll umburðarlyndi gagnvart áfengi og fíkniefnum fyrir atvinnubílstjóra sem starfa í atvinnuskyni."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"Ríkisskattstjóri: VIÐVÖRUN",
+"description":"Vegfarendasektir gilda þegar blóðalkóhólmagn ökumanns nær tilgreindum viðvörunarmörkum."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"Ríkisskattstjóri: MISTÖK",
+"description":"Alvarlegar viðurlög við vegagerð sem varða brot á refsiverðum stigi, ólöglega samþjöppun eða höfnun á lögmætri kröfu."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Kveikjulásbúnaður",
+"description":"Tæki sem mælir áfengismagn í útöndunarlofti og kemur í veg fyrir að ökutæki ræsist þegar mælingin fer yfir mörkin."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"SafeRoads Alberta",
+"description":"Stjórnsýslusviðið sem fer yfir áskoranir vegna sekta fyrir ölvunarakstur og haldlagningar ökutækja í héraði."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Endurskoðunarferli skráningarstjóra",
+"description":"Ferlið sem notað er til að óska eftir endurskoðun á stjórnsýsluákvörðunum er varða ökuréttindi án skerðingar á ökuréttindum."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Öryggiskeðjur fyrir eftirvagna",
+"description":"Öruggt festar keðjur krosslagðar undir tengivagnstungu til að veita auka tengingu."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Neyðarkerfi fyrir brot",
+"description":"Öryggiskerfi fyrir eftirvagn sem er hannað til að virkjast ef eftirvagninn losnar frá dráttarbílnum."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Utan brautar",
+"description":"Tilhneiging hjóla eftirvagns til að fylgja braut sem er innan þeirrar brautar sem hjól dráttarbílsins taka."
+}
+]

@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Vadītāja apliecības iegūšana (GDL)",
+"description":"Albertas pakāpeniskā autovadītāju licencēšanas programma, kas ļauj jaunajiem autovadītājiem iegūt prasmes un pieredzi kontrolētos apstākļos."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"7. klases mācību apliecība",
+"description":"Pirmais GDL posms, kas ļauj vadīt transportlīdzekli apmācāmā apstākļos, vadot to uzraudzītā vidē."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"5. klases GDL licence",
+"description":"Pārbaudes licence, kas iegūta Albertas GDL programmas otrajā posmā."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Pilna 5. klases licence",
+"description":"Licence, kas nav GDL licence un ļauj patstāvīgi vadīt automašīnas un citus atbilstošus vieglos transportlīdzekļus."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Zināšanu pārbaude",
+"description":"Datorizēts tests ar atbilžu variantiem, kas aptver ceļu satiksmes noteikumus, drošas braukšanas praksi un ceļa zīmes."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Ceļa tests",
+"description":"Transportlīdzekļa vadāmības, novērošanas, spriestspējas un ceļu satiksmes noteikumu ievērošanas praktisks novērtējums."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Redzes novērtējums",
+"description":"Obligāta pārbaude, kas apstiprina, ka vadītājs atbilst Albertas minimālajām redzes prasībām."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Reģistra aģents",
+"description":"Pilnvarota Albertas biroja pakalpojumi, piemēram, licencēšana, reģistrācija, testēšana un licenču atjaunināšana."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Autovadītāju eksaminētājs",
+"description":"Persona, kas ir pilnvarota veikt ceļu pārbaudes un novērtēt, vai pretendentiem ir nepieciešamās braukšanas prasmes."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Pneimatiskās bremzes apstiprinājums (Q)",
+"description":"Apliecības apstiprinājums, kas nepieciešams, lai vadītu transportlīdzekļus ar tikai pneimatiskajām vai kombinētajām pneimatiskajām un hidrauliskajām bremzēm."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Stāvokļa kods",
+"description":"Kods, kas novietots uz vadītāja apliecības, lai identificētu īpašas braukšanas prasības, piemēram, korektīvās lēcas."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Apstiprinājuma kods",
+"description":"Kods, kas norāda, ka vadītājs ir pabeidzis īpašu apmācību vai drīkst vadīt speciāli aprīkotus transportlīdzekļus."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Negatīvie punkti",
+"description":"Punkti, kas reģistrēti braukšanas vēsturē pēc notiesāšanas par noteiktiem ceļu satiksmes noteikumu pārkāpumiem."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Vadītāja kopsavilkums",
+"description":"Oficiāls reģistrs, kurā norādīti notiesājoši spriedumi par transportlīdzekļa vadīšanu, vadīšanas tiesību apturēšana un cita informācija par licencēšanu."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Satiksmes vadības signāls",
+"description":"Sarkana, dzeltena vai zaļa gaisma, ko izmanto, lai regulētu satiksmes plūsmu krustojumos vai ceļu apvienojumos."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Nepārtraukta sarkana gaisma",
+"description":"Signāls, kas pieprasa pilnīgu apstāšanos pirms stoplīnijas, gājēju pārejas vai krustojuma."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Nepārtraukta dzeltena gaisma",
+"description":"Brīdinājums, ka luksofora signāls mainās uz sarkanu un vadītājiem jāapstājas, ja vien apstāšanās nav iespējama droši."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Nepārtraukta zaļa gaisma",
+"description":"Signāls, kas atļauj kustību cauri krustojumam, vienlaikus joprojām pieprasot dot ceļu atbilstoši noteikumiem."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Mirgojoša sarkana gaisma",
+"description":"Signāls, kas tiek uztverts kā STOP zīme, kas prasa pilnīgu apstāšanās brīdi, kam seko ceļa piedošana pirms turpināt braukt."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Mirgojoša dzeltena gaisma",
+"description":"Signāls, kas ļauj autovadītājiem uzmanīgi braukt pēc tam, kad ir dota iespēja satiksmei un gājējiem."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Mirgojoša zaļa gaisma",
+"description":"Signāls, kas atļauj kustību vai pagriezienus bez apstāšanās, vienlaikus pieprasot vadītājiem dot ceļu likumīgajiem ceļu lietotājiem."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Joslas maiņas signāls",
+"description":"Sarkana X vai zaļa bultiņa virs galvas, kas kontrolē, vai josla norādītajā virzienā ir slēgta vai pieejama."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Normatīvā zīme",
+"description":"Zīme, kas ceļu satiksmes dalībniekiem ir vai nav jādara, tostarp ātruma, pagriezienu, stāvēšanas un piekļuves noteikumi."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Brīdinājuma zīme",
+"description":"Zīme, kas iepriekš brīdina par bīstamību, ceļa stāvokli, krustojumu, pāreju vai nepieciešamu rīcību."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Atļaujoša zīme",
+"description":"Balts kvadrāts ar zaļu apli, kas norāda, ka norādītā darbība ir atļauta."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Aizlieguma zīme",
+"description":"Balta zīme ar sarkanu apli un diagonālu joslu, kas norāda, ka norādītā darbība ir aizliegta."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Stop zīme",
+"description":"Normatīva zīme, kas pieprasa pilnīgu apstāšanās un ceļa piedziņu, pirms drošas braukšanas."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Dodiet ceļu zīmei",
+"description":"Zīme, kas pieprasa vadītājam samazināt ātrumu, būt gatavam apstāties un nepieciešamības gadījumā dot ceļu."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Ātruma ierobežojums",
+"description":"Maksimālais atļautais ātrums ideālos apstākļos, ne vienmēr drošs ātrums sliktos apstākļos."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Skolas zona",
+"description":"Teritorija, kas apzīmēta ar skolas zīmi un ātruma ierobežojumu, kur ir spēkā īpaši ātruma un apdzīšanas ierobežojumi."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Skolas zona",
+"description":"Teritorija, kas apzīmēta ar skolas zīmi bez piestiprinātas ātruma ierobežojuma zīmes, kas brīdina autovadītājus ievērot piesardzību."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Rotaļu laukums",
+"description":"Teritorija ar rotaļu laukuma zīmi un ātruma ierobežojumu, kur ir spēkā samazināts ātrums un apdzīšanas ierobežojumi."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Rotaļu laukums",
+"description":"Teritorija, kas apzīmēta ar rotaļu laukuma zīmi bez ātruma ierobežojuma zīmes, kas brīdina, ka tuvumā var atrasties bērni."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Būvniecības zona",
+"description":"Ceļa darbu zona, kurā jāievēro noteiktās ātruma ierobežojumu normas, brīdinājuma zīmes un karodziņu norādes."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Rezervētā josla",
+"description":"Josla, kas paredzēta noteiktiem ceļu satiksmes dalībniekiem, piemēram, autobusiem, taksometriem, velosipēdiem vai transportlīdzekļiem ar lielu pasažieru skaitu."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Nepārtraukta līnija",
+"description":"Ceļa marķējums, kas parasti aizliedz šķērsot ceļu, lai apdzītu vai mainītu joslas."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Pārtraukta līnija",
+"description":"Ceļa marķējums, kas ļauj šķērsot ceļu, lai apbrauktu vai mainītu joslas, kad tas ir droši."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Dzeltenā līnija",
+"description":"Ceļa seguma marķējums, kas atdala pretējos virzienos braucošo satiksmi."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Baltā līnija",
+"description":"Ceļa seguma marķējums, kas atdala vienā virzienā braucošo satiksmi."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Stop līnija",
+"description":"Ceļa marķējums, kas norāda, kur transportlīdzeklim jāapstājas pie krustojuma vai dzelzceļa pārbrauktuves."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Gājēju pāreja",
+"description":"Marķēta vai neiezīmēta zona, kur gājēji šķērso ceļu un autovadītājiem ir jādod ceļš atbilstoši prasībām."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Velosipēdu josla",
+"description":"Marķēta josla, kas paredzēta velosipēdistiem un kurā mehāniskie transportlīdzekļi drīkst iebraukt tikai atļautās vietās, piemēram, pagriezieniem."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Koplietošanas josla",
+"description":"Braukšanas josla, kas apzīmēta, lai atgādinātu autovadītājiem, ka velosipēdisti var izmantot to pašu joslu."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Aklā zona",
+"description":"Zona blakus transportlīdzeklim vai nedaudz aiz tā, ko nevar redzēt tā spoguļos."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Plecu pārbaude",
+"description":"Ātrs skatiens pār plecu, lai pārbaudītu zonu, ko nevar redzēt spoguļos."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Kosmosa spilvens",
+"description":"Ap transportlīdzekli uzturēta brīva telpa, lai nodrošinātu vietu apstāšanās vai bīstamības novēršanai."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Sekošanas attālums",
+"description":"Laiks un attālums, kas tiek uzturēts starp jūsu transportlīdzekli un priekšā braucošo transportlīdzekli."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Divu sekunžu noteikums",
+"description":"Minimālais ieteicamais sekošanas laiks normālos ceļa un laika apstākļos."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Uztveres laiks",
+"description":"Laiks, kas nepieciešams, lai atpazītu situāciju un saprastu, ka ir nepieciešama apstāšanās vai cita reakcija."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Reakcijas laiks",
+"description":"Laiks, kas nepieciešams, lai reaģētu uz apdraudējumu, piemēram, kājas pārcelšanai no akseleratora pedāļa uz bremzi."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Bremzēšanas ceļš",
+"description":"Attālums, ko transportlīdzeklis nobrauc pēc bremžu iedarbināšanas līdz apstāšanai."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Kopējais bremzēšanas ceļš",
+"description":"Kopējais nobrauktais attālums uztveres, reakcijas un bremzēšanas laikā."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Sliekšņa bremzēšana",
+"description":"Spēcīga bremzēšana līdz brīdim, kad riteņi bloķējas, saglabājot stūrēšanas spēju."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Bremžu pretbloķēšanas sistēma (ABS)",
+"description":"Sistēma, kas cikliski maina bremžu spiedienu, lai palīdzētu novērst riteņu bloķēšanos un saglabātu stūres kontroli."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Berzes punkts",
+"description":"Sajūga pozīcija, kurā manuālā pārnesumkārba sāk savienot dzinēja jaudu ar riteņiem."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Braukšana ar sajūgu",
+"description":"Nevajadzīga kājas atbalstīšana uz sajūga pedāļa, kas izraisa papildu sajūga nodilumu."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Paralēlā stāvvieta",
+"description":"Novietot automašīnu paralēli ietves malai atstarpē starp transportlīdzekļiem."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Leņķiskā stāvvieta",
+"description":"Novietošana stāvvietā, kas novietota pa diagonāli, parasti aptuveni 45 grādu leņķī pret braukšanas joslu."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Perpendikulāra stāvvieta",
+"description":"Novietota stāvvietā, kas novietota 90 grādu leņķī pret apmali."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Ceļa tiesības",
+"description":"Noteikumi, kas nosaka, kuram satiksmes dalībniekam ir jādod ceļš un kurš drīkst braukt tālāk."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Kontrolēta krustojuma",
+"description":"Krustojums, ko regulē ceļa zīmes, luksofori vai abi."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Neregulējams krustojums",
+"description":"Krustojums bez zīmēm vai luksoforiem, kur vadītāji parasti dod ceļu transportlīdzeklim, kas atrodas viņu labajā pusē."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Pieklājības stūrītis",
+"description":"Trīsvirzienu vai četrvirzienu pietura, kur pirmais braucošais transportlīdzeklis brauc pirmais vai arī transportlīdzeklis labajā pusē brauc, ja pienāk vienlaicīgi."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Apļveida satiksme",
+"description":"Apļveida krustojums, kurā satiksme virzās pretēji pulksteņrādītāja virzienam un iebraucošie transportlīdzekļi dod ceļu iekšā jau esošajai satiksmei."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Apļveida krustojums",
+"description":"Apļveida krustojums, kas veidots ar asākiem pagriezieniem, lai veicinātu mazāku ātrumu."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Divjoslu pagrieziens",
+"description":"Pagrieziens, kas veikts no vienas no divām marķētām pagrieziena joslām uz atbilstošo galamērķa joslu."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Divvirzienu kreisā pagrieziena josla",
+"description":"Koplietojama vidējā josla, ko izmanto satiksme no abiem virzieniem, gatavojoties nogriezties pa kreisi."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"U-apgrieziens",
+"description":"Manevrs, kura laikā transportlīdzeklis tiek apgriezts, lai brauktu pretējā virzienā, izmantojot pretimbraucošo joslu."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Apbraukšanas josla",
+"description":"Papildu šosejas josla, kas ļauj ātrākai satiksmei droši apdzīt lēnākus transportlīdzekļus."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Avārijas apstāšanās josla",
+"description":"Šosejas apmale ir paredzēta steidzamām apstāšanās reizēm vai transportlīdzekļu problēmām, nevis parastai braukšanai vai apdzīšanai."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Paātrinājuma josla",
+"description":"Josla, ko izmanto, lai palielinātu ātrumu un pielāgotos satiksmes plūsmai pirms uzbraukšanas uz brauktuves."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Palēninājuma josla",
+"description":"Josla, ko izmanto ātruma samazināšanai, nobraucot no automaģistrāles vai galvenā ceļa."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Apvienošanās",
+"description":"Kopīgs process, kurā satiksme tiek droši apvienota, divām brauktuvēm apvienojoties vienā."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Aušanas zona",
+"description":"Koplietošanas josla, kurā iebraucošā satiksme paātrina ātrumu, bet izbraucošā satiksme palēnina ātrumu."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Skid",
+"description":"Transportlīdzekļa kontroles zudums, ko izraisa samazināta riepu saķere."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Bremzēšanas slīdēšana",
+"description":"Bremzēšanas laikā radusies slīdēšana bloķē transportlīdzekļa riteņus bez ABS."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Power Skid",
+"description":"Slīdēšana, ko izraisa pārāk straujš paātrinājums un piedziņas riteņu griešanās."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Slīdēšana pagriezienos",
+"description":"Sānu slīdēšana, ko izraisa pārāk ātra braukšana pagrieziena laikā."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Akvaplanēšana",
+"description":"Riepu kontakta zudums ar slapju ceļa virsmu, kas var izraisīt transportlīdzekļa vadības zudumu."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Melnais ledus",
+"description":"Grūti saskatāms ledus slānis veidojas, kad uz ceļa sasalst mitrums."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Atgūšana bezceļos",
+"description":"Kontrolēts palēnināšanas process un pakāpeniska atgriešanās uz brauktuves pēc nobraukšanas no ietves."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Avārijas brīdinājuma gaismas",
+"description":"Četrvirzienu mirgojošas gaismas, ko izmanto, lai brīdinātu citus, ka transportlīdzeklis ir apstājies vai rada bīstamību."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Proaktīva braukšana",
+"description":"Paredzēt apdraudējumus un rīkoties laikus, lai tos samazinātu, minimizētu vai novērstu."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Vizuālais izpildes laiks",
+"description":"Attālums sekundēs, ko vadītājs novēro uz priekšu, lai dotu laiku reaģēt uz bīstamību."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Fiksēts apdraudējums",
+"description":"Pastāvīgs ceļa stāvoklis, piemēram, līkums, kalns, krustojums vai slēpta piebraucamā ceļa daļa."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Mainīgs risks",
+"description":"Mainīgi apstākļi, piemēram, gājēji, apledojušas virsmas, neatliekamās palīdzības transportlīdzekļi vai novecojušas zaļās gaismas."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Uzmanības novēršana braukšanas laikā",
+"description":"Braukšana, kad uzmanību novērš tādas aktivitātes kā tālruņa lietošana, īsziņu sūtīšana, lasīšana, ierīču programmēšana vai uzmākšanās."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Bērnu drošības sēdeklītis",
+"description":"Apstiprināta bērnu drošības sistēma, kas izvēlēta atbilstoši bērna vecumam vai svaram un uzstādīta saskaņā ar ražotāja norādījumiem."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Bezpilota lidaparāta sistēma/fiksators",
+"description":"Universāla enkuru sistēma, ko izmanto, lai transportlīdzeklī nostiprinātu saderīgus bērnu drošības sēdeklīšus."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Paaugstinātais sēdeklis",
+"description":"Apstiprināts sēdeklis, kas pareizi novieto bērnu transportlīdzekļa drošības jostas lietošanai."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Neaizsargāts satiksmes dalībnieks",
+"description":"Gājējs, velosipēdists vai motociklists ar mazāku fizisko aizsardzību nekā slēgtā transportlīdzeklī esošs pasažieris."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Skolas autobusa dzintara gaismas",
+"description":"Mainīgas brīdinājuma gaismas, kas norāda, ka skolas autobuss samazina ātrumu un gatavojas apstāties."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Skolas autobusa sarkanās gaismas",
+"description":"Mainīgas gaismas, kas liek attiecīgajiem satiksmes dalībniekiem apstāties, kamēr skolēni iekāpj, izkāpj vai šķērso ielu autobusa tuvumā."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Sniega tīrīšanas brīdinājuma gaismas",
+"description":"Mirgojošas dzeltenas un sarkanas gaismas norāda, ka priekšā darbojas sniega tīrītājs."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Dzelzceļa pārbrauktuve",
+"description":"Vieta, kur ceļš šķērso dzelzceļa sliedes un vadītājiem ir jādod ceļš vilcieniem."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Dzelzceļa Krosbaka",
+"description":"X formas dzelzceļa pārbrauktuves zīme, kas liek vadītājiem dot ceļu vilcieniem."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Vieglais dzelzceļa transports (LRT)",
+"description":"Klusa ar elektrību darbināma dzelzceļa sistēma, kuras pārbrauktuves jāapstrādā tāpat kā citas dzelzceļa pārbrauktuves."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Bēru procesija",
+"description":"Cieši sagrupēta transportlīdzekļu rinda ar ieslēgtiem lukturiem, kas drīkst kopā braukt cauri krustojumam, ja tas ir droši."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Braukšanas traucējumi",
+"description":"Transportlīdzekļa vadīšana alkohola, narkotiku, medikamentu vai citu slimību ietekmē, kas samazina braukšanas spējas."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Nekavējoties piemērojamas sankcijas uz ceļa (IRS)",
+"description":"Albertas pieaugošā administratīvo sodu programma par braukšanu alkohola reibumā."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS NULLES: Iesācējs",
+"description":"Nulles tolerances programma alkohola un narkotiku jomā 7. klases skolēniem un 5. klases GDL autovadītājiem."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS NULLES: Komerciāls",
+"description":"Nulles tolerances programma attiecībā uz alkoholu un narkotikām komerciāliem autovadītājiem, kas darbojas komerciālā statusā."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: BRĪDINĀJUMS",
+"description":"Sankcijas uz ceļa tiek piemērotas, ja vadītāja asinīs esošā alkohola koncentrācija sasniedz noteikto brīdinājuma slieksni."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: NEKADĒTS",
+"description":"Nopietnas ceļmalas sankcijas, kas piemērojamas krimināla līmeņa alkohola reibuma gadījumā, aizliegtām koncentrācijām vai likumīga pieprasījuma noraidīšanai."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Aizdedzes bloķēšanas ierīce",
+"description":"Ierīce, kas mēra alkohola līmeni izelpā un neļauj transportlīdzeklim iedarbināties, ja rādījums pārsniedz noteikto slieksni."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"SafeRoads Alberta",
+"description":"Administratīvā nozare, kas izskata iebildumus pret provinces sodiem par braukšanu alkohola reibumā un transportlīdzekļu konfiskāciju."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Reģistratūras atkārtotas izskatīšanas process",
+"description":"Process, ko izmanto, lai pieprasītu pārskatīt administratīvos lēmumus, kas saistīti ar braukšanu alkohola reibumā."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Piekabes drošības ķēdes",
+"description":"Droši nostiprinātas ķēdes, kas sakrustotas zem piekabes mēles, lai nodrošinātu sekundāru savienojumu."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Avārijas atvienošanas sistēma",
+"description":"Piekabes drošības sistēma, kas paredzēta aktivizēšanai, ja piekabe atdalās no velkošā transportlīdzekļa."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Novirzīšanās no trajektorijas",
+"description":"Piekabes riteņu tendence sekot trajektorijai velkošā transportlīdzekļa riteņu ietajā trajektorijā."
+}
+]

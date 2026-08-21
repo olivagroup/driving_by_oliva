@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"段階的運転免許制度(GDL)",
+"description":"アルバータ州の段階的免許取得プログラムは、新規運転者が管理された環境下で技能と経験を積むことを可能にするものです。"
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"クラス7の仮免許証",
+"description":"GDLの最初の段階では、学習者向けの条件下で監督下での運転が許可されます。"
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"クラス5-GDL免許",
+"description":"アルバータ州のGDLプログラムの第2段階で取得する仮免許。"
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"フルクラス5免許",
+"description":"乗用車およびその他の対象となる軽自動車を単独で運転することを許可する、GDL(段階的運転免許制度)に該当しない免許。"
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"知識テスト",
+"description":"道路交通規則、安全運転方法、道路標識に関する、コンピュータを用いた多肢選択式テスト。"
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"ロードテスト",
+"description":"車両の操縦性、観察力、判断力、および交通規則の遵守に関する実践的な評価。"
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"視力検査",
+"description":"運転者がアルバータ州の最低視力基準を満たしていることを確認するための必須チェック。"
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"登記代理人",
+"description":"アルバータ州公認の事務所で、免許交付、登録、試験、免許更新などのサービスを提供しています。"
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"運転免許試験官",
+"description":"路上試験を実施し、申請者が必要な運転技能を備えているかどうかを評価する権限を持つ者。"
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"エアブレーキ資格(Q)",
+"description":"空気ブレーキのみ、または空気ブレーキと油圧ブレーキを組み合わせた車両を運転するには、免許証の特定の追加資格が必要です。"
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"コンディションコード",
+"description":"運転免許証に記載されるコードで、矯正レンズの使用など、特別な運転要件を識別するためのもの。"
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"承認コード",
+"description":"運転手が特定の訓練を修了している、または特別な装備を備えた車両を運転できることを示すコード。"
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"減点",
+"description":"特定の交通違反で有罪判決を受けた場合、運転記録に点数が加算されます。"
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"運転記録証明書",
+"description":"運転違反歴、免許停止処分、その他の免許関連情報を示す公式記録。"
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"交通信号",
+"description":"交差点や合流地点での交通の流れを制御するために使用される、赤、黄、または緑の信号。"
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"赤色点灯",
+"description":"停止線、横断歩道、または交差点の手前で完全に停止することを義務付ける信号。"
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"黄色点灯",
+"description":"信号が赤に変わるので、安全に停止できない場合を除き、運転者は停止しなければならないという警告。"
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"緑色の点灯",
+"description":"交差点を通過することを許可する信号機だが、同時に適切な譲り合いの規則も要求する。"
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"点滅する赤色ライト",
+"description":"一時停止標識と同様に扱われる信号で、完全に停止した後、進行する前に譲り合う必要がある。"
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"点滅する黄色ライト",
+"description":"車両や歩行者に道を譲った後、ドライバーが慎重に進行することを許可する信号。"
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"緑色の点滅ライト",
+"description":"停止せずに移動や方向転換を許可する信号であり、同時に運転者に対し、他の道路利用者に道を譲ることを要求する。"
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"車線変更信号",
+"description":"頭上の赤い×印または緑の矢印は、指定された方向の車線が閉鎖されているか、使用可能であるかを示します。"
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"規制標識",
+"description":"道路利用者が行うべきこと、行ってはならないこと(速度、右左折、駐車、通行規則など)を示す標識。"
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"警告標識",
+"description":"危険箇所、道路状況、交差点、横断箇所、または必要な行動を事前に知らせる標識。"
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"許可標識",
+"description":"白い四角の中に緑色の円が表示されている場合、その動作が許可されていることを示します。"
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"禁止標識",
+"description":"白い標識に赤い円と斜線が入っており、示された行為が禁止されていることを示しています。"
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"停止標識",
+"description":"安全に進行するためには、完全に停止し、道を譲ることを義務付ける規制標識。"
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"一時停止標識",
+"description":"運転手に対し、減速し、停止する準備をし、必要に応じて優先権を譲るよう求める標識。"
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"制限速度",
+"description":"理想的な条件下での法定最高速度であり、必ずしも劣悪な条件下での安全な速度を意味するものではない。"
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"スクールゾーン",
+"description":"学校の標識と速度制限標識が設置されている区域で、特別な速度制限と追い越し制限が適用される。"
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"学区",
+"description":"学校標識が設置されているが速度標識は付いておらず、運転者に注意を促す区域。"
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"遊び場ゾーン",
+"description":"遊具施設を示す標識と速度制限標識が設置されている区域で、速度制限と追い越し制限が適用される。"
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"遊び場エリア",
+"description":"遊具の標識があるが速度標識がない区域。子供が近くにいる可能性があることを警告している。"
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"工事区域",
+"description":"道路工事区域では、標識に示された速度制限、警告標識、および交通整理員の指示に従わなければならない。"
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"予約車線",
+"description":"バス、タクシー、自転車、高乗車率車両など、特定の道路利用者のために指定された車線。"
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"実線",
+"description":"一般的に、追い越しや車線変更のために横断することを禁止する路面標示。"
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"破線",
+"description":"安全な場合に横断、追い越し、または車線変更を許可する路面標示。"
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"イエローライン",
+"description":"対向車線を分離する路面標示。"
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"白線",
+"description":"同じ方向に走行する車両を分離する路面標示。"
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"停止線",
+"description":"交差点や踏切において、車両が停止しなければならない場所を示す路面標示。"
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"横断歩道",
+"description":"歩行者が横断する、標識のある、または標識のない区域。運転者は必要に応じて歩行者に道を譲らなければならない。"
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"自転車専用レーン",
+"description":"自転車専用に区画されたレーンで、自動車は右左折など許可された場合にのみ進入できる。"
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"共用車線",
+"description":"自転車も同じ車線を使用できることをドライバーに知らせるために、車線に標識が設置されている。"
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"死角",
+"description":"車両のミラーでは見えない、車両の横またはやや後方の領域。"
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"ショルダーチェック",
+"description":"ミラーでは見えない部分を確認するために、肩越しにちらりと後ろを振り返る。"
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"スペースクッション",
+"description":"車両の周囲には、停止したり危険を回避したりするためのスペースを確保するために、一定の空間が維持されている。"
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"車間距離",
+"description":"自車と前方車両との間に維持される時間と空間。"
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"2秒ルール",
+"description":"通常の道路状況および天候条件下における、推奨される最低車間距離。"
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"知覚時間",
+"description":"状況を認識し、停止または別の対応が必要であることを理解するのに必要な時間。"
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"反応時間",
+"description":"アクセルペダルからブレーキペダルに足を移動させるなど、危険に反応するのに必要な時間。"
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"制動距離",
+"description":"車両がブレーキをかけてから停止するまでの走行距離。"
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"総停止距離",
+"description":"知覚、反応、制動の過程で移動した合計距離。"
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"しきい値ブレーキ",
+"description":"車輪がロックする直前までしっかりとブレーキをかけ、操縦性を維持する。"
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"アンチロックブレーキシステム(ABS)",
+"description":"ブレーキ圧を周期的に変化させることで、ホイールロックを防ぎ、操舵制御を維持するシステム。"
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"摩擦点",
+"description":"マニュアルトランスミッションにおいて、エンジンの動力が車輪に伝達され始めるクラッチの位置。"
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"クラッチ操作",
+"description":"クラッチペダルに不必要に足を乗せると、クラッチの摩耗が増加する。"
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"平行駐車",
+"description":"縁石と平行に、車両間のスペースに駐車する。"
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"アングルパーキング",
+"description":"斜めに配置された駐車スペースに駐車すること。一般的には、車線に対して約45度の角度で駐車する。"
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"直角駐車",
+"description":"縁石に対して90度の角度で配置された駐車スペースに駐車すること。"
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"通行権",
+"description":"どの道路利用者が道を譲らなければならず、どの道路利用者が進行できるかを定める規則。"
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"制御交差点",
+"description":"交通標識、信号機、またはその両方によって規制される交差点。"
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"信号のない交差点",
+"description":"標識や信号機のない交差点で、運転者は一般的に右側の車両に道を譲る。"
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"礼儀コーナー",
+"description":"3方向または4方向の停止標識で、最初に到着した車両が優先的に進行するか、複数の車両が同時に到着した場合は右側の車両が優先的に進行する。"
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"ロータリー交差点",
+"description":"交通が反時計回りに進行し、進入する車両は既に交差点内にいる車両に道を譲る円形交差点。"
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"ロータリー",
+"description":"速度を落とすことを目的として、より緩やかなカーブで設計された円形交差点。"
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"二車線ターン",
+"description":"2つの標識付き右折レーンのうちの1つから、対応する目的地レーンへ曲がること。"
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"双方向左折レーン",
+"description":"左折準備をする際に、両方向からの車両が共有する中央車線。"
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Uターン",
+"description":"対向車線を利用して反対方向に走行するために、車両の向きを変える操作。"
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"追い越し車線",
+"description":"高速道路に車線を追加することで、より速い車両が遅い車両を安全に追い越せるようにする。"
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"緊急停車レーン",
+"description":"高速道路の路肩は、緊急停車や車両トラブル発生時のみに使用し、通常の走行や追い越しには使用しない。"
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"加速車線",
+"description":"速度を上げて交通の流れに合わせ、本線に合流するために使用される車線。"
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"減速車線",
+"description":"高速道路や主要道路から降りる際に、速度を落とすために使用される車線。"
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"マージ",
+"description":"2つの道路が1つの道路に合流する地点で、交通を安全に融合させるための共通のプロセス。"
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"織りゾーン",
+"description":"進入車両は加速し、退出車両は減速する共有車線。"
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"スキッド",
+"description":"タイヤのグリップ力低下によって車両の制御が失われること。"
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"ブレーキングスリップ",
+"description":"ABS非搭載車両において、ブレーキをかけた際に車輪がロックしてスリップが発生する現象。"
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"パワースキッド",
+"description":"急加速によって駆動輪が空転し、スリップが発生する現象。"
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"コーナリング時のスキッド",
+"description":"旋回中に速度を出しすぎたために発生する横滑り。"
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"ハイドロプレーニング",
+"description":"濡れた路面とのタイヤの接触が失われると、車両の制御を失う可能性がある。"
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"ブラックアイス",
+"description":"路面上の水分が凍結してできた、目に見えにくい氷の層。"
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"オフロードリカバリー",
+"description":"路面から外れた後、減速して徐々に車道に戻る制御されたプロセス。"
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"ハザード警告灯",
+"description":"四方向点滅灯は、車両が停止していること、または危険な状態にあることを他の車両に警告するために使用される。"
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"積極的な運転",
+"description":"危険を予測し、早期に行動を起こして危険を軽減、最小化、または回避すること。"
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"ビジュアルリードタイム",
+"description":"運転手が危険に対応する時間を確保するために、前方を注意深く確認する距離を秒単位で計測したもの。"
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"固定ハザード",
+"description":"カーブ、坂道、交差点、隠れた私道など、道路上の恒久的な状態。"
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"変動する危険",
+"description":"歩行者、凍結路面、緊急車両、または青信号の継続など、変化する状況。"
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"わき見運転",
+"description":"運転中に、携帯電話の使用、メールの送信、読書、機器の操作、身だしなみを整えるなどの行為によって注意力が散漫になること。"
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"チャイルドシート",
+"description":"お子様の年齢または体重に合わせて選定され、製造元の指示に従って取り付けられた、承認済みのチャイルドシート。"
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"互換性のあるチャイルドシートを車両に固定するために使用される汎用アンカーシステム。"
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"ブースターシート",
+"description":"車両のシートベルトを正しく使用できるよう、子供を適切な位置に固定する認可済みのチャイルドシート。"
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"脆弱な道路利用者",
+"description":"歩行者、自転車利用者、またはオートバイ運転者で、密閉型車両の乗員よりも身体的な保護が少ない人。"
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"スクールバスの黄色ライト",
+"description":"スクールバスが減速し、停車準備をしていることを示す警告灯が交互に点灯する。"
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"スクールバスの赤信号",
+"description":"交互に点灯する信号機は、生徒がバスに乗降する際、またはバスの近くを横断する際に、該当する交通車両を停止させるよう指示する。"
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"除雪車警告灯",
+"description":"前方に除雪車が走行していることを示す、黄色と赤色の点滅灯。"
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"踏切",
+"description":"道路が鉄道線路と交差する場所で、運転者は列車に道を譲らなければならない。"
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"鉄道クロスバック",
+"description":"列車に道を譲るよう運転者に求める、X字型の踏切標識。"
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"ライトレールトランジット(LRT)",
+"description":"静かで電気で動く鉄道システムであり、踏切は他の鉄道踏切と同様に扱う必要がある。"
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"葬列",
+"description":"ヘッドライトを点灯した車両が密集した列で、安全が確保された場合は交差点を一緒に通過することができる。"
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"飲酒運転",
+"description":"アルコール、薬物、医薬品、またはその他の要因によって運転能力が低下した状態で車両を運転すること。"
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"即時路上制裁(IRS)",
+"description":"アルバータ州における飲酒運転に対する行政罰強化プログラム。"
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRSゼロ:初心者",
+"description":"7種免許取得希望者および5種免許取得段階(GDL)取得者を対象とした、アルコールおよび薬物に対するゼロトレランス(一切容認しない)プログラム。"
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRSゼロ:商業",
+"description":"商業目的で運転する運転手を対象とした、アルコールおよび薬物に関するゼロトレランス(一切容認しない)プログラム。"
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: 警告",
+"description":"運転者の血中アルコール濃度が規定の警告基準値に達した場合に適用される、路上での制裁措置。"
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS:失敗",
+"description":"犯罪レベルの酩酊状態、禁止されている濃度での運転、または正当な要求の拒否に対しては、路上での厳しい制裁措置が適用される。"
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"イグニッションインターロック装置",
+"description":"呼気中のアルコール濃度を測定し、その値が閾値を超えた場合に車両の始動を防止する装置。"
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"セーフロード・アルバータ",
+"description":"州による飲酒運転罰則および車両押収に対する異議申し立てを審査する行政部門。"
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"登録官再検討プロセス",
+"description":"飲酒運転以外の事案に関する行政処分に対する再審査を請求する際に用いられる手続き。"
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"トレーラー安全チェーン",
+"description":"トレーラーの牽引部の下で交差するようにしっかりと固定されたチェーンが、二次的な接続部として機能している。"
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"緊急分離システム",
+"description":"トレーラーが牽引車両から分離した場合に作動するように設計されたトレーラー安全システム。"
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"追跡外",
+"description":"トレーラーの車輪が、牽引車の車輪がたどる経路の内側をたどる傾向。"
+}
+]
