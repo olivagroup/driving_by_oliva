@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "englishName": "Legend",
+    "category": "Graduated Driver Licensing (GDL)",
+    "description": "Alberta’s staged licensing program that allows new drivers to gain skills and experience under controlled conditions."
+  },
+  {
+    "id": 2,
+    "englishName": "Legend",
+    "category": "Class 7 Learner’s Licence",
+    "description": "The first GDL stage, allowing supervised driving under learner conditions."
+  },
+  {
+    "id": 3,
+    "englishName": "Legend",
+    "category": "Class 5-GDL Licence",
+    "description": "A probationary licence held during the second stage of Alberta’s GDL program."
+  },
+  {
+    "id": 4,
+    "englishName": "Legend",
+    "category": "Full Class 5 Licence",
+    "description": "A non-GDL licence permitting independent operation of cars and other eligible light vehicles."
+  },
+  {
+    "id": 5,
+    "englishName": "Legend",
+    "category": "Knowledge Test",
+    "description": "A computerized multiple-choice test covering road rules, safe driving practices, and road signs."
+  },
+  {
+    "id": 6,
+    "englishName": "Legend",
+    "category": "Road Test",
+    "description": "A practical assessment of vehicle handling, observation, judgement, and compliance with road rules."
+  },
+  {
+    "id": 7,
+    "englishName": "Legend",
+    "category": "Vision Assessment",
+    "description": "A required check confirming that a driver meets Alberta’s minimum vision standards."
+  },
+  {
+    "id": 8,
+    "englishName": "Legend",
+    "category": "Registry Agent",
+    "description": "An authorized Alberta office providing services such as licensing, registration, testing, and licence updates."
+  },
+  {
+    "id": 9,
+    "englishName": "Legend",
+    "category": "Driver Examiner",
+    "description": "A person authorized to conduct road tests and assess whether applicants have the required driving skills."
+  },
+  {
+    "id": 10,
+    "englishName": "Legend",
+    "category": "Air Brake Endorsement (Q)",
+    "description": "A licence endorsement required to operate vehicles with air-only or combined air and hydraulic brakes."
+  },
+  {
+    "id": 11,
+    "englishName": "Legend",
+    "category": "Condition Code",
+    "description": "A code placed on a licence to identify a special driving requirement, such as corrective lenses."
+  },
+  {
+    "id": 12,
+    "englishName": "Legend",
+    "category": "Endorsement Code",
+    "description": "A code showing that a driver has completed specific training or may operate specially equipped vehicles."
+  },
+  {
+    "id": 13,
+    "englishName": "Legend",
+    "category": "Demerit Points",
+    "description": "Points recorded against a driving record following conviction for certain traffic offences."
+  },
+  {
+    "id": 14,
+    "englishName": "Legend",
+    "category": "Driver’s Abstract",
+    "description": "An official record showing driving convictions, suspensions, and other licensing information."
+  },
+  {
+    "id": 15,
+    "englishName": "Legend",
+    "category": "Traffic Control Signal",
+    "description": "A red, yellow, or green light used to control traffic flow at intersections or merging roadways."
+  },
+  {
+    "id": 16,
+    "englishName": "Legend",
+    "category": "Solid Red Light",
+    "description": "A signal requiring a complete stop before the stop line, crosswalk, or intersection."
+  },
+  {
+    "id": 17,
+    "englishName": "Legend",
+    "category": "Solid Yellow Light",
+    "description": "A warning that the signal is changing to red and drivers must stop unless stopping cannot be done safely."
+  },
+  {
+    "id": 18,
+    "englishName": "Legend",
+    "category": "Solid Green Light",
+    "description": "A signal permitting movement through an intersection while still requiring applicable yielding."
+  },
+  {
+    "id": 19,
+    "englishName": "Legend",
+    "category": "Flashing Red Light",
+    "description": "A signal treated like a stop sign, requiring a complete stop followed by yielding before proceeding."
+  },
+  {
+    "id": 20,
+    "englishName": "Legend",
+    "category": "Flashing Yellow Light",
+    "description": "A signal allowing drivers to proceed cautiously after yielding to traffic and pedestrians."
+  },
+  {
+    "id": 21,
+    "englishName": "Legend",
+    "category": "Flashing Green Light",
+    "description": "A signal allowing movement or turns without stopping while requiring drivers to yield to lawful road users."
+  },
+  {
+    "id": 22,
+    "englishName": "Legend",
+    "category": "Lane Reversal Signal",
+    "description": "An overhead red X or green arrow controlling whether a lane is closed or available in the indicated direction."
+  },
+  {
+    "id": 23,
+    "englishName": "Legend",
+    "category": "Regulatory Sign",
+    "description": "A sign indicating what road users must or must not do, including speed, turn, parking, and access rules."
+  },
+  {
+    "id": 24,
+    "englishName": "Legend",
+    "category": "Warning Sign",
+    "description": "A sign providing advance notice of a hazard, road condition, intersection, crossing, or required action."
+  },
+  {
+    "id": 25,
+    "englishName": "Legend",
+    "category": "Permissive Sign",
+    "description": "A white square with a green circle showing that the indicated action is permitted."
+  },
+  {
+    "id": 26,
+    "englishName": "Legend",
+    "category": "Prohibitive Sign",
+    "description": "A white sign with a red circle and diagonal bar showing that the indicated action is prohibited."
+  },
+  {
+    "id": 27,
+    "englishName": "Legend",
+    "category": "Stop Sign",
+    "description": "A regulatory sign requiring a complete stop and yielding before proceeding safely."
+  },
+  {
+    "id": 28,
+    "englishName": "Legend",
+    "category": "Yield Sign",
+    "description": "A sign requiring a driver to slow, be prepared to stop, and give right-of-way where necessary."
+  },
+  {
+    "id": 29,
+    "englishName": "Legend",
+    "category": "Speed Limit",
+    "description": "The maximum legal speed under ideal conditions, not necessarily a safe speed in poor conditions."
+  },
+  {
+    "id": 30,
+    "englishName": "Legend",
+    "category": "School Zone",
+    "description": "An area marked with a school sign and posted speed limit where special speed and passing restrictions apply."
+  },
+  {
+    "id": 31,
+    "englishName": "Legend",
+    "category": "School Area",
+    "description": "An area marked by a school sign without an attached speed sign, warning drivers to use caution."
+  },
+  {
+    "id": 32,
+    "englishName": "Legend",
+    "category": "Playground Zone",
+    "description": "An area with a playground sign and posted speed limit where reduced-speed and passing restrictions apply."
+  },
+  {
+    "id": 33,
+    "englishName": "Legend",
+    "category": "Playground Area",
+    "description": "An area marked by a playground sign without a speed sign, warning that children may be nearby."
+  },
+  {
+    "id": 34,
+    "englishName": "Legend",
+    "category": "Construction Zone",
+    "description": "A roadway work area where posted speeds, warning signs, and flag-person directions must be obeyed."
+  },
+  {
+    "id": 35,
+    "englishName": "Legend",
+    "category": "Reserved Lane",
+    "description": "A lane designated for specified road users, such as buses, taxis, bicycles, or high-occupancy vehicles."
+  },
+  {
+    "id": 36,
+    "englishName": "Legend",
+    "category": "Solid Line",
+    "description": "A pavement marking that generally prohibits crossing to pass or change lanes."
+  },
+  {
+    "id": 37,
+    "englishName": "Legend",
+    "category": "Broken Line",
+    "description": "A pavement marking that permits crossing to pass or change lanes when it is safe."
+  },
+  {
+    "id": 38,
+    "englishName": "Legend",
+    "category": "Yellow Line",
+    "description": "A pavement marking separating traffic travelling in opposite directions."
+  },
+  {
+    "id": 39,
+    "englishName": "Legend",
+    "category": "White Line",
+    "description": "A pavement marking separating traffic travelling in the same direction."
+  },
+  {
+    "id": 40,
+    "englishName": "Legend",
+    "category": "Stop Line",
+    "description": "A pavement marking showing where a vehicle must stop at an intersection or railway crossing."
+  },
+  {
+    "id": 41,
+    "englishName": "Legend",
+    "category": "Crosswalk",
+    "description": "A marked or unmarked area where pedestrians cross and drivers must yield as required."
+  },
+  {
+    "id": 42,
+    "englishName": "Legend",
+    "category": "Bicycle Lane",
+    "description": "A marked lane reserved for cyclists that motor vehicles may enter only where permitted, such as for turning."
+  },
+  {
+    "id": 43,
+    "englishName": "Legend",
+    "category": "Shared-Use Lane",
+    "description": "A travel lane marked to remind drivers that cyclists may use the same lane."
+  },
+  {
+    "id": 44,
+    "englishName": "Legend",
+    "category": "Blind Spot",
+    "description": "An area beside or slightly behind a vehicle that cannot be seen in its mirrors."
+  },
+  {
+    "id": 45,
+    "englishName": "Legend",
+    "category": "Shoulder Check",
+    "description": "A quick glance over the shoulder to check an area that cannot be seen in the mirrors."
+  },
+  {
+    "id": 46,
+    "englishName": "Legend",
+    "category": "Space Cushion",
+    "description": "Open space maintained around a vehicle to provide room for stopping or avoiding hazards."
+  },
+  {
+    "id": 47,
+    "englishName": "Legend",
+    "category": "Following Distance",
+    "description": "The time and space maintained between your vehicle and the vehicle ahead."
+  },
+  {
+    "id": 48,
+    "englishName": "Legend",
+    "category": "Two-Second Rule",
+    "description": "The minimum recommended following time under normal road and weather conditions."
+  },
+  {
+    "id": 49,
+    "englishName": "Legend",
+    "category": "Perception Time",
+    "description": "The time required to recognize a situation and understand that stopping or another response is needed."
+  },
+  {
+    "id": 50,
+    "englishName": "Legend",
+    "category": "Reaction Time",
+    "description": "The time required to respond to a hazard, such as moving a foot from the accelerator to the brake."
+  },
+  {
+    "id": 51,
+    "englishName": "Legend",
+    "category": "Braking Distance",
+    "description": "The distance a vehicle travels after its brakes are applied until it stops."
+  },
+  {
+    "id": 52,
+    "englishName": "Legend",
+    "category": "Total Stopping Distance",
+    "description": "The combined distance travelled during perception, reaction, and braking."
+  },
+  {
+    "id": 53,
+    "englishName": "Legend",
+    "category": "Threshold Braking",
+    "description": "Firm braking to the point just before the wheels lock, preserving the ability to steer."
+  },
+  {
+    "id": 54,
+    "englishName": "Legend",
+    "category": "Anti-Lock Braking System (ABS)",
+    "description": "A system that cycles brake pressure to help prevent wheel lock and preserve steering control."
+  },
+  {
+    "id": 55,
+    "englishName": "Legend",
+    "category": "Friction Point",
+    "description": "The clutch position where a manual transmission begins connecting engine power to the wheels."
+  },
+  {
+    "id": 56,
+    "englishName": "Legend",
+    "category": "Riding the Clutch",
+    "description": "Unnecessarily resting a foot on the clutch pedal, causing additional clutch wear."
+  },
+  {
+    "id": 57,
+    "englishName": "Legend",
+    "category": "Parallel Parking",
+    "description": "Parking parallel to the curb in a space between vehicles."
+  },
+  {
+    "id": 58,
+    "englishName": "Legend",
+    "category": "Angle Parking",
+    "description": "Parking in a stall positioned diagonally, commonly at approximately 45 degrees to the traffic lane."
+  },
+  {
+    "id": 59,
+    "englishName": "Legend",
+    "category": "Perpendicular Parking",
+    "description": "Parking in a stall positioned at a 90-degree angle to the curb."
+  },
+  {
+    "id": 60,
+    "englishName": "Legend",
+    "category": "Right-of-Way",
+    "description": "Rules determining which road user must yield and which may proceed."
+  },
+  {
+    "id": 61,
+    "englishName": "Legend",
+    "category": "Controlled Intersection",
+    "description": "An intersection regulated by traffic signs, traffic signals, or both."
+  },
+  {
+    "id": 62,
+    "englishName": "Legend",
+    "category": "Uncontrolled Intersection",
+    "description": "An intersection without signs or signals where drivers generally yield to the vehicle on their right."
+  },
+  {
+    "id": 63,
+    "englishName": "Legend",
+    "category": "Courtesy Corner",
+    "description": "A three- or four-way stop where the first vehicle to arrive proceeds first, or the vehicle on the right proceeds when arrivals are simultaneous."
+  },
+  {
+    "id": 64,
+    "englishName": "Legend",
+    "category": "Traffic Circle",
+    "description": "A circular intersection where traffic travels counterclockwise and entering vehicles yield to traffic already inside."
+  },
+  {
+    "id": 65,
+    "englishName": "Legend",
+    "category": "Roundabout",
+    "description": "A circular intersection designed with tighter curves to encourage lower speeds."
+  },
+  {
+    "id": 66,
+    "englishName": "Legend",
+    "category": "Dual-Lane Turn",
+    "description": "A turn made from one of two marked turning lanes into its corresponding destination lane."
+  },
+  {
+    "id": 67,
+    "englishName": "Legend",
+    "category": "Two-Way Left-Turn Lane",
+    "description": "A shared centre lane used by traffic from either direction when preparing to turn left."
+  },
+  {
+    "id": 68,
+    "englishName": "Legend",
+    "category": "U-Turn",
+    "description": "A manoeuvre that turns a vehicle around to travel in the opposite direction using oncoming lanes."
+  },
+  {
+    "id": 69,
+    "englishName": "Legend",
+    "category": "Passing Lane",
+    "description": "An additional highway lane allowing faster traffic to pass slower vehicles safely."
+  },
+  {
+    "id": 70,
+    "englishName": "Legend",
+    "category": "Emergency Stopping Lane",
+    "description": "The highway shoulder reserved for urgent stops or vehicle problems, not normal driving or passing."
+  },
+  {
+    "id": 71,
+    "englishName": "Legend",
+    "category": "Acceleration Lane",
+    "description": "A lane used to increase speed and match the flow of traffic before merging onto a roadway."
+  },
+  {
+    "id": 72,
+    "englishName": "Legend",
+    "category": "Deceleration Lane",
+    "description": "A lane used to reduce speed when exiting a highway or major roadway."
+  },
+  {
+    "id": 73,
+    "englishName": "Legend",
+    "category": "Merging",
+    "description": "The shared process of safely blending traffic where two roadways join into one."
+  },
+  {
+    "id": 74,
+    "englishName": "Legend",
+    "category": "Weave Zone",
+    "description": "A shared lane where entering traffic accelerates while exiting traffic slows."
+  },
+  {
+    "id": 75,
+    "englishName": "Legend",
+    "category": "Skid",
+    "description": "A loss of vehicle control caused by reduced tire traction."
+  },
+  {
+    "id": 76,
+    "englishName": "Legend",
+    "category": "Braking Skid",
+    "description": "A skid caused when braking locks the wheels of a vehicle without ABS."
+  },
+  {
+    "id": 77,
+    "englishName": "Legend",
+    "category": "Power Skid",
+    "description": "A skid caused by accelerating too quickly and making the drive wheels spin."
+  },
+  {
+    "id": 78,
+    "englishName": "Legend",
+    "category": "Cornering Skid",
+    "description": "A sideways slide caused by travelling too quickly while turning."
+  },
+  {
+    "id": 79,
+    "englishName": "Legend",
+    "category": "Hydroplaning",
+    "description": "Loss of tire contact with a wet road surface, which can cause loss of vehicle control."
+  },
+  {
+    "id": 80,
+    "englishName": "Legend",
+    "category": "Black Ice",
+    "description": "A difficult-to-see layer of ice formed when moisture freezes on the road."
+  },
+  {
+    "id": 81,
+    "englishName": "Legend",
+    "category": "Off-Road Recovery",
+    "description": "The controlled process of slowing and gradually returning to the roadway after leaving the pavement."
+  },
+  {
+    "id": 82,
+    "englishName": "Legend",
+    "category": "Hazard Warning Lights",
+    "description": "Four-way flashing lights used to warn others that a vehicle is stopped or presents a hazard."
+  },
+  {
+    "id": 83,
+    "englishName": "Legend",
+    "category": "Proactive Driving",
+    "description": "Anticipating hazards and acting early to reduce, minimize, or avoid danger."
+  },
+  {
+    "id": 84,
+    "englishName": "Legend",
+    "category": "Visual Lead Time",
+    "description": "The distance measured in seconds that a driver scans ahead to allow time to respond to hazards."
+  },
+  {
+    "id": 85,
+    "englishName": "Legend",
+    "category": "Fixed Hazard",
+    "description": "A permanent roadway condition, such as a curve, hill, intersection, or hidden driveway."
+  },
+  {
+    "id": 86,
+    "englishName": "Legend",
+    "category": "Variable Hazard",
+    "description": "A changing condition, such as pedestrians, icy surfaces, emergency vehicles, or stale green lights."
+  },
+  {
+    "id": 87,
+    "englishName": "Legend",
+    "category": "Distracted Driving",
+    "description": "Driving while attention is diverted by activities such as phone use, texting, reading, programming devices, or grooming."
+  },
+  {
+    "id": 88,
+    "englishName": "Legend",
+    "category": "Child Safety Seat",
+    "description": "An approved restraint selected for a child’s age or weight and installed according to manufacturer instructions."
+  },
+  {
+    "id": 89,
+    "englishName": "Legend",
+    "category": "UAS/LATCH",
+    "description": "A universal anchor system used to secure compatible child safety seats to a vehicle."
+  },
+  {
+    "id": 90,
+    "englishName": "Legend",
+    "category": "Booster Seat",
+    "description": "An approved seat that positions a child correctly for use of the vehicle’s seat belt."
+  },
+  {
+    "id": 91,
+    "englishName": "Legend",
+    "category": "Vulnerable Road User",
+    "description": "A pedestrian, cyclist, or motorcycle rider with less physical protection than an enclosed-vehicle occupant."
+  },
+  {
+    "id": 92,
+    "englishName": "Legend",
+    "category": "School Bus Amber Lights",
+    "description": "Alternating warning lights indicating that a school bus is slowing and preparing to stop."
+  },
+  {
+    "id": 93,
+    "englishName": "Legend",
+    "category": "School Bus Red Lights",
+    "description": "Alternating lights requiring applicable traffic to stop while students enter, leave, or cross near the bus."
+  },
+  {
+    "id": 94,
+    "englishName": "Legend",
+    "category": "Snowplow Warning Lights",
+    "description": "Flashing amber and red lights indicating that a snowplow is operating ahead."
+  },
+  {
+    "id": 95,
+    "englishName": "Legend",
+    "category": "Railway Crossing",
+    "description": "A location where a road crosses railway tracks and drivers must yield to trains."
+  },
+  {
+    "id": 96,
+    "englishName": "Legend",
+    "category": "Railway Crossbuck",
+    "description": "An X-shaped railway crossing sign requiring drivers to yield to trains."
+  },
+  {
+    "id": 97,
+    "englishName": "Legend",
+    "category": "Light Rail Transit (LRT)",
+    "description": "A quiet electrically powered rail system whose crossings must be treated like other railway crossings."
+  },
+  {
+    "id": 98,
+    "englishName": "Legend",
+    "category": "Funeral Procession",
+    "description": "A closely grouped line of vehicles with headlights on that may proceed together through an intersection when safe."
+  },
+  {
+    "id": 99,
+    "englishName": "Legend",
+    "category": "Impaired Driving",
+    "description": "Operating a vehicle while alcohol, drugs, medication, or another condition reduces driving ability."
+  },
+  {
+    "id": 100,
+    "englishName": "Legend",
+    "category": "Immediate Roadside Sanctions (IRS)",
+    "description": "Alberta’s escalating administrative penalty program for impaired driving."
+  },
+  {
+    "id": 101,
+    "englishName": "Legend",
+    "category": "IRS ZERO: Novice",
+    "description": "A zero-tolerance alcohol and drug program for Class 7 learner and Class 5-GDL drivers."
+  },
+  {
+    "id": 102,
+    "englishName": "Legend",
+    "category": "IRS ZERO: Commercial",
+    "description": "A zero-tolerance alcohol and drug program for commercial drivers operating in a commercial capacity."
+  },
+  {
+    "id": 103,
+    "englishName": "Legend",
+    "category": "IRS: WARN",
+    "description": "Roadside sanctions applying when a driver’s blood alcohol concentration reaches the specified warning threshold."
+  },
+  {
+    "id": 104,
+    "englishName": "Legend",
+    "category": "IRS: FAIL",
+    "description": "Serious roadside sanctions applying to criminal-level impairment, prohibited concentrations, or refusal of a lawful demand."
+  },
+  {
+    "id": 105,
+    "englishName": "Legend",
+    "category": "Ignition Interlock Device",
+    "description": "A device measuring breath alcohol and preventing a vehicle from starting when the reading exceeds its threshold."
+  },
+  {
+    "id": 106,
+    "englishName": "Legend",
+    "category": "SafeRoads Alberta",
+    "description": "The administrative branch that reviews challenges to provincial impaired-driving penalties and vehicle seizures."
+  },
+  {
+    "id": 107,
+    "englishName": "Legend",
+    "category": "Registrar Reconsideration Process",
+    "description": "The process used to request reviews of non-impaired-driving administrative decisions."
+  },
+  {
+    "id": 108,
+    "englishName": "Legend",
+    "category": "Trailer Safety Chains",
+    "description": "Securely fastened chains crossed beneath a trailer tongue to provide a secondary connection."
+  },
+  {
+    "id": 109,
+    "englishName": "Legend",
+    "category": "Emergency Breakaway System",
+    "description": "A trailer safety system designed to activate if the trailer separates from the towing vehicle."
+  },
+  {
+    "id": 110,
+    "englishName": "Legend",
+    "category": "Off-Tracking",
+    "description": "The tendency of trailer wheels to follow a path inside the path taken by the towing vehicle’s wheels."
+  }
+]
