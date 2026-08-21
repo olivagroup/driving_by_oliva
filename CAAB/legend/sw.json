@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Leseni ya Udereva Iliyohitimu (GDL)",
+"description":"Programu ya leseni ya Alberta inayowaruhusu madereva wapya kupata ujuzi na uzoefu chini ya hali zinazodhibitiwa."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Leseni ya Mwanafunzi wa Darasa la 7",
+"description":"Hatua ya kwanza ya GDL, inayoruhusu udereva unaosimamiwa chini ya hali ya mwanafunzi."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Leseni ya Daraja la 5-GDL",
+"description":"Leseni ya majaribio iliyoshikiliwa wakati wa hatua ya pili ya mpango wa GDL wa Alberta."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Leseni Kamili ya Daraja la 5",
+"description":"Leseni isiyo ya GDL inayoruhusu uendeshaji huru wa magari na magari mengine mepesi yanayostahiki."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Mtihani wa Maarifa",
+"description":"Jaribio la kompyuta la kuchagua njia nyingi linalohusisha sheria za barabara, desturi za kuendesha gari salama, na alama za barabarani."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Jaribio la Barabara",
+"description":"Tathmini ya vitendo ya utunzaji wa magari, uchunguzi, uamuzi, na kufuata sheria za barabarani."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Tathmini ya Maono",
+"description":"Ukaguzi unaohitajika unaothibitisha kwamba dereva anakidhi viwango vya chini vya kuona vya Alberta."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Wakala wa Msajili",
+"description":"Ofisi iliyoidhinishwa ya Alberta inayotoa huduma kama vile leseni, usajili, upimaji, na masasisho ya leseni."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Mkaguzi wa Dereva",
+"description":"Mtu aliyeidhinishwa kufanya majaribio ya barabarani na kutathmini kama waombaji wana ujuzi unaohitajika wa kuendesha gari."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Idhinisho la Breki za Hewa (Q)",
+"description":"Uidhinishaji wa leseni unahitajika ili kuendesha magari yenye breki za hewa pekee au za pamoja za hewa na majimaji."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Nambari ya Masharti",
+"description":"Nambari iliyowekwa kwenye leseni ili kutambua sharti maalum la kuendesha gari, kama vile lenzi za kurekebisha."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Nambari ya Uidhinishaji",
+"description":"Nambari inayoonyesha kwamba dereva amekamilisha mafunzo maalum au anaweza kuendesha magari yenye vifaa maalum."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Pointi za Demerit",
+"description":"Pointi zilizorekodiwa dhidi ya rekodi ya kuendesha gari baada ya kupatikana na hatia kwa makosa fulani ya barabarani."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Muhtasari wa Dereva",
+"description":"Rekodi rasmi inayoonyesha hatia za kuendesha gari, kusimamishwa kazi, na taarifa nyingine za leseni."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Ishara ya Udhibiti wa Trafiki",
+"description":"Taa nyekundu, njano, au kijani inayotumika kudhibiti mtiririko wa magari kwenye makutano au barabara zinazounganisha."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Mwanga Mwekundu Mango",
+"description":"Ishara inayohitaji kusimama kabisa kabla ya mstari wa kusimama, njia panda, au makutano."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Mwanga Mango wa Njano",
+"description":"Onyo kwamba ishara inabadilika kuwa nyekundu na madereva lazima wasimame isipokuwa kusimama hakuwezi kufanywa kwa usalama."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Mwanga wa Kijani Mango",
+"description":"Ishara inayoruhusu mwendo kupitia makutano huku ikihitaji mteremko unaofaa."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Mwanga Mwekundu Unaowaka",
+"description":"Ishara inayotendewa kama ishara ya kusimama, inayohitaji kusimama kabisa ikifuatiwa na kushuka kabla ya kuendelea."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Mwanga wa Njano Unaowaka",
+"description":"Ishara inayowaruhusu madereva kuendelea kwa tahadhari baada ya kukubali msongamano wa magari na watembea kwa miguu."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Mwanga wa Kijani Unaowaka",
+"description":"Ishara inayoruhusu mwendo au zamu bila kusimama huku ikiwataka madereva kuwatii watumiaji halali wa barabara."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Ishara ya Kurudi Nyuma ya Njia",
+"description":"Mshale mwekundu wa X au kijani unaoongoza juu unaodhibiti kama njia imefungwa au inapatikana katika mwelekeo ulioonyeshwa."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Ishara ya Udhibiti",
+"description":"Ishara inayoonyesha kile ambacho watumiaji wa barabara lazima wafanye au wasifanye, ikiwa ni pamoja na kasi, kugeuka, maegesho, na sheria za ufikiaji."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Ishara ya Onyo",
+"description":"Bango linalotoa taarifa mapema kuhusu hatari, hali ya barabara, makutano, kivuko, au hatua zinazohitajika kuchukuliwa."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Ishara ya Ruhusa",
+"description":"Mraba mweupe wenye duara la kijani unaoonyesha kwamba kitendo kilichoonyeshwa kinaruhusiwa."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Ishara ya Kukataza",
+"description":"Ishara nyeupe yenye duara jekundu na upau wa mlalo unaoonyesha kuwa kitendo kilichoonyeshwa ni marufuku."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Ishara ya Kusimama",
+"description":"Ishara ya udhibiti inayohitaji kusimama kabisa na kukubali kabla ya kuendelea salama."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Ishara ya Mavuno",
+"description":"Ishara inayomtaka dereva kupunguza mwendo, kuwa tayari kusimama, na kutoa njia panapohitajika."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Kikomo cha Kasi",
+"description":"Kasi ya juu zaidi halali chini ya hali bora, si lazima iwe kasi salama katika hali mbaya."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Eneo la Shule",
+"description":"Eneo lililowekwa alama ya shule na kikomo cha mwendo ambapo vikwazo maalum vya mwendo na kupita vinatumika."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Eneo la Shule",
+"description":"Eneo lililowekwa alama ya shule bila alama ya mwendo iliyoambatanishwa, likiwaonya madereva kuchukua tahadhari."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Eneo la Uwanja wa Michezo",
+"description":"Eneo lenye ishara ya uwanja wa michezo na kikomo cha kasi kilichowekwa ambapo vikwazo vya kasi na kupita vinatumika."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Eneo la Uwanja wa Michezo",
+"description":"Eneo lililowekwa alama ya uwanja wa michezo bila alama ya mwendo kasi, ikionya kwamba watoto wanaweza kuwa karibu."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Eneo la Ujenzi",
+"description":"Eneo la kazi barabarani ambapo kasi zilizowekwa, ishara za onyo, na maelekezo ya watu wanaotembea kwa bendera lazima yafuatwe."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Njia Iliyohifadhiwa",
+"description":"Njia iliyotengwa kwa watumiaji maalum wa barabara, kama vile mabasi, teksi, baiskeli, au magari yanayotumia watu wengi."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Mstari Mango",
+"description":"Alama ya barabara ambayo kwa ujumla inakataza kuvuka ili kupita au kubadilisha njia."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Mstari Uliovunjika",
+"description":"Alama ya barabara inayoruhusu kuvuka au kubadilisha njia wakati ni salama."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Mstari wa Njano",
+"description":"Barabara inayoashiria kutenganisha magari yanayosafiri pande tofauti."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Mstari Mweupe",
+"description":"Barabara inayoashiria kutenganisha magari yanayosafiri katika mwelekeo mmoja."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Mstari wa Kusimama",
+"description":"Alama ya barabara inayoonyesha mahali ambapo gari lazima lisimame kwenye makutano au kivuko cha reli."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Njia ya kuvuka",
+"description":"Eneo lililowekwa alama au lisilo na alama ambapo watembea kwa miguu huvuka na madereva lazima waelekee kama inavyohitajika."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Njia ya Baiskeli",
+"description":"Njia iliyo na alama iliyotengwa kwa ajili ya waendesha baiskeli ambayo magari yanaweza kuingia pale tu inaporuhusiwa, kama vile kwa kugeuka."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Njia ya Matumizi ya Pamoja",
+"description":"Njia ya usafiri iliyotiwa alama kuwakumbusha madereva kwamba waendesha baiskeli wanaweza kutumia njia hiyo hiyo."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Kipofu",
+"description":"Eneo lililo kando au nyuma kidogo ya gari ambalo halionekani kwenye vioo vyake."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Ukaguzi wa Mabega",
+"description":"Mtazamo wa haraka juu ya bega ili kuangalia eneo ambalo halionekani kwenye vioo."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Mto wa Anga",
+"description":"Nafasi wazi inayotunzwa kuzunguka gari ili kutoa nafasi ya kusimama au kuepuka hatari."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Umbali wa Kufuata",
+"description":"Muda na nafasi iliyohifadhiwa kati ya gari lako na gari lililo mbele."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Kanuni ya Sekunde Mbili",
+"description":"Kiwango cha chini kinachopendekezwa baada ya muda chini ya hali ya kawaida ya barabara na hali ya hewa."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Muda wa Kutambua",
+"description":"Muda unaohitajika kutambua hali na kuelewa kwamba kusimama au jibu lingine linahitajika."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Muda wa Mwitikio",
+"description":"Muda unaohitajika ili kukabiliana na hatari, kama vile kusogeza mguu mmoja kutoka kwa kiharusi hadi kwenye breki."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Umbali wa Breki",
+"description":"Umbali ambao gari husafiri baada ya breki zake kufungwa hadi litakaposimama."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Umbali wa Jumla wa Kusimama",
+"description":"Umbali wa pamoja uliosafiri wakati wa utambuzi, mwitikio, na breki."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Breki ya Kizingiti",
+"description":"Kusimama imara hadi hatua kabla tu ya magurudumu kufunga, na hivyo kuhifadhi uwezo wa kuendesha."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Mfumo wa Kuzuia Kufunga Breki (ABS)",
+"description":"Mfumo unaoendesha shinikizo la breki ili kusaidia kuzuia kufuli kwa gurudumu na kuhifadhi udhibiti wa usukani."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Sehemu ya Msuguano",
+"description":"Nafasi ya clutch ambapo gia ya mwongozo huanza kuunganisha nguvu ya injini na magurudumu."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Kuendesha Clutch",
+"description":"Kupumzisha mguu bila lazima kwenye kanyagio cha clutch, na kusababisha uchakavu zaidi wa clutch."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Maegesho Sambamba",
+"description":"Maegesho sambamba na ukingo wa barabara katika nafasi kati ya magari."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Maegesho ya Pembe",
+"description":"Maegesho katika kibanda kilichowekwa kwa mlalo, kwa kawaida kwenye takriban digrii 45 kutoka kwenye njia ya trafiki."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Maegesho ya Mstari",
+"description":"Maegesho katika kibanda kilichowekwa kwa pembe ya digrii 90 kuelekea ukingoni."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Kulia kwa Njia",
+"description":"Sheria zinazoamua ni mtumiaji gani wa barabara anayepaswa kutoa na ni yupi anayeweza kuendelea."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Makutano Yanayodhibitiwa",
+"description":"Makutano yanayodhibitiwa na alama za trafiki, ishara za trafiki, au vyote viwili."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Makutano Yasiyodhibitiwa",
+"description":"Makutano yasiyo na ishara au ishara ambapo madereva kwa ujumla huelekea kwenye gari lililo upande wao wa kulia."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Kona ya Hisani",
+"description":"Kituo cha njia tatu au nne ambapo gari la kwanza kufika linaendelea kwanza, au gari lililo upande wa kulia linaendelea wakati wanaofika ni wakati mmoja."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Mzunguko wa Trafiki",
+"description":"Makutano ya mviringo ambapo trafiki husafiri kinyume cha saa na magari yanayoingia hukutana na trafiki iliyo ndani."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Mzunguko",
+"description":"Makutano ya mviringo yaliyoundwa kwa mikunjo mikali zaidi ili kuhimiza kasi ya chini."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Kugeuka kwa Njia Mbili",
+"description":"Mzunguko uliofanywa kutoka kwa moja ya njia mbili za kugeuka zilizo na alama hadi kwenye njia inayolingana ya kuelekea."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Njia ya Kugeuka Kushoto ya Njia Mbili",
+"description":"Njia ya katikati inayotumiwa na trafiki kutoka pande zote mbili wakati wa kujiandaa kugeuka kushoto."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Kugeuka U",
+"description":"Ujanja unaogeuza gari ili lisafiri upande mwingine kwa kutumia njia zinazokuja."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Njia ya Kupita",
+"description":"Njia ya ziada ya barabara kuu inayoruhusu trafiki ya kasi kupita magari yanayofanya mwendo wa polepole kwa usalama."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Njia ya Kusimamisha Dharura",
+"description":"Bega la barabara kuu limetengwa kwa ajili ya kusimama kwa dharura au matatizo ya gari, si kuendesha gari au kupita kawaida."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Njia ya Kuongeza Kasi",
+"description":"Njia inayotumika kuongeza kasi na kulinganisha mtiririko wa magari kabla ya kuungana na barabara."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Njia ya Kupunguza Upeo",
+"description":"Njia inayotumika kupunguza kasi wakati wa kutoka barabara kuu au barabara kuu."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Kuunganisha",
+"description":"Mchakato wa pamoja wa kuchanganya trafiki kwa usalama ambapo barabara mbili hujiunga na kuwa moja."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Eneo la Kufuma",
+"description":"Njia ya pamoja ambapo trafiki inayoingia huongezeka kasi huku trafiki inayotoka ikipungua."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Skid",
+"description":"Kupoteza udhibiti wa gari kunakosababishwa na kupungua kwa mvutano wa matairi."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Kuteleza kwa Breki",
+"description":"Kuteleza kunakosababishwa na breki kunakofunga magurudumu ya gari bila ABS."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Kitelezi cha Nguvu",
+"description":"Kuteleza kunakosababishwa na kuongeza kasi haraka sana na kufanya magurudumu ya kuendesha yazunguke."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Kuteleza kwa Pembeni",
+"description":"Kuteleza kwa pembeni kunakosababishwa na kusafiri haraka sana wakati wa kugeuka."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Upangaji wa maji",
+"description":"Kupoteza mguso wa tairi kwenye uso wa barabara wenye unyevunyevu, jambo ambalo linaweza kusababisha upotevu wa udhibiti wa gari."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Barafu Nyeusi",
+"description":"Safu ya barafu ambayo ni vigumu kuonekana huundwa wakati unyevu unapoganda barabarani."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Urejeshaji wa Nje ya Barabara",
+"description":"Mchakato unaodhibitiwa wa kupunguza mwendo na kurudi polepole barabarani baada ya kuacha barabara."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Taa za Onyo la Hatari",
+"description":"Taa zenye mwanga wa pande nne zinazotumika kuwaonya wengine kwamba gari limesimamishwa au lina hatari."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Kuendesha Gari kwa Uendeshaji",
+"description":"Kutabiri hatari na kuchukua hatua mapema ili kupunguza, kupunguza, au kuepuka hatari."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Muda wa Kuongoza Unaoonekana",
+"description":"Umbali unaopimwa kwa sekunde ambazo dereva huchanganua mbele ili kutoa muda wa kukabiliana na hatari."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Hatari Iliyorekebishwa",
+"description":"Hali ya kudumu ya barabara, kama vile mkunjo, kilima, makutano, au njia ya kuingilia iliyofichwa."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Hatari Inayobadilika",
+"description":"Hali inayobadilika, kama vile watembea kwa miguu, nyuso zenye barafu, magari ya dharura, au taa za kijani zilizochakaa."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Kuendesha Gari kwa Kuvurugika",
+"description":"Kuendesha gari huku umakini ukielekezwa kwenye shughuli kama vile matumizi ya simu, kutuma ujumbe mfupi, kusoma, vifaa vya programu, au kujipamba."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Kiti cha Usalama wa Mtoto",
+"description":"Kizuizi kilichoidhinishwa kilichochaguliwa kwa umri au uzito wa mtoto na kusakinishwa kulingana na maagizo ya mtengenezaji."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"Mfumo wa nanga wa ulimwengu wote unaotumika kushikilia viti vya usalama vya watoto vinavyoendana na gari."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Kiti cha Nyongeza",
+"description":"Kiti kilichoidhinishwa kinachomweka mtoto mahali pazuri kwa matumizi ya mkanda wa kiti cha gari."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Mtumiaji wa Barabara Iliyo Katika Mazingira Hatarini",
+"description":"Mpanda baiskeli, mtembea kwa miguu, au pikipiki mwenye ulinzi mdogo wa kimwili kuliko abiria aliyefungwa kwenye gari."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Taa za Kahawia za Basi la Shule",
+"description":"Taa za onyo zinazobadilishana zinaonyesha kwamba basi la shule linapungua mwendo na linajiandaa kusimama."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Taa Nyekundu za Basi la Shule",
+"description":"Taa zinazobadilishana zinazohitaji trafiki inayohitajika kusimama wakati wanafunzi wanapoingia, kuondoka, au kuvuka karibu na basi."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Taa za Onyo la Kulima Theluji",
+"description":"Taa za kaharabu na nyekundu zinazowaka zinaonyesha kwamba jembe la theluji linafanya kazi mbele."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Kivuko cha Reli",
+"description":"Mahali ambapo barabara inapita kwenye njia za reli na madereva lazima wakubali treni."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Railway Crossbuck",
+"description":"Bango la kivuko cha reli lenye umbo la X linalowataka madereva kukubali treni."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Usafiri wa Reli Nyepesi (LRT)",
+"description":"Mfumo wa reli tulivu unaotumia umeme ambao vivuko vyake lazima vichukuliwe kama vivuko vingine vya reli."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Maandamano ya Mazishi",
+"description":"Mstari wa magari uliopangwa kwa karibu ukiwa na taa za mbele ambazo zinaweza kuendelea pamoja kupitia makutano ya magari zikiwa salama."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Uendeshaji Ulioharibika",
+"description":"Kuendesha gari ukiwa umelewa pombe, dawa za kulevya, dawa za kulevya, au hali nyingine hupunguza uwezo wa kuendesha gari."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Vikwazo vya Mara Moja vya Barabarani (IRS)",
+"description":"Mpango wa adhabu ya kiutawala unaoongezeka wa Alberta kwa udereva mbovu."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS SIFURI: Mgeni",
+"description":"Programu isiyovumilia pombe na dawa za kulevya kwa wanafunzi wa Darasa la 7 na madereva wa Darasa la 5-GDL."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS SIFURI: Biashara",
+"description":"Programu isiyovumilia pombe na dawa za kulevya kwa madereva wa kibiashara wanaofanya kazi kibiashara."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: ONYO",
+"description":"Vikwazo vya kando ya barabara vinatumika wakati kiwango cha pombe kwenye damu ya dereva kinafikia kiwango maalum cha onyo."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: IMESHINDWA",
+"description":"Vikwazo vikali vya barabarani vinavyotumika kwa uharibifu wa kiwango cha uhalifu, viwango vilivyokatazwa, au kukataa ombi halali."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Kifaa cha Kufunga cha Kuwasha",
+"description":"Kifaa kinachopima pombe inayotoka kwenye pumzi na kuzuia gari kuanza wakati usomaji unazidi kiwango chake."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"Barabara za SafeRoads Alberta",
+"description":"Tawi la utawala linalopitia changamoto za adhabu za kuendesha magari kwa ulemavu wa mkoa na ukamataji wa magari."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Mchakato wa Kuzingatia Upya Msajili",
+"description":"Mchakato huo ulitumika kuomba mapitio ya maamuzi ya kiutawala ya kuendesha gari yasiyo na ulemavu."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Minyororo ya Usalama ya Trela",
+"description":"Minyororo iliyofungwa vizuri iliyovuka chini ya ulimi wa trela ili kutoa muunganisho wa pili."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Mfumo wa Dharura wa Kuvunjika",
+"description":"Mfumo wa usalama wa trela ulioundwa ili kuamilishwa ikiwa trela itatengana na gari la kukokota."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Nje ya Ufuatiliaji",
+"description":"Mwelekeo wa magurudumu ya trela kufuata njia ndani ya njia inayochukuliwa na magurudumu ya gari linalovuta."
+}
+]

@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Licencë Shoferi e Diplomuar (GDL)",
+"description":"Programi i licencimit me faza i Albertësulejon shoferëve të rinj të fitojnë aftësi dhe përvojë në kushte të kontrolluara."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Licencë për nxënësin e klasës së 7-të",
+"description":"Faza e parë GDL, që lejon drejtimin e mbikëqyrur në kushte kur nxënësi është."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Patentë e Klasit 5-GDL",
+"description":"Një licencë provuese e mbajtur gjatë fazës së dytë të programit GDL të Albertës."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Patentë e plotë e klasës 5",
+"description":"Një patentë jo-GDL që lejon drejtimin e pavarur të makinave dhe automjeteve të tjera të lehta të përshtatshme."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Test njohurish",
+"description":"Një test i kompjuterizuar me zgjedhje të shumëfishta që mbulon rregullat e rrugës, praktikat e drejtimit të sigurt dhe sinjalistikën rrugore."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Test Rrugor",
+"description":"Një vlerësim praktik i drejtimit të automjetit, vëzhgimit, gjykimit dhe pajtueshmërisë me rregullat e rrugës."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Vlerësimi i shikimit",
+"description":"Një kontroll i detyrueshëm që konfirmon se një shofer përmbush standardet minimale të shikimit të Albertës."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Agjent i Regjistrit",
+"description":"Një zyrë e autorizuar në Alberta që ofron shërbime të tilla si licencimi, regjistrimi, testimi dhe përditësimet e licencave."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Ekzaminues i Shoferëve",
+"description":"Një person i autorizuar për të kryer teste rrugore dhe për të vlerësuar nëse aplikantët kanë aftësitë e kërkuara të drejtimit të mjetit."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Miratimi i Frenave me Ajër (Q)",
+"description":"Një miratim leje drejtimi i kërkuar për të drejtuar automjete me frena vetëm me ajër ose me frena të kombinuara me ajër dhe hidraulikë."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Kodi i Kushtit",
+"description":"Një kod i vendosur në një leje drejtimi për të identifikuar një kërkesë të veçantë për drejtim, siç janë lentet korrigjuese."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Kodi i Miratimit",
+"description":"Një kod që tregon se një shofer ka përfunduar trajnim specifik ose mund të drejtojë automjete të pajisura posaçërisht."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Pikët e Demeritetit",
+"description":"Pikë të regjistruara kundrejt një historie drejtimi automjetesh pas dënimit për disa shkelje të trafikut."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Abstrakti i Shoferit",
+"description":"Një dokument zyrtar që tregon dënimet për drejtimin e automjeteve, pezullimet dhe informacione të tjera për licencimin."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Sinjali i Kontrollit të Trafikut",
+"description":"Një dritë e kuqe, e verdhë ose jeshile që përdoret për të kontrolluar rrjedhën e trafikut në kryqëzime ose në rrugët që bashkohen."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Dritë e kuqe e vazhdueshme",
+"description":"Një sinjal që kërkon një ndalesë të plotë para vijës së ndalimit, kalimit për këmbësorë ose kryqëzimit."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Dritë e verdhë e fortë",
+"description":"Një paralajmërim se sinjali po ndryshon në të kuqe dhe shoferët duhet të ndalojnë, përveç nëse ndalimi nuk mund të bëhet në mënyrë të sigurt."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Dritë e gjelbër e ndezur",
+"description":"Një sinjal që lejon lëvizjen nëpër një kryqëzim, ndërkohë që kërkon ende përparësi të zbatueshme."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Dritë e kuqe që ndizet",
+"description":"Një sinjal i trajtuar si një shenjë ndalimi, që kërkon një ndalesë të plotë të ndjekur nga hapi i rrugës përpara se të vazhdohet."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Dritë e verdhë që ndizet",
+"description":"Një sinjal qëulejon shoferëve të ecin me kujdes pasiujapin përparësi trafikut dhe këmbësorëve."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Dritë jeshile që ndizet",
+"description":"Një sinjal që lejon lëvizjen ose kthesat pa ndaluar, ndërsaukërkon shoferëve t`u japin përparësi përdoruesve të ligjshëm të rrugës."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Sinjali i ndërrimit të korsisë",
+"description":"Një X i kuq sipër ose një shigjetë jeshile që kontrollon nëse një korsi është e mbyllur ose e disponueshme në drejtimin e treguar."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Shenjë Rregullatore",
+"description":"Një shenjë që tregon se çfarë duhet ose nuk duhet të bëjnë përdoruesit e rrugës, duke përfshirë rregullat e shpejtësisë, kthesën, parkimin dhe aksesin."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Shenjë paralajmëruese",
+"description":"Një shenjë që jep njoftim paraprak për një rrezik, gjendje rruge, kryqëzim, kalim ose veprim të kërkuar."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Shenjë lejuese",
+"description":"Një katror i bardhë me një rreth të gjelbër që tregon se veprimi i treguar është i lejuar."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Shenjë ndaluese",
+"description":"Një shenjë e bardhë me një rreth të kuq dhe një vijë diagonale që tregon se veprimi i treguar është i ndaluar."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Shenjë ndalese",
+"description":"Një shenjë rregullatore që kërkon ndalesë të plotë dhe hapjen e rrugëve përpara se të vazhdoni në mënyrë të sigurt."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Shenjë për të dhënë përparësi",
+"description":"Një shenjë që i kërkon shoferit të ngadalësojë, të jetë i përgatitur të ndalojë dhe të japë përparësi kalimi kur është e nevojshme."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Kufiri i shpejtësisë",
+"description":"Shpejtësia maksimale e lejuar në kushte ideale, jo domosdoshmërisht një shpejtësi e sigurt në kushte të këqija."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Zona e Shkollës",
+"description":"Një zonë e shënuar me një tabelë shkolle dhe kufizim shpejtësie të vendosur ku zbatohen kufizime të veçanta për shpejtësinë dhe kalimin."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Zona e Shkollës",
+"description":"Një zonë e shënuar nga një tabelë shkolle pa një tabelë shpejtësie të bashkangjitur, që i paralajmëron shoferët të jenë të kujdesshëm."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Zona e Këndit të Lojërave",
+"description":"Një zonë me një tabelë për shesh lojërash dhe kufizim shpejtësie të vendosur ku zbatohen kufizime për shpejtësi të reduktuar dhe kalim."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Zona e lojërave",
+"description":"Një zonë e shënuar nga një tabelë shesh lojërash pa tabelë shpejtësie, që paralajmëron se fëmijë mund të jenë afër."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Zona e Ndërtimit",
+"description":"Një zonë pune në rrugë ku duhet të respektohen shpejtësitë e shënuara, tabelat paralajmëruese dhe udhëzimet e personit me flamuj."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Korsi e rezervuar",
+"description":"Një korsi e caktuar për përdorues të caktuar të rrugës, siç janë autobusët, taksitë, biçikletat ose automjetet me shumë pasagjerë."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Vijë e plotë",
+"description":"Një shenjë në trotuar që në përgjithësi ndalon kalimin për të kaluar ose për të ndryshuar korsi."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Vijë e thyer",
+"description":"Një shenjë në trotuar që lejon kalimin për të kaluar ose për të ndryshuar korsinë kur është e sigurt."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Vija e Verdhë",
+"description":"Një shenjë në trotuar që ndan trafikun që lëviz në drejtime të kundërta."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Vija e Bardhë",
+"description":"Një shenjë në trotuar që ndan trafikun që lëviz në të njëjtin drejtim."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Linja e ndalimit",
+"description":"Një shenjë në trotuar që tregon se ku duhet të ndalet një automjet në një kryqëzim ose kalim hekurudhor."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Kalim për këmbësorë",
+"description":"Një zonë e shënuar ose e pashënuar ku kalojnë këmbësorët dhe shoferët duhet të japin përparësi sipas kërkesës."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Korsi biçikletash",
+"description":"Një korsi e shënuar e rezervuar për çiklistët, në të cilën mjetet motorike mund të hyjnë vetëm kur lejohet, si për shembull për kthesa."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Korsi me përdorim të përbashkët",
+"description":"Një korsi udhëtimi e shënuar për t`u kujtuar shoferëve se çiklistët mund të përdorin të njëjtën korsi."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Pika e Verbër",
+"description":"Një zonë pranë ose pak pas një automjeti që nuk mund të shihet në pasqyrat e tij."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Kontroll i shpatullave",
+"description":"Një vështrim i shpejtë mbi shpatull për të kontrolluar një zonë që nuk shihet në pasqyra."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Jastëk Hapësire",
+"description":"Hapësirë e hapur e mirëmbajtur rreth një automjeti për të siguruar hapësirë për ndalim ose shmangie të rreziqeve."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Distanca e ndjekjes",
+"description":"Koha dhe hapësira e ruajtur midis automjetit tuaj dhe automjetit përpara."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Rregulli i Dy Sekondave",
+"description":"Koha minimale e rekomanduar e ndjekjes në kushte normale të rrugës dhe të motit."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Koha e Perceptimit",
+"description":"Koha e nevojshme për të njohur një situatë dhe për të kuptuar se nevojitet ndalimi ose një përgjigje tjetër."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Koha e Reagimit",
+"description":"Koha e nevojshme për t`iu përgjigjur një rreziku, siç është lëvizja e një këmbe nga pedali i gazit te freni."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Distanca e Frenimit",
+"description":"Distanca që përshkon një automjet pasi i aplikohen frenat derisa të ndalet."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Distanca totale e ndalimit",
+"description":"Distanca e kombinuar e përshkuar gjatë perceptimit, reagimit dhe frenimit."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Frenimi i Pragut",
+"description":"Frenim i fortë deri në pikën pak para bllokimit të rrotave, duke ruajtur aftësinë për të drejtuar."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Sistemi i frenimit kundër bllokimit (ABS)",
+"description":"Një sistem që ciklon presionin e frenave për të ndihmuar në parandalimin e bllokimit të rrotave dhe për të ruajtur kontrollin e drejtimit."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Pika e Fërkimit",
+"description":"Pozicioni i tufës ku një transmision manual fillon të lidhë fuqinë e motorrit me rrotat."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Duke ngarë Clutch-in",
+"description":"Mbajtja e panevojshme e këmbës mbi pedalin e tufës, duke shkaktuar konsumim shtesë të tufës."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Parkim paralel",
+"description":"Parkimi paralel me trotuarin në një hapësirë midis automjeteve."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Parkim këndor",
+"description":"Parkimi në një vendqëndrim të pozicionuar diagonalisht, zakonisht në një kënd afërsisht 45 gradë me korsinë e trafikut."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Parkim pingul",
+"description":"Parkimi në një vendqëndrim të pozicionuar në një kënd 90 gradë me trotuarin."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"E drejta e kalimit",
+"description":"Rregulla që përcaktojnë se cili përdorues i rrugës duhet të japë përparësi dhe cili mund të vazhdojë."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Kryqëzimi i Kontrolluar",
+"description":"Një kryqëzim i rregulluar nga tabelat e trafikut, sinjalet e trafikut ose të dyja."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Kryqëzimi i pakontrolluar",
+"description":"Një kryqëzim pa tabela ose sinjalistikë ku shoferët në përgjithësi i japin përparësi automjetit në të djathtë të tyre."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Qoshe mirësjelljeje",
+"description":"Një ndalesë me tre ose katër drejtime ku automjeti i parë që mbërrin vazhdon i pari, ose automjeti në të djathtë vazhdon kur mbërritjet janë të njëkohshme."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Rrethrrotullimi",
+"description":"Një kryqëzim rrethor ku trafiku lëviz në kahun e kundërt të akrepave të orës dhe automjetet që hyjnëujapin përparësi trafikut që është tashmë brenda."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Rrethrrotullim",
+"description":"Një kryqëzim rrethor i projektuar me kthesa më të ngushta për të inkurajuar shpejtësi më të ulëta."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Kthesë me dy korsi",
+"description":"Një kthesë e bërë nga njëra prej dy korsive të shënuara të kthesës në korsinë përkatëse të destinacionit."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Korsi me dy drejtime për kthesë majtas",
+"description":"Një korsi qendrore e përbashkët e përdorur nga trafiku nga të dyja drejtimet kur përgatitet të kthehet majtas."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Kthesë U",
+"description":"Një manovër që e kthen një automjet për të udhëtuar në drejtim të kundërt duke përdorur korsitë që vijnë përballë."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Korsi Kalimi",
+"description":"Një korsi shtesë në autostradë që lejon trafikun më të shpejtë të kalojë në mënyrë të sigurt automjetet më të ngadalta."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Korsia e ndalimit emergjent",
+"description":"Ana e autostradës e rezervuar për ndalesa urgjente ose probleme me automjetet, jo për drejtim ose kalim normal."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Korsia e përshpejtimit",
+"description":"Një korsi që përdoret për të rritur shpejtësinë dhe për t`iu përshtatur rrjedhës së trafikut përpara se të futet në një rrugë."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Korsia e Ngadalësimit",
+"description":"Një korsi e përdorur për të ulur shpejtësinë kur del nga një autostradë ose rrugë kryesore."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Bashkimi",
+"description":"Procesi i përbashkët i përzierjes së sigurt të trafikut ku dy rrugë bashkohen në një të vetme."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Zona e endjes",
+"description":"Një korsi e përbashkët ku trafiku hyrës përshpejtohet ndërsa trafiku dalës ngadalësohet."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Rrëshqitje",
+"description":"Humbja e kontrollit të automjetit e shkaktuar nga ulja e tërheqjes së gomave."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Rrëshqitje në frenim",
+"description":"Një rrëshqitje e shkaktuar gjatë frenimit bllokon rrotat e një automjeti pa ABS."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Rrëshqitje me motor",
+"description":"Një rrëshqitje e shkaktuar nga përshpejtimi shumë i shpejtë dhe nga rrotullimi i rrotave lëvizëse."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Rrëshqitje në kthesë",
+"description":"Një rrëshqitje anësore e shkaktuar nga lëvizja shumë e shpejtë gjatë kthesës."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Hidroplanim",
+"description":"Humbja e kontaktit të gomave me sipërfaqen e lagësht të rrugës, e cila mund të shkaktojë humbjen e kontrollit të automjetit."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Akull i Zi",
+"description":"Një shtresë akulli që vështirë se shihej formohej kur lagështia ngrinte në rrugë."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Rimëkëmbje jashtë rrugës",
+"description":"Procesi i kontrolluar i ngadalësimit dhe kthimit gradual në rrugë pas largimit nga trotuari."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Dritat e Paralajmërimit të Rrezikut",
+"description":"Drita katërkahëshe që ndizen me pulsime, të përdorura për të paralajmëruar të tjerët se një automjet është ndalur ose paraqet rrezik."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Drejtim proaktiv",
+"description":"Parashikimi i rreziqeve dhe veprimi i hershëm për të zvogëluar, minimizuar ose shmangur rrezikun."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Koha vizuale e përgatitjes",
+"description":"Distanca e matur në sekonda që një shofer skanon përpara për të pasur kohë për t`iu përgjigjur rreziqeve."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Rrezik i fiksuar",
+"description":"Një gjendje e përhershme e rrugës, siç është një kthesë, kodër, kryqëzim ose rrugicë e fshehur."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Rrezik i ndryshueshëm",
+"description":"Një gjendje në ndryshim, siç janë këmbësorët, sipërfaqet e akullta, automjetet e emergjencës ose dritat jeshile të zbehta."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Drejtim i shpërqendruar",
+"description":"Drejtimi i makinës ndërsa vëmendja shpërqendrohet nga aktivitete të tilla si përdorimi i telefonit, dërgimi i mesazheve, leximi, programimi i pajisjeve ose kujdesi për veten."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Sedilje sigurie për fëmijë",
+"description":"Një sistem mbajtës i miratuar i përzgjedhur për moshën ose peshën e një fëmije dhe i instaluar sipas udhëzimeve të prodhuesit."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"Një sistem universal ankorimi që përdoret për të siguruar sediljet e sigurisë për fëmijë të pajtueshme në një automjet."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Sedilje booster",
+"description":"Një ndenjëse e miratuar që e pozicionon fëmijën në mënyrë të saktë për përdorimin e rripit të sigurimit të automjetit."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Përdorues i Rrugës i Pambrojtur",
+"description":"Një këmbësor, çiklist ose motoçiklist me më pak mbrojtje fizike sesa një pasagjer i një automjeti të mbyllur."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Dritat e Qelibarit të Autobusit të Shkollës",
+"description":"Dritat paralajmëruese alternative që tregojnë se një autobus shkollor po ngadalësohet dhe po përgatitet të ndalet."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Dritat e Kuqe të Autobusit të Shkollës",
+"description":"Dritat alternative që kërkojnë ndalimin e trafikut përkatës ndërsa nxënësit hyjnë, dalin ose kalojnë pranë autobusit."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Dritat paralajmëruese të borëpastrueses",
+"description":"Dritat e kuqe dhe të portokallta që pulsojnë tregojnë se përpara po vepron një borëpastruese."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Kalim Hekurudhor",
+"description":"Një vend ku një rrugë kryqëzon shinat hekurudhore dhe shoferët duhet t`u japin përparësi trenave."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Hekurudha Crossbuck",
+"description":"Një tabelë për kalimin hekurudhor në formë X qëukërkon shoferëve t`u japin përparësi trenave."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Transporti i Hekurudhës së Lehtë (LRT)",
+"description":"Një sistem hekurudhor i qetë me energji elektrike, kalimet e të cilit duhet të trajtohen si kalimet e tjera hekurudhore."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Procesioni i varrimit",
+"description":"Një radhë e grupuar ngushtë automjetesh me fenerë të ndezur që mund të ecin së bashku përmes një kryqëzimi kur është e sigurt."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Drejtim mjeti në gjendje të kufizuar",
+"description":"Drejtimi i një automjeti ndërsa alkooli, droga, ilaçet ose ndonjë gjendje tjetër shëndetësore zvogëlon aftësinë e drejtimit të automjetit."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Sanksionet e Menjëhershme Rrugore (IRS)",
+"description":"Programi përshkallëzues i gjobave administrative të Albertës për drejtimin e automjetit nën ndikimin e alkoolit dhe drogës."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERO: Fillestar",
+"description":"Një program me tolerancë zero ndaj alkoolit dhe drogës për nxënësit e klasës 7 dhe shoferët e klasës 5-GDL."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS ZERO: Komercial",
+"description":"Një program me tolerancë zero ndaj alkoolit dhe drogës për shoferët komercialë që operojnë në një kapacitet komercial."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: PARALAJMËRIM",
+"description":"Sanksionet rrugore zbatohen kur përqendrimi i alkoolit në gjakun e një shoferi arrin pragun e paralajmërimit të specifikuar."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: DËSHTOJ",
+"description":"Sanksione të rënda rrugore që zbatohen për dëmtim të nivelit penal, përqendrime të ndaluara ose refuzim të një kërkese të ligjshme."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Pajisja e Ndërlidhjes së Ndezjes",
+"description":"Një pajisje që mat alkoolin në frymëmarrje dhe që parandalon ndezjen e automjetit kur leximi tejkalon pragun e tij."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"SafeRoads Alberta",
+"description":"Dega administrative që shqyrton kundërshtimet ndaj gjobave provinciale për drejtim të dehur dhe sekuestrimeve të automjeteve."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Procesi i Rishqyrtimit të Regjistruesit",
+"description":"Procesi i përdorur për të kërkuar rishikime të vendimeve administrative për drejtim mjeti pa aftësi të kufizuara."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Zinxhirët e Sigurisë së Rimorkiove",
+"description":"Zinxhirë të fiksuar në mënyrë të sigurt të kryqëzuar nën një gjuhë rimorkioje për të siguruar një lidhje dytësore."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Sistemi i Shpëtimit nga Emergjenca",
+"description":"Një sistem sigurie për rimorkion i projektuar për t`u aktivizuar nëse rimorkioja ndahet nga mjeti tërheqës."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Jashtë gjurmëve",
+"description":"Tendenca e rrotave të rimorkios për të ndjekur një rrugë brenda rrugës së marrë nga rrotat e mjetit tërheqës."
+}
+]

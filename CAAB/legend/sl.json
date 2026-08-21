@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Diplomirano vozniško dovoljenje (GDL)",
+"description":"Albertov postopni program licenciranja, ki novim voznikom omogoča pridobivanje znanj in izkušenj pod nadzorovanimi pogoji."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Učno dovoljenje razreda 7",
+"description":"Prva stopnja GDL, ki omogoča nadzorovano vožnjo v učnih pogojih."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Vozniško dovoljenje razreda 5-GDL",
+"description":"Pogojno dovoljenje, pridobljeno med drugo fazo programa GDL v Alberti."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Polno vozniško dovoljenje razreda 5",
+"description":"Vozniško dovoljenje, ki ni GDL in dovoljuje samostojno vožnjo avtomobilov in drugih ustreznih lahkih vozil."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Preizkus znanja",
+"description":"Računalniški test z več možnimi odgovori, ki zajema cestnoprometne predpise, varne vozne prakse in prometne znake."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Preizkus na cesti",
+"description":"Praktična ocena upravljanja vozila, opazovanja, presoje in upoštevanja cestnoprometnih predpisov."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Ocena vida",
+"description":"Obvezen pregled, ki potrjuje, da voznik izpolnjuje minimalne standarde vida Alberte."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Registrski agent",
+"description":"Pooblaščena pisarna v Alberti, ki nudi storitve, kot so licenciranje, registracija, testiranje in posodabljanje licenc."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Izpraševalec voznikov",
+"description":"Oseba, pooblaščena za izvajanje cestnih izpitov in oceno, ali imajo kandidati zahtevane vozniške sposobnosti."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Dovoljenje za uporabo zračnih zavor (Q)",
+"description":"Za upravljanje vozil s samo zračnimi ali kombiniranimi zračnimi in hidravličnimi zavorami je potrebno vozniško dovoljenje."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Koda stanja",
+"description":"Koda, ki je nameščena na vozniškem dovoljenju za identifikacijo posebne vozniške zahteve, kot so korekcijska stekla."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Koda odobritve",
+"description":"Koda, ki dokazuje, da je voznik opravil posebno usposabljanje ali da lahko upravlja posebej opremljena vozila."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Slabe točke",
+"description":"Točke, zabeležene v vozniški evidenci po obsodbi za določene prometne prekrške."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Izvleček voznika",
+"description":"Uradna evidenca, ki prikazuje obsodbe voznikov, začasne ustavitve in druge podatke o vozniških dovoljenjih."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Signal za nadzor prometa",
+"description":"Rdeča, rumena ali zelena luč, ki se uporablja za nadzor prometnega toka na križiščih ali združitvah cest."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Neprekinjena rdeča lučka",
+"description":"Signal, ki zahteva popolno ustavitev pred črto stop, prehodom za pešce ali križiščem."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Svetla rumena lučka",
+"description":"Opozorilo, da se semafor spreminja v rdečo barvo in da se morajo vozniki ustaviti, razen če ustavljanje ni mogoče varno izvesti."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Svetla zelena lučka",
+"description":"Semafor, ki dovoljuje vožnjo skozi križišče, hkrati pa zahteva dajanje prednosti."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Utripajoča rdeča lučka",
+"description":"Signal, ki se obravnava kot znak stop in zahteva popolno ustavitev, ki ji sledi dajanje prednosti pred nadaljevanjem vožnje."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Utripajoča rumena lučka",
+"description":"Signal, ki voznikom omogoča previdno vožnjo, potem ko so dali prednost prometu in pešcem."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Utripajoča zelena lučka",
+"description":"Signal, ki dovoljuje gibanje ali zavijanje brez ustavljanja, hkrati pa od voznikov zahteva, da dajo prednost zakonitim udeležencem v prometu."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Signal za vzvratno vožnjo",
+"description":"Rdeči križec ali zelena puščica nad glavo, ki določa, ali je vozni pas v navedeni smeri zaprt ali na voljo."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Regulativni znak",
+"description":"Znak, ki označuje, kaj morajo ali ne smejo storiti udeleženci v prometu, vključno s pravili glede hitrosti, zavijanja, parkiranja in dostopa."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Opozorilni znak",
+"description":"Znak, ki vnaprej obvešča o nevarnosti, stanju na cesti, križišču, prehodu za pešce ali zahtevanem ukrepu."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Dovoljevalni znak",
+"description":"Bel kvadrat z zelenim krogom, ki kaže, da je navedeno dejanje dovoljeno."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Prepovedni znak",
+"description":"Bel znak z rdečim krogom in diagonalno črto, ki kaže, da je označeno dejanje prepovedano."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Znak Stop",
+"description":"Predpisni znak, ki zahteva popolno ustavitev in dajanje prednosti pred varnim nadaljevanjem vožnje."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Znak za popust",
+"description":"Znak, ki vozniku nalaga, naj upočasni vožnjo, se pripravi na ustavitev in po potrebi da prednost."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Omejitev hitrosti",
+"description":"Najvišja dovoljena hitrost v idealnih pogojih, ne nujno varna hitrost v slabih pogojih."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Šolska cona",
+"description":"Območje, označeno s šolskim znakom in objavljeno omejitvijo hitrosti, kjer veljajo posebne omejitve hitrosti in prehitevanja."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Šolsko območje",
+"description":"Območje, označeno s šolskim znakom brez pritrjenega znaka za omejitev hitrosti, ki voznike opozarja na previdnost."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Igrišče",
+"description":"Območje z znakom za igrišče in objavljeno omejitvijo hitrosti, kjer veljajo omejitve zmanjšane hitrosti in prehitevanja."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Igrišče",
+"description":"Območje, označeno z znakom za igrišče brez znaka za omejitev hitrosti, ki opozarja, da so v bližini otroci."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Gradbena cona",
+"description":"Območje cestnih del, kjer je treba upoštevati objavljene hitrosti, opozorilne znake in navodila oseb, ki dajejo zastave."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Rezervirani pas",
+"description":"Pas, namenjen določenim udeležencem v prometu, kot so avtobusi, taksiji, kolesa ali vozila z veliko zasedenostjo."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Neprekinjena črta",
+"description":"Označba na pločniku, ki na splošno prepoveduje prečkanje ceste za prehitevanje ali menjavo voznega pasu."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Prekinjena črta",
+"description":"Označba na cestišču, ki dovoljuje prehod ceste za mimohod ali menjavo voznega pasu, kadar je to varno."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Rumena črta",
+"description":"Označba pločnika, ki ločuje promet v nasprotnih smereh."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Bela črta",
+"description":"Označba pločnika, ki ločuje promet v isti smeri."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Stop linija",
+"description":"Označba na cestišču, ki označuje, kje se mora vozilo ustaviti na križišču ali železniškem prehodu."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Prehod za pešce",
+"description":"Označeno ali neoznačeno območje, kjer pešci prečkajo cesto in kjer morajo vozniki po potrebi dati prednost."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Kolesarski pas",
+"description":"Označen vozni pas, rezerviran za kolesarje, na katerega lahko motorna vozila vstopijo le, kjer je to dovoljeno, na primer za zavijanje."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Vozni pas za skupno uporabo",
+"description":"Označen prometni pas, ki voznike opomni, da lahko kolesarji uporabljajo isti vozni pas."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Slepa pega",
+"description":"Območje ob vozilu ali nekoliko za njim, ki ga ni mogoče videti v njegovih ogledalih."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Preverjanje ramen",
+"description":"Hiter pogled čez ramo, da preverimo območje, ki ga ni mogoče videti v ogledalih."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Vesoljska blazina",
+"description":"Odprt prostor, ki se vzdržuje okoli vozila in zagotavlja prostor za ustavljanje ali izogibanje nevarnostim."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Sledenje razdalji",
+"description":"Čas in prostor, ki se ohranjata med vašim vozilom in vozilom pred vami."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Pravilo dveh sekund",
+"description":"Najkrajši priporočeni čas sledenja v normalnih cestnih in vremenskih razmerah."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Čas zaznavanja",
+"description":"Čas, potreben za prepoznavanje situacije in razumevanje, da je potrebna zaustavitev ali drug odziv."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Reakcijski čas",
+"description":"Čas, potreben za odziv na nevarnost, kot je na primer premik noge s stopalke za plin na zavoro."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Zavorna pot",
+"description":"Razdalja, ki jo vozilo prevozi od začetka zaviranja do ustavitve."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Skupna zavorna pot",
+"description":"Skupna prevožena razdalja med zaznavanjem, reakcijo in zaviranjem."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Pragovno zaviranje",
+"description":"Močno zaviranje do točke tik preden se kolesa blokirajo, pri čemer se ohrani sposobnost krmiljenja."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Protiblokirni zavorni sistem (ABS)",
+"description":"Sistem, ki ciklično spreminja zavorni tlak, da prepreči blokiranje koles in ohrani nadzor nad krmiljenjem."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Točka trenja",
+"description":"Položaj sklopke, pri katerem ročni menjalnik začne povezovati moč motorja s kolesi."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Jahanje sklopke",
+"description":"Nepotrebno naslanjanje noge na pedal sklopke, kar povzroča dodatno obrabo sklopke."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Vzporedno parkiranje",
+"description":"Parkiranje vzporedno z robnikom v prostoru med vozili."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Parkiranje pod kotom",
+"description":"Parkiranje na parkirišču, postavljenem diagonalno, običajno pod kotom približno 45 stopinj glede na prometni pas."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Pravokotno parkiranje",
+"description":"Parkiranje na parkirnem mestu, ki je postavljeno pod kotom 90 stopinj glede na robnik."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Prednost poti",
+"description":"Pravila, ki določajo, kateri udeleženci v prometu morajo dati prednost in kateri lahko nadaljujejo pot."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Nadzorovano križišče",
+"description":"Križišče, ki ga urejajo prometni znaki, prometna signalizacija ali oboje."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Nenadzorovano križišče",
+"description":"Križišče brez znakov ali semaforjev, kjer vozniki običajno dajejo prednost vozilu na svoji desni."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Vljudnostni kotiček",
+"description":"Tri- ali štirismerno postajališče, kjer prvo prispelo vozilo nadaljuje pot naprej ali pa vozilo na desni, če so prihodi sočasni."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Krožišče",
+"description":"Krožno križišče, kjer promet poteka v nasprotni smeri urinega kazalca in kjer vozila, ki vstopajo na križišče, dajejo prednost prometu, ki je že znotraj križišča."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Krožišče",
+"description":"Krožno križišče, zasnovano z ožjimi ovinki za spodbujanje nižjih hitrosti."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Zavijanje z dvema voznima pasovoma",
+"description":"Zavoj iz enega od dveh označenih pasov za zavijanje v ustrezni ciljni pas."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Dvosmerni vozni pas za levi zavoj",
+"description":"Skupni srednji pas, ki ga uporablja promet iz obeh smeri pri pripravi na zavijanje levo."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Obrnitev v polkrogu",
+"description":"Manever, pri katerem se vozilo obrne, da se premakne v nasprotno smer po nasprotnem voznem pasu."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Prehitevalni pas",
+"description":"Dodaten avtocestni pas, ki omogoča hitrejšemu prometu varno prehitevanje počasnejših vozil."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Pas za ustavljanje v sili",
+"description":"Banka avtoceste, namenjena nujnim ustavljanjem ali težavam z vozili, ne pa običajni vožnji ali prehitevanju."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Pospeševalni pas",
+"description":"Pas, ki se uporablja za povečanje hitrosti in prilagajanje pretoka prometa pred vključitvijo na vozišče."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Upočasnjevalni pas",
+"description":"Pas, ki se uporablja za zmanjšanje hitrosti pri izvozu z avtoceste ali glavne ceste."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Združevanje",
+"description":"Skupni proces varnega združevanja prometa, kjer se dve cesti združita v eno."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Tkana cona",
+"description":"Skupni vozni pas, kjer se vstopajoči promet pospeši, izstopajoči pa upočasni."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Drsenje",
+"description":"Izguba nadzora nad vozilom zaradi zmanjšanega oprijema pnevmatik."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Zavorni zdrs",
+"description":"Zadrsevanje, ki nastane pri zaviranju, blokira kolesa vozila brez sistema ABS."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Močni drseči",
+"description":"Zanos, ki ga povzroči prehitro pospeševanje in vrtenje pogonskih koles v prazno."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Zanos v ovinku",
+"description":"Bočni zdrs, ki ga povzroči prehitra vožnja med zavijanjem."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Akvaplaning",
+"description":"Izguba stika pnevmatike z mokro cestno površino, kar lahko povzroči izgubo nadzora nad vozilom."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Črni led",
+"description":"Težko vidna plast ledu nastane, ko vlaga zmrzne na cesti."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Obnova po terenu",
+"description":"Nadzorovan proces upočasnjevanja in postopnega vračanja na cestišče po zapustitvi pločnika."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Opozorilne utripalke za nevarnost",
+"description":"Štirismerne utripajoče luči, ki opozarjajo druge, da je vozilo ustavljeno ali predstavlja nevarnost."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Proaktivna vožnja",
+"description":"Predvidevanje nevarnosti in zgodnje ukrepanje za zmanjšanje, minimiziranje ali izogibanje nevarnosti."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Vizualni čas izvedbe",
+"description":"Razdalja, merjena v sekundah, ki jo voznik pregleda pred seboj, da se lahko odzove na nevarnosti."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Fiksna nevarnost",
+"description":"Trajno stanje cestišča, kot je ovinek, hrib, križišče ali skriti dovoz."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Spremenljiva nevarnost",
+"description":"Spreminjajoče se razmere, kot so pešci, poledenele površine, reševalna vozila ali ugasnjene zelene luči."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Raztresena vožnja",
+"description":"Vožnja, medtem ko pozornost preusmerjajo dejavnosti, kot so uporaba telefona, pošiljanje sporočil, branje, programiranje naprav ali urejanje nege."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Otroški varnostni sedež",
+"description":"Odobreni varnostni sedež, izbran glede na starost ali težo otroka in nameščen v skladu z navodili proizvajalca."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/ZAPAKA",
+"description":"Univerzalni sidrni sistem, ki se uporablja za pritrditev združljivih otroških varnostnih sedežev v vozilo."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Jastični sedež",
+"description":"Odobreni sedež, ki otroka pravilno namesti za uporabo varnostnega pasu vozila."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Ranljivi udeleženci v prometu",
+"description":"Pešec, kolesar ali motorist z manjšo fizično zaščito kot potnik v zaprtem vozilu."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Jantarne luči šolskega avtobusa",
+"description":"Izmenično utripajoče opozorilne luči kažejo, da šolski avtobus upočasnjuje in se pripravlja na ustavitev."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Rdeče luči na šolskem avtobusu",
+"description":"Izmenična luč, ki zahteva ustavitev prometa, medtem ko učenci vstopajo, izstopajo ali prečkajo cesto v bližini avtobusa."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Opozorilne luči za snežni plug",
+"description":"Utripajoče rumene in rdeče luči, ki označujejo, da pred vami deluje snežni plug."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Železniški prehod",
+"description":"Mesto, kjer cesta prečka železniške tire in morajo vozniki dati prednost vlakom."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Železniški križec",
+"description":"Znak v obliki črke X, ki označuje železniški prehod in zahteva, da vozniki dajo prednost vlakom."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Lahki železniški prevoz (LRT)",
+"description":"Tihi železniški sistem na električni pogon, katerega prehode je treba obravnavati enako kot druge železniške prehode."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Pogrebna procesija",
+"description":"Tesno združena kolona vozil s prižganimi žarometi, ki se lahko skupaj peljejo skozi križišče, kadar je to varno."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Vožnja pod vplivom alkohola",
+"description":"Vožnja vozila pod vplivom alkohola, drog, zdravil ali drugega stanja zmanjšuje sposobnost vožnje."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Takojšnje sankcije ob cesti (IRS)",
+"description":"Alberta ima vse strožji program upravnih kazni za vožnjo pod vplivom alkohola."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERO: Začetnik",
+"description":"Program ničelne tolerance do alkohola in drog za voznike 7. razreda in voznike 5. razreda z vozniškim dovoljenjem GDL."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS NIČ: Komercialno",
+"description":"Program ničelne tolerance do alkohola in drog za voznike komercialnih vozil, ki opravljajo komercialne dejavnosti."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: OPOZORILO",
+"description":"Sankcije ob cesti, ki se uporabijo, ko koncentracija alkohola v krvi voznika doseže določeni opozorilni prag."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: NEUSPEŠNO",
+"description":"Resne cestne sankcije, ki se uporabljajo za kaznivo dejanje, prepovedane koncentracije ali zavrnitev zakonite zahteve."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Naprava za blokiranje vžiga",
+"description":"Naprava za merjenje alkohola v izdihanem zraku, ki preprečuje zagon vozila, ko odčitek preseže prag."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"Varne ceste Alberta",
+"description":"Upravna veja, ki obravnava pritožbe zoper pokrajinske kazni za vožnjo pod vplivom alkohola in zasege vozil."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Postopek ponovne obravnave registrarja",
+"description":"Postopek, ki se uporablja za zahtevo po pregledu upravnih odločitev o vožnji brez vplivov."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Varnostne verige za prikolice",
+"description":"Varno pritrjene verige, prekrižane pod jezičkom prikolice, zagotavljajo sekundarno povezavo."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Sistem za nujni odklop",
+"description":"Varnostni sistem za priklopnik, zasnovan tako, da se aktivira, če se priklopnik loči od vlečnega vozila."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Izven smeri",
+"description":"Nagnjenost koles priklopnika, da sledijo poti znotraj poti, ki jo uberejo kolesa vlečnega vozila."
+}
+]

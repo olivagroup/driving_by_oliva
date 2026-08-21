@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Graderat körkort (GDL)",
+"description":"Albertas etappvisa licensprogram som gör det möjligt för nya förare att få färdigheter och erfarenhet under kontrollerade förhållanden."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Klass 7-körkort",
+"description":"Det första GDL-steget, som möjliggör övervakad körning under inlärningsförhållanden."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Klass 5-GDL-licens",
+"description":"En prövotidig licens som innehades under den andra etappen av Albertas GDL-program."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Fullständig klass 5-körkort",
+"description":"Ett körkort som inte är GDL-licenserat och som tillåter oberoende körning av bilar och andra kvalificerade lätta fordon."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Kunskapstest",
+"description":"Ett datoriserat flervalsprov som täcker trafikregler, säkra körvanor och vägskyltar."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Vägprov",
+"description":"En praktisk bedömning av fordonshantering, observation, bedömningsförmåga och efterlevnad av trafikregler."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Synbedömning",
+"description":"En obligatorisk kontroll som bekräftar att en förare uppfyller Albertas minimistandarder för syn."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Registeragent",
+"description":"Ett auktoriserat kontor i Alberta som tillhandahåller tjänster som licensiering, registrering, testning och licensuppdateringar."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Förarprövare",
+"description":"En person som är behörig att genomföra vägprov och bedöma om sökande har de körfärdigheter som krävs."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Godkännande för luftbromsar (Q)",
+"description":"Ett körkortstillägg krävs för att framföra fordon med enbart luftbromsar eller kombinerade luft- och hydraulbromsar."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Tillståndskod",
+"description":"En kod som placeras på ett körkort för att identifiera ett särskilt körkrav, såsom korrigerande glasögon."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Godkännandekod",
+"description":"En kod som visar att en förare har genomgått specifik utbildning eller får framföra specialutrustade fordon."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Negativa poäng",
+"description":"Prickar registrerade mot ett körkort efter fällande dom för vissa trafikförseelser."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Förarens sammanfattning",
+"description":"Ett officiellt register som visar domar för körkort, avstängningar och annan information om körkort."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Trafikkontrollsignal",
+"description":"Ett rött, gult eller grönt ljus som används för att kontrollera trafikflödet vid korsningar eller sammanfogande vägar."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Fast rött ljus",
+"description":"En signal som kräver ett fullständigt stopp före stopplinjen, övergångsstället eller korsningen."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Fast gult ljus",
+"description":"En varning om att signalen håller på att ändras till rött och att förare måste stanna om inte stopp inte kan ske på ett säkert sätt."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Fast grönt ljus",
+"description":"En signal som tillåter förflyttning genom en korsning samtidigt som tillämplig väjningsplikt krävs."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Blinkande rött ljus",
+"description":"En signal som behandlas som en stoppskylt, som kräver ett fullständigt stopp följt av väjning innan körning fortsätter."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Blinkande gult ljus",
+"description":"En signal som tillåter förare att köra försiktigt efter att ha väjt för trafik och fotgängare."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Blinkande grönt ljus",
+"description":"En signal som tillåter förflyttning eller svängar utan att stanna samtidigt som föraren måste lämna väjningsbevis gentemot lagliga trafikanter."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Signal för filbyte",
+"description":"Ett rött X eller en grön pil ovanför som anger om ett körfält är avstängt eller tillgängligt i den angivna riktningen."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Reglerande skylt",
+"description":"En skylt som anger vad trafikanter får eller inte får göra, inklusive hastighets-, sväng-, parkerings- och tillfartsregler."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Varningsskylt",
+"description":"En skylt som förvarnar om en fara, vägförhållanden, korsning, övergångsställe eller obligatorisk åtgärd."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Tillåtande tecken",
+"description":"En vit fyrkant med en grön cirkel som visar att den angivna åtgärden är tillåten."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Förbudsskylt",
+"description":"En vit skylt med en röd cirkel och ett diagonalt streck som visar att den angivna åtgärden är förbjuden."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Stoppskylt",
+"description":"En föreskrivande skylt som kräver fullständigt stopp och väjningsplikt innan man fortsätter säkert."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Viktskylt",
+"description":"En skylt som kräver att en förare saktar ner, är beredd att stanna och lämnar företräde vid behov."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Hastighetsbegränsning",
+"description":"Den högsta tillåtna hastigheten under ideala förhållanden, inte nödvändigtvis en säker hastighet under dåliga förhållanden."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Skolzon",
+"description":"Ett område markerat med en skolskylt och anvisad hastighetsbegränsning där särskilda hastighets- och omkörningsrestriktioner gäller."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Skolområde",
+"description":"Ett område markerat med en skolskylt utan en fastsatt hastighetsskylt, som varnar förare att iaktta försiktighet."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Lekplatszon",
+"description":"Ett område med en lekplatsskylt och uppsatt hastighetsbegränsning där hastighetsbegränsningar och omkörningsrestriktioner gäller."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Lekplats",
+"description":"Ett område markerat med en lekplatsskylt utan hastighetsskylt, som varnar för att barn kan vara i närheten."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Byggzon",
+"description":"Ett arbetsområde på vägen där hastighetsregler, varningsskyltar och anvisningar från flaggvakten måste följas."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Reserverad körfält",
+"description":"Ett körfält avsett för specificerade trafikanter, såsom bussar, taxibilar, cyklar eller fordon med hög passagerarantal."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Heldragen linje",
+"description":"En vägmarkering som generellt sett förbjuder att korsa vägen för att passera eller byta fil."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Bruten linje",
+"description":"En vägmarkering som tillåter övergångsställe för att passera eller byta fil när det är säkert."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Gula linjen",
+"description":"En vägmarkering som skiljer trafik som färdas i motsatta riktningar."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Vit linje",
+"description":"En vägmarkering som skiljer trafik som färdas i samma riktning."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Stopplinje",
+"description":"En vägmarkering som visar var ett fordon måste stanna vid en korsning eller järnvägsövergång."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Övergångsställe",
+"description":"Ett markerat eller omarkerat område där fotgängare korsar och förare måste lämna företräde vid behov."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Cykelbana",
+"description":"En markerad körfält reserverad för cyklister som motorfordon endast får köra in i där det är tillåtet, till exempel för att svänga."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Delad körfält",
+"description":"Ett körfält markerat för att påminna förare om att cyklister får använda samma körfält."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Blindvinkel",
+"description":"Ett område bredvid eller strax bakom ett fordon som inte kan ses i dess backspeglar."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Axelkontroll",
+"description":"En snabb blick över axeln för att kontrollera ett område som inte kan ses i speglarna."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Rymdkudde",
+"description":"Öppet utrymme som hålls runt ett fordon för att ge utrymme för att stanna eller undvika faror."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Följande avstånd",
+"description":"Tid och utrymme som bibehålls mellan ditt fordon och fordonet framför."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Tvåsekundersregeln",
+"description":"Minsta rekommenderade följetid under normala väg- och väderförhållanden."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Uppfattningstid",
+"description":"Den tid som krävs för att känna igen en situation och förstå att det behövs ett stopp eller en annan reaktion."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Reaktionstid",
+"description":"Den tid som krävs för att reagera på en fara, till exempel att flytta foten från gaspedalen till bromsen."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Bromssträcka",
+"description":"Den sträcka ett fordon färdas efter att bromsarna har ansatts tills det stannar."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Total stoppsträcka",
+"description":"Den sammanlagda sträckan som tillryggalagts under perception, reaktion och inbromsning."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Tröskelbromsning",
+"description":"Kraftig bromsning ända till den punkt precis innan hjulen låser sig, vilket bevarar styrförmågan."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"ABS-bromssystem (ABS)",
+"description":"Ett system som cyklar bromstrycket för att förhindra hjullåsning och bevara styrkontrollen."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Friktionspunkt",
+"description":"Kopplingsläget där en manuell växellåda börjar ansluta motorkraften till hjulen."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Ridning av kopplingen",
+"description":"Att i onödan vila foten på kopplingspedalen, vilket orsakar ytterligare slitage på kopplingen."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Parallellparkering",
+"description":"Parkering parallellt med trottoarkanten i ett utrymme mellan fordon."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Vinkelparkering",
+"description":"Parkering i en bås placerad diagonalt, vanligtvis i cirka 45 graders vinkel mot körfältet."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Vinkelrätt parkering",
+"description":"Parkering i en bås placerad i 90 graders vinkel mot trottoarkanten."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Rätt till väg",
+"description":"Regler som avgör vilken trafikant som har företräde och vilken som får köra vidare."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Kontrollerad korsning",
+"description":"En korsning som regleras av trafikskyltar, trafiksignaler eller båda."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Okontrollerad korsning",
+"description":"En korsning utan skyltar eller signaler där förare i allmänhet har väjningsplikt för fordonet på höger sida."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Artighetshörnan",
+"description":"En tre- eller fyrvägsstopp där det första fordonet som anländer kör först, eller fordonet till höger kör vidare när ankomster är samtidiga."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Rondell",
+"description":"En cirkulär korsning där trafiken kör moturs och inkörande fordon lämnar väjningsbefogenheter för trafik som redan är inne."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Rondell",
+"description":"En cirkulär korsning utformad med snävare kurvor för att uppmuntra till lägre hastigheter."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Tvåfilig sväng",
+"description":"En sväng som görs från ett av två markerade svängfält till motsvarande destinationsfil."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Tvåvägs vänstersvängfil",
+"description":"Ett delat mittkörfält som används av trafik från båda riktningarna när de förbereder sig för att svänga vänster."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"U-sväng",
+"description":"En manöver som svänger ett fordon för att färdas i motsatt riktning med hjälp av mötande körfält."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Passing Lane",
+"description":"Ett extra körfält på motorvägen gör det möjligt för snabbare trafik att säkert passera långsammare fordon."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Nödstoppsfil",
+"description":"Motorvägsrenen reserverad för brådskande stopp eller fordonsproblem, inte normal körning eller omkörning."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Accelerationsfil",
+"description":"Ett körfält som används för att öka hastigheten och anpassa trafikflödet innan det kommer in på en väg."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Retardationsfil",
+"description":"Ett körfält som används för att minska hastigheten vid avfart från motorväg eller större väg."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Sammanslagning",
+"description":"Den delade processen för att säkert blanda trafik där två vägar sammanfogas till en."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Vävzon",
+"description":"Ett delat körfält där ingående trafik accelererar medan utgående trafik saktar ner."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Sladd",
+"description":"Förlust av fordonskontroll orsakad av minskat däckgrepp."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Bromssladd",
+"description":"En sladd som orsakas vid inbromsning låser hjulen på ett fordon utan ABS."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Power Skid",
+"description":"En sladd orsakad av för snabb acceleration och att drivhjulen spinner."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Sladd i kurvtagning",
+"description":"En sidledes glidning orsakad av att köras för snabbt vid svängning."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Vattenplaning",
+"description":"Förlust av däckkontakt med en våt vägyta, vilket kan leda till förlorad kontroll över fordonet."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Svart is",
+"description":"Ett svårsynligt islager bildas när fukt fryser på vägen."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Terrängbärgning",
+"description":"Den kontrollerade processen att sakta ner och gradvis återgå till vägbanan efter att ha lämnat asfalten."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Varningsljus",
+"description":"Fyrvägsblinkande ljus som används för att varna andra att ett fordon har stannat eller utgör en fara."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Proaktiv körning",
+"description":"Att förutse faror och agera tidigt för att minska, minimera eller undvika fara."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Visuell ledtid",
+"description":"Den sträcka mätt i sekunder som en förare skannar framåt för att ge tid att reagera på faror."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Fast fara",
+"description":"Ett permanent vägförhållanden, såsom en kurva, backe, korsning eller dold uppfart."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Variabel fara",
+"description":"Föränderliga förhållanden, såsom fotgängare, isiga ytor, utryckningsfordon eller gamla gröna ljus."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Distraherad körning",
+"description":"Körning medan uppmärksamheten avleds av aktiviteter som telefonanvändning, sms, läsning, programmering av enheter eller pälsvård."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Barnsäkerhetsstol",
+"description":"En godkänd säkerhetsbälte vald för barnets ålder eller vikt och installerad enligt tillverkarens anvisningar."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"Ett universellt förankringssystem som används för att fästa kompatibla bilbarnstolar i ett fordon."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Bältesstol",
+"description":"En godkänd stol som placerar ett barn korrekt för användning av bilens säkerhetsbälte."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Sårbar trafikant",
+"description":"En fotgängare, cyklist eller motorcykelförare med mindre fysiskt skydd än en passagerare i ett slutet fordon."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Skolbuss Gula ljus",
+"description":"Växlande varningsljus som indikerar att en skolbuss saktar ner och förbereder sig för att stanna."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Röda lampor på skolbussar",
+"description":"Växelljus som kräver att tillämplig trafik stannar medan elever går på, av eller går över bussen nära bussen."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Varningslampor för snöplog",
+"description":"Blinkande gula och röda lampor indikerar att en snöplog är i drift längre fram."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Järnvägsövergång",
+"description":"En plats där en väg korsar järnvägsspår och förare måste lämna väjningsbefogenheter till tåg."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Järnvägscrossbuck",
+"description":"En X-formad järnvägsövergångsskylt som kräver att förare har väjningsplikt för tåg."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Lätt spårväg (LRT)",
+"description":"Ett tyst, eldrivet järnvägssystem vars övergångar måste behandlas som andra järnvägsövergångar."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Liktåg",
+"description":"En tätt grupperad rad av fordon med tända strålkastare som får köra tillsammans genom en korsning när det är säkert."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Nedsatt körförmåga",
+"description":"Att köra ett fordon medan alkohol, droger, medicinering eller annat tillstånd minskar körförmågan."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Omedelbara vägpåföljder (IRS)",
+"description":"Albertas eskalerande administrativa påföljdsprogram för rattfylleri."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS NOLL: Nybörjare",
+"description":"Ett nolltoleransprogram mot alkohol och droger för förare i klass 7 och klass 5-GDL."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS NOLL: Kommersiell",
+"description":"Ett nolltoleransprogram mot alkohol och droger för yrkesförare som arbetar i kommersiell egenskap."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: VARNA",
+"description":"Vägkantspåföljder som tillämpas när en förares alkoholhalt i blodet når den angivna varningsgränsen."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: MISSLYCKAS",
+"description":"Allvarliga vägpåföljder som gäller för förolämpning på straffrättslig nivå, förbjudna koncentrationer eller vägran av ett lagligt krav."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Tändningsspärr",
+"description":"En anordning som mäter alkoholhalten i utandningsluften och förhindrar att ett fordon startar när avläsningen överstiger tröskelvärdet."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"SafeRoads Alberta",
+"description":"Den administrativa grenen som granskar överklaganden av provinsiella straff för rattfylleri och fordonsbeslag."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Omprövningsprocess för registrator",
+"description":"Processen som används för att begära omprövning av administrativa beslut gällande icke-nedsatt körning."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Säkerhetskedjor för släpvagnar",
+"description":"Säkert fästa kedjor korsade under en släpvagnstunga för att ge en sekundär anslutning."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Nödbrytningssystem",
+"description":"Ett släpvagnssäkerhetssystem som är utformat för att aktiveras om släpvagnen lossnar från dragfordonet."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Avvikande från spårning",
+"description":"Släpvagnshjulens tendens att följa en bana innanför den bana som dragfordonets hjul tar."
+}
+]

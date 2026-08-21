@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Permis de conducere treptat (GDL)",
+"description":"Programul de licențiere etapizat din Alberta, care permite noilor șoferi să dobândească abilități și experiență în condiții controlate."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Permis de conducere clasa a 7-a",
+"description":"Prima etapă GDL, care permite conducerea supravegheată în condiții de învățător."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Permis de conducere clasa 5-GDL",
+"description":"Un permis de conducere cu perioadă de probă deținut în a doua etapă a programului GDL din Alberta."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Permis complet clasa 5",
+"description":"Un permis non-GDL care permite operarea independentă a autoturismelor și a altor vehicule ușoare eligibile."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Test de cunoștințe",
+"description":"Un test computerizat cu variante multiple de răspuns care acoperă regulile de circulație, practicile de conducere în siguranță și semnalizarea rutieră."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Test rutier",
+"description":"O evaluare practică a manevrabilității vehiculului, a observației, a judecății și a respectării regulilor de circulație."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Evaluarea vederii",
+"description":"O verificare obligatorie care confirmă că un șofer îndeplinește standardele minime de vizibilitate din Alberta."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Agent de registru",
+"description":"Un birou autorizat din Alberta care oferă servicii precum licențiere, înregistrare, testare și actualizări de licențe."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Examinator de șoferi",
+"description":"O persoană autorizată să efectueze teste rutiere și să evalueze dacă candidații au abilitățile de conducere necesare."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Aviz de frână cu aer (Q)",
+"description":"O mențiune de permis necesară pentru a opera vehicule cu frâne numai cu aer sau frâne combinate cu aer și hidraulic."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Cod condiție",
+"description":"Un cod plasat pe permis pentru a identifica o cerință specială pentru conducere, cum ar fi lentilele corectoare."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Cod de aprobare",
+"description":"Un cod care arată că un șofer a absolvit o instruire specifică sau poate conduce vehicule special echipate."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Puncte de demerit",
+"description":"Puncte înregistrate în cazierul auto în urma condamnării pentru anumite infracțiuni rutiere."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Rezumatul șoferului",
+"description":"O înregistrare oficială care conține condamnări pentru conducere, suspendări și alte informații privind permisele de conducere."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Semnal de control al traficului",
+"description":"O lumină roșie, galbenă sau verde utilizată pentru a controla fluxul traficului la intersecții sau la contopirea drumurilor."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Lumină roșie continuă",
+"description":"Un semnal care necesită oprire completă înainte de linia de oprire, trecerea de pietoni sau intersecție."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Lumină galbenă solidă",
+"description":"Un avertisment că semnalul se schimbă în roșu și că șoferii trebuie să oprească, cu excepția cazului în care oprirea nu se poate face în siguranță."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Lumină verde continuă",
+"description":"Un semnal care permite mișcarea printr-o intersecție, necesitând în același timp acordarea trecerii."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Lumină roșie intermitentă",
+"description":"Un semnal tratat ca un indicator de oprire, care necesită o oprire completă urmată de acordarea trecerii înainte de a continua."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Lumină galbenă intermitentă",
+"description":"Un semnal care permite șoferilor să circule cu prudență după ce au acordat prioritate traficului și pietonilor."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Lumină verde intermitentă",
+"description":"Un semnal care permite mișcarea sau virajele fără oprire, obligând în același timp șoferii să acorde prioritate participanților legali la trafic."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Semnal de inversare a benzii de rulare",
+"description":"Un X roșu sau o săgeată verde deasupra capului care controlează dacă o bandă este închisă sau disponibilă în direcția indicată."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Semn de reglementare",
+"description":"Un indicator care indică ce trebuie sau nu trebuie să facă participanții la trafic, inclusiv regulile de viteză, viraj, parcare și acces."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Semn de avertizare",
+"description":"Un indicator care notifică în avans un pericol, o stare a drumului, o intersecție, o trecere de pietoni sau o acțiune necesară."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Semn permisiv",
+"description":"Un pătrat alb cu un cerc verde care arată că acțiunea indicată este permisă."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Semn de interdicție",
+"description":"Un indicator alb cu un cerc roșu și o bară diagonală care arată că acțiunea indicată este interzisă."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Semn de oprire",
+"description":"Un indicator de reglementare care necesită oprirea completă și acordarea trecerii înainte de a porni în siguranță."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Semn de cedare a trecerii",
+"description":"Un indicator care obligă un șofer să încetinească, să fie pregătit să oprească și să acorde prioritate acolo unde este necesar."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Limită de viteză",
+"description":"Viteza maximă legală în condiții ideale, nu neapărat o viteză sigură în condiții precare."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Zona școlară",
+"description":"O zonă marcată cu un indicator școlar și o limită de viteză afișată, unde se aplică restricții speciale de viteză și depășire."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Zona școlară",
+"description":"O zonă marcată de un indicator școlar fără un indicator de viteză atașat, care avertizează șoferii să fie prudenți."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Zonă de joacă",
+"description":"O zonă cu indicator pentru loc de joacă și afișată o limită de viteză, unde se aplică restricții de viteză redusă și de depășire."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Zonă de joacă",
+"description":"O zonă marcată cu un indicator pentru locul de joacă, fără indicator de viteză, care avertizează că în apropiere se pot afla copii."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Zonă de construcții",
+"description":"O zonă de lucrări pe șosea unde trebuie respectate vitezele afișate, semnele de avertizare și instrucțiunile persoanei care semnalizează traficul."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Bandă rezervată",
+"description":"O bandă desemnată pentru anumiți utilizatori ai drumurilor, cum ar fi autobuze, taxiuri, biciclete sau vehicule cu ocupare mare."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Linie continuă",
+"description":"Un marcaj rutier care interzice, în general, traversarea pentru depășire sau schimbarea benzilor."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Linie întreruptă",
+"description":"Un marcaj rutier care permite traversarea pentru a depăși sau a schimba banda atunci când este în siguranță."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Linia Galbenă",
+"description":"Un marcaj rutier care separă traficul care circulă în direcții opuse."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Linia Albă",
+"description":"Un marcaj rutier care separă traficul care circulă în aceeași direcție."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Linie de oprire",
+"description":"Un marcaj rutier care indică locul unde un vehicul trebuie să oprească la o intersecție sau la o trecere de cale ferată."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Trecere de pietoni",
+"description":"O zonă marcată sau nemarcată pe care pietonii traversează și șoferii trebuie să acorde prioritate, dacă este necesar."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Pistă de biciclete",
+"description":"O bandă marcată rezervată bicicliștilor pe care vehiculele cu motor pot intra numai acolo unde este permis, de exemplu pentru viraje."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Bandă de utilizare partajată",
+"description":"O bandă de circulație marcată pentru a reaminti șoferilor că bicicliștii pot folosi aceeași bandă."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Punct orb",
+"description":"O zonă de lângă sau puțin în spatele unui vehicul care nu poate fi văzută în oglinzile acestuia."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Verificarea umărului",
+"description":"O privire rapidă peste umăr pentru a verifica o zonă care nu se vede în oglinzi."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Pernă spațială",
+"description":"Spațiu deschis menținut în jurul unui vehicul pentru a oferi spațiu pentru oprire sau evitarea pericolelor."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Distanța de urmărire",
+"description":"Timpul și spațiul menținut între vehiculul dumneavoastră și vehiculul din față."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Regula celor două secunde",
+"description":"Timpul minim de urmărire recomandat în condiții normale de drum și meteorologice."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Timpul de percepție",
+"description":"Timpul necesar pentru a recunoaște o situație și a înțelege că este necesară oprirea sau un alt răspuns."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Timp de reacție",
+"description":"Timpul necesar pentru a reacționa la un pericol, cum ar fi mutarea piciorului de pe accelerație pe frână."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Distanța de frânare",
+"description":"Distanța parcursă de un vehicul după acționarea frânelor până la oprire."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Distanța totală de frânare",
+"description":"Distanța combinată parcursă în timpul percepției, reacției și frânării."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Frânare la prag",
+"description":"Frânare fermă până la punctul dinaintea blocării roților, păstrând capacitatea de a direcționa."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Sistem de frânare antiblocare (ABS)",
+"description":"Un sistem care acționează ciclic de frânare pentru a preveni blocarea roților și a păstra controlul direcției."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Punct de frecare",
+"description":"Poziția ambreiajului în care o transmisie manuală începe să conecteze puterea motorului la roți."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Călătorind pe ambreiaj",
+"description":"Odihna inutilă a unui picior pe pedala de ambreiaj, provocând uzura suplimentară a ambreiajului."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Parcare paralelă",
+"description":"Parcare paralelă cu bordura, în spațiul dintre vehicule."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Parcare în unghi",
+"description":"Parcare într-un loc de parcare poziționat în diagonală, de obicei la aproximativ 45 de grade față de banda de circulație."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Parcare perpendiculară",
+"description":"Parcarea într-un loc de parcare poziționat la un unghi de 90 de grade față de bordură."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Drept de trecere",
+"description":"Reguli care stabilesc care utilizator al drumului trebuie să acorde prioritate și care poate continua."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Intersecție controlată",
+"description":"O intersecție reglementată de indicatoare rutiere, semafoare sau ambele."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Intersecție necontrolată",
+"description":"O intersecție fără indicatoare sau semnale unde șoferii, în general, acordă prioritate vehiculului din dreapta lor."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Colț de curtoazie",
+"description":"O oprire în trei sau patru sensuri în care primul vehicul sosit avansează primul sau vehiculul din dreapta avansează atunci când sosirile sunt simultane."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Sens giratoriu",
+"description":"O intersecție circulară unde traficul se deplasează în sens invers acelor de ceasornic, iar vehiculele care intră acordă prioritate vehiculelor aflate deja în interior."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Sens giratoriu",
+"description":"O intersecție circulară proiectată cu curbe mai strânse pentru a încuraja viteze mai mici."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Virare pe două benzi",
+"description":"O virare efectuată de pe una dintre cele două benzi de viraj marcate pe banda de destinație corespunzătoare."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Bandă de viraj la stânga cu două sensuri",
+"description":"O bandă centrală comună utilizată de traficul din ambele direcții atunci când se pregătește să vireze la stânga."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Întoarcere în U",
+"description":"O manevră care întoarce un vehicul pentru a se deplasa în direcția opusă folosind benzile din sens opus."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Bandă de depășire",
+"description":"O bandă suplimentară pe autostradă care permite traficului mai rapid să depășească în siguranță vehiculele mai lente."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Bandă de oprire de urgență",
+"description":"Acostamentul autostrăzii rezervat pentru opriri urgente sau probleme cu vehiculele, nu pentru condusul sau depășirile normale."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Bandă de accelerare",
+"description":"O bandă utilizată pentru a crește viteza și a se adapta fluxului traficului înainte de a se îmbina pe carosabil."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Bandă de decelerare",
+"description":"O bandă utilizată pentru reducerea vitezei la ieșirea de pe autostradă sau de pe un drum principal."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Îmbinare",
+"description":"Procesul comun de îmbinare în siguranță a traficului la unirea a două drumuri."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Zona de țesut",
+"description":"O bandă comună unde traficul care intră accelerează, în timp ce traficul care iese încetinește."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Derapaj",
+"description":"Pierderea controlului vehiculului cauzată de tracțiunea redusă a anvelopelor."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Derapaj de frânare",
+"description":"Un derapaj produs la frânare blochează roțile unui vehicul fără ABS."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Derapaj electric",
+"description":"O derapare cauzată de accelerarea prea rapidă și de patinarea roților motoare."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Derapaj în viraje",
+"description":"O alunecare laterală cauzată de deplasarea prea rapidă în timpul virajului."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Acvaplanare",
+"description":"Pierderea contactului anvelopei cu o suprafață de drum umedă, ceea ce poate cauza pierderea controlului vehiculului."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Gheață neagră",
+"description":"Un strat de gheață greu de văzut se formează atunci când umezeala îngheață pe drum."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Recuperare off-road",
+"description":"Procesul controlat de încetinire și revenire treptată pe carosabil după părăsirea trotuarului."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Lumini de avertizare avarie",
+"description":"Lumini intermitente în patru direcții folosite pentru a avertiza alte persoane că un vehicul este oprit sau prezintă un pericol."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Conducere proactivă",
+"description":"Anticiparea pericolelor și acționarea timpurie pentru a reduce, minimiza sau evita pericolul."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Timp de livrare vizuală",
+"description":"Distanța măsurată în secunde pe care un șofer o scanează în față pentru a-și acorda timp să reacționeze la pericole."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Pericol fix",
+"description":"O condiție permanentă a drumului, cum ar fi o curbă, un deal, o intersecție sau o alee ascunsă."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Risc variabil",
+"description":"O situație schimbătoare, cum ar fi pietoni, suprafețe înghețate, vehicule de urgență sau lumini verzi stătute."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Condusul distras",
+"description":"Condusul în timp ce atenția este distrasă de activități precum utilizarea telefonului, trimiterea de mesaje text, cititul, programarea dispozitivelor sau îngrijirea personală."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Scaun de siguranță pentru copii",
+"description":"Un sistem de siguranță omologat, selectat în funcție de vârsta sau greutatea copilului și instalat conform instrucțiunilor producătorului."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"Un sistem de ancorare universal utilizat pentru fixarea scaunelor de siguranță pentru copii compatibile pe un vehicul."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Scaun de înălțare",
+"description":"Un scaun omologat care poziționează corect copilul pentru utilizarea centurii de siguranță a vehiculului."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Utilizator vulnerabil al drumurilor",
+"description":"Un pieton, biciclist sau motociclist cu o protecție fizică mai redusă decât un ocupant al unui vehicul închis."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Lumini chihlimbar pentru autobuzul școlar",
+"description":"Lumini de avertizare alternante care indică faptul că un autobuz școlar încetinește și se pregătește să oprească."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Semafoare roșii pentru autobuzul școlar",
+"description":"Semaforizare alternantă care obligă traficul aplicabil să oprească în timp ce elevii intră, coboară sau traversează în apropierea autobuzului."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Lumini de avertizare pentru plugul de zăpadă",
+"description":"Lumini intermitente chihlimbarii și roșii care indică faptul că un plug de zăpadă acționează în față."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Trecerea de cale ferată",
+"description":"O locație în care un drum traversează linii de cale ferată și șoferii trebuie să cedeze trecerea trenurilor."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Crossbuck de cale ferată",
+"description":"Un indicator de trecere de cale ferată în formă de X care obligă mecanicii de locomotivă să cedeze trecerea trenurilor."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Transport feroviar ușor (LRT)",
+"description":"Un sistem feroviar silențios, alimentat electric, ale cărui treceri de cale ferată trebuie tratate ca alte treceri de cale ferată."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Procesiunea funerară",
+"description":"Un șir strâns grupat de vehicule cu farurile aprinse, care pot traversa împreună o intersecție atunci când sunt în siguranță."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Conducerea sub influența alcoolului și a drogurilor",
+"description":"Conducerea unui vehicul în timp ce se consumă alcool, droguri, medicamente sau o altă afecțiune reduce capacitatea de a conduce."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Sancțiuni rutiere imediate (IRS)",
+"description":"Programul de sancțiuni administrative tot mai severe pentru conducerea sub influența alcoolului din Alberta."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERO: Începător",
+"description":"Un program cu toleranță zero față de alcool și droguri pentru șoferii care încep să conducă în clasa 7 și șoferii care conduc în clasa 5-GDL."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS ZERO: Comercial",
+"description":"Un program cu toleranță zero față de alcool și droguri pentru șoferii comerciali care operează în domeniul comercial."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: AVERTISMENT",
+"description":"Sancțiuni rutiere aplicate atunci când concentrația de alcoolemie a unui șofer atinge pragul de avertizare specificat."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: RESPUS",
+"description":"Sancțiuni rutiere grave aplicabile în cazul subminării la nivel penal, concentrărilor interzise sau refuzului unei solicitări legale."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Dispozitiv de blocare a aprinderii",
+"description":"Un dispozitiv care măsoară alcoolul din respirație și care împiedică pornirea unui vehicul atunci când valoarea depășește pragul său."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"SafeRoads Alberta",
+"description":"Ramura administrativă care analizează contestațiile privind sancțiunile provinciale pentru conducerea sub influența alcoolului și confiscările de vehicule."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Procesul de reconsiderare a registratorului",
+"description":"Procesul utilizat pentru a solicita revizuiri ale deciziilor administrative privind conducerea fără efecte secundare."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Lanțuri de siguranță pentru remorcă",
+"description":"Lanțuri fixate în siguranță, încrucișate sub limba unei remorci pentru a asigura o conexiune secundară."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Sistem de ruptură de urgență",
+"description":"Un sistem de siguranță pentru remorcă conceput să se activeze dacă remorca se separă de vehiculul tractor."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"De pe traseu",
+"description":"Tendința roților remorcii de a urma o traiectorie în interiorul traiectoriei parcurse de roțile vehiculului tractor."
+}
+]
