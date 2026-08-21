@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Llicència de conduir gradual (GDL)",
+"description":"El programa de llicències per etapes d`Alberta permet als nous conductors adquirir habilitats i experiència en condicions controlades."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Carnet d`aprenentatge de classe 7",
+"description":"La primera etapa del GDL, que permet la conducció supervisada en condicions d`aprenentatge."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Permís de conduir de classe 5-GDL",
+"description":"Un permís de conduir en període de prova obtingut durant la segona fase del programa GDL d`Alberta."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Permís complet de classe 5",
+"description":"Un permís sense GDL que permet la conducció independent de cotxes i altres vehicles lleugers elegibles."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Prova de coneixements",
+"description":"Un examen informatitzat de tipus test que cobreix les normes de circulació, les pràctiques de conducció segura i la senyalització de trànsit."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Prova de carretera",
+"description":"Una avaluació pràctica del maneig del vehicle, l`observació, el judici i el compliment de les normes de circulació."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Avaluació de la visió",
+"description":"Una comprovació obligatòria que confirma que un conductor compleix els estàndards mínims de visió d`Alberta."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Agent de registre",
+"description":"Una oficina autoritzada d`Alberta que ofereix serveis com ara llicències, registre, proves i actualitzacions de llicències."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Examinador de conductors",
+"description":"Una persona autoritzada per dur a terme proves de conducció i avaluar si els sol·licitants tenen les habilitats de conducció requerides."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Aval de frens d`aire (Q)",
+"description":"Cal una aprovació de carnet per conduir vehicles amb frens només d`aire o combinats de frens d`aire i hidràulics."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Codi de condició",
+"description":"Un codi que s`afegeix al carnet de conduir per identificar un requisit especial de conducció, com ara lents correctores."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Codi d`aprovació",
+"description":"Un codi que indica que un conductor ha completat una formació específica o pot conduir vehicles especialment equipats."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Punts de demèrit",
+"description":"Punts registrats contra l`historial de conducció després d`una condemna per determinades infraccions de trànsit."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Resum del conductor",
+"description":"Un registre oficial que mostri les condemnes per conduir, les suspensions i altra informació sobre el permís de conduir."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Senyal de control de trànsit",
+"description":"Un semàfor vermell, groc o verd que s`utilitza per controlar el flux de trànsit a les interseccions o a les carreteres que es fusionen."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Llum vermella fixa",
+"description":"Un senyal que obliga a aturar-se completament abans de la línia d`aturada, el pas de vianants o la intersecció."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Llum groga sòlida",
+"description":"Un avís que el semàfor canvia a vermell i que els conductors han d`aturar-se tret que no es pugui fer amb seguretat."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Llum verda fixa",
+"description":"Un senyal que permet el moviment a través d`una intersecció tot i que exigeix cedir el pas."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Llum vermella intermitent",
+"description":"Un senyal tractat com un senyal d`aturada, que requereix una aturada completa seguida de cedir el pas abans de continuar."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Llum groga intermitent",
+"description":"Un senyal que permet als conductors circular amb precaució després de cedir el pas al trànsit i als vianants."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Llum verda intermitent",
+"description":"Un senyal que permet el moviment o els girs sense aturar-se i que obliga els conductors a cedir el pas als usuaris legals de la via."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Senyal d`inversió de carril",
+"description":"Una X vermella o una fletxa verda a dalt que controla si un carril està tancat o disponible en la direcció indicada."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Senyal regulador",
+"description":"Un senyal que indica el que els usuaris de la carretera han de fer o no, incloent-hi la velocitat, el gir, l`aparcament i les normes d`accés."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Senyal d`advertència",
+"description":"Un senyal que avís amb antelació d`un perill, l`estat de la carretera, una intersecció, un pas de vianants o una acció necessària."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Senyal permissiu",
+"description":"Un quadrat blanc amb un cercle verd que indica que l`acció indicada està permesa."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Senyal prohibitiu",
+"description":"Un senyal blanc amb un cercle vermell i una barra diagonal que indica que l`acció indicada està prohibida."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Senyal d`aturada",
+"description":"Un senyal reglamentari que obliga a aturar-se completament i cedir el pas abans de continuar amb seguretat."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Senyal de cedir el pas",
+"description":"Un senyal que obliga el conductor a reduir la velocitat, a aturar-se i a donar el pas quan sigui necessari."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Límit de velocitat",
+"description":"La velocitat màxima legal en condicions ideals, no necessàriament una velocitat segura en males condicions."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Zona escolar",
+"description":"Una zona marcada amb un rètol escolar i un límit de velocitat indicat on s`apliquen restriccions especials de velocitat i avançament."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Zona escolar",
+"description":"Una zona marcada amb un rètol escolar sense un senyal de velocitat adjunt, que adverteix els conductors que hagin de tenir precaució."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Zona de jocs infantils",
+"description":"Una zona amb un rètol de parc infantil i un límit de velocitat indicat on s`apliquen restriccions de velocitat reduïda i d`avançament."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Zona de jocs infantils",
+"description":"Una zona marcada amb un senyal de parc infantil sense un senyal de velocitat, que adverteix que hi pot haver nens a prop."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Zona de construcció",
+"description":"Una zona de treballs a la carretera on s`han de respectar les velocitats indicades, els senyals d`advertència i les indicacions del senyalitzador."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Carril reservat",
+"description":"Un carril designat per a usuaris específics de la carretera, com ara autobusos, taxis, bicicletes o vehicles d`alta ocupació."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Línia contínua",
+"description":"Una senyalització calçada que generalment prohibeix creuar per avançar o canviar de carril."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Línia trencada",
+"description":"Una senyalització calçada que permet creuar per avançar o canviar de carril quan és segur."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Línia Groga",
+"description":"Senyalització viària que separa el trànsit en direccions oposades."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Línia blanca",
+"description":"Senyalització calçada que separa el trànsit que circula en la mateixa direcció."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Línia d`aturada",
+"description":"Senyalització a la vorera que indica on un vehicle ha d`aturar-se en una intersecció o un pas a nivell de ferrocarril."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Pas de vianants",
+"description":"Una zona marcada o no marcada on creuen els vianants i els conductors han de cedir el pas si cal."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Carril bici",
+"description":"Un carril marcat reservat per a ciclistes on els vehicles de motor només poden entrar on estigui permès, com ara per girar."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Carril d`ús compartit",
+"description":"Un carril de circulació marcat per recordar als conductors que els ciclistes poden utilitzar el mateix carril."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Punt cec",
+"description":"Una zona al costat o lleugerament darrere d`un vehicle que no es pot veure pels retrovisors."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Comprovació de l`espatlla",
+"description":"Una mirada ràpida per sobre l`espatlla per comprovar una zona que no es pot veure als retrovisors."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Coixí espacial",
+"description":"Espai obert mantingut al voltant d`un vehicle per proporcionar espai per aturar-se o evitar perills."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Distància de seguiment",
+"description":"El temps i l`espai que es manté entre el vostre vehicle i el vehicle que va davant."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Regla dels dos segons",
+"description":"El temps mínim de seguiment recomanat en condicions normals de carretera i meteorològiques."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Temps de percepció",
+"description":"El temps necessari per reconèixer una situació i entendre que cal aturar-se o una altra resposta."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Temps de reacció",
+"description":"El temps necessari per respondre a un perill, com ara passar el peu de l`accelerador al fre."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Distància de frenada",
+"description":"La distància que recorre un vehicle després d`aplicar els frens fins que s`atura."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Distància total de frenada",
+"description":"La distància combinada recorreguda durant la percepció, la reacció i la frenada."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Frenada de llindar",
+"description":"Frenada ferma fins al punt just abans que les rodes es bloquegin, preservant la capacitat de dirigir."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Sistema de frenada antibloqueig (ABS)",
+"description":"Un sistema que cicla la pressió dels frens per ajudar a evitar el bloqueig de les rodes i preservar el control de la direcció."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Punt de fricció",
+"description":"La posició de l`embragatge on una transmissió manual comença a connectar la potència del motor a les rodes."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Muntant l`embragatge",
+"description":"Reposar innecessàriament un peu sobre el pedal de l`embragatge, cosa que provoca un desgast addicional de l`embragatge."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Aparcament en paral·lel",
+"description":"Aparcament paral·lel a la vorera en un espai entre vehicles."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Aparcament en angle",
+"description":"Aparcar en una plaça situada en diagonal, normalment a aproximadament 45 graus respecte al carril de trànsit."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Aparcament perpendicular",
+"description":"Aparcar en una caseta situada en un angle de 90 graus respecte a la vorera."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Dret de pas",
+"description":"Normes que determinen quin usuari de la via ha de cedir el pas i quin pot continuar."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Intersecció controlada",
+"description":"Una intersecció regulada per senyals de trànsit, semàfors o ambdues coses."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Intersecció sense control",
+"description":"Una intersecció sense senyals ni senyals on els conductors generalment cedeixen el pas al vehicle de la seva dreta."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Racó de cortesia",
+"description":"Una parada de tres o quatre vies on el primer vehicle a arribar avança primer, o el vehicle de la dreta avança quan les arribades són simultànies."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Rotonda de trànsit",
+"description":"Una intersecció circular on el trànsit va en sentit antihorari i els vehicles que hi entren cedeixen el pas al trànsit que ja hi ha a dins."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Rotonda",
+"description":"Una intersecció circular dissenyada amb corbes més tancades per afavorir velocitats més baixes."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Gir de doble carril",
+"description":"Un gir realitzat des d`un dels dos carrils de gir marcats cap al carril de destinació corresponent."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Carril de gir a l`esquerra de doble sentit",
+"description":"Un carril central compartit utilitzat pel trànsit de qualsevol direcció quan es prepara per girar a l`esquerra."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Gir en U",
+"description":"Una maniobra que consisteix a fer girar un vehicle perquè circuli en direcció contrària utilitzant els carrils que vénen de costat."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Carril de avançament",
+"description":"Un carril addicional per a l`autopista que permet que el trànsit més ràpid avança els vehicles més lents amb seguretat."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Carril de frenada d`emergència",
+"description":"La vora de l`autopista reservada per a parades urgents o problemes amb el vehicle, no per a la conducció o l`avançament normals."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Carril d`acceleració",
+"description":"Un carril que s`utilitza per augmentar la velocitat i adaptar-se al flux del trànsit abans d`incorporar-se a la calçada."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Carril de desacceleració",
+"description":"Un carril que s`utilitza per reduir la velocitat en sortir d`una autopista o d`una carretera principal."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Fusionant",
+"description":"El procés compartit de combinar el trànsit de manera segura on dues carreteres s`uneixen en una de sola."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Zona de teixit",
+"description":"Un carril compartit on el trànsit d`entrada accelera mentre que el trànsit de sortida disminueix."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Derrapa",
+"description":"Pèrdua de control del vehicle causada per una reducció de la tracció dels pneumàtics."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Derrapatge de frenada",
+"description":"Un derrapatge que es produeix en frenar bloqueja les rodes d`un vehicle sense ABS."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Derrapadors elèctrics",
+"description":"Un derrapatge causat per una acceleració massa ràpida i que fa girar les rodes motrius."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Derrapatge en corba",
+"description":"Un lliscament lateral causat per desplaçar-se massa ràpid mentre es gira."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Aquaplaning",
+"description":"Pèrdua de contacte dels pneumàtics amb una superfície de carretera mullada, que pot causar la pèrdua de control del vehicle."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Gel negre",
+"description":"Una capa de gel difícil de veure que es forma quan la humitat es congela a la carretera."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Recuperació fora de carretera",
+"description":"El procés controlat de reduir la velocitat i tornar gradualment a la calçada després de deixar la vorera."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Llums d`advertència de perill",
+"description":"Llums intermitents de quatre vies que s`utilitzen per avisar els altres que un vehicle està aturat o representa un perill."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Conducció proactiva",
+"description":"Anticipar els riscos i actuar amb antelació per reduir-los, minimitzar-los o evitar-los."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Temps de lliurament visual",
+"description":"La distància mesurada en segons que un conductor escaneja cap endavant per donar temps de respondre als perills."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Perill fix",
+"description":"Una condició permanent de la calçada, com ara una corba, un turó, una intersecció o un camí d`entrada ocult."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Risc variable",
+"description":"Una condició canviant, com ara vianants, superfícies gelades, vehicles d`emergència o semàfors verds apagats."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Conducció distraïda",
+"description":"Conduir mentre l`atenció es desvia en activitats com ara l`ús del telèfon, enviar missatges de text, llegir, programar dispositius o arreglar-se."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Seient de seguretat infantil",
+"description":"Un sistema de retenció homologat seleccionat per a l`edat o el pes d`un nen i instal·lat segons les instruccions del fabricant."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"Un sistema d`ancoratge universal que s`utilitza per fixar seients de seguretat infantils compatibles a un vehicle."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Seient elevador",
+"description":"Un seient homologat que posiciona el nen correctament per a l`ús del cinturó de seguretat del vehicle."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Usuari vulnerable de la carretera",
+"description":"Un vianant, ciclista o motociclista amb menys protecció física que un ocupant d`un vehicle tancat."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Llums ambre de l`autobús escolar",
+"description":"Llums d`advertència alternes que indiquen que un autobús escolar està reduint la velocitat i es prepara per aturar-se."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Llums vermelles de l`autobús escolar",
+"description":"Semàfors alternants que obliguen el trànsit aplicable a aturar-se mentre els estudiants pugen, surten o creuen a prop de l`autobús."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Llums d`advertència de llevaneus",
+"description":"Llums ambre i vermelles intermitents que indiquen que una màquina llevaneu està funcionant més endavant."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Pas a nivell de ferrocarril",
+"description":"Un lloc on una carretera creua les vies del tren i els conductors han de cedir el pas als trens."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Crossbuck del ferrocarril",
+"description":"Un senyal de pas a nivell en forma de X que obliga els conductors a cedir el pas als trens."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Trànsit lleuger de tren (LRT)",
+"description":"Un sistema ferroviari silenciós d`accionament elèctric els passos a nivell del qual s`han de tractar com altres passos a nivell."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Processó fúnebre",
+"description":"Una filera de vehicles agrupats amb els fars encesos que poden creuar junts una intersecció quan sigui segur."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Conducció sota els efectes de l`alcohol",
+"description":"Conduir un vehicle mentre es pren alcohol, drogues, medicaments o una altra afecció redueix la capacitat de conduir."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Sancions immediates a la carretera (IRS)",
+"description":"Programa creixent de sancions administratives per conducció sota els efectes de l`alcohol o les drogues d`Alberta."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERO: Novell",
+"description":"Un programa de tolerància zero a l`alcohol i les drogues per a conductors de classe 7 i conductors de classe 5-GDL."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS ZERO: Comercial",
+"description":"Un programa de tolerància zero amb l`alcohol i les drogues per a conductors comercials que operen en l`àmbit comercial."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: AVÍS",
+"description":"Sancions de trànsit que s`apliquen quan la concentració d`alcoholèmia d`un conductor arriba al llindar d`advertència especificat."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: FALLAT",
+"description":"Sancions greus en carretera que s`apliquen per deteriorament de nivell penal, concentracions prohibides o denegació d`una demanda legal."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Dispositiu d`interbloqueig d`encesa",
+"description":"Un dispositiu que mesura l`alcohol en l`aire i que impedeix que un vehicle arrenqui quan la lectura supera el seu llindar."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"Carreteres Segures Alberta",
+"description":"La branca administrativa que revisa les impugnacions contra les sancions provincials per conduir sota els efectes de l`alcohol i les confiscacions de vehicles."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Procés de reconsideració del registrador",
+"description":"El procés utilitzat per sol·licitar revisions de decisions administratives sobre conducció sense efectes de l`alcohol o les drogues."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Cadenes de seguretat per a remolcs",
+"description":"Cadenes ben fixades creuades sota la llengua d`un remolc per proporcionar una connexió secundària."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Sistema de separació d`emergència",
+"description":"Un sistema de seguretat per a remolcs dissenyat per activar-se si el remolc se separa del vehicle tractor."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Fora de la via",
+"description":"La tendència de les rodes del remolc a seguir una trajectòria dins de la trajectòria feta per les rodes del vehicle tractor."
+}
+]

@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Sürücülük vəsiqəsi üzrə məzun (GDL)",
+"description":"Alberta`nın yeni sürücülərə nəzarət edilən şəraitdə bacarıq və təcrübə qazanmağa imkan verən mərhələli lisenziyalaşdırma proqramı."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"7-ci Sinif Şagirdi Lisenziyası",
+"description":"Birinci GDL mərhələsi, öyrənən şəraitdə nəzarətli sürücülüyə icazə verir."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"5-ci sinif GDL lisenziyası",
+"description":"Alberta GDL proqramının ikinci mərhələsində saxlanılan sınaq müddəti lisenziyası."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Tam 5-ci Sinif Lisenziyası",
+"description":"Avtomobillərin və digər uyğun yüngül nəqliyyat vasitələrinin müstəqil idarə olunmasına icazə verən GDL olmayan lisenziya."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Bilik Testi",
+"description":"Yol hərəkəti qaydalarını, təhlükəsiz sürücülük təcrübələrini və yol nişanlarını əhatə edən kompüterləşdirilmiş çoxvariantlı test."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Yol Testi",
+"description":"Nəqliyyat vasitələrinin idarə olunmasının, müşahidəsinin, mühakiməsinin və yol qaydalarına riayət olunmasının praktik qiymətləndirilməsi."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Görmə Qiymətləndirməsi",
+"description":"Sürücünün Alberta ştatının minimum görmə standartlarına cavab verdiyini təsdiqləyən tələb olunan yoxlama."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Qeydiyyat agenti",
+"description":"Lisenziyalaşdırma, qeydiyyat, sınaq və lisenziya yeniləmələri kimi xidmətlər göstərən səlahiyyətli Alberta ofisi."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Sürücü İmtahançısı",
+"description":"Yol testləri keçirmək və müraciət edənlərin tələb olunan sürücülük vərdişlərinə malik olub-olmadığını qiymətləndirmək səlahiyyəti olan şəxs."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Hava Əyləci Təsdiqi (Q)",
+"description":"Yalnız hava ilə işləyən və ya hava və hidravlik əyləclərin birləşdirilmiş sistemləri olan nəqliyyat vasitələrini idarə etmək üçün tələb olunan lisenziya təsdiqnaməsi."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Vəziyyət Kodu",
+"description":"Korreksiyaedici linzalar kimi xüsusi sürücülük tələbini müəyyən etmək üçün sürücülük vəsiqəsinə yerləşdirilən kod."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Təsdiq Məcəlləsi",
+"description":"Sürücünün xüsusi təlim keçdiyini və ya xüsusi təchiz olunmuş nəqliyyat vasitələrini idarə edə biləcəyini göstərən kod."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Demerit Xallar",
+"description":"Müəyyən yol hərəkəti qaydalarını pozduqlarına görə məhkum edildikdən sonra sürücülük qeydinə qarşı qeydə alınan ballar."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Sürücünün xülasəsi",
+"description":"Sürücülük məhkumluqlarını, sürücülük vəsiqəsi almaqdan imtina hallarını və digər lisenziya məlumatlarını göstərən rəsmi qeyd."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Trafik Nəzarət Siqnalı",
+"description":"Yol ayrıclarında və ya birləşən yollarda nəqliyyat axınını idarə etmək üçün istifadə edilən qırmızı, sarı və ya yaşıl işıq."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Bərk Qırmızı İşıq",
+"description":"Dayanma xəttinin, piyada keçidinin və ya kəsişmənin qarşısında tam dayanmağı tələb edən siqnal."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Bütöv Sarı İşıq",
+"description":"Siqnalın qırmızıya dəyişdiyi və sürücülərin təhlükəsiz şəkildə dayanmaq mümkün olmadığı təqdirdə dayanmalı olduqları barədə xəbərdarlıq."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Bütöv Yaşıl İşıq",
+"description":"Yol verməyi tələb edərkən, yol ayrıcından keçməyə icazə verən siqnal."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Qırmızı İşıq Yanıb-sönür",
+"description":"Dayanma işarəsi kimi qəbul edilən və tam dayanmağı və sonra yol verməyi tələb edən siqnal."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Sönən Sarı İşıq",
+"description":"Sürücülərə nəqliyyat vasitələrinə və piyadalara yol verdikdən sonra ehtiyatla hərəkət etməyə imkan verən siqnal."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Yaşıl İşıq Yanıb-sönür",
+"description":"Sürücülərin qanuni yol istifadəçilərinə yol verməsini tələb edərkən dayanmadan hərəkətə və ya dönməyə icazə verən siqnal."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Zolağın Geri Dönüşü Siqnalı",
+"description":"Göstərilən istiqamətdə zolağın bağlı olub-olmadığını və ya mövcud olub-olmadığını idarə edən qırmızı X və ya yaşıl ox."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Tənzimləyici işarə",
+"description":"Yol istifadəçilərinin nə etməli və nə etməməli olduqlarını, o cümlədən sürət, dönüş, parklanma və giriş qaydalarını göstərən bir işarə."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Xəbərdarlıq işarəsi",
+"description":"Təhlükə, yol vəziyyəti, yol ayrıcı, keçid və ya tələb olunan tədbir barədə əvvəlcədən xəbərdarlıq edən bir işarə."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"İcazə verən işarə",
+"description":"Göstərilən hərəkətin icazə verildiyini göstərən yaşıl dairə olan ağ kvadrat."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Qadağanedici işarə",
+"description":"Göstərilən hərəkətin qadağan olduğunu göstərən qırmızı dairə və diaqonal zolaq olan ağ işarə."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Dayanma işarəsi",
+"description":"Təhlükəsiz şəkildə hərəkət etməzdən əvvəl tam dayanmağı və yol verməyi tələb edən tənzimləyici nişan."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Yol Vermə Nişanı",
+"description":"Sürücüdən sürəti azaltmağı, dayanmağa hazır olmağı və zəruri hallarda yol verməyi tələb edən bir işarə."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Sürət həddi",
+"description":"İdeal şəraitdə qanuni maksimum sürət, pis şəraitdə mütləq təhlükəsiz sürət deyil."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Məktəb Zonası",
+"description":"Xüsusi sürət və ötmə məhdudiyyətlərinin tətbiq olunduğu məktəb lövhəsi və sürət həddi ilə işarələnmiş ərazi."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Məktəb sahəsi",
+"description":"Sürücüləri ehtiyatlı olmağa çağıran, sürət nişanı olmayan məktəb lövhəsi ilə işarələnmiş ərazi."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Oyun Meydançası Zonası",
+"description":"Oyun meydançası işarəsi və sürət həddi olan, sürətin azaldılması və ötmə məhdudiyyətlərinin tətbiq olunduğu ərazi."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Oyun Meydançası",
+"description":"Uşaqların yaxınlıqda ola biləcəyi barədə xəbərdarlıq edən, sürət nişanı olmayan oyun meydançası işarəsi ilə işarələnmiş ərazi."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Tikinti Zonası",
+"description":"İş sahəsi, sürət, xəbərdarlıq nişanları və bayraqdarın göstərişlərinə əməl edilməli olduğu yerdir."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Bron edilmiş zolaq",
+"description":"Avtobuslar, taksilər, velosipedlər və ya çoxlu sayda insan olan nəqliyyat vasitələri kimi müəyyən yol istifadəçiləri üçün nəzərdə tutulmuş zolaq."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Bütöv Xətt",
+"description":"Ümumiyyətlə, zolaqları keçmək və ya dəyişdirmək üçün yolu keçməyi qadağan edən səki nişanı."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Qırılmış Xətt",
+"description":"Təhlükəsiz olduqda zolaqları keçmək və ya dəyişdirmək üçün keçidə icazə verən səki nişanı."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Sarı Xətt",
+"description":"Əks istiqamətlərdə hərəkət edən nəqliyyat vasitələrini ayıran səki nişanı."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Ağ Xətt",
+"description":"Eyni istiqamətdə hərəkət edən nəqliyyat vasitələrini ayıran səki nişanı."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Dayanma Xətti",
+"description":"Yol ayrıcında və ya dəmir yolu keçidində nəqliyyat vasitəsinin harada dayanmalı olduğunu göstərən səki nişanı."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Piyada keçidi",
+"description":"Piyadaların keçdiyi və sürücülərin lazım olduqda yol verməli olduğu işarələnmiş və ya işarələnməmiş sahə."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Velosiped Zolağı",
+"description":"Velosipedçilər üçün ayrılmış və motorlu nəqliyyat vasitələrinin yalnız icazə verilən yerlərdə, məsələn, dönmək üçün daxil ola biləcəyi işarələnmiş zolaq."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Ortaq İstifadə Zolağı",
+"description":"Sürücülərə velosipedçilərin eyni zolaqdan istifadə edə biləcəklərini xatırlatmaq üçün işarələnmiş hərəkət zolağı."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Kor Nöqtə",
+"description":"Güzgülərdə görünməyən nəqliyyat vasitəsinin yanında və ya bir az arxasındakı sahə."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Çiyin yoxlaması",
+"description":"Güzgülərdə görünməyən bir sahəni yoxlamaq üçün çiyin üzərindən qısa bir baxış."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Kosmik Yastıq",
+"description":"Nəqliyyat vasitəsinin ətrafında dayanmaq və ya təhlükələrdən qaçmaq üçün yer təmin etmək məqsədilə saxlanılan açıq sahə."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Məsafəni izləmək",
+"description":"Nəqliyyat vasitənizlə qarşıdakı nəqliyyat vasitəsi arasında saxlanılan zaman və məkan."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"İki saniyəlik qayda",
+"description":"Normal yol və hava şəraitində tövsiyə olunan minimum vaxt."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Qavrayış Zamanı",
+"description":"Vəziyyəti tanımaq və dayandırmanın və ya başqa bir reaksiyanın lazım olduğunu anlamaq üçün tələb olunan vaxt."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Reaksiya müddəti",
+"description":"Təhlükəyə cavab vermək üçün tələb olunan vaxt, məsələn, ayağın qaz pedalından əyləcə keçirilməsi."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Əyləc Məsafəsi",
+"description":"Əyləclər basıldıqdan sonra nəqliyyat vasitəsinin dayanana qədər qət etdiyi məsafə."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Ümumi Dayanma Məsafəsi",
+"description":"Qavrama, reaksiya və əyləc zamanı qət edilən ümumi məsafə."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Eşik Əyləci",
+"description":"Təkərlər kilidlənməzdən əvvəl dəqiq əyləcləmə və sükan idarəetmə qabiliyyətini qorumaq."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Əyləc əleyhinə bloklama sistemi (ABS)",
+"description":"Təkərlərin kilidlənməsinin qarşısını almaq və sükan idarəetməsini qorumaq üçün əyləc təzyiqini dövriyyəyə alan bir sistem."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Sürtünmə nöqtəsi",
+"description":"Mexaniki transmissiyanın mühərrik gücünü təkərlərə qoşmağa başladığı mufta mövqeyi."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Debriyajda sürmək",
+"description":"Əlavə olaraq mufta aşınmasına səbəb olaraq, ayağın mufta pedalına lazımsız şəkildə qoyulması."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Paralel Parkinq",
+"description":"Nəqliyyat vasitələri arasında boşluqda səkiyə paralel parklanma."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Bucaqlı Parkinq",
+"description":"Adətən hərəkət zolağına təxminən 45 dərəcə bucaq altında, diaqonal olaraq yerləşdirilmiş dayanacaqda parklanma."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Perpendikulyar Parkinq",
+"description":"Yol kənarına 90 dərəcə bucaq altında yerləşən dayanacaqda parklanma."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Yol hüququ",
+"description":"Hansı yol istifadəçisinin yol verməli olduğunu və hansının davam edə biləcəyini müəyyən edən qaydalar."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Nəzarət olunan Kəsişmə",
+"description":"Yol nişanları, yol siqnalları və ya hər ikisi ilə tənzimlənən kəsişmə."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Nəzarətsiz Kəsişmə",
+"description":"Sürücülərin ümumiyyətlə sağdakı nəqliyyat vasitəsinə yol verdiyi nişanlar və ya siqnallar olmayan kəsişmə."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Nəzakət Küncü",
+"description":"Üç və ya dörd istiqamətli dayanacaq, ilk gələn nəqliyyat vasitəsinin əvvəlcə yola düşdüyü və ya sağdakı nəqliyyat vasitəsinin gəlişlər eyni vaxtda baş verdikdə yola düşdüyü yerdir."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Yol dairəsi",
+"description":"Nəqliyyatın saat əqrəbinin əksinə hərəkət etdiyi və içəri daxil olan nəqliyyat vasitələrinin artıq içəridə olan nəqliyyat vasitələrinə yol verdiyi dairəvi yol ayrıcı."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Dairəvi yol",
+"description":"Daha aşağı sürətləri təşviq etmək üçün daha dar əyrilərlə dizayn edilmiş dairəvi kəsişmə."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"İki Zolaqlı Dönüş",
+"description":"İki işarələnmiş dönmə zolağından birindən müvafiq təyinat zolağına edilən dönüş."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"İkitərəfli Sola Dönmə Zolağı",
+"description":"Sola dönməyə hazırlaşarkən hər iki istiqamətdən nəqliyyatın istifadə etdiyi ortaq mərkəzi zolaq."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"U-Dönüş",
+"description":"Qarşıdan gələn zolaqlardan istifadə edərək əks istiqamətdə hərəkət etmək üçün nəqliyyat vasitəsini çevirən manevr."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Keçid zolağı",
+"description":"Daha sürətli nəqliyyatın yavaş nəqliyyat vasitələrini təhlükəsiz şəkildə keçməsinə imkan verən əlavə magistral zolaq."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Təcili Dayanacaq Zolağı",
+"description":"Magistral yol kənarı təcili dayanacaqlar və ya nəqliyyat vasitələrinin problemləri üçün nəzərdə tutulub, adi sürücülük və ya ötmə üçün deyil."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Sürətlənmə Zolağı",
+"description":"Yola birləşməzdən əvvəl sürəti artırmaq və nəqliyyat axınına uyğunlaşmaq üçün istifadə edilən zolaq."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Yavaşlama Zolağı",
+"description":"Magistraldan və ya əsas yoldan çıxarkən sürəti azaltmaq üçün istifadə edilən zolaq."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Birləşmə",
+"description":"İki yolun birləşdiyi yerdə nəqliyyatın təhlükəsiz şəkildə qarışdırılmasının ortaq prosesi."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Toxuculuq Zonası",
+"description":"Trafikə giriş sürətinin artdığı, çıxışın isə yavaşladığı ortaq zolaq."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Skid",
+"description":"Təkər dartma qüvvəsinin azalması nəticəsində nəqliyyat vasitəsinin idarəetməsinin itirilməsi."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Əyləc Skid",
+"description":"ABS sistemi olmayan nəqliyyat vasitəsinin təkərlərinin əyləclənməsi zamanı yaranan sürüşmə."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Güclü Skid",
+"description":"Həddindən artıq sürətlənmə və ötürücü təkərlərin fırlanması nəticəsində yaranan sürüşmə."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Künc Skid",
+"description":"Dönərkən çox sürətlə hərəkət etmə nəticəsində yan tərəfə sürüşmə."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Hidroplaninq",
+"description":"Təkərin yaş yol səthi ilə təmasının itirilməsi, bu da nəqliyyat vasitəsinin idarəetməsinin itirilməsinə səbəb ola bilər."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Qara Buz",
+"description":"Yolda nəm donduqda əmələ gələn çətin görünən buz təbəqəsi."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Yoldankənar Bərpa",
+"description":"Səkidən çıxdıqdan sonra yavaşlama və tədricən yola qayıtmanın idarə olunan prosesi."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Təhlükə Xəbərdarlıq İşıqları",
+"description":"Nəqliyyat vasitəsinin dayandığı və ya təhlükə yaratdığı barədə başqalarını xəbərdar etmək üçün istifadə olunan dörd tərəfli yanıb-sönən işıqlar."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Proaktiv Sürücülük",
+"description":"Təhlükələri əvvəlcədən görmək və təhlükəni azaltmaq, minimuma endirmək və ya qarşısını almaq üçün erkən hərəkət etmək."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Vizual Müraciət Vaxtı",
+"description":"Sürücünün təhlükələrə cavab vermək üçün vaxt ayırmaq məqsədilə irəli baxdığı saniyələrlə ölçülən məsafə."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Sabit Təhlükə",
+"description":"Əyri, təpə, kəsişmə və ya gizli yol kimi daimi yol vəziyyəti."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Dəyişkən Təhlükə",
+"description":"Dəyişən şərait, məsələn, piyadalar, buzlu səthlər, təcili yardım maşınları və ya köhnəlmiş yaşıl işıqlar."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Diqqəti yayındıran sürücülük",
+"description":"Telefondan istifadə, mesajlaşma, oxuma, proqramlaşdırma və ya baxım kimi fəaliyyətlər diqqəti yayındırarkən avtomobil idarə etmək."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Uşaq Təhlükəsizlik Oturacağı",
+"description":"Uşağın yaşı və ya çəkisi üçün seçilmiş və istehsalçının təlimatlarına uyğun olaraq quraşdırılmış təsdiq edilmiş təhlükəsizlik cihazı."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"Uyğun uşaq təhlükəsizlik oturacaqlarını nəqliyyat vasitəsinə bərkitmək üçün istifadə olunan universal lövbər sistemi."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Gücləndirici oturacaq",
+"description":"Uşağın nəqliyyat vasitəsinin təhlükəsizlik kəmərindən düzgün istifadə etməsi üçün təsdiq edilmiş oturacaq."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Həssas Yol İstifadəçisi",
+"description":"Qapalı nəqliyyat vasitəsində olan şəxsdən daha az fiziki qorunmaya malik piyada, velosipedçi və ya motosiklet sürücüsü."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Məktəb Avtobusu Kəhrəba İşıqları",
+"description":"Məktəb avtobusunun yavaşladığını və dayanmağa hazırlaşdığını göstərən növbələşən xəbərdarlıq işıqları."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Məktəb Avtobusunun Qırmızı İşıqları",
+"description":"Tələbələr avtobusa minərkən, avtobusdan çıxarkən və ya avtobusun yaxınlığından keçərkən müvafiq nəqliyyat vasitələrinin dayanmasını tələb edən alternativ işıqforlar."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Qar təmizləyən maşın xəbərdarlıq işıqları",
+"description":"Qarşıda qar təmizləyən maşının işlədiyini göstərən sarı və qırmızı işıqların yanıb-sönməsi."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Dəmir Yolu Keçidi",
+"description":"Yolun dəmir yolu xətləri ilə kəsişdiyi və sürücülərin qatarlara yol verməli olduğu yer."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Dəmir Yolu Krossbuck",
+"description":"Sürücülərdən qatarlara yol vermələrini tələb edən X formalı dəmir yolu keçidi nişanı."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Yüngül Dəmir Yolu Tranziti (LRT)",
+"description":"Keçidlərinə digər dəmir yolu keçidləri kimi yanaşmaq lazım olan səssiz elektriklə işləyən dəmir yolu sistemi."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Dəfn mərasimi",
+"description":"Təhlükəsiz olduqda yol ayrıcından birlikdə keçə biləcək faralar yanan nəqliyyat vasitələrinin sıx qruplaşdırılmış xətti."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Zəif Sürücülük",
+"description":"Alkoqol, narkotik, dərman və ya digər xəstəliklərin təsiri altında nəqliyyat vasitəsini idarə etmək sürücülük qabiliyyətini azaldır."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Dərhal Yol Kənarında Sanksiyalar (IRS)",
+"description":"Alberta əyalətinin sərxoş vəziyyətdə avtomobil idarə etməsinə görə artan inzibati cərimə proqramı."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS SIFIR: Təcrübəsiz",
+"description":"7-ci sinif şagirdləri və 5-ci sinif GDL sürücüləri üçün sıfır tolerantlıq proqramı."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS SIFIR: Kommersiya",
+"description":"Kommersiya fəaliyyəti ilə məşğul olan kommersiya sürücüləri üçün sıfır tolerantlıq proqramı."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: XƏBƏRDARLIQ",
+"description":"Sürücünün qanında alkoqol konsentrasiyası göstərilən xəbərdarlıq həddinə çatdıqda tətbiq olunan yol kənarı sanksiyaları."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: UĞURSUZ",
+"description":"Cinayət səviyyəsində pozuntulara, qadağan olunmuş konsentrasiyalara və ya qanuni tələbin rədd edilməsinə tətbiq edilən ciddi yol kənarı sanksiyaları."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Alovlanma bloklaşdırma cihazı",
+"description":"Nəfəsdəki spirti ölçən və göstərici həddini aşdıqda nəqliyyat vasitəsinin işə düşməsinin qarşısını alan cihaz."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"Təhlükəsiz Yollar Alberta",
+"description":"Əyalətdə nəqliyyat vasitəsini idarəetmə qabiliyyətini itirmiş şəxslərə qarşı cərimələr və nəqliyyat vasitələrinin müsadirə edilməsi ilə bağlı etirazları nəzərdən keçirən inzibati şöbə."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Qeydiyyatçının Yenidən Baxılması Prosesi",
+"description":"Bu proses, əlilliyi olmayan sürücülərlə bağlı inzibati qərarların nəzərdən keçirilməsini tələb etmək üçün istifadə olunurdu."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Qoşqu Təhlükəsizlik Zəncirləri",
+"description":"İkinci dərəcəli əlaqə təmin etmək üçün qoşqu dilinin altından çarpaz şəkildə möhkəm bərkidilmiş zəncirlər."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Təcili Ayrılma Sistemi",
+"description":"Qoşqu yedək vasitəsindən ayrıldığı təqdirdə işə salınması üçün hazırlanmış qoşqu təhlükəsizlik sistemi."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"İzləmədən kənar",
+"description":"Qoşqu təkərlərinin yedək nəqliyyat vasitəsinin təkərlərinin keçdiyi cığırın içindəki bir cığırı izləməyə meyli."
+}
+]

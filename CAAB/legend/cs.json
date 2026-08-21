@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Absolvované řidičské oprávnění (GDL)",
+"description":"Albertský program stupňovitých licencí, který umožňuje novým řidičům získat dovednosti a zkušenosti za kontrolovaných podmínek."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Žákovský průkaz třídy 7",
+"description":"První stupeň GDL umožňující řízení pod dohledem za podmínek učícího se řidiče."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Licence třídy 5 - GDL",
+"description":"Zkušební licence získaná během druhé fáze albertského programu GDL."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Plný řidičský průkaz třídy 5",
+"description":"Licence bez GDL, která umožňuje samostatné řízení automobilů a dalších způsobilých lehkých vozidel."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Test znalostí",
+"description":"Počítačový test s výběrem odpovědí zahrnující pravidla silničního provozu, bezpečné jízdní postupy a dopravní značky."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Silniční test",
+"description":"Praktické posouzení ovladatelnosti vozidla, pozorování, úsudku a dodržování pravidel silničního provozu."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Posouzení zraku",
+"description":"Povinná kontrola potvrzující, že řidič splňuje minimální standardy zraku v Albertě."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Registrační agent",
+"description":"Autorizovaná kancelář v Albertě poskytující služby, jako je licencování, registrace, testování a aktualizace licencí."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Zkušební řidič",
+"description":"Osoba oprávněná provádět silniční zkoušky a posuzovat, zda žadatelé mají požadované řidičské dovednosti."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Doložka o schválení pro vzduchové brzdy (Q)",
+"description":"Pro řízení vozidel s pouze vzduchovými nebo kombinovanými vzduchovými a hydraulickými brzdami je vyžadována doložka řidičského průkazu."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Kód stavu",
+"description":"Kód umístěný na řidičském průkazu, který identifikuje zvláštní požadavek na řízení, například korekční čočky."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Kód schválení",
+"description":"Kód prokazující, že řidič absolvoval specifický výcvik nebo může řídit speciálně vybavená vozidla."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Body za trest",
+"description":"Body zaznamenané v řidičském rejstříku po odsouzení za určité dopravní přestupky."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Abstrakt řidiče",
+"description":"Oficiální záznam s odsouzeními za řízení, pozastavením řízení a dalšími informacemi o řidičských průkazech."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Signál řízení dopravy",
+"description":"Červené, žluté nebo zelené světlo používané k řízení provozu na křižovatkách nebo spojovacích silnicích."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Trvalé červené světlo",
+"description":"Signál vyžadující úplné zastavení před stop-čarou, přechodem pro chodce nebo křižovatkou."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Trvalé žluté světlo",
+"description":"Varování, že se signál mění na červenou a řidiči musí zastavit, pokud zastavení nelze provést bezpečně."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Trvalé zelené světlo",
+"description":"Signál povolující průjezd křižovatkou, přičemž stále vyžaduje daní přednosti v jízdě."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Blikající červené světlo",
+"description":"Signál vnímaný jako značka stop, vyžadující úplné zastavení a následné předání přednosti před pokračováním v jízdě."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Blikající žluté světlo",
+"description":"Signalizace umožňující řidičům opatrně pokračovat v jízdě poté, co dají přednost provozu a chodcům."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Blikající zelené světlo",
+"description":"Signál umožňující pohyb nebo odbočení bez zastavení a zároveň vyžadující, aby řidiči dali přednost oprávněným účastníkům silničního provozu."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Signalizace couvání v jízdním pruhu",
+"description":"Červený křížek nebo zelená šipka nad hlavou ovládající, zda je jízdní pruh v uvedeném směru uzavřený nebo volný."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Regulační značka",
+"description":"Značka označující, co účastníci silničního provozu musí nebo nesmí dělat, včetně rychlosti, odbočování, parkování a pravidel přístupu."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Výstražné znamení",
+"description":"Značka poskytující předběžné upozornění na nebezpečí, stav silnice, křižovatku, přechod pro přechod nebo požadovaný zásah."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Povolení znamení",
+"description":"Bílý čtverec se zeleným kruhem ukazuje, že uvedená akce je povolena."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Zakazující znamení",
+"description":"Bílá značka s červeným kruhem a diagonální čárou ukazující, že vyznačená činnost je zakázána."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Stopka",
+"description":"Regulační značka vyžadující úplné zastavení a dání přednosti před bezpečným pokračováním v jízdě."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Výnos znamení",
+"description":"Značka vyžadující, aby řidič zpomalil, byl připraven zastavit a dal přednost v jízdě, kde je to nutné."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Rychlostní limit",
+"description":"Maximální povolená rychlost za ideálních podmínek, ne nutně bezpečná rychlost za špatných podmínek."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Školní zóna",
+"description":"Oblast označená školní značkou a vyvěšeným rychlostním limitem, kde platí zvláštní omezení rychlosti a předjíždění."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Školní oblast",
+"description":"Oblast označená školní značkou bez připojené značky rychlosti, která řidiče varuje před opatrností."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Hřiště",
+"description":"Oblast se značkou hřiště a vyvěšeným rychlostním limitem, kde platí snížená rychlost a omezení předjíždění."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Hřiště",
+"description":"Oblast označená značkou hřiště bez značky omezení rychlosti, která varuje, že se v blízkosti mohou nacházet děti."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Staveniště",
+"description":"Pracovní prostor na vozovce, kde je nutné dodržovat stanovené rychlostní limity, výstražné značky a pokyny osoby hlídající dopravní značku."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Rezervovaný pruh",
+"description":"Pruh určený pro konkrétní účastníky silničního provozu, jako jsou autobusy, taxíky, jízdní kola nebo vozidla s vysokou obsazeností."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Plná čára",
+"description":"Vodorovné značení, které obecně zakazuje přecházení za účelem předjetí nebo změny jízdního pruhu."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Přerušená čára",
+"description":"Vodorovné značení, které umožňuje přecházení nebo změnu jízdního pruhu, pokud je to bezpečné."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Žlutá čára",
+"description":"Vodorovné značení oddělující provoz v opačných směrech."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Bílá čára",
+"description":"Vodorovné značení oddělující provoz ve stejném směru."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Stop čára",
+"description":"Vodorovné značení ukazující, kde musí vozidlo zastavit na křižovatce nebo železničním přejezdu."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Přechod pro chodce",
+"description":"Označená nebo neoznačená oblast, kde chodci přecházejí a řidiči musí v případě potřeby dát přednost."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Cyklistický pruh",
+"description":"Vyznačený pruh vyhrazený pro cyklisty, do kterého mohou motorová vozidla vjíždět pouze tam, kde je to povoleno, například pro odbočení."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Sdílený pruh",
+"description":"Jízdní pruh vyznačený tak, aby řidičům připomínal, že cyklisté mohou použít stejný pruh."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Slepá skvrna",
+"description":"Oblast vedle vozidla nebo mírně za ním, kterou nelze vidět v jeho zrcátkách."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Kontrola ramen",
+"description":"Rychlý pohled přes rameno pro kontrolu oblasti, která není viditelná v zrcátkách."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Vesmírný polštář",
+"description":"Volný prostor udržovaný kolem vozidla, který poskytuje prostor pro zastavení nebo vyhýbání se nebezpečí."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Sledovací vzdálenost",
+"description":"Čas a prostor udržovaný mezi vaším vozidlem a vozidlem jedoucím před vámi."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Pravidlo dvou sekund",
+"description":"Minimální doporučená doba jízdy za normálních silničních a povětrnostních podmínek."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Čas vnímání",
+"description":"Čas potřebný k rozpoznaní situace a pochopení, že je nutné zastavit se nebo reagovat jinak."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Reakční doba",
+"description":"Doba potřebná k reakci na nebezpečí, například k přesunutí nohy z plynového pedálu na brzdu."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Brzdná dráha",
+"description":"Vzdálenost, kterou vozidlo ujede od brzdění do úplného zastavení."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Celková brzdná dráha",
+"description":"Kombinovaná vzdálenost ujetá během vnímání, reakce a brzdění."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Prahové brzdění",
+"description":"Prudké brzdění až do bodu těsně před zablokováním kol, přičemž je zachována schopnost řízení."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Protiblokovací brzdový systém (ABS)",
+"description":"Systém, který cyklicky mění tlak v brzdách, aby zabránil zablokování kol a zachoval kontrolu nad řízením."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Bod tření",
+"description":"Poloha spojky, ve které manuální převodovka začíná připojovat výkon motoru ke kolům."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Jízda na spojce",
+"description":"Zbytečné sešlápnutí nohy na spojkový pedál, což způsobuje další opotřebení spojky."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Paralelní parkování",
+"description":"Parkování rovnoběžně s obrubníkem v prostoru mezi vozidly."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Úhlové parkování",
+"description":"Parkování v parkovacím stání umístěném diagonálně, obvykle přibližně pod úhlem 45 stupňů k jízdnímu pruhu."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Kolmé parkování",
+"description":"Parkování na stání umístěném v úhlu 90 stupňů k obrubníku."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Přednost v jízdě",
+"description":"Pravidla určující, který účastník silničního provozu musí dát přednost a který může pokračovat dál."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Řízená křižovatka",
+"description":"Křižovatka regulovaná dopravními značkami, semafory nebo obojím."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Neřízená křižovatka",
+"description":"Křižovatka bez značení nebo signálů, kde řidiči obvykle dávají přednost vozidlu po své pravé straně."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Zdvořilostní koutek",
+"description":"Zastávka pro tři nebo čtyři osoby, kde první přijíždějící vozidlo pokračuje v jízdě, nebo vozidlo vpravo pokračuje v jízdě, pokud jsou příjezdy současně."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Dopravní kruh",
+"description":"Kruhová křižovatka, kde se provoz pohybuje proti směru hodinových ručiček a vjíždějící vozidla dávají přednost provozu, který je již uvnitř."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Kolotoč",
+"description":"Kruhová křižovatka navržená s užšími zatáčkami, které podporují nižší rychlost."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Odbočení ve dvou jízdních pruzích",
+"description":"Odbočka provedená z jednoho ze dvou vyznačených odbočovacích pruhů do odpovídajícího cílového pruhu."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Obousměrný pruh pro odbočení vlevo",
+"description":"Sdílený středový jízdní pruh používaný provozem z obou směrů při přípravě na odbočení vlevo."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Otočení do protisměru",
+"description":"Manévr, který otáčí vozidlo tak, aby jelo v opačném směru s využitím protijedoucích jízdních pruhů."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Průjezdní pruh",
+"description":"Další jízdní pruh na dálnici, který umožní rychlejšímu provozu bezpečně míjet pomalejší vozidla."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Nouzový zastavovací pruh",
+"description":"Krajnice vyhrazená pro naléhavé zastavení nebo problémy s vozidly, nikoli pro běžnou jízdu nebo předjíždění."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Zrychlovací pruh",
+"description":"Jízdní pruh používaný ke zvýšení rychlosti a přizpůsobení plynulosti dopravy před napojením na vozovku."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Zpomalovací pruh",
+"description":"Jízdní pruh používaný ke snížení rychlosti při sjezdu z dálnice nebo hlavní silnice."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Sloučení",
+"description":"Společný proces bezpečného prolínání dopravy, kde se dvě vozovky spojují do jedné."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Tkaná zóna",
+"description":"Sdílený jízdní pruh, kde se vjíždějící provoz zrychluje, zatímco vyjíždějící provoz se zpomaluje."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Smyk",
+"description":"Ztráta kontroly nad vozidlem způsobená sníženou trakcí pneumatik."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Brzdný smyk",
+"description":"Smyk způsobený brzděním zablokuje kola vozidla bez ABS."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Power Skid",
+"description":"Smyk způsobený příliš rychlou akcelerací a protáčením hnacích kol."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Smyk v zatáčkách",
+"description":"Boční skluz způsobený příliš rychlou jízdou při zatáčení."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Hydroplaning",
+"description":"Ztráta kontaktu pneumatiky s mokrým povrchem vozovky, což může způsobit ztrátu kontroly nad vozidlem."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Černý led",
+"description":"Těžko viditelná vrstva ledu se vytvořila, když na vozovce zamrzla vlhkost."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Terénní odtah",
+"description":"Řízený proces zpomalování a postupného návratu na vozovku po opuštění chodníku."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Výstražná světla",
+"description":"Čtyřcestná blikající světla používaná k varování ostatních, že vozidlo stojí nebo představuje nebezpečí."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Proaktivní řízení",
+"description":"Předvídání nebezpečí a včasné jednání s cílem nebezpečí snížit, minimalizovat nebo se mu vyhnout."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Vizuální dodací lhůta",
+"description":"Vzdálenost měřená v sekundách, kterou řidič prohlíží, aby měl čas reagovat na nebezpečí."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Pevné nebezpečí",
+"description":"Trvalý stav vozovky, jako je zatáčka, kopec, křižovatka nebo skrytá příjezdová cesta."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Proměnné nebezpečí",
+"description":"Měnící se podmínky, jako jsou chodci, zledovatělý povrch, vozidla záchranných složek nebo zhasnulá zelená světla."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Rozptýlená jízda",
+"description":"Řízení, zatímco je pozornost rozptylována činnostmi, jako je používání telefonu, psaní textových zpráv, čtení, programování zařízení nebo úprava zevnějšku."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Dětská bezpečnostní sedačka",
+"description":"Schválený zádržný systém vybraný pro věk nebo hmotnost dítěte a instalovaný podle pokynů výrobce."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/ZÁPADKA",
+"description":"Univerzální kotvicí systém používaný k upevnění kompatibilních dětských autosedaček k vozidlu."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Podsedák",
+"description":"Schválená autosedačka, která dítě správně umístí pro použití bezpečnostního pásu vozidla."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Zranitelný účastník silničního provozu",
+"description":"Chodec, cyklista nebo motocyklista s menší fyzickou ochranou než cestující v uzavřeném vozidle."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Jantarová světla školního autobusu",
+"description":"Střídavě se blikající výstražná světla signalizují, že školní autobus zpomaluje a připravuje se k zastavení."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Červená světla školního autobusu",
+"description":"Střídavá semaforová světla vyžadující zastavení příslušné dopravy, když studenti nastupují, vystupují nebo přecházejí poblíž autobusu."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Výstražná světla pro sněžný pluh",
+"description":"Blikající oranžová a červená světla signalizují, že vpředu jede sněžný pluh."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Železniční přejezd",
+"description":"Místo, kde silnice kříží železniční tratě a řidiči musí dát přednost vlakům."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Železniční Crossbuck",
+"description":"Značka železničního přejezdu ve tvaru X, která vyžaduje, aby řidiči dali přednost vlakům."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Lehká kolejová doprava (LRT)",
+"description":"Tichý elektricky poháněný železniční systém, jehož železniční přejezdy musí být řešeny stejně jako ostatní železniční přejezdy."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Pohřební průvod",
+"description":"Hustě seskupená řada vozidel se zapnutými světlomety, která mohou v bezpečných případech projet křižovatkou společně."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Řízení pod vlivem",
+"description":"Řízení vozidla pod vlivem alkoholu, drog, léků nebo jiného stavu snižuje schopnost řízení."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Okamžité sankce za dopravní nehody (IRS)",
+"description":"Alberta má stále rostoucí administrativní tresty za řízení pod vlivem alkoholu."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERO: Začátečník",
+"description":"Program nulové tolerance vůči alkoholu a drogám pro řidiče s řidičským oprávněním třídy 7 a řidiče s řidičským oprávněním třídy 5 s GDL."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS NULA: Komerční",
+"description":"Program nulové tolerance vůči alkoholu a drogám pro řidiče komerčních vozidel vykonávajících komerční činnost."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: VAROVÁNÍ",
+"description":"Sankceusilničního provozu se uplatňují, když koncentrace alkoholu v krvi řidiče dosáhne stanovené varovné hranice."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: NEÚSPĚCH",
+"description":"Závažné sankceusilničního provozu uplatňované v případě poškození bezpečnosti na trestní úrovni, zakázaných koncentrací nebo odmítnutí zákonné žádosti."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Zařízení pro blokování zapalování",
+"description":"Zařízení měřící alkohol v dechu a zabraňující nastartování vozidla, když naměřená hodnota překročí stanovenou prahovou hodnotu."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"SafeRoads Alberta",
+"description":"Správní orgán, který přezkoumává námitky proti provinčním trestům za řízení pod vlivem alkoholu a zabavení vozidel."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Proces opětovného posouzení registrátora",
+"description":"Proces používaný k podání žádosti o přezkum správních rozhodnutí týkajících se řízení bez pod vlivu vozidel."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Bezpečnostní řetězy pro přívěsy",
+"description":"Bezpečně upevněné řetězy zkřížené pod ojí přívěsu zajišťují sekundární spojení."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Nouzový odtrhovací systém",
+"description":"Bezpečnostní systém přívěsu, který se aktivuje, pokud se přívěs oddělí od tažného vozidla."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Odchylka od trasy",
+"description":"Tendence kol přívěsu sledovat dráhu uvnitř dráhy, kterou procházejí kola tažného vozidla."
+}
+]

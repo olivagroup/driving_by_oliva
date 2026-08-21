@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Diplomirana vozačka dozvola (GDL)",
+"description":"Albertin program licenciranjaufazama koji omogućava novim vozačima da steknu vještine i iskustvo pod kontrolisanim uslovima."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Vozačka dozvola 7. razreda",
+"description":"Prva GDL faza, koja omogućava nadziranu vožnju pod uslovima za učenike."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Dozvola klase 5-GDL",
+"description":"Probna dozvola stečena tokom druge faze GDL programauAlberti."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Potpuna vozačka dozvola klase 5",
+"description":"Dozvola koja nije GDL i koja omogućava samostalno upravljanje automobilima i drugim lakim vozilima koja ispunjavaju uslove."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Test znanja",
+"description":"Kompjuterizirani test s višestrukim izborom odgovora koji pokriva pravila saobraćaja, sigurnu vožnju i saobraćajne znakove."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Probna vožnja",
+"description":"Praktična procjena upravljanja vozilom, zapažanja, procjene i poštivanja saobraćajnih propisa."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Procjena vida",
+"description":"Obavezna provjera kojom se potvrđuje da vozač ispunjava minimalne standarde vida Alberte."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Agent registra",
+"description":"Ovlaštena kancelarijauAlberti koja pruža usluge kao što su licenciranje, registracija, testiranje i ažuriranje licenci."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Ispitivač vozača",
+"description":"Osoba ovlaštena za provođenje vozačkih ispita i procjenu da li kandidati posjeduju potrebne vozačke vještine."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Odobrenje za zračne kočnice (Q)",
+"description":"Za upravljanje vozilima sa samo zračnim ili kombiniranim zračnim i hidrauličnim kočnicama potrebna je vozačka dozvola."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Kod stanja",
+"description":"Kod koji se stavlja na vozačku dozvolu za identifikaciju posebnog zahtjeva za vožnju, kao što su korektivne leće."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Kod preporuke",
+"description":"Kod koji pokazuje da je vozač završio posebnu obuku ili da može upravljati specijalno opremljenim vozilima."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Nedostatni bodovi",
+"description":"Bodovi zabilježeniuvozačkom dosijeu nakon osude za određene saobraćajne prekršaje."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Sažetak za vozača",
+"description":"Zvanični zapis koji prikazuje osude za vožnju, suspenzije i druge informacije o dozvolama."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Signal za regulaciju prometa",
+"description":"Crveno, žuto ili zeleno svjetlo koje se koristi za regulaciju protoka saobraćaja na raskrsnicama ili spajanjima puteva."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Stalno crveno svjetlo",
+"description":"Signal koji zahtijeva potpuno zaustavljanje prije linije zaustavljanja, pješačkog prelaza ili raskrsnice."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Neprekidno žuto svjetlo",
+"description":"Upozorenje da se signal mijenjaucrveni i da vozači moraju stati osim ako se zaustavljanje ne može izvršiti na siguran način."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Stalno zeleno svjetlo",
+"description":"Signal koji dozvoljava kretanje kroz raskrsnicu, a i dalje zahtijeva primjenjivo ustupanje prednosti."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Trepćuće crveno svjetlo",
+"description":"Signal koji se tretira kao znak stop, koji zahtijeva potpuno zaustavljanje nakon čega slijedi ustupanje prednosti prije nastavka vožnje."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Trepćuće žuto svjetlo",
+"description":"Signal koji omogućava vozačima da oprezno nastave kretanje nakon što su ustupili prednost saobraćaju i pješacima."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Trepćuće zeleno svjetlo",
+"description":"Signal koji dozvoljava kretanje ili skretanje bez zaustavljanja, a istovremeno zahtijeva od vozača da ustupe prednost zakonitim učesnicimausaobraćaju."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Signal za preokretanje trake",
+"description":"Crveni X ili zelena strelica iznad glave koja kontroliše da li je traka zatvorena ili dostupnaunaznačenom smjeru."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Regulatorni znak",
+"description":"Znak koji pokazuje šta učesniciusaobraćaju moraju ili ne smiju raditi, uključujući brzinu, skretanje, parkiranje i pravila pristupa."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Znak upozorenja",
+"description":"Znak koji unaprijed obavješćuje o opasnosti, stanju na putu, raskrsnici, prelazu ili potrebnoj radnji."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Dozvoljeni znak",
+"description":"Bijeli kvadrat sa zelenim krugom pokazuje da je naznačena radnja dozvoljena."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Zabranjujući znak",
+"description":"Bijeli znak s crvenim krugom i dijagonalnom crtom koji pokazuje da je naznačena radnja zabranjena."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Znak stop",
+"description":"Regulatorni znak koji zahtijeva potpuno zaustavljanje i ustupanje prednosti prije sigurnog nastavka vožnje."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Znak popusta",
+"description":"Znak koji od vozača zahtijeva da uspori, bude spreman da se zaustavi i da prednost prolaza gdje je to potrebno."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Ograničenje brzine",
+"description":"Maksimalna dozvoljena brzinauidealnim uslovima, ne nužno i sigurna brzinaulošim uslovima."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Školska zona",
+"description":"Područje označeno školskim znakom i istaknutim ograničenjem brzine gdje se primjenjuju posebna ograničenja brzine i preticanja."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Školski prostor",
+"description":"Područje označeno školskim znakom bez priloženog znaka za brzinu, kojim se vozači upozoravaju na oprez."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Zona igrališta",
+"description":"Područje sa znakom za igralište i istaknutim ograničenjem brzine gdje se primjenjuju smanjena brzina i ograničenja preticanja."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Igralište",
+"description":"Područje označeno znakom za igralište bez znaka za brzinu, koji upozorava da se djeca mogu nalazitiublizini."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Građevinska zona",
+"description":"Radno područje na cesti gdje se moraju poštovati propisane brzine, znakovi upozorenja i upute osoba koje postavljaju znakove."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Rezervisana traka",
+"description":"Traka namijenjena određenim korisnicima ceste, kao što su autobusi, taksiji, bicikli ili vozila s puno putnika."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Puna linija",
+"description":"Oznaka na kolovozu koja uglavnom zabranjuje prelazak radi preticanja ili promjene trake."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Prekinuta linija",
+"description":"Oznaka na kolovozu koja omogućava prelazak ceste radi propuštanja ili promjene trake kada je to sigurno."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Žuta linija",
+"description":"Oznaka na kolovozu koja razdvaja saobraćaj koji se krećeusuprotnim smjerovima."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Bijela linija",
+"description":"Oznaka na kolovozu koja razdvaja saobraćaj koji se krećeuistom smjeru."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Zaustavna linija",
+"description":"Oznaka na kolovozu koja pokazuje gdje vozilo mora stati na raskrsnici ili željezničkom prelazu."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Pješački prelaz",
+"description":"Označeno ili neoznačeno područje gdje pješaci prelaze, a vozači moraju ustupiti prednost po potrebi."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Biciklistička staza",
+"description":"Označena traka rezervirana za biciklisteukoju motorna vozila smiju ući samo tamo gdje je to dozvoljeno, na primjer za skretanje."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Traka za dijeljenu upotrebu",
+"description":"Označena saobraćajna traka podsjeća vozače da biciklisti mogu koristiti istu traku."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Slijepa tačka",
+"description":"Područje pored ili malo iza vozila koje se ne može vidjetiunjegovim retrovizorima."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Provjera ramena",
+"description":"Brz pogled preko ramena kako bi se provjerilo područje koje se ne vidiuretrovizorima."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Svemirski jastuk",
+"description":"Otvoreni prostor koji se održava oko vozila kako bi se obezbijedio prostor za zaustavljanje ili izbjegavanje opasnosti."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Praćenje udaljenosti",
+"description":"Vrijeme i prostor koji se održavaju između vašeg vozila i vozila ispred vas."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Pravilo dvije sekunde",
+"description":"Minimalno preporučeno vrijeme praćenja pod normalnim uslovima na putu i vremenskim uslovima."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Vrijeme percepcije",
+"description":"Vrijeme potrebno za prepoznavanje situacije i shvatanje da je potreban prekid ili druga reakcija."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Vrijeme reakcije",
+"description":"Vrijeme potrebno za reagovanje na opasnost, kao što je pomicanje noge s papučice gasa na kočnicu."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Zaustavni put",
+"description":"Udaljenost koju vozilo pređe nakon što se aktiviraju kočnice do potpunog zaustavljanja."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Ukupni zaustavni put",
+"description":"Kombinirana pređena udaljenost tokom percepcije, reakcije i kočenja."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Prag kočenja",
+"description":"Snažno kočenje do tačke neposredno prije nego što se točkovi blokiraju, čuvajući sposobnost upravljanja."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Sistem protiv blokiranja kočnica (ABS)",
+"description":"Sistem koji ciklično mijenja pritisak kočenja kako bi spriječio blokiranje kotača i očuvao kontrolu upravljanja."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Tačka trenja",
+"description":"Položaj kvačilaukojem ručni mjenjač počinje povezivati snagu motora s kotačima."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Vožnja kvačila",
+"description":"Nepotrebno oslanjanje noge na papučicu kvačila, što uzrokuje dodatno trošenje kvačila."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Paralelno parkiranje",
+"description":"Parkiranje paralelno s ivičnjakomuprostoru između vozila."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Parkiranje pod uglom",
+"description":"Parkiranje na mjestu postavljenom dijagonalno, obično pod uglom od približno 45 stepeniuodnosu na saobraćajnu traku."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Okomito parkiranje",
+"description":"Parkiranje na mjestu postavljenom pod uglom od 90 stepeniuodnosu na ivičnjak."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Pravo prolaza",
+"description":"Pravila koja određuju koji učesnikusaobraćaju mora dati prednost, a koji smije nastaviti."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Kontrolisana raskrsnica",
+"description":"Raskrsnica regulisana saobraćajnim znacima, saobraćajnim signalima ili oboje."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Nekontrolisana raskrsnica",
+"description":"Raskrsnica bez znakova ili semafora gdje vozači uglavnom daju prednost vozilima s njihove desne strane."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Kutak ljubaznosti",
+"description":"Trosmjerno ili četverosmjerno stajalište gdje prvo vozilo koje stigne nastavlja prvo, ili vozilo s desne strane nastavlja kada su dolasci istovremeni."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Kružni tok",
+"description":"Kružna raskrsnica na kojoj se saobraćaj odvija suprotno od kazaljke na satu, a vozila koja ulazeuraskrsnicu daju prednost vozilima koja su već unutra."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Kružni tok",
+"description":"Kružna raskrsnica dizajnirana s užim krivinama kako bi se potaknule niže brzine."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Skretanjeudvije trake",
+"description":"Skretanje izvršeno iz jedne od dvije označene trake za skretanjeuodgovarajuću odredišnu traku."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Traka za dvosmjerno skretanje lijevo",
+"description":"Zajednička središnja traka koju koristi saobraćaj iz oba smjera prilikom pripreme za skretanje lijevo."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Polukružno okretanje",
+"description":"Manevar kojim se vozilo okreće kako bi se kretalousuprotnom smjeru koristeći trake za vožnju iz suprotnog smjera."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Traka za preticanje",
+"description":"Dodatna traka na autoputu omogućava bržem saobraćaju da bezbedno pretiče sporija vozila."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Traka za zaustavljanjeunuždi",
+"description":"Zaustavna traka autoputa rezervisana za hitna zaustavljanja ili probleme sa vozilima, a ne za normalnu vožnju ili preticanje."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Traka za ubrzanje",
+"description":"Traka koja se koristi za povećanje brzine i usklađivanje toka saobraćaja prije uključivanja na kolovoz."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Traka za usporavanje",
+"description":"Traka koja se koristi za smanjenje brzine pri izlasku s autoputa ili glavne ceste."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Spajanje",
+"description":"Zajednički proces sigurnog spajanja saobraćaja gdje se dva puta spajajuujedan."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Zona tkanja",
+"description":"Zajednička trakaukojoj se ulazak ubrzava, a izlazak usporava."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Klizanje",
+"description":"Gubitak kontrole nad vozilom uzrokovan smanjenim prianjanjem guma."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Kočenje pri proklizavanju",
+"description":"Proklizavanje uzrokovano kočenjem blokira kotače vozila bez ABS-a."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Power Skid",
+"description":"Proklizavanje uzrokovano prebrzim ubrzanjem i proklizavanjem pogonskih kotača."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Proklizavanjeuzavoju",
+"description":"Bočno klizanje uzrokovano prebrzom vožnjom prilikom skretanja."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Akvaplaning",
+"description":"Gubitak kontakta gume s mokrom površinom ceste, što može uzrokovati gubitak kontrole nad vozilom."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Crni led",
+"description":"Teško uočljiv sloj leda nastao je kada se vlaga smrzne na cesti."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Terenska rehabilitacija",
+"description":"Kontrolisani proces usporavanja i postepenog vraćanja na kolovoz nakon napuštanja kolovoza."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Svjetla za upozorenje na opasnost",
+"description":"Četverosmjerna trepćuća svjetla koja se koriste za upozorenje drugima da je vozilo zaustavljeno ili predstavlja opasnost."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Proaktivna vožnja",
+"description":"Predviđanje opasnosti i rano djelovanje kako bi se smanjila, minimizirala ili izbjegla opasnost."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Vizuelno vrijeme isporuke",
+"description":"Udaljenost mjerenausekundama koju vozač skenira unaprijed kako bi imao vremena za reakciju na opasnosti."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Fiksna opasnost",
+"description":"Trajno stanje kolovoza, kao što je krivina, brdo, raskrsnica ili skriveni prilaz."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Promjenjiva opasnost",
+"description":"Promjenjivi uslovi, kao što su pješaci, zaleđene površine, vozila hitne pomoći ili ugašeno zeleno svjetlo."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Ometena vožnja",
+"description":"Vožnja dok je pažnja odvučena aktivnostima poput korištenja telefona, slanja poruka, čitanja, programiranja uređaja ili dotjerivanja."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Dječije sigurnosno sjedište",
+"description":"Odobrena autosjedalica odabrana prema dobi ili težini djeteta i instalirana prema uputama proizvođača."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/ZATVARANJE",
+"description":"Univerzalni sistem sidrišta koji se koristi za pričvršćivanje kompatibilnih dječjih autosjedalicauvozilo."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Booster sjedište",
+"description":"Odobrena autosjedalica koja pravilno postavlja dijete za korištenje sigurnosnog pojasa vozila."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Ranjivi učesnikusaobraćaju",
+"description":"Pješak, biciklista ili motociklista sa manjom fizičkom zaštitom od putnikauzatvorenom vozilu."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Žuta svjetla školskog autobusa",
+"description":"Naizmjenična svjetla upozorenja koja označavaju da školski autobus usporava i priprema se za zaustavljanje."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Crvena svjetla školskog autobusa",
+"description":"Naizmjenična svjetla koja zahtijevaju zaustavljanje saobraćaja dok učenici ulaze, izlaze ili prelazeublizini autobusa."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Svjetla upozorenja za ralicu snijega",
+"description":"Trepćuća žuta i crvena svjetla označavaju da se ispred nalazi ralica za snijeg."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Željeznički prelaz",
+"description":"Mjesto gdje put prelazi preko željezničke pruge i gdje vozači moraju dati prednost vozovima."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Željeznički Crossbuck",
+"description":"Znakuobliku slova X koji nalaže vozačima da ustupe prednost vozovima."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Laki željeznički tranzit (LRT)",
+"description":"Tihi željeznički sistem na električni pogon čiji se prelazi moraju tretirati kao i drugi željeznički prelazi."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Pogrebna povorka",
+"description":"Gusto grupirana kolona vozila sa upaljenim farovima koja mogu zajedno proći kroz raskrsnicu kada je to bezbedno."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Vožnja pod utjecajem alkohola",
+"description":"Upravljanje vozilom pod utjecajem alkohola, droga, lijekova ili nekog drugog stanja smanjuje sposobnost vožnje."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Trenutne sankcije na cesti (IRS)",
+"description":"Alberta ima sve stroži program administrativnih kazni za vožnju pod utjecajem alkohola."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS NULA: Početnik",
+"description":"Program nulte tolerancije na alkohol i droge za vozače koji pohađaju 7. razred i 5. razred GDL vozačke dozvole."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS NULA: Komercijalno",
+"description":"Program nulte tolerancije na alkohol i droge za komercijalne vozače koji obavljaju komercijalne poslove."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: UPOZORENJE",
+"description":"Sankcije na putu primjenjuju se kada koncentracija alkoholaukrvi vozača dostigne određeni prag upozorenja."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: NEUSPJEH",
+"description":"Ozbiljne sankcije na cesti koje se primjenjuju na oštećenje na krivičnom nivou, zabranjene koncentracije ili odbijanje zakonitog zahtjeva."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Uređaj za blokadu paljenja",
+"description":"Uređaj koji mjeri alkoholudahu i sprječava pokretanje vozila kada očitanje pređe dozvoljeni prag."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"Sigurni putevi Alberta",
+"description":"Administrativna grana koja preispituje prigovore na pokrajinske kazne za vožnju pod utjecajem alkohola i zapljenu vozila."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Proces ponovnog razmatranja registrara",
+"description":"Proces koji se koristi za podnošenje zahtjeva za preispitivanje administrativnih odluka donesenihuslučaju vožnje pod utjecajem alkohola ili droga."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Sigurnosni lanci za prikolice",
+"description":"Sigurno pričvršćeni lanci ukršteni ispod priključka prikolice osiguravaju sekundarnu vezu."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Sistem za hitno otpuštanje",
+"description":"Sigurnosni sistem prikolice dizajniran da se aktivira ako se prikolica odvoji od vučnog vozila."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Odstupanje od kursa",
+"description":"Tendencija kotača prikolice da prate putanju unutar putanje koju zauzimaju kotači vučnog vozila."
+}
+]

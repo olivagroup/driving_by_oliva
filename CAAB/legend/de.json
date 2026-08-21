@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Stufenführerschein (GDL)",
+"description":"Das stufenweise Führerscheinprogramm in Alberta ermöglicht es Fahranfängern, unter kontrollierten Bedingungen Fähigkeiten und Erfahrungen zu sammeln."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Führerscheinklasse 7 (Lernführerschein)",
+"description":"Die erste Stufe des GDL-Programms, die das Fahren unter Aufsicht unter Lernbedingungen ermöglicht."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Führerschein Klasse 5-GDL",
+"description":"Eine befristete Fahrerlaubnis, die während der zweiten Phase des GDL-Programms in Alberta erteilt wurde."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Vollständiger Führerschein der Klasse 5",
+"description":"Eine Fahrerlaubnis ohne Gruppenzugehörigkeit (Non-GDL), die das selbstständige Führen von Pkw und anderen geeigneten leichten Nutzfahrzeugen erlaubt."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Wissenstest",
+"description":"Ein computergestützter Multiple-Choice-Test, der Verkehrsregeln, sicheres Fahrverhalten und Verkehrszeichen abdeckt."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Fahrbericht",
+"description":"Eine praxisnahe Beurteilung von Fahrzeugbeherrschung, Beobachtungsgabe, Urteilsvermögen und Einhaltung der Straßenverkehrsregeln."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Sehprüfung",
+"description":"Eine obligatorische Überprüfung, die bestätigt, dass ein Fahrer die Mindestanforderungen an das Sehvermögen in Alberta erfüllt."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Registrierungsagent",
+"description":"Eine autorisierte Niederlassung in Alberta, die Dienstleistungen wie Lizenzierung, Registrierung, Prüfung und Aktualisierung von Lizenzen anbietet."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Fahrprüfer",
+"description":"Eine Person, die befugt ist, Fahrprüfungen durchzuführen und zu beurteilen, ob die Bewerber über die erforderlichen Fahrkenntnisse verfügen."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Berechtigung zur Erlangung der Druckluftbremsenberechtigung (Q)",
+"description":"Für das Führen von Fahrzeugen mit rein pneumatischen oder kombinierten pneumatischen und hydraulischen Bremsen ist eine Fahrerlaubnis erforderlich."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Zustandscode",
+"description":"Ein Code auf dem Führerschein zur Kennzeichnung einer besonderen Fahranforderung, wie z. B. einer Sehhilfe."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Bestätigungscode",
+"description":"Ein Code, der anzeigt, dass ein Fahrer eine spezielle Ausbildung absolviert hat oder speziell ausgestattete Fahrzeuge bedienen darf."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Strafpunkte",
+"description":"Punkte, die nach einer Verurteilung wegen bestimmter Verkehrsdelikte im Führerscheinregister eingetragen werden."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Fahrerprofil",
+"description":"Ein offizielles Register, das Verkehrsverurteilungen, Führerscheinentzüge und andere Informationen zur Fahrerlaubnis enthält."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Verkehrssignal",
+"description":"Eine rote, gelbe oder grüne Ampel zur Regelung des Verkehrsflusses an Kreuzungen oder zusammenlaufenden Fahrbahnen."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Durchgehendes rotes Licht",
+"description":"Ein Signal, das einen vollständigen Halt vor der Haltelinie, dem Fußgängerüberweg oder der Kreuzung vorschreibt."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Solides gelbes Licht",
+"description":"Eine Warnung, dass die Ampel auf Rot schaltet und die Fahrer anhalten müssen, es sei denn, ein sicheres Anhalten ist nicht möglich."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Durchgehend grünes Licht",
+"description":"Ein Signal, das die Durchfahrt an einer Kreuzung ermöglicht, wobei die geltenden Vorfahrtsregeln weiterhin gelten."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Blinkendes rotes Licht",
+"description":"Ein Signal, das wie ein Stoppschild behandelt wird und ein vollständiges Anhalten sowie das Vorfahren vorschreibt."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Blinkendes gelbes Licht",
+"description":"Ein Signal, das es Fahrern ermöglicht, nach dem Gewähren der Vorfahrt gegenüber dem übrigen Verkehr und Fußgängern vorsichtig weiterzufahren."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Blinkendes grünes Licht",
+"description":"Ein Signal, das das Fahren oder Abbiegen ohne Anhalten erlaubt, gleichzeitig aber von den Fahrern verlangt, rechtmäßigen Verkehrsteilnehmern Vorfahrt zu gewähren."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Fahrspurumkehrsignal",
+"description":"Ein rotes X oder ein grüner Pfeil über der Fahrbahn zeigt an, ob eine Fahrspur in der angegebenen Richtung gesperrt oder befahrbar ist."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Regulierungszeichen",
+"description":"Ein Schild, das angibt, was Verkehrsteilnehmer tun dürfen und was nicht, einschließlich Geschwindigkeits-, Abbiege-, Park- und Zufahrtsregeln."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Warnschild",
+"description":"Ein Schild, das im Voraus auf eine Gefahr, einen Straßenzustand, eine Kreuzung, einen Übergang oder eine erforderliche Maßnahme hinweist."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Erlaubniszeichen",
+"description":"Ein weißes Quadrat mit einem grünen Kreis zeigt an, dass die angegebene Handlung zulässig ist."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Verbotsschild",
+"description":"Ein weißes Schild mit einem roten Kreis und einem diagonalen Balken, das darauf hinweist, dass die angegebene Handlung verboten ist."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Stoppschild",
+"description":"Ein Verkehrsschild, das ein vollständiges Anhalten und Vorfahrt gewähren muss, bevor die Weiterfahrt sicher erfolgen kann."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Vorfahrt gewähren",
+"description":"Ein Schild, das den Fahrer auffordert, langsamer zu fahren, anzuhalten und gegebenenfalls Vorfahrt zu gewähren."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Geschwindigkeitsbegrenzung",
+"description":"Die unter idealen Bedingungen zulässige Höchstgeschwindigkeit ist nicht unbedingt eine sichere Geschwindigkeit unter schlechten Bedingungen."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Schulzone",
+"description":"Ein mit einem Schulschild und einer Geschwindigkeitsbegrenzung gekennzeichneter Bereich, in dem besondere Geschwindigkeits- und Überholbeschränkungen gelten."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Schulbereich",
+"description":"Ein Bereich, der durch ein Schulschild ohne angebrachtes Geschwindigkeitsbegrenzungsschild gekennzeichnet ist und die Fahrer zur Vorsicht mahnt."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Spielplatzzone",
+"description":"Ein Bereich mit einem Spielplatzschild und einer Geschwindigkeitsbegrenzung, in dem Geschwindigkeitsreduzierungen und Überholbeschränkungen gelten."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Spielplatzbereich",
+"description":"Ein Bereich, der mit einem Spielplatzschild ohne Geschwindigkeitsbegrenzung gekennzeichnet ist und darauf hinweist, dass sich Kinder in der Nähe befinden könnten."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Baustelle",
+"description":"Eine Baustelle, bei der die angegebenen Geschwindigkeitsbegrenzungen, Warnschilder und Anweisungen der Verkehrsposten unbedingt zu beachten sind."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Reservierte Fahrspur",
+"description":"Eine Fahrspur, die für bestimmte Verkehrsteilnehmer wie Busse, Taxis, Fahrräder oder Fahrzeuge mit hoher Besetzung vorgesehen ist."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Durchgezogene Linie",
+"description":"Eine Fahrbahnmarkierung, die im Allgemeinen das Überqueren zum Überholen oder Spurwechsel verbietet."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Gestrichelte Linie",
+"description":"Eine Fahrbahnmarkierung, die es erlaubt, die Fahrspur zu überqueren oder zu wechseln, wenn dies sicher ist."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Gelbe Linie",
+"description":"Eine Fahrbahnmarkierung trennt den Verkehr in entgegengesetzten Richtungen."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Weiße Linie",
+"description":"Eine Fahrbahnmarkierung trennt den Verkehr, der in die gleiche Richtung fährt."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Stopplinie",
+"description":"Eine Fahrbahnmarkierung, die anzeigt, wo ein Fahrzeug an einer Kreuzung oder einem Bahnübergang anhalten muss."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Fußgängerüberweg",
+"description":"Ein markierter oder unmarkierter Bereich, in dem Fußgänger die Straße überqueren und Autofahrer den vorgeschriebenen Vorfahrtsregeln beachten müssen."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Fahrradweg",
+"description":"Eine markierte, für Radfahrer reservierte Fahrspur, die Kraftfahrzeuge nur dort befahren dürfen, wo dies ausdrücklich erlaubt ist, beispielsweise zum Abbiegen."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Gemeinsam genutzte Fahrspur",
+"description":"Eine Fahrspur, die Autofahrer daran erinnern soll, dass Radfahrer dieselbe Spur benutzen dürfen."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Toter Winkel",
+"description":"Ein Bereich neben oder etwas hinter einem Fahrzeug, der in dessen Spiegeln nicht sichtbar ist."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Schultercheck",
+"description":"Ein kurzer Blick über die Schulter, um einen Bereich zu überprüfen, der in den Spiegeln nicht zu sehen ist."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Raumkissen",
+"description":"Um ein Fahrzeug herum wird ein Freiraum geschaffen, der Platz zum Anhalten oder Ausweichen vor Gefahren bietet."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Abstand",
+"description":"Der zwischen Ihrem Fahrzeug und dem vorausfahrenden Fahrzeug eingehaltene Zeit- und Abstandsabstand."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Zwei-Sekunden-Regel",
+"description":"Die empfohlene Mindestfolgezeit unter normalen Straßen- und Wetterbedingungen."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Wahrnehmungszeit",
+"description":"Die Zeit, die benötigt wird, um eine Situation zu erkennen und zu verstehen, dass ein Stopp oder eine andere Reaktion erforderlich ist."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Reaktionszeit",
+"description":"Die Zeit, die benötigt wird, um auf eine Gefahr zu reagieren, z. B. den Fuß vom Gaspedal auf die Bremse zu bewegen."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Bremsweg",
+"description":"Die Strecke, die ein Fahrzeug nach dem Betätigen der Bremsen zurücklegt, bis es zum Stillstand kommt."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Gesamtbremsweg",
+"description":"Die gesamte Strecke, die während Wahrnehmung, Reaktion und Bremsung zurückgelegt wird."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Schwellenbremsung",
+"description":"Kräftiges Bremsen bis kurz vor dem Blockieren der Räder, um die Lenkfähigkeit zu erhalten."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Antiblockiersystem (ABS)",
+"description":"Ein System, das den Bremsdruck zyklisch reguliert, um ein Blockieren der Räder zu verhindern und die Lenkkontrolle zu erhalten."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Reibungspunkt",
+"description":"Die Kupplungsstellung, bei der ein Schaltgetriebe die Motorleistung auf die Räder überträgt."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Kupplung schleifen lassen",
+"description":"Das unnötige Abstützen des Fußes auf dem Kupplungspedal führt zu zusätzlichem Kupplungsverschleiß."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Parallelparken",
+"description":"Parken Sie parallel zum Bordstein in einer Lücke zwischen den Fahrzeugen."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Schrägparken",
+"description":"Parken Sie in einer diagonal ausgerichteten Parkbucht, üblicherweise in einem Winkel von etwa 45 Grad zur Fahrspur."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Senkrechtparken",
+"description":"Parken in einer Parkbucht, die im 90-Grad-Winkel zum Bordstein steht."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Wegerecht",
+"description":"Regeln, die festlegen, welcher Verkehrsteilnehmer Vorfahrt gewähren muss und welcher weiterfahren darf."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Kontrollierte Kreuzung",
+"description":"Eine durch Verkehrszeichen, Ampeln oder beides geregelte Kreuzung."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Unkontrollierte Kreuzung",
+"description":"Eine Kreuzung ohne Schilder oder Signale, an der die Fahrer im Allgemeinen dem Fahrzeug von rechts Vorfahrt gewähren."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Höflichkeitsecke",
+"description":"Eine Drei- oder Vier-Wege-Stoppanlage, bei der das zuerst eintreffende Fahrzeug zuerst weiterfährt, oder bei gleichzeitiger Ankunft der Fahrzeuge von rechts das Fahrzeug von rechts weiterfährt."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Kreisel",
+"description":"Ein Kreisverkehr, bei dem der Verkehr gegen den Uhrzeigersinn fließt und einfahrende Fahrzeuge dem bereits im Kreisverkehr befindlichen Verkehr Vorfahrt gewähren."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Kreisel",
+"description":"Ein kreisförmiger Knotenpunkt mit engeren Kurven, der zu niedrigeren Geschwindigkeiten anregen soll."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Abbiegespur",
+"description":"Ein Abbiegevorgang von einer der beiden markierten Abbiegespuren in die entsprechende Zielspur."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Linksabbiegespur in beide Richtungen",
+"description":"Eine gemeinsame Mittelspur, die von Fahrzeugen aus beiden Richtungen beim Linksabbiegen genutzt wird."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"U-Turn",
+"description":"Ein Fahrmanöver, bei dem ein Fahrzeug gewendet wird, um in entgegengesetzter Richtung auf den entgegenkommenden Fahrspuren zu fahren."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Überholspur",
+"description":"Eine zusätzliche Fahrspur auf der Autobahn, die es schnelleren Fahrzeugen ermöglicht, langsamere Fahrzeuge sicher zu überholen."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Notbremsspur",
+"description":"Der Seitenstreifen ist für Notbremsungen oder Fahrzeugpannen reserviert, nicht für normales Fahren oder Überholvorgänge."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Beschleunigungsspur",
+"description":"Eine Fahrspur, die dazu dient, die Geschwindigkeit zu erhöhen und sich dem Verkehrsfluss anzupassen, bevor man auf die Fahrbahn auffährt."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Verzögerungsspur",
+"description":"Eine Fahrspur zur Geschwindigkeitsreduzierung beim Verlassen einer Autobahn oder Hauptstraße."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Zusammenführen",
+"description":"Der gemeinsame Prozess der sicheren Zusammenführung des Verkehrs an der Stelle, an der zwei Fahrbahnen in eine zusammenlaufen."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Webzone",
+"description":"Eine gemeinsame Fahrspur, auf der der einfahrende Verkehr beschleunigt, während der ausfahrende Verkehr abbremst."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Schleudern",
+"description":"Verlust der Fahrzeugkontrolle aufgrund verminderter Reifenhaftung."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Bremsblock",
+"description":"Beim Bremsen blockiert das Schleudern die Räder eines Fahrzeugs ohne ABS."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Power Skid",
+"description":"Ein Schleudern, verursacht durch zu schnelles Beschleunigen und durchdrehende Antriebsräder."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Kurvenschlupf",
+"description":"Seitliches Ausrutschen, verursacht durch zu hohe Geschwindigkeit in einer Kurve."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Aquaplaning",
+"description":"Der Verlust des Reifenkontakts auf nasser Fahrbahn kann zum Verlust der Fahrzeugkontrolle führen."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Glatteis",
+"description":"Eine schwer erkennbare Eisschicht bildet sich, wenn Feuchtigkeit auf der Straße gefriert."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Geländebergung",
+"description":"Der kontrollierte Prozess des Abbremsens und allmählichen Zurückkehrens auf die Fahrbahn nach Verlassen der Fahrbahn."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Warnblinker",
+"description":"Vier-Wege-Blinklichter dienen dazu, andere Verkehrsteilnehmer darauf hinzuweisen, dass ein Fahrzeug steht oder eine Gefahr darstellt."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Proaktives Fahren",
+"description":"Gefahren vorhersehen und frühzeitig handeln, um Gefahren zu reduzieren, zu minimieren oder zu vermeiden."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Visuelle Vorlaufzeit",
+"description":"Die in Sekunden gemessene Distanz, die ein Fahrer vorausblickt, um Zeit zum Reagieren auf Gefahren zu haben."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Feste Gefahrenstelle",
+"description":"Eine dauerhafte Straßenbeschaffenheit, wie zum Beispiel eine Kurve, ein Hügel, eine Kreuzung oder eine versteckte Einfahrt."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Variable Hazard",
+"description":"Sich ändernde Bedingungen, wie z. B. Fußgänger, vereiste Oberflächen, Einsatzfahrzeuge oder veraltete grüne Ampeln."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Ablenkung beim Fahren",
+"description":"Fahren, während die Aufmerksamkeit durch Aktivitäten wie Telefonieren, SMS-Schreiben, Lesen, Programmieren von Geräten oder Körperpflege abgelenkt ist."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Kindersitz",
+"description":"Ein zugelassenes Rückhaltesystem, das entsprechend dem Alter oder Gewicht des Kindes ausgewählt und gemäß den Anweisungen des Herstellers installiert wurde."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"Ein universelles Verankerungssystem zur Befestigung kompatibler Kindersitze in einem Fahrzeug."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Kindersitz",
+"description":"Ein zugelassener Kindersitz, der das Kind für die Verwendung des Fahrzeugsicherheitsgurtes korrekt positioniert."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Gefährdeter Verkehrsteilnehmer",
+"description":"Ein Fußgänger, Radfahrer oder Motorradfahrer mit weniger physischem Schutz als ein Insasse eines geschlossenen Fahrzeugs."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Schulbus-Warnblinker (gelbe Lichter)",
+"description":"Wechselnde Warnleuchten zeigen an, dass ein Schulbus langsamer wird und zum Anhalten ansetzt."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Schulbus-Rotlichter",
+"description":"Wechselnde Ampeln erfordern, dass der entsprechende Verkehr anhält, während Schüler in der Nähe des Busses ein- und aussteigen oder die Straße überqueren."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Schneepflug-Warnleuchten",
+"description":"Blinkende gelbe und rote Lichter zeigen an, dass ein Schneepflug vorausfährt."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Bahnübergang",
+"description":"Eine Stelle, an der eine Straße Bahngleise kreuzt und Autofahrer Zügen Vorfahrt gewähren müssen."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Eisenbahn-Kreuzbock",
+"description":"Ein X-förmiges Bahnübergangsschild, das Autofahrer dazu verpflichtet, Zügen Vorfahrt zu gewähren."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Stadtbahn (LRT)",
+"description":"Ein leises, elektrisch betriebenes Schienensystem, dessen Bahnübergänge wie andere Bahnübergänge behandelt werden müssen."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Trauerzug",
+"description":"Eine dicht beieinander stehende Fahrzeugkolonne mit eingeschalteten Scheinwerfern, die gemeinsam eine Kreuzung passieren kann, sobald dies gefahrlos möglich ist."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Fahren unter Alkoholeinfluss",
+"description":"Das Führen eines Fahrzeugs unter Alkoholeinfluss, Drogeneinfluss, Medikamenteneinfluss oder einem anderen Zustand beeinträchtigt die Fahrtüchtigkeit."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Sofortige Sanktionen am Straßenrand (IRS)",
+"description":"Albertas eskalierendes Verwaltungsstrafenprogramm für Fahren unter Alkoholeinfluss."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERO: Anfänger",
+"description":"Ein Alkohol- und Drogenprogramm mit Null-Toleranz-Politik für Fahrschüler der Klasse 7 und Fahrer der Klasse 5-GDL."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS ZERO: Kommerziell",
+"description":"Ein Null-Toleranz-Programm gegen Alkohol und Drogen für Berufskraftfahrer, die gewerblich tätig sind."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: WARNUNG",
+"description":"Verkehrsstrafen werden verhängt, wenn die Blutalkoholkonzentration eines Fahrers den festgelegten Warnschwellenwert erreicht."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: GESCHEITERT",
+"description":"Schwere Sanktionen am Straßenrand werden bei fahrlässiger Tötung, verbotenen Konzentrationen von Alkohol oder anderen Substanzen oder bei Verweigerung einer rechtmäßigen Anweisung verhängt."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Zündsperrvorrichtung",
+"description":"Ein Gerät zur Messung des Atemalkoholgehalts, das den Start eines Fahrzeugs verhindert, wenn der Messwert den Schwellenwert überschreitet."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"SafeRoads Alberta",
+"description":"Die Verwaltungsabteilung, die Einsprüche gegen Strafen wegen Fahrens unter Alkoholeinfluss und Fahrzeugbeschlagnahmungen auf Provinzebene prüft."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Überprüfungsverfahren des Standesamts",
+"description":"Das Verfahren zur Beantragung der Überprüfung von Verwaltungsentscheidungen im Zusammenhang mit nicht beeinträchtigtem Fahren."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Sicherheitsketten für Anhänger",
+"description":"Sicher befestigte Ketten kreuzten sich unter der Deichsel des Anhängers, um eine zusätzliche Verbindung herzustellen."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Notabtrennsystem",
+"description":"Ein Anhängersicherheitssystem, das sich aktiviert, wenn sich der Anhänger vom Zugfahrzeug löst."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Abseits der Spur",
+"description":"Die Tendenz der Anhängerräder, einer Bahn innerhalb der Bahn der Räder des Zugfahrzeugs zu folgen."
+}
+]

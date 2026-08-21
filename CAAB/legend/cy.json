@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Trwyddedu Gyrru Graddedig (GDL)",
+"description":"Rhaglen drwyddedu fesul cam Alberta sy`n caniatáu i yrwyr newydd ennill sgiliau a phrofiad o dan amodau rheoledig."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Trwydded Dysgwr Dosbarth 7",
+"description":"Y cam GDL cyntaf, sy`n caniatáu gyrru dan oruchwyliaeth o dan amodau dysgwyr."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Trwydded Dosbarth 5-GDL",
+"description":"Trwydded brawf a ddaliwyd yn ystod ail gam rhaglen GDL Alberta."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Trwydded Dosbarth 5 Llawn",
+"description":"Trwydded nad yw`n drwydded GDL sy`n caniatáu gweithrediad annibynnol ceir a cherbydau ysgafn cymwys eraill."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Prawf Gwybodaeth",
+"description":"Prawf amlddewis cyfrifiadurol sy`n ymdrin â rheolau ffyrdd, arferion gyrru diogel ac arwyddion ffyrdd."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Prawf Ffordd",
+"description":"Asesiad ymarferol o drin cerbydau, arsylwi, barnu, a chydymffurfio â rheolau ffyrdd."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Asesiad Golwg",
+"description":"Gwiriad gofynnol yn cadarnhau bod gyrrwr yn bodloni safonau golwg gofynnol Alberta."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Asiant y Gofrestrfa",
+"description":"Swyddfa awdurdodedig yn Alberta sy`n darparu gwasanaethau megis trwyddedu, cofrestru, profi a diweddaru trwyddedau."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Arholwr Gyrwyr",
+"description":"Person sydd wedi`i awdurdodi i gynnal profion ffordd ac asesu a oes gan ymgeiswyr y sgiliau gyrru gofynnol."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Cymeradwyaeth Brêc Aer (Q)",
+"description":"Mae angen cymeradwyaeth drwydded i weithredu cerbydau â breciau aer yn unig neu freciau aer a hydrolig cyfun."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Cod y Cyflwr",
+"description":"Cod a roddir ar drwydded i nodi gofyniad gyrru arbennig, fel lensys cywirol."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Cod Cymeradwyo",
+"description":"Cod sy`n dangos bod gyrrwr wedi cwblhau hyfforddiant penodol neu y gall weithredu cerbydau sydd â chyfarpar arbennig."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Pwyntiau Diffyg",
+"description":"Pwyntiau a gofnodwyd yn erbyn cofnod gyrru yn dilyn euogfarn am rai troseddau traffig."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Crynodeb y Gyrrwr",
+"description":"Cofnod swyddogol sy`n dangos euogfarnau gyrru, gwaharddiadau, a gwybodaeth drwyddedu arall."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Signal Rheoli Traffig",
+"description":"Golau coch, melyn, neu wyrdd a ddefnyddir i reoli llif traffig mewn croesffyrdd neu ffyrdd sy`n uno."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Golau Coch Solet",
+"description":"Signal sy`n ei gwneud yn ofynnol i chi stopio`n llwyr cyn y llinell stop, y groesfan, neu`r groesffordd."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Golau Melyn Solet",
+"description":"Rhybudd bod y signal yn newid i goch a bod yn rhaid i yrwyr stopio oni bai na ellir stopio`n ddiogel."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Golau Gwyrdd Solet",
+"description":"Signal sy`n caniatáu symudiad trwy groesffordd tra`n dal i olygu bod angen ildio`n berthnasol."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Golau Coch yn Fflachio",
+"description":"Signal sy`n cael ei drin fel arwydd stop, sy`n ei gwneud yn ofynnol i chi stopio`n llwyr ac yna ildio cyn symud ymlaen."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Golau Melyn yn Fflachio",
+"description":"Signal sy`n caniatáu i yrwyr symud ymlaen yn ofalus ar ôl ildio i draffig a cherddwyr."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Golau Gwyrdd yn Fflachio",
+"description":"Signal sy`n caniatáu symud neu droi heb stopio tra`n ei gwneud yn ofynnol i yrwyr ildio i ddefnyddwyr cyfreithlon y ffordd."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Signal Gwrthdroi Lôn",
+"description":"X coch uwchben neu saeth werdd yn rheoli a yw lôn ar gau neu ar gael yn y cyfeiriad a nodir."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Arwydd Rheoleiddiol",
+"description":"Arwydd sy`n nodi`r hyn y mae`n rhaid i ddefnyddwyr ffyrdd ei wneud neu beidio â`i wneud, gan gynnwys rheolau cyflymder, troi, parcio a mynediad."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Arwydd Rhybudd",
+"description":"Arwydd sy`n rhoi rhybudd ymlaen llaw o berygl, cyflwr ffordd, croesffordd, croesfan, neu gamau gweithredu gofynnol."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Arwydd Caniataol",
+"description":"Sgwâr gwyn gyda chylch gwyrdd yn dangos bod y weithred a nodir yn ganiataol."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Arwydd Gwaharddol",
+"description":"Arwydd gwyn gyda chylch coch a bar croeslin yn dangos bod y weithred a nodir wedi`i gwahardd."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Arwydd Stop",
+"description":"Arwydd rheoleiddio sy`n ei gwneud yn ofynnol i chi stopio`n llwyr ac ildio cyn symud ymlaen yn ddiogel."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Arwydd ildio",
+"description":"Arwydd sy`n gofyn i yrrwr arafu, bod yn barod i stopio, a rhoi hawl tramwy lle bo angen."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Terfyn Cyflymder",
+"description":"Y cyflymder cyfreithiol uchaf o dan amodau delfrydol, nid o reidrwydd cyflymder diogel mewn amodau gwael."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Parth Ysgol",
+"description":"Ardal wedi`i marcio ag arwydd ysgol a therfyn cyflymder wedi`i bostio lle mae cyfyngiadau arbennig ar gyflymder a phasio yn berthnasol."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Ardal yr Ysgol",
+"description":"Ardal wedi`i marcio gan arwydd ysgol heb arwydd cyflymder ynghlwm, yn rhybuddio gyrwyr i fod yn ofalus."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Parth Chwarae",
+"description":"Ardal gydag arwydd maes chwarae a therfyn cyflymder wedi`i bostio lle mae cyfyngiadau cyflymder is a phasio yn berthnasol."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Ardal Chwarae",
+"description":"Ardal wedi`i marcio gan arwydd maes chwarae heb arwydd cyflymder, yn rhybuddio y gallai plant fod gerllaw."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Parth Adeiladu",
+"description":"Ardal waith ar y ffordd lle mae`n rhaid ufuddhau i gyfarwyddiadau cyflymder, arwyddion rhybuddio a banerwyr."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Lôn Wedi`i Chadw",
+"description":"Lôn sydd wedi`i dynodi ar gyfer defnyddwyr ffyrdd penodol, fel bysiau, tacsis, beiciau, neu gerbydau â llawer o deithwyr."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Llinell Solet",
+"description":"Marc palmant sydd fel arfer yn gwahardd croesi i basio neu newid lonydd."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Llinell Doredig",
+"description":"Marc palmant sy`n caniatáu croesi i basio neu newid lonydd pan fo`n ddiogel."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Llinell Felen",
+"description":"Marc palmant sy`n gwahanu traffig sy`n teithio i gyfeiriadau gyferbyniol."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Llinell Wen",
+"description":"Marc palmant sy`n gwahanu traffig sy`n teithio i`r un cyfeiriad."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Llinell Stopio",
+"description":"Marc palmant sy`n dangos ble mae`n rhaid i gerbyd stopio mewn croesffordd neu groesfan reilffordd."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Croesfan",
+"description":"Ardal wedi`i marcio neu heb ei marcio lle mae cerddwyr yn croesi a rhaid i yrwyr ildio yn ôl yr angen."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Lôn Feiciau",
+"description":"Lôn wedi`i marcio wedi`i chadw ar gyfer beicwyr na chaiff cerbydau modur fynd arni ond lle caniateir, fel ar gyfer troi."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Lôn Defnydd a Rennir",
+"description":"Lôn deithio wedi`i marcio i atgoffa gyrwyr y gall beicwyr ddefnyddio`r un lôn."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Man Dall",
+"description":"Ardal wrth ymyl neu ychydig y tu ôl i gerbyd na ellir ei gweld yn ei ddrychau."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Gwiriad Ysgwydd",
+"description":"Cipolwg cyflym dros yr ysgwydd i wirio ardal na ellir ei gweld yn y drychau."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Clustog Gofod",
+"description":"Lle agored a gynhelir o amgylch cerbyd i ddarparu lle i stopio neu osgoi peryglon."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Pellter Dilyn",
+"description":"Yr amser a`r gofod a gynhelir rhwng eich cerbyd a`r cerbyd o`ch blaen."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Rheol Dwy Eiliad",
+"description":"Yr amser dilyn lleiaf a argymhellir o dan amodau ffordd a thywydd arferol."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Amser Canfyddiad",
+"description":"Yr amser sydd ei angen i gydnabod sefyllfa a deall bod angen stopio neu ymateb arall."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Amser Ymateb",
+"description":"Yr amser sydd ei angen i ymateb i berygl, fel symud troed o`r cyflymydd i`r brêc."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Pellter Brecio",
+"description":"Y pellter y mae cerbyd yn teithio ar ôl i`w freciau gael eu rhoi ar waith nes iddo stopio."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Cyfanswm y Pellter Stopio",
+"description":"Y pellter cyfun a deithiwyd yn ystod canfyddiad, ymateb a brecio."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Brecio Trothwy",
+"description":"Brecio cadarn i`r pwynt ychydig cyn i`r olwynion gloi, gan gadw`r gallu i lywio."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"System Brêcio Gwrth-Gloi (ABS)",
+"description":"System sy`n cylchdroi pwysau brêc i helpu i atal cloi olwynion a chadw rheolaeth ar y llyw."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Pwynt Fricsiwn",
+"description":"Y safle cydiwr lle mae trosglwyddiad â llaw yn dechrau cysylltu pŵer yr injan â`r olwynion."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Marchogaeth y Clytsh",
+"description":"Gorffwys troed yn ddiangen ar y pedal cydiwr, gan achosi traul ychwanegol ar y cydiwr."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Parcio Cyfochrog",
+"description":"Parcio yn gyfochrog â`r palmant mewn gofod rhwng cerbydau."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Parcio Ongl",
+"description":"Parcio mewn stondin wedi`i lleoli`n groeslinol, fel arfer tua 45 gradd i`r lôn draffig."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Parcio Perpendicwlar",
+"description":"Parcio mewn stondin wedi`i lleoli ar ongl 90 gradd i`r palmant."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Hawl Tramwy",
+"description":"Rheolau sy`n pennu pa ddefnyddiwr ffordd sy`n rhaid iddo ildio a pha un all fynd ymlaen."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Croesffordd Reoledig",
+"description":"Croesffordd sy`n cael ei rheoleiddio gan arwyddion traffig, signalau traffig, neu`r ddau."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Croesffordd heb ei rheoli",
+"description":"Croesffordd heb arwyddion na signalau lle mae gyrwyr fel arfer yn ildio i`r cerbyd ar eu dde."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Cornel Cwrteisi",
+"description":"Arosfan tair neu bedair ffordd lle mae`r cerbyd cyntaf i gyrraedd yn mynd yn gyntaf, neu`r cerbyd ar y dde yn mynd yn ei flaen pan fydd y cerbydau`n cyrraedd ar yr un pryd."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Cylch Traffig",
+"description":"Croesffordd gylchol lle mae traffig yn teithio`n wrthglocwedd ac mae cerbydau sy`n mynd i mewn yn ildio i draffig sydd eisoes y tu mewn."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Cylchfan",
+"description":"Croesffordd gylchol wedi`i chynllunio gyda chromliniau tynnach i annog cyflymderau is."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Tro Ddeuol-Lôn",
+"description":"Tro a wneir o un o ddwy lôn droi wedi`u marcio i`w lôn gyrchfan gyfatebol."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Lôn Ddwyffordd i Droi i`r Chwith",
+"description":"Lôn ganol a rennir a ddefnyddir gan draffig o`r naill gyfeiriad neu`r llall wrth baratoi i droi i`r chwith."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Tro U",
+"description":"Symudiad sy`n troi cerbyd o gwmpas i deithio i`r cyfeiriad arall gan ddefnyddio lonydd sy`n dod tuag ato."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Lôn Basio",
+"description":"Lôn briffordd ychwanegol sy`n caniatáu i draffig cyflymach basio cerbydau arafach yn ddiogel."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Lôn Stopio Argyfwng",
+"description":"Ysgwydd y briffordd wedi`i neilltuo ar gyfer stopiau brys neu broblemau cerbydau, nid gyrru neu basio arferol."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Lôn Gyflymu",
+"description":"Lôn a ddefnyddir i gynyddu cyflymder a chyfateb i lif y traffig cyn uno â ffordd."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Lôn Arafu",
+"description":"Lôn a ddefnyddir i leihau cyflymder wrth adael priffordd neu brif ffordd."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Uno",
+"description":"Y broses a rennir o gymysgu traffig yn ddiogel lle mae dwy ffordd yn ymuno yn un."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Parth Gwehyddu",
+"description":"Lôn a rennir lle mae traffig sy`n dod i mewn yn cyflymu tra bod traffig sy`n gadael yn arafu."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Sgidio",
+"description":"Colli rheolaeth ar y cerbyd a achosir gan ostyngiad mewn gafael teiars."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Llithriad Brêcio",
+"description":"Mae sgid a achosir wrth frecio yn cloi olwynion cerbyd heb ABS."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Sgid Pŵer",
+"description":"Llithriad a achosir gan gyflymu`n rhy gyflym a gwneud i`r olwynion gyrru droelli."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Llithriad Cornelu",
+"description":"Llithriad i`r ochr a achosir gan deithio`n rhy gyflym wrth droi."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Hydroplanio",
+"description":"Colli cyswllt teiar ag arwyneb ffordd wlyb, a all achosi colli rheolaeth ar y cerbyd."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Iâ Du",
+"description":"Haen o rew sy`n anodd ei gweld a ffurfiwyd pan fydd lleithder yn rhewi ar y ffordd."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Adferiad Oddi ar y Ffordd",
+"description":"Y broses reoledig o arafu a dychwelyd yn raddol i`r ffordd ar ôl gadael y palmant."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Goleuadau Rhybudd Perygl",
+"description":"Goleuadau fflachio pedair ffordd a ddefnyddir i rybuddio eraill bod cerbyd wedi stopio neu`n cyflwyno perygl."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Gyrru Rhagweithiol",
+"description":"Rhagweld peryglon a gweithredu`n gynnar i leihau, lleihau neu osgoi perygl."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Amser Arweiniol Gweledol",
+"description":"Y pellter wedi`i fesur mewn eiliadau y mae gyrrwr yn sganio ymlaen i ganiatáu amser i ymateb i beryglon."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Perygl Sefydlog",
+"description":"Cyflwr ffordd parhaol, fel cromlin, bryn, croesffordd, neu ffordd fynedfa gudd."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Perygl Amrywiol",
+"description":"Cyflwr sy`n newid, fel cerddwyr, arwynebau rhewllyd, cerbydau brys, neu oleuadau gwyrdd hen ffasiwn."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Gyrru wedi`i Dynnu o Ddifrif",
+"description":"Gyrru tra bod sylw`n cael ei ddargyfeirio gan weithgareddau fel defnyddio ffôn, anfon negeseuon testun, darllen, rhaglennu dyfeisiau, neu ymbincio."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Sedd Diogelwch Plant",
+"description":"Ataliaeth gymeradwy wedi`i dewis ar gyfer oedran neu bwysau plentyn ac wedi`i gosod yn unol â chyfarwyddiadau`r gwneuthurwr."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"System angor gyffredinol a ddefnyddir i sicrhau seddi diogelwch plant cydnaws i gerbyd."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Sedd Hybu",
+"description":"Sedd gymeradwy sy`n gosod plentyn yn gywir ar gyfer defnyddio gwregys diogelwch y cerbyd."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Defnyddiwr Ffordd sy`n Agored i Niwed",
+"description":"Cerddwr, beiciwr, neu feicwr modur gyda llai o amddiffyniad corfforol na theithiwr mewn cerbyd caeedig."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Goleuadau Ambr Bws Ysgol",
+"description":"Goleuadau rhybuddio bob yn ail yn dangos bod bws ysgol yn arafu ac yn paratoi i stopio."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Goleuadau Coch Bws Ysgol",
+"description":"Goleuadau eiledol sy`n ei gwneud yn ofynnol i draffig perthnasol stopio wrth i fyfyrwyr fynd i mewn, gadael, neu groesi ger y bws."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Goleuadau Rhybudd Aradr Eira",
+"description":"Goleuadau ambr a choch yn fflachio yn dangos bod aradr eira yn gweithredu o`n blaenau."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Croesfan Rheilffordd",
+"description":"Lleoliad lle mae ffordd yn croesi traciau rheilffordd a rhaid i yrwyr ildio i drenau."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Rheilffordd Crossbuck",
+"description":"Arwydd croesfan reilffordd siâp X sy`n ei gwneud yn ofynnol i yrwyr ildio i drenau."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Trafnidiaeth Rheilffordd Ysgafn (LRT)",
+"description":"System reilffordd dawel sy`n cael ei phweru`n drydanol y mae`n rhaid trin ei chroesfannau fel croesfannau rheilffordd eraill."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Gorymdaith Angladd",
+"description":"Llinell o gerbydau wedi`u grwpio`n agos gyda goleuadau ymlaen a all fynd gyda`i gilydd trwy groesffordd pan fo`n ddiogel."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Gyrru dan Anhwylder",
+"description":"Gyrru cerbyd tra bod alcohol, cyffuriau, meddyginiaeth, neu gyflwr arall yn lleihau`r gallu i yrru."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Sancsiynau Ar Unwaith ar Ymyl y Ffordd (IRS)",
+"description":"Rhaglen gosbau gweinyddol gynyddol Alberta am yrru dan ddylanwad alcohol."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS DIM: Dechreuwr",
+"description":"Rhaglen dim goddefgarwch i alcohol a chyffuriau ar gyfer dysgwyr Dosbarth 7 a gyrwyr Dosbarth 5-GDL."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS DIM: Masnachol",
+"description":"Rhaglen dim goddefgarwch i alcohol a chyffuriau ar gyfer gyrwyr masnachol sy`n gweithredu mewn swyddogaeth fasnachol."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: RHYBUDD",
+"description":"Sancsiynau ar ochr y ffordd yn berthnasol pan fydd crynodiad alcohol yn y gwaed gyrrwr yn cyrraedd y trothwy rhybuddio penodedig."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: METHU",
+"description":"Sancsiynau difrifol ar ochr y ffordd yn berthnasol i nam ar lefel droseddol, crynodiadau gwaharddedig, neu wrthod cais cyfreithlon."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Dyfais Rhyng-gloi Tanio",
+"description":"Dyfais sy`n mesur alcohol yn yr anadl ac yn atal cerbyd rhag cychwyn pan fydd y darlleniad yn fwy na`i drothwy."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"Ffyrdd Diogel Alberta",
+"description":"Y gangen weinyddol sy`n adolygu heriau i gosbau gyrru dan ddylanwad taleithiol ac atafaelu cerbydau."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Proses Ailystyried y Cofrestrydd",
+"description":"Y broses a ddefnyddir i ofyn am adolygiadau o benderfyniadau gweinyddol ynghylch gyrru heb fod yn amhariad."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Cadwyni Diogelwch Trelar",
+"description":"Cadwyni wedi`u clymu`n ddiogel wedi`u croesi o dan dafod trelar i ddarparu cysylltiad eilaidd."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"System Torri i Ffwrdd Argyfwng",
+"description":"System diogelwch trelar sydd wedi`i chynllunio i weithredu os yw`r trelar yn gwahanu oddi wrth y cerbyd tynnu."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Oddi ar y Trac",
+"description":"Y duedd sydd gan olwynion trelar i ddilyn llwybr y tu mewn i`r llwybr a gymerir gan olwynion y cerbyd tynnu."
+}
+]
