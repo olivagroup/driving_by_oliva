@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Gradert førerkort (GDL)",
+"description":"Albertas trinnvise førerkortprogram som lar nye sjåfører tilegne seg ferdigheter og erfaring under kontrollerte forhold."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Klasse 7 elevlisens",
+"description":"Det første GDL-stadiet, som tillater overvåket kjøring under læringsforhold."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Klasse 5-GDL-lisens",
+"description":"En prøvetidslisens holdt under den andre fasen av Albertas GDL-program."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Full klasse 5-førerkort",
+"description":"En ikke-GDL-lisens som tillater uavhengig kjøring av biler og andre kvalifiserte lette kjøretøy."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Kunnskapstest",
+"description":"En datastyrt flervalgstest som dekker trafikkregler, sikker kjørepraksis og trafikkskilt."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Veitest",
+"description":"En praktisk vurdering av kjøretøyets håndtering, observasjon, dømmekraft og overholdelse av trafikkreglene."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Synsvurdering",
+"description":"En obligatorisk sjekk som bekrefter at en sjåfør oppfyller Albertas minimumsstandarder for syn."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Registeragent",
+"description":"Et autorisert kontor i Alberta som tilbyr tjenester som lisensiering, registrering, testing og lisensoppdateringer."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Førerprøvekontrollant",
+"description":"En person som er autorisert til å gjennomføre kjøreprøver og vurdere om søkere har de nødvendige kjøreferdighetene."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Godkjenning av luftbremser (Q)",
+"description":"En førerkortpåtegning kreves for å føre kjøretøy med kun luftbremser eller kombinerte luft- og hydrauliske bremser."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Tilstandskode",
+"description":"En kode plassert på førerkortet for å identifisere et spesielt kjørekrav, for eksempel korrigerende linser."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Godkjenningskode",
+"description":"En kode som viser at en sjåfør har fullført spesifikk opplæring eller kan føre spesialutstyrte kjøretøy."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Demeritpoeng",
+"description":"Prikker registrert mot en kjørejournal etter domfellelse for visse trafikkforseelser."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Sjåførens sammendrag",
+"description":"En offisiell oversikt som viser førerkortdommer, suspensjoner og annen førerkortinformasjon."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Trafikkontrollsignal",
+"description":"Et rødt, gult eller grønt lys som brukes til å kontrollere trafikkflyten i kryss eller sammenføyde veier."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Fast rødt lys",
+"description":"Et signal som krever fullstendig stopp før stopplinjen, fotgjengerovergangen eller krysset."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Fast gult lys",
+"description":"En advarsel om at signalet skifter til rødt og at sjåfører må stoppe med mindre stopping ikke kan gjøres på en sikker måte."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Fast grønt lys",
+"description":"Et signal som tillater kjøring gjennom et kryss, samtidig som det krever gjeldende vikeplikt."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Blinkende rødt lys",
+"description":"Et signal som behandles som et stoppskilt, som krever fullstendig stopp etterfulgt av vikeplikt før man fortsetter."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Blinkende gult lys",
+"description":"Et signal som lar sjåfører kjøre forsiktig etter å ha gitt vikeplikt for trafikk og fotgjengere."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Blinkende grønt lys",
+"description":"Et signal som tillater bevegelse eller svinger uten å stoppe, samtidig som det krever at sjåfører viker for lovlige trafikanter."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Signal for filreversering",
+"description":"En rød X eller grønn pil over hodet som angir om et kjørefelt er stengt eller tilgjengelig i den angitte retningen."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Reguleringsskilt",
+"description":"Et skilt som angir hva trafikanter må eller ikke må gjøre, inkludert fart, sving, parkering og tilgangsregler."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Varselskilt",
+"description":"Et skilt som gir forhåndsvarsel om en fare, veiforhold, kryss, kryssing eller nødvendige tiltak."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Tillatelsesskilt",
+"description":"En hvit firkant med en grønn sirkel som viser at den angitte handlingen er tillatt."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Forbudsskilt",
+"description":"Et hvitt skilt med en rød sirkel og diagonal strek som viser at den angitte handlingen er forbudt."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Stoppskilt",
+"description":"Et forskriftsskilt som krever fullstendig stopp og vikeplikt før man kan fortsette trygt."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Vikepliktskilt",
+"description":"Et skilt som krever at en sjåfør sakker farten, er forberedt på å stoppe og viker for veien der det er nødvendig."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Fartsgrense",
+"description":"Maksimal lovlig hastighet under ideelle forhold, ikke nødvendigvis en trygg hastighet under dårlige forhold."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Skolesone",
+"description":"Et område merket med et skoleskilt og oppskiltet fartsgrense der spesielle farts- og forbikjøringsrestriksjoner gjelder."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Skoleområde",
+"description":"Et område merket med et skoleskilt uten et påsatt fartsskilt, som advarer sjåfører om å være forsiktige."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Lekeplasssone",
+"description":"Et område med skilt for lekeplass og oppskiltet fartsgrense der det gjelder restriksjoner på redusert fart og forbikjøring."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Lekeplassområde",
+"description":"Et område merket med et lekeplassskilt uten fartsskilt, som advarer om at barn kan være i nærheten."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Byggesone",
+"description":"Et arbeidsområde på veien hvor oppsatte hastigheter, varselskilt og anvisninger fra flaggvakten må følges."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Reservert kjørefelt",
+"description":"Et kjørefelt beregnet for bestemte trafikanter, for eksempel busser, drosjer, sykler eller kjøretøy med mye plass."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Heltrukket linje",
+"description":"En veimarkering som vanligvis forbyr kryssing for å passere eller bytte kjørefelt."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Brutt linje",
+"description":"En veimarkering som tillater kryssing for å passere eller bytte kjørefelt når det er trygt."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Gul linje",
+"description":"En veimerking som skiller trafikk som kjører i motsatte retninger."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Hvit linje",
+"description":"En veimarkering som skiller trafikk som kjører i samme retning."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Stopplinje",
+"description":"En veimarkering som viser hvor et kjøretøy må stoppe i et kryss eller en jernbaneovergang."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Fotgjengerovergang",
+"description":"Et merket eller umerket område der fotgjengere krysser og sjåfører må vike etter behov."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Sykkelfelt",
+"description":"Et merket kjørefelt reservert for syklister som motorkjøretøy bare har lov til å kjøre inn i der det er tillatt, for eksempel for å svinge."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Felles kjørefelt",
+"description":"Et kjørefelt merket for å minne sjåfører om at syklister kan bruke samme kjørefelt."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Blindsone",
+"description":"Et område ved siden av eller litt bak et kjøretøy som ikke kan sees i speilene."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Skuldersjekk",
+"description":"Et raskt blikk over skulderen for å sjekke et område som ikke kan sees i speilet."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Rompute",
+"description":"Åpen plass som opprettholdes rundt et kjøretøy for å gi plass til å stoppe eller unngå farer."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Følgende avstand",
+"description":"Tiden og avstanden som opprettholdes mellom kjøretøyet ditt og kjøretøyet foran."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"To-sekundersregelen",
+"description":"Minimum anbefalt følgetid under normale vei- og værforhold."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Persepsjonstid",
+"description":"Tiden som kreves for å gjenkjenne en situasjon og forstå at det er nødvendig å stoppe eller reagere på en annen måte."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Reaksjonstid",
+"description":"Tiden som kreves for å reagere på en fare, for eksempel å flytte foten fra gasspedalen til bremsen."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Bremselengde",
+"description":"Avstanden et kjøretøy tilbakelegger etter at bremsene er aktivert til det stopper."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Total bremselengde",
+"description":"Den kombinerte tilbakelagte distansen under persepsjon, reaksjon og bremsing."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Terskelbremsing",
+"description":"Bestemt bremsing helt til punktet rett før hjulene låser seg, noe som bevarer styreevnen."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"ABS-bremsesystem (antiblokkeringssystem)",
+"description":"Et system som syklirer bremsetrykket for å forhindre hjullåsing og bevare styringskontrollen."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Friksjonspunkt",
+"description":"Clutchposisjonen der en manuell girkasse begynner å koble motorkraften til hjulene."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Kjører clutchen",
+"description":"Unødvendig å hvile foten på clutchpedalen, noe som forårsaker ytterligere slitasje på clutchen."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Parallellparkering",
+"description":"Parkering parallelt med fortauskanten i et mellomrom mellom kjøretøy."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Vinkelparkering",
+"description":"Parkering i en bås plassert diagonalt, vanligvis i omtrent 45 grader i forhold til kjørefeltet."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Vinkelrett parkering",
+"description":"Parkering i en bås plassert i 90-graders vinkel i forhold til fortauskanten."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Veirett",
+"description":"Regler som bestemmer hvilken trafikant som har vikeplikt og hvilken som kan fortsette."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Kontrollert kryss",
+"description":"Et kryss regulert av trafikkskilt, trafikksignaler eller begge deler."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Ukontrollert kryss",
+"description":"Et kryss uten skilt eller signaler der sjåfører vanligvis viker for kjøretøyet på høyre side."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Hjørnet",
+"description":"En tre- eller fireveis stopp der det første kjøretøyet som ankommer kjører først, eller kjøretøyet til høyre kjører når ankomster er samtidige."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Rundkjøring",
+"description":"Et sirkulært kryss der trafikken kjører mot klokken og innkommende kjøretøy viker for trafikk som allerede er inne."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Rundkjøring",
+"description":"Et sirkulært kryss designet med strammere kurver for å oppmuntre til lavere hastigheter."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Tofelts sving",
+"description":"En sving gjort fra et av to merkede svingfelt inn i det tilsvarende destinasjonsfeltet."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Toveis venstresvingfelt",
+"description":"Et delt midtfelt som brukes av trafikk fra begge retninger når de forbereder seg på å svinge til venstre."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"U-sving",
+"description":"En manøver som snur et kjøretøy for å kjøre i motsatt retning ved å bruke møtende kjørefelt."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Forbikjøringsfelt",
+"description":"Et ekstra kjørefelt på motorveien som gjør at raskere trafikk kan passere saktere kjøretøy på en trygg måte."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Nødstoppfelt",
+"description":"Motorveiskulderen er reservert for hastestopp eller kjøretøyproblemer, ikke vanlig kjøring eller forbikjøring."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Akselerasjonsfelt",
+"description":"Et kjørefelt som brukes til å øke hastigheten og tilpasse trafikkflyten før det flettes inn på en vei."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Retardasjonsfelt",
+"description":"Et kjørefelt som brukes til å redusere hastigheten når man kjører av en motorvei eller hovedvei."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Sammenslåing",
+"description":"Den delte prosessen med å blande trafikken på en sikker måte der to veier møtes til én."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Vevesone",
+"description":"Et delt kjørefelt der innkjørende trafikk akselererer mens utkjørende trafikk bremser."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Skrens",
+"description":"Tap av kontroll over kjøretøyet forårsaket av redusert dekkgrep."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Bremsing av skrens",
+"description":"En skrens som oppstår ved bremsing låser hjulene på et kjøretøy uten ABS."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Kraftskid",
+"description":"En skrens forårsaket av for rask akselerasjon og at drivhjulene spinne."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Svingskli",
+"description":"En sidelengs skli forårsaket av for rask kjøring under sving."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Vannplaning",
+"description":"Tap av dekkkontakt med våt veibane, noe som kan føre til tap av kontroll over kjøretøyet."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Svart is",
+"description":"Et vanskelig synlig islag dannes når fuktighet fryser på veien."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Berging utenfor veien",
+"description":"Den kontrollerte prosessen med å bremse ned og gradvis returnere til veibanen etter å ha forlatt fortauet."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Varsellys",
+"description":"Fireveis blinkende lys som brukes til å advare andre om at et kjøretøy har stoppet eller utgjør en fare."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Proaktiv kjøring",
+"description":"Å forutse farer og handle tidlig for å redusere, minimere eller unngå fare."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Visuell ledetid",
+"description":"Avstanden målt i sekunder som en sjåfør skanner foran for å gi tid til å reagere på farer."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Fast fare",
+"description":"En permanent veibanetilstand, for eksempel en sving, bakke, kryss eller skjult innkjørsel."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Variabel fare",
+"description":"Endring av forhold, som fotgjengere, isete veier, utrykningskjøretøy eller gamle grønne lys."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Distrahert kjøring",
+"description":"Kjøring mens oppmerksomheten avledes av aktiviteter som telefonbruk, teksting, lesing, programmering av enheter eller stell."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Barnesete",
+"description":"Et godkjent sikkerhetsbelte valgt for barnets alder eller vekt og installert i henhold til produsentens instruksjoner."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"Et universelt forankringssystem som brukes til å feste kompatible barneseter til et kjøretøy."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Booster-sete",
+"description":"Et godkjent sete som plasserer et barn riktig for bruk av bilens sikkerhetsbelte."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Sårbar trafikant",
+"description":"En fotgjenger, syklist eller motorsykkelfører med mindre fysisk beskyttelse enn en passasjer i et lukket kjøretøy."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Skolebuss ravfargede lys",
+"description":"Vekslende varsellys som indikerer at en skolebuss sakker opp og forbereder seg på å stoppe."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Skolebuss røde lys",
+"description":"Vekslelys som krever at gjeldende trafikk stopper mens elever går inn, ut eller krysser i nærheten av bussen."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Varsellys for snøplog",
+"description":"Blinkende gule og røde lys som indikerer at en snøplog er i drift foran."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Jernbaneovergang",
+"description":"Et sted der en vei krysser jernbanespor og sjåfører må vike for tog."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Jernbanecrossbuck",
+"description":"Et X-formet jernbaneovergangsskilt som krever at sjåfører har vikeplikt for tog."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Lettbanetransport (LRT)",
+"description":"Et stillegående elektrisk drevet jernbanesystem der overgangene må behandles som andre jernbaneoverganger."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Begravelsesprosesjon",
+"description":"En tett gruppert rekke av kjøretøy med frontlykter på som kan kjøre sammen gjennom et kryss når det er trygt."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Nedsatt kjøring",
+"description":"Å kjøre et kjøretøy mens alkohol, narkotika, medisiner eller en annen tilstand reduserer kjøreevnen."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Umiddelbare veihjelpssanksjoner (IRS)",
+"description":"Albertas eskalerende administrative straffeprogram for kjøring i påvirket tilstand."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS NULL: Nybegynner",
+"description":"Et nulltoleranseprogram for alkohol og narkotika for elever i klasse 7 og sjåfører med klasse 5-GDL."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS NULL: Kommersiell",
+"description":"Et nulltoleranseprogram for alkohol og narkotika for yrkessjåfører som opererer i kommersiell kapasitet."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: ADVARSEL",
+"description":"Veikantbøter gjelder når en sjåførs alkoholkonsentrasjon i blodet når den angitte advarselsterskelen."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: STYRES",
+"description":"Alvorlige sanksjoner ved veikant som gjelder for svekkelse på straffbart nivå, forbudte konsentrasjoner eller avslag på et lovlig krav."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Tenningssperreenhet",
+"description":"En enhet som måler alkohol i pusten og hindrer et kjøretøy i å starte når avlesningen overstiger terskelen."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"SafeRoads Alberta",
+"description":"Den administrative grenen som vurderer utfordringer mot provinsielle bøter for fyllekjøring og beslag av kjøretøy."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Revurderingsprosess for registrator",
+"description":"Prosessen som brukes for å be om overprøving av administrative avgjørelser som ikke gjelder nedsatt kjøreevne."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Sikkerhetskjettinger for tilhengere",
+"description":"Sikkert festede kjettinger krysset under en tilhengertunge for å gi en sekundær forbindelse."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Nødbrytersystem",
+"description":"Et tilhengersikkerhetssystem som er konstruert for å aktiveres hvis tilhengeren løsner fra trekkkjøretøyet."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Avsporing",
+"description":"Tilhengerhjulenes tendens til å følge en bane innenfor banen som trekkkjøretøyets hjul tar."
+}
+]

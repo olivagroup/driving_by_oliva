@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Lesen Memandu Bertauliah (GDL)",
+"description":"Program pelesenan berperingkat Alberta yang membolehkan pemandu baharu memperoleh kemahiran dan pengalaman di bawah keadaan terkawal."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Lesen Pelajar Kelas 7",
+"description":"Peringkat GDL pertama, membenarkan pemanduan di bawah seliaan di bawah keadaan pelajar."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Lesen Kelas 5-GDL",
+"description":"Lesen percubaan yang dipegang semasa peringkat kedua program GDL Alberta."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Lesen Kelas 5 Penuh",
+"description":"Lesen bukan GDL yang membenarkan pengendalian kereta secara bebas dan kenderaan ringan lain yang layak."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Ujian Pengetahuan",
+"description":"Ujian aneka pilihan berkomputer yang merangkumi peraturan jalan raya, amalan memandu selamat dan papan tanda jalan raya."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Ujian Jalan Raya",
+"description":"Penilaian praktikal tentang pengendalian, pemerhatian, pertimbangan dan pematuhan kenderaan terhadap peraturan jalan raya."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Penilaian Penglihatan",
+"description":"Pemeriksaan yang diperlukan untuk mengesahkan bahawa pemandu memenuhi piawaian penglihatan minimum Alberta."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Ejen Pendaftaran",
+"description":"Pejabat Alberta yang diberi kuasa yang menyediakan perkhidmatan seperti pelesenan, pendaftaran, pengujian dan kemas kini lesen."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Pemeriksa Pemandu",
+"description":"Seseorang yang diberi kuasa untuk menjalankan ujian jalan raya dan menilai sama ada pemohon mempunyai kemahiran memandu yang diperlukan."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Pengesahan Brek Udara (Q)",
+"description":"Pengesahan lesen diperlukan untuk mengendalikan kenderaan dengan brek udara sahaja atau gabungan udara dan hidraulik."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Kod Keadaan",
+"description":"Kod yang diletakkan pada lesen untuk mengenal pasti keperluan memandu khas, seperti kanta pembetulan."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Kod Pengesahan",
+"description":"Kod yang menunjukkan bahawa pemandu telah menyelesaikan latihan khusus atau mungkin mengendalikan kenderaan yang dilengkapi khas."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Mata Demerit",
+"description":"Mata yang direkodkan terhadap rekod memandu selepas sabitan atas kesalahan lalu lintas tertentu."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Abstrak Pemandu",
+"description":"Rekod rasmi yang menunjukkan sabitan memandu, penggantungan dan maklumat lesen lain."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Isyarat Kawalan Lalu Lintas",
+"description":"Lampu merah, kuning atau hijau yang digunakan untuk mengawal aliran trafik di persimpangan atau jalan raya yang bergabung."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Lampu Merah Pepejal",
+"description":"Isyarat yang memerlukan berhenti sepenuhnya sebelum garisan berhenti, lintasan pejalan kaki atau persimpangan."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Lampu Kuning Pepejal",
+"description":"Amaran bahawa isyarat sedang bertukar kepada merah dan pemandu mesti berhenti melainkan jika berhenti tidak dapat dilakukan dengan selamat."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Lampu Hijau Pepejal",
+"description":"Isyarat yang membenarkan pergerakan melalui persimpangan sambil masih memerlukan lencongan yang berkenaan."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Lampu Merah Berkelip",
+"description":"Isyarat yang dianggap seperti tanda berhenti, memerlukan berhenti sepenuhnya diikuti dengan mengalah sebelum meneruskan."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Lampu Kuning Berkelip",
+"description":"Isyarat yang membolehkan pemandu bergerak dengan berhati-hati selepas mengalah kepada lalu lintas dan pejalan kaki."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Lampu Hijau Berkelip",
+"description":"Isyarat yang membenarkan pergerakan atau membelok tanpa berhenti sambil menghendaki pemandu mengalah kepada pengguna jalan raya yang sah."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Isyarat Pembalikan Lorong",
+"description":"Anak panah X merah atau hijau di atas kepala yang mengawal sama ada lorong ditutup atau tersedia dalam arah yang ditunjukkan."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Papan Tanda Kawal Selia",
+"description":"Papan tanda yang menunjukkan apa yang pengguna jalan raya mesti atau tidak boleh lakukan, termasuk peraturan kelajuan, pusingan, tempat letak kereta dan akses."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Papan Tanda Amaran",
+"description":"Papan tanda yang memberikan notis awal tentang bahaya, keadaan jalan raya, persimpangan, lintasan atau tindakan yang diperlukan."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Tanda Permisif",
+"description":"Segi empat sama putih dengan bulatan hijau menunjukkan bahawa tindakan yang ditunjukkan dibenarkan."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Papan Tanda Larangan",
+"description":"Papan tanda putih dengan bulatan merah dan bar pepenjuru yang menunjukkan bahawa tindakan yang ditunjukkan adalah dilarang."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Papan Tanda Berhenti",
+"description":"Papan tanda kawal selia yang memerlukan berhenti sepenuhnya dan mengalah sebelum meneruskan dengan selamat."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Tanda Hasil",
+"description":"Papan tanda yang memerlukan pemandu memperlahankan kenderaan, bersedia untuk berhenti dan memberi laluan jika perlu."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Had Laju",
+"description":"Kelajuan maksimum yang sah di bawah keadaan ideal, tidak semestinya kelajuan yang selamat dalam keadaan buruk."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Zon Sekolah",
+"description":"Kawasan yang ditanda dengan papan tanda sekolah dan had laju yang dipaparkan di mana sekatan kelajuan dan laluan khas dikenakan."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Kawasan Sekolah",
+"description":"Kawasan yang ditanda dengan papan tanda sekolah tanpa papan tanda laju yang dilampirkan, memberi amaran kepada pemandu supaya berhati-hati."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Zon Taman Permainan",
+"description":"Kawasan dengan papan tanda taman permainan dan had laju yang dipaparkan di mana sekatan kelajuan rendah dan laluan dikenakan."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Kawasan Taman Permainan",
+"description":"Kawasan yang ditanda dengan papan tanda taman permainan tanpa papan tanda laju, memberi amaran bahawa kanak-kanak mungkin berada berdekatan."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Zon Pembinaan",
+"description":"Kawasan kerja jalan raya di mana kelajuan, papan tanda amaran dan arahan penunjuk arah mesti dipatuhi."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Lorong Terpelihara",
+"description":"Lorong yang dikhaskan untuk pengguna jalan raya tertentu, seperti bas, teksi, basikal atau kenderaan dengan penumpang tinggi."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Garisan Pepejal",
+"description":"Penanda turapan yang biasanya melarang melintas untuk melepasi atau menukar lorong."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Garisan Putus",
+"description":"Penanda turapan yang membenarkan lintasan untuk melepasi atau menukar lorong apabila selamat."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Garisan Kuning",
+"description":"Penanda turapan yang memisahkan lalu lintas yang bergerak dalam arah yang bertentangan."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Garisan Putih",
+"description":"Penanda turapan yang memisahkan lalu lintas yang bergerak dalam arah yang sama."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Garisan Berhenti",
+"description":"Penanda turapan yang menunjukkan di mana kenderaan mesti berhenti di persimpangan atau lintasan kereta api."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Lintasan Pejalan Kaki",
+"description":"Kawasan bertanda atau tidak bertanda di mana pejalan kaki melintas dan pemandu mesti mengalah seperti yang dikehendaki."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Lorong Basikal",
+"description":"Lorong bertanda yang dikhaskan untuk penunggang basikal yang hanya boleh dimasuki oleh kenderaan bermotor jika dibenarkan, seperti untuk membelok."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Lorong Penggunaan Kongsi",
+"description":"Lorong perjalanan yang ditanda untuk mengingatkan pemandu bahawa penunggang basikal boleh menggunakan lorong yang sama."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Titik Buta",
+"description":"Kawasan di sebelah atau sedikit di belakang kenderaan yang tidak dapat dilihat di cerminnya."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Pemeriksaan Bahu",
+"description":"Sekilas pandang ke belakang untuk memeriksa kawasan yang tidak dapat dilihat di cermin."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Kusyen Angkasa",
+"description":"Ruang terbuka yang diselenggara di sekeliling kenderaan untuk menyediakan ruang bagi berhenti atau mengelakkan bahaya."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Mengikuti Jarak",
+"description":"Masa dan ruang yang dikekalkan antara kenderaan anda dan kenderaan di hadapan."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Peraturan Dua Saat",
+"description":"Masa minimum yang disyorkan untuk mengikuti keadaan jalan raya dan cuaca biasa."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Masa Persepsi",
+"description":"Masa yang diperlukan untuk mengenali sesuatu situasi dan memahami bahawa berhenti atau tindak balas lain diperlukan."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Masa Reaksi",
+"description":"Masa yang diperlukan untuk bertindak balas terhadap bahaya, seperti menggerakkan kaki dari pemecut ke brek."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Jarak Brek",
+"description":"Jarak yang ditempuh oleh kenderaan selepas brek ditekan sehingga ia berhenti."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Jumlah Jarak Berhenti",
+"description":"Gabungan jarak yang ditempuh semasa persepsi, tindak balas dan brek."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Brek Ambang",
+"description":"Brek kuat sehingga ke tahap sebelum roda terkunci, mengekalkan keupayaan untuk memandu."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Sistem Brek Anti-Kunci (ABS)",
+"description":"Sistem yang mengitar tekanan brek untuk membantu mencegah penguncian roda dan mengekalkan kawalan stereng."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Titik Geseran",
+"description":"Kedudukan klac di mana transmisi manual mula menyambungkan kuasa enjin ke roda."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Menunggang Klac",
+"description":"Meletakkan kaki pada pedal klac secara tidak perlu, menyebabkan kehausan klac tambahan."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Tempat Letak Kereta Selari",
+"description":"Tempat letak kereta selari dengan tepi jalan di ruang antara kenderaan."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Tempat Letak Kereta Sudut",
+"description":"Tempat letak kereta di gerai yang diletakkan secara menyerong, biasanya pada kira-kira 45 darjah ke lorong trafik."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Tempat Letak Kereta Serenjang",
+"description":"Tempat letak kereta di gerai yang diletakkan pada sudut 90 darjah ke tepi jalan."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Hak Laluan",
+"description":"Peraturan yang menentukan pengguna jalan raya mana yang mesti mengalah dan yang boleh meneruskan."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Persimpangan Terkawal",
+"description":"Persimpangan yang dikawal selia oleh papan tanda lalu lintas, lampu isyarat lalu lintas, atau kedua-duanya."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Persimpangan Tidak Terkawal",
+"description":"Persimpangan tanpa papan tanda atau lampu isyarat di mana pemandu biasanya mengalah kepada kenderaan di sebelah kanan mereka."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Sudut Hormat",
+"description":"Perhentian tiga atau empat hala di mana kenderaan pertama yang tiba akan bergerak dahulu, atau kenderaan di sebelah kanan akan bergerak apabila ketibaan serentak."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Bulatan Lalu Lintas",
+"description":"Persimpangan bulat di mana lalu lintas bergerak lawan arah jam dan kenderaan yang masuk mengalah kepada lalu lintas yang sudah ada di dalam."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Bulatan",
+"description":"Persimpangan bulat yang direka bentuk dengan lengkungan yang lebih ketat untuk menggalakkan kelajuan yang lebih rendah."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Selekoh Dua Lorong",
+"description":"Satu pusingan yang dibuat dari salah satu daripada dua lorong pusingan yang ditanda ke lorong destinasi yang sepadan."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Lorong Dua Hala Belok Kiri",
+"description":"Lorong tengah kongsi yang digunakan oleh trafik dari kedua-dua arah semasa bersedia untuk membelok ke kiri."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Pusingan U",
+"description":"Manuver yang memusingkan kenderaan untuk bergerak ke arah yang bertentangan menggunakan lorong yang datang dari arah bertentangan."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Lorong Lewat",
+"description":"Lorong lebuh raya tambahan yang membolehkan trafik yang lebih laju memotong kenderaan yang lebih perlahan dengan selamat."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Lorong Berhenti Kecemasan",
+"description":"Bahu lebuh raya dikhaskan untuk perhentian segera atau masalah kenderaan, bukan pemanduan atau laluan biasa."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Lorong Pecutan",
+"description":"Lorong yang digunakan untuk meningkatkan kelajuan dan memadankan aliran lalu lintas sebelum memasuki jalan raya."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Lorong Nyahpecutan",
+"description":"Lorong yang digunakan untuk mengurangkan kelajuan apabila keluar dari lebuh raya atau jalan raya utama."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Penggabungan",
+"description":"Proses perkongsian penggabungan lalu lintas yang selamat di mana dua jalan raya bergabung menjadi satu."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Zon Tenunan",
+"description":"Lorong kongsi di mana trafik yang masuk memecut manakala trafik yang keluar menjadi perlahan."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Gelincir",
+"description":"Kehilangan kawalan kenderaan yang disebabkan oleh cengkaman tayar yang berkurangan."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Gelincir Brek",
+"description":"Gelincir yang disebabkan oleh brek mengunci roda kenderaan tanpa ABS."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Skid Kuasa",
+"description":"Gelincir yang disebabkan oleh pecutan terlalu pantas dan menyebabkan roda pemacu berputar."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Gelincir Menolak",
+"description":"Gelinciran sisi yang disebabkan oleh pergerakan terlalu pantas semasa membelok."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Hidroplaning",
+"description":"Kehilangan sentuhan tayar dengan permukaan jalan yang basah, yang boleh menyebabkan kehilangan kawalan kenderaan."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Ais Hitam",
+"description":"Lapisan ais yang sukar dilihat terbentuk apabila kelembapan membeku di atas jalan raya."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Pemulihan Luar Jalan",
+"description":"Proses terkawal untuk memperlahankan kenderaan dan kembali ke jalan raya secara beransur-ansur selepas meninggalkan turapan."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Lampu Amaran Bahaya",
+"description":"Lampu berkelip empat hala digunakan untuk memberi amaran kepada orang lain bahawa kenderaan sedang berhenti atau menimbulkan bahaya."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Pemanduan Proaktif",
+"description":"Menjangkakan bahaya dan bertindak awal untuk mengurangkan, meminimumkan, atau mengelakkan bahaya."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Masa Pendahuluan Visual",
+"description":"Jarak yang diukur dalam saat yang diimbas oleh pemandu ke hadapan untuk memberi masa bertindak balas terhadap bahaya."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Bahaya Tetap",
+"description":"Keadaan jalan raya yang kekal, seperti selekoh, bukit, persimpangan atau laluan masuk tersembunyi."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Bahaya Berubah-ubah",
+"description":"Keadaan yang berubah-ubah, seperti pejalan kaki, permukaan berais, kenderaan kecemasan atau lampu hijau yang lapuk."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Pemanduan Terganggu",
+"description":"Memandu semasa perhatian dialihkan oleh aktiviti seperti penggunaan telefon, menghantar mesej teks, membaca, pengaturcaraan peranti atau dandanan."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Kerusi Keselamatan Kanak-kanak",
+"description":"Kekangan yang diluluskan yang dipilih untuk umur atau berat kanak-kanak dan dipasang mengikut arahan pengilang."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"Sistem sauh universal yang digunakan untuk memasang tempat duduk keselamatan kanak-kanak yang serasi pada kenderaan."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Tempat Duduk Penggalak",
+"description":"Tempat duduk yang diluluskan yang meletakkan kanak-kanak dengan betul untuk penggunaan tali pinggang keledar kenderaan."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Pengguna Jalan Raya yang Rentan",
+"description":"Pejalan kaki, penunggang basikal atau motosikal yang kurang perlindungan fizikal berbanding penumpang kenderaan tertutup."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Lampu Amber Bas Sekolah",
+"description":"Lampu amaran berselang-seli menunjukkan bahawa bas sekolah sedang perlahan dan bersedia untuk berhenti."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Lampu Merah Bas Sekolah",
+"description":"Lampu isyarat berselang-seli yang memerlukan trafik yang berkenaan berhenti semasa pelajar masuk, keluar atau melintas berhampiran bas."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Lampu Amaran Pembajak Salji",
+"description":"Lampu kuning dan merah berkelip-kelip menunjukkan bahawa bajak salji sedang beroperasi di hadapan."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Lintasan Kereta Api",
+"description":"Lokasi di mana jalan raya melintasi landasan kereta api dan pemandu mesti mengalah kepada kereta api."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Kereta Api Crossbuck",
+"description":"Papan tanda lintasan kereta api berbentuk X yang memerlukan pemandu mengalah kepada kereta api."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Transit Rel Ringan (LRT)",
+"description":"Sistem rel berkuasa elektrik yang senyap yang lintasannya mesti dilayan seperti lintasan kereta api yang lain."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Perarakan Pengebumian",
+"description":"Barisan kenderaan yang berkumpul rapat dengan lampu hadapan menyala yang boleh bergerak bersama melalui persimpangan apabila selamat."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Pemanduan Terganggu",
+"description":"Mengendalikan kenderaan semasa alkohol, dadah, ubat-ubatan atau keadaan lain mengurangkan keupayaan memandu."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Sekatan Tepi Jalan (IRS) Segera",
+"description":"Program penalti pentadbiran Alberta yang semakin meningkat untuk pemanduan terjejas."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS SIFAR: Pemula",
+"description":"Program alkohol dan dadah toleransi sifar untuk pelajar Kelas 7 dan pemandu Kelas 5-GDL."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS SIFAR: Komersial",
+"description":"Program alkohol dan dadah tanpa toleransi sifar untuk pemandu komersial yang beroperasi dalam kapasiti komersial."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: AMARAN",
+"description":"Sekatan tepi jalan dikenakan apabila kepekatan alkohol dalam darah pemandu mencapai ambang amaran yang ditetapkan."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: GAGAL",
+"description":"Sekatan tepi jalan yang serius dikenakan terhadap gangguan tahap jenayah, kepekatan yang dilarang atau penolakan tuntutan yang sah."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Peranti Saling Kunci Pencucuhan",
+"description":"Peranti yang mengukur alkohol dalam nafas dan menghalang kenderaan daripada dihidupkan apabila bacaan melebihi ambangnya."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"SafeRoads Alberta",
+"description":"Cawangan pentadbiran yang menyemak cabaran terhadap penalti memandu akibat gangguan kuasa wilayah dan rampasan kenderaan."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Proses Pertimbangan Semula Pendaftar",
+"description":"Proses yang digunakan untuk meminta semakan keputusan pentadbiran pemanduan tanpa gangguan."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Rantai Keselamatan Treler",
+"description":"Rantai yang diikat dengan selamat disilang di bawah lidah treler untuk menyediakan sambungan sekunder."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Sistem Pemisahan Kecemasan",
+"description":"Sistem keselamatan treler yang direka untuk diaktifkan jika treler terpisah daripada kenderaan penunda."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Luar Penjejakan",
+"description":"Kecenderungan roda treler untuk mengikuti laluan di dalam laluan yang diambil oleh roda kenderaan penunda."
+}
+]

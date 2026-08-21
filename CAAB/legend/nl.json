@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Gefaseerd rijbewijssysteem (GDL)",
+"description":"Het gefaseerde rijbewijsprogramma van Alberta stelt nieuwe bestuurders in staat om onder gecontroleerde omstandigheden vaardigheden en ervaring op te doen."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Rijbewijs voor leerlingen van categorie 7",
+"description":"De eerste fase van het GDL-programma, waarbij onder begeleiding van een leerling mag worden gereden."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Rijbewijs klasse 5-GDL",
+"description":"Een voorlopig rijbewijs dat is behaald tijdens de tweede fase van het GDL-programma in Alberta."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Volledig rijbewijs klasse 5",
+"description":"Een rijbewijs zonder gereguleerde rijbevoegdheid (niet-GDL) waarmee zelfstandig personenauto`s en andere in aanmerking komende lichte voertuigen mogen worden bestuurd."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Kennistoets",
+"description":"Een computergestuurde meerkeuzetoets over verkeersregels, veilig rijgedrag en verkeersborden."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Rijtest",
+"description":"Een praktische beoordeling van voertuigbeheersing, observatievermogen, beoordelingsvermogen en naleving van de verkeersregels."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Visuele beoordeling",
+"description":"Een verplichte controle die bevestigt dat een bestuurder voldoet aan de minimale zichteisen van Alberta."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Registratieagent",
+"description":"Een erkend kantoor in Alberta dat diensten verleent zoals vergunningen, registratie, examens en verlenging van vergunningen."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Rijexaminator",
+"description":"Een persoon die bevoegd is om rijexamens af te nemen en te beoordelen of kandidaten over de vereiste rijvaardigheid beschikken."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Luchtremcertificering (Q)",
+"description":"Een aantekening op het rijbewijs is vereist voor het besturen van voertuigen met uitsluitend luchtremmen of een combinatie van lucht- en hydraulische remmen."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Conditiecode",
+"description":"Een code op een rijbewijs die een speciale rijvoorwaarde aangeeft, zoals bijvoorbeeld het dragen van een bril of contactlenzen."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Goedkeuringscode",
+"description":"Een code die aangeeft dat een bestuurder een specifieke training heeft gevolgd of bevoegd is om speciaal uitgeruste voertuigen te besturen."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Strafpunten",
+"description":"Punten die worden bijgeschreven op het rijbewijs na een veroordeling voor bepaalde verkeersovertredingen."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Samenvatting van de chauffeur",
+"description":"Een officieel register met daarin verkeersovertredingen, schorsingen en andere rijbewijsgegevens."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Verkeerslicht",
+"description":"Een rood, geel of groen licht dat wordt gebruikt om de verkeersstroom te regelen op kruispunten of bij het samenvoegen van wegen."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Continu rood licht",
+"description":"Een verkeerslicht dat een volledige stop vereist vóór de stopstreep, het zebrapad of de kruising."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Effen geel licht",
+"description":"Een waarschuwing dat het stoplicht op rood springt en dat bestuurders moeten stoppen, tenzij stoppen niet veilig mogelijk is."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Ononderbroken groen licht",
+"description":"Een verkeerslicht dat doorgang door een kruispunt toestaat, maar waarbij nog steeds voorrang verleend moet worden."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Knipperend rood licht",
+"description":"Een verkeerslicht dat functioneert als een stopbord, waarbij volledig stoppen en voorrang verlenen vereist is voordat verder gereden mag worden."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Knipperend geel licht",
+"description":"Een signaal waarmee bestuurders voorzichtig verder kunnen rijden nadat ze voorrang hebben verleend aan ander verkeer en voetgangers."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Knipperend groen licht",
+"description":"Een signaal dat beweging of afslaan zonder te stoppen toestaat, terwijl bestuurders voorrang moeten verlenen aan andere weggebruikers."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Rijstrookwisselsignaal",
+"description":"Een rode X of groene pijl boven de rijstrook geeft aan of een rijstrook in de aangegeven richting gesloten of beschikbaar is."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Reglementair bord",
+"description":"Een bord dat aangeeft wat weggebruikers wel en niet mogen doen, inclusief snelheidslimieten, regels voor afslaan, parkeren en toegang."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Waarschuwingsbord",
+"description":"Een bord dat vooraf waarschuwt voor een gevaar, wegtoestand, kruispunt, oversteekplaats of vereiste handeling."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Toestemmingsbord",
+"description":"Een wit vierkant met een groene cirkel erin geeft aan dat de aangegeven actie is toegestaan."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Verbodsbord",
+"description":"Een wit bord met een rode cirkel en een diagonale streep die aangeeft dat de aangegeven handeling verboden is."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Stopbord",
+"description":"Een verkeersbord dat vereist dat men volledig stopt en voorrang verleent voordat men veilig verder kan rijden."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Voorrangsbord",
+"description":"Een verkeersbord dat een bestuurder verplicht om vaart te minderen, zich voor te bereiden op een stop en waar nodig voorrang te verlenen."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Snelheidslimiet",
+"description":"De maximaal toegestane snelheid onder ideale omstandigheden, niet noodzakelijkerwijs een veilige snelheid onder slechte omstandigheden."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Schoolzone",
+"description":"Een gebied dat is gemarkeerd met een schoolbord en een snelheidslimiet, waar speciale snelheids- en inhaalbeperkingen gelden."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Schoolgebied",
+"description":"Een gebied dat is gemarkeerd met een schoolbord zonder snelheidsbord, dat bestuurders waarschuwt om voorzichtig te zijn."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Speelzone",
+"description":"Een gebied met een speelplaatsbord en een aangegeven snelheidslimiet waar snelheidsbeperkingen en inhaalbeperkingen gelden."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Speelplaats",
+"description":"Een gebied dat is gemarkeerd met een speelplaatsbord zonder snelheidsbord, met de waarschuwing dat er kinderen in de buurt kunnen zijn."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Bouwzone",
+"description":"Een wegwerkgebied waar de aangegeven snelheidslimieten, waarschuwingsborden en aanwijzingen van verkeersregelaars moeten worden opgevolgd."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Gereserveerde rijstrook",
+"description":"Een rijstrook die bestemd is voor specifieke weggebruikers, zoals bussen, taxi`s, fietsen of voertuigen met meerdere inzittenden."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Ononderbroken lijn",
+"description":"Een wegmarkering die over het algemeen het oversteken verbiedt om in te halen of van rijstrook te wisselen."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Onderbroken lijn",
+"description":"Een wegmarkering die het oversteken toestaat om in te halen of van rijstrook te wisselen wanneer dit veilig is."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Gele lijn",
+"description":"Een wegmarkering die het verkeer in tegengestelde richting scheidt."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Witte lijn",
+"description":"Een wegmarkering die verkeer dat in dezelfde richting rijdt van elkaar scheidt."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Stoplijn",
+"description":"Een wegmarkering die aangeeft waar een voertuig moet stoppen bij een kruispunt of spoorwegovergang."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Voetgangersoversteekplaats",
+"description":"Een gemarkeerd of ongemarkeerd gebied waar voetgangers oversteken en waar bestuurders voorrang moeten verlenen."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Fietspad",
+"description":"Een gemarkeerde rijstrook, gereserveerd voor fietsers, die motorvoertuigen alleen mogen betreden waar dat is toegestaan, bijvoorbeeld om af te slaan."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Gedeelde rijstrook",
+"description":"Een rijstrook die is gemarkeerd om automobilisten eraan te herinneren dat fietsers dezelfde rijstrook mogen gebruiken."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Blinde vlek",
+"description":"Een gebied naast of iets achter een voertuig dat niet zichtbaar is in de spiegels."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Schoudercontrole",
+"description":"Een snelle blik over de schouder om een gebied te controleren dat niet in de spiegels te zien is."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Ruimtekussen",
+"description":"Er moet voldoende vrije ruimte rondom een voertuig worden gecreëerd om te kunnen stoppen of gevaren te kunnen ontwijken."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Volgafstand",
+"description":"De tijd en afstand dieuaanhoudt tussen uw voertuig en het voertuig voor u."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Tweesecondenregel",
+"description":"De minimaal aanbevolen volgtijd onder normale weg- en weersomstandigheden."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Waarnemingstijd",
+"description":"De tijd die nodig is om een situatie te herkennen en te begrijpen dat stoppen of een andere reactie vereist is."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Reactietijd",
+"description":"De tijd die nodig is om te reageren op een gevaar, zoals het verplaatsen van een voet van het gaspedaal naar de rem."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Remweg",
+"description":"De afstand die een voertuig aflegt nadat de remmen zijn ingedrukt totdat het tot stilstand komt."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Totale remweg",
+"description":"De totale afstand die wordt afgelegd tijdens waarneming, reactie en remmen."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Drempelremmen",
+"description":"Rem krachtig tot net voordat de wielen blokkeren, zodat je nog steeds kunt sturen."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Antiblokkeersysteem (ABS)",
+"description":"Een systeem dat de remdruk regelt om te voorkomen dat de wielen blokkeren en om de stuurcontrole te behouden."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Wrijvingspunt",
+"description":"Het koppelingspunt waarop een handgeschakelde versnellingsbak de motorkracht naar de wielen overbrengt."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"De koppeling bedienen",
+"description":"Het onnodig laten rusten van een voet op het koppelingspedaal, wat extra slijtage aan de koppeling veroorzaakt."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Parallel parkeren",
+"description":"Parkeren parallel aan de stoeprand in een ruimte tussen voertuigen."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Schuin parkeren",
+"description":"Parkeren in een parkeerplaats die diagonaal is geplaatst, meestal onder een hoek van ongeveer 45 graden ten opzichte van de rijstrook."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Loodrecht parkeren",
+"description":"Parkeren in een parkeerplaats die zich in een hoek van 90 graden ten opzichte van de stoeprand bevindt."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Recht van doorgang",
+"description":"Regels die bepalen welke weggebruiker voorrang moet verlenen en wie mag doorrijden."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Geregeld kruispunt",
+"description":"Een kruispunt dat gereguleerd wordt door verkeersborden, verkeerslichten of beide."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Ongecontroleerd kruispunt",
+"description":"Een kruispunt zonder verkeersborden of -lichten waar bestuurders over het algemeen voorrang verlenen aan het voertuig van rechts."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Beleefdheidshoek",
+"description":"Een drie- of vierrichtingskruising waarbij het eerst aankomende voertuig als eerste doorrijdt, of het voertuig aan de rechterkant doorrijdt wanneer de aankomsten gelijktijdig plaatsvinden."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Verkeersrotonde",
+"description":"Een rotonde waar het verkeer tegen de klok in rijdt en inkomende voertuigen voorrang verlenen aan verkeer dat zich al op de rotonde bevindt."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Rotonde",
+"description":"Een cirkelvormig kruispunt ontworpen met scherpere bochten om lagere snelheden aan te moedigen."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Dubbele rijstrookafslag",
+"description":"Een bocht vanuit een van de twee gemarkeerde afslagstroken naar de bijbehorende bestemmingsstrook."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Tweerichtingsverkeersstrook voor linksaf slaan",
+"description":"Een gedeelde middenstrook die door verkeer uit beide richtingen wordt gebruikt bij het voorbereiden van een bocht naar links."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Keer om",
+"description":"Een manoeuvre waarbij een voertuig omkeert om in de tegenovergestelde richting te rijden via de tegemoetkomende rijstroken."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Inhaalstrook",
+"description":"Een extra rijstrook op de snelweg waardoor sneller verkeer langzamere voertuigen veilig kan inhalen."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Noodstopstrook",
+"description":"De vluchtstrook is gereserveerd voor noodstops of bij voertuigproblemen, niet voor normaal rijden of inhalen."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Invoegstrook",
+"description":"Een rijstrook die wordt gebruikt om de snelheid te verhogen en aan te passen aan de verkeersstroom voordat men invoegt op de rijbaan."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Afremstrook",
+"description":"Een rijstrook die wordt gebruikt om de snelheid te verlagen bij het verlaten van een snelweg of hoofdweg."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Samenvoegen",
+"description":"Het gezamenlijke proces van het veilig samenvoegen van verkeer op de plek waar twee rijbanen samenkomen."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Weefzone",
+"description":"Een gedeelde rijstrook waar het inkomende verkeer versnelt en het uitgaande verkeer vertraagt."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Slip",
+"description":"Verlies van voertuigcontrole als gevolg van verminderde grip van de banden."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Remslip",
+"description":"Een slip die ontstaat wanneer de wielen van een voertuig zonder ABS blokkeren tijdens het remmen."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Power Skid",
+"description":"Een slip veroorzaakt door te snel optrekken waardoor de aandrijfwielen gaan slippen."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Slippen in de bocht",
+"description":"Een zijwaartse slip veroorzaakt door te snel rijden in een bocht."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Hydroplaning",
+"description":"Verlies van contact tussen de banden en een nat wegdek kan leiden tot verlies van controle over het voertuig."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Zwart ijs",
+"description":"Er vormt zich een moeilijk zichtbare ijslaag wanneer vocht op de weg bevriest."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Bergingswerkzaamheden buiten de gebaande paden",
+"description":"Het gecontroleerde proces van afremmen en geleidelijk terugkeren naar de rijbaan na het verlaten van het wegdek."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Waarschuwingslichten",
+"description":"Knipperlichten in vier richtingen worden gebruikt om anderen te waarschuwen dat een voertuig stilstaat of een gevaar vormt."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Proactief rijden",
+"description":"Anticiperen op gevaren en vroegtijdig actie ondernemen om gevaar te verminderen, te minimaliseren of te vermijden."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Visuele doorlooptijd",
+"description":"De afstand, gemeten in seconden, die een bestuurder vooruit scant om voldoende tijd te hebben om op gevaren te reageren."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Vaste gevaren",
+"description":"Een permanente wegconditie, zoals een bocht, heuvel, kruispunt of verborgen oprit."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Variabel gevaar",
+"description":"Een veranderende situatie, zoals voetgangers, gladde oppervlakken, hulpdiensten of een stoplicht dat al een tijdje op groen staat."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Afgeleid rijden",
+"description":"Autorijden terwijl de aandacht wordt afgeleid door activiteiten zoals telefoongebruik, sms`en, lezen, het programmeren van apparaten of persoonlijke verzorging."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Kinderzitje",
+"description":"Een goedgekeurd kinderzitje, geselecteerd op basis van de leeftijd of het gewicht van het kind en geïnstalleerd volgens de instructies van de fabrikant."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"Een universeel bevestigingssysteem waarmee compatibele kinderzitjes in een voertuig kunnen worden vastgezet."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Verhogingsstoel",
+"description":"Een goedgekeurd autostoeltje dat een kind correct positioneert voor het gebruik van de autogordel."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Kwetsbare weggebruiker",
+"description":"Een voetganger, fietser of motorrijder met minder fysieke bescherming dan een inzittende van een voertuig met gesloten laadruimte."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Schoolbus met amberkleurige lichten",
+"description":"Wisselende waarschuwingslichten geven aan dat een schoolbus afremt en zich voorbereidt om te stoppen."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Rode lichten van de schoolbus",
+"description":"Wisselende verkeerslichten die het betreffende verkeer verplichten te stoppen wanneer leerlingen de bus in- of uitstappen, of oversteken in de buurt van de bus."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Waarschuwingslichten voor sneeuwploegen",
+"description":"Knipperende oranje en rode lichten geven aan dat er een sneeuwploeg voor je aan het werk is."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Spoorwegovergang",
+"description":"Een locatie waar een weg een spoorlijn kruist en automobilisten voorrang moeten verlenen aan treinen."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Spoorwegkruispunt",
+"description":"Een X-vormig spoorwegovergangsbord dat automobilisten verplicht om voorrang te verlenen aan treinen."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Lichtspoorwegsysteem (LRT)",
+"description":"Een stil, elektrisch aangedreven spoorwegsysteem waarvan de overwegen op dezelfde manier behandeld moeten worden als andere spoorwegovergangen."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Begrafenisstoet",
+"description":"Een dicht opeengepakte rij voertuigen met de koplampen aan die, indien veilig, samen een kruispunt mogen oversteken."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Rijden onder invloed",
+"description":"Het besturen van een voertuig onder invloed van alcohol, drugs, medicijnen of een andere aandoening die het rijvermogen vermindert."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Onmiddellijke sancties langs de weg (IRS)",
+"description":"Het steeds strengere sanctieprogramma van Alberta voor rijden onder invloed."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERO: Beginner",
+"description":"Een zero-tolerancebeleid ten aanzien van alcohol en drugs voor beginnende bestuurders met een rijbewijs categorie 7 en bestuurders met een rijbewijs categorie 5 (GDL)."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS NUL: Commercieel",
+"description":"Een zero-tolerancebeleid ten aanzien van alcohol en drugs voor beroepschauffeurs."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"Belastingdienst: WAARSCHUWING",
+"description":"Sancties langs de weg worden toegepast wanneer het alcoholpromillage in het bloed van een bestuurder de vastgestelde waarschuwingsdrempel bereikt."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"Belastingdienst: mislukt",
+"description":"Ernstige sancties langs de weg, die van toepassing zijn op strafbare feiten zoals rijden onder invloed, verboden concentraties of het weigeren van een wettelijk verzoek."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Startblokkeringssysteem",
+"description":"Een apparaat dat het alcoholgehalte in de adem meet en voorkomt dat een voertuig start wanneer de waarde de ingestelde drempel overschrijdt."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"SafeRoads Alberta",
+"description":"De administratieve afdeling die bezwaren tegen provinciale straffen voor rijden onder invloed en inbeslagname van voertuigen beoordeelt."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Heroverwegingsprocedure van de griffier",
+"description":"De procedure die wordt gebruikt om herziening aan te vragen van administratieve beslissingen met betrekking tot rijden onder invloed, zonder dat er sprake is van rijden onder invloed."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Veiligheidskettingen voor aanhangers",
+"description":"Stevig vastgemaakte kettingen kruisen elkaar onder de dissel van een aanhanger om een extra verbinding te creëren."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Nooduitschakelsysteem",
+"description":"Een veiligheidssysteem voor aanhangers dat in werking treedt als de aanhanger losraakt van het trekkende voertuig."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Van het spoor af",
+"description":"De neiging van de wielen van de aanhanger om een pad te volgen dat binnen het pad van de wielen van het trekkende voertuig ligt."
+}
+]

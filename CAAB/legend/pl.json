@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Stopniowe uzyskiwanie prawa jazdy (GDL)",
+"description":"Program stopniowego przyznawania licencji w Albercie, który umożliwia nowym kierowcom zdobywanie umiejętności i doświadczenia w kontrolowanych warunkach."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Prawo jazdy klasy 7",
+"description":"Pierwszy etap GDL, umożliwiający nadzorowaną jazdę w warunkach szkoleniowych."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Licencja klasy 5-GDL",
+"description":"Prawo jazdy na okres próbny uzyskane w drugim etapie programu GDL w Albercie."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Pełna licencja klasy 5",
+"description":"Licencja inna niż GDL, zezwalająca na samodzielne prowadzenie samochodów i innych kwalifikujących się lekkich pojazdów."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Test wiedzy",
+"description":"Komputerowy test wielokrotnego wyboru obejmujący zasady ruchu drogowego, zasady bezpiecznej jazdy i znaki drogowe."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Test drogowy",
+"description":"Praktyczna ocena umiejętności prowadzenia pojazdu, obserwacji, oceny i przestrzegania przepisów ruchu drogowego."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Ocena wzroku",
+"description":"Obowiązkowe badanie potwierdzające, że kierowca spełnia minimalne standardy wzroku obowiązujące w Albercie."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Agent Rejestrowy",
+"description":"Autoryzowane biuro w Albercie świadczące usługi takie jak wydawanie licencji, rejestracja, testowanie i aktualizacja licencji."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Egzaminator jazdy",
+"description":"Osoba upoważniona do przeprowadzania egzaminów praktycznych i oceniania, czy kandydaci posiadają wymagane umiejętności jazdy."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Zatwierdzenie hamulca pneumatycznego (Q)",
+"description":"Dokument potwierdzający posiadanie prawa jazdy uprawniający do kierowania pojazdami wyposażonymi w hamulce pneumatyczne lub pneumatyczno-hydrauliczne."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Kod stanu",
+"description":"Kod umieszczany na prawie jazdy w celu identyfikacji specjalnych wymagań dotyczących kierowania pojazdem, np. noszenia szkieł korekcyjnych."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Kod potwierdzenia",
+"description":"Kod potwierdzający, że kierowca ukończył specjalne szkolenie lub może obsługiwać specjalnie wyposażone pojazdy."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Punkty karne",
+"description":"Punkty zaliczone do rejestru kierowcy po skazaniu za określone wykroczenia drogowe."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Podsumowanie kierowcy",
+"description":"Oficjalny rejestr zawierający informacje o wyrokach skazujących za prowadzenie pojazdów, zawieszeniach i innych kwestiach dotyczących prawa jazdy."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Sygnalizacja świetlna ruchu",
+"description":"Czerwone, żółte lub zielone światło służące do kontrolowania przepływu ruchu na skrzyżowaniach lub połączeniach jezdni."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Stałe czerwone światło",
+"description":"Sygnał nakazujący całkowite zatrzymanie się przed linią stopu, przejściem dla pieszych lub skrzyżowaniem."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Stałe żółte światło",
+"description":"Ostrzeżenie, że światło zmienia się na czerwone i kierowcy muszą się zatrzymać, chyba że zatrzymanie jest niemożliwe w sposób bezpieczny."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Stałe zielone światło",
+"description":"Sygnał zezwalający na przejazd przez skrzyżowanie, ale wymagający ustąpienia pierwszeństwa."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Migające czerwone światło",
+"description":"Sygnał traktowany jak znak stop, wymagający całkowitego zatrzymania i ustąpienia pierwszeństwa przed kontynuowaniem jazdy."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Migające żółte światło",
+"description":"Sygnał umożliwiający kierowcom ostrożną jazdę po ustąpieniu pierwszeństwa pojazdom i pieszym."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Migające zielone światło",
+"description":"Sygnał zezwalający na ruch lub skręt bez zatrzymywania się, jednocześnie nakazujący kierowcom ustąpienie pierwszeństwa uczestnikom ruchu drogowego."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Sygnał zmiany pasa ruchu",
+"description":"Czerwona strzałka X lub zielona strzałka umieszczona nad jezdnią, kontrolująca, czy pas ruchu we wskazanym kierunku jest zamknięty, czy dostępny."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Znak regulacyjny",
+"description":"Znak wskazujący, co użytkownicy drogi muszą lub czego nie mogą robić, w tym zasady dotyczące prędkości, skrętu, parkowania i dostępu."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Znak ostrzegawczy",
+"description":"Znak informujący z wyprzedzeniem o zagrożeniu, stanie drogi, skrzyżowaniu, przejściu lub wymaganych działaniach."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Znak zezwalający",
+"description":"Biały kwadrat z zielonym okręgiem wskazujący, że wskazana czynność jest dozwolona."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Znak zakazu",
+"description":"Biały znak z czerwonym okręgiem i ukośną kreską informujący, że dana czynność jest zabroniona."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Znak Stop",
+"description":"Znak nakazujący całkowite zatrzymanie się i ustąpienie pierwszeństwa przejazdu przed bezpieczną jazdą."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Znak ustąp pierwszeństwa",
+"description":"Znak nakazujący kierowcy zwolnienie, przygotowanie się do zatrzymania i ustąpienie pierwszeństwa przejazdu w razie potrzeby."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Ograniczenie prędkości",
+"description":"Maksymalna dopuszczalna prędkość w idealnych warunkach, niekoniecznie bezpieczna prędkość w złych warunkach."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Strefa szkolna",
+"description":"Obszar oznaczony znakiem szkoły i informacją o ograniczeniu prędkości, na którym obowiązują specjalne ograniczenia prędkości i wyprzedzania."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Obszar szkolny",
+"description":"Obszar oznaczony znakiem szkolnym bez umieszczonego na nim znaku ograniczenia prędkości, ostrzegający kierowców o konieczności zachowania ostrożności."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Strefa Placu Zabaw",
+"description":"Obszar ze znakiem informującym o placu zabaw i ograniczeniem prędkości, na którym obowiązują ograniczenia prędkości i wyprzedzania."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Plac zabaw",
+"description":"Obszar oznaczony znakiem placu zabaw bez znaku ograniczenia prędkości, ostrzegającym, że w pobliżu mogą znajdować się dzieci."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Prace remontowe",
+"description":"Obszar robót drogowych, na którym należy przestrzegać ograniczeń prędkości, znaków ostrzegawczych i poleceń osób sygnalizujących obecność flagi."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Zarezerwowany pas",
+"description":"Pas ruchu przeznaczony dla określonych użytkowników drogi, np. autobusów, taksówek, rowerów lub pojazdów z dużą liczbą pasażerów."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Linia ciągła",
+"description":"Oznakowanie poziome, które generalnie zabrania przechodzenia przez jezdnię w celu wyprzedzania lub zmiany pasa ruchu."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Linia przerywana",
+"description":"Oznakowanie poziome umożliwiające przejście przez jezdnię lub zmianę pasa ruchu, jeżeli jest to bezpieczne."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Żółta linia",
+"description":"Oznaczenie na jezdni rozdzielające ruch w przeciwnych kierunkach."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Biała linia",
+"description":"Oznaczenie na jezdni oddzielające pojazdy poruszające się w tym samym kierunku."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Linia zatrzymania",
+"description":"Oznakowanie poziome pokazujące, gdzie pojazd musi się zatrzymać na skrzyżowaniu lub przejeździe kolejowym."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Przejście dla pieszych",
+"description":"Oznaczony lub nieoznakowany obszar, na którym piesi przechodzą, a kierowcy muszą ustąpić pierwszeństwa, jeśli jest to wymagane."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Ścieżka rowerowa",
+"description":"Oznaczony pas ruchu zarezerwowany dla rowerzystów, na który pojazdy silnikowe mogą wjeżdżać tylko w miejscach dozwolonych, np. w celu skrętu."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Pas ruchu współdzielonego",
+"description":"Oznaczony pas ruchu, który ma przypominać kierowcom, że rowerzyści mogą korzystać z tego samego pasa."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Martwy punkt",
+"description":"Obszar obok lub nieznacznie za pojazdem, którego nie można zobaczyć w lusterkach."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Kontrola barku",
+"description":"Szybkie spojrzenie przez ramię w celu sprawdzenia obszaru, którego nie widać w lusterkach."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Poduszka kosmiczna",
+"description":"Otwarta przestrzeń wokół pojazdu, umożliwiająca zatrzymanie się lub uniknięcie zagrożenia."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Odległość podążania",
+"description":"Czas i przestrzeń utrzymywane między Twoim pojazdem a pojazdem przed Tobą."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Zasada dwóch sekund",
+"description":"Minimalny zalecany czas obserwacji w normalnych warunkach drogowych i pogodowych."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Czas percepcji",
+"description":"Czas potrzebny na rozpoznanie sytuacji i zrozumienie, że należy się zatrzymać lub zareagować w inny sposób."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Czas reakcji",
+"description":"Czas potrzebny na reakcję na zagrożenie, np. przesunięcie stopy z pedału gazu na hamulec."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Droga hamowania",
+"description":"Odległość, jaką pojazd pokonuje od momentu zatrzymania się za pomocą hamulców."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Całkowita droga hamowania",
+"description":"Łączna odległość przebyta podczas percepcji, reakcji i hamowania."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Hamowanie progowe",
+"description":"Mocne hamowanie do momentu tuż przed zablokowaniem kół, przy zachowaniu możliwości kierowania."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"System zapobiegający blokowaniu kół (ABS)",
+"description":"System, który cyklicznie reguluje ciśnienie w układzie hamulcowym, aby zapobiec blokowaniu kół i zachować kontrolę nad układem kierowniczym."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Punkt tarcia",
+"description":"Pozycja sprzęgła, w której manualna skrzynia biegów zaczyna przekazywać moc silnika na koła."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Jazda na sprzęgle",
+"description":"Niepotrzebne opieranie nogi na pedale sprzęgła, powodujące dodatkowe zużycie sprzęgła."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Parkowanie równoległe",
+"description":"Parkowanie równolegle do krawężnika, w przestrzeni między pojazdami."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Parkowanie kątowe",
+"description":"Parkowanie na stanowisku postojowym ustawionym po przekątnej, zazwyczaj pod kątem około 45 stopni do pasa ruchu."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Parkowanie prostopadłe",
+"description":"Parkowanie na stanowisku postojowym ustawionym pod kątem 90 stopni do krawężnika."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Prawo drogi",
+"description":"Zasady określające, który użytkownik drogi musi ustąpić pierwszeństwa, a który może kontynuować jazdę."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Skrzyżowanie kontrolowane",
+"description":"Skrzyżowanie regulowane znakami drogowymi, sygnalizacją świetlną lub obydwoma tymi środkami."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Niekontrolowane skrzyżowanie",
+"description":"Skrzyżowanie bez znaków i sygnalizacji, na którym kierowcy zazwyczaj ustępują pierwszeństwa pojazdom z prawej strony."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Kącik uprzejmości",
+"description":"Zatrzymanie ruchu w trzech lub czterech kierunkach, z którego pierwszy pojazd przybywający na miejsce jedzie dalej, a pojazd z prawej strony jedzie dalej, jeżeli oba pojazdy przyjeżdżają jednocześnie."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Rondo",
+"description":"Skrzyżowanie okrężne, na którym ruch odbywa się w kierunku przeciwnym do ruchu wskazówek zegara, a pojazdy wjeżdżające na skrzyżowanie ustępują pierwszeństwa pojazdom znajdującym się już na skrzyżowaniu."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Rondo",
+"description":"Skrzyżowanie o ruchu okrężnym z ciaśniejszymi zakrętami, które mają zachęcać do jazdy z niższą prędkością."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Skręt na dwa pasy ruchu",
+"description":"Skręt wykonany z jednego z dwóch oznakowanych pasów do skrętu na odpowiadający mu pas docelowy."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Dwukierunkowy pas do skrętu w lewo",
+"description":"Wspólny pas środkowy, z którego korzystają pojazdy z obu kierunków przygotowujące się do skrętu w lewo."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Zawracanie",
+"description":"Manewr polegający na zawróceniu pojazdu i umożliwieniu jazdy w przeciwnym kierunku, korzystając z przeciwległych pasów ruchu."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Pas do wyprzedzania",
+"description":"Dodatkowy pas ruchu na autostradzie umożliwiający szybszym pojazdom bezpieczne wyprzedzanie wolniejszych pojazdów."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Pas awaryjny",
+"description":"Pobocze autostrady przeznaczone do nagłych zatrzymań lub problemów z pojazdem, nie zaś do normalnej jazdy lub wyprzedzania."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Pas przyspieszenia",
+"description":"Pas ruchu używany w celu zwiększenia prędkości i dostosowania się do przepływu ruchu przed włączeniem się do ruchu na jezdni."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Pas zwalniania",
+"description":"Pas ruchu używany do zmniejszenia prędkości przy zjeździe z autostrady lub głównej drogi."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Łączenie",
+"description":"Wspólny proces bezpiecznego łączenia ruchu drogowego, w którym dwie jezdnie łączą się w jedną."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Strefa splotu",
+"description":"Wspólny pas ruchu, na którym pojazdy wjeżdżające na jezdnię przyspieszają, a wyjeżdżające zwalniają."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Poślizg",
+"description":"Utrata kontroli nad pojazdem spowodowana zmniejszoną przyczepnością opon."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Poślizg hamowania",
+"description":"Poślizg powstający podczas hamowania i blokowania kół pojazdu bez ABS."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Power Skid",
+"description":"Poślizg spowodowany zbyt szybkim przyspieszaniem i powodujący poślizg kół napędowych."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Poślizg na zakrętach",
+"description":"Poślizg boczny spowodowany zbyt szybką jazdą podczas skręcania."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Aquaplaning",
+"description":"Utrata kontaktu opon z mokrą nawierzchnią drogi, co może spowodować utratę kontroli nad pojazdem."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Czarny lód",
+"description":"Trudno widoczna warstwa lodu powstaje, gdy wilgoć zamarza na drodze."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Odzyskiwanie w terenie",
+"description":"Kontrolowany proces zwalniania i stopniowego powrotu na jezdnię po opuszczeniu nawierzchni."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Światła awaryjne",
+"description":"Światła migające czterokierunkowo służą do ostrzegania innych, że pojazd się zatrzymał lub stanowi zagrożenie."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Proaktywna jazda",
+"description":"Przewidywanie zagrożeń i wczesne reagowanie w celu ich zmniejszenia, zminimalizowania lub uniknięcia."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Czas realizacji wizualnej",
+"description":"Odległość mierzona w sekundach, jaką kierowca pokonuje przed sobą, aby zapewnić sobie czas na reakcję na zagrożenie."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Stałe zagrożenie",
+"description":"Stały stan nawierzchni drogi, np. zakręt, wzniesienie, skrzyżowanie lub ukryty podjazd."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Zmienne ryzyko",
+"description":"Zmieniające się warunki, takie jak piesi, oblodzone nawierzchnie, pojazdy uprzywilejowane lub nieaktywne zielone światło."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Rozproszenie uwagi podczas jazdy",
+"description":"Prowadzenie pojazdu, podczas gdy uwaga jest odwrócona przez takie czynności, jak korzystanie z telefonu, pisanie SMS-ów, czytanie, programowanie urządzeń lub dbanie o wygląd."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Fotelik dziecięcy",
+"description":"Zatwierdzone urządzenie zabezpieczające, dobrane odpowiednio do wieku i wagi dziecka oraz zainstalowane zgodnie z instrukcją producenta."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"Uniwersalny system kotwiczenia służący do mocowania kompatybilnych fotelików dziecięcych w pojeździe."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Fotelik podwyższający",
+"description":"Homologowany fotelik, który zapewnia dziecku prawidłową pozycję podczas korzystania z pasów bezpieczeństwa pojazdu."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Użytkownik drogi narażony na niebezpieczeństwo",
+"description":"Pieszy, rowerzysta lub motocyklista mający mniejszą ochronę fizyczną niż osoba podróżująca w pojeździe zamkniętym."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Bursztynowe światła autobusu szkolnego",
+"description":"Naprzemienne światła ostrzegawcze wskazują, że autobus szkolny zwalnia i przygotowuje się do zatrzymania."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Czerwone światła autobusu szkolnego",
+"description":"Sygnalizacja świetlna zmieniająca się z powodu konieczności zatrzymania ruchu, gdy uczniowie wchodzą, wychodzą lub przechodzą w pobliżu autobusu."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Światła ostrzegawcze pługa śnieżnego",
+"description":"Migające pomarańczowe i czerwone światła wskazują, że przed Tobą pracuje pług śnieżny."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Przejazd kolejowy",
+"description":"Miejsce, w którym droga przecina tory kolejowe i kierowcy muszą ustąpić pierwszeństwa pociągowi."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Kolejowy Crossbuck",
+"description":"Znak w kształcie litery X ostrzegający kierowców przed przejazdem kolejowym i nakazujący im ustąpić pierwszeństwa pociągom."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Lekki transport szynowy (LRT)",
+"description":"Cichy, elektryczny system kolejowy, którego przejazdy należy traktować tak samo jak inne przejazdy kolejowe."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Kondukt pogrzebowy",
+"description":"Ciasno ustawiony sznur pojazdów z włączonymi światłami, które mogą wspólnie przejechać przez skrzyżowanie, jeśli jest to bezpieczne."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Jazda pod wpływem alkoholu",
+"description":"Prowadzenie pojazdu pod wpływem alkoholu, narkotyków, leków lub innych substancji obniża zdolność prowadzenia pojazdów."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Natychmiastowe sankcje drogowe (IRS)",
+"description":"W Albercie zaostrza się program kar administracyjnych za jazdę pod wpływem alkoholu."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERO: Nowicjusz",
+"description":"Program zerowej tolerancji wobec alkoholu i narkotyków dla uczniów klasy 7 i kierowców klasy 5-GDL."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS ZERO: Komercyjne",
+"description":"Program zerowej tolerancji wobec alkoholu i narkotyków dla kierowców zawodowych wykonujących pracę zarobkową."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: UWAGA",
+"description":"Sankcje drogowe obowiązują, gdy stężenie alkoholu we krwi kierowcy osiągnie określony próg ostrzegawczy."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: NIEPOWODZENIE",
+"description":"Surowe sankcje drogowe mogą dotyczyć upośledzenia na poziomie kryminalnym, niedozwolonej koncentracji lub odmowy wykonania zgodnego z prawem żądania."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Urządzenie blokujące zapłon",
+"description":"Urządzenie mierzące zawartość alkoholu w wydychanym powietrzu i uniemożliwiające uruchomienie pojazdu, gdy odczyt przekroczy ustalony próg."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"Bezpieczne Drogi Alberta",
+"description":"Organ administracyjny rozpatrujący skargi na prowincjonalne kary za jazdę pod wpływem alkoholu oraz konfiskaty pojazdów."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Proces ponownego rozpatrzenia sprawy przez Rejestratora",
+"description":"Procedura służąca do wnioskowania o ponowne rozpatrzenie decyzji administracyjnych dotyczących jazdy bez utraty uprawnień."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Łańcuchy bezpieczeństwa przyczepy",
+"description":"Solidnie zamocowane łańcuchy skrzyżowane pod dyszlem przyczepy, zapewniające dodatkowe połączenie."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"System awaryjnego odłączania",
+"description":"System bezpieczeństwa przyczepy, który uruchamia się w przypadku odłączenia się przyczepy od pojazdu holującego."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Zboczenie z trasy",
+"description":"Tendencja kół przyczepy do podążania ścieżką wewnętrzną, po której poruszają się koła pojazdu holującego."
+}
+]

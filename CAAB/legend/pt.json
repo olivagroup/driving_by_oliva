@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Sistema de Habilitação Gradual para Motoristas (GDL)",
+"description":"O programa de habilitação por etapas de Alberta permite que novos motoristas adquiram habilidades e experiência em condições controladas."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Licença de Aprendizagem Classe 7",
+"description":"A primeira etapa do GDL (Graduate Driver`s License, ou Licença Gradual para Dirigir), que permite dirigir sob supervisão em condições de aprendizagem."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Licença Classe 5-GDL",
+"description":"Licença provisória obtida durante a segunda fase do programa GDL de Alberta."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Carteira de Habilitação Classe 5 Completa",
+"description":"Uma licença não-GDL que permite a condução independente de automóveis e outros veículos ligeiros elegíveis."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Teste de Conhecimento",
+"description":"Um teste computadorizado de múltipla escolha que abrange regras de trânsito, práticas de direção segura e sinalização viária."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Teste de estrada",
+"description":"Uma avaliação prática do manuseio do veículo, observação, julgamento e cumprimento das regras de trânsito."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Avaliação da visão",
+"description":"Verificação obrigatória para confirmar se o motorista atende aos padrões mínimos de visão de Alberta."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Agente de Registro",
+"description":"Um escritório autorizado em Alberta que oferece serviços como licenciamento, registro, testes e atualização de licenças."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Examinador de motoristas",
+"description":"Pessoa autorizada a realizar testes de condução e avaliar se os candidatos possuem as habilidades de direção necessárias."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Habilitação para freio a ar (Q)",
+"description":"É necessário um endosso na carteira de habilitação para operar veículos com freios a ar ou freios combinados a ar e hidráulicos."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Código de condição",
+"description":"Um código inserido na carteira de habilitação para identificar uma necessidade especial de condução, como o uso de lentes corretivas."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Código de Endosso",
+"description":"Um código que indica que um motorista concluiu treinamento específico ou está habilitado a operar veículos com equipamentos especiais."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Pontos de demérito",
+"description":"Pontos atribuídos à carteira de habilitação após condenação por determinadas infrações de trânsito."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Resumo do motorista",
+"description":"Um registro oficial que mostra condenações por infrações de trânsito, suspensões e outras informações sobre a habilitação."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Sinalização de Controle de Tráfego",
+"description":"Uma luz vermelha, amarela ou verde usada para controlar o fluxo de tráfego em cruzamentos ou vias que se unem."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Luz vermelha sólida",
+"description":"Sinalização que exige parada completa antes da linha de parada, faixa de pedestres ou cruzamento."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Luz amarela sólida",
+"description":"Um aviso de que o sinal está mudando para vermelho e os motoristas devem parar, a menos que a parada não possa ser feita com segurança."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Luz verde sólida",
+"description":"Um sinal que permite a passagem por um cruzamento, mas ainda exige que o pedestre ou ceda a passagem, quando aplicável."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Luz vermelha intermitente",
+"description":"Um sinal tratado como uma placa de pare, exigindo parada completa seguida de ceder a passagem antes de prosseguir."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Luz amarela intermitente",
+"description":"Um sinal que permite aos condutores prosseguir com cautela após darem prioridade ao trânsito e aos pedestres."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Luz verde intermitente",
+"description":"Um sinal que permite a circulação ou conversões sem parar, exigindo ao mesmo tempo que os condutores deem prioridade aos utilizadores da via pública."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Sinal de inversão de faixa",
+"description":"Uma seta vermelha em forma de X ou verde, exibida acima da cabeça, indica se uma faixa está fechada ou disponível na direção indicada."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Sinal regulamentar",
+"description":"Uma placa indicando o que os usuários da via devem ou não fazer, incluindo regras de velocidade, conversão, estacionamento e acesso."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Sinal de aviso",
+"description":"Sinalização que avisa com antecedência sobre um perigo, condição da estrada, cruzamento, travessia ou ação necessária."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Sinal permissivo",
+"description":"Um quadrado branco com um círculo verde indicando que a ação em questão é permitida."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Sinal de proibição",
+"description":"Uma placa branca com um círculo vermelho e uma barra diagonal indicando que a ação em questão é proibida."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Sinal de Pare",
+"description":"Sinalização regulamentar exigindo parada completa e ceder a passagem antes de prosseguir com segurança."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Sinal de Dê a Preferência",
+"description":"Uma placa que exige que o motorista reduza a velocidade, esteja preparado para parar e dê a preferência de passagem quando necessário."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Limite de velocidade",
+"description":"A velocidade máxima permitida por lei em condições ideais não é necessariamente uma velocidade segura em condições adversas."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Zona Escolar",
+"description":"Área sinalizada com placa de escola e limite de velocidade afixado, onde se aplicam restrições especiais de velocidade e ultrapassagem."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Área escolar",
+"description":"Área sinalizada por uma placa escolar sem placa de velocidade anexa, alertando os motoristas para terem cautela."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Zona de recreação",
+"description":"Área com placa de parque infantil e limite de velocidade sinalizado, onde se aplicam restrições de velocidade reduzida e ultrapassagem."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Área de recreação infantil",
+"description":"Área sinalizada com placa de parque infantil sem indicação de velocidade, alertando para a possível presença de crianças nas proximidades."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Área em construção",
+"description":"Área de obras na via pública onde os limites de velocidade, a sinalização de advertência e as instruções do sinalizador devem ser respeitados."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Faixa reservada",
+"description":"Uma faixa designada para usuários específicos da via, como ônibus, táxis, bicicletas ou veículos com alta ocupação."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Linha contínua",
+"description":"Uma marcação horizontal que geralmente proíbe a travessia para ultrapassar ou mudar de faixa."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Linha quebrada",
+"description":"Uma marcação horizontal que permite a travessia para ultrapassar ou mudar de faixa quando for seguro."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Linha Amarela",
+"description":"Uma marcação na calçada que separa o tráfego que segue em sentidos opostos."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Linha branca",
+"description":"Uma marcação na calçada que separa o tráfego que segue na mesma direção."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Linha de parada",
+"description":"Uma marcação no pavimento que indica onde um veículo deve parar em um cruzamento ou passagem de nível."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Faixa de pedestres",
+"description":"Área demarcada ou não demarcada onde os pedestres atravessam e os motoristas devem ceder a passagem conforme exigido."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Ciclovia",
+"description":"Uma faixa demarcada reservada para ciclistas, na qual os veículos motorizados só podem entrar onde for permitido, como para fazer uma conversão."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Faixa de uso compartilhado",
+"description":"Uma faixa de rolamento sinalizada para lembrar os motoristas de que os ciclistas podem usar a mesma faixa."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Ponto cego",
+"description":"Uma área ao lado ou ligeiramente atrás de um veículo que não pode ser vista nos seus espelhos retrovisores."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Verificação do ombro",
+"description":"Uma rápida olhada por cima do ombro para verificar uma área que não pode ser vista nos espelhos."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Almofada espacial",
+"description":"Espaço aberto mantido ao redor do veículo para proporcionar espaço para parada ou para evitar perigos."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Distância de seguimento",
+"description":"O tempo e o espaço mantidos entre o seu veículo e o veículo da frente."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Regra dos Dois Segundos",
+"description":"O tempo mínimo de seguimento recomendado em condições normais de estrada e clima."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Tempo de Percepção",
+"description":"O tempo necessário para reconhecer uma situação e entender que é preciso parar ou tomar outra resposta."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Tempo de reação",
+"description":"O tempo necessário para reagir a um perigo, como mover o pé do acelerador para o freio."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Distância de frenagem",
+"description":"A distância que um veículo percorre após a aplicação dos freios até parar completamente."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Distância total de frenagem",
+"description":"A distância total percorrida durante a percepção, a reação e a frenagem."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Frenagem de Limiar",
+"description":"Frenagem firme até o ponto imediatamente anterior ao travamento das rodas, preservando a capacidade de direção."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Sistema de freios antibloqueio (ABS)",
+"description":"Um sistema que controla a pressão do freio de forma intermitente para ajudar a evitar o travamento das rodas e preservar o controle da direção."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Ponto de Atrito",
+"description":"A posição da embreagem onde uma transmissão manual começa a conectar a potência do motor às rodas."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Pilotando a embreagem",
+"description":"Manter o pé sobre o pedal da embreagem desnecessariamente causa desgaste adicional da embreagem."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Estacionamento paralelo",
+"description":"Estacione paralelamente ao meio-fio, no espaço entre os veículos."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Estacionamento em ângulo",
+"description":"Estacionar em vaga posicionada diagonalmente, geralmente a aproximadamente 45 graus em relação à faixa de tráfego."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Estacionamento perpendicular",
+"description":"Estacione em uma vaga posicionada em um ângulo de 90 graus em relação ao meio-fio."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Direito de passagem",
+"description":"Regras que determinam qual usuário da via deve ceder a passagem e qual pode prosseguir."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Interseção controlada",
+"description":"Uma intersecção regulada por sinais de trânsito, semáforos ou ambos."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Interseção sem sinalização",
+"description":"Um cruzamento sem sinalização ou semáforos onde os motoristas geralmente dão preferência ao veículo à sua direita."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Canto da Cortesia",
+"description":"Uma parada em cruzamento de três ou quatro vias onde o primeiro veículo a chegar prossegue primeiro, ou o veículo à direita prossegue quando as chegadas são simultâneas."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Rotatória",
+"description":"Uma intersecção circular onde o trânsito flui no sentido anti-horário e os veículos que entram devem dar prioridade aos que já estão dentro da rotatória."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Rotatória",
+"description":"Uma intersecção circular projetada com curvas mais acentuadas para incentivar velocidades mais baixas."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Curva em duas faixas",
+"description":"Uma conversão realizada a partir de uma das duas faixas de conversão sinalizadas para a faixa de destino correspondente."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Faixa de conversão à esquerda em mão dupla",
+"description":"Faixa central compartilhada, utilizada pelo tráfego em ambos os sentidos ao se preparar para virar à esquerda."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Retorno em U",
+"description":"Manobra que consiste em virar um veículo para que ele possa trafegar na direção oposta, utilizando as faixas de rolamento contrárias."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Faixa de ultrapassagem",
+"description":"Uma faixa adicional na rodovia permite que o tráfego mais rápido ultrapasse os veículos mais lentos com segurança."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Faixa de parada de emergência",
+"description":"O acostamento da rodovia é reservado para paradas urgentes ou problemas com o veículo, não para condução normal ou ultrapassagens."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Faixa de aceleração",
+"description":"Uma faixa utilizada para aumentar a velocidade e igualar o fluxo de tráfego antes de entrar na via principal."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Faixa de desaceleração",
+"description":"Faixa utilizada para reduzir a velocidade ao sair de uma rodovia ou via principal."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Fusão",
+"description":"O processo compartilhado de integração segura do tráfego no ponto de encontro de duas vias em uma só."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Zona de Tecelagem",
+"description":"Uma faixa compartilhada onde o tráfego que entra acelera enquanto o tráfego que sai diminui a velocidade."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Derrapagem",
+"description":"Perda do controle do veículo causada pela redução da tração dos pneus."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Derrapagem de frenagem",
+"description":"Uma derrapagem causada pela frenagem trava as rodas de um veículo sem ABS."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Power Skid",
+"description":"Uma derrapagem causada por aceleração excessiva, fazendo com que as rodas motrizes patinem."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Derrapagem em curvas",
+"description":"Uma derrapagem lateral causada por uma velocidade excessiva durante uma curva."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Hidroplanagem",
+"description":"Perda de contato do pneu com a superfície molhada da estrada, o que pode causar a perda do controle do veículo."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Gelo Negro",
+"description":"Uma camada de gelo difícil de ver que se forma quando a umidade congela na estrada."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Resgate fora de estrada",
+"description":"O processo controlado de desacelerar e retornar gradualmente à pista após sair do pavimento."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Luzes de aviso de perigo",
+"description":"Luzes intermitentes de quatro vias usadas para alertar outros de que um veículo está parado ou representa um perigo."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Direção proativa",
+"description":"Antecipar os perigos e agir com rapidez para reduzir, minimizar ou evitar o risco."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Tempo de antecedência visual",
+"description":"A distância, medida em segundos, que um motorista percorre com o olhar à frente para ter tempo de reagir a perigos."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Perigo fixo",
+"description":"Uma condição permanente da via, como uma curva, uma subida, um cruzamento ou uma entrada de garagem escondida."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Risco variável",
+"description":"Uma condição em constante mudança, como pedestres, superfícies geladas, veículos de emergência ou semáforos verdes vencidos."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Condução distraída",
+"description":"Dirigir com a atenção desviada por atividades como usar o celular, enviar mensagens de texto, ler, programar dispositivos ou cuidar da aparência."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Cadeirinha de segurança infantil",
+"description":"Um dispositivo de retenção aprovado, selecionado de acordo com a idade ou o peso da criança e instalado conforme as instruções do fabricante."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"Um sistema de ancoragem universal usado para fixar cadeirinhas de segurança infantil compatíveis a um veículo."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Assento de elevação",
+"description":"Uma cadeirinha homologada que posiciona a criança corretamente para o uso do cinto de segurança do veículo."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Usuário vulnerável da via",
+"description":"Um pedestre, ciclista ou motociclista com menos proteção física do que um ocupante de um veículo fechado."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Ônibus escolar com luzes âmbar",
+"description":"Luzes de advertência alternadas indicando que um ônibus escolar está diminuindo a velocidade e se preparando para parar."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Luzes vermelhas do ônibus escolar",
+"description":"Semáforos alternados exigindo que o trânsito pare enquanto os alunos entram, saem ou atravessam perto do ônibus."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Luzes de aviso do limpa-neves",
+"description":"Luzes âmbar e vermelhas piscando indicam que um limpa-neves está operando à frente."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Passagem de nível",
+"description":"Local onde uma estrada cruza os trilhos da ferrovia e os motoristas devem dar passagem aos trens."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Cruz de Ferrovia",
+"description":"Sinalização de passagem de nível em forma de X, exigindo que os motoristas deem preferência aos trens."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Transporte Ferroviário Leve (VLT)",
+"description":"Um sistema ferroviário silencioso, alimentado por energia elétrica, cujas passagens de nível devem ser tratadas como outras passagens de nível."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Cortejo fúnebre",
+"description":"Uma fila de veículos agrupados e com os faróis acesos, que podem atravessar um cruzamento juntos quando for seguro."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Condução sob o efeito de álcool ou drogas",
+"description":"Operar um veículo sob o efeito de álcool, drogas, medicamentos ou outra condição que reduza a capacidade de dirigir."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Sanções Imediatas na Estrada (IRS)",
+"description":"Programa de penalidades administrativas progressivas de Alberta para condução sob o efeito de álcool ou drogas."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERO: Novato",
+"description":"Um programa de tolerância zero para álcool e drogas para condutores com carteira de habilitação provisória (Classe 7) e carteira de habilitação provisória (Classe 5-GDL)."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS ZERO: Comercial",
+"description":"Um programa de tolerância zero para álcool e drogas para motoristas profissionais que atuam em caráter comercial."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"Receita Federal: AVISO",
+"description":"Sanções de trânsito aplicáveis quando a concentração de álcool no sangue de um motorista atinge o limite de advertência especificado."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"Receita Federal: FRACASSO",
+"description":"Sanções severas podem ser aplicadas em casos de embriaguez ao volante em nível criminal, concentrações proibidas ou recusa em atender a uma solicitação legal."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Dispositivo de bloqueio de ignição",
+"description":"Um dispositivo que mede o nível de álcool no hálito e impede que o veículo ligue quando a leitura ultrapassa o limite estabelecido."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"Estradas Seguras de Alberta",
+"description":"Órgão administrativo responsável por analisar contestações às penalidades provinciais por dirigir sob efeito de álcool ou drogas e apreensões de veículos."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Processo de Reconsideração do Registro",
+"description":"O processo utilizado para solicitar a revisão de decisões administrativas relativas à condução sem estar sob o efeito de substâncias."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Correntes de segurança para reboques",
+"description":"Correntes firmemente presas cruzam-se sob a lança do reboque para fornecer uma conexão secundária."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Sistema de desengate de emergência",
+"description":"Um sistema de segurança para reboques projetado para ser ativado caso o reboque se separe do veículo trator."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Desvio do rastro",
+"description":"A tendência das rodas do reboque de seguirem uma trajetória paralela à trajetória das rodas do veículo trator."
+}
+]
