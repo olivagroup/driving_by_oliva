@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Diplomás Jogosítvány (GDL)",
+"description":"Alberta szakaszos jogosítványkiadási programja lehetővé teszi az új sofőrök számára, hogy ellenőrzött körülmények között szerezzenek készségeket és tapasztalatot."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"7. osztályú tanulói jogosítvány",
+"description":"Az első GDL-szakasz, amely lehetővé teszi a felügyelt vezetést tanulókörülmények között."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"5. osztályú GDL engedély",
+"description":"Próbaidős engedély, amelyet az albertai GDL program második szakaszában szereztek."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Teljes 5. osztályú jogosítvány",
+"description":"Nem GDL jogosítvány, amely lehetővé teszi autók és más jogosult könnyű járművek önálló vezetését."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Tudáspróba",
+"description":"Számítógépes feleletválasztós teszt, amely a közlekedési szabályokat, a biztonságos vezetési gyakorlatokat és a közlekedési jelzéseket tartalmazza."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Közúti teszt",
+"description":"A járművezetés, a megfigyelés, az ítélőképesség és a közlekedési szabályok betartásának gyakorlati értékelése."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Látásvizsgálat",
+"description":"Kötelező ellenőrzés, amely megerősíti, hogy a sofőr megfelel-e Alberta minimális látási követelményeinek."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Nyilvántartási ügynök",
+"description":"Egy hivatalos albertai iroda, amely olyan szolgáltatásokat nyújt, mint az engedélyezés, regisztráció, vizsgáztatás és engedélyfrissítés."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Gépjárművezető-vizsgáztató",
+"description":"Olyan személy, aki jogosult közúti vizsgák lebonyolítására és annak felmérésére, hogy a jelentkezők rendelkeznek-e a szükséges vezetési képességekkel."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Légfék-jóváhagyás (Q)",
+"description":"Olyan engedélykiegészítés, amely csak levegős vagy kombinált levegős és hidraulikus fékekkel felszerelt járművek vezetéséhez szükséges."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Állapotkód",
+"description":"A jogosítványon elhelyezett kód, amely speciális vezetési követelményt, például korrekciós lencsét azonosít."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Jóváhagyási kód",
+"description":"Egy kód, amely azt mutatja, hogy a járművezető speciális képzésen vett részt, vagy speciálisan felszerelt járműveket vezethet."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Hátránypontok",
+"description":"Bizonyos közlekedési szabálysértések miatti elítélést követően a vezetési nyilvántartásban rögzített pontok."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Vezetői kivonat",
+"description":"Hivatalos nyilvántartás, amely tartalmazza a vezetési elítéléseket, felfüggesztéseket és egyéb engedélyekkel kapcsolatos információkat."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Forgalomirányító jelzés",
+"description":"Piros, sárga vagy zöld lámpa, amelyet a forgalomirányítás szabályozására használnak kereszteződésekben vagy egyesülő utaknál."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Folyamatos piros fény",
+"description":"Teljes megállást előíró jelzés a megállóvonal, a gyalogátkelőhely vagy a kereszteződés előtt."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Folyamatos sárga fény",
+"description":"Figyelmeztetés, hogy a lámpa pirosra vált, és a vezetőknek meg kell állniuk, kivéve, ha a megállás biztonságosan nem lehetséges."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Folyamatos zöld fény",
+"description":"Olyan jelzőlámpa, amely engedélyezi a közlekedést egy kereszteződésen, miközben továbbra is előírja az elsőbbségadást."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Villogó piros fény",
+"description":"Egy stoptáblaként kezelt jelzés, amely teljes megállást, majd elsőbbségadást ír elő a továbbhaladás előtt."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Villogó sárga fény",
+"description":"Egy olyan jelzés, amely lehetővé teszi a vezetők számára, hogy óvatosan haladjanak, miután elsőbbséget adtak a forgalomnak és a gyalogosoknak."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Villogó zöld fény",
+"description":"Olyan jelzés, amely megállás nélkül lehetővé teszi a mozgást vagy a kanyarodást, miközben előírja a közlekedők számára a szabályos közlekedők elsőbbségének megadását."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Sávváltási jelzés",
+"description":"Egy piros X vagy zöld nyíl, amely jelzi, hogy egy sáv le van-e zárva vagy elérhető a jelzett irányban."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Közlekedési jel",
+"description":"Egy tábla, amely jelzi, hogy a közlekedőknek mit kell vagy mit nem szabad tenniük, beleértve a sebességre, a kanyarodásra, a parkolásra és a hozzáférésre vonatkozó szabályokat."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Figyelmeztető jel",
+"description":"Olyan tábla, amely előre figyelmeztet egy veszélyre, útviszonyra, kereszteződésre, átkelőhelyre vagy a szükséges beavatkozásra."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Megengedő jel",
+"description":"Egy fehér négyzet zöld körrel, amely azt mutatja, hogy a jelzett művelet megengedett."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Tiltó tábla",
+"description":"Egy fehér tábla piros körrel és átlós sávval, amely azt mutatja, hogy a jelzett tevékenység tilos."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Stoptábla",
+"description":"Egy szabályozó tábla, amely teljes megállást és elsőbbségadást ír elő a biztonságos továbblépés előtt."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Engedélyezési jel",
+"description":"Olyan tábla, amely előírja a vezető számára a lassítást, a megállásra való felkészülést és a szükséges elsőbbségadást."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Sebességhatár",
+"description":"Az ideális körülmények között megengedett maximális sebesség, rossz körülmények között nem feltétlenül biztonságos."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Iskolai zóna",
+"description":"Iskolatáblával és kifüggesztett sebességkorlátozással jelölt terület, ahol speciális sebesség- és előzési korlátozások érvényesek."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Iskolai terület",
+"description":"Egy iskolai táblával jelölt terület, amelyhez nem tartozik sebességkorlátozó tábla, és amely óvatosságra inti a vezetőket."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Játszótér",
+"description":"Egy játszótéri táblával és kifüggesztett sebességkorlátozással ellátott terület, ahol csökkentett sebesség és előzési korlátozások érvényesek."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Játszótér",
+"description":"Egy játszótéri táblával jelölt terület sebességkorlátozó tábla nélkül, amely arra figyelmeztet, hogy gyermekek tartózkodhatnak a közelben."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Építési övezet",
+"description":"Olyan útszakasz, ahol be kell tartani a sebességkorlátozásokat, a figyelmeztető táblákat és a jelzőtisztek utasításait."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Foglalt sáv",
+"description":"Meghatározott közlekedők, például buszok, taxik, kerékpárok vagy nagy forgalmú járművek számára kijelölt sáv."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Folytonos vonal",
+"description":"Olyan útburkolati jel, amely általánosságban tiltja az átkelést előzés vagy sávváltás céljából."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Törött vonal",
+"description":"Olyan útburkolati jel, amely lehetővé teszi az átkelést vagy a sávváltást, amikor az biztonságos."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Sárga vonal",
+"description":"Útburkolati jel, amely elválasztja az ellentétes irányban haladó forgalmat."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Fehér vonal",
+"description":"Az azonos irányban haladó forgalmat elválasztó útburkolati jel."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Stop vonal",
+"description":"Útburkolati jel, amely azt mutatja, hogy hol kell a járműnek megállnia egy kereszteződésben vagy vasúti átjáróban."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Gyalogátkelőhely",
+"description":"Jelölt vagy jelöletlen terület, ahol a gyalogosok átkelhetnek, és a járművezetőknek az előírt elsőbbséget kell biztosítaniuk."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Kerékpárút",
+"description":"Kerékpárosok számára fenntartott kijelölt sáv, amelyre gépjárművek csak engedélyezett helyeken, például kanyarodáskor hajthatnak be."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Megosztott használatú sáv",
+"description":"Egy kijelölt forgalmi sáv, amely emlékezteti a sofőröket, hogy a kerékpárosok ugyanazt a sávot használhatják."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Vakfolt",
+"description":"A jármű mellett vagy kissé mögötte található olyan terület, amely a tükreiben nem látható."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Vállellenőrzés",
+"description":"Egy gyors pillantás a válla fölött, hogy ellenőrizzen egy területet, ami a tükrökben nem látható."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Űrpárna",
+"description":"Jármű körül fenntartott nyílt tér, amely helyet biztosít a megálláshoz vagy a veszélyek elkerüléséhez."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Követési távolság",
+"description":"Az Ön járműve és az elöl haladó jármű között fenntartott idő és tér."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Két másodperces szabály",
+"description":"A minimálisan ajánlott követési idő normál út- és időjárási körülmények között."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Észlelési idő",
+"description":"Az az idő, amely ahhoz szükséges, hogy felismerjünk egy helyzetet, és megértsük, hogy meg kell állnunk, vagy más válaszra van szükség."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Reakcióidő",
+"description":"Az az idő, amely egy veszélyre való reagáláshoz szükséges, például a láb gázpedálról fékre helyezéséhez."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Féktávolság",
+"description":"Az a távolság, amelyet a jármű a fékezés után megtelik a megállásig."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Teljes féktávolság",
+"description":"Az érzékelés, a reakció és a fékezés során megtett együttes távolság."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Küszöbfékezés",
+"description":"Erős fékezés egészen a kerekek blokkolása előtti pontig, megőrizve a kormányozhatóságot."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Blokkolásgátló fékrendszer (ABS)",
+"description":"Egy olyan rendszer, amely ciklikusan szabályozza a féknyomást a kerekek blokkolásának megakadályozása és a kormányzási kontroll megőrzése érdekében."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Súrlódási pont",
+"description":"A tengelykapcsoló állása, ahol a kézi sebességváltó elkezdi a motor teljesítményét a kerekekhez kapcsolni."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"A kuplung lovaglása",
+"description":"A láb szükségtelenül a kuplungpedálon való nyugtatása, ami további kuplungkopást okoz."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Párhuzamos parkolás",
+"description":"Parkolás a járdaszegéllyel párhuzamosan, a járművek közötti helyen."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Szögletes parkolás",
+"description":"Parkolás átlósan elhelyezett parkolóhelyen, általában körülbelül 45 fokos szögben a forgalmi sávhoz képest."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Merőleges parkolás",
+"description":"Parkolás a járdaszegélyhez képest 90 fokos szögben elhelyezett parkolóhelyen."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Útjog",
+"description":"Szabályok meghatározzák, hogy melyik közlekedőnek kell elsőbbséget adnia, és melyik haladhat tovább."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Ellenőrzött kereszteződés",
+"description":"Közlekedési táblák, közlekedési lámpák vagy mindkettő által szabályozott kereszteződés."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Ellenőrzés nélküli kereszteződés",
+"description":"Táblák vagy jelzőlámpák nélküli kereszteződés, ahol a vezetők általában elsőbbséget adnak a jobb oldali járműnek."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Udvariassági sarok",
+"description":"Három- vagy négyutas megállóhely, ahol az elsőként érkező jármű halad előre, vagy a jobb oldalon lévő jármű halad előre, ha egyszerre érkeznek járművek."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Körforgalom",
+"description":"Kör alakú kereszteződés, ahol a forgalom az óramutató járásával ellentétesen halad, és a behajtó járművek elsőbbséget adnak a bent lévő forgalomnak."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Körforgalom",
+"description":"Egy kör alakú kereszteződés, amelyet szűkebb ívekkel terveztek a sebesség csökkentése érdekében."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Kétsávos kanyar",
+"description":"Két jelölt kanyarodósáv egyikéből a megfelelő célsávba történő kanyarodás."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Kétirányú balra kanyarodó sáv",
+"description":"Megosztott középső sáv, amelyet a forgalom mindkét irányból használ balra kanyarodásra készülve."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"U-fordulás",
+"description":"Olyan manőver, amelynek során egy járművet a szembejövő sávok használatával megfordítanak, hogy az ellenkező irányba haladjon."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Előrehaladó sáv",
+"description":"Egy további autópálya sáv, amely lehetővé teszi a gyorsabb forgalom számára, hogy biztonságosan előzze a lassabb járműveket."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Vészfékezési sáv",
+"description":"Az autópálya leállósávja sürgős megállásokra vagy járműproblémákra van fenntartva, nem normál vezetésre vagy előzésre."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Gyorsulási sáv",
+"description":"Egy sáv, amelyet a sebesség növelésére és a forgalom áramlásához való igazodásra használnak, mielőtt egy útra csatlakoznának."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Lassító sáv",
+"description":"Sáv, amelyet a sebesség csökkentésére használnak autópályáról vagy főútról való lehajtáskor."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Egyesítés",
+"description":"A forgalom biztonságos összeolvadásának megosztott folyamata, ahol két úttest egyesül."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Szövési zóna",
+"description":"Megosztott sáv, ahol a belépő forgalom gyorsul, míg a kilépő forgalom lassul."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Csúszás",
+"description":"A gumiabroncsok csökkent tapadása miatti uralomvesztés."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Fékező csúszás",
+"description":"A fékezés során keletkező megcsúszás blokkolja az ABS nélküli jármű kerekeit."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Power Skid",
+"description":"A túl gyors gyorsítás okozta megcsúszás, ami a hajtókerekek kipörgését okozza."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Kanyarodás közbeni csúszás",
+"description":"Oldalirányú csúszás, amelyet túl gyors haladás okoz fordulás közben."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Vízen csúszás",
+"description":"A gumiabroncsok nedves útfelülettel való érintkezésének elvesztése, ami a jármű feletti uralom elvesztéséhez vezethet."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Fekete jég",
+"description":"Egy nehezen látható jégréteg keletkezik, amikor a nedvesség megfagy az úton."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Terepmentés",
+"description":"A burkolatról való lehajtás utáni, szabályozott lassítás és az útra való fokozatos visszatérés folyamata."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Veszélyjelző lámpák",
+"description":"Négyirányú villogó fények, amelyek arra szolgálnak, hogy figyelmeztessék a többi járművet, ha az megállt vagy veszélyt jelent."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Proaktív vezetés",
+"description":"A veszélyek előrejelzése és a veszély csökkentése, minimalizálása vagy elkerülése érdekében történő korai cselekvés."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Vizuális átfutási idő",
+"description":"Az a távolság másodpercben mérve, amelyet a vezető maga előtt pásztázik, hogy időt hagyjon a veszélyekre való reagálásra."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Fix veszély",
+"description":"Állandó útállapot, például kanyar, domb, kereszteződés vagy rejtett kocsifelhajtó."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Változó veszély",
+"description":"Változó körülmények, például gyalogosok, jeges útfelületek, mentőautók vagy elavult zöld lámpák."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Figyelmetlen vezetés",
+"description":"Vezetés közben, miközben a figyelmet olyan tevékenységek vonják el, mint a telefonhasználat, SMS-ezés, olvasás, eszközök programozása vagy tisztálkodás."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Gyermekbiztonsági ülés",
+"description":"A gyermek életkorának vagy súlyának megfelelően kiválasztott és a gyártó utasításai szerint beszerelt, jóváhagyott gyermekülés."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/RETESZELÉS",
+"description":"Univerzális rögzítési rendszer, amely kompatibilis gyermekbiztonsági ülések járműhöz való rögzítésére szolgál."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Ülésmagasító",
+"description":"Egy jóváhagyott ülés, amely a gyermeket a jármű biztonsági övének használatához megfelelően elhelyezi."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Veszélyeztetett úthasználó",
+"description":"Gyalogos, kerékpáros vagy motorkerékpáros, akinek kevesebb fizikai védelme van, mint egy zárt jármű utasának."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Iskolabusz borostyánsárga fények",
+"description":"Váltakozó figyelmeztető lámpák jelzik, hogy az iskolabusz lassít és megállni készül."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Iskolabusz piros lámpák",
+"description":"Váltakozó fényjelzés, ami megköveteli a forgalomtól, hogy a diákok megálljanak, amíg fel- és leszállnak a buszról, vagy átkelnek az úton a busz közelében."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Hóeke figyelmeztető lámpák",
+"description":"Villogó borostyánsárga és piros lámpák jelzik, hogy hóeke halad elöl."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Vasúti átjáró",
+"description":"Olyan hely, ahol az út keresztezi a vasúti síneket, és a vezetőknek elsőbbséget kell adniuk a vonatoknak."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Vasúti Crossbuck",
+"description":"Egy X alakú vasúti átjáró tábla, amely előírja a vezetők számára, hogy elsőbbséget adjanak a vonatoknak."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Könnyűvasúti tömegközlekedés (LRT)",
+"description":"Egy csendes, elektromos meghajtású vasúti rendszer, amelynek átjáróit más vasúti átjárókhoz hasonlóan kell kezelni."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Temetési menet",
+"description":"Bekapcsolt fényszórókkal rendelkező, szorosan csoportosuló járművek sora, amelyek biztonságos esetben együtt haladhatnak át egy kereszteződésen."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Károsodott vezetés",
+"description":"Járművezetés alkohol, drogok, gyógyszerek vagy más állapot hatása alatt, amely csökkenti a vezetési képességet."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Azonnali közúti szankciók (IRS)",
+"description":"Alberta egyre súlyosbodó adminisztratív büntetési programja ittas vezetés esetén."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERO: Kezdő",
+"description":"Zéró tolerancia alkohol- és drogprogram 7. osztályos tanulók és 5-GDL osztályú vezetők számára."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS ZERO: Kereskedelmi",
+"description":"Zéró tolerancia program az alkohol és drogok tekintetében kereskedelmi célú sofőrök számára."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: FIGYELMEZTETÉS",
+"description":"Közúti szankciók lépnek életbe, ha a vezető véralkoholszintje eléri a meghatározott figyelmeztetési küszöbértéket."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: BUKÁS",
+"description":"Súlyos közúti szankciók büntetőjogi szintű ittasság, tiltott koncentrációk vagy törvényes követelés megtagadása esetén."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Gyújtásreteszelő eszköz",
+"description":"Egy olyan eszköz, amely méri a kilélegzett alkohol mennyiségét, és megakadályozza a jármű beindítását, ha a mért érték meghaladja a küszöbértéket."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"SafeRoads Alberta",
+"description":"Az adminisztratív ág, amely felülvizsgálja a tartományi ittas vezetésért járó büntetésekkel és járműlefoglalásokkal szembeni kifogásokat."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Regisztrátor Felülvizsgálati Folyamata",
+"description":"A nem ittas vezetéssel kapcsolatos közigazgatási határozatok felülvizsgálatának kérelmezésére használt eljárás."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Pótkocsi biztonsági láncok",
+"description":"Biztonságosan rögzített láncok, amelyeket egy pótkocsi nyelve keresztez, másodlagos csatlakozást biztosítva."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Vészhelyzeti leválasztó rendszer",
+"description":"Egy utánfutó biztonsági rendszere, amely akkor aktiválódik, ha az utánfutó leválik a vontató járműről."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Követési eltérés",
+"description":"A pótkocsi kerekeinek a vontató jármű kerekei által megtett útvonalon belüli nyomvonalat követő tendenciája."
+}
+]

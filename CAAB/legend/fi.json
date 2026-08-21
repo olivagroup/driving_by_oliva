@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Valmistunut ajokortti (GDL)",
+"description":"Albertan porrastettu ajokorttiohjelma, jonka avulla uudet kuljettajat voivat hankkia taitoja ja kokemusta valvotuissa olosuhteissa."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Luokan 7 oppilaskortti",
+"description":"Ensimmäinen GDL-vaihe, joka mahdollistaa valvotun ajon oppilasolosuhteissa."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Luokan 5 GDL-lisenssi",
+"description":"Koeaikainen lupakirja, joka oli voimassa Albertan GDL-ohjelman toisen vaiheen aikana."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Täysi luokan 5 ajokortti",
+"description":"Ei-GDL-ajokortti, joka sallii autojen ja muiden kelvollisten kevyiden ajoneuvojen itsenäisen käytön."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Tietotesti",
+"description":"Tietokonepohjainen monivalintatesti, joka käsittelee liikennesääntöjä, turvallista ajotapaa ja liikennemerkkejä."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Ajokoe",
+"description":"Käytännön arviointi ajoneuvon käsittelystä, havainnointikyvystä, harkintakyvystä ja liikennesääntöjen noudattamisesta."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Näönarviointi",
+"description":"Pakollinen tarkastus, jolla varmistetaan, että kuljettaja täyttää Albertan vähimmäisnäkövaatimukset."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Rekisteriagentti",
+"description":"Valtuutettu Albertan toimisto, joka tarjoaa palveluita, kuten lupakirjat, rekisteröinnit, testaus ja lupakirjojen päivitykset."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Ajokokeilija",
+"description":"Henkilö, jolla on lupa suorittaa ajokokeita ja arvioida, onko hakijoilla vaadittava ajotaito."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Ilmajarrujen merkintä (Q)",
+"description":"Ajokorttimerkintä, joka vaaditaan pelkästään paineilmajarruilla tai yhdistetyillä paineilma- ja hydraulijarruilla varustettujen ajoneuvojen kuljettamiseen."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Kuntokoodi",
+"description":"Ajokorttiin sijoitettu koodi, joka ilmaisee erityisen ajovaatimuksen, kuten korjaavat linssit."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Hyväksyntäkoodi",
+"description":"Koodi, joka osoittaa, että kuljettaja on suorittanut erityiskoulutuksen tai voi kuljettaa erityisvarusteltuja ajoneuvoja."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Haittapisteet",
+"description":"Tietyistä liikennerikkomuksista tuomittujen ajokorttien perusteella kirjatut pisteet."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Kuljettajan tiivistelmä",
+"description":"Virallinen rekisteriote, josta käyvät ilmi ajokieltoja, ajokieltoja ja muita tietoja ajokortista."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Liikenteenohjausvalo",
+"description":"Punainen, keltainen tai vihreä valo, jota käytetään liikenteen ohjaamiseen risteyksissä tai liittymäväylillä."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Tasainen punainen valo",
+"description":"Liikennevalo, joka vaatii täydellisen pysähtymisen ennen pysäytysviivaa, suojatietä tai risteystä."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Tasainen keltainen valo",
+"description":"Varoitus, että valo vaihtuu punaiseksi ja kuljettajien on pysähdyttävä, ellei pysähtyminen ole mahdollista turvallisesti."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Jatkuva vihreä valo",
+"description":"Liikennevalo, joka sallii liikkumisen risteyksen läpi, mutta vaatii silti soveltuvaa väistämistä."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Vilkkuva punainen valo",
+"description":"Signaali, jota kohdellaan kuin stop-merkkiä ja joka vaatii täydellisen pysähdyksen ja sen jälkeen väistämistä ennen jatkamista."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Vilkkuva keltainen valo",
+"description":"Valo, joka antaa kuljettajille mahdollisuuden ajaa varovasti väistettyään liikennettä ja jalankulkijoita."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Vilkkuva vihreä valo",
+"description":"Liikennevalo, joka sallii liikkumisen tai kääntymisen pysähtymättä, mutta vaatii kuljettajia väistämään laillisia tienkäyttäjiä."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Kaistanvaihtovilkku",
+"description":"Yläpuolella oleva punainen X tai vihreä nuoli, joka määrittää, onko kaista suljettu vai käytettävissä osoitettuun suuntaan."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Sääntelymerkki",
+"description":"Merkki, joka osoittaa, mitä tienkäyttäjien on tai ei saa tehdä, mukaan lukien nopeus-, kääntymis-, pysäköinti- ja pääsysäännöt."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Varoitusmerkki",
+"description":"Merkki, joka antaa ennakkovaroituksen vaarasta, tieolosuhteista, risteyksestä, ylityspaikasta tai vaadittavasta toimenpiteestä."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Salliva merkki",
+"description":"Valkoinen neliö, jossa on vihreä ympyrä, joka osoittaa, että ilmoitettu toiminto on sallittu."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Kieltomerkki",
+"description":"Valkoinen merkki, jossa on punainen ympyrä ja vino palkki, osoittaa, että ilmoitettu toimenpide on kielletty."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Stop-merkki",
+"description":"Sääntelymerkki, joka vaatii täydellisen pysähdyksen ja väistämisen ennen turvallisen jatkamisen aloittamista."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Väistämismerkki",
+"description":"Merkki, joka kehottaa kuljettajaa hidastamaan, olemaan valmiina pysähtymään ja antamaan etuajo-oikeutta tarvittaessa."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Nopeusrajoitus",
+"description":"Suurin sallittu nopeus ihanteellisissa olosuhteissa, ei välttämättä turvallinen nopeus huonoissa olosuhteissa."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Koulualue",
+"description":"Koulukyltillä ja nopeusrajoituksella merkitty alue, jolla sovelletaan erityisiä nopeus- ja ohitusrajoituksia."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Koulualue",
+"description":"Koulukyltillä merkitty alue, johon ei ole kiinnitettyä nopeusrajoitusmerkkiä, joka varoittaa kuljettajia varovaisuudesta."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Leikkikenttäalue",
+"description":"Alue, jossa on leikkikenttäkyltti ja nopeusrajoitus sekä nopeusrajoituksia."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Leikkialue",
+"description":"Alue, jota merkitsee leikkikenttäkyltti ilman nopeusrajoituskylttiä, joka varoittaa lasten mahdollisesta läsnäolosta lähistöllä."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Tietyö",
+"description":"Tien työmaa-alue, jossa on noudatettava nopeusrajoituksia, varoitusmerkkejä ja lipun alla olevien henkilöiden ohjeita."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Varattu kaista",
+"description":"Tietyille tienkäyttäjille, kuten linja-autoille, takseille, polkupyörille tai ruuhka-autoille, varattu kaista."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Yhtenäinen viiva",
+"description":"Jalkakäytävämerkintä, joka yleensä kieltää tien ylittämisen ohittamista tai kaistan vaihtamista varten."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Katkoviiva",
+"description":"Jalkakäytävämerkintä, joka sallii tien ylittämisen ohittamista tai kaistan vaihtamista varten, kun se on turvallista."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Keltainen viiva",
+"description":"Vastakkaisiin suuntiin kulkevan liikenteen erottava tiemerkintä."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Valkoinen viiva",
+"description":"Tien reunamerkintä, joka erottaa samaan suuntaan kulkevan liikenteen."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Pysäytyslinja",
+"description":"Tienmerkintä, joka osoittaa, missä ajoneuvon on pysähdyttävä risteyksessä tai rautatien tasoristeyksessä."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Suojatie",
+"description":"Merkitty tai merkitsemätön alue, jossa jalankulkijat ylittävät tien ja kuljettajien on väistettävä tarvittaessa."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Pyörätie",
+"description":"Pyöräilijöille varattu merkitty kaista, jolle moottoriajoneuvot saavat ajaa vain sallituissa paikoissa, kuten kääntymistä varten."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Yhteiskäyttöinen kaista",
+"description":"Ajokaista, joka on merkitty muistuttamaan kuljettajia siitä, että pyöräilijät voivat käyttää samaa kaistaa."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Sokea piste",
+"description":"Ajoneuvon vieressä tai hieman takana oleva alue, jota ei näy sen peileistä."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Olkapään tarkistus",
+"description":"Nopea vilkaisu olkapään yli tarkistaakseen alueen, jota ei näy peileistä."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Avaruustyyny",
+"description":"Ajoneuvon ympärillä ylläpidettävä avoin tila, joka mahdollistaa pysähtymisen tai vaarojen välttämisen."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Seuraamisetäisyys",
+"description":"Ajoneuvosi ja edellä ajavan ajoneuvon välillä säilyvä aika ja etäisyys."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Kahden sekunnin sääntö",
+"description":"Suositeltu lyhin mahdollinen seuranta-aika normaaleissa tie- ja sääolosuhteissa."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Havaintoaika",
+"description":"Aika, joka tarvitaan tilanteen tunnistamiseen ja ymmärtämiseen, että pysähtyminen tai muu reagointi on tarpeen."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Reaktioaika",
+"description":"Aika, joka kuluu vaaratilanteeseen reagoimiseen, kuten jalan siirtämiseen kaasupolkimelta jarrulle."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Jarrutusmatka",
+"description":"Matka, jonka ajoneuvo kulkee jarrutuksen jälkeen pysähtymiseen asti."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Kokonaisjarrutusmatka",
+"description":"Havainto-, reaktio- ja jarrutusliikkeiden aikana kuljettu yhteensä matka."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Kynnysjarrutus",
+"description":"Voimakas jarrutus juuri ennen pyörien lukkiutumista, säilyttäen ohjattavuuden."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Lukkiutumaton jarrujärjestelmä (ABS)",
+"description":"Järjestelmä, joka kierrättää jarrupainetta estääkseen pyörien lukkiutumisen ja säilyttääkseen ohjattavuuden."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Kitkapiste",
+"description":"Kytkimen asento, jossa manuaalivaihteisto alkaa kytkeä moottorin voiman pyöriin."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Kytkimen ratsastus",
+"description":"Jalan tarpeeton painaminen kytkinpolkimella, mikä aiheuttaa kytkimen lisäkulumista."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Taskupysäköinti",
+"description":"Pysäköinti jalkakäytävän reunaan päin ajoneuvojen väliseen tilaan."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Vinopaikoitus",
+"description":"Pysäköinti pysäköintihalliin, joka on sijoitettu vinosti, yleensä noin 45 asteen kulmassa ajokaistaan nähden."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Kohtisuora pysäköinti",
+"description":"Pysäköinti pysäköintihalliin, joka on sijoitettu 90 asteen kulmaan jalkakäytävän reunakivetykseen nähden."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Tienkäyttöoikeus",
+"description":"Säännöt, jotka määrittävät, kuka tienkäyttäjistä saa väistää ja kuka saa jatkaa."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Hallittu risteys",
+"description":"Risteys, jota säännellään liikennemerkeillä, liikennevaloilla tai molemmilla."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Hallitsematon risteys",
+"description":"Risteys, jossa ei ole opasteita tai liikennemerkkejä ja jossa kuljettajat yleensä väistävät oikealla puolellaan olevaa ajoneuvoa."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Kohteliaisuuskulma",
+"description":"Kolmi- tai nelitiepysäkki, jossa ensimmäisenä saapuva ajoneuvo lähtee liikkeelle ensin tai oikealla oleva ajoneuvo lähtee liikkeelle, kun ajoneuvoja saapuu samanaikaisesti."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Liikenneympyrä",
+"description":"Ympyräristeys, jossa liikenne kulkee vastapäivään ja risteykseen tulevat ajoneuvot väistävät sisällä olevaa liikennettä."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Liikenneympyrä",
+"description":"Ympyräristeys, joka on suunniteltu tiukemmilla mutkilla alhaisempien nopeuksien edistämiseksi."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Kaksikaistainen käännös",
+"description":"Käännös, joka tehdään toiselta kahdesta merkitystä kääntymiskaistasta vastaavalle kohdekaistalle."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Kaksisuuntainen vasemmalle kääntyvä kaista",
+"description":"Jaettu keskikaista, jota liikenne käyttää kummastakin suunnasta vasemmalle kääntymistä valmistellessaan."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"U-käännös",
+"description":"Toimenpide, jossa ajoneuvo käännetään ympäri ja se kulkee vastakkaiseen suuntaan käyttäen vastaantulevien autojen kaistoja."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Ohituskaista",
+"description":"Ylimääräinen moottoritiekaista, jonka avulla nopeampi liikenne voi ohittaa hitaammat ajoneuvot turvallisesti."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Hätäpysähdyskaista",
+"description":"Moottoritien piennar on varattu kiireellisille pysähdyksille tai ajoneuvo-ongelmille, ei normaalille ajamiselle tai ohituksille."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Kiihdytyskaista",
+"description":"Kaista, jota käytetään nopeuden lisäämiseen ja liikennevirran mukauttamiseen ennen tielle liittymistä."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Hidastuskaista",
+"description":"Kaista, jota käytetään nopeuden hidastamiseen poistuttaessa moottoritieltä tai päätieltä."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Yhdistäminen",
+"description":"Liikenteen turvallinen yhdistäminen, jossa kaksi tietä yhdistyy yhdeksi."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Kudontavyöhyke",
+"description":"Jaettu kaista, jossa tuleva liikenne kiihdyttää ja poistuva liikenne hidastaa."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Jalusta",
+"description":"Renkaiden pidon heikkenemisestä johtuva ajoneuvon hallinnan menetys."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Jarrutusliukumäki",
+"description":"Jarrutettaessa syntyvä luisto luistaa ajoneuvon pyörät, joissa ei ole ABS-järjestelmää."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Power Skid",
+"description":"Liian nopeasta kiihdytyksestä johtuva luisto, joka saa vetävät pyörät sutimaan."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Kaarreajossa luisto",
+"description":"Sivuttaisluisuminen, joka johtuu liian nopeasta ajamisesta käännöksissä."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Vesiliirto",
+"description":"Renkaan kosketuspinnan menetys märän tienpinnan kanssa, mikä voi johtaa ajoneuvon hallinnan menetykseen."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Musta jää",
+"description":"Vaikea nähdä jääkerros, joka muodostuu, kun kosteus jäätyy tielle."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Maastoajo",
+"description":"Hallittu prosessi, jossa hidastetaan vauhtia ja palataan vähitellen ajoradalle ajoradalta poistumisen jälkeen."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Hätävilkut",
+"description":"Neljään suuntaan vilkkuvat valot, joita käytetään varoittamaan muita pysähtyneestä tai vaarallisesta ajoneuvosta."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Ennakoiva ajaminen",
+"description":"Vaarojen ennakointi ja varhainen toiminta vaaran vähentämiseksi, minimoimiseksi tai välttämiseksi."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Visuaalinen läpimenoaika",
+"description":"Etäisyys sekunteina, jonka kuljettaja tarkkailee edessään olevaa tietä antaakseen aikaa reagoida vaaroihin."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Kiinteä vaara",
+"description":"Pysyvä tieolosuhteiden aiheuttama vaurio, kuten mutka, mäki, risteys tai piilossa oleva ajotie."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Muuttuva vaara",
+"description":"Muuttuvat olosuhteet, kuten jalankulkijat, jäiset pinnat, hätäajoneuvot tai sammuneet vihreät valot."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Häiriintynyt ajaminen",
+"description":"Ajaminen, kun huomio kiinnittyy esimerkiksi puhelimen käyttöön, tekstiviestien lähettämiseen, lukemiseen, laitteiden ohjelmointiin tai ulkonäköön."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Lasten turvaistuin",
+"description":"Lapsen iän tai painon mukaan valittu ja valmistajan ohjeiden mukaisesti asennettu hyväksytty turvaistuin."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Miehittämätön ilma-alus/salpa",
+"description":"Yleiskäyttöinen ankkurijärjestelmä, jota käytetään yhteensopivien lasten turvaistuinten kiinnittämiseen ajoneuvoon."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Turvakorokeistuin",
+"description":"Hyväksytty istuin, joka asettaa lapsen oikeaan asentoon ajoneuvon turvavyön käyttöä varten."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Haavoittuva tienkäyttäjä",
+"description":"Jalankulkija, pyöräilijä tai moottoripyöräilijä, jolla on vähemmän fyysistä suojaa kuin suljetun ajoneuvon matkustajalla."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Koulubussin keltaiset valot",
+"description":"Vaihtelevat varoitusvalot osoittavat, että koulubussi hidastaa ja valmistautuu pysähtymään."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Koulubussin punaiset valot",
+"description":"Vaihtelevat valot edellyttävät liikenteen pysähtymistä oppilaiden noustessa bussiin, poistuessa siitä tai ylittäessä katua bussin lähellä."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Lumiauran varoitusvalot",
+"description":"Vilkkuvat keltaiset ja punaiset valot osoittavat, että lumiaura on käynnissä edessä."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Rautatien tasoristeys",
+"description":"Paikka, jossa tie ylittää rautatien ja kuljettajien on väistettävä junia."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Rautatie Crossbuck",
+"description":"X-muotoinen rautatien tasoristeysmerkki, joka kehottaa kuljettajia väistämään junia."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Kevytraideliikenne (LRT)",
+"description":"Hiljainen sähkökäyttöinen raidejärjestelmä, jonka ylityksiä on käsiteltävä kuten muita rautatien ylityksiä."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Hautajaissaattue",
+"description":"Tiiviisti ryhmittynyt ajoneuvojono ajovalot päällä, joka voi kulkea yhdessä risteyksen läpi, kun se on turvallista."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Ajokyvyn heikkeneminen",
+"description":"Ajoneuvon ajaminen alkoholin, huumeiden, lääkkeiden tai muun sairauden vaikutuksen alaisena heikentää ajokykyä."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Välittömät tienvarsisanktiot (IRS)",
+"description":"Albertan kiristyvä hallinnollinen seuraamusohjelma rattijuopumuksesta."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERO: Aloittelija",
+"description":"Nollatoleranssi alkoholi- ja huumeohjelma 7. luokan oppilaille ja 5. luokan GDL-kuljettajille."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS ZERO: Kaupallinen",
+"description":"Nollatoleranssi alkoholi- ja huumeohjelma ammattitehtävissä toimiville kuljettajille."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: VAROITUS",
+"description":"Tienvarsirangaistuksia sovelletaan, kun kuljettajan veren alkoholipitoisuus saavuttaa määritellyn varoituskynnyksen."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: HYLÄTTY",
+"description":"Vakavat tienvarsiseuraamukset, jotka koskevat rikosoikeudellisen tason päihtymystä, kiellettyjä pitoisuuksia tai laillisen vaatimuksen epäämistä."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Sytytyksen lukituslaite",
+"description":"Laite, joka mittaa hengitysilman alkoholipitoisuutta ja estää ajoneuvon käynnistymisen, kun lukema ylittää kynnysarvon."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"SafeRoads Alberta",
+"description":"Hallinnollinen toimiala, joka käsittelee maakunnallisia rattijuopumusrangaistuksia ja ajoneuvojen takavarikointia koskevia valituksia."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Rekisterinpitäjän uudelleenarviointiprosessi",
+"description":"Prosessi, jota käytetään pyytämään uudelleentarkastelua hallinnollisista päätöksistä, jotka eivät koske rattijuopumusta."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Perävaunun turvaketjut",
+"description":"Perävaunun vetoaisan alla ristiin kiinnitetyt ketjut toissijaisen liitoksen aikaansaamiseksi."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Hätäirrotusjärjestelmä",
+"description":"Perävaunun turvajärjestelmä, joka on suunniteltu aktivoitumaan, jos perävaunu irtoaa vetoajoneuvosta."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Seurantavirhe",
+"description":"Perävaunun pyörien taipumus seurata vetoajoneuvon pyörien kulkemaa reittiä."
+}
+]

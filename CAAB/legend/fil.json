@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Gradwado na Paglilisensya sa Pagmamaneho (GDL)",
+"description":"Ang programang may yugtong paglilisensya sa Alberta na nagbibigay-daan sa mga bagong drayber na makakuha ng mga kasanayan at karanasan sa ilalim ng mga kontroladong kondisyon."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Lisensya ng Mag-aaral sa Baitang 7",
+"description":"Ang unang yugto ng GDL, na nagpapahintulot sa pinangangasiwaang pagmamaneho sa ilalim ng mga kondisyon ng mag-aaral."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Lisensya sa Klase 5-GDL",
+"description":"Isang probationary license na hawak noong ikalawang yugto ng programang GDL ng Alberta."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Buong Lisensya sa Klase 5",
+"description":"Isang lisensyang hindi GDL na nagpapahintulot sa malayang pagpapatakbo ng mga kotse at iba pang kwalipikadong magaan na sasakyan."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Pagsubok sa Kaalaman",
+"description":"Isang kompyuterisadong pagsusulit na multiple-choice na sumasaklaw sa mga patakaran sa kalsada, mga ligtas na kasanayan sa pagmamaneho, at mga karatula sa kalsada."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Pagsubok sa Kalsada",
+"description":"Isang praktikal na pagtatasa ng paghawak, pagmamasid, paghatol, at pagsunod sa mga patakaran sa kalsada ng sasakyan."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Pagtatasa ng Paningin",
+"description":"Isang kinakailangang pagsusuri na nagpapatunay na natutugunan ng isang drayber ang mga minimum na pamantayan ng paningin ng Alberta."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Ahente ng Rehistro",
+"description":"Isang awtorisadong tanggapan sa Alberta na nagbibigay ng mga serbisyo tulad ng paglilisensya, pagpaparehistro, pagsusuri, at mga pag-update ng lisensya."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Tagasuri ng Drayber",
+"description":"Isang taong awtorisadong magsagawa ng mga pagsusuri sa kalsada at suriin kung ang mga aplikante ay may mga kinakailangang kasanayan sa pagmamaneho."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Pag-endorso ng Air Brake (Q)",
+"description":"Kinakailangan ang pag-endorso ng lisensya upang magpatakbo ng mga sasakyang may air-only o combined air at hydraulic brakes."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Kodigo ng Kondisyon",
+"description":"Isang kodigo na nakalagay sa isang lisensya upang tukuyin ang isang espesyal na kinakailangan sa pagmamaneho, tulad ng mga corrective lens."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Kodigo ng Pag-endorso",
+"description":"Isang kodigo na nagpapakita na ang isang drayber ay nakakumpleto ng partikular na pagsasanay o maaaring magpatakbo ng mga sasakyang may espesyal na kagamitan."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Mga Puntos ng Demerit",
+"description":"Mga puntos na naitala laban sa isang rekord sa pagmamaneho kasunod ng paghatol para sa ilang partikular na pagkakasala sa trapiko."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Abstrak ng Pagmamaneho",
+"description":"Isang opisyal na rekord na nagpapakita ng mga hatol sa pagmamaneho, suspensyon, at iba pang impormasyon sa paglilisensya."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Senyales ng Kontrol ng Trapiko",
+"description":"Isang pula, dilaw, o berdeng ilaw na ginagamit upang kontrolin ang daloy ng trapiko sa mga interseksyon o mga nagsasalubong na kalsada."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Solidong Pulang Ilaw",
+"description":"Isang senyales na nangangailangan ng kumpletong paghinto bago ang stop line, tawiran, o interseksyon."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Solidong Dilaw na Ilaw",
+"description":"Isang babala na ang signal ay magbabago sa pula at dapat huminto ang mga drayber maliban kung ang paghinto ay hindi magagawa nang ligtas."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Solidong Berdeng Ilaw",
+"description":"Isang senyas na nagpapahintulot sa paggalaw sa isang interseksyon habang nangangailangan pa rin ng naaangkop na pag-yield."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Kumikislap na Pulang Ilaw",
+"description":"Isang senyas na itinuturing na parang stop sign, na nangangailangan ng kumpletong paghinto na susundan ng pagpayag bago magpatuloy."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Kumikislap na Dilaw na Ilaw",
+"description":"Isang senyales na nagpapahintulot sa mga drayber na magpatuloy nang maingat pagkatapos magbigay-daan sa trapiko at mga naglalakad."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Kumikislap na Berdeng Ilaw",
+"description":"Isang senyales na nagpapahintulot sa paggalaw o pagliko nang hindi humihinto habang hinihiling sa mga drayber na magbigay-galang sa mga legal na gumagamit ng kalsada."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Senyas ng Pagbabaliktad ng Lane",
+"description":"Isang pulang X o berdeng arrow sa itaas na kumokontrol kung ang isang lane ay sarado o available sa nakasaad na direksyon."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Karatula ng Regulasyon",
+"description":"Isang karatula na nagsasaad kung ano ang dapat o hindi dapat gawin ng mga gumagamit ng kalsada, kabilang ang mga patakaran sa bilis, pagliko, pagpaparada, at pag-access."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Babala",
+"description":"Isang karatula na nagbibigay ng paunang abiso ng isang panganib, kondisyon ng kalsada, interseksyon, tawiran, o kinakailangang aksyon."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Karatula ng Pagpapahintulot",
+"description":"Isang puting parisukat na may berdeng bilog na nagpapakita na pinahihintulutan ang ipinahiwatig na aksyon."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Karatula ng Pagbabawal",
+"description":"Isang puting karatula na may pulang bilog at dayagonal na bar na nagpapakita na ang ipinahiwatig na aksyon ay ipinagbabawal."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Karatula ng Paghinto",
+"description":"Isang karatula ng regulasyon na nangangailangan ng ganap na paghinto at pag-ayaw bago magpatuloy nang ligtas."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Senyales ng Pagbubunga",
+"description":"Isang karatula na nag-aatas sa drayber na bumagal, maging handang huminto, at magbigay ng karapatan sa daan kung kinakailangan."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Limitasyon sa Bilis",
+"description":"Ang pinakamataas na legal na bilis sa ilalim ng mga ideal na kondisyon, hindi kinakailangang isang ligtas na bilis sa mahihirap na kondisyon."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Sona ng Paaralan",
+"description":"Isang lugar na minarkahan ng karatula ng paaralan at naka-post na limitasyon sa bilis kung saan nalalapat ang mga espesyal na paghihigpit sa bilis at pagpasa."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Lugar ng Paaralan",
+"description":"Isang lugar na minarkahan ng karatula ng paaralan na walang kalakip na karatula ng bilis, na nagbabala sa mga drayber na mag-ingat."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Sona ng Palaruan",
+"description":"Isang lugar na may karatula sa palaruan at nakapaskil na limitasyon sa bilis kung saan nalalapat ang mga paghihigpit sa pagbawas ng bilis at pagpasa."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Palaruan",
+"description":"Isang lugar na minarkahan ng karatula sa palaruan na walang karatula ng bilis, na nagbabala na maaaring may mga bata sa malapit."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Sona ng Konstruksyon",
+"description":"Isang lugar ng trabaho sa kalsada kung saan dapat sundin ang mga nakapaskil na bilis, mga babala, at mga direksyon para sa mga taong may bandila."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Nakareserbang Daan",
+"description":"Isang linyang itinalaga para sa mga partikular na gumagamit ng kalsada, tulad ng mga bus, taxi, bisikleta, o mga sasakyang maraming tao."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Solidong Linya",
+"description":"Isang marka sa bangketa na karaniwang nagbabawal sa pagtawid upang dumaan o lumipat ng linya."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Sirang Linya",
+"description":"Isang marka sa bangketa na nagpapahintulot sa pagtawid upang makadaan o lumipat ng lane kapag ligtas na."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Dilaw na Linya",
+"description":"Isang marka sa bangketa na naghihiwalay sa mga sasakyang naglalakbay sa magkabilang direksyon."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Puting Linya",
+"description":"Isang marka ng bangketa na naghihiwalay sa mga trapikong naglalakbay sa iisang direksyon."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Linya ng Paghinto",
+"description":"Isang marka sa bangketa na nagpapakita kung saan dapat huminto ang isang sasakyan sa isang interseksyon o tawiran ng riles."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Tawiran",
+"description":"Isang markado o walang markang lugar kung saan tumatawid ang mga naglalakad at dapat magbigay daan ang mga drayber kung kinakailangan."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Daanan ng Bisikleta",
+"description":"Isang markadong linya na nakalaan para sa mga siklista na maaaring pasukan lamang ng mga sasakyang de-motor kung saan pinahihintulutan, tulad ng para sa pagliko."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Lane para sa Ibinahaging Paggamit",
+"description":"Isang travel lane na minarkahan upang ipaalala sa mga drayber na maaaring gamitin ng mga siklista ang parehong lane."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Blind Spot",
+"description":"Isang lugar sa tabi o bahagyang nasa likod ng sasakyan na hindi makikita sa mga salamin nito."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Pagsusuri sa Balikat",
+"description":"Isang mabilis na sulyap sa likuran para tingnan ang isang bahagi na hindi nakikita sa mga salamin."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Unan sa Kalawakan",
+"description":"Bukas na espasyo na pinapanatili sa paligid ng sasakyan upang magbigay ng espasyo para sa paghinto o pag-iwas sa mga panganib."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Pagsunod sa Distansya",
+"description":"Ang oras at espasyong pinapanatili sa pagitan ng iyong sasakyan at ng sasakyan sa unahan."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Dalawang-Ikalawang Panuntunan",
+"description":"Ang minimum na inirerekomendang oras ng pagsunod sa ilalim ng normal na kondisyon ng kalsada at panahon."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Oras ng Persepsyon",
+"description":"Ang oras na kinakailangan upang makilala ang isang sitwasyon at maunawaan na kailangan ang paghinto o ibang tugon."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Oras ng Reaksyon",
+"description":"Ang oras na kinakailangan upang tumugon sa isang panganib, tulad ng paggalaw ng isang paa mula sa accelerator patungo sa preno."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Distansya ng Pagpreno",
+"description":"Ang distansyang nilakbay ng isang sasakyan pagkatapos i-preno hanggang sa ito ay huminto."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Kabuuang Distansya ng Paghinto",
+"description":"Ang pinagsamang distansyang nilakbay habang nakikiramdam, reaksyon, at pagpreno."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Pagpepreno sa Threshold",
+"description":"Malakas na pagpreno hanggang sa punto bago pa man mag-lock ang mga gulong, pinapanatili ang kakayahang magmaneho."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Sistema ng Pagpreno na Anti-Lock (ABS)",
+"description":"Isang sistemang nag-iikot sa presyon ng preno upang makatulong na maiwasan ang pagkandado ng gulong at mapanatili ang kontrol sa pagpipiloto."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Punto ng Pagkikiskisan",
+"description":"Ang posisyon ng clutch kung saan nagsisimulang ikonekta ng manual transmission ang lakas ng makina sa mga gulong."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Pagsakay sa Clutch",
+"description":"Hindi kinakailangang paglalagay ng paa sa clutch pedal, na nagdudulot ng karagdagang pagkasira ng clutch."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Parallel Parking",
+"description":"Pagparada nang parallel sa gilid ng bangketa sa pagitan ng mga sasakyan."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Paradahan sa Anggulo",
+"description":"Pagparada sa isang stall na nakaposisyon nang pahilis, karaniwang nasa humigit-kumulang 45 digri mula sa lane ng trapiko."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Perpendikular na Paradahan",
+"description":"Pagparada sa isang stall na nakaposisyon sa 90-degree na anggulo mula sa gilid ng bangketa."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Karapatan sa Daan",
+"description":"Mga tuntuning tumutukoy kung aling gumagamit ng kalsada ang dapat magbigay-daan at kung alin ang maaaring magpatuloy."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Kontroladong Interseksyon",
+"description":"Isang interseksyon na kinokontrol ng mga palatandaang trapiko, mga senyas trapiko, o pareho."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Hindi Kinokontrol na Interseksyon",
+"description":"Isang interseksyon na walang mga karatula o senyales kung saan ang mga drayber ay karaniwang sumusuko sa sasakyang nasa kanilang kanan."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Courtesy Corner",
+"description":"Isang hintuan na may tatlo o apat na direksyon kung saan ang unang sasakyang dumarating ang unang mauuna, o ang sasakyang nasa kanan ang mauuna kapag sabay-sabay ang mga dumarating."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Sirkulo ng Trapiko",
+"description":"Isang pabilog na interseksyon kung saan ang trapiko ay bumabiyahe nang pakaliwa at ang mga papasok na sasakyan ay nagbibigay-daan sa trapikong nasa loob na."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Rotonda",
+"description":"Isang pabilog na interseksyon na dinisenyo na may mas makikipot na kurba upang hikayatin ang mas mababang bilis."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Pagliko sa Dalawahang Linya",
+"description":"Isang pagliko na ginawa mula sa isa sa dalawang minarkahang linya ng pagliko patungo sa kaukulang linya ng destinasyon nito."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Dalawahang-Daan na Kaliwang-Liko",
+"description":"Isang pinagsasaluhang gitnang linya na ginagamit ng trapiko mula sa magkabilang direksyon kapag naghahandang lumiko pakaliwa."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"U-Turn",
+"description":"Isang maniobra na nagpapaikot sa isang sasakyan upang bumiyahe sa kabilang direksyon gamit ang mga paparating na linya."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Daang Pagdaan",
+"description":"Isang karagdagang linya sa haywey na nagpapahintulot sa mas mabilis na trapiko na ligtas na makadaan sa mas mabagal na mga sasakyan."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Lane ng Paghinto para sa Emerhensiya",
+"description":"Ang balikat ng haywey ay nakalaan para sa mga agarang paghinto o mga problema sa sasakyan, hindi para sa normal na pagmamaneho o pagdaan."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Linya ng Pagpapabilis",
+"description":"Isang linyang ginagamit upang mapataas ang bilis at maitugma ang daloy ng trapiko bago sumanib sa isang kalsada."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Daan ng Pagbaba ng Bilis",
+"description":"Isang linyang ginagamit upang bawasan ang bilis kapag papalabas ng highway o pangunahing kalsada."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Pagsasama-sama",
+"description":"Ang pinagsasaluhang proseso ng ligtas na pagsasama-sama ng trapiko kung saan ang dalawang kalsada ay nagsasama sa isa."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Sona ng Paghahabi",
+"description":"Isang linyang pinagsasaluhan kung saan bumibilis ang papasok na trapiko habang bumabagal ang papalabas na trapiko."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Pagdulas",
+"description":"Pagkawala ng kontrol sa sasakyan na dulot ng nabawasang traksyon ng gulong."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Pag-skid ng Pagpreno",
+"description":"Isang pag-skid na dulot ng pagpreno na nakakandado sa mga gulong ng sasakyang walang ABS."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Power Skid",
+"description":"Isang pagdulas na dulot ng masyadong mabilis na pagbilis at pagpapaikot ng mga gulong na pangmaneho."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Pagdulas sa Kuryente",
+"description":"Isang pagguho patagilid na dulot ng masyadong mabilis na paggalaw habang umiikot."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Pag-hydroplaning",
+"description":"Pagkawala ng pagkakadikit ng gulong sa basang kalsada, na maaaring magdulot ng pagkawala ng kontrol sa sasakyan."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Itim na Yelo",
+"description":"Isang mahirap makitang patong ng yelo na nabubuo kapag nagyelo ang halumigmig sa kalsada."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Pagbawi sa Off-Road",
+"description":"Ang kontroladong proseso ng pagbagal at unti-unting pagbabalik sa kalsada pagkatapos umalis sa bangketa."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Mga Ilaw na Babala sa Panganib",
+"description":"Mga ilaw na kumikislap na may apat na direksyon na ginagamit upang bigyan ng babala ang iba na ang isang sasakyan ay nakahinto o nagdudulot ng panganib."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Maagap na Pagmamaneho",
+"description":"Pag-asam sa mga panganib at pagkilos nang maaga upang mabawasan, mabawasan, o maiwasan ang panganib."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Oras ng Pangunguna sa Biswal",
+"description":"Ang distansyang sinusukat sa segundo na sinusukat ng isang drayber sa unahan upang magbigay ng oras upang tumugon sa mga panganib."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Nakapirming Panganib",
+"description":"Isang permanenteng kondisyon ng kalsada, tulad ng kurba, burol, interseksyon, o nakatagong driveway."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Pabagu-bagong Panganib",
+"description":"Isang nagbabagong kondisyon, tulad ng mga naglalakad, nagyeyelong ibabaw, mga sasakyang pang-emergency, o luma nang berdeng ilaw."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Pagmamanehong May Distraksyon",
+"description":"Pagmamaneho habang ang atensyon ay nalilihis ng mga aktibidad tulad ng paggamit ng telepono, pag-text, pagbabasa, pagprograma ng mga device, o pag-aayos."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Upuang Pangkaligtasan ng Bata",
+"description":"Isang aprubadong pangharang na pinili para sa edad o timbang ng bata at ikinakabit ayon sa mga tagubilin ng tagagawa."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"Isang unibersal na sistema ng angkla na ginagamit upang ikabit ang mga tugmang upuang pangkaligtasan ng bata sa isang sasakyan."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Upuang Pampalakas",
+"description":"Isang aprubadong upuan na nagpoposisyon nang tama sa bata para sa paggamit ng seat belt ng sasakyan."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Mahina na Gumagamit ng Kalsada",
+"description":"Isang naglalakad, siklista, o nakamotorsiklo na may mas kaunting pisikal na proteksyon kumpara sa isang nakasakay sa nakasarang sasakyan."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Mga Ilaw na Amber ng School Bus",
+"description":"Mga salit-salit na ilaw na nagpapahiwatig na ang isang bus ng paaralan ay bumabagal at naghahandang huminto."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Mga Pulang Ilaw ng Bus ng Paaralan",
+"description":"Mga alternating light na nangangailangan ng naaangkop na trapiko upang huminto habang pumapasok, lumalabas, o tumatawid ang mga estudyante malapit sa bus."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Mga Babala sa Snowplow",
+"description":"Kumikislap na kulay amber at pulang ilaw na nagpapahiwatig na may umaandar na snowplow sa unahan."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Tawiran ng Riles",
+"description":"Isang lokasyon kung saan tumatawid ang isang kalsada sa mga riles ng tren at kailangang magbigay-daan ang mga drayber sa mga tren."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Crossbuck ng Riles",
+"description":"Isang hugis-X na karatula sa tawiran ng riles na nag-uutos sa mga drayber na magbigay-daan sa mga tren."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Light Rail Transit (LRT)",
+"description":"Isang tahimik na sistema ng riles na pinapagana ng kuryente na ang mga tawiran ay dapat ituring na tulad ng ibang mga tawiran ng riles."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Prusisyon ng Libing",
+"description":"Isang magkakapangkat na hanay ng mga sasakyang nakabukas ang mga ilaw sa harap na maaaring sabay-sabay na dumaan sa isang interseksyon kapag ligtas."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"May Kapansanan sa Pagmamaneho",
+"description":"Ang pagpapatakbo ng sasakyan habang nakalalasing, may droga, gamot, o iba pang kondisyon ay nakakabawas sa kakayahang magmaneho."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Agarang mga Parusa sa Tabi ng Kalsada (IRS)",
+"description":"Ang pinatitindig na programa ng administratibong parusa ng Alberta para sa pagmamaneho nang may kapansanan."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERO: Baguhan",
+"description":"Isang programang zero-tolerance sa alkohol at droga para sa mga mag-aaral ng Class 7 at mga drayber ng Class 5-GDL."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS ZERO: Komersyal",
+"description":"Isang programang zero-tolerance sa alkohol at droga para sa mga komersyal na drayber na nagpapatakbo sa isang komersyal na kapasidad."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: BABALA",
+"description":"Mga parusa sa tabi ng kalsada na ilalapat kapag ang konsentrasyon ng alkohol sa dugo ng isang drayber ay umabot sa tinukoy na babala."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: BIGONG",
+"description":"Malubhang parusa sa tabi ng kalsada na naaangkop sa pagpapahina sa antas ng kriminal, mga ipinagbabawal na konsentrasyon, o pagtanggi sa isang legal na kahilingan."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Aparato ng Interlock ng Ignisyon",
+"description":"Isang aparatong sumusukat sa dami ng alkohol sa hininga at pumipigil sa pag-andar ng sasakyan kapag lumampas na sa threshold nito ang pagbasa."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"SafeRoads Alberta",
+"description":"Ang sangay administratibo na sumusuri sa mga hamon sa mga parusa sa pagmamaneho nang may kapansanan at mga pagsamsam ng sasakyan sa probinsya."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Proseso ng Muling Pagsasaalang-alang ng Tagapagrehistro",
+"description":"Ang prosesong ginagamit upang humiling ng mga pagsusuri ng mga desisyong administratibo na may kaugnayan sa pagmamaneho na walang kapansanan."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Mga Kadena sa Kaligtasan ng Trailer",
+"description":"Mga kadenang mahigpit na ikinabit sa ilalim ng dila ng trailer upang magbigay ng pangalawang koneksyon."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Sistema ng Paghiwalay sa Emerhensya",
+"description":"Isang sistema ng kaligtasan ng trailer na idinisenyo upang gumana kung ang trailer ay humiwalay mula sa sasakyang panghila."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Paglihis sa Pagsubaybay",
+"description":"Ang tendensiya ng mga gulong ng trailer na sumunod sa isang landas sa loob ng landas na tinatahak ng mga gulong ng sasakyang panghila."
+}
+]

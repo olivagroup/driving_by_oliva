@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Gidabaimen Graduatua (GDL)",
+"description":"Albertako gidabaimen programa mailakatua, gidari berriei trebetasunak eta esperientzia baldintza kontrolatuetan eskuratzeko aukera ematen diena."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"7. mailako ikasle-baimena",
+"description":"Lehenengo GDL etapa, ikasle-baldintzetan gainbegiratutako gidatzea ahalbidetzen duena."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"5. klaseko GDL gidabaimena",
+"description":"Albertako GDL programaren bigarren fasean lortutako probaldiko gidabaimena."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"5. klaseko gidabaimen osoa",
+"description":"Autoak eta beste ibilgailu arin batzuk modu independentean gidatzeko aukera ematen duen GDL ez den gidabaimena."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Ezagutza proba",
+"description":"Errepideko arauak, gidatzeko praktika seguruak eta errepideko seinaleak biltzen dituen aukera anitzeko proba informatizatua."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Errepideko proba",
+"description":"Ibilgailuen gidaritza, behaketa, epaiketa eta errepideko arauak betetzearen ebaluazio praktikoa."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Ikusmenaren Ebaluazioa",
+"description":"Gidariak Albertako gutxieneko ikusmen-arauak betetzen dituela berresten duen egiaztapen derrigorrezkoa."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Erregistro-agentea",
+"description":"Albertako bulego baimendua, lizentziak, erregistroa, probak eta lizentziak eguneratzeak bezalako zerbitzuak eskaintzen dituena."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Gidarien Aztertzailea",
+"description":"Errepideko probak egiteko eta eskatzaileek beharrezko gidatzeko trebetasunak dituzten ebaluatzeko baimena duen pertsona."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Aire-balaztaren onespena (Q)",
+"description":"Gidabaimen-baimena beharrezkoa da airezko balaztak edo airezko eta hidrauliko balaztak konbinatuta dituzten ibilgailuak gidatzeko."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Baldintza Kodea",
+"description":"Gidabaimenean jartzen den kodea gidatzeko baldintza berezi bat identifikatzeko, hala nola lente zuzentzaileak."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Onarpen Kodea",
+"description":"Gidari batek prestakuntza espezifikoa egin duela edo ibilgailu bereziekin hornituta egon daitekeela erakusten duen kodea."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Demeritu puntuak",
+"description":"Trafiko-arau-hauste jakin batzuengatik kondenatu ondoren gidatze-erregistroan erregistratutako puntuak."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Gidariaren laburpena",
+"description":"Gidabaimenari buruzko zigorrak, etetea eta bestelako informazioa erakusten duen erregistro ofiziala."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Trafiko Kontrol Seinalea",
+"description":"Bidegurutzeetan edo errepideak bat egiten dutenean trafikoaren fluxua kontrolatzeko erabiltzen den argi gorri, hori edo berdea."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Argi gorri finkoa",
+"description":"Gelditze-lerroa, zebrabidea edo bidegurutzea baino lehen erabat gelditzea eskatzen duen seinalea."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Argi hori finkoa",
+"description":"Seinalea gorrira aldatzen ari dela eta gidariek gelditu egin behar dutela dioen abisua, segurtasunez gelditu ezin bada behintzat."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Argi berde finkoa",
+"description":"Bidegurutze batetik igarotzea ahalbidetzen duen seinalea, lehentasuna eman behar den bitartean."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Argi gorri keinukaria",
+"description":"Stop seinale baten antzera tratatzen den seinalea, erabat gelditu behar da eta aurrera egin aurretik lehentasuna eman."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Argi hori keinukaria",
+"description":"Trafikoari eta oinezkoei lehentasuna eman ondoren gidariei kontu handiz ibiltzeko aukera ematen dien seinalea."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Argi berde keinukaria",
+"description":"Gelditu gabe mugitzea edo biratzea ahalbidetzen duen seinalea, gidariei errepideko erabiltzaileei lehentasuna emateko eskatuz."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Erreiaren alderantzizko seinalea",
+"description":"Adierazitako norabidean erreia itxita edo erabilgarri dagoen kontrolatzen duen goiko X gorri edo gezi berde bat."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Arauzko seinalea",
+"description":"Errepideko erabiltzaileek zer egin behar duten edo ez adierazten duen seinalea, abiadura, biraketa, aparkaleku eta sarbide arauak barne."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Abisu seinalea",
+"description":"Arrisku, errepidearen egoera, bidegurutze, pasabide edo beharrezko ekintza baten berri ematen duen seinalea."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Baimen-seinalea",
+"description":"Adierazitako ekintza baimenduta dagoela adierazten duen zirkulu berde batekin karratu zuri bat."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Debeku seinalea",
+"description":"Adierazitako ekintza debekatuta dagoela adierazten duen zirkulu gorri eta barra diagonal bat dituen seinale zuria."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Stop seinalea",
+"description":"Segurtasunez aurrera egin aurretik erabat gelditu eta lehentasuna eman behar dela adierazten duen arauzko seinalea."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Utzi seinalea",
+"description":"Gidariari moteltzeko, gelditzeko prest egoteko eta beharrezkoa denean lehentasuna emateko eskatzen dion seinalea."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Abiadura-muga",
+"description":"Baldintza idealetan abiadura legal maximoa, ez nahitaez abiadura segurua baldintza txarretan."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Eskola Gunea",
+"description":"Eskola-seinale batekin eta abiadura-muga batekin markatutako eremua, non abiadura- eta aurreratze-murrizketa bereziak aplikatzen diren."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Eskola Eremua",
+"description":"Abiadura-seinalerik gabeko eskola-seinale batekin markatutako eremua, gidariei kontuz ibiltzeko abisua ematen diena."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Jolastoki Gunea",
+"description":"Jolastokiko seinalea eta abiadura muga dituen eremua, abiadura murriztua eta aurreratzea mugak aplikatzen diren lekua."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Jolastokiko gunea",
+"description":"Abiadura-seinalerik gabeko jolas-parke seinale batekin markatutako eremua, haurrak gertu egon daitezkeela ohartarazten duena."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Eraikuntza Eremua",
+"description":"Abiadura, abisu-seinaleak eta banderadunen jarraibideak errespetatu behar diren errepideko lan-eremua."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Errei erreserbatua",
+"description":"Errepideko erabiltzaile jakin batzuetarako izendatutako erreia, hala nola autobusak, taxiak, bizikletak edo okupazio handiko ibilgailuak."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Lerro jarraitua",
+"description":"Aurreratzeko edo erreia aldatzeko zeharkatzea debekatzen duen espaloiko markaketa."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Lerro hautsia",
+"description":"Segurua denean aurreratzeko edo erreia aldatzeko aukera ematen duen espaloiko markaketa."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Linea Horia",
+"description":"Kontrako noranzkoetan doan trafikoa bereizten duen espaloiko marka."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Lerro Zuria",
+"description":"Noranzko berean doazen trafikoa bereizten duen espaloiko marka."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Geldialdi-lerroa",
+"description":"Bidegurutze edo trenbide-pasagune batean ibilgailu batek non gelditu behar duen adierazten duen espaloiko marka."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Oinezkoentzako pasabidea",
+"description":"Oinezkoek zeharkatzen duten eta gidariek behar dutenean lehentasuna eman behar duten eremu markatua edo markatu gabea."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Bizikleta-erreia",
+"description":"Txirrindularientzat gordetako erreia, ibilgailu motordunak baimenduta dauden lekuetan bakarrik sar daitezkeena, biratzeko adibidez."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Erabilera Partekatuko Erreia",
+"description":"Txirrindulariek errei bera erabil dezaketela gidariei gogorarazteko markatutako erreia."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Puntu itsua",
+"description":"Ibilgailu baten ondoan edo apur bat atzean dagoen eremua, ispiluetatik ikusten ez dena."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Sorbalda-egiaztapena",
+"description":"Ispiluetan ikusten ez den eremu bat egiaztatzeko sorbalda gainetik begirada azkar bat."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Espazioko kuxina",
+"description":"Ibilgailu baten inguruan mantentzen den espazio irekia, gelditzeko edo arriskuak saihesteko lekua emateko."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Jarraitzeko distantzia",
+"description":"Zure ibilgailuaren eta aurreko ibilgailuaren artean mantentzen den denbora eta espazioa."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Bi segundoko araua",
+"description":"Errepide eta eguraldi baldintza normaletan gomendatutako gutxieneko jarraipen denbora."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Pertzepzio Denbora",
+"description":"Egoera bat antzeman eta gelditzea edo beste erantzun bat beharrezkoa dela ulertzeko behar den denbora."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Erreakzio-denbora",
+"description":"Arrisku bati erantzuteko behar den denbora, adibidez, oina azeleragailutik balaztara mugitzea."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Balaztatze-distantzia",
+"description":"Ibilgailuak balaztak erabili ondoren gelditu arte egiten duen distantzia."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Gelditzeko distantzia osoa",
+"description":"Pertzepzioan, erreakzioan eta balaztatzean zehar egindako distantzia konbinatua."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Atalase-balazta",
+"description":"Gurpilak blokeatu baino lehen balaztatze sendoa, gidatzeko gaitasuna mantenduz."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Blokeoaren aurkako balazta sistema (ABS)",
+"description":"Gurpilen blokeoa saihesteko eta direkzio-kontrola mantentzeko balazta-presioa zikloz aldatzen duen sistema."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Marruskadura-puntua",
+"description":"Eskuzko transmisioak motorraren potentzia gurpiletara konektatzen hasten den enbragearen posizioa."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Enbragearen gainean ibiltzea",
+"description":"Oina enbrage-pedalean beharrik gabe jartzeak enbragearen higadura gehigarria eragiten du."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Aparkaleku paraleloa",
+"description":"Ibilgailuen arteko espazioan espaloiarekiko paraleloan aparkatzea."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Angeluko aparkalekua",
+"description":"Diagonalean kokatutako postu batean aparkatzea, normalean trafiko-erreiarekiko 45 gradu ingurura."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Aparkaleku perpendikularra",
+"description":"Espaloiarekiko 90 graduko angeluan kokatutako postu batean aparkatzea."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Bide-eskubidea",
+"description":"Zein erabiltzailek eman behar dion lehentasuna eta zeinek aurrera egin dezakeen zehazten duten arauak."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Kontrolatutako bidegurutzea",
+"description":"Trafiko-seinaleek, trafiko-seinaleek edo biek arautzen duten bidegurutzea."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Kontrolik gabeko bidegurutzea",
+"description":"Seinalerik edo seinalerik gabeko bidegurutzea, non gidariek, oro har, eskuineko ibilgailuari lehentasuna eman behar dioten."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Kortesia Txokoa",
+"description":"Hiru edo lau noranzkoko geldialdia, non iristen den lehenengo ibilgailua lehenengo joaten den, edo eskuineko ibilgailua joaten den biak aldi berean iristen direnean."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Trafiko-zirkulua",
+"description":"Trafikoa erlojuaren orratzen kontrako norabidean doan bidegurutze zirkularra da, eta sartzen diren ibilgailuek barruan dagoen trafikoari lehentasuna eman behar diote."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Biribilgunea",
+"description":"Abiadura txikiagoak sustatzeko kurba estuagoekin diseinatutako bidegurutze zirkularra."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Bi erreiko biraketa",
+"description":"Bi biraketa-errei markatuetako batetik dagokion helmugako erreira egindako biraketa."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Ezkerretarako bi noranzkoko erreia",
+"description":"Ezkerrera biratzeko prestatzean, bi noranzkoetako trafikoak erabiltzen duen erdiko erreia."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Bira-buelta",
+"description":"Ibilgailu bat kontrako noranzkoan joateko biratzeko maniobra, aurrez aurreko erreiak erabiliz."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Aurreratzeko bidea",
+"description":"Trafiko azkarragoak ibilgailu motelagoak segurtasunez aurreratzeko aukera ematen duen errei gehigarri bat."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Larrialdietako geldialdi-erreia",
+"description":"Errepideko bazterra premiazko geldialdietarako edo ibilgailuen arazoetarako gordeta, ez ohiko gidatze edo aurreratzeetarako."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Azelerazio-erreia",
+"description":"Errepidera sartu aurretik abiadura handitzeko eta trafikoaren fluxuari egokitzeko erabiltzen den erreia."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Dezelerazio-erreia",
+"description":"Errepide edo errepide nagusi batetik irtetean abiadura murrizteko erabiltzen den erreia."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Bat egitea",
+"description":"Bi errepide bat osatzen dutenean trafikoa modu seguruan nahasteko prozesu partekatua."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Ehuntze Gunea",
+"description":"Errei partekatua, non sartzen den trafikoa azeleratu egiten den irteten dena moteldu egiten den."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Irristada",
+"description":"Pneumatikoen trakzio murriztuak eragindako ibilgailuaren kontrola galtzea."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Balaztatze-irristada",
+"description":"Balaztatzean sortzen den irristatzeak ABSrik gabeko ibilgailu baten gurpilak blokeatzen ditu."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Potentzia-irristaketa",
+"description":"Azkarregi azelerak eta gurpil eragileak biratzearen ondoriozko irristatzea."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Biraketa-irristaketa",
+"description":"Biratzean azkarregi joateagatik eragindako alboko irristatzea."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Ur-plangintza",
+"description":"Pneumatikoen kontaktu galera errepide bustiarekin, eta horrek ibilgailuaren kontrola galtzea eragin dezake."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Izotz Beltza",
+"description":"Errepidean hezetasuna izozten denean sortzen den izotz geruza ikusezin bat."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Errepidetik kanpoko berreskurapena",
+"description":"Espaloia utzi ondoren, abiadura moteldu eta pixkanaka errepidera itzultzeko prozesu kontrolatua."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Arrisku-argiak",
+"description":"Lau norabideko argi keinukariak ibilgailu bat geldituta dagoela edo arriskua dakarrela beste batzuei ohartarazteko erabiltzen dira."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Gidatze proaktiboa",
+"description":"Arriskuak aurreikustea eta goiz jardutea arriskua murrizteko, gutxitzeko edo saihesteko."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Ikusmen-denbora",
+"description":"Gidariak arriskuei erantzuteko denbora izateko aurrera eskaneatzen duen distantzia segundotan neurtua."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Arrisku finkoa",
+"description":"Errepidearen egoera iraunkorra, hala nola kurba, muino, bidegurutze edo ezkutuko sarrera bat."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Arrisku aldakorra",
+"description":"Egoera aldakorra, hala nola oinezkoak, gainazal izoztuak, larrialdi-ibilgailuak edo semaforo berde zaharkituak."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Gidatzea arretagabetuta",
+"description":"Gidatzea arreta telefonoa erabiltzeak, mezuak bidaltzeak, irakurtzeak, gailuak programatzeak edo apaintzeak bezalako jarduerek desbideratzen duten bitartean."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Haurren Segurtasun Eserlekua",
+"description":"Haurraren adinerako edo pisurako hautatu eta fabrikatzailearen argibideen arabera instalatu den onartutako segurtasun-aparatu bat."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"Haurren segurtasun-eserleku bateragarriak ibilgailu bati lotzeko erabiltzen den aingura-sistema unibertsala."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Eserleku altxagarria",
+"description":"Ibilgailuaren segurtasun-uhala erabiltzeko haurra behar bezala kokatzen duen eserleku homologatua."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Errepideko erabiltzaile zaurgarria",
+"description":"Oinezko, txirrindulari edo motozikleta-gidaria, ibilgailu itxi bateko bidaiari batek baino babes fisiko gutxiagorekin."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Eskola autobusaren anbar argiak",
+"description":"Eskola autobusa moteltzen ari dela eta gelditzeko prestatzen ari dela adierazten duten abisu-argiak txandaka."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Eskola autobusaren argi gorriak",
+"description":"Ikasleak autobusaren ondoan sartu, irteten edo gurutzatzen direnean, trafikoa gelditzea eskatzen duten argi txandakatuak."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Elur-kentzeko abisu-argiak",
+"description":"Elur-kentzeko makina bat aurrera dabilela adierazten duten anbar eta gorri koloreko argi keinukariak."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Trenbide-pasagunea",
+"description":"Errepide batek trenbideak zeharkatzen dituen lekua, eta gidariek trenei lehentasuna eman behar dieten lekua."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Trenbideko Crossbuck",
+"description":"X formako trenbide-pasaguneko seinalea, gidariei trenei lehentasuna emateko eskatzen diena."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Trenbide Arinaren Garraioa (TGR)",
+"description":"Trenbide-pasaguneak beste trenbide-pasagune batzuk bezala tratatu behar diren trenbide-sistema elektriko isila."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Hileta-prozesioa",
+"description":"Segurua denean bidegurutze batetik elkarrekin joan daitezkeen ibilgailu ilara estu bat, faroak piztuta dituztenak."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Gidatzea eraginpean",
+"description":"Alkohola, drogak, botikak edo beste baldintzaren bat hartzen ari zaren bitartean ibilgailu bat gidatzea gidatzeko gaitasuna murrizten du."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Berehalako Errepideko Zigorrak (IRS)",
+"description":"Albertako gidatze eraginpean egoteagatiko administrazio-zigor programa gero eta handiagoa da."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERO: Hasiberria",
+"description":"7. klaseko ikasleentzako eta 5. klaseko GDL gidarientzako zero tolerantziako alkohol eta drogen programa."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS ZERO: Komertziala",
+"description":"Ibilgailu komertzialetan jarduten duten gidarientzako zero tolerantziako alkohol eta drogen aurkako programa."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: ABISUA",
+"description":"Gidariaren odoleko alkohol-kontzentrazioa zehaztutako abisu-atalasera iristen denean aplikatzen diren errepideko zigorrak."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: EZ DU EGIN",
+"description":"Zigor penalengatiko narriaduragatik, debekatutako kontzentrazioengatik edo legezko eskaera bat ukatzeagatik aplikatzen diren errepideko zigor larriak."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Pizte-blokeoko gailua",
+"description":"Arnasketa-alkoholaren maila neurtzen duen gailua, eta neurketa bere atalasea gainditzen duenean ibilgailua martxan jartzea eragozten duena."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"Albertako Errepide Seguruak",
+"description":"Gidatzea eraginpean egoteagatik probintzietako zigorren eta ibilgailuen konfiskatzearen aurkako errekurtsoak berrikusten dituen administrazio-adarra."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Erregistratzailearen Berrazterketa Prozesua",
+"description":"Gidatzeari uko egin gabe egiteari buruzko administrazio-erabakien berrikuspenak eskatzeko erabiltzen den prozesua."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Atoiaren Segurtasun Kateak",
+"description":"Bigarren mailako konexio bat emateko atoiaren mihiaren azpian gurutzatutako kate sendoak."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Larrialdietako Matxura Sistema",
+"description":"Atoia atoian daraman ibilgailutik bereizten denean aktibatzeko diseinatutako atoiaren segurtasun-sistema."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Bidetik kanpo",
+"description":"Atoiaren gurpilek atoian eramaten duen ibilgailuaren gurpilek hartutako bidearen barruko bide bat jarraitzeko joera."
+}
+]

@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Lõpetatud juhilubade väljaõpe (GDL)",
+"description":"Alberta etapiviisiline litsentseerimisprogramm, mis võimaldab uutel juhtidel omandada oskusi ja kogemusi kontrollitud tingimustes."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"7. klassi õppija litsents",
+"description":"Esimene GDL-i etapp, mis võimaldab õppija tingimustes järelevalve all sõitmist."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"5. klassi GDL litsents",
+"description":"Alberta GDL-programmi teise etapi ajal omatud katseaja litsents."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Täielik 5. klassi litsents",
+"description":"Mitte-GDL-luba, mis lubab iseseisvalt juhtida autosid ja muid sobivaid kergsõidukeid."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Teadmiste test",
+"description":"Arvutipõhine valikvastustega test, mis hõlmab liikluseeskirju, ohutut sõidustiili ja liiklusmärke."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Teekatse",
+"description":"Sõiduki juhitavuse, vaatluse, otsustusvõime ja liikluseeskirjade järgimise praktiline hindamine."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Nägemise hindamine",
+"description":"Kohustuslik kontroll, mis kinnitab, et juht vastab Alberta minimaalsetele nägemisnõuetele."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Registriagent",
+"description":"Volitatud Alberta kontor, mis pakub selliseid teenuseid nagu litsentseerimine, registreerimine, testimine ja litsentside uuendamine."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Juhieksamineerija",
+"description":"Isik, kellel on õigus läbi viia teekatseid ja hinnata, kas taotlejatel on nõutavad sõiduoskused."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Õhkpiduri kinnitus (Q)",
+"description":"Ainult suruõhu- või kombineeritud suruõhu- ja hüdrauliliste piduritega sõidukite juhtimiseks on vajalik juhiloa kinnitus."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Seisundi kood",
+"description":"Juhiloale paigutatud kood, mis tähistab spetsiaalset sõidunõuet, näiteks korrektiivläätsede kandmist."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Kinnituskood",
+"description":"Kood, mis näitab, et juht on läbinud erikoolituse või võib juhtida spetsiaalselt varustatud sõidukeid."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Kahjupunktid",
+"description":"Teatud liiklusrikkumiste eest süüdimõistmise järel juhiloa registrisse kantud punktid."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Juhi kokkuvõte",
+"description":"Ametlik dokument, mis näitab sõiduaja süüdimõistmisi, juhtimisõiguse peatamist ja muud teavet litsentseerimise kohta."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Liikluse suunamise signaal",
+"description":"Punane, kollane või roheline tuli, mida kasutatakse liiklusvoo reguleerimiseks ristmikel või ühinevatel teedel."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Pidev punane tuli",
+"description":"Valgussignaal, mis nõuab täielikku peatumist enne stoppjoont, ülekäigurada või ristmikku."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Pidev kollane tuli",
+"description":"Hoiatus, et foor muutub punaseks ja juhid peavad peatuma, välja arvatud juhul, kui peatumine on ohutu."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Pidev roheline tuli",
+"description":"Valgusfoor, mis lubab ristmikul liikuda, nõudes samal ajal teed andmist."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Vilkuv punane tuli",
+"description":"Signaali, mida käsitletakse nagu stopp-märki, mis nõuab enne edasiliikumist täielikku peatumist, millele järgneb teele andmine."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Vilkuv kollane tuli",
+"description":"Valgussignaal, mis lubab juhtidel pärast liiklusele ja jalakäijatele tee andmist ettevaatlikult edasi liikuda."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Vilkuv roheline tuli",
+"description":"Signaal, mis lubab liikumist või pööramist peatumata, nõudes samal ajal juhilt teed andmist seadusjärgsetele liiklejatele."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Sõiduraja ümberpööramise foor",
+"description":"Punane X või roheline nool, mis näitab, kas sõidurada on näidatud suunas suletud või saadaval."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Regulatiivne märk",
+"description":"Märk, mis näitab, mida liiklejad peavad või ei tohi teha, sealhulgas kiiruse-, pöörde-, parkimis- ja juurdepääsureeglid."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Hoiatusmärk",
+"description":"Märk, mis annab ette teada ohust, teeoludest, ristmikust, ülekäigukohast või vajalikust tegevusest."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Lubav märk",
+"description":"Valge ruut rohelise ringiga, mis näitab, et märgitud toiming on lubatud."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Keelav märk",
+"description":"Valge punase ringi ja diagonaalse triibuga märk, mis näitab, et märgitud toiming on keelatud."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Stopp-märk",
+"description":"Märk, mis nõuab enne ohutut edasiliikumist täielikku peatumist ja teed andmist."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Anna järele märk",
+"description":"Märk, mis nõuab juhilt kiiruse vähendamist, peatumiseks valmisolekut ja vajadusel teed andmist."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Kiirusepiirang",
+"description":"Ideaalsetes tingimustes lubatud maksimaalne kiirus, mitte tingimata ohutu kiirus halbades tingimustes."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Koolitsoon",
+"description":"Koolimärgi ja kiirusepiiranguga tähistatud ala, kus kehtivad spetsiaalsed kiiruse- ja möödasõidupiirangud."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Koolipiirkond",
+"description":"Koolimärgiga tähistatud ala, millel puudub kiirusemärk, mis hoiatab juhte ettevaatlikkuse eest."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Mänguväljak",
+"description":"Mänguväljaku märgi ja kiirusepiiranguga ala, kus kehtivad kiirusepiirangud ja möödasõidupiirangud."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Mänguväljak",
+"description":"Mänguväljaku märgiga tähistatud ala, millel puudub kiirusmärk, mis hoiatab läheduses viibivate laste eest."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Ehitustsoon",
+"description":"Teetööde ala, kus tuleb järgida kiirusepiiranguid, hoiatusmärke ja lipulaeva juhiseid."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Reserveeritud rada",
+"description":"Kindlatele liiklejatele, näiteks bussidele, taksodele, jalgratastele või suure täituvusega sõidukitele, määratud sõidurada."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Pidev joon",
+"description":"Teekattemärgistus, mis üldiselt keelab tee ületamist möödasõiduks või sõiduraja vahetamiseks."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Katkine joon",
+"description":"Teekattemärgistus, mis lubab teed ületada möödasõidu või sõiduraja vahetamise eesmärgil, kui see on ohutu."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Kollane joon",
+"description":"Teekattemärgistus, mis eraldab vastassuunas liikuvat liiklust."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Valge joon",
+"description":"Teekattemärgistus, mis eraldab samas suunas liikuvat liiklust."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Stoppjoon",
+"description":"Teekattemärgis, mis näitab kohta, kus sõiduk peab ristmikul või raudteeülesõidukohas peatuma."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Ülekäigurada",
+"description":"Märgistatud või märgistamata ala, kus jalakäijad ületavad teed ja autojuhid peavad vastavalt vajadusele teed andma."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Jalgrattatee",
+"description":"Jalgratturitele reserveeritud tähistatud sõidurada, kuhu mootorsõidukid võivad siseneda ainult lubatud kohtades, näiteks pööramiseks."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Ühiskasutatav sõidurada",
+"description":"Sõidurada, mis on tähistatud selleks, et tuletada juhtidele meelde, et jalgratturid võivad sama sõidurada kasutada."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Pimeala",
+"description":"Sõiduki kõrval või veidi taga asuv ala, mida ei ole peeglitest näha."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Õlakontroll",
+"description":"Kiire pilk üle õla, et kontrollida ala, mida peeglitest näha ei ole."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Kosmosepadi",
+"description":"Sõiduki ümber hoitakse avatud ruumi peatumiseks või ohtude vältimiseks."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Jälgimiskaugus",
+"description":"Teie sõiduki ja eesoleva sõiduki vaheline aeg ja ruum."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Kahe sekundi reegel",
+"description":"Minimaalne soovitatav jälgimisaeg normaalsete tee- ja ilmastikutingimuste korral."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Tajumise aeg",
+"description":"Aeg, mis kulub olukorra äratundmiseks ja mõistmiseks, et on vaja peatuda või reageerida muul viisil."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Reaktsiooniaeg",
+"description":"Aeg, mis kulub ohule reageerimiseks, näiteks jala gaasipedaalilt pidurile viimiseks."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Pidurdusteekond",
+"description":"Vahemaa, mille sõiduk läbib pärast pidurdamist kuni peatumiseni."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Kogu peatumisteekond",
+"description":"Taju, reaktsiooni ja pidurdamise ajal läbitud vahemaa kokku."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Lävepidurdus",
+"description":"Järsk pidurdamine kuni rataste lukustumiseni, säilitades samal ajal juhitavuse."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Blokeerumisvastane pidurisüsteem (ABS)",
+"description":"Süsteem, mis tsükliliselt reguleerib pidurisurvet, et vältida rataste lukustumist ja säilitada roolivõimendus."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Hõõrdepunkt",
+"description":"Siduri asend, kus manuaalkäigukast hakkab mootori võimsust ratastele ühendama."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Siduriga sõitmine",
+"description":"Jala asjatu toetamine siduripedaalile, mis põhjustab siduri täiendavat kulumist."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Paralleelparkimine",
+"description":"Parkimine äärekiviga paralleelselt sõidukite vahelises ruumis."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Nurga all parkimine",
+"description":"Parkimine diagonaalselt, tavaliselt umbes 45-kraadise nurga all sõiduraja suhtes asuvas parklas."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Risti parkimine",
+"description":"Parkimine parklas, mis on äärekivi suhtes 90-kraadise nurga all."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Eesõigus",
+"description":"Reeglid, mis määravad, milline liikleja peab teed andma ja milline võib edasi liikuda."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Kontrollitud ristmik",
+"description":"Ristmik, mida reguleerivad liiklusmärgid, foorid või mõlemad."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Kontrollimatu ristmik",
+"description":"Ristmik ilma liiklusmärkide või foorideta, kus juhid annavad üldiselt teed paremal pool sõitvale sõidukile."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Viisakusnurk",
+"description":"Kolme- või neljasuunaline peatus, kus esimesena saabunud sõiduk liigub edasi või paremal olev sõiduk liigub edasi, kui saabuvad sõidukid on samaaegselt."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Ringliiklus",
+"description":"Ringristmik, kus liiklus liigub vastupäeva ja sissesõitvad sõidukid annavad teed sees olevale liiklusele."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Ringristmik",
+"description":"Ringristmik, mis on projekteeritud kitsamate kurvidega, et soodustada madalamat kiirust."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Kahe sõidurajaga pööre",
+"description":"Pööre, mis tehakse ühest kahest tähistatud pöörderajast vastavasse sihtrajast."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Kahesuunaline vasakpöörde rada",
+"description":"Jagatud keskmine sõidurada, mida liiklus mõlemast suunast vasakpöördeks valmistumisel kasutab."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"U-pööre",
+"description":"Manööver, mille käigus sõiduk pöörab ringi, et sõita vastassuunas, kasutades vastassuunavööndi sõidurada."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Möödumisrada",
+"description":"Lisarada maanteele, mis võimaldab kiirematel liiklejatel aeglasematest sõidukitest ohutult mööda sõita."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Hädapeatusrada",
+"description":"Maanteepeenar on reserveeritud kiireloomuliste peatuste või sõidukiprobleemide jaoks, mitte tavaliseks sõiduks või möödasõiduks."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Kiirendusrada",
+"description":"Sõidurada, mida kasutatakse kiiruse suurendamiseks ja liiklusvooluga sobitamiseks enne sõiduteele ühinemist."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Aeglustusrada",
+"description":"Sõidurada, mida kasutatakse kiiruse vähendamiseks maanteelt või peateelt mahasõidul."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Ühendamine",
+"description":"Liikluse ohutu ühendamise protsess, kus kaks sõiduteed ühinevad üheks."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Kudumistsoon",
+"description":"Jagatud sõidurada, kus sissesõitev liiklus kiirendab, samas kui väljasõitev liiklus aeglustub."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Jalgsi",
+"description":"Sõiduki juhitavuse kaotus, mis on põhjustatud rehvide haarduvuse vähenemisest."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Pidurduslibisemine",
+"description":"Pidurdamisel tekkiv libisemine lukustab ABS-ita sõiduki rattad."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Power Skid",
+"description":"Liiga kiirelt kiirendades tekkiv libisemine, mis paneb veorattad pöörlema."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Kurvides libisemine",
+"description":"Liiga kiirest liikumisest pöörde ajal põhjustatud külglibisemine."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Vesiliugumine",
+"description":"Rehvide kontakti kadumine märja teekattega, mis võib põhjustada sõiduki juhitavuse kaotuse."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Must jää",
+"description":"Raskesti nähtav jääkiht tekib siis, kui teel niiskus külmub."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Maastikul taastamine",
+"description":"Kontrollitud protsess, mille käigus pärast teekattelt lahkumist aeglustub ja järk-järgult sõiduteele naaseb."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Ohutuled",
+"description":"Neljasuunalised vilkurid, mida kasutatakse teiste hoiatamiseks peatunud või ohtliku sõiduki eest."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Ennetav sõitmine",
+"description":"Ohtude ennetamine ja varajane tegutsemine ohu vähendamiseks, minimeerimiseks või vältimiseks."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Visuaalne ettevalmistusaeg",
+"description":"Vahemaa sekundites, mille juht läbib eesoleval teel, et anda aega ohtudele reageerida."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Fikseeritud oht",
+"description":"Püsiv teetingimus, näiteks kurv, küngas, ristmik või peidetud sissesõidutee."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Muutuv oht",
+"description":"Muutuvad olud, näiteks jalakäijad, jäised pinnad, hädaabisõidukid või aegunud rohelised tuled."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Tähelepanu hajumine juhtimisel",
+"description":"Autojuhtimine ajal, mil tähelepanu on kõrvale juhitud selliste tegevuste abil nagu telefoni kasutamine, sõnumite saatmine, lugemine, seadmete programmeerimine või enesekaitse."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Lapse turvatool",
+"description":"Lapse vanuse või kaalu järgi valitud ja tootja juhiste kohaselt paigaldatud heakskiidetud turvasüsteem."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Mehitamata õhusõiduk/lukk",
+"description":"Universaalne kinnitussüsteem, mida kasutatakse ühilduvate lapse turvatoolide kinnitamiseks sõidukisse."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Istmekõrgendus",
+"description":"Heakskiidetud iste, mis asetab lapse sõiduki turvavöö kasutamiseks õigesti."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Kaitsev liikleja",
+"description":"Jalakäija, jalgrattur või mootorrattur, kellel on väiksem füüsiline kaitse kui suletud sõidukis viibijal."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Koolibussi merevaigukollased tuled",
+"description":"Vahelduvad hoiatustuled näitavad, et koolibuss aeglustab ja valmistub peatuma."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Koolibussi punased tuled",
+"description":"Vahelduvad tuled nõuavad liikluse peatumist õpilaste bussi sisenemise, väljumise või ületamise ajal."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Lumekoristusauto hoiatustuled",
+"description":"Vilkuvad kollased ja punased tuled näitavad, et ees töötab lumekoristusmasin."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Raudteeülesõit",
+"description":"Koht, kus tee ületab raudteed ja juhid peavad rongidele teed andma."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Raudtee Crossbuck",
+"description":"X-kujuline raudteeülesõidumärk, mis nõuab juhtidelt rongidele teed andmist."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Kergraudteetransport (LRT)",
+"description":"Vaikne elektri jõul töötav raudteesüsteem, mille ületuskohti tuleb käsitleda nagu teisi raudteeülesõite."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Matuseprotsess",
+"description":"Tihedalt rühmitatud sõidukite rivi, mille esituled on sisse lülitatud ja mis võivad ristmikust koos läbi sõita, kui see on ohutu."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Juhtimishäire",
+"description":"Sõiduki juhtimine alkoholi, narkootikumide, ravimite või muu seisundi mõju all, mis vähendab sõiduvõimet."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Kohesed teeäärsed sanktsioonid (IRS)",
+"description":"Alberta eskaleeruv halduskaristuste programm joobes juhtimise eest."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERO: Algaja",
+"description":"Nulltolerantsi alkoholi- ja narkootikumidevastane programm 7. klassi õpilastele ja 5. klassi GDL-i juhtidele."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS ZERO: Äriline",
+"description":"Ärilisel ametikohal tegutsevatele kommertsjuhtidele suunatud alkoholi- ja narkootikumidevastane nulltolerantsi programm."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: HOIATUS",
+"description":"Teeäärsed karistused rakendatakse siis, kui juhi vere alkoholisisaldus jõuab kehtestatud hoiatuspiirini."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: EBAÕNNESTUMINE",
+"description":"Kriminaaltasandi joobe, keelatud kontsentratsioonide või seadusliku nõude täitmisest keeldumise korral rakendatavad tõsised teeäärsed sanktsioonid."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Süütelukustusseade",
+"description":"Seade, mis mõõdab hingeõhu alkoholisisaldust ja takistab sõiduki käivitamist, kui näit ületab läve."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"SafeRoads Albertas",
+"description":"Haldusharu, mis vaatab läbi provintsi joobes juhtimise eest karistuste ja sõidukite arestimise vaidlustusi."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Registripidaja uuesti läbivaatamise protsess",
+"description":"Joobes juhtimiseta haldusotsuste läbivaatamise taotlemise protsess."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Haagise turvaketid",
+"description":"Haagise keele all risti asetsevad kindlalt kinnitatud ketid, mis tagavad teisejärgulise ühenduse."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Avariiväljapääsu süsteem",
+"description":"Haagise ohutussüsteem, mis aktiveerub, kui haagis veduki küljest lahti tuleb."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Jälgimisalalt kõrvalekaldumine",
+"description":"Haagise rataste kalduvus järgida trajektoori, mis on seespool vedava sõiduki rataste trajektoori."
+}
+]
