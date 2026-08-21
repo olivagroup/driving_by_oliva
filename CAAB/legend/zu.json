@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Ilayisensi Yokushayela Ephothule (i-GDL)",
+"description":"Uhlelo lwelayisensi oluhleliwe lwase-Alberta oluvumela abashayeli abasha ukuthola amakhono nolwazi ngaphansi kwezimo ezilawulwayo."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Ilayisensi Yomfundi Yekilasi 7",
+"description":"Isigaba sokuqala se-GDL, esivumela ukushayela okuqondisiwe ngaphansi kwezimo zabafundi."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Ilayisensi ye-Class 5-GDL",
+"description":"Ilayisensi yokuhlolwa ephethwe ngesikhathi sesigaba sesibili sohlelo lwe-GDL lwase-Alberta."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Ilayisensi Egcwele Yekilasi 5",
+"description":"Ilayisensi engeyona eye-GDL evumela ukusebenza ngokuzimela kwezimoto nezinye izimoto ezilula ezifanelekile."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Ukuhlolwa Kolwazi",
+"description":"Ukuhlolwa kwekhompyutha okukhethwa kukho okuningi okuhlanganisa imithetho yomgwaqo, imikhuba yokushayela ephephile, kanye nezimpawu zomgwaqo."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Ukuhlolwa Komgwaqo",
+"description":"Ukuhlolwa okusebenzayo kokuphathwa kwezimoto, ukubheka, ukwahlulela, kanye nokuhambisana nemithetho yomgwaqo."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Ukuhlolwa Kombono",
+"description":"Isheke elidingekayo eliqinisekisa ukuthi umshayeli uyahlangabezana nezindinganiso zokubona eziphansi zase-Alberta."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"I-ejenti Yokubhalisa",
+"description":"Ihhovisi eligunyaziwe lase-Alberta elihlinzeka ngezinsizakalo ezifana nokunikeza amalayisense, ukubhalisa, ukuhlola, kanye nokuvuselelwa kwelayisensi."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Umhloli Womshayeli",
+"description":"Umuntu ogunyaziwe ukwenza izivivinyo zomgwaqo nokuhlola ukuthi abafakizicelo banamakhono okushayela adingekayo yini."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Ukuvunyelwa kwe-Air Brake (Q)",
+"description":"Kudingeka imvume yelayisensi yokusebenzisa izimoto ezinamabhuleki omoya kuphela noma ahlanganisiwe omoya kanye ne-hydraulic."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Ikhodi Yesimo",
+"description":"Ikhodi efakwe kulayisensi yokuhlonza isidingo sokushayela esikhethekile, njengamalensi okulungisa."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Ikhodi Yokugunyaza",
+"description":"Ikhodi ebonisa ukuthi umshayeli uqedile ukuqeqeshwa okuthile noma angasebenzisa izimoto ezihlonyiswe ngokukhethekile."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Amaphuzu e-Demerit",
+"description":"Amaphuzu aqoshwe ngokumelene nerekhodi lokushayela ngemuva kokulahlwa yicala ngamacala athile omgwaqo."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Isifinyezo Somshayeli",
+"description":"Irekhodi elisemthethweni elibonisa ukulahlwa yicala lokushayela, ukumiswa emsebenzini, kanye nolunye ulwazi lwelayisensi."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Isignali Yokulawula Ithrafikhi",
+"description":"Isibani esibomvu, esiphuzi, noma esiluhlaza esisetshenziselwa ukulawula ukuhamba kwezimoto ezindaweni zokuhlangana kwemigwaqo noma ezihlanganayo."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Ukukhanya Okubomvu Okuqinile",
+"description":"Isignali edinga ukuma okuphelele ngaphambi komugqa wokuma, indawo yokuwela abantu abahamba ngezinyawo, noma indawo yokuhlangana."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Ukukhanya Okuphuzi Okuqinile",
+"description":"Isexwayiso sokuthi isignali ishintsha ibe bomvu futhi abashayeli kumele bame ngaphandle kokuthi ukuma kungenzeki ngokuphepha."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Ukukhanya Okuluhlaza Okuqinile",
+"description":"Isignali evumela ukunyakaza phakathi kwempambano ngenkathi kusadingeka ukugoba okufanelekile."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Ukukhanya Okubomvu Okukhanyayo",
+"description":"Isignali ephathwa njengophawu lokuma, edinga ukuma okuphelele okulandelwa ukugoba ngaphambi kokuqhubeka."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Ukukhanya Okuphuzi Okukhanyayo",
+"description":"Isignali evumela abashayeli ukuthi baqhubeke ngokuqapha ngemva kokuvumela ithrafikhi kanye nabahamba ngezinyawo."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Ukukhanya Okuluhlaza Okukhanyisayo",
+"description":"Isignali evumela ukunyakaza noma ukujika ngaphandle kokuma ngenkathi idinga abashayeli ukuba bavumele abasebenzisi bomgwaqo abasemthethweni."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Isignali Yokubuyela Emuva Kwendlela",
+"description":"Umcibisholo obomvu ongaphezulu u-X noma oluhlaza olawula ukuthi umzila uvaliwe noma uyatholakala yini ohlangothini olubonisiwe."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Uphawu Lokulawula",
+"description":"Isibonakaliso esibonisa lokho abasebenzisi bomgwaqo okumele bakwenze noma okungafanele bakwenze, okuhlanganisa isivinini, ukujika, ukupaka, kanye nemithetho yokufinyelela."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Isibonakaliso Sesexwayiso",
+"description":"Isibonakaliso esinikeza isaziso kusenesikhathi sengozi, isimo somgwaqo, ukuhlangana kwemigwaqo, ukuwela, noma isinyathelo esidingekayo."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Uphawu Oluvumelayo",
+"description":"Isikwele esimhlophe esinesiyingi esiluhlaza okwesibhakabhaka esibonisa ukuthi isenzo esibonisiwe sivunyelwe."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Uphawu Oluvimbelayo",
+"description":"Uphawu olumhlophe olunesiyingi esibomvu kanye nebha evundlile ebonisa ukuthi isenzo esibonisiwe asivunyelwe."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Uphawu Lokuma",
+"description":"Uphawu olulawulayo oludinga ukuma ngokuphelele nokuvumela ngaphambi kokuba uqhubeke ngokuphepha."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Uphawu Lokuhoxisa",
+"description":"Isibonakaliso esidinga umshayeli ukuba anciphise ijubane, alungele ukuma, futhi anikeze ilungelo lokungena lapho kudingeka khona."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Umkhawulo Wejubane",
+"description":"Isivinini esiphezulu esisemthethweni ngaphansi kwezimo ezifanele, hhayi ngempela isivinini esiphephile ezimweni ezimbi."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Indawo Yesikole",
+"description":"Indawo ephawulwe ngophawu lwesikole kanye nomkhawulo wejubane lapho kusebenza khona imikhawulo ekhethekile yejubane kanye nokudlula."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Indawo Yesikole",
+"description":"Indawo ephawulwe uphawu lwesikole olungenalo uphawu lwesivinini olunamathiselwe, okuxwayisa abashayeli ukuba baqaphele."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Indawo Yokudlala",
+"description":"Indawo enophawu lwenkundla yokudlala kanye nomkhawulo wejubane obekwe lapho kusebenza khona imikhawulo yejubane elincishisiwe kanye neyokudlula."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Indawo Yokudlala",
+"description":"Indawo ephawulwe ngophawu lwenkundla yokudlala olungenalo uphawu lwesivinini, oluxwayisa ngokuthi izingane zingase zibe seduze."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Indawo Yokwakha",
+"description":"Indawo yokusebenza emgwaqweni lapho ijubane elibekiwe, izimpawu zokuxwayisa, kanye neziqondiso zabantu abamele ifulegi kumele zilandelwe."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Indlela Egciniwe",
+"description":"Umzila obekelwe abasebenzisi bomgwaqo abathile, njengamabhasi, amatekisi, amabhayisikili, noma izimoto ezinabantu abaningi."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Umugqa Oqinile",
+"description":"Uphawu lwendlela oluvame ukwenqabela ukuwela ukudlula noma ukushintsha imizila."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Umugqa Ophukile",
+"description":"Uphawu lwendlela oluvumela ukuwela ukudlula noma ukushintsha imizila uma kuphephile."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Umugqa Ophuzi",
+"description":"Umgwaqo ohlukanisa izimoto ezihamba ngezindlela ezihlukene."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Umugqa Omhlophe",
+"description":"Umgwaqo ohlukanisa izimoto ezihamba ohlangothini olufanayo."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Umugqa Wokuma",
+"description":"Uphawu lwendlela olubonisa lapho imoto kufanele ime khona endaweni yokuhlangana kwemigwaqo noma endaweni yokuwela isitimela."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Ukuwela ngezinyawo",
+"description":"Indawo ephawuliwe noma engaphawuliwe lapho abahamba ngezinyawo bewela khona futhi abashayeli kumele badlule njengoba kudingeka."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Indlela Yebhayisikili",
+"description":"Umzila ophawuliwe ogcinelwe abagibeli bamabhayisikili lapho izimoto zingangena khona kuphela lapho kuvunyelwe khona, njengokujika."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Indlela Yokusebenzisa Okwabelwana Ngayo",
+"description":"Umzila wokuhamba ophawulwe ukukhumbuza abashayeli ukuthi abagibeli bamabhayisikili bangasebenzisa umzila ofanayo."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Indawo Engaboni",
+"description":"Indawo eseceleni noma ngemuva kancane kwemoto engabonakali ezibukweni zayo."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Ukuhlolwa Kwamahlombe",
+"description":"Ukubheka ngokushesha ehlombe ukuze uhlole indawo engabonakali ezibukweni."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Umkhushini Wesikhala",
+"description":"Indawo evulekile egcinwe eduze kwemoto ukuze kube nendawo yokuma noma yokugwema izingozi."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Ibanga Lokulandela",
+"description":"Isikhathi nendawo egciniwe phakathi kwemoto yakho nemoto engaphambili."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Umthetho Wesibili Esibili",
+"description":"Isikhathi esincane esinconywayo esilandelayo ngaphansi kwezimo zomgwaqo nezimo zezulu ezijwayelekile."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Isikhathi Sokubona",
+"description":"Isikhathi esidingekayo ukuze kuqashelwe isimo nokuqonda ukuthi kudingeka ukuma noma enye impendulo."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Isikhathi Sokusabela",
+"description":"Isikhathi esidingekayo ukuze kuphendulwe ingozi, njengokuhambisa unyawo kusuka ku-accelerator kuya ku-brake."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Ibanga Lokubhuleka",
+"description":"Ibanga elihanjwa yimoto ngemva kokuba amabhuleki ayo esebenziwe kuze kube yilapho ima."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Ibanga Lokuma Eliphelele",
+"description":"Ibanga elihlanganisiwe elihanjiwe ngesikhathi sokubona, ukusabela, kanye nokubhuleka."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Ukubopha i-Threshold",
+"description":"Ukubhuleka okuqinile kuze kube seqophelweni ngaphambi nje kokuba amasondo avale, okulondoloza ikhono lokuqondisa."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Uhlelo Lokubopha Olungakhiyi (i-ABS)",
+"description":"Uhlelo olusebenzisa ukucindezela kwamabhuleki ukusiza ukuvimbela ukukhiya kwamasondo nokugcina ukulawula kokuqondisa."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Iphuzu Lokungqubuzana",
+"description":"Indawo yokubamba lapho kuqala khona ukudluliselwa ngesandla okuxhuma amandla enjini namasondo."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Ukugibela i-Clutch",
+"description":"Ukuphumula unyawo ngokungadingekile ku-clutch pedal, okubangela ukuguguleka okwengeziwe kwe-clutch."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Ukupaka Okuhamba Ngasikhathi Sinye",
+"description":"Indawo yokupaka ehambisana nomngcele endaweni ephakathi kwezimoto."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Indawo yokupaka ekhoneni",
+"description":"Ukupaka endaweni yokupaka ebekwe ngokuvundlile, ngokuvamile cishe kuma-degree angu-45 ukusuka emzileni wethrafikhi."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Indawo yokupaka eqondile",
+"description":"Indawo yokupaka ethendeni ebekwe nge-engeli engama-degree angu-90 eceleni komgwaqo."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Ilungelo Lokuhamba",
+"description":"Imithetho enquma ukuthi yimuphi umsebenzisi womgwaqo okumele avume nokuthi yimuphi ongaqhubeka."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Impambano Elawulwayo",
+"description":"Indawo yokuhlangana kwemigwaqo elawulwa izimpawu zomgwaqo, izimpawu zomgwaqo, noma kokubili."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Impambano Engalawulwa",
+"description":"Indawo yokuhlangana engenazimpawu noma izimpawu lapho abashayeli ngokuvamile bewela khona emotweni engakwesokudla sabo."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Ikona Lomusa",
+"description":"Indawo yokuma enezindlela ezintathu noma ezine lapho imoto yokuqala efika iqhubekela phambili, noma imoto engakwesokudla iqhubekela phambili uma kufika ngesikhathi esisodwa."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Umbuthano Wethrafikhi",
+"description":"Indawo yokuhlangana eyindilinga lapho ithrafikhi ihamba khona ngokuphambene newashi futhi izimoto ezingenayo ziholela ekutheni ithrafikhi isivele ingaphakathi."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Umjikelezo",
+"description":"Indawo yokuhlangana eyindilinga eklanyelwe ngamajika aqinile ukukhuthaza isivinini esiphansi."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Ukujika Okukabili",
+"description":"Ukujika okwenziwe kusuka komunye wemizila emibili ejikayo ephawuliwe kuya emzileni oya kuwo ohambisanayo."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Indlela Ejika Ngesobunxele Enezindlela Ezimbili",
+"description":"Umzila ophakathi ohlanganyelwe osetshenziswa yizimoto ezivela kunoma iyiphi indlela lapho zilungiselela ukujika ngakwesobunxele."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Ukujika kwe-U",
+"description":"Indlela yokujika imoto ukuze ihambe ngakolunye uhlangothi isebenzisa imizila ezayo."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Indlela Yokudlula",
+"description":"Umzila owengeziwe womgwaqo ovumela ithrafikhi esheshayo ukuthi idlule izimoto ezihamba kancane ngokuphepha."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Indlela Yokuma Ezimweni Eziphuthumayo",
+"description":"Ihlombe lomgwaqo omkhulu ligcinelwe ukuma okuphuthumayo noma izinkinga zezimoto, hhayi ukushayela noma ukudlula okuvamile."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Indlela Yokusheshisa",
+"description":"Umzila osetshenziselwa ukwandisa isivinini nokulinganisa ukuhamba kwezimoto ngaphambi kokungena emgwaqweni."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Indlela Yokunciphisa Ijubane",
+"description":"Umzila osetshenziselwa ukunciphisa isivinini lapho uphuma emgwaqweni omkhulu noma emgwaqweni omkhulu."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Ukuhlanganisa",
+"description":"Inqubo ehlanganyelwe yokuhlanganisa izimoto ngokuphephile lapho imigwaqo emibili ihlangana khona ibe yinye."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Indawo Yokulukwa",
+"description":"Umzila ohlanganyelwe lapho ithrafikhi engena khona ishesha khona kuyilapho ithrafikhi ephumayo incipha."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"I-Skid",
+"description":"Ukulahlekelwa ukulawula imoto okubangelwa ukuncipha kokubambelela kwamathayi."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"I-Braking Skid",
+"description":"Ukushelela okubangelwa ukubhuleka kubopha amasondo emoto ngaphandle kwe-ABS."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"I-Power Skid",
+"description":"Ukushelela okubangelwa ukusheshisa ngokushesha okukhulu nokwenza amasondo okushayela ajikeleze."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"I-Skid Ekhoneni",
+"description":"Ukushelela eceleni okubangelwa ukuhamba ngokushesha kakhulu ngenkathi ujika."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Ukuhambisa amanzi",
+"description":"Ukulahlekelwa ukuthintana kwamatayara nomgwaqo omanzi, okungabangela ukulahlekelwa ukulawula imoto."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Iqhwa Elimnyama",
+"description":"Ungqimba lweqhwa olubonakala kalula lwakheka lapho umswakama ubanda emgwaqweni."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Ukuvuselelwa Kwangaphandle Komgwaqo",
+"description":"Inqubo elawulwayo yokunciphisa nokubuyela kancane kancane emgwaqweni ngemva kokushiya umgwaqo ogandayiwe."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Izibani Zesexwayiso Sengozi",
+"description":"Izibani ezikhanyayo ezinezindlela ezine ezisetshenziswa ukuxwayisa abanye ukuthi imoto imisiwe noma ibeka ingozi."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Ukushayela Okusebenzayo",
+"description":"Ukubikezela izingozi nokuthatha isinyathelo kusenesikhathi ukuze kuncishiswe, kuncishiswe, noma kugwenywe ingozi."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Isikhathi Sokuhola Esibonakalayo",
+"description":"Ibanga elilinganiswa ngemizuzwana umshayeli aliskena kusengaphambili ukuze anikeze isikhathi sokuphendula ezingozini."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Ingozi Elungisiwe",
+"description":"Isimo somgwaqo esihlala njalo, njengejika, igquma, impambano-mgwaqo, noma indlela yokungena efihliwe."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Ingozi Eguquguqukayo",
+"description":"Isimo esishintshayo, njengabahamba ngezinyawo, izindawo ezineqhwa, izimoto zezimo eziphuthumayo, noma izibani eziluhlaza ezidala."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Ukushayela Okuphazamisekile",
+"description":"Ukushayela ngenkathi ukunaka kuphambukiswa yimisebenzi efana nokusebenzisa ifoni, ukuthumela imiyalezo, ukufunda, amadivayisi okwenza izinhlelo, noma ukuzilungisa."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Isihlalo Sokuphepha Kwengane",
+"description":"Isithiyo esivunyelwe esikhethwe ngokweminyaka noma isisindo sengane futhi safakwa ngokwemiyalelo yomenzi."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"I-UAS/LATCH",
+"description":"Uhlelo lwe-anchor olusetshenziswa kabanzi ukubopha izihlalo zokuphepha zezingane ezihambisanayo emotweni."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Isihlalo Sokukhuthaza",
+"description":"Isihlalo esivunyiwe esibeka ingane endaweni efanele ukuze isebenzise ibhande lesihlalo semoto."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Umsebenzisi Womgwaqo Osengozini",
+"description":"Umgibeli ohamba ngezinyawo, ohamba ngebhayisikili, noma ohamba ngesithuthuthu ongenalo ukuvikelwa ngokomzimba okungaphansi komuntu ohamba emotweni evalekile."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Izibani ze-Amber zebhasi lesikole",
+"description":"Izibani zokuxwayisa ezishintshashintshayo ezibonisa ukuthi ibhasi lesikole liyehla futhi lilungiselela ukuma."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Izibani Ezibomvu Zebhasi Lesikole",
+"description":"Izibani ezishintshanayo ezidinga ukuthi ithrafikhi efanele ime ngenkathi abafundi bengena, bephuma, noma bewela eduze kwebhasi."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Izibani Zesexwayiso Nge-Snowpp",
+"description":"Izibani ezibomvu neziphuzi ezikhanyayo ezibonisa ukuthi igeja leqhwa lisebenza phambili."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Ukuwela Kwesitimela",
+"description":"Indawo lapho umgwaqo uwela khona imizila yesitimela futhi abashayeli kumele bavumele izitimela."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Isitimela i-Crossbuck",
+"description":"Uphawu lokuwela isitimela olunomfanekiso we-X oludinga abashayeli ukuba balandele izitimela."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Ukuhamba Ngesitimela Esilula (LRT)",
+"description":"Uhlelo lwesitimela olusebenzisa ugesi oluthule olunezindawo zokuwela okumele ziphathwe njengezinye izindawo zokuwela zesitimela."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Umcimbi Womngcwabo",
+"description":"Umugqa wezimoto eziqoqene eduze ezinezibani zokukhanyisa ezingase zihambe ndawonye phakathi kwemigwaqo lapho ziphephile."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Ukushayela Okungaphilile",
+"description":"Ukusebenzisa imoto ngenkathi uphuza utshwala, usebenzisa izidakamizwa, usebenzisa imithi, noma esinye isimo kunciphisa ikhono lokushayela."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Izijeziso Ezisheshayo Eziseceleni Komgwaqo (IRS)",
+"description":"Uhlelo lwezijeziso zokuphatha lwase-Alberta olukhulayo ngenxa yokushayela kabi."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"I-IRS ZERO: Osanda Kuqala",
+"description":"Uhlelo lokungabekezeleli utshwala nezidakamizwa lwabafundi beBanga lesi-7 kanye nabashayeli beBanga lesi-5-GDL."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"I-IRS ZERO: Ezentengiselwano",
+"description":"Uhlelo lokungabekezeleli nhlobo utshwala nezidakamizwa lwabashayeli bezentengiselwano abasebenza ngendlela yezentengiselwano."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"I-IRS: ISEXWAYISO",
+"description":"Izijeziso eziseceleni komgwaqo ziyasebenza lapho izinga lotshwala egazini lomshayeli lifinyelela umkhawulo wesixwayiso ochaziwe."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"I-IRS: YEHLULEKA",
+"description":"Izijeziso ezinkulu eziseceleni komgwaqo ezisebenza ekuphazamisekeni kwezinga lobugebengu, ukugxila okuvinjelwe, noma ukwenqatshwa kwesidingo esisemthethweni."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Idivayisi Yokukhiya I-Ignition",
+"description":"Idivayisi elinganisa utshwala bokuphefumula nokuvimbela imoto ukuthi iqale lapho ukufundwa kudlula umkhawulo wayo."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"Imigwaqo Ephephile e-Alberta",
+"description":"Igatsha lokuphatha elibukeza izinselelo zezijeziso zokushayela ezikhubazekile zesifundazwe kanye nokubanjwa kwezimoto."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Inqubo Yokucatshangelwa Kabusha Kombhalisi",
+"description":"Inqubo esetshenziswa ukucela ukubuyekezwa kwezinqumo zokuphatha zokushayela okungenazo izinkinga."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Amaketanga Okuphepha E-trailer",
+"description":"Amaketanga aboshelwe ngokuphephile ahlanganiswe ngaphansi kolimi lwe-trailer ukuze kuhlinzekwe ukuxhumana kwesibili."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Uhlelo Lokuphunyuka Kwezimo Eziphuthumayo",
+"description":"Uhlelo lokuphepha lwethreyila oluklanyelwe ukusebenza uma ithreyila ihlukana nemoto edonswayo."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Ukungalandeli",
+"description":"Ukuthambekela kwamasondo enqola yokulandela indlela engaphakathi kwendlela ethathwa amasondo emoto edonsayo."
+}
+]

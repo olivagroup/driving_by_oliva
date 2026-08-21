@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Haydovchilik guvohnomasini olish bo`yicha bitiruvchi (GDL)",
+"description":"Alberta shtatining bosqichma-bosqich litsenziyalash dasturi yangi haydovchilarga nazorat ostida sharoitlarda ko`nikma va tajriba orttirish imkonini beradi."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"7-sinf o`quvchisi guvohnomasi",
+"description":"Birinchi GDL bosqichi, o`rganuvchi sharoitida nazorat ostida haydashga imkon beradi."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"5-sinf GDL litsenziyasi",
+"description":"Alberta GDL dasturining ikkinchi bosqichida olingan sinov muddati litsenziyasi."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"To`liq 5-sinf litsenziyasi",
+"description":"Yengil avtomobillar va boshqa tegishli yengil transport vositalarini mustaqil boshqarishga ruxsat beruvchi GDL bo`lmagan litsenziya."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Bilim sinovi",
+"description":"Yo`l harakati qoidalari, xavfsiz haydash amaliyoti va yo`l belgilari bo`yicha kompyuterlashtirilgan ko`p tanlovli test."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Yo`l sinovi",
+"description":"Transport vositalarini boshqarish, kuzatish, hukm chiqarish va yo`l qoidalariga rioya qilishni amaliy baholash."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Ko`rishni baholash",
+"description":"Haydovchining Alberta shtatining minimal ko`rish standartlariga javob berishini tasdiqlovchi majburiy tekshiruv."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Ro`yxatga olish agenti",
+"description":"Litsenziyalash, ro`yxatdan o`tish, sinovdan o`tkazish va litsenziyalarni yangilash kabi xizmatlarni ko`rsatuvchi vakolatli Alberta ofisi."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Haydovchi imtihonchisi",
+"description":"Yo`l sinovlarini o`tkazish va abituriyentlarda zarur haydash ko`nikmalari bor-yo`qligini baholash vakolatiga ega shaxs."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Havo tormozi tasdiqlanishi (Q)",
+"description":"Faqat havo bilan ishlaydigan yoki havo va gidravlik tormozlarning kombinatsiyalangan tizimiga ega transport vositalarini boshqarish uchun litsenziya tasdiqnomasi talab qilinadi."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Shart kodi",
+"description":"Tuzatuvchi linzalar kabi maxsus haydovchilik talabini aniqlash uchun haydovchilik guvohnomasiga qo`yiladigan kod."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Tasdiqlash kodeksi",
+"description":"Haydovchining maxsus tayyorgarlikdan o`tganligini yoki maxsus jihozlangan transport vositalarini boshqarishi mumkinligini ko`rsatuvchi kod."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Kamchilik ballari",
+"description":"Yo`l harakati qoidalarini buzganlik uchun sudlanganidan keyin haydovchilik guvohnomasiga qarshi qayd etilgan ballar."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Haydovchining qisqacha mazmuni",
+"description":"Haydovchilik guvohnomasi, haydovchilik guvohnomasidan mahrum qilish va boshqa litsenziya ma`lumotlarini ko`rsatuvchi rasmiy yozuv."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Yo`l harakati nazorati signali",
+"description":"Chorrahalarda yoki qo`shilish yo`llarida transport oqimini boshqarish uchun ishlatiladigan qizil, sariq yoki yashil chiroq."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Qattiq qizil chiroq",
+"description":"To`xtash chizig`i, piyodalar o`tish joyi yoki chorrahadan oldin to`liq to`xtashni talab qiluvchi signal."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Qattiq sariq chiroq",
+"description":"Agar to`xtash xavfsiz bo`lmasa, signal qizil rangga o`zgarayotgani va haydovchilar to`xtashlari kerakligi haqida ogohlantirish."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Yashil chiroq",
+"description":"Chorahadan o`tishga ruxsat beruvchi va yo`l berishni talab qiluvchi signal."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Miltillovchi qizil chiroq",
+"description":"To`xtash belgisi kabi qabul qilinadigan, to`liq to`xtashni va keyin davom etishdan oldin taslim bo`lishni talab qiladigan signal."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Miltillovchi sariq chiroq",
+"description":"Haydovchilarga transport vositalari va piyodalarga yo`l bergandan keyin ehtiyotkorlik bilan harakatlanishga imkon beruvchi signal."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Yashil chiroq miltillaydi",
+"description":"Haydovchilarning qonuniy yo`l foydalanuvchilariga yo`l berishlarini talab qilib, to`xtamasdan harakatlanishga yoki burilishga ruxsat beruvchi signal."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Yo`lakni burish signali",
+"description":"Ko`rsatilgan yo`nalishda bo`lak yopiq yoki mavjud ekanligini bildiruvchi qizil X yoki yashil strelka."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Normativ belgi",
+"description":"Yo`l foydalanuvchilari nima qilishi kerakligi yoki nima qilmasligi kerakligini ko`rsatuvchi belgi, jumladan, tezlik, burilish, to`xtash joyi va kirish qoidalari."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Ogohlantirish belgisi",
+"description":"Xavf, yo`l holati, chorraha, o`tish joyi yoki zarur harakatlar haqida oldindan xabar beruvchi belgi."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Ruxsat beruvchi belgi",
+"description":"Ko`rsatilgan harakatga ruxsat berilganligini ko`rsatuvchi yashil doirali oq kvadrat."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Taqiqlovchi belgi",
+"description":"Ko`rsatilgan harakat taqiqlanganligini ko`rsatuvchi qizil doira va diagonal chiziqli oq belgi."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"To`xtash belgisi",
+"description":"Xavfsiz harakatlanishdan oldin to`liq to`xtashni va taslim bo`lishni talab qiluvchi tartibga soluvchi belgi."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Yo`l berish belgisi",
+"description":"Haydovchidan tezlikni sekinlashtirishni, to`xtashga tayyor bo`lishni va kerak bo`lganda yo`l berishni talab qiluvchi belgi."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Tezlik cheklovi",
+"description":"Ideal sharoitlarda ruxsat etilgan maksimal tezlik, yomon sharoitlarda xavfsiz tezlik bo`lishi shart emas."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Maktab zonasi",
+"description":"Maxsus tezlik va o`tish cheklovlari qo`llaniladigan maktab belgisi va tezlik chegarasi bilan belgilangan hudud."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Maktab hududi",
+"description":"Haydovchilarni ehtiyot bo`lishga ogohlantiruvchi, tezlik belgisi o`rnatilmagan maktab belgisi bilan belgilangan hudud."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Bolalar maydonchasi zonasi",
+"description":"O`yin maydonchasi belgisi va tezlik chegarasi o`rnatilgan, tezlikni kamaytirish va o`tish cheklovlari qo`llaniladigan hudud."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Bolalar maydonchasi maydoni",
+"description":"Bolalar yaqin atrofda bo`lishi mumkinligi haqida ogohlantiruvchi, tezlik belgisi bo`lmagan o`yin maydonchasi belgisi bilan belgilangan hudud."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Qurilish zonasi",
+"description":"Yo`l harakati xavfsizligi qoidalariga, ogohlantirish belgilariga va bayroq ko`rsatmalariga rioya qilinishi kerak bo`lgan ish maydoni."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Band qilingan yo`lak",
+"description":"Avtobuslar, taksilar, velosipedlar yoki ko`p odam sig`adigan transport vositalari kabi muayyan yo`l foydalanuvchilari uchun mo`ljallangan yo`lak."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Qattiq chiziq",
+"description":"Odatda o`tish yoki yo`lakni almashtirish uchun kesishishni taqiqlovchi yo`l belgisi."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Singan chiziq",
+"description":"Xavfsiz bo`lganda, o`tish yoki yo`lakni almashtirish uchun o`tish joyidan o`tishga ruxsat beruvchi yo`l belgisi."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Sariq chiziq",
+"description":"Qarama-qarshi yo`nalishlarda harakatlanayotgan transport vositalarini ajratib turuvchi yo`l belgisi."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Oq chiziq",
+"description":"Bir yo`nalishda harakatlanayotgan transport vositalarini ajratib turuvchi yo`l belgisi."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"To`xtash chizig`i",
+"description":"Transport vositasi chorrahada yoki temir yo`l kesishmasida qayerda to`xtashi kerakligini ko`rsatuvchi yo`l belgisi."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Piyodalar o`tish joyi",
+"description":"Piyodalar o`tish joyi va haydovchilar kerak bo`lganda yo`l berishi kerak bo`lgan belgilangan yoki belgilanmagan joy."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Velosiped yo`lagi",
+"description":"Velosipedchilar uchun ajratilgan, avtotransport vositalari faqat ruxsat etilgan joylarda, masalan, burilish uchun kirishi mumkin bo`lgan belgilangan yo`lak."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Umumiy foydalanishdagi yo`lak",
+"description":"Haydovchilarga velosipedchilar bir xil yo`lakdan foydalanishlari mumkinligini eslatish uchun belgilangan harakatlanish yo`lagi."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Ko`r nuqta",
+"description":"Avtomobilning yonida yoki biroz orqasida, oynada ko`rinmaydigan joy."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Yelka tekshiruvi",
+"description":"Ko`zgularda ko`rinmaydigan joyni tekshirish uchun yelka ustidan bir qarash."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Kosmik yostiq",
+"description":"Xavflarni to`xtatish yoki oldini olish uchun transport vositasi atrofida ajratilgan ochiq joy."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Masofadan keyin",
+"description":"Avtomobilingiz va oldingi transport vositasi o`rtasida saqlangan vaqt va makon."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Ikki soniya qoidasi",
+"description":"Oddiy yo`l va ob-havo sharoitida tavsiya etilgan minimal vaqt."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Idrok vaqti",
+"description":"Vaziyatni anglash va to`xtash yoki boshqa javob choralari zarurligini tushunish uchun zarur bo`lgan vaqt."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Reaksiya vaqti",
+"description":"Oyoqni gaz pedalidan tormozga o`tkazish kabi xavfga javob berish uchun zarur bo`lgan vaqt."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Tormozlash masofasi",
+"description":"Avtomobil tormoz bosilgandan keyin to`xtaguncha bosib o`tadigan masofa."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Umumiy to`xtash masofasi",
+"description":"Idrok, reaksiya va tormozlash paytida bosib o`tilgan umumiy masofa."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Ostona tormozlash",
+"description":"G`ildiraklar qulflanishidan oldin to`liq tormozlash, rulni boshqarish qobiliyatini saqlab qolish."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Tormozlashga qarshi tizim (ABS)",
+"description":"G`ildirak qulflanishining oldini olish va rul boshqaruvini saqlab qolish uchun tormoz bosimini aylantiruvchi tizim."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Ishqalanish nuqtasi",
+"description":"Mexanik uzatmalar qutisi dvigatel quvvatini g`ildiraklarga ulashni boshlaydigan debriyaj holati."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Debriyajda yurish",
+"description":"Debriyaj pedaliga keraksiz ravishda oyoq qo`yish, bu esa qo`shimcha debriyaj aşınmasına olib keladi."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Parallel to`xtash joyi",
+"description":"Transport vositalari orasidagi bo`shliqda yo`l chetiga parallel ravishda to`xtash joyi."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Burchakli to`xtash joyi",
+"description":"Odatda transport harakati bo`lagiga taxminan 45 daraja burchak ostida, diagonal ravishda joylashgan to`xtash joyida to`xtash."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Perpendikulyar to`xtash joyi",
+"description":"Yo`l chetiga 90 graduslik burchak ostida joylashgan to`xtash joyida to`xtash."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Yo`l huquqi",
+"description":"Qaysi yo`l foydalanuvchisi yo`l berishi va qaysi biri davom etishi mumkinligini belgilovchi qoidalar."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Boshqariladigan chorraha",
+"description":"Yo`l belgilari, svetoforlar yoki ikkalasi bilan tartibga solingan chorraha."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Nazoratsiz chorraha",
+"description":"Haydovchilar odatda o`ng tomondagi transport vositasiga yo`l beradigan belgilar yoki svetoforlarsiz chorraha."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Xushmuomalalik burchagi",
+"description":"Uch yoki to`rt tomonlama to`xtash joyi bo`lib, unda birinchi bo`lib yetib kelgan transport vositasi birinchi bo`lib harakatlanadi yoki yetib kelgan transport vositalari bir vaqtning o`zida harakatlanganda o`ngdagi transport vositasi harakatlanadi."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Aylanma yo`l",
+"description":"Trafik soat miliga teskari yo`nalishda harakatlanadigan va kiruvchi transport vositalari allaqachon ichkarida bo`lgan transport vositalariga yo`l beradigan aylanma chorraha."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Aylanma yo`l",
+"description":"Pastroq tezlikni rag`batlantirish uchun torroq egri chiziqlar bilan yaratilgan aylana shaklidagi chorraha."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Ikki qatorli burilish",
+"description":"Ikkita belgilangan burilish bo`lagidan biridan tegishli manzil bo`lagiga qilingan burilish."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Chapga burilish uchun ikki tomonlama yo`lak",
+"description":"Chapga burilishga tayyorgarlik ko`rayotganda har ikki yo`nalishdagi transport vositalari foydalanadigan umumiy markaziy bo`lak."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"U-burilish",
+"description":"Qarama-qarshi yo`nalishda harakatlanish uchun transport vositasini qarama-qarshi yo`nalishda qarama-qarshi yo`nalishda harakatlanadigan manevr."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"O`tish yo`lagi",
+"description":"Tezroq transport vositalarining sekinroq transport vositalarini xavfsiz o`tib ketishiga imkon beruvchi qo`shimcha avtomagistral bo`lagi."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Favqulodda to`xtash yo`lagi",
+"description":"Magistral yo`l cheti shoshilinch to`xtashlar yoki transport vositalari bilan bog`liq muammolar uchun ajratilgan, oddiy haydash yoki o`tib ketish uchun emas."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Tezlanish yo`lagi",
+"description":"Yoʻlga qoʻshilishdan oldin tezlikni oshirish va transport oqimiga moslashish uchun ishlatiladigan boʻlak."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Sekinlashuv yo`lagi",
+"description":"Magistral yoki asosiy yo`ldan chiqishda tezlikni kamaytirish uchun ishlatiladigan yo`lak."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Birlashish",
+"description":"Ikkita yo`l bitta yo`lga birlashganda, transportni xavfsiz ravishda aralashtirishning umumiy jarayoni."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"To`quv zonasi",
+"description":"Kirish tezligi tezlashadigan va chiqish tezligi sekinlashadigan umumiy yo`lak."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Skid",
+"description":"Shinalar tortish kuchining pasayishi natijasida transport vositasini boshqarishning yo`qolishi."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Tormozlash moslamasi",
+"description":"ABS tizimisiz transport vositasining g`ildiraklarini tormozlash paytida yuzaga keladigan sirpanish."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Power Skid",
+"description":"Juda tez tezlashish va haydovchi g`ildiraklarining aylanishi natijasida yuzaga keladigan sirpanish."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Burilishga chiqish",
+"description":"Burilish paytida juda tez harakatlanish natijasida yon tomonga siljish."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Gidroplanlash",
+"description":"Shinalarning nam yo`l yuzasi bilan aloqasini yo`qotishi, bu esa transport vositasini boshqarishni yo`qotishiga olib kelishi mumkin."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Qora muz",
+"description":"Yo`lda namlik muzlaganda hosil bo`lgan ko`rish qiyin bo`lgan muz qatlami."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Yo`ldan tashqarida tiklash",
+"description":"Yo`l chetidan chiqib ketgandan so`ng, sekinlashish va asta-sekin yo`lga qaytishning boshqariladigan jarayoni."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Xavf haqida ogohlantirish chiroqlari",
+"description":"Transport vositasi to`xtaganligi yoki xavf tug`dirayotganligi haqida boshqalarni ogohlantirish uchun ishlatiladigan to`rt tomonlama miltillovchi chiroqlar."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Proaktiv haydash",
+"description":"Xavflarni oldindan bilish va xavfni kamaytirish, minimallashtirish yoki oldini olish uchun erta harakat qilish."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Vizual yetakchilik vaqti",
+"description":"Haydovchi xavf-xatarlarga javob berish uchun vaqt berish uchun oldinga qarab ko`rib chiqadigan masofa soniyalarda o`lchanadi."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Ruxsat etilgan xavf",
+"description":"Yo`lning doimiy holati, masalan, egri chiziq, tepalik, chorraha yoki yashirin kirish yo`li."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"O`zgaruvchan xavf",
+"description":"Piyodalar, muzlagan yuzalar, favqulodda vaziyatlar mashinalari yoki eskirgan yashil chiroqlar kabi o`zgaruvchan sharoitlar."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Chalg`igan haydash",
+"description":"Telefondan foydalanish, SMS yozish, o`qish, dasturlash yoki tashqi ko`rinish kabi harakatlar diqqatni chalg`itib, mashina haydashni talab qiladi."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Bolalar uchun xavfsizlik o`rindig`i",
+"description":"Bolaning yoshi yoki vazni uchun tanlangan va ishlab chiqaruvchining ko`rsatmalariga muvofiq o`rnatilgan tasdiqlangan cheklovchi vosita."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"Bolalar uchun mos keladigan xavfsizlik o`rindiqlarini transport vositasiga mahkamlash uchun ishlatiladigan universal langar tizimi."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Kuchaytirgich o`rindig`i",
+"description":"Bolani transport vositasining xavfsizlik kamaridan to`g`ri foydalanish uchun to`g`ri joylashtiradigan tasdiqlangan o`rindiq."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Zaif yo`l foydalanuvchisi",
+"description":"Yopiq transport vositasida yashovchiga qaraganda kamroq jismoniy himoyaga ega bo`lgan piyoda, velosipedchi yoki mototsiklchi."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Maktab avtobusining sariq chiroqlari",
+"description":"Maktab avtobusi sekinlashayotganini va to`xtashga tayyorlanayotganini ko`rsatuvchi ogohlantirish chiroqlarining o`zgaruvchan yonishi."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Maktab avtobusining qizil chiroqlari",
+"description":"Talabalar avtobusga kirish, chiqish yoki avtobus yaqinida yo`lni kesib o`tish paytida tegishli transport vositalarining to`xtashini talab qiluvchi o`zgaruvchan svetoforlar."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Qor tozalash mashinasining ogohlantirish chiroqlari",
+"description":"Oldinda qor tozalagich ishlayotganini bildiruvchi sariq va qizil chiroqlarning miltillashi."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Temir yo`l kesishmasi",
+"description":"Yo`l temir yo`l izlarini kesib o`tadigan va haydovchilar poyezdlarga yo`l berishi kerak bo`lgan joy."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Temir yo`l krossbuki",
+"description":"Haydovchilardan poyezdlarga yo`l berishni talab qiluvchi X shaklidagi temir yo`l kesishmasi belgisi."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Yengil temir yo`l transporti (LRT)",
+"description":"O`tish joylari boshqa temir yo`l o`tish joylari kabi ko`rib chiqilishi kerak bo`lgan jim elektr energiyasi bilan ishlaydigan temir yo`l tizimi."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Dafn marosimi",
+"description":"Xavfsiz bo`lganda chorrahadan birga o`tishi mumkin bo`lgan, faralar yoqilgan transport vositalarining bir-biriga yaqin qatori."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Nogironlik bo`yicha haydash",
+"description":"Alkogol, giyohvand moddalar, dori-darmonlar yoki boshqa kasalliklar ta`sirida transport vositasini boshqarish haydash qobiliyatini pasaytiradi."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Yo`l chetidagi darhol sanksiyalar (IRS)",
+"description":"Alberta shtatida mast holda haydash uchun ma`muriy jarima dasturi kuchaytirilmoqda."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERO: Yangi boshlovchi",
+"description":"7-sinf o`quvchilari va 5-sinf GDL haydovchilari uchun alkogol va giyohvand moddalarga nisbatan nol tolerantlik dasturi."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS ZERO: Tijorat",
+"description":"Tijorat maqsadida ishlaydigan tijorat haydovchilari uchun alkogol va giyohvand moddalarga nisbatan nol tolerantlik dasturi."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: OGOHLANTIRISH",
+"description":"Haydovchining qonida alkogol miqdori belgilangan ogohlantirish chegarasiga yetganda qo`llaniladigan yo`l chetidagi sanksiyalar."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: MUVAFFAQIYATSIZ",
+"description":"Jinoiy darajadagi nogironlik, taqiqlangan konsentratsiyalar yoki qonuniy talabni rad etish uchun qo`llaniladigan jiddiy yo`l chetidagi sanksiyalar."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Ateşleme blokirovka qurilmasi",
+"description":"Nafasdagi alkogol miqdorini o`lchaydigan va ko`rsatkich chegaradan oshib ketganda transport vositasining ishga tushishini oldini oluvchi qurilma."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"Alberta Xavfsiz Yo`llar",
+"description":"Viloyatda nogironlik bo`yicha transport vositasini boshqarish uchun jarimalar va transport vositalarini musodara qilish bo`yicha da`volarni ko`rib chiqadigan ma`muriy bo`lim."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Ro`yxatga oluvchini qayta ko`rib chiqish jarayoni",
+"description":"Bu jarayon nogironligi bo`lmagan haydovchilarga oid ma`muriy qarorlarni ko`rib chiqishni so`rash uchun ishlatilgan."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Treyler xavfsizlik zanjirlari",
+"description":"Ikkilamchi ulanishni ta`minlash uchun tirkama tili ostidan o`tkazilgan mahkamlangan zanjirlar."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Favqulodda vaziyatlardan qochish tizimi",
+"description":"Treyler trosdan ajralgan taqdirda ishga tushirish uchun mo`ljallangan treyler xavfsizlik tizimi."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Kuzatuvdan tashqari",
+"description":"Tirkama g`ildiraklarining tros transport vositasi g`ildiraklari bosib o`tadigan yo`l ichidagi yo`ldan yurishga moyilligi."
+}
+]

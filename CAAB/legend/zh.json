@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"分级驾驶执照制度(GDL)",
+"description":"阿尔伯塔省分阶段发放驾照的计划,允许新司机在受控条件下获得技能和经验。"
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"7级学习驾照",
+"description":"第一阶段 GDL,允许在学员条件下进行监督驾驶。"
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"5级GDL驾照",
+"description":"在阿尔伯塔省 GDL 计划第二阶段持有的临时驾照。"
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"完整的5级驾照",
+"description":"非分级驾驶执照,允许独立驾驶汽车和其他符合条件的轻型车辆。"
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"知识测试",
+"description":"一项涵盖道路规则、安全驾驶规范和道路标志的计算机化多项选择题测试。"
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"路测",
+"description":"对车辆操控、观察、判断和遵守道路规则的能力进行实际评估。"
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"视力评估",
+"description":"一项必要的检查,以确认驾驶员符合阿尔伯塔省的最低视力标准。"
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"注册代理人",
+"description":"艾伯塔省授权办事处,提供执照颁发、注册、考试和执照更新等服务。"
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"驾驶考官",
+"description":"有权进行路考并评估申请人是否具备所需驾驶技能的人员。"
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"气刹资格认证(Q)",
+"description":"驾驶仅使用空气制动或气液组合制动的车辆需要获得相应的驾驶执照。"
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"条件代码",
+"description":"驾照上用于识别特殊驾驶要求(例如佩戴矫正眼镜)的代码。"
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"背书代码",
+"description":"该代码表明驾驶员已完成特定培训或可以驾驶特制车辆。"
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"扣分",
+"description":"因违反某些交通法规而被定罪后,驾驶记录中将被记分。"
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"驾驶员摘要",
+"description":"一份官方记录,显示驾驶记录中的违章记录、吊销驾照记录和其他驾照信息。"
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"交通控制信号",
+"description":"用于控制十字路口或汇合道路交通流量的红灯、黄灯或绿灯。"
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"持续的红色灯光",
+"description":"信号灯要求车辆在停止线、人行横道或十字路口前完全停止。"
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"持续的黄色灯光",
+"description":"警告信号灯即将变为红色,驾驶员必须停车,除非无法安全停车。"
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"持续绿灯",
+"description":"允许车辆通过路口,但仍需遵守相应让行规则的信号灯。"
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"闪烁的红灯",
+"description":"如同停车标志一样的信号,要求完全停车并让行后方可继续行驶。"
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"闪烁的黄灯",
+"description":"允许驾驶员在礼让车辆和行人后谨慎行驶的信号。"
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"闪烁的绿灯",
+"description":"允许车辆行驶或转弯而不停车的信号,同时要求驾驶员礼让合法道路使用者。"
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"车道反转信号",
+"description":"上方会显示一个红色 X 或绿色箭头,指示该车道在指定方向上是否封闭或可用。"
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"监管标志",
+"description":"指示道路使用者必须或不得做什么的标志,包括速度、转弯、停车和通行规则。"
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"警告标志",
+"description":"用于提前告知危险、路况、十字路口、过街处或所需采取的行动的标志。"
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"许可标志",
+"description":"白色方块内有一个绿色圆圈,表示允许执行所示操作。"
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"禁止标志",
+"description":"白色标志上画着红色圆圈和斜杠,表示禁止进行所示行为。"
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"停车标志",
+"description":"交通标志,要求完全停车并让行后才能安全通行。"
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"让行标志",
+"description":"要求驾驶员减速、做好停车准备并在必要时让行的标志。"
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"速度极限",
+"description":"这是理想条件下的最高合法速度,在恶劣条件下不一定是安全速度。"
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"学校区域",
+"description":"设有学校标志和限速标志的区域,该区域有特殊的速度和超车限制。"
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"学校区域",
+"description":"学校标志牌标记的区域内没有附带限速标志牌,提醒驾驶员谨慎驾驶。"
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"游乐场区域",
+"description":"设有游乐场标志和限速标志的区域,该区域实行限速和超车限制。"
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"游乐场区域",
+"description":"一个设有游乐场标志但没有限速标志的区域,提醒附近可能有儿童。"
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"施工区域",
+"description":"道路施工区域,必须遵守限速规定、警告标志和交通指挥员的指示。"
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"专用车道",
+"description":"专用于特定道路使用者的车道,例如公共汽车、出租车、自行车或高乘载车辆。"
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"实线",
+"description":"一种路面标线,通常禁止穿越该标线超车或变换车道。"
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"折线",
+"description":"允许在安全的情况下穿越、超车或变换车道的路面标记。"
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"黄线",
+"description":"用于分隔双向行驶车辆的路面标线。"
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"白线",
+"description":"用于分隔同方向行驶车辆的路面标线。"
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"停止线",
+"description":"路面标线,指示车辆在十字路口或铁路道口必须停车的位置。"
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"人行横道",
+"description":"行人过马路时,无论是否划线,驾驶员都必须按规定让行的区域。"
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"自行车道",
+"description":"一条专为自行车骑行者预留的专用车道,机动车只有在允许的情况下才能驶入,例如转弯。"
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"共享车道",
+"description":"行车道上设有标志,提醒驾驶员骑自行车的人也可以使用同一车道。"
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"盲点",
+"description":"车辆旁边或稍后方,从后视镜中看不到的区域。"
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"肩部检查",
+"description":"快速回头瞥一眼后视镜看不到的区域。"
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"太空垫",
+"description":"车辆周围保持开放空间,以便停车或避开危险。"
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"保持距离",
+"description":"您的车辆与前方车辆之间保持的时间和空间。"
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"两秒规则",
+"description":"在正常道路和天气条件下,建议的最短跟车时间。"
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"感知时间",
+"description":"识别情况并理解需要停车或其他应对措施所需的时间。"
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"反应时间",
+"description":"应对危险所需的时间,例如将脚从油门移到刹车上的时间。"
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"刹车距离",
+"description":"车辆从刹车到停止所行驶的距离。"
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"总停车距离",
+"description":"感知、反应和制动过程中行驶的总距离。"
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"阈值制动",
+"description":"用力刹车,直到车轮即将抱死,但仍能保持转向能力。"
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"防抱死制动系统(ABS)",
+"description":"一种通过循环控制制动压力来防止车轮抱死并保持转向控制的系统。"
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"摩擦点",
+"description":"手动变速器开始将发动机动力传递到车轮的离合器位置。"
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"离合器的使用",
+"description":"不必要地将脚放在离合器踏板上,会导致离合器磨损加剧。"
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"平行停车",
+"description":"将车停在路缘石旁边,停在两辆车之间的空位上。"
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"斜角停车",
+"description":"将车停在斜向的停车位上,通常与车道呈大约 45 度角。"
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"垂直停车",
+"description":"将车停在与路缘呈 90 度角的停车位上。"
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"通行权",
+"description":"规定哪些道路使用者必须让行,哪些道路使用者可以通行的规则。"
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"受控交叉路口",
+"description":"由交通标志、交通信号灯或两者共同控制的交叉路口。"
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"无控制路口",
+"description":"一个没有标志或信号灯的十字路口,驾驶员通常需要让右侧车辆先行。"
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"礼宾角",
+"description":"三向或四向停车,先到的车辆先行,或者当两车同时到达时,右侧车辆先行。"
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"环岛",
+"description":"环形交叉路口,车辆逆时针行驶,驶入车辆必须让行已在路口内的车辆。"
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"迂回",
+"description":"圆形交叉路口采用更急的弯道设计,旨在降低车速。"
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"双车道转弯",
+"description":"从两条标有转弯线的其中一条转弯进入其对应的目的地车道。"
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"双向左转车道",
+"description":"左转时,双向车辆共用的中央车道。"
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"U型转弯",
+"description":"车辆掉头,利用对向车道向相反方向行驶的操作。"
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"超车道",
+"description":"增加一条高速公路车道,使速度较快的车辆能够安全超越速度较慢的车辆。"
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"紧急停车道",
+"description":"高速公路路肩是为紧急停车或车辆故障而预留的,不适用于正常行驶或超车。"
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"加速车道",
+"description":"用于提高车速并与车流速度相匹配,然后再并入主路的专用车道。"
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"减速车道",
+"description":"用于在驶出高速公路或主要道路时降低车速的车道。"
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"合并",
+"description":"两条道路汇合为一条道路时,安全融合交通的共享过程。"
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"编织区",
+"description":"一条共用车道,驶入车道的车流加速,驶出车道的车流减速。"
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"滑行",
+"description":"轮胎抓地力下降导致车辆失控。"
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"刹车打滑",
+"description":"车辆在没有防抱死制动系统(ABS)的情况下,刹车时车轮抱死会导致车辆打滑。"
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"动力滑移",
+"description":"车辆因加速过快导致驱动轮空转而打滑。"
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"转弯侧滑",
+"description":"转弯时速度过快导致的侧滑。"
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"水滑",
+"description":"轮胎与湿滑路面失去接触,可能导致车辆失控。"
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"黑冰",
+"description":"路面上的水分冻结后会形成一层难以察觉的冰层。"
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"越野救援",
+"description":"车辆离开路面后,缓慢减速并逐渐返回路面的受控过程。"
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"危险警告灯",
+"description":"四向闪光灯用于警告他人车辆已停止或存在危险。"
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"主动驾驶",
+"description":"预见危险并及早采取行动,以减少、最小化或避免危险。"
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"视觉提前时间",
+"description":"驾驶员向前扫描以预留时间应对危险的距离,以秒为单位进行测量。"
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"固定危险",
+"description":"道路的永久性状况,例如弯道、坡道、十字路口或隐蔽车道。"
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"可变风险",
+"description":"路况变化,例如行人、结冰路面、紧急车辆或长时间的绿灯。"
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"分心驾驶",
+"description":"开车时注意力被诸如使用手机、发短信、阅读、操作设备或梳妆打扮等活动分散。"
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"儿童安全座椅",
+"description":"选择适合儿童年龄或体重的合格安全座椅,并按照制造商的说明进行安装。"
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"一种通用的锚固系统,用于将兼容的儿童安全座椅固定到车辆上。"
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"增高座椅",
+"description":"经认证的儿童座椅,能够正确地将儿童固定在车辆安全带的位置上。"
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"弱势道路使用者",
+"description":"行人、骑自行车者或摩托车骑手,其身体防护能力不如封闭式车辆内的乘员。"
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"校车琥珀色警示灯",
+"description":"交替闪烁的警示灯表明校车正在减速并准备停车。"
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"校车红灯",
+"description":"交替亮起的红绿灯要求相关车辆在学生上下车或穿过公交车附近时停车。"
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"除雪车警示灯",
+"description":"闪烁的琥珀色和红色警示灯表明前方有除雪车正在作业。"
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"铁路道口",
+"description":"道路与铁路交叉的地点,驾驶员必须让行火车。"
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"铁路十字旗",
+"description":"X形铁路道口标志,要求驾驶员避让火车。"
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"轻轨交通(LRT)",
+"description":"一种安静的电力驱动铁路系统,其道口必须像其他铁路道口一样对待。"
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"葬礼队伍",
+"description":"一列紧密排列、打开车灯的车辆,在安全的情况下可以一起通过十字路口。"
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"酒后驾驶",
+"description":"在酒精、毒品、药物或其他导致驾驶能力下降的情况下驾驶车辆。"
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"立即路边处罚(IRS)",
+"description":"阿尔伯塔省针对酒后驾驶的行政处罚力度不断加大。"
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERO:新手",
+"description":"针对7级学员和5级GDL驾驶员的零容忍酒精和毒品计划。"
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS ZERO:商业",
+"description":"针对从事商业运营的商业驾驶员,实行零容忍的酒精和毒品管制计划。"
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"美国国税局:警告",
+"description":"当驾驶员血液酒精浓度达到规定的警告阈值时,将采取路边处罚措施。"
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"美国国税局:失败",
+"description":"对于达到刑事处罚级别的驾驶能力受损、血液酒精浓度超标或拒绝合法检查,将采取严厉的路边处罚措施。"
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"点火联锁装置",
+"description":"一种测量呼气酒精含量的装置,当读数超过阈值时,会阻止车辆启动。"
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"阿尔伯塔省安全道路",
+"description":"负责审查对省级酒后驾驶处罚和车辆扣押提出异议的行政部门。"
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"注册官复议流程",
+"description":"用于请求对非酒驾行政决定进行复审的流程。"
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"拖车安全链",
+"description":"牢固连接的链条交叉固定在拖车舌下方,以提供辅助连接。"
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"紧急脱离系统",
+"description":"一种拖车安全系统,设计用于在拖车与牵引车辆分离时启动。"
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"偏离轨道",
+"description":"拖车车轮倾向于沿着牵引车辆车轮行驶路径的内侧行驶。"
+}
+]

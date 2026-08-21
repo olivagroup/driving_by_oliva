@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Cấp giấy phép lái xe theo từng giai đoạn (GDL)",
+"description":"Chương trình cấp giấy phép lái xe theo từng giai đoạn của Alberta cho phép người lái xe mới tích lũy kỹ năng và kinh nghiệm trong điều kiện được kiểm soát."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Giấy phép học lái xe hạng 7",
+"description":"Giai đoạn GDL đầu tiên, cho phép lái xe có người hướng dẫn trong điều kiện học lái."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Bằng lái xe hạng 5-GDL",
+"description":"Giấy phép lái xe tạm thời được cấp trong giai đoạn thứ hai của chương trình GDL của Alberta."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Bằng lái xe hạng 5 đầy đủ",
+"description":"Giấy phép lái xe không thuộc hệ thống GDL cho phép tự lái xe ô tô và các loại xe hạng nhẹ khác đủ điều kiện."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Bài kiểm tra kiến thức",
+"description":"Bài kiểm tra trắc nghiệm trên máy tính bao gồm các quy tắc giao thông, kỹ năng lái xe an toàn và biển báo giao thông."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Thử nghiệm trên đường",
+"description":"Đánh giá thực tiễn về khả năng điều khiển xe, quan sát, phán đoán và tuân thủ luật giao thông đường bộ."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Đánh giá thị lực",
+"description":"Kiểm tra bắt buộc nhằm xác nhận rằng người lái xe đáp ứng các tiêu chuẩn thị lực tối thiểu của Alberta."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Đại lý đăng ký",
+"description":"Văn phòng được ủy quyền tại Alberta cung cấp các dịch vụ như cấp phép, đăng ký, kiểm tra và cập nhật giấy phép."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Người kiểm tra bằng lái xe",
+"description":"Người được ủy quyền tiến hành các bài kiểm tra lái xe và đánh giá xem người đăng ký có đủ kỹ năng lái xe cần thiết hay không."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Chứng chỉ phanh hơi (Q)",
+"description":"Cần có giấy phép bổ sung để vận hành các loại xe có hệ thống phanh chỉ bằng khí nén hoặc kết hợp khí nén và thủy lực."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Mã điều kiện",
+"description":"Mã số được dán trên giấy phép lái xe để xác định yêu cầu lái xe đặc biệt, chẳng hạn như kính điều chỉnh thị lực."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Mã xác nhận",
+"description":"Mã số này cho thấy người lái xe đã hoàn thành khóa đào tạo cụ thể hoặc được phép vận hành các phương tiện được trang bị đặc biệt."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Điểm trừ",
+"description":"Điểm phạt sẽ được ghi vào hồ sơ lái xe sau khi bị kết án về một số lỗi vi phạm giao thông nhất định."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Tóm tắt hồ sơ lái xe",
+"description":"Hồ sơ chính thức ghi lại các vi phạm giao thông, việc bị đình chỉ giấy phép lái xe và các thông tin khác liên quan đến giấy phép."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Tín hiệu điều khiển giao thông",
+"description":"Đèn đỏ, vàng hoặc xanh lá cây được sử dụng để điều khiển luồng giao thông tại các giao lộ hoặc các đoạn đường nhập làn."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Đèn đỏ sáng liên tục",
+"description":"Tín hiệu yêu cầu dừng hẳn trước vạch dừng, vạch dành cho người đi bộ hoặc giao lộ."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Ánh sáng vàng đặc",
+"description":"Đây là tín hiệu cảnh báo đèn giao thông chuyển sang màu đỏ và người lái xe phải dừng lại trừ khi việc dừng xe không thể thực hiện một cách an toàn."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Đèn xanh lục đặc",
+"description":"Tín hiệu cho phép xe di chuyển qua giao lộ nhưng vẫn yêu cầu nhường đường khi cần thiết."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Đèn đỏ nhấp nháy",
+"description":"Tín hiệu này được xử lý như biển báo dừng, yêu cầu dừng hẳn và nhường đường trước khi tiếp tục di chuyển."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Đèn vàng nhấp nháy",
+"description":"Một tín hiệu cho phép người lái xe tiếp tục di chuyển thận trọng sau khi đã nhường đường cho các phương tiện giao thông và người đi bộ."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Đèn xanh nhấp nháy",
+"description":"Tín hiệu cho phép di chuyển hoặc rẽ mà không cần dừng lại, đồng thời yêu cầu người lái xe nhường đường cho người tham gia giao thông hợp pháp."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Tín hiệu đảo chiều làn đường",
+"description":"Biểu tượng chữ X màu đỏ hoặc mũi tên màu xanh lá cây phía trên cho biết làn đường đó có bị đóng hay không theo hướng được chỉ định."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Biển báo quy định",
+"description":"Biển báo chỉ rõ những điều người tham gia giao thông được phép hoặc không được phép làm, bao gồm tốc độ, rẽ, đỗ xe và các quy tắc tiếp cận."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Biển báo cảnh báo",
+"description":"Biển báo cung cấp thông báo trước về mối nguy hiểm, tình trạng đường sá, giao lộ, đoạn đường băng qua hoặc hành động cần thiết."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Dấu hiệu cho phép",
+"description":"Một hình vuông màu trắng với một vòng tròn màu xanh lá cây cho thấy hành động được chỉ định là được phép."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Biển báo cấm",
+"description":"Một biển báo màu trắng có vòng tròn màu đỏ và vạch chéo cho thấy hành động được chỉ định là bị cấm."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Biển báo dừng",
+"description":"Biển báo quy định yêu cầu dừng hẳn và nhường đường trước khi tiếp tục di chuyển an toàn."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Biển báo nhường đường",
+"description":"Biển báo yêu cầu người lái xe giảm tốc độ, chuẩn bị dừng lại và nhường đường khi cần thiết."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Giới hạn tốc độ",
+"description":"Tốc độ tối đa cho phép trong điều kiện lý tưởng, không nhất thiết là tốc độ an toàn trong điều kiện thời tiết xấu."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Khu vực trường học",
+"description":"Khu vực được đánh dấu bằng biển báo trường học và biển báo giới hạn tốc độ, nơi áp dụng các quy định đặc biệt về tốc độ và vượt xe."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Khu vực trường học",
+"description":"Khu vực này được đánh dấu bằng biển báo trường học nhưng không có biển báo tốc độ kèm theo, cảnh báo người lái xe phải cẩn thận."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Khu vui chơi",
+"description":"Khu vực có biển báo sân chơi và biển báo giới hạn tốc độ, nơi áp dụng các quy định giảm tốc độ và vượt xe."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Khu vui chơi",
+"description":"Khu vực được đánh dấu bằng biển báo sân chơi nhưng không có biển báo tốc độ, cảnh báo rằng có thể có trẻ em ở gần đó."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Khu vực xây dựng",
+"description":"Khu vực thi công đường bộ, nơi phải tuân thủ tốc độ quy định, biển báo cảnh báo và chỉ dẫn của người điều khiển giao thông."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Làn đường dành riêng",
+"description":"Làn đường dành riêng cho các phương tiện giao thông cụ thể, chẳng hạn như xe buýt, taxi, xe đạp hoặc xe chở nhiều người."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Đường liền nét",
+"description":"Vạch kẻ đường thường dùng để cấm băng qua đường khi vượt hoặc chuyển làn."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Đường đứt đoạn",
+"description":"Vạch kẻ đường cho phép băng qua đường để vượt hoặc chuyển làn khi an toàn."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Đường màu vàng",
+"description":"Vạch kẻ đường phân chia giao thông đi ngược chiều."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Đường kẻ trắng",
+"description":"Vạch kẻ đường phân chia các phương tiện giao thông đi cùng chiều."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Vạch dừng",
+"description":"Vạch kẻ đường chỉ rõ vị trí xe phải dừng tại giao lộ hoặc đường ray xe lửa."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Vạch sang đường",
+"description":"Khu vực được đánh dấu hoặc không được đánh dấu, nơi người đi bộ băng qua đường và người lái xe phải nhường đường khi cần thiết."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Làn đường dành cho xe đạp",
+"description":"Làn đường dành riêng cho người đi xe đạp, xe cơ giới chỉ được phép đi vào khi có quy định, ví dụ như khi rẽ."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Làn đường dùng chung",
+"description":"Làn đường được đánh dấu để nhắc nhở người lái xe rằng người đi xe đạp cũng có thể sử dụng làn đường đó."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Điểm mù",
+"description":"Khu vực nằm bên cạnh hoặc hơi phía sau xe mà không thể nhìn thấy trong gương chiếu hậu."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Kiểm tra vai",
+"description":"Liếc nhanh qua vai để kiểm tra những khu vực không thể nhìn thấy trong gương chiếu hậu."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Đệm không gian",
+"description":"Khoảng không gian thoáng đãng được duy trì xung quanh xe để tạo chỗ dừng xe hoặc tránh chướng ngại vật."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Khoảng cách tiếp theo",
+"description":"Khoảng cách và thời gian được duy trì giữa xe của bạn và xe phía trước."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Quy tắc hai giây",
+"description":"Thời gian giữ khoảng cách tối thiểu được khuyến nghị trong điều kiện đường xá và thời tiết bình thường."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Thời gian nhận thức",
+"description":"Khoảng thời gian cần thiết để nhận biết tình huống và hiểu rằng cần phải dừng lại hoặc có phản ứng khác."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Thời gian phản ứng",
+"description":"Thời gian cần thiết để phản ứng với một mối nguy hiểm, chẳng hạn như chuyển chân từ bàn đạp ga sang bàn đạp phanh."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Khoảng cách phanh",
+"description":"Quãng đường mà một chiếc xe đi được sau khi phanh được sử dụng cho đến khi dừng hẳn."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Tổng quãng đường dừng",
+"description":"Tổng quãng đường di chuyển trong quá trình nhận biết, phản xạ và phanh."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Phanh ngưỡng",
+"description":"Phanh gấp ngay trước khi bánh xe bị khóa, giữ nguyên khả năng điều khiển tay lái."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Hệ thống phanh chống bó cứng (ABS)",
+"description":"Một hệ thống điều chỉnh áp suất phanh để giúp ngăn ngừa hiện tượng bó cứng bánh xe và duy trì khả năng điều khiển lái."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Điểm ma sát",
+"description":"Vị trí ly hợp, nơi hộp số sàn bắt đầu truyền lực từ động cơ đến bánh xe."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Điều khiển côn",
+"description":"Việc đặt chân không cần thiết lên bàn đạp ly hợp sẽ gây thêm hao mòn cho ly hợp."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Đỗ xe song song",
+"description":"Đỗ xe song song với lề đường trong khoảng trống giữa các xe khác."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Đỗ xe theo góc",
+"description":"Đỗ xe ở vị trí chéo, thường là tạo góc khoảng 45 độ so với làn đường giao thông."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Đỗ xe vuông góc",
+"description":"Đỗ xe vào chỗ đỗ xe vuông góc với lề đường."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Quyền ưu tiên",
+"description":"Các quy tắc xác định người tham gia giao thông nào phải nhường đường và người nào được phép đi tiếp."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Giao lộ có đèn tín hiệu",
+"description":"Giao lộ được điều tiết bởi biển báo giao thông, đèn tín hiệu giao thông, hoặc cả hai."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Giao lộ không có đèn tín hiệu",
+"description":"Giao lộ không có biển báo hoặc tín hiệu, nơi các tài xế thường nhường đường cho xe bên phải."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Góc Lịch sự",
+"description":"Giao lộ ba hoặc bốn chiều, trong đó xe đến trước được ưu tiên đi trước, hoặc xe bên phải được ưu tiên đi trước khi các xe đến cùng lúc."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Vòng xoay giao thông",
+"description":"Một giao lộ hình tròn nơi giao thông di chuyển ngược chiều kim đồng hồ và các phương tiện đi vào phải nhường đường cho các phương tiện đã ở bên trong."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Vòng xoay",
+"description":"Một nút giao thông hình tròn được thiết kế với các đường cong hẹp hơn để khuyến khích tốc độ thấp hơn."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Rẽ hai làn",
+"description":"Việc rẽ được thực hiện từ một trong hai làn đường rẽ được đánh dấu vào làn đường đích tương ứng."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Làn đường rẽ trái hai chiều",
+"description":"Làn đường giữa dùng chung cho các phương tiện giao thông từ cả hai hướng khi chuẩn bị rẽ trái."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Quay đầu xe",
+"description":"Một thao tác quay đầu xe để di chuyển theo hướng ngược lại bằng cách sử dụng làn đường ngược chiều."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Làn vượt",
+"description":"Thêm một làn đường cao tốc cho phép các phương tiện chạy nhanh hơn vượt qua các phương tiện chạy chậm hơn một cách an toàn."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Làn dừng khẩn cấp",
+"description":"Lề đường cao tốc chỉ dành cho việc dừng xe khẩn cấp hoặc sự cố xe cộ, không phải để lái xe bình thường hoặc vượt xe."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Làn tăng tốc",
+"description":"Làn đường này được sử dụng để tăng tốc và điều chỉnh cho phù hợp với lưu lượng giao thông trước khi nhập làn vào đường chính."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Làn giảm tốc",
+"description":"Làn đường dùng để giảm tốc độ khi rời khỏi đường cao tốc hoặc đường lớn."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Hợp nhất",
+"description":"Quy trình phối hợp an toàn giữa các phương tiện giao thông tại điểm hai tuyến đường nhập thành một."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Khu vực dệt",
+"description":"Một làn đường chung, nơi xe đi vào tăng tốc trong khi xe đi ra giảm tốc."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Trượt",
+"description":"Mất kiểm soát xe do độ bám đường của lốp giảm."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Phanh trượt",
+"description":"Hiện tượng trượt bánh xảy ra khi phanh gấp khiến bánh xe của xe không có hệ thống ABS bị khóa."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Trượt điện",
+"description":"Hiện tượng trượt bánh xảy ra do tăng tốc quá nhanh khiến bánh xe dẫn động bị quay trượt."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Trượt khi vào cua",
+"description":"Hiện tượng trượt ngang do di chuyển quá nhanh khi đang rẽ."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Trượt nước",
+"description":"Việc lốp xe mất tiếp xúc với mặt đường ướt có thể dẫn đến mất kiểm soát xe."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Băng đen",
+"description":"Một lớp băng khó nhìn thấy hình thành khi hơi nước đóng băng trên mặt đường."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Cứu hộ địa hình",
+"description":"Quá trình giảm tốc có kiểm soát và từ từ quay trở lại lòng đường sau khi rời khỏi vỉa hè."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Đèn cảnh báo nguy hiểm",
+"description":"Đèn báo hiệu bốn chiều nhấp nháy được sử dụng để cảnh báo người khác rằng xe đang dừng hoặc đang gây nguy hiểm."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Lái xe chủ động",
+"description":"Dự đoán các mối nguy hiểm và hành động sớm để giảm thiểu, hạn chế hoặc tránh rủi ro."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Thời gian dẫn đầu trực quan",
+"description":"Khoảng cách được đo bằng giây mà người lái xe quan sát phía trước để có thời gian phản ứng với các mối nguy hiểm."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Nguy hiểm cố định",
+"description":"Một đặc điểm cố định của đường sá, chẳng hạn như khúc cua, đồi dốc, giao lộ hoặc lối đi khuất."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Nguy cơ thay đổi",
+"description":"Những thay đổi về điều kiện, chẳng hạn như người đi bộ, mặt đường trơn trượt, xe cứu thương hoặc đèn xanh bị hỏng."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Lái xe mất tập trung",
+"description":"Lái xe trong khi bị phân tâm bởi các hoạt động như sử dụng điện thoại, nhắn tin, đọc sách, lập trình thiết bị hoặc trang điểm."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Ghế an toàn cho trẻ em",
+"description":"Đai an toàn đã được phê duyệt, lựa chọn phù hợp với độ tuổi hoặc cân nặng của trẻ và được lắp đặt theo hướng dẫn của nhà sản xuất."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"Hệ thống neo đa năng được sử dụng để cố định các ghế an toàn cho trẻ em tương thích vào xe."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Ghế nâng",
+"description":"Ghế ngồi ô tô đạt tiêu chuẩn, đảm bảo trẻ được đặt đúng tư thế để sử dụng dây an toàn của xe."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Người tham gia giao thông dễ bị tổn thương",
+"description":"Người đi bộ, người đi xe đạp hoặc người lái xe máy có khả năng tự vệ về thể chất thấp hơn so với người ngồi trong xe kín."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Đèn vàng xe buýt trường học",
+"description":"Đèn cảnh báo nhấp nháy báo hiệu xe buýt trường học đang giảm tốc độ và chuẩn bị dừng lại."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Đèn đỏ xe buýt trường học",
+"description":"Hệ thống đèn giao thông luân phiên yêu cầu các phương tiện có liên quan dừng lại khi học sinh lên, xuống hoặc băng qua đường gần xe buýt."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Đèn cảnh báo máy cày tuyết",
+"description":"Đèn màu hổ phách và đỏ nhấp nháy báo hiệu có xe dọn tuyết đang hoạt động phía trước."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Đường ray giao nhau",
+"description":"Địa điểm giao nhau giữa đường bộ và đường ray xe lửa, nơi người lái xe phải nhường đường cho tàu hỏa."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Đường ray giao nhau",
+"description":"Biển báo giao cắt đường sắt hình chữ X yêu cầu người lái xe nhường đường cho tàu hỏa."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Hệ thống đường sắt nhẹ (LRT)",
+"description":"Một hệ thống đường sắt chạy bằng điện hoạt động êm ái, các điểm giao cắt với đường sắt phải được xử lý như các điểm giao cắt đường sắt khác."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Đám rước tang lễ",
+"description":"Một hàng xe sát nhau, bật đèn pha, được phép cùng nhau đi qua giao lộ khi an toàn."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Lái xe khi say xỉn",
+"description":"Điều khiển phương tiện giao thông khi đang say rượu, sử dụng ma túy, thuốc men hoặc mắc các bệnh lý khác làm giảm khả năng lái xe."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Xử phạt khẩn cấp tại chỗ (IRS)",
+"description":"Chương trình xử phạt hành chính ngày càng tăng đối với hành vi lái xe khi say xỉn ở Alberta."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS ZERO: Người mới",
+"description":"Chương trình không khoan nhượng đối với rượu và ma túy dành cho người học lái xe hạng 7 và người lái xe hạng 5-GDL."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS ZERO: Thương mại",
+"description":"Chương trình không khoan nhượng đối với rượu và ma túy dành cho các tài xế thương mại làm việc trong lĩnh vực thương mại."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: CẢNH BÁO",
+"description":"Các biện pháp xử phạt tại chỗ sẽ được áp dụng khi nồng độ cồn trong máu của người lái xe đạt đến ngưỡng cảnh báo quy định."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"Sở Thuế vụ Hoa Kỳ (IRS): Thất bại",
+"description":"Các biện pháp xử phạt nghiêm khắc tại chỗ áp dụng cho các hành vi lái xe trong tình trạng say xỉn ở mức độ phạm tội, nồng độ cồn cho phép vượt quá quy định hoặc từ chối yêu cầu hợp pháp."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Thiết bị khóa khởi động",
+"description":"Thiết bị đo nồng độ cồn trong hơi thở và ngăn xe khởi động khi nồng độ cồn vượt quá ngưỡng cho phép."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"SafeRoads Alberta",
+"description":"Cơ quan hành chính có nhiệm vụ xem xét các khiếu nại đối với các hình phạt lái xe khi say rượu và việc tịch thu phương tiện của tỉnh."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Quy trình xem xét lại của Văn phòng Đăng ký",
+"description":"Quy trình được sử dụng để yêu cầu xem xét lại các quyết định hành chính liên quan đến việc lái xe không trong tình trạng say xỉn."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Dây xích an toàn cho rơ moóc",
+"description":"Các dây xích được buộc chặt và bắt chéo bên dưới càng kéo rơ moóc để tạo ra một kết nối thứ cấp."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Hệ thống ngắt khẩn cấp",
+"description":"Hệ thống an toàn cho rơ moóc được thiết kế để kích hoạt nếu rơ moóc tách rời khỏi xe kéo."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Lạc hướng",
+"description":"Xu hướng bánh xe rơ moóc đi theo một đường vòng bên trong đường đi của bánh xe xe kéo."
+}
+]

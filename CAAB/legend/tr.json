@@ -1,0 +1,662 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Kademeli Sürücü Belgesi (GDL)",
+"description":"Alberta`nın aşamalı ehliyet programı, yeni sürücülerin kontrollü koşullar altında beceri ve deneyim kazanmalarına olanak tanır."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"7. Sınıf Sürücü Adayı Belgesi",
+"description":"GDL`nin ilk aşaması, öğrenci şartlarında denetimli sürüşe izin verir."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"5. Sınıf GDL Lisansı",
+"description":"Alberta`nın GDL programının ikinci aşamasında alınan geçici ehliyet."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Tam Sınıf 5 Ehliyeti",
+"description":"Otomobillerin ve diğer uygun hafif araçların bağımsız olarak kullanılmasına izin veren, GDL gerektirmeyen bir ehliyet."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Bilgi Testi",
+"description":"Trafik kuralları, güvenli sürüş uygulamaları ve trafik işaretlerini kapsayan, bilgisayar ortamında hazırlanmış çoktan seçmeli bir test."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Yol testi",
+"description":"Araç kullanımı, gözlem, muhakeme ve trafik kurallarına uyma konularında pratik bir değerlendirme."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Görme Değerlendirmesi",
+"description":"Sürücünün Alberta`nın asgari görme standartlarını karşıladığını doğrulayan zorunlu bir kontrol."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Kayıt Temsilcisi",
+"description":"Alberta`da yetkili bir ofis olup, lisanslama, kayıt, sınav ve lisans güncelleme gibi hizmetler sunmaktadır."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Sürücü Sınav Görevlisi",
+"description":"Sürüş sınavlarını yapmaya ve adayların gerekli sürüş becerilerine sahip olup olmadığını değerlendirmeye yetkili kişi."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Havalı Fren Onayı (Q)",
+"description":"Sadece havalı veya hem havalı hem de hidrolik fren sistemine sahip araçları kullanmak için gerekli bir ehliyet onayı."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Durum Kodu",
+"description":"Gözlük gibi özel sürüş gereksinimlerini belirtmek için ehliyete yerleştirilen bir kod."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Onay Kodu",
+"description":"Sürücünün belirli bir eğitimi tamamladığını veya özel donanımlı araçları kullanabileceğini gösteren bir kod."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Ceza Puanları",
+"description":"Belirli trafik suçlarından dolayı verilen mahkumiyet kararlarının ardından sürücü belgesine işlenen ceza puanları."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Sürücünün Özeti",
+"description":"Sürüşle ilgili mahkumiyetleri, ehliyet askıya alma durumlarını ve diğer ehliyet bilgilerini gösteren resmi kayıt."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Trafik Kontrol Sinyali",
+"description":"Kavşaklarda veya birleşen yollarda trafik akışını kontrol etmek için kullanılan kırmızı, sarı veya yeşil ışık."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Katı Kırmızı Işık",
+"description":"Durma çizgisine, yaya geçidine veya kavşağa gelmeden önce tamamen durmayı gerektiren sinyal."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Katı Sarı Işık",
+"description":"Sinyalin kırmızıya döndüğüne ve sürücülerin güvenli bir şekilde durmanın mümkün olmadığı durumlar dışında durmaları gerektiğine dair bir uyarı."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Düz Yeşil Işık",
+"description":"Kavşaktan geçişe izin veren ancak yine de geçerli yol verme kuralını gerektiren bir sinyal."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Yanıp Sönen Kırmızı Işık",
+"description":"Dur işareti gibi işleyen, tamamen durmayı ve ardından yol vermeyi gerektiren bir sinyal."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Yanıp Sönen Sarı Işık",
+"description":"Trafik ve yayalara yol verdikten sonra sürücülerin dikkatli bir şekilde ilerlemesine olanak tanıyan bir sinyal."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Yanıp Sönen Yeşil Işık",
+"description":"Sürücülerin yasal yol kullanıcılarına yol vermesini gerektirirken, durmadan hareket etmeye veya dönüş yapmaya izin veren bir sinyal."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Şerit Değiştirme Sinyali",
+"description":"Belirtilen yönde bir şeridin kapalı mı yoksa açık mı olduğunu kontrol eden, yukarıdan işaretlenmiş kırmızı bir X veya yeşil bir ok."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Düzenleyici İşaret",
+"description":"Yol kullanıcılarının yapması ve yapmaması gerekenleri, hız, dönüş, park ve giriş-çıkış kurallarını gösteren bir işaret."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Uyarı İşareti",
+"description":"Bir tehlike, yol durumu, kavşak, geçiş noktası veya yapılması gereken eylem hakkında önceden bilgi veren bir işaret."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"İzin Veren İşaret",
+"description":"Belirtilen eylemin izin verildiğini gösteren, içinde yeşil bir daire bulunan beyaz bir kare."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Yasak İşareti",
+"description":"Belirtilen eylemin yasak olduğunu gösteren, içinde kırmızı bir daire ve çapraz çizgi bulunan beyaz bir işaret."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Dur İşareti",
+"description":"Yola devam etmeden önce tamamen durmayı ve yol vermeyi gerektiren bir trafik işareti."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Yol Ver İşareti",
+"description":"Sürücünün yavaşlamasını, durmaya hazır olmasını ve gerektiğinde geçiş hakkı vermesini gerektiren bir işaret."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Hız Limiti",
+"description":"İdeal koşullar altında yasal olarak izin verilen azami hız, kötü koşullar altında mutlaka güvenli bir hız anlamına gelmez."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Okul Bölgesi",
+"description":"Okul tabelası ve hız sınırı levhası bulunan, özel hız ve geçiş kısıtlamalarının uygulandığı alan."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Okul Bölgesi",
+"description":"Üzerinde hız levhası bulunmayan, okul tabelasıyla işaretlenmiş bir alan; bu alan sürücüleri dikkatli olmaları konusunda uyarıyor."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Oyun Alanı Bölgesi",
+"description":"Oyun alanı tabelası ve hız sınırı levhası bulunan, hız sınırlaması ve sollama kısıtlamalarının uygulandığı bir alan."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Oyun Alanı",
+"description":"Üzerinde hız sınırı levhası bulunmayan, çocukların yakınlarda olabileceği uyarısını veren bir oyun alanı levhasıyla işaretlenmiş bir alan."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"İnşaat alanı",
+"description":"Yol yapım çalışması yapılan ve hız sınırlarının, uyarı işaretlerinin ve yönlendirme görevlilerinin talimatlarına uyulması gereken bir alan."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Ayrılmış Şerit",
+"description":"Otobüsler, taksiler, bisikletler veya yüksek kapasiteli araçlar gibi belirli yol kullanıcıları için ayrılmış şerit."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Düz Çizgi",
+"description":"Genellikle sollama veya şerit değiştirme amacıyla karşıya geçmeyi yasaklayan bir yol işaretlemesi."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Kırık Çizgi",
+"description":"Güvenli olduğunda geçişe veya şerit değiştirmeye izin veren yol işaretlemesi."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Sarı Çizgi",
+"description":"Karşı yönlerde ilerleyen trafiği ayıran yol işaretlemesi."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Beyaz Çizgi",
+"description":"Aynı yönde ilerleyen trafiği ayıran yol işaretlemesi."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Durak Hattı",
+"description":"Bir kavşakta veya demiryolu geçidinde aracın durması gereken yeri gösteren yol işaretlemesi."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Yaya geçidi",
+"description":"Yayaların karşıdan karşıya geçtiği ve sürücülerin gerektiği gibi yol vermesi gereken, işaretli veya işaretsiz alan."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Bisiklet Yolu",
+"description":"Bisikletliler için ayrılmış, işaretlenmiş bir şerit; motorlu araçlar bu şeride yalnızca izin verilen yerlerde, örneğin dönüş yaparken, girebilir."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Ortak Kullanım Şeridi",
+"description":"Sürücülere bisikletlilerin de aynı şeridi kullanabileceğini hatırlatmak için işaretlenmiş bir trafik şeridi."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Kör nokta",
+"description":"Bir aracın yanında veya biraz arkasında kalan ve aynalarından görülemeyen alan."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Omuz Kontrolü",
+"description":"Aynalarda görünmeyen bir bölgeyi kontrol etmek için omuz üzerinden hızlıca bir bakış."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Uzay Yastığı",
+"description":"Bir aracın etrafında, durmak veya tehlikelerden kaçınmak için yeterli alan sağlamak amacıyla açık alan bırakılması."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Takip Mesafesi",
+"description":"Aracınız ile öndeki araç arasında korunan zaman ve mesafe."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"İki Saniye Kuralı",
+"description":"Normal yol ve hava koşullarında önerilen minimum takip süresi."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Algılama Süresi",
+"description":"Bir durumu fark etmek ve durmanın veya başka bir tepki vermenin gerekli olduğunu anlamak için gereken süre."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Tepki Süresi",
+"description":"Bir tehlikeye tepki vermek için gereken süre, örneğin ayağı gaz pedalından fren pedalına çekmek gibi."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Fren Mesafesi",
+"description":"Bir aracın frenleri uygulandıktan sonra durana kadar kat ettiği mesafe."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Toplam Durma Mesafesi",
+"description":"Algılama, tepki ve frenleme sırasında kat edilen toplam mesafe."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Eşik Frenleme",
+"description":"Tekerlekler kilitlenmeden hemen önceki noktaya kadar sert fren yaparak direksiyon hakimiyetini koruyun."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Kilitlenmeyi Önleyici Fren Sistemi (ABS)",
+"description":"Tekerleklerin kilitlenmesini önlemeye ve direksiyon kontrolünü korumaya yardımcı olmak için fren basıncını döngüsel olarak ayarlayan bir sistem."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Sürtünme Noktası",
+"description":"Manuel şanzımanda debriyajın, motor gücünün tekerleklere aktarılmaya başlandığı konum."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Debriyajı Kullanmak",
+"description":"Debriyaj pedalına gereksiz yere ayak basmak, debriyajda ek aşınmaya neden olur."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Paralel Park Etme",
+"description":"Araçlar arasında kalan ve kaldırıma paralel bir alana park edin."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Açısal Park Etme",
+"description":"Araç park yerlerinden birine çapraz olarak, genellikle trafik şeridine yaklaşık 45 derecelik bir açıyla park edin."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Dikine Park Etme",
+"description":"Kaldırıma 90 derecelik açıyla konumlandırılmış bir park yerine park edin."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Geçiş Hakkı",
+"description":"Hangi trafik kullanıcısının yol vermesi gerektiğini ve hangisinin ilerleyebileceğini belirleyen kurallar."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Kontrollü Kavşak",
+"description":"Trafik levhaları, trafik sinyalleri veya her ikisiyle de düzenlenen bir kavşak."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Kontrolsüz Kavşak",
+"description":"Trafik işaretlerinin veya sinyallerinin bulunmadığı, sürücülerin genellikle sağdaki araca yol verdiği bir kavşak."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Nezaket Köşesi",
+"description":"Üç veya dört yönlü bir kavşakta, ilk gelen araç önce geçer veya aynı anda gelen araçlar söz konusu olduğunda sağdaki araç önce geçer."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Trafik Kavşağı",
+"description":"Trafiğin saat yönünün tersine aktığı ve yeni giren araçların içerideki araçlara yol verdiği dairesel bir kavşak."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Dolambaçlı",
+"description":"Daha düşük hızları teşvik etmek amacıyla daha dar virajlarla tasarlanmış dairesel bir kavşak."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Çift Şeritli Dönüş",
+"description":"İşaretlenmiş iki dönüş şeridinden birinden, ilgili hedef şeride yapılan dönüş."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Çift Yönlü Sol Dönüş Şeridi",
+"description":"Sol dönüşe hazırlanırken her iki yönden gelen trafiğin kullandığı ortak orta şerit."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"U dönüşü",
+"description":"Bir aracın ters yönde, karşı şeritleri kullanarak ilerlemesini sağlayan manevra."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Geçiş Şeridi",
+"description":"Daha hızlı giden araçların daha yavaş giden araçları güvenli bir şekilde geçmesine olanak tanıyan ek bir otoyol şeridi."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Acil Durma Şeridi",
+"description":"Otoyolun emniyet şeridi, normal sürüş veya sollama için değil, acil duruşlar veya araç sorunları için ayrılmıştır."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Hızlanma Şeridi",
+"description":"Ana yola katılmadan önce hızı artırmak ve trafik akışına uyum sağlamak için kullanılan şerit."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Yavaşlama Şeridi",
+"description":"Otoyoldan veya ana yoldan çıkarken hızı düşürmek için kullanılan şerit."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Birleştirme",
+"description":"İki yolun birleştiği yerlerde trafiğin güvenli bir şekilde birleştirilmesi sürecinin paylaşımı."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Dokuma Bölgesi",
+"description":"Giriş yapan trafiğin hızlandığı, çıkış yapan trafiğin ise yavaşladığı ortak şerit."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Kayma",
+"description":"Lastiklerin yol tutuşunun azalması sonucu araç kontrolünün kaybedilmesi."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Frenleme Kayması",
+"description":"ABS sistemi olmayan bir araçta frenleme sırasında tekerleklerin kilitlenmesi sonucu oluşan kayma."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Güç Kaydırma",
+"description":"Çok hızlı ivmelenme sonucu tahrik tekerleklerinin patinaj yapmasıyla oluşan kayma."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Virajda Kayma",
+"description":"Dönüş yaparken çok hızlı gitmekten kaynaklanan yana doğru kayma."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Su üzerinde kayma",
+"description":"Islak yol yüzeyinde lastiklerin temasının kaybolması, araç kontrolünün kaybına neden olabilir."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Siyah Buz",
+"description":"Yol üzerindeki nemin donmasıyla oluşan, görülmesi zor bir buz tabakası."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Arazi Kurtarma",
+"description":"Asfalttan çıktıktan sonra yavaşlayarak ve kademeli olarak tekrar yola dönme sürecinin kontrollü bir şekilde gerçekleştirilmesi."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Tehlike Uyarı Lambaları",
+"description":"Dört yöne yanıp sönen ışıklar, bir aracın durduğunu veya tehlike oluşturduğunu diğerlerine bildirmek için kullanılır."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Proaktif Sürüş",
+"description":"Tehlikeleri önceden tahmin etmek ve tehlikeyi azaltmak, en aza indirmek veya önlemek için erken harekete geçmek."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Görsel Teslim Süresi",
+"description":"Sürücünün tehlikelere karşı tepki verebilmek için ileriyi tarayarak geçirdiği saniye cinsinden ölçülen mesafe."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Sabit Tehlike",
+"description":"Viraj, yokuş, kavşak veya gizli giriş yolu gibi kalıcı yol koşulları."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Değişken Tehlike",
+"description":"Değişen koşullar; örneğin yayalar, buzlu yüzeyler, acil durum araçları veya sönük yeşil ışıklar."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Dikkatsiz Sürüş",
+"description":"Telefon kullanımı, mesajlaşma, okuma, cihaz programlama veya kişisel bakım gibi faaliyetlerle dikkatin dağıldığı durumlarda araç kullanmak."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Çocuk Güvenlik Koltuğu",
+"description":"Çocuğun yaşına veya kilosuna uygun olarak seçilen ve üretici talimatlarına göre monte edilen onaylı bir emniyet kemeri."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"UAS/LATCH",
+"description":"Uyumlu çocuk güvenlik koltuklarını araca sabitlemek için kullanılan evrensel bir ankraj sistemi."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"Çocuk koltuğu",
+"description":"Araçtaki emniyet kemerinin kullanımı için çocuğu doğru pozisyonda tutan onaylı bir çocuk koltuğu."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Savunmasız Yol Kullanıcısı",
+"description":"Kapalı bir araç içindeki yolcuya kıyasla daha az fiziksel korumaya sahip bir yaya, bisikletçi veya motosiklet sürücüsü."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Okul Otobüsü Sarı Işıkları",
+"description":"Okul otobüsünün yavaşladığını ve durmaya hazırlandığını gösteren, dönüşümlü olarak yanıp sönen uyarı ışıkları."
+},
+{
+"id": 93,
+"englishName":"Legend",
+"category":"Okul Otobüsü Kırmızı Işıkları",
+"description":"Öğrencilerin otobüse binmesi, inmesi veya otobüsün yakınından geçmesi sırasında trafiğin durmasını gerektiren dönüşümlü trafik ışıkları."
+},
+{
+"id": 94,
+"englishName":"Legend",
+"category":"Kar küreme aracı uyarı ışıkları",
+"description":"İleride bir kar küreme aracının çalıştığını gösteren yanıp sönen sarı ve kırmızı ışıklar."
+},
+{
+"id": 95,
+"englishName":"Legend",
+"category":"Demiryolu Geçidi",
+"description":"Karayolunun demiryolu hatlarını kestiği ve sürücülerin trenlere yol vermesi gereken yer."
+},
+{
+"id": 96,
+"englishName":"Legend",
+"category":"Demiryolu Yaya Geçidi",
+"description":"Sürücülerin trenlere yol vermesini gerektiren X şeklinde bir demiryolu geçidi işareti."
+},
+{
+"id": 97,
+"englishName":"Legend",
+"category":"Hafif Raylı Sistem (LRT)",
+"description":"Sessiz, elektrikle çalışan bir raylı sistem olup, geçiş noktalarına diğer demiryolu geçiş noktaları gibi davranılmalıdır."
+},
+{
+"id": 98,
+"englishName":"Legend",
+"category":"Cenaze Alayı",
+"description":"Güvenli olduğunda kavşaktan birlikte geçebilecek, farları açık, birbirine yakın sıralanmış araçlar."
+},
+{
+"id": 99,
+"englishName":"Legend",
+"category":"Alkollü Araç Kullanma",
+"description":"Alkol, uyuşturucu, ilaç veya sürüş yeteneğini azaltan başka bir durum varken araç kullanmak."
+},
+{
+"id": 100,
+"englishName":"Legend",
+"category":"Anında Yol Kenarı Yaptırımları (IRS)",
+"description":"Alberta`da alkollü araç kullanmaya yönelik giderek artan idari ceza programı."
+},
+{
+"id": 101,
+"englishName":"Legend",
+"category":"IRS SIFIR: Acemi",
+"description":"7. sınıf ehliyet adayları ve 5. sınıf ehliyet sahipleri için sıfır toleranslı alkol ve uyuşturucu programı."
+},
+{
+"id": 102,
+"englishName":"Legend",
+"category":"IRS SIFIR: Ticari",
+"description":"Ticari amaçlı araç kullanan sürücüler için sıfır toleranslı alkol ve uyuşturucu programı."
+},
+{
+"id": 103,
+"englishName":"Legend",
+"category":"IRS: UYARI",
+"description":"Sürücünün kanındaki alkol oranı belirtilen uyarı eşiğine ulaştığında, yol kenarında uygulanacak yaptırımlar."
+},
+{
+"id": 104,
+"englishName":"Legend",
+"category":"IRS: BAŞARISIZ",
+"description":"Suç teşkil edecek düzeyde alkol etkisinde araç kullanma, yasaklanmış konsantrasyonlarda alkol bulundurma veya yasal bir talebi reddetme durumlarında ciddi trafik cezaları uygulanacaktır."
+},
+{
+"id": 105,
+"englishName":"Legend",
+"category":"Ateşleme Kilitleme Cihazı",
+"description":"Nefesteki alkol seviyesini ölçen ve ölçüm eşik değerini aştığında aracın çalışmasını engelleyen bir cihaz."
+},
+{
+"id": 106,
+"englishName":"Legend",
+"category":"SafeRoads Alberta",
+"description":"Eyalet düzeyindeki alkollü araç kullanma cezalarına ve araçlara el koyma işlemlerine yönelik itirazları inceleyen idari birim."
+},
+{
+"id": 107,
+"englishName":"Legend",
+"category":"Sicil Memuru Yeniden Değerlendirme Süreci",
+"description":"Alkol veya uyuşturucu etkisinde olmayan araç kullanma vakalarına ilişkin idari kararların incelenmesi talebinde bulunmak için kullanılan süreç."
+},
+{
+"id": 108,
+"englishName":"Legend",
+"category":"Treyler Emniyet Zincirleri",
+"description":"Treylerin çekme çubuğunun altından çapraz şekilde geçirilen sağlamca sabitlenmiş zincirler, ikincil bir bağlantı sağlar."
+},
+{
+"id": 109,
+"englishName":"Legend",
+"category":"Acil Durum Kopma Sistemi",
+"description":"Römorkun çekici araçtan ayrılması durumunda devreye girecek şekilde tasarlanmış bir römork güvenlik sistemi."
+},
+{
+"id": 110,
+"englishName":"Legend",
+"category":"Yoldan Çıkma",
+"description":"Römork tekerleklerinin, çekici aracın tekerleklerinin izlediği yolun içinde bir yol izleme eğilimi."
+}
+]
