@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Susunan Kata-kata dalam Kode Lalu Lintas. Memahami dan menerapkan aturan-aturan tersebut.",
+"description":"Menjelaskan bagaimana kata-kata HARUS, TIDAK BOLEH, sebaiknya, dan tidak boleh digunakan, serta tanggung jawab untuk mengetahui dan menerapkan Kode Lalu Lintas Jalan Raya."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Kendaraan tanpa pengemudi",
+"description":"Menjelaskan tanggung jawab hukum pengguna ketika kendaraan otonom sedang atau tidak sedang mengemudi sendiri."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Hierarki Pengguna Jalan",
+"description":"Menjelaskan bahwa pengguna jalan yang mampu menyebabkan kerusakan terbesar memiliki tanggung jawab terbesar untuk mengurangi bahaya."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Panduan umum (aturan 1 sampai 6)",
+"description":"Panduan keselamatan umum untuk pejalan kaki, termasuk trotoar, jarak pandang, dan jalur bersama."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Menyeberang jalan (aturan 7 sampai 17)",
+"description":"Kode Palang Hijau dan aturan untuk memilih tempat yang aman serta menyeberang jalan dengan aman."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Penyeberangan (aturan 18 sampai 30)",
+"description":"Aturan bagi pejalan kaki yang menggunakan penyeberangan zebra, pelikan, puffin, toucan, dan penyeberangan kuda."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Situasi yang membutuhkan perhatian ekstra (aturan 31 hingga 35)",
+"description":"Tindakan pencegahan ekstra untuk pejalan kaki yang rentan, kendaraan darurat, bus, dan perlintasan kereta api."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Kursi roda bertenaga dan skuter mobilitas (aturan 36 hingga 37)",
+"description":"Aturan penggunaan kursi roda bertenaga dan skuter mobilitas di trotoar dan jalan raya."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Di trotoar (aturan 38 sampai 40)",
+"description":"Aturan bagi pengguna skuter mobilitas dan kursi roda bertenaga listrik yang menggunakan trotoar dan area pejalan kaki."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Di jalan raya (aturan 41 sampai 46)",
+"description":"Aturan penggunaan jalan, penerangan, jarak pandang, dan keselamatan untuk kursi roda bertenaga dan skuter mobilitas."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Kendaraan yang ditarik kuda (aturan 47 sampai 48)",
+"description":"Panduan keselamatan, penerangan, rute, dan peralatan untuk pengemudi kendaraan yang ditarik kuda."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Penunggang kuda (aturan 49 sampai 55)",
+"description":"Aturan berkuda dengan aman, termasuk pakaian, perlengkapan, posisi di jalan, dan isyarat."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Hewan lainnya (aturan 56 sampai 58)",
+"description":"Aturan untuk anjing, hewan di dalam kendaraan, dan pengangkutan ternak di sepanjang jalan raya."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Gambaran Umum (aturan 59 hingga 72)",
+"description":"Aturan dasar bersepeda yang mencakup pakaian, perlengkapan, penerangan, posisi di jalan, jalur sepeda, dan rute bersama."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Persimpangan jalan (aturan 73 sampai 77)",
+"description":"Aturan bagi pesepeda yang mendekati dan melewati persimpangan, termasuk posisi dan prioritas."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Bundaran (aturan 78 sampai 80)",
+"description":"Aturan bagi pesepeda yang menggunakan bundaran, termasuk posisi lajur, pemberian sinyal, dan alternatif yang lebih aman."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Menyeberang jalan (aturan 81 sampai 82)",
+"description":"Aturan bagi pesepeda yang menggunakan penyeberangan khusus sepeda, penyeberangan burung toucan, dan penyeberangan kuda."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Umum (aturan 83 sampai 88)",
+"description":"Aturan umum sepeda motor yang mencakup perizinan, helm, pelindung mata, penumpang, dan jarak pandang di siang hari."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Kondisi kendaraan (aturan 89)",
+"description":"Peraturan ini mewajibkan pengendara sepeda motor untuk menjaga agar sepeda motor mereka layak jalan dan merawat ban, rem, lampu, dan kemudi."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Kelayakan mengemudi (aturan 90 sampai 94)",
+"description":"Aturan mengenai kelelahan, penyakit, penglihatan, konsentrasi, dan faktor-faktor lain yang memengaruhi kelayakan mengemudi."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkohol dan narkoba (aturan 95 sampai 96)",
+"description":"Melarang mengemudi dalam keadaan mabuk karena alkohol, narkoba ilegal, atau obat-obatan."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Sebelum berangkat (aturan 97)",
+"description":"Pemeriksaan sebelum perjalanan untuk memastikan kelayakan jalan kendaraan, jarak pandang, kontrol, pakaian, dan muatan yang aman."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Penarikan dan pemuatan kendaraan (aturan 98)",
+"description":"Aturan untuk muatan yang aman, batas penarikan, trailer, proyeksi, dan menghindari kelebihan muatan."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Sabuk pengaman dan pengaman anak (aturan 99 sampai 102)",
+"description":"Persyaratan hukum untuk sabuk pengaman, alat pengaman anak, dan pengangkutan anak yang aman."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Sinyal (aturan 103 sampai 106)",
+"description":"Aturan untuk memberikan sinyal yang jelas dan menafsirkan sinyal dari pengguna jalan lain."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Prosedur penghentian lainnya (aturan 107 hingga 112)",
+"description":"Arahan dari polisi dan petugas berwenang, kepatuhan terhadap lampu lalu lintas, dan penggunaan klakson."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Persyaratan pencahayaan (aturan 113 hingga 116)",
+"description":"Aturan yang mengatur lampu depan, lampu samping, lampu kabut, dan menghindari menyilaukan pengendara lain."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Pengendalian kendaraan (aturan 117 sampai 126)",
+"description":"Pengendalian kendaraan yang aman, pengereman, jarak berhenti, selip, meluncur, dan kepatuhan terhadap batas kecepatan."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Garis dan marka lajur di jalan raya (aturan 127 sampai 132)",
+"description":"Arti dan efek hukum dari garis tengah jalan, garis peringatan bahaya, garis putih ganda, garis lajur, dan tanda panah."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Jalan raya multi-jalur (aturan 133 hingga 143)",
+"description":"Disiplin lajur, perpindahan lajur, menanjak lajur, lajur bus, lajur sepeda, dan lajur kendaraan berpenumpang banyak."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Saran umum (aturan 144 hingga 158)",
+"description":"Perilaku mengemudi yang aman secara umum, memperhatikan orang lain, kecepatan, prioritas, dan menghindari gangguan."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Aturan umum (aturan 159 sampai 161)",
+"description":"Pengamatan, pemberian sinyal, dan pergerakan yang aman sebelum mulai bergerak atau memasuki lalu lintas."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Menyalip (aturan 162 sampai 169)",
+"description":"Aturan untuk menyalip dengan aman, termasuk jarak aman, lokasi terlarang, dan saat disalip."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Persimpangan jalan (aturan 170 sampai 183)",
+"description":"Aturan mendekati persimpangan, memberi jalan, berbelok, keluar dari persimpangan, dan menyeberang jalan."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Bundaran (aturan 184 sampai 190)",
+"description":"Aturan untuk mendekati bundaran, prioritas, pemilihan lajur, pemberian sinyal, dan meninggalkan bundaran."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Penyeberangan pejalan kaki (aturan 191 sampai 199)",
+"description":"Tanggung jawab pengemudi di penyeberangan zebra, pelikan, puffin, toucan, dan penyeberangan paralel."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Pembalikan (200 hingga 203)",
+"description":"Aturan untuk memeriksa lingkungan sekitar, mundur dengan aman, dan menghindari mundur secara berlebihan."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Gambaran umum (aturan 204)",
+"description":"Memperkenalkan kewajiban untuk melindungi pengguna jalan yang berada dalam risiko tertentu."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Pejalan kaki (aturan 205 sampai 210)",
+"description":"Berhati-hatilah di sekitar anak-anak, lansia, pejalan kaki penyandang disabilitas, dan orang yang menyeberang jalan."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Pengendara sepeda motor dan sepeda (aturan 211 sampai 213)",
+"description":"Pengawasan ekstra dan jarak aman di sekitar pengendara sepeda motor dan sepeda, terutama di persimpangan."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Pengguna jalan lainnya (aturan 214 sampai 218)",
+"description":"Berhati-hatilah di sekitar hewan, pengendara kuda, pengemudi pemula, dan pengguna jalan yang kurang berpengalaman."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Kendaraan lainnya (aturan 219 sampai 225)",
+"description":"Aturan untuk kendaraan darurat, kendaraan besar, bus, trem, dan kendaraan yang bergerak lambat."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Gambaran umum (aturan 226)",
+"description":"Mengharuskan pengemudi untuk beradaptasi dengan cuaca buruk dan menggunakan lampu yang sesuai saat jarak pandang berkurang."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Cuaca basah (aturan 227)",
+"description":"Panduan mengenai cengkeraman yang berkurang, jarak pengereman yang lebih panjang, cipratan air, aquaplaning, dan genangan air."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Cuaca dingin dan bersalju (aturan 228 hingga 231)",
+"description":"Aturan untuk mempersiapkan diri, mengemudi dengan lancar, dan menjaga kendali di atas es dan salju."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Cuaca berangin (aturan 232 sampai 233)",
+"description":"Panduan mengenai angin silang yang kuat dan pengguna jalan yang rentan terkena dampak hembusan angin."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Kabut (aturan 234 sampai 236)",
+"description":"Aturan tentang jarak pandang, kecepatan, jarak aman, dan penggunaan lampu kabut yang benar."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Cuaca panas (aturan 237)",
+"description":"Panduan mengenai bahaya permukaan jalan akibat panas dan cara menghindari panas berlebih."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Umum (aturan 238)",
+"description":"Aturan parkir umum, termasuk kepatuhan terhadap pembatasan dan menghindari bahaya atau halangan."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Parkir (aturan 239 sampai 247)",
+"description":"Aturan untuk parkir aman, berhenti di pinggir jalan, bongkar muat, tempat parkir untuk penyandang disabilitas, dan lokasi terlarang."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Parkir di malam hari (aturan 248 sampai 252)",
+"description":"Aturan parkir malam hari yang mencakup arah, pencahayaan, batas kecepatan, dan marka reflektif."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Penegakan Parkir yang Didekriminalisasi (DPE)",
+"description":"Menjelaskan penegakan hukum perdata terkait pembatasan parkir oleh pemerintah daerah."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Umum (aturan 253 sampai 254)",
+"description":"Aturan umum jalan tol, termasuk pengguna yang dilarang dan penerapan peraturan jalan tol."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Rambu-rambu jalan tol (aturan 255 sampai 258)",
+"description":"Arti dari rambu-rambu jalan tol, penutupan lajur dengan tanda X merah, dan batas kecepatan variabel."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Memasuki jalan tol (aturan 259)",
+"description":"Aturan penggunaan jalan masuk, penyesuaian kecepatan lalu lintas, dan pemberian prioritas kepada lalu lintas jalan tol."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Di jalan tol (aturan 260 sampai 263)",
+"description":"Mengemudi aman di jalan tol, menjaga jarak aman, pembatasan, dan penggunaan lajur."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Disiplin jalur (aturan 264 sampai 266)",
+"description":"Mewajibkan penggunaan lajur kiri kecuali saat menyalip dan mematuhi rambu-rambu lajur dengan aman."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Menyalip (aturan 267 sampai 268)",
+"description":"Aturan menyalip di jalan tol, termasuk pengamatan yang aman dan larangan menggunakan bahu jalan."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Bahu jalan (aturan 269)",
+"description":"Membatasi penggunaan bahu jalan hanya untuk keadaan darurat atau saat rambu-rambu membukanya sebagai jalur lalu lintas."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Penghentian (aturan 270 sampai 272)",
+"description":"Melarang berhenti di jalan tol kecuali dalam keadaan darurat atau jika diarahkan, dan menjelaskan penggunaan area darurat."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Meninggalkan jalan tol (aturan 273 sampai 274)",
+"description":"Aturan membaca rambu keluar, memberi sinyal, dan memasuki jalur keluar dengan aman."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Tempat yang relatif aman (aturan 275)",
+"description":"Menjelaskan cara mengidentifikasi dan mencapai lokasi yang lebih aman saat terjadi kerusakan atau keadaan darurat."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Kerusakan (aturan 276)",
+"description":"Tindakan yang harus dilakukan saat terjadi kerusakan kendaraan di jalan tol, termasuk meninggalkan kendaraan dengan aman dan menghubungi bantuan."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Aturan tambahan untuk jalan tol (aturan 277 sampai 279)",
+"description":"Panduan tambahan untuk kerusakan dan keadaan darurat, termasuk cara kembali ke lalu lintas dan penanganan kendaraan yang mogok."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Hambatan (aturan 280)",
+"description":"Tindakan yang harus diambil ketika menemui atau menyebabkan hambatan di jalan."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Insiden (aturan 281 sampai 283)",
+"description":"Langkah-langkah keselamatan di lokasi kejadian, koridor darurat, dan kepatuhan terhadap personel darurat."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Insiden yang melibatkan barang berbahaya (aturan 284 hingga 285)",
+"description":"Tindakan pencegahan dan persyaratan pelaporan ketika bahan berbahaya terlibat dalam suatu insiden."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Dokumentasi (aturan 286 hingga 287)",
+"description":"Tugas untuk berhenti, bertukar informasi, dan melaporkan tabrakan kepada polisi bila diperlukan."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Pekerjaan jalan (aturan 288)",
+"description":"Membutuhkan kehati-hatian ekstra, pengurangan kecepatan, dan kepatuhan terhadap rambu-rambu sementara dan pengaturan lajur di area pekerjaan jalan."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Aturan tambahan untuk jalan raya berkecepatan tinggi (aturan 289 hingga 290)",
+"description":"Aturan keselamatan tambahan untuk kerusakan dan insiden di jalan raya berkecepatan tinggi."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Perlintasan sebidang (aturan 291 sampai 299)",
+"description":"Aturan mendekati, menyeberangi, dan menanggapi lampu, palang pintu perlintasan kereta api."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Trem (aturan 300 sampai 307)",
+"description":"Aturan berbagi jalan dengan trem dan menghindari rel, peron, dan jalur trem yang telah ditentukan."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Sinyal lampu lalu lintas. Lampu merah berkedip. Sinyal pengatur lajur.",
+"description":"Arti dari lampu lalu lintas standar, sinyal berhenti merah berkedip, dan sinyal pengatur lajur."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Sinyal jalan tol",
+"description":"Arti dari rambu-rambu peringatan jalan tol, batas kecepatan variabel, penutupan lajur, dan petunjuk arah."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Lampu sein. Lampu rem. Lampu mundur. Lampu tangan. Lampu hazard.",
+"description":"Menjelaskan sinyal lampu dan lengan kendaraan yang digunakan untuk mengkomunikasikan pergerakan yang direncanakan dan bahaya."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Petugas polisi. Isyarat tangan kepada petugas pengatur lalu lintas. Petugas Badan Standar Pengemudi dan Kendaraan serta petugas lalu lintas. Patroli penyeberangan sekolah.",
+"description":"Sinyal dan instruksi yang diberikan oleh polisi, petugas lalu lintas yang berwenang, dan petugas penyeberangan sekolah."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Tanda-tanda yang memberi perintah",
+"description":"Rambu-rambu lalu lintas wajib dan larangan yang secara hukum wajib dipatuhi oleh pengguna jalan."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Tanda-tanda peringatan",
+"description":"Rambu-rambu yang memperingatkan bahaya, perubahan kondisi jalan, dan pengguna jalan yang rentan di depan."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Rambu penunjuk arah",
+"description":"Rambu-rambu yang menunjukkan rute, tujuan, tata letak persimpangan, nomor jalan, dan pengalihan lalu lintas."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Rambu informasi",
+"description":"Rambu berbentuk persegi panjang yang memberikan informasi tentang parkir, lajur, jalan tol, rute, dan fasilitas."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Rambu-rambu pekerjaan jalan",
+"description":"Rambu sementara yang memperingatkan tentang pekerjaan jalan, bahaya, penutupan lajur, batas kecepatan, dan sistem arus berlawanan."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Melintasi badan jalan. Sepanjang badan jalan. Di sepanjang tepi badan jalan. Di trotoar atau di tepi badan jalan. Marka jalan lainnya",
+"description":"Arti dari stop, give-way, lane, waiting, loading, Red Route, box-junction dan marka jalan lainnya."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Penandaan belakang kendaraan barang besar. Plat peringatan bahaya. Penanda proyeksi. Lainnya.",
+"description":"Penandaan kendaraan yang mengidentifikasi kendaraan berat, barang berbahaya, muatan yang menjorok, dan bus sekolah."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Kamu dan sepedamu",
+"description":"Pemilihan sepeda, perawatan, rem, lampu, reflektor, kondisi ban, dan pelatihan."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Persyaratan SIM sepeda motor. Kategori SIM untuk moped dan sepeda motor.",
+"description":"CBT, pembatasan bagi pelajar, tes, akses progresif, dan kategori lisensi AM, A1, A2, dan A."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Dokumen. Pengemudi pemula",
+"description":"Surat izin mengemudi, uji kelayakan kendaraan (MOT), asuransi, registrasi, pajak kendaraan, SORN, dan persyaratan pengemudi pemula."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Hukum lalu lintas jalan. Undang-undang dan peraturan sebelum tahun 1988. Undang-undang dan peraturan mulai tahun 1988 dan seterusnya.",
+"description":"Cakupan hukum lalu lintas jalan raya Inggris dan singkatan untuk Undang-Undang dan Peraturan utama yang dikutip dalam Kode Jalan Raya."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Hukuman",
+"description":"Hukuman maksimal, poin penalti, diskualifikasi, pencabutan SIM pengemudi baru, ujian ulang, dan konsekuensi lain atas pelanggaran."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Perawatan kendaraan. Keamanan kendaraan.",
+"description":"Kelayakan jalan, lampu peringatan, ban, cairan, keamanan bahan bakar, kebakaran kendaraan, dan pencegahan pencurian."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Hadapi bahaya. 2. Minta bantuan. 3. Bantu mereka yang terlibat. 4. Berikan perawatan darurat.",
+"description":"Keselamatan di lokasi kecelakaan, panggilan darurat, perawatan korban, DRABC, CPR, penanganan pendarahan dan luka bakar."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Kode keselamatan. Undang-Undang Pengemudi Baru. Pelatihan lanjutan.",
+"description":"Pengurangan risiko bagi pengemudi baru, pencabutan SIM dengan enam poin pelanggaran, dan pelatihan lanjutan opsional seperti Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Konversi metrik. Situs web bermanfaat. Bacaan lebih lanjut",
+"description":"Konversi mil ke kilometer dan sumber resmi untuk keselamatan jalan, mengemudi, berkendara, menarik kendaraan, dan informasi kendaraan."
+}
+]

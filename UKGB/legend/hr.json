@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Tekst Zakona o cestama. Poznavanje i primjena pravila",
+"description":"Objašnjava kako se koriste riječi MORA, NE SMIJE, treba i ne smije se koristiti te odgovornost poznavanja i primjene Zakona o cestama."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Autonomna vozila",
+"description":"Objašnjava pravne odgovornosti korisnika kada se autonomno vozilo kreće ili ne kreće."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Hijerarhija korisnika cesta",
+"description":"Objašnjava da sudioniciuprometu koji mogu uzrokovati najveću štetu imaju najveću odgovornost za smanjenje opasnosti."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Opće smjernice (pravila 1 do 6)",
+"description":"Opće sigurnosne smjernice za pješake, uključujući pločnike, vidljivost i zajedničke rute."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Prelazak ceste (pravila 7 do 17)",
+"description":"Pravila i kodeks Zelenog križa za odabir sigurnog mjesta i siguran prelazak cesta."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Prijelazi (pravila 18 do 30)",
+"description":"Pravila za pješake koji koriste prijelaze za zebre, pelikane, pufine, tukane i konje."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Situacije koje zahtijevaju dodatnu pažnju (pravila 31 do 35)",
+"description":"Dodatne mjere opreza za ranjive pješake, vozila hitnih službi, autobuse i željezničke prijelaze."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Električna invalidska kolica i skuteri za mobilnost (pravila 36 do 37)",
+"description":"Pravila za korištenje električnih invalidskih kolica i skutera za mobilnost na pločnicima i cestama."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Na pločnicima (pravila 38 do 40)",
+"description":"Pravila za korištenje skutera za mobilnost i električnih invalidskih kolica na pločnicima i pješačkim površinama."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Na cesti (pravila 41 do 46)",
+"description":"Pravila o korištenju cesta, osvjetljenju, vidljivosti i sigurnosti za motorna invalidska kolica i skutere za mobilnost."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Konjska zaprega (pravila 47 do 48)",
+"description":"Upute za sigurnost, rasvjetu, rutu i opremu za vozače konjskih zaprega."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Jahači (pravila 49 do 55)",
+"description":"Pravila za sigurno jahanje konja, uključujući odjeću, opremu, položaj na cesti i signale."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Ostale životinje (pravila 56 do 58)",
+"description":"Pravila za pse, životinjeuvozilima i premještanje stoke cestama."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Pregled (pravila 59 do 72)",
+"description":"Osnovna pravila za biciklizam koja obuhvaćaju odjeću, opremu, rasvjetu, položaj na cesti, biciklističke staze i zajedničke rute."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Raskrižja (pravila 73 do 77)",
+"description":"Pravila za bicikliste pri prilasku i prolasku kroz raskrižja, uključujući pozicioniranje i prednost."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Kružni tokovi (pravila 78 do 80)",
+"description":"Pravila za bicikliste koji koriste kružne tokove, uključujući položaj trake, signalizaciju i sigurnije alternative."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Prelazak ceste (pravila 81 do 82)",
+"description":"Pravila za bicikliste koji koriste prijelaze samo za bicikle, tukane i konje."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Općenito (pravila 83 do 88)",
+"description":"Opća pravila za motocikle koja obuhvaćaju vozačke dozvole, kacige, zaštitu za oči, putnike i vidljivost tijekom dana."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Stanje vozila (pravilo 89)",
+"description":"Zahtijeva od motociklista da održavaju svoje motocikleuvoznom stanju te da održavaju gume, kočnice, svjetla i upravljač."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Sposobnost za vožnju (pravila 90 do 94)",
+"description":"Pravila o umoru, bolesti, vidu, koncentraciji i drugim čimbenicima koji utječu na sposobnost vožnje."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkohol i droge (pravila 95 do 96)",
+"description":"Zabranjuje se vožnja pod utjecajem alkohola, droga ili lijekova."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Prije polaska (pravilo 97)",
+"description":"Provjere prije putovanja za ispravnost vozila, vidljivost, kontrole, odjeću i osigurane terete."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Vuča i utovar vozila (pravilo 98)",
+"description":"Pravila za osigurane terete, ograničenja vuče, prikolice, izbočine i izbjegavanje preopterećenja."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Sigurnosni pojasevi i dječje sjedalice (pravila 99 do 102)",
+"description":"Zakonski zahtjevi za sigurnosne pojaseve, dječje sjedalice i siguran prijevoz djece."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Signali (pravila 103 do 106)",
+"description":"Pravila za davanje jasnih signala i tumačenje signala drugih sudionikauprometu."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Ostali postupci zaustavljanja (pravila 107 do 112)",
+"description":"Upute policije i ovlaštenih službenika, poštivanje prometnih propisa i korištenje trube."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Zahtjevi za rasvjetu (pravila 113 do 116)",
+"description":"Pravila koja reguliraju prednja svjetla, bočna svjetla, svjetla za maglu i izbjegavanje zasljepljivanja drugih."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Upravljanje vozilom (pravila 117 do 126)",
+"description":"Sigurna kontrola vozila, kočenje, zaustavni put, proklizavanje, vožnja nizbrdo i poštivanje ograničenja brzine."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Linije i oznake traka na cesti (pravila 127 do 132)",
+"description":"Značenje i pravni učinak središnjih linija, linija opasnosti, dvostrukih bijelih linija, linija traka i ševrona."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Višetračni kolnici (pravila 133 do 143)",
+"description":"Disciplinauvoznim trakama, promjena traka, trake za penjanje, autobusne trake, biciklističke staze i trake s puno ljudi."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Opći savjeti (pravila 144 do 158)",
+"description":"Općenito sigurno ponašanjeuvožnji, obzir prema drugima, brzina, prioritet i izbjegavanje ometanja."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Opća pravila (pravila 159 do 161)",
+"description":"Promatranje, signaliziranje i sigurno kretanje prije kretanja ili uključivanjaupromet."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Pretjecanje (pravila 162 do 169)",
+"description":"Pravila za sigurno pretjecanje, uključujući sigurnosne mjere, zabranjena mjesta i pretjecanje."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Raskrižja (pravila 170 do 183)",
+"description":"Pravila za prilazak raskrižjima, davanje prednosti, skretanje, izlazak iz prometnih pravaca i prelazak s njih."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Kružni tokovi (pravila 184 do 190)",
+"description":"Pravila za prilaz, prednost, odabir trake, signalizaciju i izlazak iz kružnih tokova."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Pješački prijelazi (pravila 191 do 199)",
+"description":"Odgovornosti vozača na prijelazima za zebre, pelikane, pufine, tukane i paralelne prijelaze."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Vožnja unatrag (200 do 203)",
+"description":"Pravila za provjeru okoline, sigurnu vožnju unatrag i izbjegavanje pretjerane vožnje unatrag."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Pregled (pravilo 204)",
+"description":"Uvodi obvezu zaštite sudionikauprometu koji su posebno izloženi riziku."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Pješaci (pravila 205 do 210)",
+"description":"Dodatan oprez oko djece, starijih osoba, pješaka s invaliditetom i osoba koje prelaze cestu."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motociklisti i biciklisti (pravila 211 do 213)",
+"description":"Dodatni nadzor i siguran razmak oko motociklista i biciklista, posebno na raskrižjima."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Ostali sudioniciuprometu (pravila 214 do 218)",
+"description":"Dodatan oprezublizini životinja, jahača, vozača početnika i neiskusnih sudionikauprometu."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Ostala vozila (pravila 219 do 225)",
+"description":"Pravila za vozila hitnih službi, velika vozila, autobuse, tramvaje i sporokretna vozila."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Pregled (pravilo 226)",
+"description":"Zahtijeva od vozača da se prilagode nepovoljnim vremenskim uvjetima i koriste odgovarajuća svjetla kada je vidljivost smanjena."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Vlažno vrijeme (pravilo 227)",
+"description":"Upute o smanjenom prianjanju, duljem zaustavnom putu, prskanju, akvaplaningu i poplavnoj vodi."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Ledeno i snježno vrijeme (pravila 228 do 231)",
+"description":"Pravila za pripremu, glatku vožnju i održavanje kontrole na ledu i snijegu."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Vjetrovito vrijeme (pravila 232 do 233)",
+"description":"Smjernice o jakim bočnim vjetrovima i ranjivim sudionicimauprometu pogođenim udarima vjetra."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Magla (pravila 234 do 236)",
+"description":"Pravila o vidljivosti, brzini, sigurnosnoj udaljenosti i pravilnoj upotrebi svjetala za maglu."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Vruće vrijeme (pravilo 237)",
+"description":"Smjernice o opasnostima na cesti povezanim s vrućinom i izbjegavanju pregrijavanja."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Općenito (pravilo 238)",
+"description":"Opća pravila parkiranja, uključujući poštivanje ograničenja i izbjegavanje opasnosti ili prepreka."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Parkiranje (pravila 239 do 247)",
+"description":"Pravila za sigurno parkiranje, zaustavljanje uz cestu, utovar, mjesta za invalide i zabranjena mjesta."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Parkiranje noću (pravila 248 do 252)",
+"description":"Pravila noćnog parkiranja koja obuhvaćaju smjer, osvjetljenje, ograničenja brzine i reflektirajuće oznake."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Dekriminalizirana kontrola parkiranja (DPE)",
+"description":"Objašnjava civilnu provedbu ograničenja parkiranja od strane lokalnih vlasti."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Općenito (pravila 253 do 254)",
+"description":"Opća pravila o autocestama, uključujući zabranjene korisnike i primjenu propisa o autocestama."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Signali na autocesti (pravila 255 do 258)",
+"description":"Značenje signala na autocesti, zatvaranja traka crvenim X-om i promjenjivih ograničenja brzine."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Ulazak na autocestu (pravilo 259)",
+"description":"Pravila za korištenje prilazne ceste, usklađivanje brzine prometa i davanje prednosti prometu na autocesti."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Na autocesti (pravila 260 do 263)",
+"description":"Sigurna vožnja autocestom, poštivanje udaljenosti, ograničenja i korištenje traka."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Disciplina na stazi (pravila 264 do 266)",
+"description":"Zahtijeva korištenje lijeve trake osim pretjecanja i sigurno poštivanje prometnih signala."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Pretjecanje (pravila 267 do 268)",
+"description":"Pravila pretjecanja na autocesti, uključujući sigurno promatranje i zabranu korištenja zaustavne trake."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Zaustavna traka (pravilo 269)",
+"description":"Ograničava korištenje zaustavne trake na hitne slučajeve ili vremena kada je znakovi otvaraju kao traku za trčanje."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Zaustavljanje (pravila 270 do 272)",
+"description":"Zabranjuje zaustavljanje na autocesti osimunuždi ili kada je to naloženo te objašnjava korištenje područja za hitne slučajeve."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Napuštanje autoceste (pravila 273 do 274)",
+"description":"Pravila za čitanje izlaznih znakova, signalizaciju i siguran ulazakuizlaznu traku."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Mjesto relativne sigurnosti (pravilo 275)",
+"description":"Objašnjava kako prepoznati i doći do sigurnije lokacije tijekom kvara ili hitnog slučaja."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Kvarovi (pravilo 276)",
+"description":"Radnje koje treba poduzeti tijekom kvara na autocesti, uključujući sigurno napuštanje vozila i kontaktiranje pomoći."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Dodatna pravila za autoceste (pravila 277 do 279)",
+"description":"Dodatne upute za kvarove i hitne slučajeve, uključujući ponovno uključivanjeupromet i vozila s invaliditetom."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Zapreke (pravilo 280)",
+"description":"Radnje koje treba poduzetiuslučaju nailaska na prepreku na cesti ili njezinog uzrokovanja."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Incidenti (pravila 281 do 283)",
+"description":"Sigurnosne mjereuslučaju incidenta, koridori za hitne slučajeve i poštivanje pravila osoblja za hitne slučajeve."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Incidenti koji uključuju opasne robe (pravila 284 do 285)",
+"description":"Mjere opreza i zahtjevi za izvještavanje kada suuincidentu uključene opasne tvari."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Dokumentacija (pravila 286 do 287)",
+"description":"Dužnosti zaustavljanja, razmjene informacija i prijavljivanja sudara policiji kada je to potrebno."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Radovi na cesti (pravilo 288)",
+"description":"Zahtijeva dodatan oprez, smanjenu brzinu i poštivanje privremenih znakova i kontrola traka tijekom radova na cesti."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Dodatna pravila za brze ceste (pravila 289 do 290)",
+"description":"Dodatna sigurnosna pravila za kvarove i incidente na brzim cestama."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Željeznički prijelazi (pravila 291 do 299)",
+"description":"Pravila za prilazak, prelazak i reagiranje na semafore, rampe i hitne slučajeve na željezničkim prijelazima."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Tramvaji (pravila 300 do 307)",
+"description":"Pravila za dijeljenje cesta s tramvajima i izbjegavanje tračnica, perona i rezerviranih tramvajskih ruta."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Signali semafora. Trepćuća crvena svjetla. Signali za kontrolu trake",
+"description":"Značenja standardnih semafora, trepćućih crvenih signala za zaustavljanje i signala za kontrolu trake."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Semafori na autocesti",
+"description":"Značenja upozoravajućih signala na autocesti, promjenjivih ograničenja, zatvaranja traka i uputa."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Pokazivači smjera. Pokazivači stop svjetla. Pokazivači svjetla za vožnju unatrag. Pokazivači armaturne ploče. Svjetla za opasnost",
+"description":"Objašnjava svjetlosne signale vozila i signale ruke koji se koriste za komunikaciju namjeravanih pokreta i opasnosti."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Policajci. Signali rukom osobama koje reguliraju promet. Službenici Agencije za standarde vozača i vozila te prometni policajci. Ophodnje školskih prijelaza",
+"description":"Signali i upute koje daju policija, ovlašteno prometno osoblje i školske patrole za prijelaze."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Znakovi koji daju naredbe",
+"description":"Prometni znakovi koji nalažu i zabranjuju promet koje sudioniciuprometu moraju poštivati."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Znakovi upozorenja",
+"description":"Znakovi koji upozoravaju na opasnosti, promjenjive uvjete na cesti i ranjive sudionikeuprometu ispred vas."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Znakovi smjera",
+"description":"Znakovi koji prikazuju rute, odredišta, raspored raskrižja, brojeve cesta i obilaske."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Obavijestni znakovi",
+"description":"Pravokutni znakovi koji pružaju informacije o parkiranju, trakama, autocestama, rutama i objektima."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Znakovi za radove na cesti",
+"description":"Privremeni znakovi upozorenja na radove na cesti, opasnosti, zatvaranja traka, ograničenja brzine i sustaveusuprotnom smjeru."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Preko kolnika. Uz kolnik. Uz rub kolnika. Na rubniku ili na rubu kolnika. Ostale oznake na cesti",
+"description":"Značenje oznaka stop, davanje prednosti, traka, čekanje, utovar, crvena ruta, raskrižje i ostale oznake na cesti."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Stražnje oznake za velika teretna vozila. Upozoravajuće ploče. Izbočene oznake. Ostalo",
+"description":"Oznake vozila koje identificiraju teška vozila, opasne terete, izbočene terete i školske autobuse."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Ti i tvoj bicikl",
+"description":"Odabir bicikla, održavanje, kočnice, rasvjeta, reflektori, stanje guma i trening."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Zahtjevi za vozačku dozvolu za motocikl. Kategorije vozačkih dozvola za mopede i motocikle",
+"description":"CBT, ograničenja za učenike, testovi, progresivni pristup i kategorije vozačkih dozvola AM, A1, A2 i A."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Dokumenti. Vozači početnici",
+"description":"Vozačke dozvole, tehnički pregled, osiguranje, registracija, porez na vozila, SORN i uvjeti za vozača pripravnika."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Zakon o cestovnom prometu. Zakoni i propisi prije 1988. Zakoni i propisi od 1988. nadalje",
+"description":"Područje primjene zakona o cestovnom prometu Ujedinjenog Kraljevstva i kratice za glavne zakone i propise navedeneuZakonu o cestama."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Kazne",
+"description":"Maksimalne kazne, kazneni bodovi, diskvalifikacija, oduzimanje vozačke dozvole novom vozaču, ponovno polaganje ispita i ostale posljedice prekršaja."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Održavanje vozila. Sigurnost vozila",
+"description":"Tehnička ispravnost, upozoravajuća svjetla, gume, tekućine, sigurnost goriva, požari vozila i sprječavanje krađe."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Nositi se s opasnošću. 2. Potražiti pomoć. 3. Pomoći uključenima. 4. Pružiti hitnu pomoć",
+"description":"Sigurnost na mjestu nesreće, hitni pozivi, briga o unesrećenima, DRABC, CPR, liječenje krvarenja i opeklina."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Sigurnosni kodeks. Novi zakon o vozačima. Dodatna obuka",
+"description":"Smanjenje rizika za nove vozače, oduzimanje vozačke dozvoleušest točaka i opcionalna daljnja osposobljavanja poput Pass Plusa."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Metričke konverzije. Korisne web stranice. Dodatno štivo",
+"description":"Pretvorbe miljaukilometre i službeni resursi za sigurnost na cestama, vožnju, vuču i informacije o vozilima."
+}
+]

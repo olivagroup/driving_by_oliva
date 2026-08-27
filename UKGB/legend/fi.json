@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Tieliikennelain sanamuoto. Sääntöjen tunteminen ja soveltaminen",
+"description":"Selittää, miten sanoja TÄYTYY, EI SAA, PITÄISI ja EI SAA käyttää, sekä vastuun tieliikennelain tuntemisesta ja soveltamisesta."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Itseohjautuvat ajoneuvot",
+"description":"Selittää käyttäjien oikeudelliset vastuut silloin, kun itseohjautuva ajoneuvo ajaa itseään tai ei aja itse."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Tienkäyttäjien hierarkia",
+"description":"Selittää, että tienkäyttäjillä, jotka kykenevät aiheuttamaan eniten vahinkoa, on suurin vastuu vaaran vähentämisestä."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Yleiset ohjeet (säännöt 1–6)",
+"description":"Yleisiä turvallisuusohjeita jalankulkijoille, mukaan lukien jalkakäytävät, näkyvyys ja yhteiset reitit."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Tien ylittäminen (säännöt 7–17)",
+"description":"Vihreän ristin säännöstö ja säännöt turvallisen paikan valitsemiseen ja tien turvalliseen ylittämiseen."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Ylitykset (säännöt 18–30)",
+"description":"Jalankulkijoiden säännöt seeprojen, pelikaanien, lunnien, tukaanien ja ratsastajien ylityspaikoilla."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Tilanteet, jotka vaativat erityistä huolellisuutta (säännöt 31–35)",
+"description":"Lisävarotoimia suojattomia jalankulkijoita, hälytysajoneuvoja, busseja ja rautatien tasoristeyksiä varten."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Sähköpyörätuolit ja skootterit (säännöt 36–37)",
+"description":"Säännöt sähköpyörätuolien ja -skoottereiden käytölle jalkakäytävillä ja teillä."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Jalkakäytävät (säännöt 38–40)",
+"description":"Säännöt liikkuvuusskoottereille ja sähköpyörätuoleille jalkakäytävillä ja jalankulkualueilla."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Tien päällä (säännöt 41–46)",
+"description":"Tienkäyttöä, valaistusta, näkyvyyttä ja turvallisuusmääräyksiä sähköpyörätuoleille ja liikkuvuusmoottoreille."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Hevosvetoiset ajoneuvot (säännöt 47–48)",
+"description":"Hevosvetoisten ajoneuvojen kuljettajien turvallisuus-, valaistus-, reitti- ja varusteopastus."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Ratsastajat (säännöt 49–55)",
+"description":"Säännöt hevosten turvalliseen ratsastukseen, mukaan lukien vaatteet, varusteet, tien sijainti ja merkit."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Muut eläimet (säännöt 56–58)",
+"description":"Säännöt koirille, ajoneuvoissa oleville eläimille ja karjan kuljetukselle teillä."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Yleiskatsaus (säännöt 59–72)",
+"description":"Pyöräilyn keskeiset säännöt, jotka koskevat vaatetusta, varusteita, valaistusta, tien sijaintia, pyöräteitä ja yhteisiä reittejä."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Tienristeykset (säännöt 73–77)",
+"description":"Säännöt pyöräilijöille risteyksiin lähestyessä ja niissä ajettaessa, mukaan lukien sijoittuminen ja etuajo-oikeus."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Liikenneympyrät (säännöt 78–80)",
+"description":"Pyöräilijöiden säännöt liikenneympyröiden käytössä, mukaan lukien kaistan sijainti, merkinanto ja turvallisemmat vaihtoehdot."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Tien ylittäminen (säännöt 81–82)",
+"description":"Säännöt pyöräilijöille, jotka käyttävät vain pyöräilyyn, tukaaneihin ja ratsastukseen tarkoitettuja ylitysteitä."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Yleistä (säännöt 83–88)",
+"description":"Yleiset moottoripyöräilysäännöt, jotka koskevat ajokorttia, kypärää, silmiensuojaimia, matkustajia ja näkyvyyttä päivänvalossa."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Ajoneuvon kunto (sääntö 89)",
+"description":"Edellyttää moottoripyöräilijöitä pitämään moottoripyöränsä tieliikennekelpoisena ja huoltamaan renkaat, jarrut, valot ja ohjauksen."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Ajokelpoisuus (säännöt 90–94)",
+"description":"Säännöt väsymyksestä, sairaudesta, näkökyvystä, keskittymiskyvystä ja muista ajokuntoon vaikuttavista tekijöistä."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkoholi ja huumeet (säännöt 95–96)",
+"description":"Kieltää ajamisen alkoholin, laittomien huumeiden tai lääkkeiden vaikutuksen alaisena."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Ennen lähtöä (sääntö 97)",
+"description":"Ajoneuvon ajokelpoisuuden, näkyvyyden, hallintalaitteiden, vaatetuksen ja kuorman kiinnityksen tarkastukset ennen matkaa."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Ajoneuvojen hinaus ja lastaus (sääntö 98)",
+"description":"Kuormien kiinnittämistä, vetorajoituksia, perävaunuja, ulkonemia ja ylikuormituksen välttämistä koskevat säännöt."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Turvavyöt ja lasten turvaistuimet (säännöt 99–102)",
+"description":"Turvavöitä, lasten turvaistuimia ja lasten turvallista kuljettamista koskevat lakisääteiset vaatimukset."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Viestit (säännöt 103–106)",
+"description":"Säännöt selkeiden merkkien antamiseksi ja muiden tienkäyttäjien merkkien tulkitsemiseksi."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Muut pysäytysmenettelyt (säännöt 107–112)",
+"description":"Poliisin ja valtuutettujen viranomaisten ohjeet, liikennevalojen noudattaminen ja äänimerkin käyttö."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Valaistusvaatimukset (säännöt 113–116)",
+"description":"Ajovalojen, seisontavalojen, sumuvalojen ja muiden häikäisyn välttämistä koskevat säännöt."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Ajoneuvon hallinta (säännöt 117–126)",
+"description":"Ajoneuvon turvallinen hallinta, jarrutus, jarrutusmatkat, luisto, rullaaminen ja nopeusrajoitusten noudattaminen."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Tien viivat ja kaistamerkinnät (säännöt 127–132)",
+"description":"Keskiviivojen, vaaraviivojen, kaksoisvalkoviivojen, kaistaviivojen ja nuoliviivojen merkitys ja oikeudellinen vaikutus."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Monikaistaiset ajoradat (säännöt 133–143)",
+"description":"Kaistakuri, kaistanvaihto, kaistan kiipeäminen, linja-autokaistat, pyörätiet ja vilkkaasti liikennöidyt kaistat."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Yleiset ohjeet (säännöt 144–158)",
+"description":"Yleinen turvallinen ajotapa, muiden huomioiminen, nopeus, etusijan pitäminen ja häiriötekijöiden välttäminen."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Yleiset säännöt (säännöt 159–161)",
+"description":"Havainnointi, merkinanto ja turvallinen liikkuminen ennen liikkeellelähtöä tai liikenteen yhteyteen tuloa."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Ohittaminen (säännöt 162–169)",
+"description":"Turvallisen ohittamisen säännöt, mukaan lukien etäisyyksien rajaaminen, kielletyt paikat ja ohitetuksi tuleminen."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Tienristeykset (säännöt 170–183)",
+"description":"Säännöt risteyksiin lähestymiseen, väistämiseen, kääntymiseen, liikenteestä poistumiseen ja sen ylittämiseen."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Liikenneympyrät (säännöt 184–190)",
+"description":"Säännöt lähestymiselle, etuajo-oikeudelle, kaistanvalinnalle, liikennevaloille ja liikenneympyrästä poistumiselle."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Jalankulkijoiden suojatiet (säännöt 191–199)",
+"description":"Kuljettajan vastuut seepra-, pelikaani-, lunni-, tukaani- ja rinnakkaistieillä."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Peruutus (200 - 203)",
+"description":"Säännöt ympäristön tarkistamiseen, turvalliseen peruuttamiseen ja liiallisen peruuttamisen välttämiseen."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Yleiskatsaus (sääntö 204)",
+"description":"Esittelee velvollisuuden suojella erityisen riskialttiita tienkäyttäjiä."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Jalankulkijat (säännöt 205–210)",
+"description":"Erityistä varovaisuutta on noudatettava lasten, vanhusten, liikuntarajoitteisten jalankulkijoiden sekä tien ylittäjien lähellä."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Moottoripyöräilijät ja pyöräilijät (säännöt 211–213)",
+"description":"Tarkkailu ja turvaväli moottoripyöräilijöiden ja pyöräilijöiden ympärillä, erityisesti risteyksissä."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Muut tienkäyttäjät (säännöt 214–218)",
+"description":"Erityistä varovaisuutta on noudatettava eläinten, ratsastajien, ajo-oppilaiden ja kokemattomien tienkäyttäjien lähellä."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Muut ajoneuvot (säännöt 219–225)",
+"description":"Hätäajoneuvoja, suuria ajoneuvoja, busseja, raitiovaunuja ja hitaasti liikkuvia ajoneuvoja koskevat säännöt."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Yleiskatsaus (sääntö 226)",
+"description":"Edellyttää kuljettajien sopeutumista huonoon säähän ja asianmukaisten valojen käyttöä näkyvyyden ollessa heikentynyt."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Märkä sää (sääntö 227)",
+"description":"Ohjeita heikentyneeseen pitoon, pidempiin jarrutusmatkoihin, roiskeisiin, vesiliirtoon ja tulvavesiin liittyen."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Jäinen ja luminen sää (säännöt 228–231)",
+"description":"Säännöt valmistautumiseen, tasaiseen ajamiseen ja hallinnan säilyttämiseen jäällä ja lumella."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Tuulinen sää (säännöt 232–233)",
+"description":"Ohjeistus voimakkaista sivutuulista ja puuskista kärsiville suojattomille tienkäyttäjille."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Sumu (säännöt 234–236)",
+"description":"Näkyvyyttä, nopeutta, etäisyyttä ja sumuvalojen oikeaa käyttöä koskevat säännöt."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Kuuma sää (sääntö 237)",
+"description":"Ohjeita kuumuuteen liittyvistä tienpinnan vaaroista ja ylikuumenemisen välttämisestä."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Yleinen (sääntö 238)",
+"description":"Yleiset pysäköintisäännöt, mukaan lukien rajoitusten noudattaminen ja vaaran tai esteiden välttäminen."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Pysäköinti (säännöt 239–247)",
+"description":"Säännöt turvallisesta pysäköinnistä, tienvarren pysähtymisestä, lastaamisesta, liikuntarajoitteisten paikoista ja kielletyistä paikoista."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Pysäköinti yöllä (säännöt 248–252)",
+"description":"Yöpysäköintisäännöt, jotka koskevat suuntaa, valaistusta, nopeusrajoituksia ja heijastavia merkintöjä."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Laiton pysäköinninvalvonta (DPE)",
+"description":"Selittää paikallisten viranomaisten pysäköintirajoitusten siviilivalvonnan."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Yleistä (säännöt 253–254)",
+"description":"Yleiset moottoritiesäännöt, mukaan lukien kielletyt käyttäjät ja moottoritiesääntöjen soveltaminen."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Moottoritievalot (säännöt 255–258)",
+"description":"Moottoritievalojen, punaisten X-kaistasulkujen ja vaihtuvien nopeusrajoitusten merkitys."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Moottoritielle liittyminen (sääntö 259)",
+"description":"Säännöt liittymisliittymän käytöstä, liikenteen nopeuden sovittamisesta ja moottoritieliikenteen etusijalle asettamisesta."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Moottoritiellä (säännöt 260–263)",
+"description":"Turvallinen moottoritieajo, etäisyyksien pitäminen, rajoitukset ja kaistojen käyttö."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Ratakuri (säännöt 264–266)",
+"description":"Edellyttää vasemman kaistan käyttöä ohitustilanteissa ja kaistamerkkien turvallista noudattamista."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Ohittaminen (säännöt 267–268)",
+"description":"Moottoritien ohitussäännöt, mukaan lukien turvallinen tarkkailu ja kielto käyttää piennarta."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Jäykkä piennar (sääntö 269)",
+"description":"Rajoittaa piennaralueen käytön hätätilanteisiin tai tilanteisiin, joissa liikennemerkit avaavat sen ajokaistaksi."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Pysähtyminen (säännöt 270–272)",
+"description":"Kieltää pysähtymisen moottoritiellä paitsi hätätilanteissa tai ohjeen mukaan ja selittää hätäalueen käytön."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Moottoritieltä poistuminen (säännöt 273–274)",
+"description":"Säännöt poistumisopasteiden lukemiseen, opasteisiin ja turvalliseen poistumiskaistalle ajamiseen."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Suhteellisen turvallinen paikka (sääntö 275)",
+"description":"Selittää, miten turvallisempi paikka tunnistetaan ja sinne päästään vian tai hätätilanteen sattuessa."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Erittelyt (sääntö 276)",
+"description":"Toimenpiteet moottoritieonnettomuuden sattuessa, mukaan lukien ajoneuvosta turvallisesti poistuminen ja avun soittaminen."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Moottoriteiden lisäsäännöt (säännöt 277–279)",
+"description":"Lisäohjeita tiepalveluun ja hätätilanteisiin, mukaan lukien liikenteeseen palaaminen ja vammautuneet ajoneuvot."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Esteet (sääntö 280)",
+"description":"Toimenpiteet, joita on tehtävä kohdatessaan liikenneesteen tai aiheuttaessaan sen."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Tapahtumat (säännöt 281–283)",
+"description":"Turvatoimenpiteet vaaratilanteissa, hätäkäytävillä ja hätähenkilöstön ohjeiden noudattaminen."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Vaarallisiin aineisiin liittyvät vaaratilanteet (säännöt 284–285)",
+"description":"Varotoimet ja raportointivaatimukset, kun onnettomuuteen liittyy vaarallisia aineita."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Dokumentaatio (säännöt 286–287)",
+"description":"Velvollisuus pysähtyä, vaihtaa tietoja ja ilmoittaa törmäyksistä poliisille tarvittaessa."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Tietyöt (sääntö 288)",
+"description":"Edellyttää erityistä varovaisuutta, nopeuden alentamista ja väliaikaisten liikennemerkkien ja kaistanrajoittimien noudattamista tietyömailla."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Lisäsäännöt suurnopeusteille (säännöt 289–290)",
+"description":"Lisäturvallisuusmääräyksiä suurnopeusteiden vikojen ja vaaratilanteiden varalta."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Tasoristeykset (säännöt 291–299)",
+"description":"Säännöt rautatien tasoristeyksiin lähestymiseen, niiden ylittämiseen ja niihin reagoimiseen valoilla, puomeilla ja hätätilanteissa."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Raitiotiet (säännöt 300–307)",
+"description":"Säännöt teiden jakamisesta raitiovaunujen kanssa ja kiskojen, laitureiden ja varattujen raitiovaunureittien välttämisestä."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Liikennevalot. Vilkkuvat punaiset valot. Kaistanpitovalot",
+"description":"Normaalien liikennevalojen, vilkkuvien punaisten seis-valojen ja kaistanpitovalojen merkitykset."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Moottoritievalot",
+"description":"Moottoritien varoitusvalojen, muuttuvien rajoitusten, kaistasulkemisten ja ohjeiden merkitykset."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Suuntavilkut. Jarruvalot. Peruutusvalot. Vieritysvilkut. Hätävilkut",
+"description":"Selittää ajoneuvon valo- ja käsivarsisignaaleja, joita käytetään aiottujen liikkeiden ja vaarojen viestimiseen."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Poliisit. Liikennettä ohjaaville henkilöille annettavat käsimerkit. Ajoneuvovalvontaviraston virkailijat ja liikenneviranomaiset. Koulujen ylityspartiot.",
+"description":"Poliisin, valtuutettujen liikennehenkilöiden ja koulujen ylityspartioiden antamat merkit ja ohjeet."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Käskyjä antavat kyltit",
+"description":"Liikennemerkit, joita tienkäyttäjien on lain mukaan noudatettava."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Varoitusmerkit",
+"description":"Merkit varoittavat vaaroista, muuttuvista tieolosuhteista ja edessä olevista haavoittuvaisista tienkäyttäjistä."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Suuntamerkit",
+"description":"Kyltit, jotka näyttävät reitit, määränpäät, risteysten asettelun, tienumerot ja kiertotiet."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Tiedotuskyltit",
+"description":"Suorakaiteen muotoiset kyltit, jotka antavat tietoa pysäköinnistä, kaistasta, moottoritiestä, reitistä ja palveluista."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Tietyökyltit",
+"description":"Tilapäiset liikennemerkit, jotka varoittavat tietyömaista, vaaroista, kaistan sulkemisista, nopeusrajoituksista ja vastavirtausjärjestelmistä."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Ajoradan poikki. Ajoradan suuntaisesti. Ajoradan reunassa. Jalkakäytävällä tai ajoradan reunassa. Muut tiemerkinnät",
+"description":"Sanojen pysäytys, väistämisoikeus, kaista, odottaminen, lastaus, punainen reitti, risteys ja muiden tiemerkintöjen merkitykset."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Suurten tavarankuljetusajoneuvojen takaosan merkinnät. Varoituskilvet. Ulkonevat merkinnät. Muut",
+"description":"Ajoneuvomerkinnät raskaiden ajoneuvojen, vaarallisten aineiden, ulkonevien kuormien ja koulubussien tunnistamiseksi."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Sinä ja polkupyöräsi",
+"description":"Pyörän valinta, huolto, jarrut, valaistus, heijastimet, renkaiden kunto ja koulutus."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Moottoripyörän ajokortin vaatimukset. Mopojen ja moottoripyörien ajokorttiluokat",
+"description":"Kognitiivinen käyttäytymistesti, oppilasrajoitukset, kokeet, porrastettu ajokortti sekä AM-, A1-, A2- ja A-ajokorttiluokat."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Asiakirjat. Oppilaskuljettajat",
+"description":"Ajokortit, katsastus, vakuutukset, rekisteröinti, ajoneuvovero, SORN ja ajo-oppilasvaatimukset."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Tieliikennelaki. Lait ja asetukset ennen vuotta 1988. Lait ja asetukset vuodesta 1988 eteenpäin",
+"description":"Yhdistyneen kuningaskunnan tieliikennelain soveltamisala ja tieliikennelaissa mainittujen tärkeimpien lakien ja asetusten lyhenteet."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Rangaistukset",
+"description":"Maksimirangaistukset, rangaistuspisteet, ajokielto, uuden kuljettajan ajoluvan peruuttaminen, uusintakoe ja muut rikkomusten seuraamukset."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Ajoneuvojen huolto. Ajoneuvojen turvallisuus",
+"description":"Liikennekelpoisuus, varoitusvalot, renkaat, nesteet, polttoaineturvallisuus, ajoneuvopalot ja varkauksien estäminen."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Käsittele vaaraa. 2. Hae apua. 3. Auta asianosaisia. 4. Anna ensiapua",
+"description":"Onnettomuuspaikan turvallisuus, hätäpuhelut, ensiapu, DRABC, elvytys, verenvuodon ja palovammojen hoito."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Turvallisuusmääräykset. Uusi kuljettajalaki. Lisäkoulutus",
+"description":"Uusien kuljettajien riskien vähentäminen, ajokortin peruuttaminen kuuden pisteen rangaistuspisteellä ja valinnainen jatkokoulutus, kuten Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Metrijärjestelmän muunnokset. Hyödyllisiä verkkosivustoja. Lisälukemista",
+"description":"Mailien muuntaminen kilometreiksi ja viralliset resurssit liikenneturvallisuuteen, ajamiseen, pyöräilyyn, hinauspalveluihin ja ajoneuvotietoihin."
+}
+]

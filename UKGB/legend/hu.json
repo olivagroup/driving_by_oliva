@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"A KRESZ szövegezése. A szabályok ismerete és alkalmazása",
+"description":"Elmagyarázza, hogyan kell használni a KLIENS, NEM SZABAD, EZÉRT IS SZABAD és nem szabad szavakat, valamint a KRESZ ismeretének és alkalmazásának felelősségét."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Önvezető járművek",
+"description":"Elmagyarázza a felhasználók jogi felelősségét abban az esetben, ha egy önvezető jármű önmagát vezeti, vagy sem."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Úthasználók hierarchiája",
+"description":"Elmagyarázza, hogy a legnagyobb kárt okozni képes közlekedőknek van a legnagyobb felelősségük a veszély csökkentésében."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Általános útmutató (1–6. szabály)",
+"description":"Általános biztonsági irányelvek gyalogosok számára, beleértve a járdákat, a láthatóságot és a közös útvonalakat."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Úttesten való átkelés (7–17. szabály)",
+"description":"A Zöld Kereszt Kódex és a biztonságos hely kiválasztásának és az úttesten való biztonságos átkelés szabályai."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Átkelések (18–30. szabályok)",
+"description":"Gyalogosok szabályai a zebrák, pelikánok, lunda, tukánok és lovas zebrák átkelőhelyeinek használatában."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Különös figyelmet igénylő helyzetek (31–35. szabályok)",
+"description":"Fokozott óvintézkedések a veszélyeztetett gyalogosok, a mentőautók, a buszok és a vasúti átjárók számára."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Motoros kerekesszékek és robogók (36–37. szabály)",
+"description":"Elektromos kerekesszékek és robogók járdán és utakon való használatának szabályai."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Járdákon (38–40. szabályok)",
+"description":"Szabályok a járdákon és gyalogosövezetekben közlekedő mozgáskorlátozottak és motoros kerekesszékek használatára."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Úton (41–46. szabályok)",
+"description":"Úthasználati, világítási, láthatósági és biztonsági szabályok motoros kerekesszékekre és mozgáskorlátozottakra vonatkozóan."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Lóvontatású járművek (47–48. szabályok)",
+"description":"Biztonsági, világítási, útvonal- és felszerelési útmutatás lóvontatású járművek vezetői számára."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Lovasok (49–55. szabályok)",
+"description":"A lovak biztonságos lovaglásának szabályai, beleértve a ruházatot, a felszerelést, az úton való elhelyezkedést és a jelzéseket."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Egyéb állatok (56–58. szabályok)",
+"description":"Szabályok a kutyákra, a járművekben szállított állatokra és az utakon szállított állatállományra vonatkozóan."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Áttekintés (59–72. szabályok)",
+"description":"Alapvető kerékpározási szabályok, amelyek kiterjednek az öltözködésre, a felszerelésre, a világításra, az úttesten való elhelyezkedésre, a kerékpársávokra és a közös útvonalakra."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Útkereszteződések (73–77. szabályok)",
+"description":"Szabályok a kerékpárosokra a kereszteződésekhez való közeledés és az azokon való áthaladás tekintetében, beleértve a pozicionálást és az elsőbbséget."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Körforgalmak (78–80. szabályok)",
+"description":"A körforgalomban kerékpározókra vonatkozó szabályok, beleértve a sávok elhelyezkedését, a jelzéseket és a biztonságosabb alternatívákat."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Úttesten való átkelés (81-82. szabály)",
+"description":"Szabályok a kerékpárosok, tukánmadár- és lovas átkelőhelyek használatára vonatkozó kerékpárosokra vonatkozóan."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Általános (83–88. szabályok)",
+"description":"Általános motorkerékpár-szabályok a jogosítványokra, a bukósisakra, a szemvédelemre, az utasokra és a nappali látási viszonyokra vonatkozóan."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Jármű állapota (89. szabály)",
+"description":"Előírja a motorosok számára, hogy motorkerékpárjukat közúti forgalomban tartsák, és karbantartsák a gumiabroncsokat, a fékeket, a lámpákat és a kormányművet."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Vezetésre való alkalmasság (90–94. szabályok)",
+"description":"Szabályok a fáradtságra, betegségre, látásra, koncentrációra és egyéb, a vezetési alkalmasságot befolyásoló tényezőkre vonatkozóan."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkohol és drogok (95–96. szabályok)",
+"description":"Tiltja a vezetést alkohol, illegális drogok vagy gyógyszerek hatása alatt."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Indulás előtt (97. szabály)",
+"description":"Utazás előtti ellenőrzések a járművek közúti alkalmasságára, láthatóságára, kezelőszerveire, ruházatára és a rakomány rögzítésére vonatkozóan."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Jármű vontatása és rakodása (98. szabály)",
+"description":"Szabályok a rakományok rögzítésére, a vontatási korlátokra, a pótkocsikra, a kiálló részekre és a túlterhelés elkerülésére."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Biztonsági övek és gyermekülések (99–102. szabályok)",
+"description":"A biztonsági övekre, gyermekülésekre és a gyermekek biztonságos szállítására vonatkozó jogi követelmények."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Jelzések (103–106. szabályok)",
+"description":"Szabályok az egyértelmű jelzések adására és a többi közlekedő jelzéseinek értelmezésére."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Egyéb megállítási eljárások (107–112. szabályok)",
+"description":"Rendőrségi és engedélyezett tisztviselők utasításai, a közlekedési lámpák betartása és a kürt használata."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Világítási követelmények (113–116. szabály)",
+"description":"Szabályok a fényszórókra, helyzetjelzőkre, ködlámpákra és mások elvakításának elkerülésére vonatkozóan."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"A jármű irányítása (117–126. szabályok)",
+"description":"Biztonságos járműirányítás, fékezés, féktávolság, megcsúszás, kigurulás és a sebességkorlátozások betartása."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Útvonalak és sávelválasztó vonalak (127–132. szabály)",
+"description":"A középvonalak, a veszélyes vonalak, a dupla fehér vonalak, a sávelválasztó vonalak és a nyíljelzések jelentése és jogi hatálya."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Többsávos autóutak (133–143. szabályok)",
+"description":"Sávfegyelem, sávváltás, sávokba való felkapaszkodás, buszsávok, kerékpársávok és nagy forgalmú sávok."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Általános tanácsok (144–158. szabály)",
+"description":"Általános biztonságos vezetési magatartás, mások figyelembevétele, sebesség, elsőbbségadás és a figyelemelterelés elkerülése."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Általános szabályok (159–161. szabályok)",
+"description":"Megfigyelés, jelzésadás és biztonságos mozgás elindulás vagy forgalomba való belépés előtt."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Előzés (162–169. szabályok)",
+"description":"A biztonságos előzés szabályai, beleértve a szabad távolságot, a tiltott helyeket és az előzés áldozatául esett személyeket."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Útkereszteződések (170–183. szabályok)",
+"description":"Szabályok a kereszteződések megközelítésére, elsőbbségadásra, kanyarodásra, kiállásra és a forgalom átszelésére vonatkozóan."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Körforgalmak (184–190. szabályok)",
+"description":"A körforgalom megközelítésére, elsőbbségadására, sávválasztására, jelzésére és elhagyására vonatkozó szabályok."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Gyalogátkelőhelyek (191–199. szabályok)",
+"description":"A vezető felelőssége zebrán, pelikánon, lundaként, tukánon és párhuzamos átkelőhelyen."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Tolatás (200-ról 203-ra)",
+"description":"Szabályok a környezet ellenőrzésére, a biztonságos tolatásra és a túlzott tolatás elkerülésére."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Áttekintés (204. szabály)",
+"description":"Bevezeti a különösen veszélyeztetett közlekedők védelmének kötelezettségét."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Gyalogosok (205–210. szabályok)",
+"description":"Fokozott óvatosság a gyermekek, idősek, mozgáskorlátozott gyalogosok és az úton átkelő emberek körül."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motorosok és kerékpárosok (211–213. szabályok)",
+"description":"Fokozott megfigyelés és biztonságos távolság betartása motorosok és kerékpárosok körül, különösen a kereszteződésekben."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Egyéb közlekedők (214–218. szabály)",
+"description":"Fokozott óvatosság állatok, lovasok, tanulóvezetők és tapasztalatlan közlekedők közelében."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Egyéb járművek (219–225. szabályok)",
+"description":"Szabályok a sürgősségi járművekre, a nagy járművekre, a buszokra, a villamosokra és a lassan mozgó járművekre vonatkozóan."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Áttekintés (226. szabály)",
+"description":"Megköveteli a járművezetőktől, hogy alkalmazkodjanak a kedvezőtlen időjárási viszonyokhoz, és megfelelő világítást használjanak, amikor a látási viszonyok korlátozottak."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Esős idő (227. szabály)",
+"description":"Útmutató a csökkent tapadásról, a hosszabb féktávolságról, a felfröccsenő vízről, aquaplaningról és az árvízről."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Jeges és havas időjárás (228–231. szabályok)",
+"description":"Szabályok a jégen és hóban való felkészüléshez, az simán vezetéshez és az uralom megtartásához."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Szeles időjárás (232–233. szabályok)",
+"description":"Útmutató az erős oldalszéllel és a széllökések által érintett veszélyeztetett úthasználókkal kapcsolatban."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Köd (234–236. szabály)",
+"description":"Szabályok a láthatóságra, a sebességre, a követési távolságra és a ködlámpák helyes használatára vonatkozóan."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Forró időjárás (237. szabály)",
+"description":"Útmutató a hőséggel kapcsolatos útfelületi veszélyekről és a túlmelegedés elkerüléséről."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Általános (238. szabály)",
+"description":"Általános parkolási szabályok, beleértve a korlátozások betartását és a veszély vagy akadály elkerülését."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Parkolás (239–247. szabályok)",
+"description":"A biztonságos parkolásra, az útszéli megállásokra, a rakodásra, a mozgáskorlátozottaknak fenntartott helyekre és a tiltott helyekre vonatkozó szabályok."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Éjszakai parkolás (248–252. szabályok)",
+"description":"Éjszakai parkolási szabályok, amelyek kiterjednek az irányra, a világításra, a sebességkorlátozásokra és a fényvisszaverő jelzésekre."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Dekriminalizált parkolási ellenőrzés (DPE)",
+"description":"Elmagyarázza a parkolási korlátozások polgári jogi érvényesítését a helyi hatóságok által."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Általános (253–254. szabály)",
+"description":"Általános autópálya-szabályok, beleértve a tiltott felhasználókat és az autópálya-szabályok alkalmazását."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Autópálya-jelzőlámpák (255–258. szabály)",
+"description":"Az autópálya-jelzőlámpák, a piros X sávlezárások és a változó sebességkorlátozások jelentése."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Autópályára való felhajtás (259. szabály)",
+"description":"A bekötőút használatára, a forgalmi sebesség összehangolására és az autópálya-forgalom elsőbbségének megadására vonatkozó szabályok."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Autópályán (260–263. szabály)",
+"description":"Biztonságos vezetés autópályán, követési távolság betartása, korlátozások és sávok használata."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Pályaszabályok (264–266. szabályok)",
+"description":"Előzés kivételével a bal sáv használatát követeli meg, és biztonságosan be kell tartani a sávjelző lámpákat."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Előzés (267–268. szabályok)",
+"description":"Autópályán történő előzés szabályai, beleértve a biztonságos közlekedést és a leállósáv használatának tilalmát."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Leállósáv (269. szabály)",
+"description":"A leállósáv használatát vészhelyzetekre vagy olyan esetekre korlátozza, amikor a táblák futósávként nyitják meg azt."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Megállás (270–272. szabályok)",
+"description":"Tiltja az autópályán való megállást, kivéve vészhelyzetben vagy utasításra, és elmagyarázza a vészhelyzeti zóna használatát."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Az autópálya elhagyása (273–274. szabály)",
+"description":"A kijárati táblák olvasásának, a jelzéseknek és a kijárati sávba való biztonságos behajtásnak szabályai."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Viszonylag biztonságos hely (275. szabály)",
+"description":"Elmagyarázza, hogyan lehet biztonságosabb helyet azonosítani és elérni meghibásodás vagy vészhelyzet esetén."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Lebontások (276. szabály)",
+"description":"Autópályán történő meghibásodás esetén teendő lépések, beleértve a jármű biztonságos elhagyását és a segítségnyújtást."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Autópályákra vonatkozó kiegészítő szabályok (277–279. szabály)",
+"description":"További útmutatás a meghibásodáshoz és a vészhelyzethez, beleértve a forgalomba való visszatérést és a mozgásképtelen járműveket."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Akadályozások (280. szabály)",
+"description":"Teendők útakadályba ütközés vagy annak okozása esetén."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Események (281–283. szabályok)",
+"description":"Biztonsági intézkedések balesetek esetén, vészhelyzeti folyosókon és a vészhelyzeti személyzet utasításainak betartása."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Veszélyes árukkal kapcsolatos események (284–285. szabály)",
+"description":"Óvintézkedések és jelentési követelmények veszélyes anyagokkal kapcsolatos események esetén."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Dokumentáció (286–287. szabály)",
+"description":"Kötelesek megállni, információt cserélni és szükség esetén a baleseteket jelenteni a rendőrségnek."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Útépítési munkálatok (288. szabály)",
+"description":"Fokozott óvatosságot, csökkentett sebességet és az ideiglenes jelzések, valamint a sávelválasztók betartását igényli az útépítések során."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Nagysebességű utakra vonatkozó kiegészítő szabályok (289–290. szabály)",
+"description":"További biztonsági szabályok a nagysebességű utakon történő meghibásodások és balesetek esetén."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Vasúti átjárók (291–299. szabályok)",
+"description":"A vasúti átjárók megközelítésére, átkelésére és a lámpákra, sorompókra és vészhelyzetekre vonatkozó szabályok."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Villamosok (300–307. szabályok)",
+"description":"Szabályok az utak villamosokkal való megosztására, valamint a sínek, peronok és fenntartott villamosjáratok elkerülésére."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Közlekedési lámpák jelzései. Villogó piros lámpák. Sávszabályozó jelzések",
+"description":"A szabványos közlekedési lámpák, a villogó piros stopjelzések és a sávelhagyást jelző lámpák jelentése."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Autópálya-jelzők",
+"description":"Az autópálya figyelmeztető jelzéseinek, a változó határértékeknek, a sávlezárásoknak és az utasításoknak a jelentése."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Irányjelzők jelzései. Féklámpák jelzései. Tolatólámpák jelzései. Karjelzések. Vészvillogók",
+"description":"Elmagyarázza a járművek fény- és karjelzéseit, amelyek a tervezett mozgások és veszélyek közlésére szolgálnak."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Rendőrök. Karjelzések a forgalmat irányító személyeknek. Járművezetői és Jármű Szabványügyi Hivatal tisztviselői és közlekedési őrök. Iskolai gyalogátkelőhelyen járőröző járőrök.",
+"description":"A rendőrség, a jogosult közlekedési személyzet és az iskolai átkelőhelyen dolgozó járőrök által adott jelzések és utasítások."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Parancsokat adó táblák",
+"description":"Kötelező és tiltó közlekedési táblák, amelyeket a közlekedőknek törvényileg kötelező betartaniuk."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Figyelmeztető jelek",
+"description":"Veszélyekre, változó útviszonyokra és az elöl közlekedő veszélyeztetett közlekedőkre figyelmeztető táblák."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Irányítótáblák",
+"description":"Útvonalakat, úti célokat, kereszteződéseket, útszámokat és terelőutakat mutató táblák."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Információs táblák",
+"description":"Téglalap alakú táblák, amelyek információkat nyújtanak a parkolásról, sávokról, autópályáról, útvonalról és létesítményekről."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Útépítési táblák",
+"description":"Ideiglenes jelzések, amelyek figyelmeztetnek az útépítésekre, veszélyekre, sávlezárásokra, sebességkorlátozásokra és ellenáramú rendszerekre."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Az úttesten keresztben. Az úttest mentén. Az úttest szélén. A szegélyen vagy az úttest szélén. Egyéb útburkolati jelek",
+"description":"A megállás, elsőbbségadás megadása, sáv, várakozás, rakodás, piros útvonal, dobozos kereszteződés és egyéb útburkolati jelek jelentése."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Nagy tehergépjárművek hátsó jelölése. Elhárító táblák. Kiálló jelzések. Egyéb",
+"description":"Járműjelölések nehézgépjárművek, veszélyes áruk, kiálló rakományok és iskolabuszok azonosítására."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Te és a biciklid",
+"description":"Kerékpárválasztás, karbantartás, fékek, világítás, fényvisszaverők, gumiabroncsok állapota és képzés."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Motorkerékpár-vezetői engedély követelményei. Robogók és motorkerékpárok jogosítványkategóriái",
+"description":"Kognitív viselkedésvizsgálat (CBT), tanulói korlátozások, vizsgák, fokozatos hozzáférés és AM, A1, A2 és A kategóriájú jogosítványok."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Dokumentumok. Tanulóvezetők",
+"description":"Jogosítványok, műszaki vizsga, biztosítás, forgalomba helyezés, gépjárműadó, SORN és tanulóvezetői követelmények."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Közúti közlekedési jog. 1988 előtti törvények és rendeletek. 1988-tól kezdődő törvények és rendeletek.",
+"description":"Az Egyesült Királyság közúti közlekedési jogának hatálya és a KRESZ-ben idézett főbb törvények és rendeletek rövidítései."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Büntetések",
+"description":"Maximális büntetések, büntetőpontok, eltiltás, új vezetői engedély visszavonása, újravizsgázás és a szabálysértés egyéb következményei."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Járműkarbantartás. Járműbiztonság",
+"description":"Közlekedésbiztonság, figyelmeztető lámpák, gumiabroncsok, folyadékok, üzemanyag-biztonság, járműtüzek és lopásmegelőzés."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Kezelje a veszélyt. 2. Kérjen segítséget. 3. Segítsen az érintetteknek. 4. Nyújtson sürgősségi ellátást.",
+"description":"Baleseti helyszín biztonsága, sürgősségi hívások, sérültellátás, DRABC, újraélesztés, vérzés és égési sérülések ellátása."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"A biztonsági előírások. Az új gépjárművezetőkről szóló törvény. Továbbképzés.",
+"description":"Kockázatcsökkentés új sofőrök számára, hatpontos jogosítványvisszavonás és opcionális továbbképzés, például Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Metrikus átváltások. Hasznos weboldalak. További olvasnivalók",
+"description":"Mérföldről kilométerre átváltások és hivatalos források a közlekedésbiztonsághoz, vezetéshez, motorozáshoz, vontatáshoz és járművekhez."
+}
+]

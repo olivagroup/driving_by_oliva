@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"道路交通法の条文。規則を理解し、適用する",
+"description":"「MUST」「MUST NOT」「should」「should not」といった言葉の使い方、そして道路交通法を理解し適用する責任について説明します。"
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"自動運転車",
+"description":"自動運転車が自動運転している場合とそうでない場合における、利用者の法的責任について説明します。"
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"道路利用者の階層構造",
+"description":"最も大きな危害を引き起こす可能性のある道路利用者は、危険を軽減する最大の責任を負っていると説明する。"
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"一般的な指針(規則1~6)",
+"description":"歩道、視界、共用道路など、歩行者のための一般的な安全ガイドライン。"
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"道路の横断(ルール7~17)",
+"description":"グリーンクロスコードとは、安全な場所を選び、安全に道路を横断するためのルールです。"
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"横断(規則18~30)",
+"description":"歩行者が横断歩道(ゼブラ横断歩道、ペリカン横断歩道、パフィン横断歩道、オオハシ横断歩道、乗馬横断歩道)を利用する際の規則。"
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"特別な注意が必要な状況(規則31~35)",
+"description":"歩行者、緊急車両、バス、踏切など、特に歩行者や交通弱者に対する特別な注意が必要です。"
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"電動車椅子および電動スクーター(規則36~37)",
+"description":"歩道や道路での電動車椅子および電動スクーターの使用に関する規則。"
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"歩道上(規則38~40)",
+"description":"歩道および歩行者専用区域における電動スクーターおよび電動車椅子の利用に関する規則。"
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"道路交通法(規則41~46)",
+"description":"電動車椅子および電動スクーターの道路使用、照明、視認性、および安全に関する規則。"
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"馬車(規則47~48)",
+"description":"馬車運転者向けの安全、照明、ルート、および装備に関するガイダンス。"
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"乗馬競技者(規則49~55)",
+"description":"服装、装備、道路上での位置取り、合図など、馬に安全に乗るためのルール。"
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"その他の動物(規則56~58)",
+"description":"犬、車両に乗せる動物、道路を通行する家畜に関する規則。"
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"概要(規則59~72)",
+"description":"服装、装備、照明、道路上での位置、自転車専用レーン、共用道路などに関する基本的な自転車利用規則。"
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"交差点(規則73~77)",
+"description":"交差点に接近する際および交差点を通過する際の自転車利用者のための規則(位置取りや優先権を含む)。"
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"ロータリー交差点(規則78~80)",
+"description":"環状交差点を利用する自転車利用者のための規則。車線位置、合図、より安全な代替手段などが含まれます。"
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"道路の横断(規則81~82)",
+"description":"自転車専用横断歩道、オオハシ横断歩道、乗馬横断歩道を利用する自転車利用者のための規則。"
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"一般事項(規則83~88)",
+"description":"免許、ヘルメット、目の保護具、同乗者、昼間の視界などに関する一般的なオートバイの規則。"
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"車両の状態(規則89)",
+"description":"オートバイ運転者は、オートバイを道路走行に適した状態に保ち、タイヤ、ブレーキ、ライト、ステアリングを整備することが義務付けられています。"
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"運転適性(規則90~94)",
+"description":"疲労、病気、視力、集中力、その他運転適性に影響を与える要因に関する規則。"
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"アルコールと薬物(規則95~96)",
+"description":"アルコール、違法薬物、または医薬品の影響下での運転を禁止する。"
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"出発前に(ルール97)",
+"description":"出発前に、車両の走行適合性、視界、操作系、服装、積荷の固定状態などを点検する。"
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"車両の牽引および積載(規則98)",
+"description":"積荷の固定、牽引制限、トレーラー、突出部、過積載の回避に関する規則。"
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"シートベルトとチャイルドシート(規則99~102)",
+"description":"シートベルト、チャイルドシート、および子供の安全な乗車に関する法的要件。"
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"シグナル(ルール103~106)",
+"description":"明確な合図を送るためのルール、および他の道路利用者からの合図を解釈するためのルール。"
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"その他の停止手順(規則107~112)",
+"description":"警察官や権限のある職員の指示に従うこと、信号機の規則を守ること、クラクションを使用すること。"
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"照明に関する要件(規則113~116)",
+"description":"ヘッドライト、サイドライト、フォグランプの使用に関する規則、および他車を眩惑させないための規則。"
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"車両の制御(規則117~126)",
+"description":"安全な車両制御、ブレーキング、停止距離、スリップ、惰性走行、および速度制限の遵守。"
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"道路上の車線表示(規則127~132)",
+"description":"センターライン、危険線、二重白線、車線線、シェブロンの意味と法的効力。"
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"複数車線道路(規則133~143)",
+"description":"車線規律、車線変更、登坂車線、バス専用レーン、自転車専用レーン、高乗車率車両専用レーン。"
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"一般的なアドバイス(規則144~158)",
+"description":"一般的な安全運転行動、他者への配慮、速度、優先順位、そして注意散漫の回避。"
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"一般規則(規則159~161)",
+"description":"発進または交通に合流する前に、周囲を確認し、合図を送り、安全な動作を行うこと。"
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"追い越し(規則162~169)",
+"description":"安全な追い越しに関する規則。これには、追い越し禁止区域、追い越される際の注意点などが含まれます。"
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"交差点(規則170~183)",
+"description":"交差点への進入、優先権の譲渡、右左折、交差点からの進入、交差点横断に関する規則。"
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"ロータリー交差点(規則184~190)",
+"description":"ロータリー交差点への進入、優先権、車線選択、合図、および退出に関する規則。"
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"横断歩道(規則191~199)",
+"description":"横断歩道(ゼブラ横断、ペリカン横断、パフィン横断、トゥーカン横断、平行横断)における運転者の責任。"
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"逆方向(200から203)",
+"description":"周囲の確認、安全な後退、過度な後退を避けるためのルール。"
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"概要(規則204)",
+"description":"特に危険にさらされている道路利用者を保護する義務を導入する。"
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"歩行者(規則205~210)",
+"description":"子供、高齢者、身体の不自由な歩行者、道路を横断する人々の周囲には特に注意を払ってください。"
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"オートバイ運転者および自転車運転者(規則211~213)",
+"description":"特に交差点では、オートバイや自転車の周囲をより注意深く観察し、安全な距離を確保する。"
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"その他の道路利用者(規則214~218)",
+"description":"動物、乗馬者、運転免許取得中の人、運転経験の浅い人などには特に注意を払ってください。"
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"その他の車両(規則219~225)",
+"description":"緊急車両、大型車両、バス、路面電車、低速車両に関する規則。"
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"概要(規則226)",
+"description":"運転者は悪天候に適応し、視界が悪くなった場合は適切なライトを使用することが求められる。"
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"雨天時(規則227)",
+"description":"グリップ力の低下、制動距離の延長、水しぶき、ハイドロプレーニング現象、浸水に関するガイダンス。"
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"凍結および降雪時の天候(規則228~231)",
+"description":"氷雪路面での準備、スムーズな運転、および車両の制御を維持するためのルール。"
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"強風時の対応(規則232~233)",
+"description":"強い横風と突風の影響を受ける脆弱な道路利用者に関するガイダンス。"
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"霧(ルール234~236)",
+"description":"視界、速度、車間距離、およびフォグランプの正しい使用に関する規則。"
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"暑い気候(規則237)",
+"description":"熱に関連する路面上の危険と、過熱を防ぐためのガイダンス。"
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"一般事項(規則238)",
+"description":"駐車に関する一般的な規則。これには、制限事項の遵守、危険や障害物の回避などが含まれます。"
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"駐車(規則239~247)",
+"description":"安全な駐車、路肩停車、荷物の積み下ろし、障害者用駐車スペース、および駐車禁止場所に関する規則。"
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"夜間駐車(規則248~252)",
+"description":"夜間駐車に関する規則には、方向、照明、速度制限、反射標識などが含まれます。"
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"駐車違反取締りの非犯罪化(DPE)",
+"description":"地方自治体による駐車規制の民事執行について説明する。"
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"一般事項(規則253~254)",
+"description":"高速道路の一般的な規則。これには、利用禁止区域や高速道路規則の適用方法などが含まれます。"
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"高速道路の信号機(規則255~258)",
+"description":"高速道路の信号、赤×印の車線規制、および可変速度制限の意味。"
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"高速道路への合流(規則259)",
+"description":"ランプウェイの利用に関する規則、交通速度の調整、高速道路交通への優先権の付与など。"
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"高速道路(規則260~263)",
+"description":"高速道路での安全運転、車間距離の維持、交通規制の遵守、車線の利用。"
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"レーン規律(規則264~266)",
+"description":"追い越し時を除き、左車線を使用し、車線標識に安全に従う必要があります。"
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"追い越し(規則267~268)",
+"description":"高速道路での追い越しに関する規則には、安全な周囲確認と路肩の使用禁止が含まれます。"
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"ハードショルダー(ルール269)",
+"description":"路肩の使用は、緊急時または標識で走行レーンとして開放されている場合に限定する。"
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"停止(規則270~272)",
+"description":"緊急時または指示があった場合を除き、高速道路での停車を禁止し、緊急区域の利用方法について説明しています。"
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"高速道路からの退出(規則273~274)",
+"description":"出口標識の読み方、合図の出し方、安全な出口車線への進入方法に関する規則。"
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"相対的安全地帯(規則275)",
+"description":"故障や緊急事態発生時に、より安全な場所を特定し、そこへ避難する方法を説明します。"
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"故障(ルール276)",
+"description":"高速道路での故障時に取るべき行動。安全な車両からの脱出方法や、助けを求める連絡方法などが含まれます。"
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"高速道路に関する追加規則(規則277~279)",
+"description":"交通への復帰や故障車両の対処方法など、故障や緊急事態に関する追加のガイダンス。"
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"障害物(規則280)",
+"description":"道路の障害物に遭遇した場合、または道路の障害物を引き起こした場合に取るべき行動。"
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"事件(規則281~283)",
+"description":"事故現場における安全対策、緊急避難経路、および緊急対応要員の指示への遵守。"
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"危険物に関する事故(規則284~285)",
+"description":"危険物質が関係する事故が発生した場合の予防措置および報告義務。"
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"文書(規則286~287)",
+"description":"必要に応じて、停車し、情報を交換し、衝突事故を警察に報告する義務がある。"
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"道路工事(規則288)",
+"description":"道路工事現場では、特に注意を払い、速度を落とし、仮設標識や車線規制に従ってください。"
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"高速道路に関する追加規則(規則289~290)",
+"description":"高速道路における故障や事故発生時の追加の安全規則。"
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"踏切(規則291~299)",
+"description":"鉄道踏切における接近、横断、および信号、遮断機、緊急事態への対応に関する規則。"
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"路面電車(規則300~307)",
+"description":"路面電車との道路共有に関する規則、および線路、プラットフォーム、路面電車専用路線を避けるための規則。"
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"信号機。点滅する赤信号。車線変更信号",
+"description":"標準的な信号機、点滅する赤色停止信号、および車線制御信号の意味。"
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"高速道路の信号",
+"description":"高速道路の警告信号、可変制限速度、車線規制、および指示の意味。"
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"方向指示器信号。ブレーキランプ信号。バックランプ信号。アーム信号。ハザードランプ",
+"description":"車両のライトと腕の合図を用いて、意図した動作や危険を伝達する方法を説明します。"
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"警察官。交通整理員への腕による合図。運転免許・車両基準庁職員および交通警察官。通学路横断指導員",
+"description":"警察官、交通整理員、学童横断指導員による信号や指示。"
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"指示を示す看板",
+"description":"道路利用者が法律上従わなければならない、義務的および禁止的な交通標識。"
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"警告サイン",
+"description":"前方に危険箇所、変化する道路状況、および交通弱者を警告する標識があります。"
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"方向標識",
+"description":"経路、目的地、交差点の配置、道路番号、迂回路を示す標識。"
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"案内標識",
+"description":"駐車場、車線、高速道路、経路、施設に関する情報を提供する長方形の標識。"
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"道路工事標識",
+"description":"道路工事、危険箇所、車線規制、速度制限、対面通行規制などを警告する仮設標識。"
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"車道を横切る。車道に沿って。車道の端に沿って。縁石上または車道の端。その他の道路標示",
+"description":"停止、譲り合い、車線、待機、荷積み、レッドルート、ボックスジャンクション、その他の道路標識の意味。"
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"大型貨物車両後部標識。危険警告プレート。突起標識。その他",
+"description":"大型車両、危険物、突出物、スクールバスを識別するための車両標識。"
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"あなたとあなたの自転車",
+"description":"自転車の選び方、メンテナンス、ブレーキ、ライト、反射板、タイヤの状態、そしてトレーニング。"
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"二輪免許の取得要件。原動機付自転車と二輪車の免許区分",
+"description":"CBT、学習者制限、テスト、段階的アクセス、およびAM、A1、A2、Aライセンス区分。"
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"書類。教習中のドライバー",
+"description":"運転免許証、車検、保険、登録、自動車税、SORN(一時抹消登録)、および仮免許運転者の要件。"
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"道路交通法。1988年以前の法律および規則。1988年以降の法律および規則",
+"description":"英国の道路交通法の範囲、および道路交通法典に記載されている主要な法律および規則の略語。"
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"罰則",
+"description":"違反行為に対する最高罰則、違反点数、運転免許停止、新規運転免許取消、再試験、その他の結果。"
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"車両整備。車両セキュリティ",
+"description":"車両の走行適合性、警告灯、タイヤ、オイル類、燃料の安全性、車両火災、盗難防止。"
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. 危険に対処する。 2. 助けを求める。 3. 関係者を助ける。 4. 応急処置を施す。",
+"description":"事故現場の安全確保、緊急通報、負傷者の手当て、DRABC(救急救命処置)、心肺蘇生法、出血および火傷の処置。"
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"安全規則。新運転者法。追加研修",
+"description":"新規運転者向けのリスク軽減策として、6点減点による免許取り消し制度や、Pass Plusなどのオプションの追加研修制度などがある。"
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"メートル法の換算。役立つウェブサイト。さらに読む",
+"description":"マイルからキロメートルへの換算表、および道路安全、運転、乗車、牽引、車両情報に関する公式リソース。"
+}
+]

@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Orðalag umferðarreglnanna. Að þekkja og beita reglunum.",
+"description":"Útskýrir hvernig orðin VERÐUR, VERÐUR EKKI, ættu og ættu ekki að vera notuð og ábyrgðina á að þekkja og fylgja umferðarreglunum."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Sjálfkeyrandi ökutæki",
+"description":"Útskýrir lagalega ábyrgð notenda þegar sjálfkeyrandi ökutæki ekur sjálft eða ekki."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Stigveldi vegfarenda",
+"description":"Útskýrir að vegfarendur sem geta valdið mestum skaða bera mesta ábyrgð á að draga úr hættu."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Almennar leiðbeiningar (reglur 1 til 6)",
+"description":"Almennar öryggisleiðbeiningar fyrir gangandi vegfarendur, þar á meðal um gangstéttir, sýnileika og sameiginlegar leiðir."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Að fara yfir götu (reglur 7 til 17)",
+"description":"Reglur Græna krossins og reglur um val á öruggum stað og örugga yfirferð yfir götur."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Yfirferð (reglur 18 til 30)",
+"description":"Reglur fyrir gangandi vegfarendur sem nota sebra-, pelíkana-, lunda-, túkan- og reiðgötur."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Aðstæður sem krefjast sérstakrar varúðar (reglur 31 til 35)",
+"description":"Auka varúðarráðstafanir fyrir viðkvæma gangandi vegfarendur, neyðarbíla, strætisvagna og járnbrautarleiðir."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Rafknúnir hjólastólar og hreyfihjól (reglur 36 til 37)",
+"description":"Reglur um notkun rafknúinna hjólastóla og hreyfihjóla á gangstéttum og vegum."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Á gangstéttum (reglur 38 til 40)",
+"description":"Reglur um notkun hjólabretta og rafmagnshjólastóla á gangstéttum og gangstéttum."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Á veginum (reglur 41 til 46)",
+"description":"Reglur um umferð, lýsingu, sýnileika og öryggisreglur fyrir rafknúna hjólastóla og hreyfihjól."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Hestavagnar (reglur 47 til 48)",
+"description":"Leiðbeiningar um öryggi, lýsingu, leiðir og búnað fyrir ökumenn hestaflutningabíla."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Reiðmenn (reglur 49 til 55)",
+"description":"Reglur um örugga reiðmennsku á hestum, þar á meðal klæðnaður, búnaður, staðsetning á vegi og merkjagjöf."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Önnur dýr (reglur 56 til 58)",
+"description":"Reglur um hunda, dýr í ökutækjum og flutning búfénaðar á vegum."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Yfirlit (reglur 59 til 72)",
+"description":"Grunnreglur um hjólreiðar sem ná yfir klæðnað, búnað, lýsingu, staðsetningu vegar, hjólastíga og sameiginlegar leiðir."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Gatnamót (reglur 73 til 77)",
+"description":"Reglur fyrir hjólreiðamenn sem nálgast og aka um gatnamót, þar á meðal staðsetning og forgang."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Hringtorg (reglur 78 til 80)",
+"description":"Reglur fyrir hjólreiðamenn sem nota hringtorg, þar á meðal akreinalag, merkjagjöf og öruggari valkostir."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Að fara yfir götu (reglur 81 til 82)",
+"description":"Reglur fyrir hjólreiðamenn sem nota hjólreiða-, túkan- og reiðleiðir."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Almennt (reglur 83 til 88)",
+"description":"Almennar reglur um mótorhjól varðandi ökuskírteini, hjálma, augnhlífar, farþega og sýnileika í dagsbirtu."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Ástand ökutækis (regla 89)",
+"description":"Krefst þess að mótorhjólamenn haldi mótorhjólum sínum í lagi og viðhaldi dekkjum, bremsum, ljósum og stýri."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Hæfni til aksturs (reglur 90 til 94)",
+"description":"Reglur um þreytu, veikindi, sjón, einbeitingu og aðra þætti sem hafa áhrif á aksturshæfni."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Áfengi og fíkniefni (reglur 95 til 96)",
+"description":"Bannar akstur undir áhrifum áfengis, ólöglegra fíkniefna eða lyfja."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Áður en lagt er af stað (regla 97)",
+"description":"Athuganir fyrir akstur til að athuga aksturshæfni ökutækis, skyggni, stjórntæki, klæðnað og öruggan farm."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Dráttur og hleðsla ökutækja (regla 98)",
+"description":"Reglur um örugga farm, dráttarmörk, eftirvagna, útskot og forvarnir gegn ofhleðslu."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Öryggisbelti og barnaöryggisbúnaður (reglur 99 til 102)",
+"description":"Lagalegar kröfur um öryggisbelti, barnaöryggisbúnað og öruggan flutning barna."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Merki (reglur 103 til 106)",
+"description":"Reglur um að gefa skýr merki og túlka merki frá öðrum vegfarendum."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Aðrar stöðvunaraðferðir (reglur 107 til 112)",
+"description":"Leiðbeiningar frá lögreglu og viðurkenndum embættismönnum, fylgni við umferðarljós og notkun flautu."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Kröfur um lýsingu (reglur 113 til 116)",
+"description":"Reglur um aðalljós, hliðarljós, þokuljós og um að forðast að blinda aðra."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Stjórn á ökutæki (reglur 117 til 126)",
+"description":"Örugg stjórn á ökutæki, hemlun, stöðvunarvegalengd, skrið, fríhjólun og hraðatakmörkunarfylgni."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Línur og akreinamerkingar á veginum (reglur 127 til 132)",
+"description":"Merking og lagaleg áhrif miðlína, hættulína, tvöfaldra hvítra lína, akreinalína og chevronlína."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Fjölbrautabrautir (reglur 133 til 143)",
+"description":"Akreinaregla, akreinaskipti, klifurakreinar, strætóakreinar, hjólaakreinar og akreinar fyrir mikla umferð."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Almenn ráð (reglur 144 til 158)",
+"description":"Almenn örugg aksturshegðun, tillitssemi gagnvart öðrum, hraði, forgangur og að forðast truflanir."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Almennar reglur (reglur 159 til 161)",
+"description":"Athugun, merkjagjöf og örugg för áður en ekið er af stað eða ekið er út í umferðina."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Framúrakstur (reglur 162 til 169)",
+"description":"Reglur um örugga framúrakstur, þar á meðal bil, bönnuð svæði og framúrakstur."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Gatnamót (reglur 170 til 183)",
+"description":"Reglur um aðkomu að gatnamótum, víkja fyrir, beygja, koma út úr vegi og fara yfir umferð."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Hringtorg (reglur 184 til 190)",
+"description":"Reglur um aðkomu, forgang, akreinaval, merkjagjöf og útgöngu úr hringtorgum."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Gangbrautir (reglur 191 til 199)",
+"description":"Ábyrgð ökumanns við sebra-, pelíkan-, lunda-, túkan- og samsíða vegamót."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Að bakka (200 til 203)",
+"description":"Reglur um eftirlit með umhverfi, örugga bakköku og forhindra óhóflega bakköku."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Yfirlit (regla 204)",
+"description":"Innleiðir skyldu til að vernda vegfarendur sem eru í sérstakri hættu."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Gangandi vegfarendur (reglur 205 til 210)",
+"description":"Sérstök aðgát í kringum börn, aldraða, fatlaða gangandi vegfarendur og fólk sem fer yfir götur."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Mótorhjólamenn og hjólreiðamenn (reglur 211 til 213)",
+"description":"Auka eftirlit og öruggt bil í kringum mótorhjólamenn og hjólreiðamenn, sérstaklega á gatnamótum."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Aðrir vegfarendur (reglur 214 til 218)",
+"description":"Auka aðgát í kringum dýr, hestamenn, ökunema og óreynda vegfarendur."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Önnur ökutæki (reglur 219 til 225)",
+"description":"Reglur fyrir neyðarbíla, stóra bíla, strætisvagna, sporvagna og hægfara bíla."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Yfirlit (regla 226)",
+"description":"Krefst þess að ökumenn aðlagi sig að slæmu veðri og noti viðeigandi ljós þegar skyggni er skert."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Blautt veður (regla 227)",
+"description":"Leiðbeiningar um minnkað veggrip, lengri hemlunarvegalengd, úða, vatnsplaning og flóð."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Ís og snjókoma (reglur 228 til 231)",
+"description":"Reglur um undirbúning, mjúka akstur og stjórn á akstri í hálku og snjó."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Vindasamt veður (reglur 232 til 233)",
+"description":"Leiðbeiningar um hvassan hliðarvind og viðkvæma vegfarendur sem verða fyrir áhrifum af hviðum."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Þoka (reglur 234 til 236)",
+"description":"Reglur um skyggni, hraða, fjarlægð milli aksturs og rétta notkun þokuljósa."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Heitt veður (regla 237)",
+"description":"Leiðbeiningar um hættur á vegyfirborði vegna hita og forvarnir gegn ofhitnun."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Almennt (regla 238)",
+"description":"Almennar reglur um bílastæðagjöld, þar á meðal að fylgja takmörkunum og forðast hættu eða hindranir."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Bílastæði (reglur 239 til 247)",
+"description":"Reglur um örugga bílastæði, stöðvun við vegkant, lestun, bílastæði fyrir fatlaða og bönnuð svæði."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Bílastæði á nóttunni (reglur 248 til 252)",
+"description":"Reglur um bílastæðalögn á nóttunni sem ná yfir akstursstefnu, lýsingu, hraðatakmarkanir og endurskinsmerki."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Afglæpsamleg bílastæðaeftirlit (DPE)",
+"description":"Útskýrir borgaralega framfylgd bílastæðatakmarkana af hálfu sveitarfélaga."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Almennt (reglur 253 til 254)",
+"description":"Almennar reglur um hraðbrautir, þar á meðal bannaðir notendur og beiting reglna um hraðbrautir."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Hraðbrautarljós (reglur 255 til 258)",
+"description":"Merking ljósa á hraðbrautum, lokana á rauðum X-akreinum og breytilegra hraðatakmarkana."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Að aka inn á hraðbraut (regla 259)",
+"description":"Reglur um notkun akreina, hraðastillingu umferðar og forgang umferðar á hraðbrautum."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Á hraðbraut (reglur 260 til 263)",
+"description":"Örugg akstur á þjóðvegum, fylgni við vegalengdir, takmarkanir og notkun akreina."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Akstursreglur á brautum (reglur 264 til 266)",
+"description":"Notkun vinstri akreina er krafist nema um framúrakstur sé að ræða og að akreinaljós séu fylgt á öruggan hátt."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Framúrakstur (reglur 267 til 268)",
+"description":"Reglur um framúrakstur á hraðbrautum, þar á meðal öruggt eftirlit og bann við notkun á neyðarakrein."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Öryggisbreið (regla 269)",
+"description":"Takmarkar notkun neyðarakreina við neyðartilvik eða þegar skilti opna hana sem akrein."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Stöðvun (reglur 270 til 272)",
+"description":"Bannar stöðvun á hraðbraut nema í neyðartilvikum eða þegar fyrirskipað er og útskýrir notkun neyðarsvæða."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Að aka af hraðbraut (reglur 273 til 274)",
+"description":"Reglur um lestur útgönguskilta, merkjagjöf og örugga akstur inn á útgönguleið."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Staður þar sem tiltölulega er öruggur (regla 275)",
+"description":"Útskýrir hvernig á að bera kennsl á og komast á öruggari stað í bilun eða neyðartilvikum."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Sundurliðanir (regla 276)",
+"description":"Aðgerðir sem grípa skal til við bilun á hraðbraut, þar á meðal að skilja ökutækið eftir á öruggan hátt og hafa samband við aðstoð."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Viðbótarreglur fyrir hraðbrautir (reglur 277 til 279)",
+"description":"Viðbótarleiðbeiningar um bilanir og neyðartilvik, þar á meðal um að komast aftur að umferð og um fatlaða ökutæki."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Hindranir (regla 280)",
+"description":"Aðgerðir sem grípa skal til þegar komið er að vegatruflunum eða þeim valdið þeim."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Atvik (reglur 281 til 283)",
+"description":"Öryggisráðstafanir við atvik, neyðarganga og fylgni við reglur neyðarstarfsfólks."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Atvik sem varða hættulegan varning (reglur 284 til 285)",
+"description":"Varúðarráðstafanir og tilkynningarskylda þegar hættuleg efni koma við sögu í atviki."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Skjölun (reglur 286 til 287)",
+"description":"Skylda til að stöðva, skiptast á upplýsingum og tilkynna árekstra til lögreglu þegar þörf krefur."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Vegavinna (regla 288)",
+"description":"Krefst aukinnar aðgátar, lægri hraða og að farið sé að tímabundnum skiltum og akreinaeftirliti við vegaframkvæmdir."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Viðbótarreglur fyrir hraðbrautir (reglur 289 til 290)",
+"description":"Viðbótaröryggisreglur vegna bilana og atvika á hraðbrautum."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Jarðvegsmót (reglur 291 til 299)",
+"description":"Reglur um aðkomu, yfirferð og viðbrögð við ljósum, hindrunum og neyðarástandi á járnbrautarmótum."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Sporvagnar (reglur 300 til 307)",
+"description":"Reglur um samnýtingu vega með sporvögnum og um að forðast teinar, perróna og fráteknar sporvagnaleiðir."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Umferðarljós. Blikkandi rauð ljós. Akreinaljós.",
+"description":"Merking hefðbundinna umferðarljósa, blikkandi rauðra stöðvunarljósa og akreinavarnaljósa."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Hraðbrautarmerki",
+"description":"Merking viðvörunarljósa á hraðbrautum, breytilegra takmarkana, lokana akreina og leiðbeininga."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Stefnuljós. Bremsuljós. Bakkljós. Armljós. Neyðarljós.",
+"description":"Útskýrir ljós og merki frá ökutæki sem notuð eru til að tilkynna um fyrirhugaðar hreyfingar og hættur."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Lögreglumenn. Ökuskírteini til umferðarstýrenda. Umferðarstjórar og umferðarverðir. Gæslumenn skólaganga.",
+"description":"Merki og fyrirmæli gefin af lögreglu, viðurkenndum umferðarstarfsmönnum og eftirlitsmönnum skólagönguleiða."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Skilti sem gefa skipanir",
+"description":"Skyldu- og bannmerki um umferð sem vegfarendur eru skyldugir til að hlýða samkvæmt lögum."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Viðvörunarmerki",
+"description":"Skilti sem vara við hættum, breyttum vegaaðstæðum og viðkvæmum vegfarendum framundan."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Leiðarmerki",
+"description":"Skilti sem sýna leiðir, áfangastaði, gatnamót, veganúmer og fráleiðir."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Upplýsingaskilti",
+"description":"Rétthyrnd skilti sem sýna upplýsingar um bílastæði, akreinar, hraðbrautir, leiðir og aðstöðu."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Vegavinnuskilti",
+"description":"Tímabundin skilti sem vara við vegaframkvæmdum, hættum, lokunum akreinum, hraðatakmörkunum og gagnstraumskerfum."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Yfir akbrautina. Meðfram akbrautinni. Meðfram brún akbrautarinnar. Á kantsteini eða við brún akbrautarinnar. Aðrar vegmerkingar.",
+"description":"Merking orðanna „stöðvun“, „víkja“, „akrein“, „bið“, „lestun“, „rauð leið“, „gatnamót“ og annarra vegmerkinga."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Merkingar á aftan á stórum vörubílum. Viðvörunarskilti. Útskotmerki. Annað",
+"description":"Merkingar ökutækja sem auðkenna þungaflutningabíla, hættulegan farm, útstandandi farm og skólabíla."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Þú og hjólið þitt",
+"description":"Val á hjóli, viðhald, bremsur, lýsing, endurskinsmerki, ástand dekkja og þjálfun."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Kröfur um ökuréttindi fyrir mótorhjól. Flokkar ökuréttinda fyrir vespur og mótorhjól.",
+"description":"Hugræn atferlismeðferð (CBT), takmarkanir á nemendum, próf, stigvaxandi aðgangur og AM, A1, A2 og A leyfisflokkar."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Skjöl. Ökunámskeið",
+"description":"Ökuskírteini, ökuskírteini, tryggingar, skráning, bifreiðagjöld, SORN og kröfur um ökunám."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Umferðarlög. Lög og reglugerðir fyrir 1988. Lög og reglugerðir frá 1988 og síðar.",
+"description":"Gildissvið breskra umferðarlaga og skammstafanir fyrir helstu lög og reglugerðir sem vitnað er í í vegalögunum."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Refsingar",
+"description":"Hámarksrefsingar, refsistig, svipting ökuréttinda, afturköllun nýs ökumanns, endurtekin próf og aðrar afleiðingar brots."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Viðhald ökutækja. Öryggi ökutækja.",
+"description":"Aksturshæfni, viðvörunarljós, dekk, vökvar, eldsneytisöryggi, eldsvoðar í ökutækjum og þjófnaðarvarnir."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Takast á við hættuna. 2. Leita aðstoðar. 3. Hjálpa þeim sem hlut eiga að máli. 4. Veita neyðaraðstoð",
+"description":"Öryggi á vettvangi slyss, neyðarköll, slysaþjónusta, DRABC, endurlífgun, blæðingar og brunameðferð."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Öryggisreglur. Ný ökulög. Frekari þjálfun.",
+"description":"Áhættuminnkun fyrir nýja ökumenn, sex punkta svipting ökuskírteinis og valfrjáls frekari þjálfun eins og Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Mælikerfisumreikningar. Gagnlegar vefsíður. Frekari lestur.",
+"description":"Umbreytingar úr mílum í kílómetra og opinberar auðlindir fyrir umferðaröryggi, akstur, drátt og upplýsingar um ökutæki."
+}
+]

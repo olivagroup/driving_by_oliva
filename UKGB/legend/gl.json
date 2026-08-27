@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Redacción do Código da Circulación. Coñecer e aplicar as normas",
+"description":"Explica como se usan as palabras DEBE, NON DEBE, debería e non debería, e a responsabilidade de coñecer e aplicar o Código da Circulación."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Vehículos autónomos",
+"description":"Explica as responsabilidades legais dos usuarios cando un vehículo autónomo se conduce ou non."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Xerarquía de usuarios da estrada",
+"description":"Explica que os usuarios da estrada capaces de causar os maiores danos teñen a maior responsabilidade de reducir o perigo."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Orientación xeral (regras 1 a 6)",
+"description":"Guía xeral de seguridade para peóns, incluíndo beirarrúas, visibilidade e rutas compartidas."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Cruzar a estrada (regras 7 a 17)",
+"description":"O Código da Cruz Verde e as regras para elixir un lugar seguro e cruzar as estradas con seguridade."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Cruces (regras 18 a 30)",
+"description":"Normas para peóns que utilizan pasos de cebra, pelicano, frailecillos, tucán e ecuestres."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Situacións que requiren coidados adicionais (regras 31 a 35)",
+"description":"Precaucións adicionais para peóns vulnerables, vehículos de emerxencia, autobuses e pasos a nivel de ferrocarril."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Cadeiras de rodas eléctricas e scooters de mobilidade (regras 36 a 37)",
+"description":"Normas para o uso de cadeiras de rodas eléctricas e scooters de mobilidade en beirarrúas e estradas."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Nas beirarrúas (regras 38 a 40)",
+"description":"Normas para escúteres de mobilidade e cadeiras de rodas eléctricas que utilizan beirarrúas e zonas peonís."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Na estrada (regras 41 a 46)",
+"description":"Normas de uso da estrada, iluminación, visibilidade e seguridade para cadeiras de rodas eléctricas e scooters de mobilidade."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Vehículos tirados por cabalos (regras 47 a 48)",
+"description":"Seguridade, iluminación, orientación de rutas e equipamentos para condutores de vehículos de tracción cabalar."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Xinetes (regras 49 a 55)",
+"description":"Normas para montar a cabalo con seguridade, incluíndo roupa, equipamento, posicionamento na estrada e sinais."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Outros animais (regras 56 a 58)",
+"description":"Normas para cans, animais en vehículos e movemento de gando polas estradas."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Visión xeral (regras 59 a 72)",
+"description":"Normas básicas para o ciclismo que abarcan roupa, equipamento, iluminación, posición na estrada, carrís bici e rutas compartidas."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Cruces de estradas (regras 73 a 77)",
+"description":"Normas para os ciclistas que se achegan e saen dos cruces, incluíndo o posicionamento e a prioridade."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Rotondas (regras 78 a 80)",
+"description":"Normas para ciclistas que usan rotondas, incluíndo a posición do carril, a sinalización e alternativas máis seguras."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Cruzar a estrada (regras 81 a 82)",
+"description":"Normas para ciclistas que usan pasos de peóns só para bicicletas, tucáns e ecuestres."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Xerais (regras 83 a 88)",
+"description":"Normas xerais para motocicletas que inclúen licenzas, cascos, protección ocular, pasaxeiros e visibilidade diúrna."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Estado do vehículo (regra 89)",
+"description":"Esixe que os motociclistas manteñan as súas motocicletas en condicións de circular e que coiden dos pneumáticos, freos, luces e dirección."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Aptitude para conducir (regras 90 a 94)",
+"description":"Normas sobre fatiga, enfermidades, vista, concentración e outros factores que afectan á aptitude para conducir."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alcol e drogas (regras 95 a 96)",
+"description":"Prohíbese conducir baixo os efectos do alcol, drogas ilegais ou medicamentos."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Antes de partir (regra 97)",
+"description":"Comprobacións previas á viaxe da aptitude para a circulación do vehículo, visibilidade, controis, roupa e cargas seguras."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Remolque e carga de vehículos (regra 98)",
+"description":"Normas para cargas seguras, límites de remolque, remolques, proxeccións e para evitar sobrecargas."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Cintos de seguridade e sistemas de retención infantil (regras 99 a 102)",
+"description":"Requisitos legais para os cintos de seguridade, os sistemas de retención infantil e o transporte seguro de nenos."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Sinais (regras 103 a 106)",
+"description":"Normas para dar sinais claros e interpretar as sinais doutros usuarios da estrada."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Outros procedementos de parada (regras 107 a 112)",
+"description":"Indicacións da policía e dos axentes autorizados, cumprimento dos semáforos e uso da bucina."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Requisitos de iluminación (regras 113 a 116)",
+"description":"Normas que rexen os faros dianteiros, as luces de posición, os faros antinéboa e as normas para evitar o deslumbramento a outras persoas."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Control do vehículo (regras 117 a 126)",
+"description":"Control seguro do vehículo, freada, distancias de parada, derrapes, marcha por inercia e cumprimento dos límites de velocidade."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Liñas e marcas de carrís na estrada (regras 127 a 132)",
+"description":"Significado e efecto xurídico das liñas centrais, liñas de perigo, liñas brancas dobres, liñas de carril e chevróns."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Calzadas de varios carrís (regras 133 a 143)",
+"description":"Disciplina de carril, cambios de carril, carrís de subida, carrís bus, carrís bici e carrís de alta ocupación."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Consello xeral (regras 144 a 158)",
+"description":"Conduta xeral de condución segura, consideración polos demais, velocidade, prioridade e evitación de distraccións."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Regras xerais (regras 159 a 161)",
+"description":"Observación, sinalización e movemento seguro antes de saír ou incorporarse á circulación."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Adiantamento (regras 162 a 169)",
+"description":"Normas para adiantamentos seguros, incluíndo a separación, os lugares prohibidos e ser adiantado."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Cruces de estradas (regras 170 a 183)",
+"description":"Normas para achegarse a cruces, ceder o paso, xirar, saír e cruzar o tráfico."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Rotondas (regras 184 a 190)",
+"description":"Normas de aproximación, prioridade, selección de carril, sinalización e saída de rotondas."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Pasos de peóns (normas 191 a 199)",
+"description":"Responsabilidades do condutor en pasos de cebra, pelicano, frailecillos, tucán e paralelos."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Marcha atrás (200 a 203)",
+"description":"Normas para comprobar a contorna, dar marcha atrás con seguridade e evitar marcha atrás excesivas."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Visión xeral (regra 204)",
+"description":"Introduce o deber de protexer os usuarios da estrada que corren un risco especial."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Peóns (regras 205 a 210)",
+"description":"Precaución especial arredor de nenos, persoas maiores, peóns con discapacidade e persoas que cruzan as rúas."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motociclistas e ciclistas (regras 211 a 213)",
+"description":"Vixilancia adicional e separación segura arredor de motociclistas e ciclistas, especialmente nos cruces."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Outros usuarios da estrada (regras 214 a 218)",
+"description":"Precaución especial cos animais, xinetes, condutores principiantes e usuarios da estrada sen experiencia."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Outros vehículos (regras 219 a 225)",
+"description":"Normas para vehículos de emerxencia, vehículos grandes, autobuses, tranvías e vehículos de movemento lento."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Visión xeral (regra 226)",
+"description":"Esixe que os condutores se adapten ás condicións meteorolóxicas adversas e usen as luces axeitadas cando a visibilidade sexa reducida."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Tempo húmido (regra 227)",
+"description":"Guía sobre adherencia reducida, distancias de freada máis longas, salpicaduras, aquaplaning e inundacións."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Tempo xeado e nevado (regras 228 a 231)",
+"description":"Normas para a preparación, a condución suave e o mantemento do control sobre xeo e neve."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Tempo ventoso (regras 232 a 233)",
+"description":"Guía sobre ventos laterais fortes e usuarios vulnerables da estrada afectados por refachas."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Néboa (regras 234 a 236)",
+"description":"Normas sobre visibilidade, velocidade, distancia de seguimento e uso correcto das luces antinéboa."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Tempo cálido (regra 237)",
+"description":"Guía sobre os riscos da superficie das estradas relacionados coa calor e para evitar o sobrequecemento."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Xeral (regra 238)",
+"description":"Normas xerais de estacionamento, incluído o cumprimento das restricións e a prevención de perigos ou obstáculos."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Aparcamento (normas 239 a 247)",
+"description":"Normas para o estacionamento seguro, as paradas na beira da estrada, a carga e descarga, as prazas para persoas con discapacidade e os lugares prohibidos."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Aparcamento nocturno (normas 248 a 252)",
+"description":"Normas de estacionamento nocturno que abarcan dirección, iluminación, límites de velocidade e marcas reflectantes."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Control da despenalización do estacionamento (DPE)",
+"description":"Explica a aplicación civil das restricións de estacionamento por parte das autoridades locais."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Xerais (regras 253 a 254)",
+"description":"Normas xerais de autoestradas, incluídos os usuarios prohibidos e a aplicación das normas de autoestradas."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Sinais de autoestrada (regras 255 a 258)",
+"description":"Significado dos sinais de autoestrada, peches de carril con X vermello e límites de velocidade variables."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Incorporarse á autoestrada (regra 259)",
+"description":"Normas para o uso da vía de acceso, axustando a velocidade do tráfico e dando prioridade ao tráfico da autoestrada."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Na autoestrada (regras 260 a 263)",
+"description":"Condución segura en autoestrada, respectando as distancias, as restricións e o uso dos carrís."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Disciplina de pista (regras 264 a 266)",
+"description":"Require o uso do carril esquerdo agás se se pretende adiantarse e respectar con seguridade os sinais de circulación."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Adiantamento (regras 267 a 268)",
+"description":"Normas de adiantamento en autoestrada, incluída a observación segura e a prohibición de usar o arcén."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Barrido de seguridade (regra 269)",
+"description":"Restrinxe o uso do arcén a emerxencias ou momentos nos que a sinalización o abre como carril para circular."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Parar (regras 270 a 272)",
+"description":"Prohíbe a parada na autoestrada agás en caso de emerxencia ou cando se indique e explica o seu uso en zonas de emerxencia."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Saída da autoestrada (normas 273 a 274)",
+"description":"Normas para a lectura dos sinais de saída, a sinalización e a entrada segura no carril de saída."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Lugar de relativa seguridade (regra 275)",
+"description":"Explica como identificar e chegar a un lugar máis seguro durante unha avaría ou emerxencia."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Avarías (regra 276)",
+"description":"Accións a tomar durante unha avaría na autoestrada, incluíndo abandonar o vehículo de forma segura e contactar con axuda."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Normas adicionais para autoestradas (normas 277 a 279)",
+"description":"Guía adicional para avarías e emerxencias, incluíndo a reincorporación ao tráfico e vehículos avariados."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Obstrucións (regra 280)",
+"description":"Accións a tomar ao atopar ou causar un obstáculo na estrada."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Incidentes (regras 281 a 283)",
+"description":"Medidas de seguridade en incidentes, corredores de emerxencia e cumprimento das normas do persoal de emerxencia."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Incidentes relacionados con mercadorías perigosas (regras 284 a 285)",
+"description":"Precaucións e requisitos de notificación cando hai materiais perigosos implicados nun incidente."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Documentación (regras 286 a 287)",
+"description":"Deberes de deterse, intercambiar información e denunciar as colisións á policía cando sexa necesario."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Obras na estrada (regra 288)",
+"description":"Require coidado adicional, redución da velocidade e cumprimento da sinalización temporal e dos controis de carrís nas obras."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Normas adicionais para estradas de alta velocidade (normas 289 a 290)",
+"description":"Normas de seguridade adicionais para avarías e incidentes en estradas de alta velocidade."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Pasos a nivel (regras 291 a 299)",
+"description":"Normas para a aproximación, o cruzamento e a resposta a semáforos, barreiras e emerxencias en pasos a nivel de ferrocarril."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Tranvías (regras 300 a 307)",
+"description":"Normas para compartir estradas con tranvías e evitar carrís, plataformas e rutas reservadas de tranvía."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Sinais de semáforo. Luces vermellas intermitentes. Sinais de control de carril.",
+"description":"Significado dos semáforos estándar, os sinais de parada vermellos intermitentes e os sinais de control de carril."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Sinais de autoestrada",
+"description":"Significados dos sinais de aviso en autoestrada, límites variables, peches de carril e instrucións."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Sinais indicadores de dirección. Sinais de luz de freado. Sinais de luz de marcha atrás. Sinais de brazo. Luces de emerxencia.",
+"description":"Explica as sinais luminosas e dos brazos do vehículo que se empregan para comunicar os movementos e os perigos previstos."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Axentes de policía. Sinais co brazo ás persoas que controlan o tráfico. Axentes da Axencia de Normas de Condutores e Vehículos e axentes de tráfico. Patrullas de cruce escolar",
+"description":"Sinais e instrucións dadas pola policía, o persoal de tráfico autorizado e as patrullas de cruce escolar."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Sinais que dan ordes",
+"description":"Sinais de tráfico obrigatorios e prohibitivos que os usuarios da estrada están obrigados por lei a respectar."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Sinais de advertencia",
+"description":"Sinais que advirten de perigos, condicións cambiantes da estrada e usuarios vulnerables da estrada máis adiante."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Sinais de dirección",
+"description":"Sinais que indican rutas, destinos, trazado de cruces, números de estrada e desvíos."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Sinais de información",
+"description":"Sinais rectangulares que ofrecen información sobre aparcadoiro, carril, autoestrada, ruta e instalacións."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Sinais de obras viarias",
+"description":"Sinais temporais que avisan de obras, perigos, peches de carrís, límites de velocidade e sistemas de circulación en contravía."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Ao outro lado da calzada. Ao longo da calzada. Ao longo do bordo da calzada. No bordo da calzada ou no bordo da calzada. Outras marcas viarias",
+"description":"Significados de parar, ceder o paso, carril, espera, carga, ruta vermella, cruzamento en cadros e outras marcas viarias."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Marcas traseiras para vehículos de transporte de mercadorías voluminosos. Placas de aviso de perigo. Marcadores de proxección. Outros",
+"description":"Sinalización de vehículos que identifica vehículos pesados, mercadorías perigosas, cargas proxectadas e autobuses escolares."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Ti e a túa bicicleta",
+"description":"Selección de bicicletas, mantemento, freos, iluminación, reflectores, estado dos pneumáticos e adestramento."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Requisitos para o permiso de conducir de motocicleta. Categorías de permisos para ciclomotores e motocicletas",
+"description":"CBT, restricións para aprendices, probas, acceso progresivo e categorías de permisos AM, A1, A2 e A."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Documentos. Condutores principiantes",
+"description":"Carnés de conducir, ITV, seguro, matriculación, imposto de vehículos, SORN e requisitos para aprendices de condución."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Lei de tráfico rodado. Leis e regulamentos anteriores a 1988. Leis e regulamentos desde 1988 en diante.",
+"description":"Ámbito de aplicación da lexislación de tráfico rodado do Reino Unido e abreviaturas das principais leis e regulamentos citados no Código da Estrada."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Penalizacións",
+"description":"Penalizacións máximas, puntos de penalización, descualificación, revogación do permiso de condutor novo, repetición das probas e outras consecuencias da infracción."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Mantemento de vehículos. Seguridade de vehículos",
+"description":"Idoneidade para circular, luces de aviso, pneumáticos, fluídos, seguridade do combustible, prevención de incendios e roubos de vehículos."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Lidar co perigo. 2. Pedir axuda. 3. Axudar ás persoas implicadas. 4. Prestar atención de emerxencia.",
+"description":"Seguridade no lugar do accidente, chamadas de emerxencia, atención a feridos, DRABC, RCP, tratamento de hemorraxias e queimaduras."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"O código de seguridade. Nova Lei de condutores. Formación complementaria",
+"description":"Redución de riscos para novos condutores, revogación do permiso de conducir de seis puntos e formación complementaria opcional como Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Conversións métricas. Sitios web útiles. Lecturas adicionais",
+"description":"Conversións de millas a quilómetros e recursos oficiais para a seguridade viaria, a condución, a circulación en bicicleta, o remolque e a información sobre vehículos."
+}
+]
