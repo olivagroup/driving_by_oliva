@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Formularea Codului Rutier. Cunoașterea și aplicarea regulilor",
+"description":"Explică modul în care se folosesc cuvintele TREBUIE, NU TREBUIE, ar trebui și nu ar trebui să fie folosite și responsabilitatea de a cunoaște și aplica Codul Rutier."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Vehicule autonome",
+"description":"Explică responsabilitățile legale ale utilizatorilor atunci când un vehicul autonom se conduce sau nu."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Ierarhia utilizatorilor drumurilor",
+"description":"Explică faptul că participanții la trafic capabili să provoace cele mai mari daune au cea mai mare responsabilitate de a reduce pericolul."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Îndrumări generale (regulile 1-6)",
+"description":"Îndrumări generale de siguranță pentru pietoni, inclusiv trotuare, vizibilitate și rute comune."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Traversarea drumului (regulile 7-17)",
+"description":"Codul Crucii Verzi și regulile pentru alegerea unui loc sigur și traversarea străzilor în siguranță."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Traversări (regulile 18-30)",
+"description":"Reguli pentru pietoni care utilizează trecerile de pietoni pentru zebre, pelicani, puffini, tucani și ecvestre."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Situații care necesită atenție suplimentară (regulile 31-35)",
+"description":"Precauții suplimentare pentru pietonii vulnerabili, vehiculele de urgență, autobuzele și trecerile de cale ferată."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Scaune cu rotile electrice și scutere pentru mobilitate (regulile 36-37)",
+"description":"Reguli pentru utilizarea scaunelor cu rotile electrice și a scuterelor de mobilitate pe trotuare și drumuri."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Pe trotuare (regulile 38-40)",
+"description":"Reguli pentru scutere de mobilitate și scaune cu rotile electrice care utilizează trotuare și zone pietonale."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Pe drum (regulile 41-46)",
+"description":"Reguli de utilizare a drumurilor, iluminat, vizibilitate și siguranță pentru scaune cu rotile electrice și scutere de mobilitate."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Vehicule trase de cai (regulile 47-48)",
+"description":"Siguranță, iluminat, ghidare pe traseu și echipament pentru conducătorii de vehicule trase de cai."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Călăreți (regulile 49-55)",
+"description":"Reguli pentru călăria în siguranță, inclusiv îmbrăcămintea, echipamentul, poziționarea pe șosea și semnalizarea."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Alte animale (regulile 56-58)",
+"description":"Reguli pentru câini, animale în vehicule și deplasarea animalelor pe drumuri."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Prezentare generală (regulile 59-72)",
+"description":"Reguli de bază pentru ciclism care acoperă îmbrăcămintea, echipamentul, iluminatul, poziția drumului, pistele de biciclete și rutele comune."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Intersecții rutiere (regulile 73-77)",
+"description":"Reguli pentru bicicliștii care se apropie de intersecții și traversează acestea, inclusiv poziționarea și prioritatea."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Sensuri giratorii (regulile 78-80)",
+"description":"Reguli pentru bicicliștii care utilizează sensuri giratorii, inclusiv poziționarea benzilor de circulație, semnalizarea și alternative mai sigure."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Traversarea drumului (regulile 81-82)",
+"description":"Reguli pentru bicicliștii care utilizează trecerile exclusiv pentru biciclete, trecerile pentru tucani și trecerile ecvestre."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Generalități (regulile 83-88)",
+"description":"Reguli generale pentru motociclete privind permisele de conducere, căștile, protecția ochilor, pasagerii și vizibilitatea pe timp de zi."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Starea vehiculului (regula 89)",
+"description":"Le impune motocicliștilor să își mențină motocicleta în stare de funcționare normală și să întrețină anvelopele, frânele, luminile și direcția."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Aptitudine pentru a conduce (regulile 90-94)",
+"description":"Reguli privind oboseala, bolile, vederea, concentrarea și alți factori care afectează aptitudinea la volan."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alcool și droguri (regulile 95-96)",
+"description":"Interzice conducerea sub influența alcoolului, drogurilor ilegale sau a medicamentelor."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Înainte de plecare (regula 97)",
+"description":"Verificări înainte de călătorie pentru verificarea stării de funcționare a vehiculului, a vizibilității, a comenzilor, a îmbrăcămintei și a încărcăturii sigure."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Remorcarea și încărcarea vehiculelor (regula 98)",
+"description":"Reguli pentru încărcăturile securizate, limitele de remorcare, remorci, proeminențe și evitarea supraîncărcării."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Centuri de siguranță și sisteme de siguranță pentru copii (regulile 99-102)",
+"description":"Cerințe legale privind centurile de siguranță, sistemele de siguranță pentru copii și transportul în siguranță al copiilor."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Semnale (regulile 103-106)",
+"description":"Reguli pentru semnalizarea clară și interpretarea semnalelor provenite de la alți participanți la trafic."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Alte proceduri de oprire (regulile 107-112)",
+"description":"Instrucțiuni de la poliție și ofițerii autorizați, respectarea semafoarelor și utilizarea claxonului."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Cerințe privind iluminatul (regulile 113-116)",
+"description":"Reguli privind farurile, luminile de poziție, proiectoarele de ceață și evitarea orbirii celorlalți."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Controlul vehiculului (regulile 117-126)",
+"description":"Controlul sigur al vehiculului, frânarea, distanțe de oprire, derapajele, rularea în inerție și respectarea limitelor de viteză."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Linii și marcaje rutiere pe șosea (regulile 127-132)",
+"description":"Semnificația și efectul juridic al liniilor centrale, liniilor de pericol, liniilor albe duble, liniilor de bandă și chevroanelor."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Șosele cu mai multe benzi de circulație (regulile 133-143)",
+"description":"Disciplina pe bandă, schimbarea benzilor, benzi de urcare, benzi pentru autobuze, benzi pentru biciclete și benzi pentru locuri cu ocupare ridicată."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Sfaturi generale (regulile 144-158)",
+"description":"Conduită generală în siguranță la volan, considerație față de ceilalți, viteză, prioritate și evitarea distragerilor."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Reguli generale (regulile 159-161)",
+"description":"Observare, semnalizare și deplasare în siguranță înainte de plecarea sau intrarea în trafic."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Depășiri (regulile 162-169)",
+"description":"Reguli pentru depășirea în siguranță, inclusiv înălțimea vehiculului, locurile interzise și depășirea."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Intersecții rutiere (regulile 170-183)",
+"description":"Reguli pentru apropierea de intersecții, acordarea trecerii, viraj, ieșirea și traversarea traficului."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Sensuri giratorii (regulile 184-190)",
+"description":"Reguli de apropiere, prioritate, alegerea benzii, semnalizare și ieșirea din sensuri giratorii."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Treceri de pietoni (regulile 191-199)",
+"description":"Responsabilitățile șoferilor la trecerile de pietoni, pelicani, puffini, toucani și la trecerile paralele."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Marșarier (200 până la 203)",
+"description":"Reguli pentru verificarea împrejurimilor, mersul înapoi în siguranță și evitarea mersului înapoi excesiv."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Prezentare generală (regula 204)",
+"description":"Introduce obligația de a proteja participanții la trafic care sunt deosebit de expuși riscurilor."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Pietoni (regulile 205-210)",
+"description":"Atenție sporită în jurul copiilor, persoanelor în vârstă, pietonilor cu dizabilități și persoanelor care traversează străzile."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motocicliști și bicicliști (regulile 211-213)",
+"description":"Observație suplimentară și distanță sigură în jurul motocicliștilor și bicicliștilor, în special la intersecții."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Alți participanți la trafic (regulile 214-218)",
+"description":"Atenție sporită în jurul animalelor, călăreților, șoferilor începători și participanților la trafic fără experiență."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Alte vehicule (regulile 219-225)",
+"description":"Reguli pentru vehiculele de urgență, vehiculele mari, autobuzele, tramvaiele și vehiculele cu mișcare lentă."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Prezentare generală (regula 226)",
+"description":"Impune șoferilor să se adapteze la condițiile meteorologice nefavorabile și să utilizeze luminile corespunzătoare atunci când vizibilitatea este redusă."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Vreme umedă (regula 227)",
+"description":"Îndrumări privind aderența redusă, distanțe de frânare mai lungi, stropire cu apă, acvaplanare și inundații."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Vreme cu gheață și ninsoare (regulile 228-231)",
+"description":"Reguli pentru pregătirea, conducerea lină și menținerea controlului pe gheață și zăpadă."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Vreme cu vânt (regulile 232-233)",
+"description":"Îndrumări privind vânturile laterale puternice și participanții vulnerabili la trafic afectați de rafale."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Ceață (regulile 234-236)",
+"description":"Reguli privind vizibilitatea, viteza, distanța de urmărire și utilizarea corectă a proiectoarelor de ceață."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Vreme caldă (regula 237)",
+"description":"Îndrumări privind pericolele de pe suprafața drumului legate de căldură și evitarea supraîncălzirii."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"General (regula 238)",
+"description":"Reguli generale de parcare, inclusiv respectarea restricțiilor și evitarea pericolelor sau a obstrucțiilor."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Parcare (regulile 239-247)",
+"description":"Reguli pentru parcarea în siguranță, oprirea pe marginea drumului, încărcarea, locurile pentru persoane cu dizabilități și locurile interzise."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Parcarea pe timp de noapte (regulile 248-252)",
+"description":"Reguli de parcare nocturnă privind direcția, iluminatul, limitele de viteză și marcajele reflectorizante."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Aplicarea dezincriminată a parcării (DPE)",
+"description":"Explică aplicarea la nivel civil a restricțiilor de parcare de către autoritățile locale."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Generalități (regulile 253-254)",
+"description":"Reguli generale de autostradă, inclusiv utilizatorii interziși și aplicarea reglementărilor de autostradă."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Semnale de autostradă (regulile 255-258)",
+"description":"Semnificația semnalelor de pe autostradă, a închiderii benzilor cu X roșu și a limitelor de viteză variabile."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Intrarea pe autostradă (regula 259)",
+"description":"Reguli de utilizare a drumului de acces, adaptarea vitezei traficului și acordarea de prioritate traficului de pe autostradă."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Pe autostradă (regulile 260-263)",
+"description":"Condusul în siguranță pe autostradă, respectarea distanțelor, restricțiilor și utilizarea benzilor de circulație."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Disciplina pe bandă (regulile 264-266)",
+"description":"Necesită utilizarea benzii din stânga, cu excepția cazului în care se depășesc și respectarea în siguranță a semnalelor de pe bandă."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Depășiri (regulile 267-268)",
+"description":"Reguli de depășire pe autostradă, inclusiv observarea în siguranță și interzicerea utilizării acostamentului de urgență."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Acostament de urgență (regula 269)",
+"description":"Restricționează utilizarea acostamentului la situații de urgență sau în momentele în care semnalizarea îl deschide ca bandă de alergare."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Oprirea (regulile 270-272)",
+"description":"Interzice oprirea pe autostradă, cu excepția cazurilor de urgență sau a cazurilor în care este indicat acest lucru, și explică utilizarea în zonele de urgență."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Ieșirea de pe autostradă (regulile 273-274)",
+"description":"Reguli pentru citirea indicatoarelor de ieșire, semnalizare și intrarea în siguranță pe banda de ieșire."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Loc de relativă siguranță (regula 275)",
+"description":"Explică cum să identifici și să ajungi într-un loc mai sigur în timpul unei avarii sau a unei situații de urgență."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Defalcări (regula 276)",
+"description":"Acțiuni de întreprins în timpul unei avarii pe autostradă, inclusiv părăsirea vehiculului în siguranță și contactarea asistenței."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Reguli suplimentare pentru autostrăzi (regulile 277-279)",
+"description":"Îndrumări suplimentare pentru depanare și situații de urgență, inclusiv reconectarea la trafic și vehicule avariate."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Obstrucții (regula 280)",
+"description":"Acțiuni de întreprins atunci când întâlniți sau provocați un obstacol rutier."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Incidente (regulile 281-283)",
+"description":"Măsuri de siguranță în caz de incident, coridoare de urgență și respectarea cerințelor personalului de urgență."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Incidente care implică mărfuri periculoase (regulile 284-285)",
+"description":"Precauții și cerințe de raportare atunci când într-un incident sunt implicate materiale periculoase."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Documentație (regulile 286-287)",
+"description":"Obligațiile de a opri, de a face schimb de informații și de a raporta coliziunile poliției atunci când este necesar."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Lucrări rutiere (regula 288)",
+"description":"Necesită atenție suplimentară, viteză redusă și respectarea semnalizării temporare și a controalelor de circulație pe bandă la lucrările rutiere."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Reguli suplimentare pentru drumurile de mare viteză (regulile 289-290)",
+"description":"Reguli suplimentare de siguranță pentru avarii și incidente pe drumurile de mare viteză."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Treceri la nivel (regulile 291-299)",
+"description":"Reguli pentru apropierea, traversarea și intervenția în caz de lumini, bariere și situații de urgență la trecerile de cale ferată."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Tramvaie (regulile 300-307)",
+"description":"Reguli pentru partajarea drumurilor cu tramvaiele și evitarea șinelor, peroanelor și rutelor rezervate pentru tramvai."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Semnale luminoase de trafic. Lumini roșii intermitente. Semnale de control al benzii de circulație.",
+"description":"Semnificațiile semafoarelor standard, ale semnalelor de oprire roșii intermitente și ale semnalelor de control al benzii de circulație."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Semnale de autostradă",
+"description":"Semnificațiile semnalelor de avertizare de pe autostradă, ale limitelor variabile, ale închiderilor de benzi și ale instrucțiunilor."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Semnale indicatoare de direcție. Semnale luminoase de frână. Semnale luminoase de mers înapoi. Semnale braț. Lumini de avarie.",
+"description":"Explică semnalele luminoase și ale brațelor vehiculului utilizate pentru a comunica mișcările și pericolele intenționate."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Ofițeri de poliție. Semnale cu brațul către persoanele care controlează traficul. Ofițeri ai Agenției pentru Standardele Șoferilor și Vehiculelor și ofițeri de trafic. Patrulele de trecere a traverselor școlare",
+"description":"Semnale și instrucțiuni date de poliție, personalul rutier autorizat și patrulele de la trecerile de pietoni școlare."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Semne care dau ordine",
+"description":"Semne de circulație obligatorii și interdictive pe care participanții la trafic sunt obligați prin lege să le respecte."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Semne de avertizare",
+"description":"Semne care avertizează asupra pericolelor, a schimbării condițiilor rutiere și a participanților vulnerabili la trafic."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Indicatoare de direcție",
+"description":"Indicatoare care indică rute, destinații, amplasarea intersecțiilor, numere de drum și devieri."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Semne de informare",
+"description":"Indicatoare dreptunghiulare care oferă informații despre parcare, bandă, autostradă, traseu și facilități."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Semne de lucru rutier",
+"description":"Indicatoare temporare care avertizează asupra lucrărilor rutiere, pericolelor, închiderii benzilor de circulație, limitelor de viteză și sistemelor de circulație în sens invers."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"De-a lungul părții carosabile. De-a lungul părții carosabile. De-a lungul marginii părții carosabile. Pe bordură sau la marginea părții carosabile. Alte marcaje rutiere",
+"description":"Semnificațiile termenilor „stop”, „cedează trecerea”, „bandă”, „așteptare”, „încărcare”, „Rută roșie”, „intersecție tip chenar” și alte marcaje rutiere."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Marcaje spate pentru vehicule de marfă mari. Plăcuțe de avertizare. Marcaje cu proiecții. Altele",
+"description":"Marcaje ale vehiculelor pentru identificarea vehiculelor grele, a mărfurilor periculoase, a încărcăturilor proiectate și a autobuzelor școlare."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Tu și bicicleta ta",
+"description":"Selectarea bicicletei, întreținerea, frânele, iluminatul, reflectoarele, starea anvelopelor și antrenamentul."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Cerințe pentru permisul de conducere pentru motociclete. Categorii de permise pentru mopede și motociclete",
+"description":"CBT, restricții pentru cursanți, teste, acces progresiv și permise de conducere pentru categoriile AM, A1, A2 și A."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Documente. Șoferi cursanți",
+"description":"Permise de conducere, ITP, asigurare, înmatriculare, taxă auto, SORN și cerințe pentru șoferi începători."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Legea traficului rutier. Legi și regulamente anterioare anului 1988. Legi și regulamente din 1988 încoace.",
+"description":"Domeniul de aplicare al legislației rutiere din Regatul Unit și abrevieri pentru principalele acte și regulamente citate în Codul Rutier."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Penalizări",
+"description":"Penalizări maxime, puncte de penalizare, descalificare, revocarea permisului de șofer nou, retestarea și alte consecințe ale încălcării."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Întreținerea vehiculelor. Securitatea vehiculelor",
+"description":"Respectarea regulilor de circulație, lumini de avertizare, anvelope, fluide, siguranța combustibilului, prevenirea incendiilor și a furtului vehiculelor."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Gestionați pericolul. 2. Cereți ajutor. 3. Ajutați persoanele implicate. 4. Oferiți îngrijiri de urgență.",
+"description":"Siguranța la locul accidentului, apeluri de urgență, îngrijirea victimelor, terapie intensivă asistată de urgență (DRABC), resuscitare cardiopulmonară (CPR), tratamentul hemoragiilor și arsurilor."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Codul de siguranță. Legea noii șoferi. Formare profesională suplimentară",
+"description":"Reducerea riscurilor pentru șoferii noi, retragerea permisului de conducere în șase puncte și instruire suplimentară opțională, cum ar fi Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Conversii metrice. Site-uri web utile. Lecturi suplimentare",
+"description":"Conversii de la mile la kilometri și resurse oficiale pentru siguranța rutieră, condus, mers cu mașina, remorcare și informații despre vehicule."
+}
+]

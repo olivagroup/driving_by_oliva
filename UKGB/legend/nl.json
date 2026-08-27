@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"De formulering van de verkeersregels. De regels kennen en toepassen.",
+"description":"Legt uit hoe de woorden `moet`, `mag niet`, `zou moeten` en `zou niet moeten` worden gebruikt, en wat de verantwoordelijkheid is om de verkeersregels te kennen en toe te passen."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Zelfrijdende voertuigen",
+"description":"Dit document legt de wettelijke verantwoordelijkheden van gebruikers uit wanneer een zelfrijdend voertuig wel of niet zelf rijdt."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Hiërarchie van weggebruikers",
+"description":"Het legt uit dat weggebruikers die de grootste schade kunnen aanrichten, de grootste verantwoordelijkheid hebben om het gevaar te verminderen."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Algemene richtlijnen (regels 1 tot en met 6)",
+"description":"Algemene veiligheidsrichtlijnen voor voetgangers, met betrekking tot trottoirs, zichtbaarheid en gedeelde routes."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Oversteken van de weg (regels 7 tot en met 17)",
+"description":"De Groene Kruis-code en regels voor het kiezen van een veilige plek en het veilig oversteken van de weg."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Oversteekplaatsen (regels 18 tot en met 30)",
+"description":"Regels voor voetgangers die gebruikmaken van zebrapaden, pelikaanoversteekplaatsen, papegaaiduikeroversteekplaatsen, toekanoversteekplaatsen en ruiteroversteekplaatsen."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Situaties die extra aandacht vereisen (regels 31 tot en met 35)",
+"description":"Extra voorzorgsmaatregelen voor kwetsbare voetgangers, hulpdiensten, bussen en spoorwegovergangen."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Elektrische rolstoelen en scootmobielen (regels 36 tot en met 37)",
+"description":"Regels voor het gebruik van elektrische rolstoelen en scootmobielen op trottoirs en wegen."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Op trottoirs (regels 38 tot en met 40)",
+"description":"Regels voor het gebruik van scootmobielen en elektrische rolstoelen op trottoirs en voetgangersgebieden."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Op de weg (regels 41 tot en met 46)",
+"description":"Regels voor gebruik op de weg, verlichting, zichtbaarheid en veiligheid voor elektrische rolstoelen en scootmobielen."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Paardengetrokken voertuigen (regels 47 tot 48)",
+"description":"Veiligheids-, verlichtings-, route- en uitrustingsrichtlijnen voor bestuurders van door paarden getrokken voertuigen."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Ruiters (regels 49 tot en met 55)",
+"description":"Regels voor veilig paardrijden, inclusief kleding, uitrusting, positie op de weg en signalering."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Andere dieren (regels 56 tot 58)",
+"description":"Regels voor honden, dieren in voertuigen en het vervoeren van vee over de weg."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Overzicht (regels 59 tot en met 72)",
+"description":"De basisregels voor het fietsen, met betrekking tot kleding, uitrusting, verlichting, positie op de weg, fietspaden en gedeelde routes."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Wegkruisingen (regels 73 tot en met 77)",
+"description":"Regels voor fietsers bij het naderen en passeren van kruispunten, inclusief positionering en voorrang."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Rotondes (regels 78 tot en met 80)",
+"description":"Regels voor fietsers die rotondes gebruiken, inclusief rijstrookpositie, signalering en veiligere alternatieven."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Oversteken van de weg (regels 81 tot en met 82)",
+"description":"Regels voor fietsers die gebruikmaken van fietsovergangen, overgangen met verkeerslichten voor toucanrijders en ruiterpaden."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Algemeen (regels 83 tot en met 88)",
+"description":"Algemene motorrijregels met betrekking tot rijbewijs, helmen, oogbescherming, passagiers en zichtbaarheid overdag."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Voertuigconditie (regel 89)",
+"description":"Motorrijders zijn verplicht hun motorfiets rijklaar te houden en de banden, remmen, verlichting en stuurinrichting te onderhouden."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Geschiktheid om te rijden (regels 90 tot en met 94)",
+"description":"Regels met betrekking tot vermoeidheid, ziekte, gezichtsvermogen, concentratie en andere factoren die de rijvaardigheid beïnvloeden."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alcohol en drugs (regels 95 tot en met 96)",
+"description":"Het is verboden om te rijden onder invloed van alcohol, illegale drugs of medicijnen."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Voor vertrek (regel 97)",
+"description":"Controles vóór vertrek om de verkeersveiligheid, zichtbaarheid, bedieningselementen, kleding en zekering van de lading te controleren."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Voertuig slepen en laden (regel 98)",
+"description":"Regels voor het vastzetten van ladingen, sleeplimieten, aanhangers, uitsteeksels en het voorkomen van overbelading."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Veiligheidsgordels en kinderzitjes (regels 99 tot en met 102)",
+"description":"Wettelijke voorschriften voor autogordels, kinderzitjes en het veilig vervoeren van kinderen."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Seinen (regels 103 tot 106)",
+"description":"Regels voor het geven van duidelijke signalen en het interpreteren van signalen van andere weggebruikers."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Overige stopprocedures (regels 107 tot en met 112)",
+"description":"Aanwijzingen van de politie en bevoegde functionarissen, het naleven van verkeerslichten en het gebruik van de claxon."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Verlichtingseisen (regels 113 tot en met 116)",
+"description":"Regels met betrekking tot koplampen, stadslichten, mistlampen en het voorkomen van verblinding van anderen."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Controle over het voertuig (regels 117 tot en met 126)",
+"description":"Veilige voertuigbeheersing, remmen, remweg, slippen, uitrollen en naleving van snelheidslimieten."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Lijnen en rijstrookmarkeringen op de weg (regels 127 tot en met 132)",
+"description":"Betekenis en juridische gevolgen van middenlijnen, gevaarslijnen, dubbele witte lijnen, rijstrookmarkeringen en pijlen."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Rijbanen met meerdere rijstroken (regels 133 tot en met 143)",
+"description":"Rijstrookdiscipline, van rijstrook wisselen, invoegstroken gebruiken, busstroken, fietspaden en rijstroken voor voertuigen met meerdere inzittenden."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Algemeen advies (regels 144 tot en met 158)",
+"description":"Algemene regels voor veilig rijden, rekening houden met anderen, snelheid, voorrang verlenen en afleiding vermijden."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Algemene regels (regels 159 tot en met 161)",
+"description":"Observeer, geef signalen en zorg voor een veilige manoeuvre voordatuwegrijdt of het verkeer invoegt."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Inhalen (regels 162 tot en met 169)",
+"description":"Regels voor veilig inhalen, inclusief voorrang, verboden locaties en zelf ingehaald worden."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Wegkruisingen (regels 170 tot 183)",
+"description":"Regels voor het naderen van kruispunten, voorrang verlenen, afslaan, invoegen en oversteken van verkeer."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Rotondes (regels 184 tot 190)",
+"description":"Regels voor het naderen, de voorrang, de rijstrookkeuze, de signalering en het verlaten van rotondes."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Voetgangersovergangen (regels 191 tot en met 199)",
+"description":"Verantwoordelijkheden van de bestuurder bij zebrapaden, pelikaanovergangen, papegaaiduikerovergangen, toekanovergangen en parallelle oversteekplaatsen."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Omkeren (200 tot 203)",
+"description":"Regels voor het controleren van de omgeving, veilig achteruitrijden en het vermijden van overmatig achteruitrijden."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Overzicht (regel 204)",
+"description":"Introduceert de plicht om weggebruikers te beschermen die een bijzonder risico lopen."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Voetgangers (regels 205 tot 210)",
+"description":"Extra voorzichtigheid is geboden bij kinderen, ouderen, voetgangers met een beperking en mensen die de weg oversteken."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motorrijders en fietsers (regels 211 tot en met 213)",
+"description":"Extra oplettendheid en het bewaren van voldoende afstand rondom motorrijders en fietsers, met name op kruispunten."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Andere weggebruikers (regels 214 tot en met 218)",
+"description":"Extra voorzichtigheid is geboden in de buurt van dieren, ruiters, beginnende bestuurders en onervaren weggebruikers."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Andere voertuigen (regels 219 tot en met 225)",
+"description":"Regels voor hulpdiensten, grote voertuigen, bussen, trams en langzaam rijdende voertuigen."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Overzicht (regel 226)",
+"description":"Vereist dat bestuurders zich aanpassen aan ongunstige weersomstandigheden en de juiste verlichting gebruiken wanneer het zicht beperkt is."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Nat weer (regel 227)",
+"description":"Richtlijnen met betrekking tot verminderde grip, langere remwegen, opspattend water, aquaplaning en hoogwater."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"IJzig en sneeuwachtig weer (regels 228 tot en met 231)",
+"description":"Regels voor de voorbereiding, het soepel rijden en het behouden van controle op ijs en sneeuw."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Winderig weer (regels 232 tot 233)",
+"description":"Richtlijnen voor sterke zijwind en kwetsbare weggebruikers die last hebben van windstoten."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Mist (regels 234 tot 236)",
+"description":"Regels met betrekking tot zichtbaarheid, snelheid, volgafstand en correct gebruik van mistlampen."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Warm weer (regel 237)",
+"description":"Richtlijnen voor hittegerelateerde gevaren van het wegdek en het voorkomen van oververhitting."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Algemeen (regel 238)",
+"description":"Algemene parkeerregels, waaronder het naleven van beperkingen en het vermijden van gevaar of belemmeringen."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Parkeren (regels 239 tot en met 247)",
+"description":"Regels voor veilig parkeren, stoppen langs de weg, laden en lossen, invalidenparkeerplaatsen en verboden locaties."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Parkeren `s nachts (regels 248 tot 252)",
+"description":"Regels voor parkeren in het donker met betrekking tot rijrichting, verlichting, snelheidslimieten en reflecterende markeringen."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Gedecriminaliseerde parkeerhandhaving (DPE)",
+"description":"Legt de handhaving van parkeerbeperkingen door lokale autoriteiten uit."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Algemeen (regels 253 tot en met 254)",
+"description":"Algemene snelwegregels, inclusief verboden gebruikers en de toepassing van snelwegvoorschriften."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Verkeerslichten op de snelweg (regels 255 tot en met 258)",
+"description":"Betekenis van verkeerslichten op de snelweg, rode X-rijstrookafsluitingen en variabele snelheidslimieten."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Invoegen op de snelweg (regel 259)",
+"description":"Regels voor het gebruik van de invoegstrook, het aanpassen van de snelheid aan het verkeer en het verlenen van voorrang aan het verkeer op de snelweg."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Op de snelweg (regels 260 tot en met 263)",
+"description":"Veilig rijden op de snelweg: afstand houden, beperkingen en gebruik van rijstroken."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Rijstrookdiscipline (regels 264 tot en met 266)",
+"description":"Het gebruik van de linkerrijstrook is verplicht, tenzij er sprake is van inhalen, en het is essentieel om de rijstrooksignalen correct te volgen."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Inhalen (regels 267 tot en met 268)",
+"description":"Regels voor inhalen op de snelweg, waaronder het goed observeren van de omgeving en het verbod op het gebruik van de vluchtstrook."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Harde berm (regel 269)",
+"description":"Beperkt het gebruik van de vluchtstrook tot noodgevallen of momenten waarop borden aangeven dat deze als rijstrook mag worden gebruikt."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Stoppen (regels 270 tot 272)",
+"description":"Het is verboden om op de snelweg te stoppen, behalve in noodgevallen of op aanwijzing, en er wordt uitleg gegeven over het gebruik van de noodzone."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"De snelweg verlaten (regels 273 tot en met 274)",
+"description":"Regels voor het lezen van uitgangsborden, het geven van richtingaanwijzers en het veilig invoegen op de uitgangsstrook."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Plaats van relatieve veiligheid (regel 275)",
+"description":"Legt uit hoeueen veilige locatie kunt vinden en bereiken tijdens een pechgeval of noodsituatie."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Storingen (regel 276)",
+"description":"Watumoet doen bij pech op de snelweg, waaronder het voertuig veilig verlaten en hulp inschakelen."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Aanvullende regels voor snelwegen (regels 277 tot en met 279)",
+"description":"Aanvullende informatie over pechgevallen en noodsituaties, waaronder het weer invoegen in het verkeer en de afhandeling van defecte voertuigen."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Obstakels (regel 280)",
+"description":"Te ondernemen acties bij het tegenkomen of veroorzaken van een wegversperring."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Incidenten (regels 281 tot en met 283)",
+"description":"Veiligheidsmaatregelen bij incidenten, noodgangen en naleving van instructies van hulpverleners."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Incidenten met gevaarlijke goederen (regels 284 tot 285)",
+"description":"Voorzorgsmaatregelen en meldingsvereisten wanneer gevaarlijke stoffen betrokken zijn bij een incident."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Documentatie (regels 286 tot en met 287)",
+"description":"Verplichtingen om te stoppen, gegevens uit te wisselen en aanrijdingen aan de politie te melden wanneer dat nodig is."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Wegwerkzaamheden (regel 288)",
+"description":"Bij wegwerkzaamheden is extra voorzichtigheid, een lagere snelheid en het naleven van tijdelijke verkeersborden en rijstrookregels vereist."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Aanvullende regels voor hogesnelheidswegen (regels 289 tot en met 290)",
+"description":"Aanvullende veiligheidsregels voor pechgevallen en incidenten op snelwegen."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Spoorwegovergangen (regels 291 tot en met 299)",
+"description":"Regels voor het naderen, oversteken en reageren op lichten, slagbomen en noodsituaties bij spoorwegovergangen."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Tramwegen (regels 300 tot 307)",
+"description":"Regels voor het delen van de weg met trams en het vermijden van rails, perrons en gereserveerde tramroutes."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Verkeerslichten. Knipperende rode lichten. Rijstrooksignalen.",
+"description":"Betekenis van standaard verkeerslichten, knipperende rode stoplichten en rijstrooksignalen."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Snelwegsignalen",
+"description":"Betekenis van waarschuwingssignalen op de snelweg, variabele snelheidslimieten, rijstrookafsluitingen en aanwijzingen."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Richtingaanwijzers. Remlichten. Achteruitrijlichten. Armlichten. Alarmlichten.",
+"description":"Legt uit hoe voertuiglichten en armsignalen worden gebruikt om beoogde bewegingen en gevaren aan te geven."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Politieagenten. Armsignalen naar verkeersregelaars. Medewerkers van de Dienst Wegverkeer en verkeersagenten. Schooloversteekbegeleiders.",
+"description":"Signalen en instructies gegeven door de politie, bevoegd verkeerspersoneel en schooloversteekbegeleiders."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Borden met instructies",
+"description":"Verplichte en verbiedende verkeersborden waaraan weggebruikers zich wettelijk moeten houden."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Waarschuwingssignalen",
+"description":"Waarschuwingsborden voor gevaren, veranderende wegomstandigheden en kwetsbare weggebruikers verderop."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Richtingaanwijzers",
+"description":"Borden met aanwijzingen voor routes, bestemmingen, kruispuntindelingen, wegnummers en omleidingen."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Informatieborden",
+"description":"Rechthoekige borden met informatie over parkeren, rijstroken, snelwegen, routes en voorzieningen."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Wegwerkzaamhedenborden",
+"description":"Tijdelijke borden die waarschuwen voor wegwerkzaamheden, gevaren, rijstrookafsluitingen, snelheidslimieten en omleidingssystemen."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Dwars over de rijbaan. Langs de rijbaan. Langs de rand van de rijbaan. Op de stoeprand of aan de rand van de rijbaan. Andere wegmarkeringen.",
+"description":"Betekenis van stop, voorrang verlenen, rijstrook, wachten, laden, rode route, kruispunt en andere wegmarkeringen."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Markeringen op de achterzijde van grote vrachtwagens. Gevaarwaarschuwingsplaten. Uitsteekselmarkeringen. Overige",
+"description":"Voertuigmarkeringen ter identificatie van zware voertuigen, gevaarlijke goederen, uitstekende ladingen en schoolbussen."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Jij en je fiets",
+"description":"Fietskeuze, onderhoud, remmen, verlichting, reflectoren, bandenconditie en training."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Vereisten voor een motorrijbewijs. Rijbewijscategorieën voor bromfietsen en motorfietsen.",
+"description":"CBT, beperkingen voor leerlingen, toetsen, progressieve toegang en de rijbewijscategorieën AM, A1, A2 en A."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Documenten. Leerling-chauffeurs",
+"description":"Rijbewijs, APK, verzekering, registratie, wegenbelasting, SORN (schorsing van rijbewijs) en vereisten voor leerling-bestuurders."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Verkeerswetgeving. Wetten en regelgeving van vóór 1988. Wetten en regelgeving vanaf 1988.",
+"description":"Omvang van de Britse verkeerswetgeving en afkortingen voor de belangrijkste wetten en voorschriften die in de Highway Code worden genoemd."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Strafpunten",
+"description":"Maximale straffen, strafpunten, rijverbod, intrekking rijbewijs voor beginnende bestuurders, herkeuring en andere gevolgen van overtreding."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Voertuigonderhoud. Voertuigbeveiliging.",
+"description":"Verkeersveiligheid, waarschuwingslichten, banden, vloeistoffen, brandstofveiligheid, voertuigbranden en diefstalpreventie."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Handel gevaarlijk. 2. Schakel hulp in. 3. Help de betrokkenen. 4. Verleen eerste hulp.",
+"description":"Veiligheid op de plaats van het ongeval, noodoproepen, eerste hulp bij slachtoffers, ademhalingsondersteuning, reanimatie, behandeling van bloedingen en brandwonden."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"De verkeersregels. De wet voor nieuwe bestuurders. Bijscholing.",
+"description":"Risicovermindering voor nieuwe bestuurders, intrekking van het rijbewijs op basis van zes punten en optionele aanvullende trainingen zoals Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Metrische conversies. Nuttige websites. Verder lezen",
+"description":"Omrekeningen van mijlen naar kilometers en officiële bronnen voor verkeersveiligheid, autorijden, motorrijden, het trekken van aanhangers en voertuiginformatie."
+}
+]

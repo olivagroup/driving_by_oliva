@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Brzmienie Kodeksu Drogowego. Znajomość i stosowanie przepisów",
+"description":"Wyjaśnia, jak należy używać słów MUST (Musi), MUST NOT (Nie Może), should (Powinien) i should not (Nie powinien) oraz obowiązek znajomości i stosowania Kodeksu Drogowego."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Pojazdy autonomiczne",
+"description":"Wyjaśnia obowiązki prawne użytkowników w sytuacji, gdy pojazd autonomiczny porusza się samodzielnie lub nie."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Hierarchia użytkowników dróg",
+"description":"Wyjaśnia, że użytkownicy dróg, którzy są w stanie wyrządzić największe szkody, ponoszą największą odpowiedzialność za zmniejszenie zagrożenia."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Wskazówki ogólne (zasady od 1 do 6)",
+"description":"Ogólne wskazówki dotyczące bezpieczeństwa pieszych, w tym chodników, widoczności i dróg współdzielonych."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Przechodzenie przez jezdnię (zasady 7–17)",
+"description":"Kodeks Zielonego Krzyża i zasady wyboru bezpiecznego miejsca i bezpiecznego przechodzenia przez ulicę."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Przejścia (zasady 18 do 30)",
+"description":"Zasady dla pieszych korzystających z przejść dla pieszych zebr, pelikanów, maskonurów, tukanów i koni."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Sytuacje wymagające szczególnej ostrożności (zasady 31–35)",
+"description":"Dodatkowe środki ostrożności dla niechronionych pieszych, pojazdów uprzywilejowanych, autobusów i przejazdów kolejowych."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Wózki inwalidzkie z napędem elektrycznym i skutery inwalidzkie (przepisy 36–37)",
+"description":"Zasady korzystania z elektrycznych wózków inwalidzkich i skuterów inwalidzkich na chodnikach i drogach."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Na chodnikach (zasady 38 do 40)",
+"description":"Zasady korzystania ze skuterów inwalidzkich i wózków inwalidzkich z napędem elektrycznym na chodnikach i w strefach dla pieszych."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Na drodze (zasady 41 do 46)",
+"description":"Zasady korzystania z dróg, oświetlenia, widoczności i bezpieczeństwa dla wózków inwalidzkich z napędem i skuterów inwalidzkich."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Pojazdy konne (zasady 47–48)",
+"description":"Bezpieczeństwo, oświetlenie, trasa i wskazówki dotyczące sprzętu dla kierowców pojazdów konnych."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Jeźdźcy konni (zasady 49 do 55)",
+"description":"Zasady bezpiecznej jazdy konnej, obejmujące m.in. ubiór, sprzęt, pozycję na drodze i sygnalizację."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Inne zwierzęta (zasady 56 do 58)",
+"description":"Przepisy dotyczące psów, zwierząt w pojazdach i zwierząt gospodarskich poruszających się po drogach."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Przegląd (zasady 59 do 72)",
+"description":"Podstawowe zasady jazdy na rowerze obejmują ubiór, sprzęt, oświetlenie, pozycję na drodze, ścieżki rowerowe i trasy współdzielone."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Skrzyżowania (zasady 73–77)",
+"description":"Zasady obowiązujące rowerzystów zbliżających się do skrzyżowań i poruszających się po nich, w tym zasady dotyczące ustawienia się i pierwszeństwa."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Ronda (zasady 78 do 80)",
+"description":"Zasady korzystania z rond przez rowerzystów, w tym rozmieszczenie pasów ruchu, sygnalizacja i bezpieczniejsze alternatywy."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Przechodzenie przez jezdnię (zasady 81–82)",
+"description":"Zasady dla rowerzystów korzystających z przejść dla rowerów, przejazdów dla tukanów i przejazdów konnych."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Ogólne (zasady 83 do 88)",
+"description":"Ogólne zasady jazdy motocyklem, obejmujące licencję, kaski, ochronę oczu, pasażerów i widoczność w ciągu dnia."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Stan pojazdu (zasada 89)",
+"description":"Nakłada na motocyklistów obowiązek utrzymywania motocykli w stanie zdatnym do jazdy oraz konserwacji opon, hamulców, świateł i układu kierowniczego."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Zdolność do kierowania pojazdami (przepisy 90–94)",
+"description":"Zasady dotyczące zmęczenia, choroby, wzroku, koncentracji i innych czynników wpływających na zdolność prowadzenia pojazdu."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkohol i narkotyki (przepisy 95–96)",
+"description":"Zabrania prowadzenia pojazdów pod wpływem alkoholu, narkotyków lub leków."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Przed wyruszeniem w drogę (zasada 97)",
+"description":"Kontrola przed podróżą obejmuje sprawdzenie stanu technicznego pojazdu, widoczności, elementów sterujących, odzieży i zabezpieczenia ładunku."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Holowanie i załadunek pojazdów (zasada 98)",
+"description":"Zasady dotyczące bezpiecznego ładunku, ograniczeń holowania, przyczep, wystających elementów i unikania przeciążenia."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Pasy bezpieczeństwa i foteliki dziecięce (przepisy 99–102)",
+"description":"Wymagania prawne dotyczące pasów bezpieczeństwa, fotelików dziecięcych i bezpiecznego przewożenia dzieci."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Sygnały (zasady 103 do 106)",
+"description":"Zasady dawania wyraźnych sygnałów i interpretowania sygnałów pochodzących od innych uczestników ruchu drogowego."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Inne procedury zatrzymania (przepisy 107 do 112)",
+"description":"Wskazówki policji i upoważnionych funkcjonariuszy, przestrzeganie sygnalizacji świetlnej i używanie klaksonu."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Wymagania dotyczące oświetlenia (przepisy 113–116)",
+"description":"Zasady dotyczące używania świateł przednich, świateł pozycyjnych, świateł przeciwmgielnych i unikania oślepiania innych kierowców."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Kontrola pojazdu (zasady 117 do 126)",
+"description":"Bezpieczne sterowanie pojazdem, hamowanie, droga hamowania, poślizgi, jazda bez obciążenia i przestrzeganie ograniczeń prędkości."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Linie i oznakowanie pasów ruchu na drodze (zasady 127–132)",
+"description":"Znaczenie i skutki prawne linii środkowych, linii niebezpiecznych, podwójnych białych linii, linii pasów ruchu i szewronów."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Drogi wielopasmowe (przepisy 133–143)",
+"description":"Dyscyplina w poruszaniu się po pasach ruchu, zmiana pasa ruchu, pasy dla pojazdów z nadjeżdżającymi pojazdami, pasy dla autobusów, pasy rowerowe i pasy o dużym natężeniu ruchu."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Porady ogólne (przepisy 144 do 158)",
+"description":"Ogólne zasady bezpiecznej jazdy, uwzględnienie potrzeb innych, prędkość, pierwszeństwo i unikanie rozpraszania uwagi."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Zasady ogólne (zasady 159 do 161)",
+"description":"Obserwacja, sygnalizacja i bezpieczny ruch przed ruszaniem lub włączaniem się do ruchu."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Wyprzedzanie (zasady 162 do 169)",
+"description":"Zasady bezpiecznego wyprzedzania, w tym odstęp od poprzedzającego pojazdu, miejsca zabronione i wyprzedzanie."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Skrzyżowania (przepisy 170 do 183)",
+"description":"Zasady zbliżania się do skrzyżowań, ustępowania pierwszeństwa przejazdu, skręcania, wjeżdżania na skrzyżowanie i przejeżdżania przez nie."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Ronda (przepisy 184 do 190)",
+"description":"Zasady dotyczące dojazdu, pierwszeństwa, wyboru pasa ruchu, sygnalizacji i wyjazdu z rond."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Przejścia dla pieszych (przepisy 191–199)",
+"description":"Obowiązki kierowcy na przejściach dla pieszych zebr, pelikanów, maskonurów, tukanów i równoległych."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Cofanie (200 do 203)",
+"description":"Zasady sprawdzania otoczenia, bezpiecznego cofania i unikania nadmiernego cofania."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Przegląd (zasada 204)",
+"description":"Wprowadza obowiązek ochrony użytkowników dróg, którzy są szczególnie narażeni na ryzyko."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Piesi (przepisy 205 do 210)",
+"description":"Szczególną ostrożność należy zachować w pobliżu dzieci, osób starszych, niepełnosprawnych pieszych i osób przechodzących przez ulicę."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motocykliści i rowerzyści (przepisy 211–213)",
+"description":"Wzmożona obserwacja i zachowanie bezpiecznej odległości od motocyklistów i rowerzystów, szczególnie na skrzyżowaniach."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Inni użytkownicy dróg (przepisy 214 do 218)",
+"description":"Zachowaj szczególną ostrożność w pobliżu zwierząt, jeźdźców konnych, kierowców uczących się jeździć i niedoświadczonych użytkowników dróg."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Inne pojazdy (przepisy 219 do 225)",
+"description":"Przepisy dotyczące pojazdów uprzywilejowanych, dużych pojazdów, autobusów, tramwajów i pojazdów wolno poruszających się."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Przegląd (zasada 226)",
+"description":"Wymaga od kierowców dostosowania się do niekorzystnych warunków atmosferycznych i używania odpowiedniego oświetlenia w przypadku ograniczonej widoczności."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Pogoda deszczowa (zasada 227)",
+"description":"Wskazówki dotyczące zmniejszonej przyczepności, dłuższej drogi hamowania, rozpryskiwania się wody, aquaplaningu i powodzi."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Oblodzenie i śnieg (zasady 228–231)",
+"description":"Zasady przygotowania, płynnej jazdy i utrzymania kontroli nad pojazdem na lodzie i śniegu."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Wietrzna pogoda (zasady 232 do 233)",
+"description":"Wskazówki dotyczące silnych wiatrów bocznych i szczególnie narażonych na ich porywy uczestników ruchu drogowego."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Mgła (zasady 234 do 236)",
+"description":"Zasady dotyczące widoczności, prędkości, odległości od poprzedzającego pojazdu i prawidłowego używania świateł przeciwmgielnych."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Upał (zasada 237)",
+"description":"Wskazówki dotyczące zagrożeń związanych z upałem na nawierzchni drogi i unikania przegrzania."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Ogólne (zasada 238)",
+"description":"Ogólne zasady parkowania, w tym przestrzeganie ograniczeń i unikanie zagrożeń i przeszkód."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Parkowanie (zasady 239–247)",
+"description":"Zasady bezpiecznego parkowania, zatrzymywania się na poboczu drogi, załadunku, miejsc dla niepełnosprawnych i lokalizacji objętych zakazem parkowania."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Parkowanie w nocy (zasady 248-252)",
+"description":"Zasady parkowania nocą obejmujące kierunek jazdy, oświetlenie, ograniczenia prędkości i oznaczenia odblaskowe."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Zdekryminalizowane egzekwowanie przepisów parkingowych (DPE)",
+"description":"Wyjaśnia zasady egzekwowania ograniczeń parkowania przez władze lokalne."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Ogólne (zasady 253 do 254)",
+"description":"Ogólne zasady korzystania z autostrady, w tym zakazy korzystania z autostrad i stosowanie przepisów ruchu drogowego."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Sygnalizacja autostradowa (przepisy 255–258)",
+"description":"Znaczenie sygnalizacji świetlnej na autostradzie, zamkniętych pasów ruchu oznaczonych czerwonym znakiem X i zmiennych ograniczeń prędkości."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Wjazd na autostradę (zasada 259)",
+"description":"Zasady korzystania z pasa zjazdowego, dostosowania prędkości ruchu i udzielania pierwszeństwa pojazdom autostradowym."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Na autostradzie (przepisy 260 do 263)",
+"description":"Bezpieczna jazda po autostradzie, zachowanie odpowiedniej odległości, ograniczenia i korzystanie z pasów ruchu."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Dyscyplina na torze (zasady 264–266)",
+"description":"Wymaga korzystania z lewego pasa ruchu, chyba że odbywa się wyprzedzanie i zachowane jest bezpieczne przestrzeganie sygnalizacji świetlnej pasa ruchu."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Wyprzedzanie (zasady 267–268)",
+"description":"Zasady wyprzedzania na autostradzie, w tym zachowanie ostrożności i zakaz korzystania z pobocza."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Pas awaryjny (zasada 269)",
+"description":"Ogranicza korzystanie z pobocza do sytuacji awaryjnych lub sytuacji, gdy znaki wskazują na możliwość ruchu po pasie awaryjnym."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Zatrzymanie (zasady 270 do 272)",
+"description":"Zakazuje zatrzymywania się na autostradzie, z wyjątkiem sytuacji awaryjnych lub na polecenie innego kierowcy, a także wyjaśnia zasady korzystania z dróg ewakuacyjnych."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Opuszczanie autostrady (zasady 273–274)",
+"description":"Zasady odczytywania znaków wyjazdu, sygnalizacji i bezpiecznego wjazdu na pas wyjazdowy."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Miejsce względnego bezpieczeństwa (zasada 275)",
+"description":"Wyjaśnia, jak zidentyfikować i dotrzeć do bezpieczniejszego miejsca w razie awarii lub wypadku."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Awarie (zasada 276)",
+"description":"Działania, jakie należy podjąć w przypadku awarii na autostradzie, w tym bezpieczne opuszczenie pojazdu i wezwanie pomocy."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Dodatkowe zasady dotyczące autostrad (zasady 277–279)",
+"description":"Dodatkowe wskazówki dotyczące awarii i sytuacji awaryjnych, w tym umożliwienie powrotu do ruchu i zapewnienie pojazdów uszkodzonych."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Przeszkody (zasada 280)",
+"description":"Działania, które należy podjąć w przypadku napotkania lub spowodowania przeszkody na drodze."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Incydenty (przepisy 281 do 283)",
+"description":"Środki bezpieczeństwa w razie incydentów, korytarze ewakuacyjne i współpraca z personelem ratowniczym."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Incydenty z udziałem towarów niebezpiecznych (przepisy 284–285)",
+"description":"Środki ostrożności i wymogi dotyczące raportowania w przypadku incydentu z udziałem materiałów niebezpiecznych."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Dokumentacja (przepisy 286 do 287)",
+"description":"Obowiązek zatrzymywania się, wymiany informacji i zgłaszania kolizji policji, gdy jest to wymagane."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Roboty drogowe (zasada 288)",
+"description":"Wymaga szczególnej ostrożności, ograniczenia prędkości i stosowania się do tymczasowych znaków i kontroli pasów ruchu podczas robót drogowych."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Dodatkowe zasady dotyczące dróg szybkiego ruchu (zasady 289–290)",
+"description":"Dodatkowe zasady bezpieczeństwa w razie awarii i zdarzeń na drogach szybkiego ruchu."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Przejazdy kolejowe (przepisy 291 do 299)",
+"description":"Zasady zbliżania się do przejazdów kolejowych, przechodzenia przez nie oraz reagowania na sygnalizację świetlną, bariery i sytuacje awaryjne na przejazdach kolejowych."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Tramwaje (przepisy 300–307)",
+"description":"Zasady współużytkowania dróg z tramwajami oraz omijania torów, peronów i zarezerwowanych tras tramwajowych."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Sygnalizacja świetlna. Migające czerwone światła. Sygnały kontroli pasa ruchu.",
+"description":"Znaczenie standardowych świateł drogowych, migających czerwonych świateł stop i sygnałów sterujących pasem ruchu."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Sygnały autostradowe",
+"description":"Znaczenie sygnałów ostrzegawczych na autostradzie, ograniczeń zmiennych, zamknięć pasów ruchu i instrukcji."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Sygnały kierunkowskazów. Sygnały świateł hamowania. Sygnały świateł cofania. Sygnały ramion. Światła awaryjne",
+"description":"Wyjaśnia sygnały za pomocą świateł i ramion pojazdu, służące do komunikowania zamierzonych ruchów i zagrożeń."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Policjanci. Sygnały dawane przez ręce osobom kierującym ruchem drogowym. Funkcjonariusze Agencji ds. Standardów Kierowców i Pojazdów oraz funkcjonariusze drogówki. Patrole przejść dla pieszych przy szkołach.",
+"description":"Sygnały i instrukcje wydawane przez policję, upoważniony personel ruchu drogowego i patrole przejść dla pieszych przy szkołach."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Znaki dające rozkazy",
+"description":"Znaki drogowe nakazujące i zakazujące, których użytkownicy dróg są prawnie zobowiązani przestrzegać."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Znaki ostrzegawcze",
+"description":"Znaki ostrzegają o zagrożeniach, zmieniających się warunkach drogowych i szczególnie narażonych uczestnikach ruchu drogowego."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Znaki kierunkowe",
+"description":"Znaki pokazujące trasy, miejsca docelowe, układ skrzyżowań, numery dróg i objazdy."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Znaki informacyjne",
+"description":"Prostokątne znaki podające informacje o parkingach, pasach ruchu, autostradach, trasach i obiektach."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Znaki robót drogowych",
+"description":"Tymczasowe znaki ostrzegające o robotach drogowych, zagrożeniach, zamknięciu pasów ruchu, ograniczeniach prędkości i ruchu pod prąd."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Po drugiej stronie jezdni. Wzdłuż jezdni. Wzdłuż krawędzi jezdni. Na krawężniku lub na krawędzi jezdni. Inne oznakowania drogowe",
+"description":"Znaczenie słów stop, ustąp pierwszeństwa, pas ruchu, oczekiwanie, załadunek, czerwona trasa, skrzyżowanie i inne oznakowania drogowe."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Oznakowanie tyłu dużych pojazdów ciężarowych. Tablice ostrzegawcze. Oznakowanie wystające. Inne",
+"description":"Oznakowania pojazdów służące do identyfikacji pojazdów ciężkich, towarów niebezpiecznych, ładunków wystających i autobusów szkolnych."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Ty i Twój rower",
+"description":"Wybór roweru, konserwacja, hamulce, oświetlenie, odblaski, stan opon i szkolenie."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Wymagania dotyczące prawa jazdy na motocykl. Kategorie prawa jazdy na motorowery i motocykle",
+"description":"CBT, ograniczenia dla osób uczących się, testy, stopniowy dostęp oraz kategorie prawa jazdy AM, A1, A2 i A."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Dokumenty. Kierowcy uczący się jazdy",
+"description":"Prawo jazdy, przegląd techniczny, ubezpieczenie, rejestracja, podatek od pojazdu, SORN i wymagania dla osób uczących się jazdy."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Prawo ruchu drogowego. Ustawy i rozporządzenia sprzed 1988 r. Ustawy i rozporządzenia od 1988 r.",
+"description":"Zakres prawa ruchu drogowego w Wielkiej Brytanii oraz skróty najważniejszych ustaw i rozporządzeń wymienionych w Kodeksie Drogowym."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Kary",
+"description":"Maksymalne kary, punkty karne, dyskwalifikacja, cofnięcie prawa jazdy nowemu kierowcy, ponowne egzaminy i inne konsekwencje wykroczeń."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Konserwacja pojazdów. Bezpieczeństwo pojazdów.",
+"description":"Sprawność drogowa, światła awaryjne, opony, płyny, bezpieczeństwo paliwowe, zapobieganie pożarom pojazdów i kradzieży."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Radzić sobie z niebezpieczeństwem. 2. Uzyskać pomoc. 3. Pomagać osobom poszkodowanym. 4. Udzielać pomocy doraźnej.",
+"description":"Bezpieczeństwo na miejscu wypadku, połączenia alarmowe, opieka nad poszkodowanymi, DRABC, resuscytacja krążeniowo-oddechowa, leczenie krwawień i oparzeń."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Kodeks bezpieczeństwa. Ustawa o nowych kierowcach. Szkolenia uzupełniające.",
+"description":"Ograniczenie ryzyka dla nowych kierowców, cofnięcie prawa jazdy na okres sześciu lat i opcjonalne dodatkowe szkolenia, np. Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Konwersja jednostek metrycznych. Przydatne strony internetowe. Dalsza lektura",
+"description":"Konwersja mil na kilometry oraz oficjalne źródła informacji na temat bezpieczeństwa ruchu drogowego, jazdy, holowania i pojazdów."
+}
+]
