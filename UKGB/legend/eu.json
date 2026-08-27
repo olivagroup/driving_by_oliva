@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Errepide Kodearen idazkera. Arauak ezagutzea eta aplikatzea",
+"description":"MUST, MUST NOT, should eta should not hitzak nola erabiltzen diren azaltzen du, eta Errepide Kodea ezagutu eta aplikatzeko erantzukizuna."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Ibilgailu autonomoak",
+"description":"Erabiltzaileen legezko erantzukizunak azaltzen ditu gidatzen ez den ibilgailu bat bere kabuz gidatzen ari denean edo ez denean."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Errepideko erabiltzaileen hierarkia",
+"description":"Kalte handiena eragiteko gai diren errepideko erabiltzaileek dutela azaltzen du arriskua murrizteko erantzukizun handiena."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Jarraibide orokorrak (1etik 6ra bitarteko arauak)",
+"description":"Oinezkoentzako segurtasun-jarraibide orokorrak, espaloiak, ikusgarritasuna eta ibilbide partekatuak barne."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Errepidea zeharkatzea (7tik 17ra bitarteko arauak)",
+"description":"Gurutze Berdearen Kodea eta leku seguru bat aukeratzeko eta errepideak segurtasunez zeharkatzeko arauak."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Zeharkaldiak (18tik 30era bitarteko arauak)",
+"description":"Oinezkoentzako arauak zebra, pelikano, lanpern, tukan eta zaldizko pasabideetan."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Kontuz ibili behar duten egoerak (31etik 35era bitarteko arauak)",
+"description":"Oinezko, larrialdi-ibilgailu, autobus eta trenbide-pasagune zaurgarrientzako neurri gehigarriak."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Gurpil-aulki elektrikoak eta mugikortasun-scooterrak (36tik 37ra bitarteko arauak)",
+"description":"Gurpil-aulki elektrikoak eta mugikortasun-patineteak espaloietan eta errepideetan erabiltzeko arauak."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Espaloietan (38tik 40ra bitarteko arauak)",
+"description":"Mugikortasun-scooterrei eta gurpil-aulki elektrikoei espaloiak eta oinezkoentzako guneak erabiltzeko arauak."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Errepidean (41etik 46ra bitarteko arauak)",
+"description":"Gurpil-aulki elektrikoentzako eta mugikortasun-scooterrentzako errepideko erabilera, argiztapen, ikusgarritasun eta segurtasun arauak."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Zaldiek tiratutako ibilgailuak (47tik 48ra bitarteko arauak)",
+"description":"Zaldiek tiratutako ibilgailuen gidarientzako segurtasuna, argiztapena, ibilbidea eta ekipamenduen gidaritza."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Zaldizkoak (49tik 55era bitarteko arauak)",
+"description":"Zaldi gainean segurtasunez ibiltzeko arauak, besteak beste, arropa, ekipamendua, errepideko kokapena eta seinaleak."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Beste animaliak (56tik 58ra bitarteko arauak)",
+"description":"Txakurrentzako, ibilgailuetako animalientzako eta errepideetan zehar abereak eramateko arauak."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Ikuspegi orokorra (59tik 72ra bitarteko arauak)",
+"description":"Arropa, ekipamendua, argiztapena, errepidearen kokapena, bizikleta-bideak eta ibilbide partekatuak barne hartzen dituzten txirrindularitza-arau nagusiak."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Errepide-loturak (73tik 77ra bitarteko arauak)",
+"description":"Txirrindularientzako arauak bidegurutzeetara hurbildu eta bidegurutzeetatik igarotzean, kokapena eta lehentasuna barne."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Biribilguneak (78tik 80ra bitarteko arauak)",
+"description":"Txirrindulariek biribilguneetan ibiltzeko arauak, erreien kokapena, seinaleztapena eta alternatiba seguruagoak barne."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Errepidea zeharkatzea (81etik 82ra bitarteko arauak)",
+"description":"Txirrindularientzako arauak bizikletaz soilik diren, tukan eta zaldizko pasabideak erabiltzen dituztenentzat."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Orokorra (83tik 88ra bitarteko arauak)",
+"description":"Motozikleten arau orokorrak, baimenak, kaskoak, begien babesa, bidaiariak eta eguneko ikusgarritasunari buruzkoak."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Ibilgailuaren egoera (89. araua)",
+"description":"Motozikleta errepidean egoteko moduan mantentzea eta pneumatikoak, balaztak, argiak eta direkzioa mantentzea eskatzen die motorzaleei."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Gidatzeko gaitasuna (90etik 94ra bitarteko arauak)",
+"description":"Nekeari, gaixotasunari, ikusmenari, kontzentrazioari eta gidatzeko gaitasunean eragina duten beste faktoreei buruzko arauak."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkohola eta drogak (95etik 96ra bitarteko arauak)",
+"description":"Debekatuta dago alkoholaren, droga ilegalen edo sendagaien eraginpean gidatzea."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Abiatu aurretik (97. araua)",
+"description":"Ibilgailuaren errepideko egoera, ikusgarritasuna, kontrolak, arropa eta karga seguruak bidaltzeko bidaia aurreko egiaztapenak."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Ibilgailuen atoian eramatea eta kargatzea (98. araua)",
+"description":"Karga seguruak, atoian eramateko mugak, atoiak, irtenguneak eta gainkarga saihesteko arauak."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Segurtasun-uhalak eta haurrentzako segurtasun-sistemak (99tik 102ra bitarteko arauak)",
+"description":"Segurtasun-uhalak, haurren atxikitzeko sistemak eta haurren garraio segurua arautzen duten legezko betekizunak."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Seinaleak (103tik 106ra bitarteko arauak)",
+"description":"Seinale argiak emateko eta errepideko beste erabiltzaileen seinaleak interpretatzeko arauak."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Beste geldiarazteko prozedurak (107tik 112ra bitarteko arauak)",
+"description":"Poliziaren eta baimendutako agenteen jarraibideak, semaforoen arauak betetzea eta klaxonaren erabilera."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Argiztapen-eskakizunak (113tik 116ra bitarteko arauak)",
+"description":"Faroei, alboko argiei eta laino-argiei buruzko arauak, eta besteak itsutzea saihesteari buruzkoak."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Ibilgailuaren kontrola (117tik 126ra bitarteko arauak)",
+"description":"Ibilgailuaren kontrol segurua, balaztatzea, gelditzeko distantziak, irristatzeak, ilertzean mugitzea eta abiadura-mugen betetzea."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Errepideko lerroak eta errei-markaketak (127tik 132ra bitarteko arauak)",
+"description":"Erdiko lerroen, arrisku-lerroen, lerro zuri bikoitzen, errei-lerroen eta chevroien esanahia eta eragin juridikoa."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Errei anitzeko errepideak (133tik 143ra bitarteko arauak)",
+"description":"Errei-diziplina, erreiak aldatzea, igotzeko erreiak, autobus-erreiak, bizikleta-erreiak eta okupazio handiko erreiak."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Aholku orokorrak (144tik 158ra bitarteko arauak)",
+"description":"Gidatzeko jokabide seguru orokorra, besteekiko errespetua, abiadura, lehentasuna eta distrakzioak saihestea."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Arau orokorrak (159tik 161era bitarteko arauak)",
+"description":"Irten aurretik edo trafikoan sartu aurretik behaketa, seinaleztapena eta mugimendu segurua."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Aurreratzea (162tik 169ra bitarteko arauak)",
+"description":"Segurtasunez aurreratzeko arauak, baimena, debekatutako tokiak eta aurreratzea barne."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Errepide-loturak (170etik 183ra bitarteko arauak)",
+"description":"Bidegurutzeetara hurbiltzeko, lehentasuna emateko, biratzeko, irteteko eta trafikoa gurutzatzeko arauak."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Biribilguneak (184tik 190era bitarteko arauak)",
+"description":"Hurbiltzeko, lehentasunerako, erreiaren hautaketarako, seinaleztapenerako eta biribilguneetatik irteteko arauak."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Oinezkoentzako pasabideak (191etik 199ra bitarteko arauak)",
+"description":"Gidarien erantzukizunak zebra, pelikano, lanpern, tukan eta paraleloen pasabideetan."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Atzeraka (200etik 203ra)",
+"description":"Ingurua egiaztatzeko, segurtasunez atzera egitea eta gehiegi atzera egitea saihesteko arauak."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Ikuspegi orokorra (204. araua)",
+"description":"Arrisku berezian dauden errepideko erabiltzaileak babesteko betebeharra aurkezten du."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Oinezkoak (205etik 210era bitarteko arauak)",
+"description":"Kontuz ibili haurren, adinekoen, oinezko desgaituen eta errepidea zeharkatzen duten pertsonen inguruan."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motozaleak eta txirrindulariak (211etik 213ra bitarteko arauak)",
+"description":"Motozikletazaleen eta txirrindularien inguruan behaketa gehigarria eta distantzia segurua, batez ere bidegurutzeetan."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Beste errepideko erabiltzaileak (214tik 218ra bitarteko arauak)",
+"description":"Kontuz ibili animaliekin, zaldizkoekin, gidari hasiberriekin eta errepideko erabiltzaile esperientziarik gabeekin."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Beste ibilgailu batzuk (219tik 225era bitarteko arauak)",
+"description":"Larrialdietako ibilgailuentzako, ibilgailu handientzako, autobusentzako, tranbientzako eta ibilgailu motelentzako arauak."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Ikuspegi orokorra (226. araua)",
+"description":"Gidariei eguraldi txarrari egokitzea eta ikusgarritasuna murriztuta dagoenean argi egokiak erabiltzea eskatzen die."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Eguraldi hezea (227. araua)",
+"description":"Itsaspen murriztuari, gelditzeko distantzia luzeei, zipriztinei, akuaplaningari eta uholdeei buruzko jarraibideak."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Izotz eta elur eguraldia (228tik 231ra bitarteko arauak)",
+"description":"Izotzean eta elurrean prestatzeko, leunki gidatzeko eta kontrola mantentzeko arauak."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Haizetsua den eguraldia (232tik 233ra bitarteko arauak)",
+"description":"Haize-boladek eragindako errepideko erabiltzaile zaurgarriei eta alboko haize bortitzei buruzko jarraibideak."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Lainoa (234tik 236ra bitarteko arauak)",
+"description":"Ikusgarritasunari, abiadurari, jarraitzeko distantziari eta laino-argien erabilera zuzenari buruzko arauak."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Eguraldi beroa (237. araua)",
+"description":"Beroarekin lotutako errepide-zoruko arriskuei eta gehiegi berotzea saihesteari buruzko jarraibideak."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Orokorra (238. araua)",
+"description":"Aparkaleku arau orokorrak, murrizketak betetzea eta arriskua edo oztopoak saihestea barne."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Aparkalekua (239tik 247ra bitarteko arauak)",
+"description":"Aparkaleku segururako, errepide bazterreko geldialdietarako, kargatzeko, minusbalientzako tokietarako eta debekatutako guneetarako arauak."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Gaueko aparkalekua (248tik 252ra bitarteko arauak)",
+"description":"Gaueko aparkalekuaren arauak, norabidea, argiztapena, abiadura mugak eta marka islatzaileak barne hartzen dituztenak."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Aparkaleku Despenalizatuaren Betearazpena (DPE)",
+"description":"Tokiko agintariek aparkaleku-murrizketak modu zibilean betearazteko duten betearazpena azaltzen du."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Orokorra (253tik 254ra bitarteko arauak)",
+"description":"Errepideko arau orokorrak, debekatutako erabiltzaileak eta errepideko araudien aplikazioa barne."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Autobideko seinaleak (255etik 258ra bitarteko arauak)",
+"description":"Autobideko seinaleen, X gorriaren erreien itxieren eta abiadura muga aldakorraren esanahia."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Autobidera sartzea (259. araua)",
+"description":"Irteera-bidea erabiltzeko arauak, trafikoaren abiadura egokitzea eta autobideko trafikoari lehentasuna ematea."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Autobidean (260tik 263ra bitarteko arauak)",
+"description":"Errepideetan gidatzea segurua, distantziak, murrizketak eta erreien erabilera errespetatzea."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Errei-diziplina (264tik 266ra bitarteko arauak)",
+"description":"Ezkerreko erreia erabiltzea eskatzen du, aurreratu ezean eta erreiko seinaleak segurtasunez errespetatuz."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Aurreratzea (267tik 268ra bitarteko arauak)",
+"description":"Autobideetan aurreratzeko arauak, segurtasun-zaintza eta bazterbide gogorra erabiltzeko debekua barne."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Sorbalda gogorra (269. araua)",
+"description":"Sorbalda gogorraren erabilera larrialdietara edo seinaleek korrika egiteko errei gisa irekitzen duten uneetara mugatzen du."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Gelditzea (270etik 272ra bitarteko arauak)",
+"description":"Larrialdietan edo agindutakoan izan ezik, autobidean gelditzea debekatzen du, eta larrialdi-eremuaren erabilera azaltzen du."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Autobidetik irtetea (273tik 274ra bitarteko arauak)",
+"description":"Irteera-seinaleak irakurtzeko, seinaleztatzeko eta irteera-erreira segurtasunez sartzeko arauak."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Segurtasun erlatiboko lekua (275. araua)",
+"description":"Matxura edo larrialdi batean leku seguruago batera nola identifikatu eta iritsi azaltzen du."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Matxuraketak (276. araua)",
+"description":"Autobideko matxura batean hartu beharreko neurriak, besteak beste, ibilgailua segurtasunez uztea eta laguntzarekin harremanetan jartzea."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Autobideetarako arau gehigarriak (277tik 279ra bitarteko arauak)",
+"description":"Matxura eta larrialdietarako jarraibide gehigarriak, trafikoari berriro sartzea eta ibilgailu elbarrituak barne."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Oztopoak (280. araua)",
+"description":"Errepideko oztopo bat aurkitzean edo eragitean hartu beharreko neurriak."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Gorabeherak (281etik 283ra bitarteko arauak)",
+"description":"Segurtasun neurriak gertakarietan, larrialdi korridoreetan eta larrialdietako langileekin betetzea."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Salgai arriskutsuak dakartzaten gorabeherak (284tik 285era bitarteko arauak)",
+"description":"Material arriskutsuak tartean direnean neurriak eta txostenak egiteko betebeharrak."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Dokumentazioa (286tik 287ra bitarteko arauak)",
+"description":"Beharrezkoa denean, gelditzeko, informazioa trukatzeko eta talkak poliziari jakinarazteko betebeharrak."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Errepideko lanak (288. araua)",
+"description":"Kontuz ibili, abiadura murriztu eta errepideko lanetan behin-behineko seinaleak eta errei-kontrolak betetzea eskatzen du."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Abiadura handiko errepideetarako arau gehigarriak (289tik 290era bitarteko arauak)",
+"description":"Abiadura handiko errepideetan matxura eta gorabeherak daudenean segurtasun-arau gehigarriak."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Trenbide-pasabideak (291etik 299ra bitarteko arauak)",
+"description":"Trenbide-pasaguneetan argi, hesi eta larrialdietara hurbiltzeko, zeharkatzeko eta horiei erantzuteko arauak."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Tranbiak (300etik 307ra bitarteko arauak)",
+"description":"Tranbiekin errepideak partekatzeko eta trenbideak, nasak eta tranbia-ibilbide erreserbatuak saihesteko arauak."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Semaforoen seinaleak. Argi gorri keinukariak. Errei-kontroleko seinaleak.",
+"description":"Semaforo estandarren, gelditzeko seinale gorri keinukarien eta erreia kontrolatzeko seinaleen esanahia."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Autobideko seinaleak",
+"description":"Autobideko abisu-seinaleen, muga aldakorrekoen, erreien itxieren eta argibideen esanahia."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Norabide-adierazleen seinaleak. Balazta-argien seinaleak. Atzera begirako argien seinaleak. Beso-seinaleak. Larrialdi-argiak.",
+"description":"Mugimendu eta arriskuak jakinarazteko erabiltzen diren ibilgailuen argi eta besoen seinaleak azaltzen ditu."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Polizia-agenteak. Trafikoa kontrolatzen duten pertsonei beso-seinaleak. Gidarien eta Ibilgailuen Arauen Agentziako agenteak eta trafiko-agenteak. Eskola-gurutzaguneen patruilak.",
+"description":"Poliziak, baimendutako trafiko-langileek eta eskola-zeharkaldiko patruilek emandako seinaleak eta argibideak."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Aginduak ematen dituzten seinaleak",
+"description":"Errepideko erabiltzaileek legez bete behar dituzten derrigorrezko eta debekuzko trafiko seinaleak."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Abisu seinaleak",
+"description":"Arriskuen, errepidearen egoeraren aldaketaren eta aurrerago dauden errepideko erabiltzaile zaurgarrien berri ematen duten seinaleak."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Norabide seinaleak",
+"description":"Ibilbideak, helmugak, bidegurutzeen diseinua, errepideen zenbakiak eta desbideratzeak erakusten dituzten seinaleak."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Informazio seinaleak",
+"description":"Aparkalekuari, erreiari, autobideari, ibilbideari eta instalazioei buruzko informazioa ematen duten seinale angeluzuzenak."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Errepideko lan seinaleak",
+"description":"Errepideko lanez, arriskuez, erreien itxierez, abiadura mugaz eta kontrako fluxuko sistemez ohartarazten duten aldi baterako seinaleak."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Erreiaren zehar. Erreiaren ondoan. Erreiaren ertzean. Espaloian edo erreiaren ertzean. Beste errepide-marka batzuk",
+"description":"Gelditu, lehentasuna eman, errei, zain egon, kargatzen, Ibilbide Gorri, kaxa-bidegurutze eta beste errepide-marka batzuen esanahia."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Salgaien ibilgailu handien atzeko markaketak. Arrisku-abisu plakak. Irtengune markatzaileak. Bestelakoak",
+"description":"Ibilgailu astunak, salgai arriskutsuak, irten egiten diren zamak eta eskola autobusak identifikatzeko ibilgailuen markak."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Zu eta zure bizikleta",
+"description":"Bizikletaren hautaketa, mantentze-lanak, balaztak, argiztapena, islatzaileak, pneumatikoen egoera eta prestakuntza."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Motozikleta gidabaimenaren baldintzak. Ziklomotor eta motozikleta gidabaimen kategoriak",
+"description":"CBT, ikasleen murrizketak, probak, sarbide progresiboa eta AM, A1, A2 eta A gidabaimen kategoriak."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Dokumentuak. Gidari ikasleak",
+"description":"Gidabaimenak, ITV, asegurua, matrikulazioa, ibilgailuen zerga, SORN eta gidatzen ikasten hasteko baldintzak."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Errepideko trafikoaren legea. 1988 aurreko legeak eta araudiak. 1988tik aurrerako legeak eta araudiak",
+"description":"Erresuma Batuko errepideko trafikoaren legearen esparrua eta Errepide Kodean aipatzen diren Lege eta Erregelamendu nagusien laburdurak."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Zigorrak",
+"description":"Gehienezko zigorrak, zigor puntuak, deskalifikazioa, gidari berriaren baimena ezeztatzea, berriro probatzea eta arau-haustearen beste ondorio batzuk."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Ibilgailuen mantentze-lanak. Ibilgailuen segurtasuna.",
+"description":"Errepideko egoera, abisu-argiak, pneumatikoak, fluidoak, erregaiaren segurtasuna, ibilgailuen suteak eta lapurretak saihestea."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Arriskuari aurre egin. 2. Laguntza eskatu. 3. Inplikatutakoei lagundu. 4. Larrialdietako arreta eman.",
+"description":"Istripuaren lekuko segurtasuna, larrialdi deiak, zaurituen arreta, DRABC, RCP, odoljario eta erredura tratamendua."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Segurtasun kodea. Gidarien Lege Berria. Prestakuntza gehiago",
+"description":"Gidari berrientzako arriskuen murrizketa, sei puntuko gidabaimena ezeztatzea eta Pass Plus bezalako prestakuntza gehigarria aukerakoa."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Metrika-bihurketak. Webgune erabilgarriak. Irakurketa gehiago",
+"description":"Milietatik kilometroetara bihurketak eta errepideko segurtasunerako, gidatzeko, bizikletaz ibiltzeko, atoian eramateko eta ibilgailuen informazioari buruzko baliabide ofizialak."
+}
+]

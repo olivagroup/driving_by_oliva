@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Redacción del Código de Circulación. Conocer y aplicar las normas.",
+"description":"Explica cómo se utilizan las palabras DEBE, NO DEBE, debería y no debería, y la responsabilidad de conocer y aplicar el Código de Circulación."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Vehículos autónomos",
+"description":"Explica las responsabilidades legales de los usuarios cuando un vehículo autónomo se conduce solo o no."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Jerarquía de usuarios de la vía",
+"description":"Explica que los usuarios de la vía pública capaces de causar el mayor daño tienen la mayor responsabilidad de reducir el peligro."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Orientación general (reglas 1 a 6)",
+"description":"Orientación general sobre seguridad para peatones, incluyendo aceras, visibilidad y rutas compartidas."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Cruzar la calle (normas 7 a 17)",
+"description":"El Código de Conducta de la Cruz Verde y las normas para elegir un lugar seguro y cruzar la calle de forma segura."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Cruces (reglas 18 a 30)",
+"description":"Normas para los peatones que utilizan pasos de cebra, pelícano, frailecillo, tucán y pasos de peatones para caballos."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Situaciones que requieren atención especial (reglas 31 a 35)",
+"description":"Precauciones adicionales para peatones vulnerables, vehículos de emergencia, autobuses y pasos a nivel."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Sillas de ruedas eléctricas y scooters de movilidad (reglas 36 a 37)",
+"description":"Normas para el uso de sillas de ruedas eléctricas y scooters de movilidad en aceras y carreteras."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"En las aceras (normas 38 a 40)",
+"description":"Normativa para el uso de scooters de movilidad y sillas de ruedas eléctricas en aceras y zonas peatonales."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"En la carretera (normas 41 a 46)",
+"description":"Normas de circulación, iluminación, visibilidad y seguridad para sillas de ruedas eléctricas y scooters de movilidad."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Vehículos de tracción animal (reglas 47 a 48)",
+"description":"Información sobre seguridad, iluminación, rutas y equipamiento para conductores de vehículos de tracción animal."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Jinetes (reglas 49 a 55)",
+"description":"Normas para montar a caballo de forma segura, incluyendo la vestimenta, el equipo, la posición en la carretera y las señales."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Otros animales (reglas 56 a 58)",
+"description":"Normativa para perros, animales en vehículos y traslado de ganado por las carreteras."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Resumen (reglas 59 a 72)",
+"description":"Normas básicas para ciclistas que abarcan la vestimenta, el equipamiento, la iluminación, la posición en la carretera, los carriles bici y las rutas compartidas."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Cruces de carreteras (reglas 73 a 77)",
+"description":"Normas para los ciclistas que se aproximan a las intersecciones y las atraviesan, incluyendo el posicionamiento y la prioridad."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Glorietas (reglas 78 a 80)",
+"description":"Normas para ciclistas que utilizan rotondas, incluyendo la posición en el carril, la señalización y alternativas más seguras."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Cruzar la calle (reglas 81 a 82)",
+"description":"Normas para ciclistas que utilicen pasos de peatones exclusivos para bicicletas, para tucanes y para caballos."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"General (reglas 83 a 88)",
+"description":"Normas generales para motociclistas que abarcan la obtención del permiso de conducir, el uso del casco, la protección ocular, los pasajeros y la visibilidad durante el día."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Estado del vehículo (regla 89)",
+"description":"Requiere que los motociclistas mantengan su motocicleta en condiciones de circular y realicen el mantenimiento de los neumáticos, los frenos, las luces y la dirección."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Aptitud para conducir (normas 90 a 94)",
+"description":"Normativa sobre fatiga, enfermedad, visión, concentración y otros factores que afectan a la aptitud para conducir."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alcohol y drogas (reglas 95 a 96)",
+"description":"Prohíbe conducir bajo los efectos del alcohol, drogas ilegales o medicamentos."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Antes de partir (regla 97)",
+"description":"Comprobaciones previas al viaje para verificar la aptitud del vehículo para circular, la visibilidad, los controles, la vestimenta y la seguridad de la carga."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Remolque y carga de vehículos (regla 98)",
+"description":"Normas para asegurar las cargas, límites de remolque, remolques, proyecciones y cómo evitar la sobrecarga."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Cinturones de seguridad y sistemas de retención infantil (normas 99 a 102)",
+"description":"Requisitos legales para cinturones de seguridad, sistemas de retención infantil y el transporte seguro de niños."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Señales (reglas 103 a 106)",
+"description":"Normas para dar señales claras e interpretar las señales de otros usuarios de la vía."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Otros procedimientos de parada (reglas 107 a 112)",
+"description":"Instrucciones de la policía y los agentes autorizados, cumplimiento de las normas del semáforo y uso de la bocina."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Requisitos de iluminación (reglas 113 a 116)",
+"description":"Normas que regulan los faros, las luces de posición, las luces antiniebla y cómo evitar deslumbrar a los demás."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Control del vehículo (reglas 117 a 126)",
+"description":"Control seguro del vehículo, frenado, distancias de frenado, derrapes, conducción por inercia y cumplimiento de los límites de velocidad."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Líneas y marcas viales (reglas 127 a 132)",
+"description":"Significado y efectos legales de las líneas centrales, las líneas de peligro, las líneas blancas dobles, las líneas de carril y los galones."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Carreteras de varios carriles (reglas 133 a 143)",
+"description":"Disciplina vial, cambio de carril, carriles para subir cuestas, carriles para autobuses, carriles para bicicletas y carriles para vehículos de alta ocupación."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Consejos generales (reglas 144 a 158)",
+"description":"Conducta general de conducción segura, consideración hacia los demás, velocidad, prioridad y evitar distracciones."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Reglas generales (reglas 159 a 161)",
+"description":"Observación, señalización y maniobra segura antes de arrancar o incorporarse al tráfico."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Adelantamiento (reglas 162 a 169)",
+"description":"Normas para adelantar de forma segura, incluyendo la distancia de seguridad, los lugares prohibidos y cómo ser adelantado."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Cruces de carreteras (reglas 170 a 183)",
+"description":"Normas para aproximarse a intersecciones, ceder el paso, girar, incorporarse y cruzar el tráfico."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Glorietas (reglas 184 a 190)",
+"description":"Normas para la aproximación, la prioridad, la selección de carril, la señalización y la salida de rotondas."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Pasos de peatones (reglas 191 a 199)",
+"description":"Responsabilidades del conductor en los pasos de cebra, pelícano, frailecillo, tucán y en los pasos paralelos."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Inversión (200 a 203)",
+"description":"Normas para comprobar el entorno, dar marcha atrás de forma segura y evitar maniobras de marcha atrás excesivas."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Resumen (regla 204)",
+"description":"Introduce la obligación de proteger a los usuarios de la vía pública que se encuentran en situación de especial riesgo."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Peatones (reglas 205 a 210)",
+"description":"Se debe tener especial cuidado con los niños, las personas mayores, los peatones con discapacidad y las personas que cruzan la calle."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motociclistas y ciclistas (reglas 211 a 213)",
+"description":"Se requiere mayor vigilancia y mantener una distancia de seguridad adecuada alrededor de motociclistas y ciclistas, especialmente en los cruces."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Otros usuarios de la vía (normas 214 a 218)",
+"description":"Se debe extremar la precaución en presencia de animales, jinetes, conductores noveles y usuarios de la vía pública sin experiencia."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Otros vehículos (reglas 219 a 225)",
+"description":"Normas para vehículos de emergencia, vehículos grandes, autobuses, tranvías y vehículos de circulación lenta."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Resumen (regla 226)",
+"description":"Requiere que los conductores se adapten a las condiciones climáticas adversas y utilicen las luces adecuadas cuando la visibilidad sea reducida."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Condiciones climáticas adversas (regla 227)",
+"description":"Orientación sobre la reducción del agarre, las mayores distancias de frenado, las salpicaduras, el aquaplaning y las inundaciones."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Condiciones climáticas gélidas y nevadas (reglas 228 a 231)",
+"description":"Normas para prepararse, conducir con suavidad y mantener el control en hielo y nieve."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Tiempo ventoso (reglas 232 a 233)",
+"description":"Información sobre fuertes vientos cruzados y usuarios vulnerables de la vía pública afectados por las ráfagas."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Niebla (reglas 234 a 236)",
+"description":"Normas sobre visibilidad, velocidad, distancia de seguimiento y uso correcto de las luces antiniebla."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Clima cálido (regla 237)",
+"description":"Orientación sobre los peligros relacionados con el calor en la superficie de las carreteras y cómo evitar el sobrecalentamiento."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"General (regla 238)",
+"description":"Normas generales de estacionamiento, incluyendo el cumplimiento de las restricciones y la necesidad de evitar peligrosuobstrucciones."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Estacionamiento (normas 239 a 247)",
+"description":"Normas para el estacionamiento seguro, las paradas en la vía pública, la carga y descarga, los espacios para discapacitados y los lugares prohibidos."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Estacionamiento nocturno (normas 248 a 252)",
+"description":"Normativa sobre aparcamiento nocturno que abarca la dirección, la iluminación, los límites de velocidad y las marcas reflectantes."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Control de estacionamiento despenalizado (DPE)",
+"description":"Explica cómo las autoridades locales hacen cumplir las restricciones de estacionamiento por vía civil."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"General (reglas 253 a 254)",
+"description":"Normas generales de circulación en autopista, incluidos los usuarios prohibidos y la aplicación de la normativa de autopistas."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Señales de autopista (normas 255 a 258)",
+"description":"Significado de las señales de autopista, los cierres de carriles con una X roja y los límites de velocidad variables."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Incorporación a la autopista (regla 259)",
+"description":"Normas para el uso de la vía de acceso, la adaptación a la velocidad del tráfico y la prioridad otorgada al tráfico de la autopista."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"En la autopista (normas 260 a 263)",
+"description":"Conducción segura en autopista, respetando las distancias de seguridad, las restricciones y el uso de los carriles."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Disciplina de carriles (reglas 264 a 266)",
+"description":"Requiere el uso del carril izquierdo, salvo para adelantar, y el cumplimiento seguro de las señales de carril."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Adelantamiento (reglas 267 a 268)",
+"description":"Normas de adelantamiento en autopista, incluyendo la observación segura y la prohibición de usar el arcén."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Arcada dura (regla 269)",
+"description":"Restringe el uso del arcén a casos de emergencia o cuando las señales lo indican como carril para correr."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Parada (reglas 270 a 272)",
+"description":"Prohíbe detenerse en la autopista excepto en casos de emergencia o cuando se indique, y explica el uso de las zonas de emergencia."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Salida de la autopista (normas 273 a 274)",
+"description":"Normas para leer las señales de salida, señalizar y entrar en el carril de salida de forma segura."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Lugar de relativa seguridad (regla 275)",
+"description":"Explica cómo identificar y llegar a un lugar más seguro durante una avería o emergencia."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Averías (regla 276)",
+"description":"Medidas a tomar en caso de avería en la autopista, incluyendo cómo salir del vehículo de forma segura y cómo contactar con los servicios de asistencia."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Normas adicionales para autopistas (normas 277 a 279)",
+"description":"Información adicional sobre averías y situaciones de emergencia, incluyendo la reincorporación al tráfico y la situación de los vehículos averiados."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Obstáculos (regla 280)",
+"description":"Medidas a tomar al encontrarse con una obstrucción en la carretera o al provocarla."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Incidentes (reglas 281 a 283)",
+"description":"Medidas de seguridad en caso de incidentes, pasillos de emergencia y cumplimiento de las normas por parte del personal de emergencia."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Incidentes relacionados con mercancías peligrosas (reglas 284 a 285)",
+"description":"Precauciones y requisitos de notificación cuando hay materiales peligrosos involucrados en un incidente."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Documentación (reglas 286 a 287)",
+"description":"Obligación de detenerse, intercambiar información y denunciar colisiones a la policía cuando sea necesario."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Obras viales (regla 288)",
+"description":"Requiere extremar las precauciones, reducir la velocidad y respetar las señales temporales y los controles de carril en las zonas de obras."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Normas adicionales para carreteras de alta velocidad (normas 289 a 290)",
+"description":"Normas de seguridad adicionales para averías e incidentes en carreteras de alta velocidad."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Pasos a nivel (reglas 291 a 299)",
+"description":"Normas para aproximarse, cruzar y responder a semáforos, barreras y emergencias en pasos a nivel."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Tranvías (reglas 300 a 307)",
+"description":"Normas para compartir la vía pública con los tranvías y evitar las vías, los andenes y las rutas reservadas para tranvías."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Señales de tráfico. Luces rojas intermitentes. Señales de control de carril.",
+"description":"Significado de los semáforos estándar, las señales de stop rojas intermitentes y las señales de control de carril."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Señales de autopista",
+"description":"Significado de las señales de advertencia, los límites variables, los cierres de carriles y las instrucciones en las autopistas."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Señales de intermitentes. Señales de luces de freno. Señales de luces de marcha atrás. Señales de brazos en el suelo. Luces de emergencia.",
+"description":"Explica las señales luminosas y direccionales de los vehículos que se utilizan para comunicar los movimientos previstos y los peligros."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Agentes de policía. Señales con los brazos a las personas que controlan el tráfico. Agentes de la Agencia de Normas para Conductores y Vehículos y agentes de tráfico. Patrullas de cruce escolar.",
+"description":"Señales e instrucciones dadas por la policía, el personal de tráfico autorizado y los agentes de seguridad escolar."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Señales que dan órdenes",
+"description":"Señales de tráfico obligatorias y prohibitivas que los usuarios de la vía pública están legalmente obligados a obedecer."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Señales de advertencia",
+"description":"Señales que advierten de peligros, cambios en las condiciones de la carretera y usuarios vulnerables de la vía pública."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Señales de dirección",
+"description":"Señales que indican rutas, destinos, trazado de cruces, números de carreteras y desvíos."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Señales informativas",
+"description":"Señales rectangulares que proporcionan información sobre aparcamiento, carriles, autopista, rutas e instalaciones."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Señales de obras en la carretera",
+"description":"Señales temporales que advierten sobre obras viales, peligros, cierres de carriles, límites de velocidad y sistemas de circulación en sentido contrario."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Cruzando la calzada. A lo largo de la calzada. A lo largo del borde de la calzada. En el bordillo o en el borde de la calzada. Otras marcas viales",
+"description":"Significados de stop, ceda el paso, carril, espera, carga, Ruta Roja, intersección en caja y otras marcas viales."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Marcas traseras para vehículos de mercancías pesadas. Placas de advertencia de peligro. Marcadores de proyección. Otros",
+"description":"Señalización vehicular para identificar vehículos pesados, mercancías peligrosas, cargas que sobresalen y autobuses escolares."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Tú y tu bicicleta",
+"description":"Selección de bicicletas, mantenimiento, frenos, iluminación, reflectores, estado de los neumáticos y formación."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Requisitos para obtener el permiso de conducir motocicletas. Categorías de permisos de conducir para ciclomotores y motocicletas.",
+"description":"Formación basada en ordenador, restricciones para el aprendizaje, pruebas, acceso progresivo y categorías de permisos AM, A1, A2 y A."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Documentos. Conductores principiantes",
+"description":"Permisos de conducir, ITV, seguro, matriculación, impuesto de circulación, baja temporal del vehículo y requisitos para conductores noveles."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Legislación sobre tráfico rodado. Leyes y reglamentos anteriores a 1988. Leyes y reglamentos a partir de 1988.",
+"description":"Ámbito de aplicación de la legislación británica sobre tráfico rodado y abreviaturas de las principales leyes y reglamentos citados en el Código de Circulación."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Sanciones",
+"description":"Sanciones máximas, puntos de penalización, inhabilitación, revocación del permiso de conducir para conductores noveles, repetición de la prueba y otras consecuencias de la infracción."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Mantenimiento de vehículos. Seguridad de vehículos.",
+"description":"Aptitud para circular, luces de advertencia, neumáticos, fluidos, seguridad del combustible, prevención de incendios y robos en vehículos."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Afrontar el peligro. 2. Buscar ayuda. 3. Ayudar a los implicados. 4. Proporcionar atención de emergencia.",
+"description":"Seguridad en el lugar del accidente, llamadas de emergencia, atención a heridos, DRABC, RCP, tratamiento de hemorragias y quemaduras."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"El código de seguridad. Ley de Nuevos Conductores. Formación adicional.",
+"description":"Reducción de riesgos para conductores noveles, retirada del permiso de conducir tras la pérdida de seis puntos y formación adicional opcional, como el programa Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Conversiones métricas. Sitios web útiles. Lecturas adicionales",
+"description":"Conversiones de millas a kilómetros y recursos oficiales sobre seguridad vial, conducción, ciclismo, remolque e información sobre vehículos."
+}
+]

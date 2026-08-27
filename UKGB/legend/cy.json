@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Geiriad Rheolau`r Ffordd Fawr. Gwybod a chymhwyso`r rheolau.",
+"description":"Yn egluro sut mae`r geiriau RHAID, RHAID PEIDIO, dylai a ni ddylai yn cael eu defnyddio, a`r cyfrifoldeb i wybod a chymhwyso Rheolau`r Ffordd Fawr."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Cerbydau hunan-yrru",
+"description":"Yn egluro cyfrifoldebau cyfreithiol defnyddwyr pan fydd cerbyd hunan-yrru yn gyrru ei hun ai peidio."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Hierarchaeth Defnyddwyr Ffyrdd",
+"description":"Yn egluro bod gan ddefnyddwyr ffyrdd sy`n gallu achosi`r niwed mwyaf y cyfrifoldeb mwyaf i leihau perygl."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Canllawiau cyffredinol (rheolau 1 i 6)",
+"description":"Canllawiau diogelwch cyffredinol i gerddwyr, gan gynnwys palmentydd, gwelededd a llwybrau a rennir."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Croesi`r ffordd (rheolau 7 i 17)",
+"description":"Cod y Groes Werdd a rheolau ar gyfer dewis lle diogel a chroesi ffyrdd yn ddiogel."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Croesfannau (rheolau 18 i 30)",
+"description":"Rheolau ar gyfer cerddwyr sy`n defnyddio croesfannau sebra, pelican, pâl, twcan a marchogion."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Sefyllfaoedd sydd angen gofal ychwanegol (rheolau 31 i 35)",
+"description":"Rhagofalon ychwanegol ar gyfer cerddwyr agored i niwed, cerbydau brys, bysiau a chroesfannau rheilffordd."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Cadeiriau olwyn â phŵer a sgwteri symudedd (rheolau 36 i 37)",
+"description":"Rheolau ar gyfer defnyddio cadeiriau olwyn â phŵer a sgwteri symudedd ar balmentydd a ffyrdd."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Ar balmentydd (rheolau 38 i 40)",
+"description":"Rheolau ar gyfer sgwteri symudedd a chadeiriau olwyn â phŵer sy`n defnyddio palmentydd ac ardaloedd i gerddwyr."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Ar y ffordd (rheolau 41 i 46)",
+"description":"Rheolau defnydd ffyrdd, goleuadau, gwelededd a diogelwch ar gyfer cadeiriau olwyn â phŵer a sgwteri symudedd."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Cerbydau a dynnir gan geffylau (rheolau 47 i 48)",
+"description":"Canllawiau diogelwch, goleuadau, llwybrau ac offer ar gyfer gyrwyr cerbydau a dynnir gan geffylau."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Marchogion ceffylau (rheolau 49 i 55)",
+"description":"Rheolau ar gyfer marchogaeth ceffylau yn ddiogel, gan gynnwys dillad, offer, safle ar y ffordd a signalau."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Anifeiliaid eraill (rheolau 56 i 58)",
+"description":"Rheolau ar gyfer cŵn, anifeiliaid mewn cerbydau a symud da byw ar hyd ffyrdd."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Trosolwg (rheolau 59 i 72)",
+"description":"Rheolau beicio craidd sy`n cwmpasu dillad, offer, goleuadau, safle ar y ffordd, lonydd beicio a llwybrau a rennir."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Cyffyrdd ffyrdd (rheolau 73 i 77)",
+"description":"Rheolau ar gyfer beicwyr sy`n agosáu at gyffyrdd ac yn trafod eu ffordd, gan gynnwys lleoliad a blaenoriaeth."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Cylchfannau (rheolau 78 i 80)",
+"description":"Rheolau ar gyfer beicwyr sy`n defnyddio cylchfannau, gan gynnwys safle lôn, signalau a dewisiadau amgen mwy diogel."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Croesi`r ffordd (rheolau 81 i 82)",
+"description":"Rheolau ar gyfer beicwyr sy`n defnyddio croesfannau i feiciau yn unig, twcan a marchogion."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Cyffredinol (rheolau 83 i 88)",
+"description":"Rheolau cyffredinol beiciau modur sy`n cwmpasu trwyddedu, helmedau, amddiffyniad llygaid, teithwyr a gwelededd yng ngolau dydd."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Cyflwr y cerbyd (rheol 89)",
+"description":"Yn ei gwneud yn ofynnol i feicwyr modur gadw eu beic modur yn addas ar gyfer y ffordd a chynnal a chadw teiars, breciau, goleuadau a llywio."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Addasrwydd i yrru (rheolau 90 i 94)",
+"description":"Rheolau ar flinder, salwch, golwg, canolbwyntio a ffactorau eraill sy`n effeithio ar ffitrwydd gyrru."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alcohol a chyffuriau (rheolau 95 i 96)",
+"description":"Yn gwahardd gyrru dan ddylanwad alcohol, cyffuriau anghyfreithlon neu feddyginiaethau."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Cyn cychwyn (rheol 97)",
+"description":"Gwiriadau cyn y daith ar gyfer addasrwydd cerbydau i`r ffordd, gwelededd, rheolyddion, dillad a llwythi diogel."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Tynnu a llwytho cerbydau (rheol 98)",
+"description":"Rheolau ar gyfer llwythi diogel, terfynau tynnu, trelars, tafluniadau ac osgoi gorlwytho."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Gwregysau diogelwch a seddi atal plant (rheolau 99 i 102)",
+"description":"Gofynion cyfreithiol ar gyfer gwregysau diogelwch, seddi atal plant a chludo plant yn ddiogel."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Signalau (rheolau 103 i 106)",
+"description":"Rheolau ar gyfer rhoi signalau clir a dehongli signalau gan ddefnyddwyr eraill y ffordd."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Gweithdrefnau stopio eraill (rheolau 107 i 112)",
+"description":"Cyfarwyddiadau gan yr heddlu a swyddogion awdurdodedig, cydymffurfio â goleuadau traffig a defnyddio`r corn."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Gofynion goleuo (rheolau 113 i 116)",
+"description":"Rheolau sy`n llywodraethu goleuadau blaen, goleuadau ochr, goleuadau niwl ac osgoi dallu eraill."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Rheoli`r cerbyd (rheolau 117 i 126)",
+"description":"Rheoli cerbydau`n ddiogel, brecio, pellteroedd stopio, sgidio, arfordiro a chydymffurfio â therfyn cyflymder."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Llinellau a marciau lôn ar y ffordd (rheolau 127 i 132)",
+"description":"Ystyr ac effaith gyfreithiol llinellau canol, llinellau perygl, llinellau gwyn dwbl, llinellau lôn a chevrons."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Ffyrdd cerbydau aml-lôn (rheolau 133 i 143)",
+"description":"Disgyblaeth lonydd, newid lonydd, lonydd dringo, lonydd bysiau, lonydd beicio a lonydd â theithwyr uchel."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Cyngor cyffredinol (rheolau 144 i 158)",
+"description":"Ymddygiad gyrru diogel cyffredinol, ystyriaeth i eraill, cyflymder, blaenoriaeth ac osgoi tynnu sylw."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Rheolau cyffredinol (rheolau 159 i 161)",
+"description":"Arsylwi, signalu a symud yn ddiogel cyn tynnu i ffwrdd neu fynd i mewn i draffig."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Goddiweddyd (rheolau 162 i 169)",
+"description":"Rheolau ar gyfer goddiweddyd yn ddiogel, gan gynnwys clirio, lleoliadau gwaharddedig a chael eich goddiweddyd."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Cyffyrdd ffyrdd (rheolau 170 i 183)",
+"description":"Rheolau ar gyfer nesáu at gyffyrdd, ildio, troi, dod allan a chroesi traffig."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Cylchfannau (rheolau 184 i 190)",
+"description":"Rheolau ar gyfer nesáu, blaenoriaeth, dewis lôn, signalau ac ymadael â chylchfannau."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Croesfannau cerddwyr (rheolau 191 i 199)",
+"description":"Cyfrifoldebau gyrwyr mewn croesfannau sebra, pelican, pâl, twcan a chroesfannau cyfochrog."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Gwrthdroi (200 i 203)",
+"description":"Rheolau ar gyfer gwirio`r amgylchoedd, gwrthdroi`n ddiogel ac osgoi gwrthdroi`n ormodol."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Trosolwg (rheol 204)",
+"description":"Yn cyflwyno`r ddyletswydd i amddiffyn defnyddwyr ffyrdd sydd mewn perygl arbennig."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Cerddwyr (rheolau 205 i 210)",
+"description":"Gofal ychwanegol o amgylch plant, pobl hŷn, cerddwyr anabl a phobl sy`n croesi ffyrdd."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Beicwyr modur a beicwyr (rheolau 211 i 213)",
+"description":"Gwyliadwriaeth ychwanegol a chliriad diogel o amgylch beicwyr modur a beicwyr, yn enwedig wrth gyffyrdd."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Defnyddwyr ffyrdd eraill (rheolau 214 i 218)",
+"description":"Gofal ychwanegol o amgylch anifeiliaid, marchogion ceffylau, dysgwyr gyrru a defnyddwyr ffyrdd dibrofiad."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Cerbydau eraill (rheolau 219 i 225)",
+"description":"Rheolau ar gyfer cerbydau brys, cerbydau mawr, bysiau, tramiau a cherbydau sy`n symud yn araf."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Trosolwg (rheol 226)",
+"description":"Yn ei gwneud yn ofynnol i yrwyr addasu i dywydd garw a defnyddio goleuadau priodol pan fydd gwelededd yn lleihau."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Tywydd gwlyb (rheol 227)",
+"description":"Canllawiau ar afael llai, pellteroedd stopio hirach, chwistrellu, plannu dŵr a dŵr llifogydd."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Tywydd rhewllyd ac eiraog (rheolau 228 i 231)",
+"description":"Rheolau ar gyfer paratoi, gyrru`n esmwyth a chynnal rheolaeth mewn iâ ac eira."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Tywydd gwyntog (rheolau 232 i 233)",
+"description":"Canllawiau ar groeswyntoedd cryf a defnyddwyr ffyrdd agored i niwed yr effeithir arnynt gan wyntoedd cryfion."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Niwl (rheolau 234 i 236)",
+"description":"Rheolau ar welededd, cyflymder, pellter dilyn a defnydd cywir o oleuadau niwl."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Tywydd poeth (rheol 237)",
+"description":"Canllawiau ar beryglon arwynebau ffyrdd sy`n gysylltiedig â gwres ac osgoi gorboethi."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Cyffredinol (rheol 238)",
+"description":"Rheolau parcio cyffredinol, gan gynnwys cydymffurfio â chyfyngiadau ac osgoi perygl neu rwystr."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Parcio (rheolau 239 i 247)",
+"description":"Rheolau ar gyfer parcio diogel, stopio wrth ochr y ffordd, llwytho, lleoedd i bobl anabl a lleoliadau gwaharddedig."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Parcio yn y nos (rheolau 248 i 252)",
+"description":"Rheolau parcio nos sy`n cwmpasu cyfeiriad, goleuadau, terfynau cyflymder a marciau adlewyrchol."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Gorfodi Parcio wedi`i Ddad-droseddoli (DPE)",
+"description":"Yn egluro gorfodi cyfyngiadau parcio sifil gan awdurdodau lleol."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Cyffredinol (rheolau 253 i 254)",
+"description":"Rheolau cyffredinol y draffordd, gan gynnwys defnyddwyr gwaharddedig a chymhwyso rheoliadau’r draffordd."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Signalau traffordd (rheolau 255 i 258)",
+"description":"Ystyr signalau traffordd, cau lonydd X coch a therfynau cyflymder amrywiol."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Ymuno â`r draffordd (rheol 259)",
+"description":"Rheolau ar gyfer defnyddio`r ffordd ymuno, cyfateb cyflymder traffig a rhoi blaenoriaeth i draffig traffordd."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Ar y draffordd (rheolau 260 i 263)",
+"description":"Gyrru`n ddiogel ar y draffordd, dilyn pellteroedd, cyfyngiadau a defnyddio lonydd."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Disgyblaeth lôn (rheolau 264 i 266)",
+"description":"Mae angen defnyddio`r lôn chwith oni bai eich bod yn goddiweddyd ac yn cydymffurfio`n ddiogel â signalau`r lôn."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Goddiweddyd (rheolau 267 i 268)",
+"description":"Rheolau goddiweddyd traffyrdd, gan gynnwys arsylwi diogel a`r gwaharddiad ar ddefnyddio`r llain galed."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Ysgwydd caled (rheol 269)",
+"description":"Yn cyfyngu defnydd y llain galed i argyfyngau neu adegau pan fydd arwyddion yn ei hagor fel lôn redeg."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Stopio (rheolau 270 i 272)",
+"description":"Yn gwahardd stopio ar y draffordd ac eithrio mewn argyfyngau neu pan gyfarwyddir hynny ac yn egluro defnydd ardal argyfwng."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Gadael y draffordd (rheolau 273 i 274)",
+"description":"Rheolau ar gyfer darllen arwyddion allanfa, signalu a mynd i mewn i`r lôn allan yn ddiogel."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Lle diogel cymharol (rheol 275)",
+"description":"Yn egluro sut i adnabod a chyrraedd lleoliad mwy diogel yn ystod chwalfa neu argyfwng."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Dadansoddiadau (rheol 276)",
+"description":"Camau i`w cymryd yn ystod methiant ar y draffordd, gan gynnwys gadael y cerbyd yn ddiogel a chysylltu â chymorth."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Rheolau ychwanegol ar gyfer traffyrdd (rheolau 277 i 279)",
+"description":"Canllawiau ychwanegol ar ddadansoddi cerbydau ac argyfyngau, gan gynnwys ailymuno â thraffig a cherbydau anabl."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Rhwystrau (rheol 280)",
+"description":"Camau i`w cymryd wrth ddod ar draws neu achosi rhwystr ffordd."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Digwyddiadau (rheolau 281 i 283)",
+"description":"Mesurau diogelwch mewn digwyddiadau, coridorau brys a chydymffurfiaeth â phersonél brys."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Digwyddiadau sy`n ymwneud â nwyddau peryglus (rheolau 284 i 285)",
+"description":"Rhagofalon a gofynion adrodd pan fydd deunyddiau peryglus yn rhan o ddigwyddiad."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Dogfennaeth (rheolau 286 i 287)",
+"description":"Dyletswyddau i stopio, cyfnewid gwybodaeth ac adrodd am wrthdrawiadau i`r heddlu pan fo angen."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Gwaith ffordd (rheol 288)",
+"description":"Angen gofal ychwanegol, cyflymder is a chydymffurfio ag arwyddion dros dro a rheolaethau lôn mewn gwaith ffordd."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Rheolau ychwanegol ar gyfer ffyrdd cyflym (rheolau 289 i 290)",
+"description":"Rheolau diogelwch ychwanegol ar gyfer chwalfeydd a digwyddiadau ar ffyrdd cyflym."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Croesfannau lefel (rheolau 291 i 299)",
+"description":"Rheolau ar gyfer nesáu at oleuadau, rhwystrau ac argyfyngau mewn croesfannau rheilffordd, eu croesi ac ymateb iddynt."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Tramffyrdd (rheolau 300 i 307)",
+"description":"Rheolau ar gyfer rhannu ffyrdd gyda thramiau ac osgoi rheiliau, platfformau a llwybrau tram wedi`u cadw."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Signalau goleuadau traffig. Goleuadau coch sy`n fflachio. Signalau rheoli lôn.",
+"description":"Ystyr goleuadau traffig safonol, signalau stop coch sy`n fflachio a signalau rheoli lôn."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Signalau traffordd",
+"description":"Ystyr signalau rhybuddio traffordd, terfynau amrywiol, cau lonydd a chyfarwyddiadau."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Signalau dangosydd cyfeiriad. Signalau golau brêc. Signalau golau gwrthdroi. Signalau braich. Goleuadau perygl.",
+"description":"Yn egluro signalau goleuadau cerbyd a braich a ddefnyddir i gyfleu symudiadau a pheryglon bwriadedig."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Swyddogion heddlu. Signalau braich i bobl sy`n rheoli traffig. Swyddogion yr Asiantaeth Safonau Gyrwyr a Cherbydau a swyddogion traffig. Patrolau croesfannau ysgol",
+"description":"Signalau a chyfarwyddiadau a roddir gan yr heddlu, personél traffig awdurdodedig a phatrolau croesfannau ysgolion."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Arwyddion sy`n rhoi gorchmynion",
+"description":"Arwyddion traffig gorfodol a gwaharddol y mae`n ofynnol yn gyfreithiol i ddefnyddwyr ffyrdd ufuddhau iddynt."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Arwyddion rhybuddio",
+"description":"Arwyddion yn rhybuddio am beryglon, amodau ffyrdd sy`n newid a defnyddwyr ffyrdd agored i niwed o`u blaenau."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Arwyddion cyfeiriad",
+"description":"Arwyddion yn dangos llwybrau, cyrchfannau, cynlluniau cyffyrdd, rhifau ffyrdd a dargyfeiriadau."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Arwyddion gwybodaeth",
+"description":"Arwyddion petryalog sy`n darparu gwybodaeth am barcio, lôn, traffordd, llwybr a chyfleusterau."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Arwyddion gwaith ffordd",
+"description":"Arwyddion dros dro yn rhybuddio am waith ffordd, peryglon, cau lonydd, terfynau cyflymder a systemau gwrthlif."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Ar draws y ffordd gerbydau. Ar hyd y ffordd gerbydau. Ar hyd ymyl y ffordd gerbydau. Ar y palmant neu ar ymyl y ffordd gerbydau. Marciau ffordd eraill",
+"description":"Ystyr stopio, ildio, lôn, aros, llwytho, Llwybr Coch, cyffordd bocs a marciau ffordd eraill."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Marciau cefn cerbydau nwyddau mawr. Platiau rhybuddio am beryglon. Marcwyr taflunio. Eraill.",
+"description":"Marciau cerbydau sy`n nodi cerbydau trwm, nwyddau peryglus, llwythi sy`n ymwthio allan a bysiau ysgol."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Chi a`ch beic",
+"description":"Dewis beic, cynnal a chadw, breciau, goleuadau, adlewyrchyddion, cyflwr teiars a hyfforddiant."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Gofynion trwydded beic modur. Categorïau trwydded ar gyfer mopedau a beiciau modur.",
+"description":"CBT, cyfyngiadau dysgwyr, profion, mynediad cynyddol a chategorïau trwydded AM, A1, A2 ac A."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Dogfennau. Gyrwyr sy`n dysgu",
+"description":"Trwyddedau gyrru, MOT, yswiriant, cofrestru, treth cerbyd, SORN a gofynion gyrru-dysgwr."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Cyfraith traffig ffyrdd. Deddfau a rheoliadau cyn 1988. Deddfau a rheoliadau o 1988 ymlaen.",
+"description":"Cwmpas cyfraith traffig ffyrdd y DU a thalfyriadau ar gyfer y prif Ddeddfau a Rheoliadau a ddyfynnir yn y Cod Priffyrdd."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Cosbau",
+"description":"Cosbau uchaf, pwyntiau cosb, gwaharddiad, dirymu gyrrwr newydd, ailbrofi a chanlyniadau eraill troseddu."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Cynnal a chadw cerbydau. Diogelwch cerbydau.",
+"description":"Addasrwydd i`r ffordd, goleuadau rhybuddio, teiars, hylifau, diogelwch tanwydd, tanau cerbydau ac atal lladrad."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Ymdrin â pherygl. 2. Cael cymorth. 3. Helpu`r rhai sy`n gysylltiedig. 4. Darparu gofal brys",
+"description":"Diogelwch ar safle damwain, galwadau brys, gofal anafiadau, DRABC, CPR, gwaedu a thrin llosgiadau."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Y cod diogelwch. Deddf Gyrwyr Newydd. Hyfforddiant pellach",
+"description":"Lleihau risg i yrwyr newydd, dirymu trwydded chwe phwynt a hyfforddiant pellach dewisol fel Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Trosiadau metrig. Gwefannau defnyddiol. Darllen pellach",
+"description":"Trosiadau milltiroedd i gilometrau ac adnoddau swyddogol ar gyfer diogelwch ffyrdd, gyrru, marchogaeth, tynnu a gwybodaeth am gerbydau."
+}
+]

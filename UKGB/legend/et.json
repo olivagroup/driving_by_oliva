@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Liiklusseadustiku sõnastus. Reeglite tundmine ja rakendamine.",
+"description":"Selgitab, kuidas kasutatakse sõnu PEAB, EI TOHI, peaks ja ei tohiks kasutada ning kirjeldab liikluseeskirjade tundmise ja kohaldamise kohustust."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Isejuhtivad sõidukid",
+"description":"Selgitab kasutajate juriidilisi kohustusi olukorras, kus isejuhtiv sõiduk ise sõidab või ei sõida."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Liiklejate hierarhia",
+"description":"Selgitab, et suurimat kahju tekitada suutvatel liiklejatel lasub suurim vastutus ohu vähendamisel."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Üldised juhised (reeglid 1–6)",
+"description":"Jalakäijate üldised ohutusjuhised, sh kõnniteed, nähtavus ja ühised marsruudid."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Tee ületamine (reeglid 7–17)",
+"description":"Rohelise Risti eeskiri ja reeglid turvalise koha valimiseks ja tee ohutuks ületamiseks."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Ülekäigurajad (reeglid 18–30)",
+"description":"Jalakäijate reeglid sebrade, pelikanide, lunnide, tukaanide ja ratsanike ülekäiguradade kasutamisel."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Olukorrad, mis vajavad erilist hoolt (reeglid 31–35)",
+"description":"Lisaettevaatusabinõud haavatavatele jalakäijatele, kiirabiautodele, bussidele ja raudteeülesõitudele."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Elektrilised ratastoolid ja liikuvusskuutrid (reeglid 36–37)",
+"description":"Mootorratastoolide ja liikuvussukelite kasutamise eeskirjad kõnniteedel ja teedel."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Kõnniteedel (reeglid 38–40)",
+"description":"Liikumisrollerite ja elektriliste ratastoolide eeskirjad kõnniteede ja jalakäijate alade kasutamisel."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Teel (reeglid 41–46)",
+"description":"Mootorratastoolide ja invatõukerataste liikluseeskirjad, valgustus, nähtavus ja ohutusnõuded."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Hobuveokid (reeglid 47–48)",
+"description":"Hobuveokite juhtide ohutus-, valgustus-, marsruudi- ja varustusjuhised."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Ratsanikud (reeglid 49–55)",
+"description":"Hobuste ohutu ratsutamise reeglid, sh riietus, varustus, tee positsioneerimine ja signaalid."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Muud loomad (reeglid 56–58)",
+"description":"Reeglid koerte, sõidukites olevate loomade ja kariloomade veoks teedel."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Ülevaade (reeglid 59–72)",
+"description":"Jalgrattasõidu põhireeglid, mis hõlmavad riietust, varustust, valgustust, tee asukohta, jalgrattateid ja ühiseid marsruute."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Teede ristmikud (reeglid 73–77)",
+"description":"Reeglid jalgratturitele ristmikele lähenemiseks ja nende läbimiseks, sh positsioneerimine ja eesõigus."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Ringristmikud (reeglid 78–80)",
+"description":"Jalgratturite ringristmike kasutamise reeglid, sh sõiduraja paigutus, liiklusmärgid ja ohutumad alternatiivid."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Tee ületamine (reeglid 81–82)",
+"description":"Jalgratturite reeglid ainult jalgratta-, tukaani- ja ratsaülekäiguradade kasutamisel."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Üldsätted (reeglid 83–88)",
+"description":"Üldised mootorrattareeglid, mis hõlmavad lubasid, kiivreid, silmakaitset, reisijaid ja nähtavust päevasel ajal."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Sõiduki seisukord (reegel 89)",
+"description":"Nõuab mootorratturitelt oma mootorratta liikluskorras hoidmist ning rehvide, pidurite, tulede ja roolisüsteemi korrashoidu."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Juhtimiskõlblikkus (reeglid 90–94)",
+"description":"Reeglid väsimuse, haiguse, nägemise, keskendumisvõime ja muude sõiduvõimet mõjutavate tegurite kohta."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkohol ja narkootikumid (reeglid 95–96)",
+"description":"Keelab autojuhtimise alkoholi, narkootikumide või ravimite mõju all."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Enne teele asumist (reegel 97)",
+"description":"Sõiduki tehnoülevaatuse, nähtavuse, juhtimisseadmete, riietuse ja koorma kinnituse kontrollimine enne reisi."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Sõidukite pukseerimine ja laadimine (reegel 98)",
+"description":"Reeglid koorma kinnitamise, pukseerimispiirangute, haagiste, väljaulatuvate osade ja ülekoormuse vältimise kohta."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Turvavööd ja lapse turvasüsteemid (reeglid 99–102)",
+"description":"Turvavööde, lapse turvaistmete ja laste ohutu vedamise seadusest tulenevad nõuded."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Signaalid (reeglid 103–106)",
+"description":"Selgete signaalide andmise ja teiste liiklejate signaalide tõlgendamise reeglid."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Muud peatamisprotseduurid (reeglid 107–112)",
+"description":"Politsei ja volitatud ametnike juhised, foori järgimine ja signaali kasutamine."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Valgustusnõuded (reeglid 113–116)",
+"description":"Esitulede, gabariiditulede, udutulede ja teiste pimestamise vältimise reeglid."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Sõiduki juhtimine (reeglid 117–126)",
+"description":"Sõiduki ohutu juhtimine, pidurdamine, peatumisteekond, libisemine, vabajooks ja kiirusepiirangute järgimine."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Teejooned ja sõidurajamärgised teel (reeglid 127–132)",
+"description":"Keskjoonte, ohujoonte, topeltvalgete joonte, sõidurajajoonte ja ševronide tähendus ja õiguslik mõju."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Mitme sõidurajaga sõiduteed (reeglid 133–143)",
+"description":"Sõiduraja distsipliin, sõiduraja vahetamine, sõiduradadele minemine, bussirajad, jalgrattateed ja suure liiklusega sõidurajad."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Üldised nõuanded (reeglid 144–158)",
+"description":"Üldine ohutu sõidukäitumine, teistega arvestamine, kiiruse hoidmine, prioriteetsuse hoidmine ja tähelepanu hajutamise vältimine."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Üldreeglid (reeglid 159–161)",
+"description":"Jälgimine, signaalimine ja ohutu liikumine enne paigaltvõtmist või liiklusesse sisenemist."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Möödasõit (reeglid 162–169)",
+"description":"Ohutu möödasõidu reeglid, sh distantsi hoidmine, keelatud kohad ja möödasõidu saamine."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Teede ristmikud (reeglid 170–183)",
+"description":"Ristmike lähenemise, tee andmise, pööramise, väljasõidu ja liikluse ületamise reeglid."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Ringristmikud (reeglid 184–190)",
+"description":"Ringristmike lähenemise, eesõiguse, sõiduraja valiku, liikluse suunamise ja lahkumise reeglid."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Jalakäijate ülekäigurajad (reeglid 191–199)",
+"description":"Juhi kohustused sebra-, pelikani-, lunni-, tukaani- ja paralleelsete ülekäiguradade juures."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Tagurpidi liikumine (200 kuni 203)",
+"description":"Reeglid ümbruse kontrollimiseks, ohutuks tagurdamiseks ja liigse tagurdamise vältimiseks."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Ülevaade (reegel 204)",
+"description":"Kehtestab kohustuse kaitsta eriti ohustatud liiklejaid."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Jalakäijad (reeglid 205–210)",
+"description":"Eriline ettevaatus laste, eakate, puuetega jalakäijate ja teed ületavate inimeste läheduses."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Mootorratturid ja jalgratturid (reeglid 211–213)",
+"description":"Lisavaatlus ja ohutu distantsi hoidmine mootorratturite ja jalgratturite ümber, eriti ristmikel."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Teised liiklejad (reeglid 214–218)",
+"description":"Eriti ettevaatlik loomade, ratsanike, õppivate juhtide ja kogenematute liiklejate läheduses."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Muud sõidukid (reeglid 219–225)",
+"description":"Eeskirjad alarmsõidukitele, suurtele sõidukitele, bussidele, trammidele ja aeglaselt liikuvatele sõidukitele."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Ülevaade (reegel 226)",
+"description":"Nõuab juhtidelt kohanemist ebasoodsate ilmastikutingimustega ja sobivate tulede kasutamist halvenenud nähtavuse korral."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Märg ilm (reegel 227)",
+"description":"Juhised vähenenud haarduvuse, pikema pidurdusteekonna, pritsimise, vesiliu ja üleujutusvee kohta."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Jäine ja lumine ilm (reeglid 228–231)",
+"description":"Reeglid jääl ja lumel ettevalmistamiseks, sujuvaks sõitmiseks ja juhitavuse säilitamiseks."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Tuuline ilm (reeglid 232–233)",
+"description":"Juhised tugeva külgtuule ja puhangutest mõjutatud haavatavate liiklejate kohta."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Udu (reeglid 234–236)",
+"description":"Nähtavuse, kiiruse, pikivahe ja udutulede õige kasutamise reeglid."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Kuum ilm (reegel 237)",
+"description":"Juhised kuumusega seotud teekatte ohtude ja ülekuumenemise vältimise kohta."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Üldine (reegel 238)",
+"description":"Üldised parkimiseeskirjad, sh piirangute järgimine ning ohu või takistuse vältimine."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Parkimine (reeglid 239–247)",
+"description":"Ohutu parkimise, tee ääres peatumise, laadimise, puuetega inimeste kohtade ja keelatud kohtade reeglid."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Parkimine öösel (reeglid 248–252)",
+"description":"Öise parkimise eeskirjad, mis hõlmavad suunda, valgustust, kiirusepiiranguid ja helkurmärgistust."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Dekriminaliseeritud parkimisjärelevalve (DPE)",
+"description":"Selgitab parkimispiirangute tsiviilõiguslikku jõustamist kohalike omavalitsuste poolt."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Üldsätted (reeglid 253–254)",
+"description":"Üldised maanteeeeskirjad, sh keelatud kasutajad ja maanteeeeskirjade kohaldamine."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Kiirtee foorid (reeglid 255–258)",
+"description":"Kiirteefooride, punaste X-raja sulgemiste ja muutuvate kiirusepiirangute tähendus."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Kiirteele liitumine (reegel 259)",
+"description":"Reeglid mahasõidutee kasutamiseks, liikluskiiruse sobitamiseks ja kiirteeliiklusele eelisõiguse andmiseks."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Kiirteel (reeglid 260–263)",
+"description":"Ohutu sõitmine kiirteel, pikivahede hoidmine, piirangud ja sõiduradade kasutamine."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Raja distsipliin (reeglid 264–266)",
+"description":"Nõuab vasakpoolse sõiduraja kasutamist, välja arvatud möödasõidul, ja sõiduraja fooride ohutut järgimist."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Möödasõit (reeglid 267–268)",
+"description":"Kiirteel möödasõidu reeglid, sh ohutu jälgimine ja peatumisriba kasutamise keeld."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Jäiga teepeenar (reegel 269)",
+"description":"Piirab peatusraja kasutamist hädaolukordades või aegadel, mil liiklusmärgid avavad selle jooksurajana."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Peatumine (reeglid 270–272)",
+"description":"Keelab kiirteel peatumise, välja arvatud hädaolukordades või vastava korralduse korral, ning selgitab hädaolukorra ala kasutamist."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Kiirteelt lahkumine (reeglid 273–274)",
+"description":"Väljapääsumärkide lugemise, signaalimise ja väljasõidurajale ohutu sisenemise reeglid."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Suhteliselt turvaline koht (reegel 275)",
+"description":"Selgitab, kuidas rikke või hädaolukorra ajal turvalisemat kohta tuvastada ja sinna jõuda."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Jaotused (reegel 276)",
+"description":"Tegevused maanteel rikke korral, sh sõiduki ohutu lahkumine ja abi kutsumine."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Kiirteede lisareeglid (reeglid 277–279)",
+"description":"Lisajuhised rikke ja hädaolukorra lahendamiseks, sh liiklusesse taasliitumise ja vigaste sõidukite kohta."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Takistused (reegel 280)",
+"description":"Tegevused, mida võtta liiklustakistuse sattumisel või selle põhjustamisel."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Juhtumid (reeglid 281–283)",
+"description":"Ohutusmeetmed intsidentide korral, avariikoridorides ja avariipersonalile antud juhiste järgimine."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Ohtlike kaupadega seotud intsidendid (reeglid 284–285)",
+"description":"Ettevaatusabinõud ja aruandlusnõuded, kui intsident on seotud ohtlike materjalidega."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Dokumentatsioon (reeglid 286–287)",
+"description":"Kohustus peatuda, vahetada teavet ja vajadusel politseile kokkupõrgetest teatada."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Teetööd (reegel 288)",
+"description":"Nõuab teetöödel erilist tähelepanu, kiiruse vähendamist ning ajutiste liiklusmärkide ja sõiduraja reguleerimise eeskirjade järgimist."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Lisareeglid kiirteedele (reeglid 289–290)",
+"description":"Täiendavad ohutusnõuded kiirteedel tekkivate rikete ja õnnetuste korral."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Raudteeülesõidud (reeglid 291–299)",
+"description":"Raudteeülesõidukohtadele lähenemise, nende ületamise ja valgusfooridele, tõkkepuudele ning hädaolukordadele reageerimise reeglid."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Trammid (reeglid 300–307)",
+"description":"Reeglid teede jagamiseks trammidega ning rööbaste, platvormide ja reserveeritud trammiliinide vältimiseks."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Valgusfoori signaalid. Vilkuvad punased tuled. Sõiduraja reguleerimise signaalid",
+"description":"Standardsete fooride, vilkuvate punaste stopp-tulede ja sõiduraja reguleerimisega seotud tulede tähendused."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Kiirtee foorid",
+"description":"Kiirtee hoiatustulede, muutuvate piirangute, sõiduraja sulgemiste ja juhiste tähendused."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Suunatulede signaalid. Piduritulede signaalid. Tagurdustulede signaalid. Käepideme suunatuled. Ohutuled",
+"description":"Selgitab sõiduki tulede ja käemärkide signaale, mida kasutatakse kavandatud liikumiste ja ohtude edastamiseks."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Politseinikud. Käemärgid liiklust reguleerivatele isikutele. Autojuhtide ja sõidukite standardiameti ametnikud ja liiklusametnikud. Koolide ülekäiguraja patrullid",
+"description":"Politsei, volitatud liiklusametnike ja koolide ülekäigukoha patrullide antud märguanded ja juhised."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Käsklusi andvad sildid",
+"description":"Kohustuslikud ja keelavad liiklusmärgid, mida liiklejad on seadusega kohustatud järgima."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Hoiatusmärgid",
+"description":"Märgid hoiatavad ohtude, muutuvate teeolude ja eesolevate haavatavate liiklejate eest."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Suunamärgid",
+"description":"Sildid, mis näitavad marsruute, sihtkohti, ristmike paigutust, teenumbreid ja ümbersõite."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Infosildid",
+"description":"Ristkülikukujulised sildid, mis annavad teavet parkimise, sõiduraja, kiirtee, marsruudi ja rajatise kohta."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Teetööde märgid",
+"description":"Ajutised liiklusmärgid, mis hoiatavad teetööde, ohtude, sõiduraja sulgemiste, kiirusepiirangute ja vastassuunalise liikluse süsteemide eest."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Sõiduteel üle tee. Sõidutee ääres. Sõidutee ääres. Teeäärel või sõidutee ääres. Muud teekattemärgised",
+"description":"Peatumise, teeandmise, sõiduraja, ootamise, laadimise, punase marsruudi, ristmiku ja muude teemärgiste tähendused."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Suurte kaubaveokite tagumised märgistused. Ohumärgised. Eendite märgistused. Muu",
+"description":"Sõidukite märgistused raskeveokite, ohtlike kaupade, väljaulatuvate koormate ja koolibusside identifitseerimiseks."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Sina ja sinu jalgratas",
+"description":"Jalgratta valik, hooldus, pidurid, valgustus, helkurid, rehvide seisukord ja koolitus."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Mootorrattaloa nõuded. Mopeedide ja mootorrataste juhilubade kategooriad",
+"description":"Kognitiivne käitumine, õppija piirangud, testid, järkjärguline juurdepääs ning AM, A1, A2 ja A kategooria juhilubade tundmine."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Dokumendid. Õppivad juhid",
+"description":"Juhiload, ülevaatus, kindlustus, registreerimine, sõidukimaks, SORN ja õppiva juhi nõuded."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Liiklusseadus. Enne 1988. aastat vastu võetud seadused ja määrused. Alates 1988. aastast vastu võetud seadused ja määrused.",
+"description":"Ühendkuningriigi liiklusseaduse ulatus ja liiklusseadustikus viidatud peamiste seaduste ja määruste lühendid."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Karistused",
+"description":"Maksimaalsed karistused, karistuspunktid, diskvalifitseerimine, uue juhi loa kehtetuks tunnistamine, uuesti testimine ja muud rikkumise tagajärjed."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Sõidukite hooldus. Sõidukite turvalisus",
+"description":"Sõidukite tehnoülevaatus, ohutuled, rehvid, vedelikud, kütuseohutus, sõidukite tulekahjud ja varguste ennetamine."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Tegele ohuga. 2. Otsi abi. 3. Aita asjaosalisi. 4. Paku erakorralist abi.",
+"description":"Õnnetuskoha ohutus, hädaabikõned, kannatanutele mõeldud hooldus, dramaatiliselt korrigeeritud südamerütmihäired (DRABC), elustamine, verejooksu ja põletuste ravi."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Ohutuskoodeks. Uute juhtide seadus. Täiendkoolitus",
+"description":"Uute juhtide riskide vähendamine, juhiloa kuuepunktiline kehtetuks tunnistamine ja valikuline täiendkoolitus, näiteks Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Meetrilised teisendused. Kasulikud veebisaidid. Lisalugemist",
+"description":"Miilide kilomeetriteks teisendamine ja ametlikud ressursid liiklusohutuse, sõidu, pukseerimise ja sõidukiteabe kohta."
+}
+]

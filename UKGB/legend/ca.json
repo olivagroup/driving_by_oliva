@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Redacció del Codi de la Circulació. Conèixer i aplicar les normes",
+"description":"Explica com s`utilitzen les paraules MUST, MUST NOT, should i should not, i la responsabilitat de conèixer i aplicar el Codi de la Circulació."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Vehicles autònoms",
+"description":"Explica les responsabilitats legals dels usuaris quan un vehicle autònom es condueix o no."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Jerarquia d`usuaris de la carretera",
+"description":"Explica que els usuaris de la carretera capaços de causar el dany més gran tenen la responsabilitat més gran de reduir el perill."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Orientació general (regles 1 a 6)",
+"description":"Guia general de seguretat per a vianants, incloent-hi voreres, visibilitat i rutes compartides."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Creuar el carrer (regles 7 a 17)",
+"description":"El Codi de la Creu Verda i les normes per triar un lloc segur i creuar els carrers amb seguretat."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Encreuaments (regles 18 a 30)",
+"description":"Normes per a vianants que utilitzen passos de zebra, pelicà, fraret, tucà i eqüestre."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Situacions que requereixen una cura addicional (regles 31 a 35)",
+"description":"Precaucions addicionals per a vianants vulnerables, vehicles d`emergència, autobusos i passos a nivell."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Cadires de rodes elèctriques i escúters de mobilitat (regles 36 a 37)",
+"description":"Normes per a l`ús de cadires de rodes elèctriques i escúters de mobilitat en voreres i carreteres."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"A les voreres (regles 38 a 40)",
+"description":"Normes per a escúters de mobilitat i cadires de rodes elèctriques que utilitzen voreres i zones de vianants."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"A la carretera (regles 41 a 46)",
+"description":"Normes d`ús de la carretera, il·luminació, visibilitat i seguretat per a cadires de rodes elèctriques i escúters de mobilitat."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Vehicles tirats per cavalls (regles 47 a 48)",
+"description":"Seguretat, il·luminació, guia de rutes i equipament per a conductors de vehicles de tracció cavallera."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Genets (regles 49 a 55)",
+"description":"Normes per muntar a cavall amb seguretat, incloent-hi la roba, l`equipament, el posicionament a la carretera i els senyals."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Altres animals (regles 56 a 58)",
+"description":"Normes per a gossos, animals en vehicles i moviment de bestiar per les carreteres."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Visió general (regles 59 a 72)",
+"description":"Normes bàsiques per al ciclisme que cobreixen la roba, l`equipament, la il·luminació, la posició de la carretera, els carrils bici i les rutes compartides."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Cruïlla de carreteres (regles 73 a 77)",
+"description":"Normes per als ciclistes que s`acosten i sortegen encreuaments, incloent-hi el posicionament i la prioritat."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Rotondes (regles 78 a 80)",
+"description":"Normes per a ciclistes que utilitzen rotondes, incloent-hi la posició del carril, la senyalització i alternatives més segures."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Creuar el carrer (regles 81 a 82)",
+"description":"Normes per a ciclistes que utilitzen passos només per a bicicletes, tucans i eqüestres."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"General (regles 83 a 88)",
+"description":"Normes generals de motocicletes que cobreixen llicències, cascos, protecció ocular, passatgers i visibilitat diürna."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Estat del vehicle (regla 89)",
+"description":"Exigeix als motociclistes que mantinguin la seva motocicleta en condicions de circular i que mantinguin els pneumàtics, els frens, els llums i la direcció."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Aptitud per conduir (regles 90 a 94)",
+"description":"Normes sobre fatiga, malaltia, vista, concentració i altres factors que afecten l`aptitud per conduir."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alcohol i drogues (regles 95 a 96)",
+"description":"Prohibeix conduir sota els efectes de l`alcohol, drogues o medicaments il·legals."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Abans de sortir (regla 97)",
+"description":"Comprovacions prèvies al viatge de l`aptitud per a la circulació del vehicle, la visibilitat, els controls, la roba i la seguretat de les càrregues."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Remolc i càrrega de vehicles (regla 98)",
+"description":"Normes per a càrregues segures, límits de remolc, remolcs, projeccions i evitar sobrecàrregues."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Cinturons de seguretat i sistemes de retenció infantil (regles 99 a 102)",
+"description":"Requisits legals per als cinturons de seguretat, els sistemes de retenció infantil i el transport segur de nens."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Senyals (regles 103 a 106)",
+"description":"Normes per donar senyals clars i interpretar els senyals dels altres usuaris de la carretera."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Altres procediments d`aturada (regles 107 a 112)",
+"description":"Indicacions de la policia i dels agents autoritzats, compliment dels semàfors i ús del clàxon."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Requisits d`il·luminació (regles 113 a 116)",
+"description":"Normes que regeixen els fars, les llums de costat, els fars antiboira i les normes per evitar enlluernar els altres."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Control del vehicle (regles 117 a 126)",
+"description":"Control segur del vehicle, frenada, distàncies de frenada, derrapatges, inercia i compliment dels límits de velocitat."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Línies i marques de carril a la carretera (regles 127 a 132)",
+"description":"Significat i efecte legal de les línies centrals, les línies de perill, les línies blanques dobles, les línies de carril i els chevrons."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Calçades de diversos carrils (regles 133 a 143)",
+"description":"Disciplina de carril, canvis de carril, carrils de pujada, carrils bus, carrils bici i carrils d`alta ocupació."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Consells generals (regles 144 a 158)",
+"description":"Conducta general de seguretat al volant, consideració pels altres, velocitat, prioritat i evitar distraccions."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Regles generals (regles 159 a 161)",
+"description":"Observació, senyalització i moviment segur abans de marxar o incorporar-se al trànsit."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Avançament (regles 162 a 169)",
+"description":"Normes per avançar amb seguretat, incloent-hi l`espai lliure, els llocs prohibits i ser avançat."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Cruïlla de carreteres (regles 170 a 183)",
+"description":"Normes per apropar-se a les cruïlles, cedir el pas, girar, sortir i creuar el trànsit."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Rotondes (regles 184 a 190)",
+"description":"Normes d`aproximació, prioritat, selecció de carril, senyalització i sortida de rotondes."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Pasos de vianants (normes 191 a 199)",
+"description":"Responsabilitats del conductor en passos de zebra, pelicà, fraret, tucà i paral·lels."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Marxa enrere (200 a 203)",
+"description":"Normes per comprovar l`entorn, fer marxa enrere amb seguretat i evitar marxa enrere excessiva."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Visió general (regla 204)",
+"description":"Introdueix el deure de protegir els usuaris de la carretera que corren un risc especial."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Vianants (regles 205 a 210)",
+"description":"Precaució especial amb els nens, la gent gran, els vianants amb discapacitat i les persones que creuen el carrer."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motociclistes i ciclistes (regles 211 a 213)",
+"description":"Vigilància addicional i distància de seguretat al voltant de motociclistes i ciclistes, especialment a les cruïlles."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Altres usuaris de la carretera (regles 214 a 218)",
+"description":"Precaució especial amb els animals, els genets, els conductors novells i els usuaris de la carretera sense experiència."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Altres vehicles (regles 219 a 225)",
+"description":"Normes per a vehicles d`emergència, vehicles grans, autobusos, tramvies i vehicles de circulació lenta."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Visió general (regla 226)",
+"description":"Exigeix als conductors que s`adaptin a les condicions meteorològiques adverses i utilitzin els llums adequats quan la visibilitat és reduïda."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Temps humit (regla 227)",
+"description":"Guia sobre adherència reduïda, distàncies de frenada més llargues, ruixats, aquaplaning i inundacions."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Temps gelat i nevat (regles 228 a 231)",
+"description":"Normes per a la preparació, la conducció suau i el manteniment del control sobre gel i neu."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Temps ventós (regles 232 a 233)",
+"description":"Guia sobre vents laterals forts i usuaris vulnerables de la carretera afectats per ratxes."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Boira (regles 234 a 236)",
+"description":"Normes sobre visibilitat, velocitat, distància de seguiment i ús correcte dels fars antiboira."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Temps calorós (regla 237)",
+"description":"Guia sobre els riscos a la superfície de la carretera relacionats amb la calor i com evitar el sobreescalfament."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"General (regla 238)",
+"description":"Normes generals d`aparcament, incloent-hi el compliment de les restriccions i la manera d`evitar perills o obstruccions."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Aparcament (normes 239 a 247)",
+"description":"Normes d`aparcament segur, parades a la vora de la carretera, càrrega, places per a persones amb discapacitat i llocs prohibits."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Aparcament nocturn (normes 248 a 252)",
+"description":"Normes d`aparcament nocturn que cobreixen la direcció, la il·luminació, els límits de velocitat i les marques reflectants."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Control de l`aparcament despenalitzat (DPE)",
+"description":"Explica l`aplicació civil de les restriccions d`aparcament per part de les autoritats locals."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"General (regles 253 a 254)",
+"description":"Normes generals d`autopistes, incloent-hi els usuaris prohibits i l`aplicació de les normes d`autopistes."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Senyals d`autopista (regles 255 a 258)",
+"description":"Significat dels semàfors d`autopista, els tancaments de carril amb una X vermella i els límits de velocitat variables."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Incorporació a l`autopista (regla 259)",
+"description":"Normes d`ús de la via d`accés, adequació de la velocitat del trànsit i prioritat al trànsit de l`autopista."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"A l`autopista (regles 260 a 263)",
+"description":"Conducció segura per autopista, respectant distàncies, restriccions i ús de carrils."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Disciplina de carril (regles 264 a 266)",
+"description":"Requereix l`ús del carril esquerre excepte en cas d`avançament i el compliment segur dels semàfors."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Avançament (regles 267 a 268)",
+"description":"Normes d`avançament a l`autopista, inclosa la observació segura i la prohibició d`utilitzar la vorera."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Vorera d`emergència (regla 269)",
+"description":"Restringeix l`ús de la vorera a emergències o moments en què els senyals l`obren com a carril per córrer."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Aturar (regles 270 a 272)",
+"description":"Prohibeix aturar-se a l`autopista excepte en cas d`emergència o quan s`indiqui, i explica l`ús de la zona d`emergència."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Sortida de l`autopista (regles 273 a 274)",
+"description":"Normes per llegir els senyals de sortida, senyalitzar i entrar al carril de sortida amb seguretat."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Lloc de relativa seguretat (regla 275)",
+"description":"Explica com identificar i arribar a un lloc més segur durant una avaria o emergència."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Avaries (regla 276)",
+"description":"Accions a prendre durant una avaria a l`autopista, com ara deixar el vehicle de manera segura i contactar amb ajuda."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Normes addicionals per a autopistes (normes 277 a 279)",
+"description":"Guia addicional per a avaries i emergències, inclosa la reincorporació al trànsit i els vehicles amb avaria."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Obstruccions (regla 280)",
+"description":"Accions a prendre en cas de trobar o causar un obstacle a la carretera."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Incidents (regles 281 a 283)",
+"description":"Mesures de seguretat en incidents, corredors d`emergència i compliment del personal d`emergència."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Incidents relacionats amb mercaderies perilloses (regles 284 a 285)",
+"description":"Precaucions i requisits d`informe quan hi ha materials perillosos implicats en un incident."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Documentació (regles 286 a 287)",
+"description":"Deures d`aturar-se, intercanviar informació i denunciar les col·lisions a la policia quan calgui."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Obres viàries (regla 288)",
+"description":"Requereix una cura addicional, reducció de la velocitat i compliment de la senyalització temporal i els controls de carril en obres."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Normes addicionals per a carreteres d`alta velocitat (normes 289 a 290)",
+"description":"Normes de seguretat addicionals per avaries i incidents en carreteres d`alta velocitat."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Passos a nivell (regles 291 a 299)",
+"description":"Normes per aproximar-se, creuar i respondre a semàfors, barreres i emergències en passos a nivell de ferrocarril."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Tramvies (regles 300 a 307)",
+"description":"Normes per compartir carreteres amb tramvies i evitar vies, andanes i rutes reservades de tramvia."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Senyals de semàfor. Llums vermelles intermitents. Senyals de control de carril.",
+"description":"Significat dels semàfors estàndard, els senyals de frenada vermells intermitents i els senyals de control de carril."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Senyals d`autopista",
+"description":"Significat dels senyals d`advertència a l`autopista, límits variables, tancaments de carril i instruccions."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Senyals indicadors de direcció. Senyals de llums de fre. Senyals de llums de marxa enrere. Senyals de braços. Llums d`emergència.",
+"description":"Explica els senyals lumínics i dels braços del vehicle que s`utilitzen per comunicar els moviments i els perills previstos."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Agents de policia. Senyals amb el braç a les persones que controlen el trànsit. Agents de l`Agència d`Estàndards de Conductors i Vehicles i agents de trànsit. Patrulles de pas escolar",
+"description":"Senyals i instruccions donades per la policia, el personal de trànsit autoritzat i les patrulles de pas escolar."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Senyals que donen ordres",
+"description":"Senyals de trànsit obligatoris i prohibitius que els usuaris de la carretera estan obligats legalment a respectar."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Senyals d`advertència",
+"description":"Senyals que adverteixen de perills, canvis en l`estat de la carretera i usuaris vulnerables de la carretera."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Senyals de direcció",
+"description":"Senyals que mostren rutes, destinacions, traçats d`encreuaments, números de carretera i desviaments."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Senyals d`informació",
+"description":"Senyals rectangulars que proporcionen informació sobre aparcament, carril, autopista, ruta i instal·lacions."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Senyalització d`obres viàries",
+"description":"Senyals temporals que avisen d`obres, perills, talls de carrils, límits de velocitat i sistemes de circulació en contracorrent."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"A l`altra banda de la calçada. Al llarg de la calçada. Al llarg de la vora de la calçada. A la vorera o a la vora de la calçada. Altres marques viàries",
+"description":"Significats de stop, cedir el pas, carril, espera, càrrega, ruta vermella, encreuament de carrers i altres marques viàries."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Senyalització posterior per a vehicles de mercaderies grans. Plaques d`advertència de perill. Marcadors de projecció. Altres",
+"description":"Senyalització de vehicles que identifica vehicles pesants, mercaderies perilloses, càrregues projectades i autobusos escolars."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Tu i la teva bicicleta",
+"description":"Selecció de bicicletes, manteniment, frens, il·luminació, reflectors, estat dels pneumàtics i entrenament."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Requisits del carnet de conduir per a motocicleta. Categories de carnet per a ciclomotors i motocicletes",
+"description":"CBT, restriccions per a aprenents, proves, accés progressiu i categories de carnet AM, A1, A2 i A."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Documents. Conductors aprenents",
+"description":"Permisos de conduir, ITV, assegurança, matriculació, impost de vehicles, SORN i requisits per a aprenents de conduir."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Llei de trànsit. Lleis i reglaments anteriors a 1988. Lleis i reglaments a partir de 1988.",
+"description":"Àmbit d`aplicació de la legislació de trànsit del Regne Unit i abreviatures de les principals lleis i reglaments citats al Codi de circulació."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Penalitzacions",
+"description":"Penalitzacions màximes, punts de penalització, desqualificació, revocació del permís de conductor nou, repetició de proves i altres conseqüències de la infracció."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Manteniment de vehicles. Seguretat de vehicles",
+"description":"Aptitud per a la circulació, llums d`advertència, pneumàtics, fluids, seguretat del combustible, incendis de vehicles i prevenció de robatoris."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Afrontar el perill. 2. Demanar ajuda. 3. Ajudar les persones implicades. 4. Proporcionar atenció d`emergència.",
+"description":"Seguretat al lloc de l`accident, trucades d`emergència, atenció a ferits, DRABC, RCP, tractament d`hemorràgies i cremades."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"El codi de seguretat. Nova Llei de conductors. Formació complementària.",
+"description":"Reducció de riscos per a nous conductors, revocació del carnet de conduir de sis punts i formació addicional opcional com ara Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Conversions mètriques. Llocs web útils. Lectures addicionals",
+"description":"Conversions de milles a quilòmetres i recursos oficials per a la seguretat viària, la conducció, la circulació, el remolc i la informació sobre vehicles."
+}
+]

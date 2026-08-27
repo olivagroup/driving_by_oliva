@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Wortlaut der Straßenverkehrsordnung. Die Regeln kennen und anwenden.",
+"description":"Erklärt die Verwendung der Wörter MUSS, DARF NICHT, SOLLTE und SOLLTE NICHT und die Verantwortung, die Straßenverkehrsordnung zu kennen und anzuwenden."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Selbstfahrende Fahrzeuge",
+"description":"Erläutert die rechtlichen Verantwortlichkeiten der Nutzer, wenn ein selbstfahrendes Fahrzeug selbstständig fährt oder nicht."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Hierarchie der Verkehrsteilnehmer",
+"description":"Erklärt, dass diejenigen Verkehrsteilnehmer, die den größten Schaden anrichten können, die größte Verantwortung für die Verringerung der Gefahr tragen."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Allgemeine Hinweise (Regeln 1 bis 6)",
+"description":"Allgemeine Sicherheitshinweise für Fußgänger, einschließlich Gehwege, Sichtverhältnisse und gemeinsam genutzte Wege."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Überqueren der Straße (Regeln 7 bis 17)",
+"description":"Der Green Cross Code und Regeln für die Wahl eines sicheren Ortes und das sichere Überqueren von Straßen."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Grenzübergänge (Regeln 18 bis 30)",
+"description":"Regeln für Fußgänger an Zebrastreifen, Pelikanüberwegen, Papageientaucherüberwegen, Tukanüberwegen und Reiterüberwegen."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Situationen, die besondere Sorgfalt erfordern (Regeln 31 bis 35)",
+"description":"Zusätzliche Sicherheitsvorkehrungen für gefährdete Fußgänger, Einsatzfahrzeuge, Busse und Bahnübergänge."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Elektrorollstühle und Elektromobile (Regeln 36 bis 37)",
+"description":"Regeln für die Benutzung von Elektrorollstühlen und Elektromobilen auf Gehwegen und Straßen."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Auf Gehwegen (Regeln 38 bis 40)",
+"description":"Regeln für die Nutzung von Elektromobilen und Elektrorollstühlen auf Gehwegen und Fußgängerzonen."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Im Straßenverkehr (Regeln 41 bis 46)",
+"description":"Verkehrsregeln, Beleuchtung, Sichtbarkeit und Sicherheitsvorschriften für Elektrorollstühle und Elektromobile."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Pferdefuhrwerke (Regeln 47 bis 48)",
+"description":"Sicherheits-, Beleuchtungs-, Routen- und Ausrüstungshinweise für Fahrer von Pferdefuhrwerken."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Reiter (Regeln 49 bis 55)",
+"description":"Regeln für sicheres Reiten, einschließlich Kleidung, Ausrüstung, Positionierung auf der Straße und Signale."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Andere Tiere (Regeln 56 bis 58)",
+"description":"Regeln für Hunde, Tiere in Fahrzeugen und den Transport von Nutztieren auf Straßen."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Überblick (Regeln 59 bis 72)",
+"description":"Grundlegende Radfahrregeln zu Kleidung, Ausrüstung, Beleuchtung, Fahrspur, Radwegen und gemeinsam genutzten Wegen."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Straßenkreuzungen (Regeln 73 bis 77)",
+"description":"Regeln für Radfahrer beim Annähern an und Überqueren von Kreuzungen, einschließlich Positionierung und Vorfahrt."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Kreisverkehre (Regeln 78 bis 80)",
+"description":"Regeln für Radfahrer in Kreisverkehren, einschließlich Fahrspurposition, Signalisierung und sicherere Alternativen."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Überqueren der Straße (Regeln 81 bis 82)",
+"description":"Regeln für Radfahrer an Radwegen, Fußgängerüberwegen für Radfahrer und Reiterüberwegen."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Allgemeines (Regeln 83 bis 88)",
+"description":"Allgemeine Motorradregeln in Bezug auf Führerschein, Helme, Augenschutz, Mitfahrer und Sichtverhältnisse bei Tageslicht."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Fahrzeugzustand (Regel 89)",
+"description":"Verpflichtet Motorradfahrer, ihr Motorrad verkehrssicher zu halten und Reifen, Bremsen, Beleuchtung und Lenkung instand zu halten."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Fahrtauglichkeit (Regeln 90 bis 94)",
+"description":"Regeln zu Müdigkeit, Krankheit, Sehvermögen, Konzentration und anderen Faktoren, die die Fahrtauglichkeit beeinflussen."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkohol und Drogen (Regeln 95 bis 96)",
+"description":"Das Fahren unter dem Einfluss von Alkohol, illegalen Drogen oder Medikamenten ist verboten."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Vor der Abfahrt (Regel 97)",
+"description":"Vor Fahrtantritt werden Kontrollen der Verkehrssicherheit des Fahrzeugs, der Sichtverhältnisse, der Bedienelemente, der Kleidung und der Ladungssicherung durchgeführt."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Fahrzeugabschleppen und Verladen (Regel 98)",
+"description":"Regeln für Ladungssicherung, Anhängelastbegrenzungen, Anhänger, Überhänge und Vermeidung von Überladung."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Sicherheitsgurte und Kindersitze (Regeln 99 bis 102)",
+"description":"Gesetzliche Anforderungen an Sicherheitsgurte, Kindersitze und die sichere Beförderung von Kindern."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Signale (Regeln 103 bis 106)",
+"description":"Regeln für das Geben klarer Signale und das Interpretieren von Signalen anderer Verkehrsteilnehmer."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Andere Stoppverfahren (Regeln 107 bis 112)",
+"description":"Anweisungen der Polizei und befugter Beamter, Beachtung der Ampelregelung und Benutzung der Hupe."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Beleuchtungsanforderungen (Regeln 113 bis 116)",
+"description":"Regeln für Scheinwerfer, Standlichter, Nebelscheinwerfer und die Vermeidung der Blendung anderer Verkehrsteilnehmer."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Kontrolle des Fahrzeugs (Regeln 117 bis 126)",
+"description":"Sichere Fahrzeugbeherrschung, Bremsen, Bremswege, Schleudern, Ausrollen und Einhaltung der Geschwindigkeitsbegrenzung."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Fahrbahnmarkierungen (Regeln 127 bis 132)",
+"description":"Bedeutung und rechtliche Wirkung von Mittellinien, Gefahrenlinien, doppelten weißen Linien, Fahrbahnmarkierungen und Chevron-Linien."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Mehrspurige Fahrbahnen (Regeln 133 bis 143)",
+"description":"Fahrspurdisziplin, Spurwechsel, Bergauffahrspuren, Busspuren, Radwege und Fahrspuren für Fahrzeuge mit hoher Besetzung."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Allgemeine Hinweise (Regeln 144 bis 158)",
+"description":"Allgemeines sicheres Fahrverhalten, Rücksichtnahme auf andere, Geschwindigkeit, Vorfahrt und Vermeidung von Ablenkungen."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Allgemeine Regeln (Regeln 159 bis 161)",
+"description":"Vor dem Anfahren oder Einfädeln in den Verkehr sind Beobachtung, Signalgebung und sicheres Vorgehen wichtig."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Überholmanöver (Regeln 162 bis 169)",
+"description":"Regeln für sicheres Überholen, einschließlich Sicherheitsabstand, verbotene Bereiche und das Überholtwerden."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Straßenkreuzungen (Regeln 170 bis 183)",
+"description":"Regeln für das Annähern an Kreuzungen, das Gewähren der Vorfahrt, das Abbiegen, das Einfahren und das Überqueren von Kreuzungen."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Kreisverkehre (Regeln 184 bis 190)",
+"description":"Regeln für das Anfahren, die Vorfahrt, die Fahrspurwahl, das Signalisieren und das Verlassen von Kreisverkehren."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Fußgängerüberwege (Regeln 191 bis 199)",
+"description":"Fahrerpflichten an Zebra-, Pelikan-, Papageientaucher-, Tukan- und Parallelübergängen."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Umkehren (200 bis 203)",
+"description":"Regeln für die Überprüfung der Umgebung, sicheres Rückwärtsfahren und Vermeidung von übermäßigem Rückwärtsfahren."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Überblick (Regel 204)",
+"description":"Führt die Pflicht ein, besonders gefährdete Verkehrsteilnehmer zu schützen."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Fußgänger (Regeln 205 bis 210)",
+"description":"Besondere Vorsicht im Umgang mit Kindern, älteren Menschen, behinderten Fußgängern und Fußgängern, die die Straße überqueren."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motorradfahrer und Radfahrer (Regeln 211 bis 213)",
+"description":"Besondere Vorsicht und ausreichender Sicherheitsabstand zu Motorradfahrern und Radfahrern, insbesondere an Kreuzungen."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Andere Verkehrsteilnehmer (Regeln 214 bis 218)",
+"description":"Besondere Vorsicht im Umgang mit Tieren, Reitern, Fahrschülern und unerfahrenen Verkehrsteilnehmern."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Andere Fahrzeuge (Regeln 219 bis 225)",
+"description":"Regeln für Einsatzfahrzeuge, große Fahrzeuge, Busse, Straßenbahnen und langsam fahrende Fahrzeuge."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Überblick (Regel 226)",
+"description":"Verlangt von den Fahrern, sich an widrige Wetterbedingungen anzupassen und bei eingeschränkter Sicht geeignete Lichter zu verwenden."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Regenwetter (Regel 227)",
+"description":"Hinweise zu verminderter Bodenhaftung, längeren Bremswegen, Spritzwasser, Aquaplaning und Hochwasser."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Eisiges und schneereiches Wetter (Regeln 228 bis 231)",
+"description":"Regeln für die Vorbereitung, das reibungslose Fahren und die Aufrechterhaltung der Kontrolle auf Eis und Schnee."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Windiges Wetter (Regeln 232 bis 233)",
+"description":"Hinweise zu starken Seitenwinden und gefährdeten Verkehrsteilnehmern, die von Windböen betroffen sind."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Nebel (Regeln 234 bis 236)",
+"description":"Regeln zu Sichtverhältnissen, Geschwindigkeit, Sicherheitsabstand und korrekter Verwendung von Nebelscheinwerfern."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Heißes Wetter (Regel 237)",
+"description":"Hinweise zu hitzebedingten Gefahren auf der Fahrbahnoberfläche und zur Vermeidung von Überhitzung."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Allgemeines (Regel 238)",
+"description":"Allgemeine Parkregeln, einschließlich der Einhaltung von Beschränkungen und der Vermeidung von Gefahren oder Behinderungen."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Parken (Regeln 239 bis 247)",
+"description":"Regeln für sicheres Parken, Halten am Straßenrand, Be- und Entladen, Behindertenparkplätze und verbotene Bereiche."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Parken bei Nacht (Regeln 248 bis 252)",
+"description":"Regeln für das Parken bei Nacht, die Richtung, Beleuchtung, Geschwindigkeitsbegrenzungen und reflektierende Markierungen umfassen."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Entkriminalisierte Parkraumüberwachung (DPE)",
+"description":"Erläutert die zivilrechtliche Durchsetzung von Parkbeschränkungen durch die lokalen Behörden."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Allgemeines (Regeln 253 bis 254)",
+"description":"Allgemeine Autobahnregeln, einschließlich verbotener Nutzer und der Anwendung der Autobahnvorschriften."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Autobahnsignale (Regeln 255 bis 258)",
+"description":"Bedeutung der Autobahnsignale, der durch rote X gekennzeichneten Fahrstreifensperrungen und der variablen Geschwindigkeitsbegrenzungen."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Auffahren auf die Autobahn (Regel 259)",
+"description":"Regeln für die Nutzung der Ausfahrt, Anpassung der Geschwindigkeit an den übrigen Verkehr und Vorrang für den Autobahnverkehr."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Auf der Autobahn (Regeln 260 bis 263)",
+"description":"Sicheres Fahren auf Autobahnen, Sicherheitsabstände, Beschränkungen und Fahrstreifennutzung."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Bahndisziplin (Regeln 264 bis 266)",
+"description":"Erfordert die Benutzung der linken Fahrspur, außer beim Überholen, und die sichere Beachtung der Fahrstreifensignale."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Überholmanöver (Regeln 267 bis 268)",
+"description":"Überholregeln auf Autobahnen, einschließlich der Einhaltung der Sicherheitsabstände und des Verbots der Benutzung des Standstreifens."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Standstreifen (Regel 269)",
+"description":"Die Nutzung des Standstreifens ist auf Notfälle oder Zeiten beschränkt, in denen er durch Schilder als Laufspur freigegeben wird."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Anhalten (Regeln 270 bis 272)",
+"description":"Verbietet das Anhalten auf Autobahnen außer in Notfällen oder auf Anweisung und erläutert die Nutzung von Notfallzonen."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Verlassen der Autobahn (Regeln 273 bis 274)",
+"description":"Regeln zum Lesen von Ausfahrtsschildern, zum Geben von Signalzeichen und zum sicheren Einfahren in die Ausfahrtsspur."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Ort relativer Sicherheit (Regel 275)",
+"description":"Erklärt, wie man im Falle einer Panne oder eines Notfalls einen sichereren Ort findet und erreicht."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Pannen (Regel 276)",
+"description":"Maßnahmen bei einer Panne auf der Autobahn, einschließlich des sicheren Verlassens des Fahrzeugs und der Kontaktaufnahme mit der Rettungsleitstelle."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Zusätzliche Regeln für Autobahnen (Regeln 277 bis 279)",
+"description":"Zusätzliche Hinweise zu Pannen und Notfällen, einschließlich der Wiedereingliederung in den Verkehr und der Behandlung von liegengebliebenen Fahrzeugen."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Behinderungen (Regel 280)",
+"description":"Maßnahmen, die zu ergreifen sind, wenn man auf ein Straßenhindernis stößt oder dieses verursacht."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Vorfälle (Regeln 281 bis 283)",
+"description":"Sicherheitsmaßnahmen bei Zwischenfällen, Notfallkorridore und Befolgung der Anweisungen des Einsatzpersonals."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Vorfälle mit Gefahrgut (Regeln 284 bis 285)",
+"description":"Vorsichtsmaßnahmen und Meldepflichten bei Vorfällen mit Gefahrstoffen."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Dokumentation (Regeln 286 bis 287)",
+"description":"Pflichten, bei Bedarf anzuhalten, Informationen auszutauschen und Kollisionen der Polizei zu melden."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Straßenbauarbeiten (Regel 288)",
+"description":"Erfordert besondere Vorsicht, reduzierte Geschwindigkeit und die Beachtung temporärer Schilder und Fahrstreifensperrungen an Baustellen."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Zusätzliche Regeln für Schnellstraßen (Regeln 289 bis 290)",
+"description":"Zusätzliche Sicherheitsregeln für Pannen und Zwischenfälle auf Schnellstraßen."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Bahnübergänge (Regeln 291 bis 299)",
+"description":"Regeln für das Annähern an, Überqueren von und Reagieren auf Lichter, Schranken und Notfälle an Bahnübergängen."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Straßenbahnen (Regeln 300 bis 307)",
+"description":"Regeln für die gemeinsame Nutzung von Straßen mit Straßenbahnen und zur Vermeidung von Gleisen, Bahnsteigen und reservierten Straßenbahnstrecken."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Verkehrsampeln. Blinkende rote Lichter. Fahrspurleitsysteme",
+"description":"Bedeutung der Standardampeln, der blinkenden roten Stoppsignale und der Fahrspurleitsignale."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Autobahnsignale",
+"description":"Bedeutung der Warnsignale auf Autobahnen, der variablen Geschwindigkeitsbegrenzungen, der Fahrstreifensperrungen und der Anweisungen."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Richtungsblinker. Bremslicht. Rückfahrlicht. Aktivierungsanzeige. Warnblinkanlage.",
+"description":"Erläutert Fahrzeuglicht- und Armsignale, die zur Kommunikation beabsichtigter Bewegungen und Gefahren verwendet werden."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Polizeibeamte. Armzeichen an Verkehrspolizisten. Beamte der Fahrerlaubnisbehörde und Verkehrspolizisten. Schulweghelfer.",
+"description":"Signale und Anweisungen der Polizei, autorisierter Verkehrskräfte und Schulweghelfer."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Schilder mit Anweisungen",
+"description":"Gebots- und Verbotsschilder im Straßenverkehr, die von allen Verkehrsteilnehmern gesetzlich beachtet werden müssen."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Warnschilder",
+"description":"Schilder warnen vor Gefahren, sich ändernden Straßenverhältnissen und gefährdeten Verkehrsteilnehmern."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Wegweiser",
+"description":"Schilder mit Angaben zu Routen, Zielen, Kreuzungsplänen, Straßennummern und Umleitungen."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Hinweisschilder",
+"description":"Rechteckige Schilder mit Informationen zu Parkplätzen, Fahrspuren, Autobahnen, Routen und Einrichtungen."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Baustellenschilder",
+"description":"Temporäre Schilder warnen vor Straßenarbeiten, Gefahren, Fahrstreifensperrungen, Geschwindigkeitsbegrenzungen und Gegenverkehr."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Über die Fahrbahn. Entlang der Fahrbahn. Am Fahrbahnrand. Auf dem Bordstein oder am Fahrbahnrand. Andere Fahrbahnmarkierungen.",
+"description":"Bedeutungen von Stopp, Vorfahrt gewähren, Fahrspur, Warten, Laden, Rote Route, Kreuzung und anderen Straßenmarkierungen."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Heckmarkierungen für große Nutzfahrzeuge. Gefahrenwarnschilder. Markierungen für hervorstehende Teile. Sonstiges",
+"description":"Fahrzeugkennzeichnungen zur Kennzeichnung von Schwerlastfahrzeugen, Gefahrgut, überstehenden Ladungen und Schulbussen."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Du und dein Fahrrad",
+"description":"Fahrradauswahl, Wartung, Bremsen, Beleuchtung, Reflektoren, Reifenzustand und Training."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Anforderungen für den Motorradführerschein. Führerscheinkategorien für Mopeds und Motorräder.",
+"description":"CBT, Lernbeschränkungen, Prüfungen, progressiver Zugang und die Führerscheinkategorien AM, A1, A2 und A."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Dokumente. Fahrschüler",
+"description":"Führerschein, TÜV, Versicherung, Zulassung, Kfz-Steuer, Stilllegung und Anforderungen für Fahrschüler."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Straßenverkehrsrecht. Gesetze und Verordnungen vor 1988. Gesetze und Verordnungen ab 1988.",
+"description":"Geltungsbereich des britischen Straßenverkehrsrechts und Abkürzungen für die wichtigsten im Highway Code genannten Gesetze und Verordnungen."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Strafen",
+"description":"Höchststrafen, Strafpunkte, Disqualifikation, Entzug der Fahrerlaubnis für Fahranfänger, erneute Fahrprüfung und andere Folgen eines Verstoßes."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Fahrzeugwartung. Fahrzeugsicherheit.",
+"description":"Verkehrssicherheit, Warnleuchten, Reifen, Flüssigkeiten, Kraftstoffsicherheit, Fahrzeugbrände und Diebstahlschutz."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Gefahrensituationen bewältigen. 2. Hilfe holen. 3. Betroffenen helfen. 4. Notfallversorgung leisten.",
+"description":"Sicherheit an Unfallstellen, Notrufe, Versorgung von Verletzten, DRABC, HLW, Behandlung von Blutungen und Verbrennungen."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Sicherheitsvorschriften. Fahrerlaubnisgesetz. Weiterbildung.",
+"description":"Risikominderung für Fahranfänger, Führerscheinentzug mit sechs Punkten und optionale Weiterbildungsmaßnahmen wie Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Metrische Umrechnungen. Nützliche Websites. Weiterführende Informationen.",
+"description":"Umrechnungstabellen für Meilen in Kilometer und offizielle Informationsquellen zu Verkehrssicherheit, Autofahren, Motorradfahren, Abschleppen und Fahrzeugen."
+}
+]

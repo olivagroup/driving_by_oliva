@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Yol Hərəkəti Qaydalarının Mətni. Qaydaları bilmək və tətbiq etmək",
+"description":"`OLMALIDIR`, `OLMALIDIR`, `etməlidir` və `etməməlidir` sözlərinin necə istifadə edildiyini və Yol Qaydalarını bilmək və tətbiq etmək məsuliyyətini izah edir."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Özünüidarəetmə vasitələri",
+"description":"Özünüidarəetmə sistemi olan nəqliyyat vasitəsinin özü idarə etdiyi və ya idarə etmədiyi hallarda istifadəçilərin hüquqi məsuliyyətlərini izah edir."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Yol İstifadəçilərinin İyerarxiyası",
+"description":"Ən böyük zərər verə bilən yol istifadəçilərinin təhlükəni azaltmaq üçün ən böyük məsuliyyət daşıdığını izah edir."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Ümumi rəhbərlik (1-6 qaydaları)",
+"description":"Səkilər, görünürlük və ortaq marşrutlar da daxil olmaqla, piyadalar üçün ümumi təhlükəsizlik təlimatları."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Yolu keçmək (7-17-ci qaydalar)",
+"description":"Yaşıl Xaç Məcəlləsi və təhlükəsiz yer seçmək və yolları təhlükəsiz keçmək qaydaları."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Keçidlər (18-30 qaydaları)",
+"description":"Zebra, pelikan, puffin, tukan və atlı keçidlərdən istifadə edən piyadalar üçün qaydalar."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Əlavə qayğıya ehtiyacı olan vəziyyətlər (31-35-ci qaydalar)",
+"description":"Həssas piyadalar, təcili yardım maşınları, avtobuslar və dəmir yolu keçidləri üçün əlavə tədbirlər."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Motorlu əlil arabaları və hərəkətli skuterlər (36-37-ci qaydalar)",
+"description":"Səkilərdə və yollarda elektrikli əlil arabalarından və hərəkətli skuterlərdən istifadə qaydaları."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Səkilərdə (38-40-cı qaydalar)",
+"description":"Səki və piyada zolaqlarından istifadə edən skuterlər və elektrikli əlil arabaları üçün hərəkət qaydaları."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Yolda (41-46-cı qaydalar)",
+"description":"Elektrikli əlil arabaları və hərəkətli skuterlər üçün yol istifadəsi, işıqlandırma, görünürlük və təhlükəsizlik qaydaları."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Atlı nəqliyyat vasitələri (47-48-ci qaydalar)",
+"description":"Atlı nəqliyyat vasitələrinin sürücüləri üçün təhlükəsizlik, işıqlandırma, marşrut və avadanlıq təlimatı."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Atlılar (49-55-ci qaydalar)",
+"description":"Geyim, avadanlıq, yol mövqeyi və siqnallar da daxil olmaqla, atların təhlükəsiz sürülməsi qaydaları."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Digər heyvanlar (56-58-ci qaydalar)",
+"description":"İtlər, nəqliyyat vasitələrindəki heyvanlar və yollarda mal-qara daşımaq qaydaları."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Baxış (59-72-ci qaydalar)",
+"description":"Geyim, avadanlıq, işıqlandırma, yol mövqeyi, velosiped zolaqları və ortaq marşrutları əhatə edən əsas velosiped qaydaları."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Yol qovşaqları (73-77-ci qaydalar)",
+"description":"Velosipedçilərin qovşaqlara yaxınlaşması və oradan keçməsi qaydaları, o cümlədən mövqe və prioritet."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Dairəvi yollar (78-80-ci qaydalar)",
+"description":"Dairəvi yollardan istifadə edən velosipedçilər üçün qaydalar, o cümlədən zolaq mövqeyi, siqnalizasiya və daha təhlükəsiz alternativlər."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Yolu keçmək (81-82-ci qaydalar)",
+"description":"Yalnız velosiped, tukan və atlı keçidlərdən istifadə edən velosipedçilər üçün qaydalar."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Ümumi (83-88-ci qaydalar)",
+"description":"Motosiklet sürücülük vəsiqələri, dəbilqələr, göz mühafizəsi, sərnişinlər və gün işığında görünməni əhatə edən ümumi qaydalar."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Nəqliyyat vasitəsinin vəziyyəti (qayda 89)",
+"description":"Motosikletçilərdən motosikletlərini yolda saxlamağı və təkərləri, əyləcləri, işıqları və sükanı texniki cəhətdən təmiz saxlamağı tələb edir."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Sürücülük üçün yararlılıq (90-94-cü qaydalar)",
+"description":"Yorğunluq, xəstəlik, görmə qabiliyyəti, diqqətin cəmlənməsi və sürücülük qabiliyyətinə təsir edən digər amillərlə bağlı qaydalar."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkoqol və narkotik maddələr (95-96-cı qaydalar)",
+"description":"Alkoqol, narkotik və ya dərmanların təsiri altında sərxoş vəziyyətdə avtomobil idarə etməyi qadağan edir."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Yola düşməzdən əvvəl (97-ci qayda)",
+"description":"Səfərdən əvvəl nəqliyyat vasitələrinin yolda yararlılığını, görünürlüyünü, idarəetmə vasitələrini, geyimlərini və yüklərin təhlükəsizliyini yoxlayır."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Nəqliyyat vasitələrinin yedəklənməsi və yüklənməsi (qayda 98)",
+"description":"Yüklərin təhlükəsiz daşınması, yedək limitləri, qoşqular, çıxıntılar və həddindən artıq yüklənmənin qarşısının alınması qaydaları."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Təhlükəsizlik kəmərləri və uşaq təhlükəsizlik qurğuları (99-102-ci qaydalar)",
+"description":"Təhlükəsizlik kəmərləri, uşaq təhlükəsizlik qurğuları və uşaqların təhlükəsiz daşınması üçün qanuni tələblər."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Siqnallar (103-106-cı qaydalar)",
+"description":"Aydın siqnalların verilməsi və digər yol istifadəçilərinin siqnallarının şərh edilməsi qaydaları."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Digər dayandırma prosedurları (107-112-ci qaydalar)",
+"description":"Polis və səlahiyyətli məmurların göstərişləri, svetoforun tələblərinə uyğunluq və siqnaldan istifadə."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"İşıqlandırma tələbləri (113-116-cı qaydalar)",
+"description":"Fara, yan işıqlar, duman işıqları və başqalarının gözlərini qamaşdırmamaq qaydaları."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Nəqliyyat vasitəsinin idarə edilməsi (117-126-cı qaydalar)",
+"description":"Təhlükəsiz nəqliyyat vasitəsi idarəetməsi, əyləcləmə, dayanma məsafələri, sürüşmələr, sahilə çıxma və sürət həddinə uyğunluq."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Yolda xətlər və zolaq işarələri (127-132-ci qaydalar)",
+"description":"Mərkəzi xətlərin, təhlükə xətlərinin, ikiqat ağ xətlərin, zolaq xətlərinin və şevronların mənası və hüquqi təsiri."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Çoxzolaqlı yollar (133-143-cü qaydalar)",
+"description":"Zolaq intizamı, zolaqların dəyişdirilməsi, dırmanma zolaqları, avtobus zolaqları, velosiped zolaqları və çoxlu sayda insan olan zolaqlar."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Ümumi məsləhət (144-158-ci qaydalar)",
+"description":"Ümumi təhlükəsiz sürücülük davranışı, başqalarının fikirlərinə hörmət, sürət, prioritet və diqqəti yayındıran amillərdən qaçınmaq."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Ümumi qaydalar (159-161-ci qaydalar)",
+"description":"Yoldan çıxmazdan və ya nəqliyyata girməzdən əvvəl müşahidə, siqnalizasiya və təhlükəsiz hərəkət."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Ötmə (162-169-cu qaydalar)",
+"description":"Təhlükəsiz ötmə qaydaları, o cümlədən icazə, qadağan olunmuş yerlər və ötülmə."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Yol qovşaqları (170-183-cü qaydalar)",
+"description":"Yol ayrıclarına yaxınlaşmaq, yol vermək, dönmək, çıxmaq və nəqliyyat vasitələrinin hərəkətini keçmək qaydaları."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Dairəvi yollar (184-190-cı qaydalar)",
+"description":"Yanaşma, prioritet, zolaq seçimi, siqnalizasiya və dairəvi yoldan çıxma qaydaları."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Piyada keçidləri (191-199-cu qaydalar)",
+"description":"Zebra, pelikan, puffin, tukan və paralel keçidlərdə sürücünün vəzifələri."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Geriyə dönmə (200-dən 203-ə)",
+"description":"Ətrafı yoxlamaq, təhlükəsiz şəkildə geriyə hərəkət etmək və həddindən artıq geriyə hərəkət etməmək qaydaları."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Baxış (204-cü qayda)",
+"description":"Xüsusilə risk altında olan yol istifadəçilərini qorumaq vəzifəsini təqdim edir."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Piyadalar (205-210-cu qaydalar)",
+"description":"Uşaqlar, yaşlılar, əlil piyadalar və yolları keçən insanlara əlavə qayğı."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motosikletçilər və velosipedçilər (211-213-cü qaydalar)",
+"description":"Xüsusilə yol ayrıclarında motosikletçilərin və velosipedçilərin ətrafında əlavə müşahidə və təhlükəsiz boşluq."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Digər yol istifadəçiləri (214-218-ci qaydalar)",
+"description":"Heyvanlar, atlılar, təcrübəsiz sürücülər və təcrübəsiz yol istifadəçiləri ilə bağlı əlavə qayğı."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Digər nəqliyyat vasitələri (219-225-ci qaydalar)",
+"description":"Təcili yardım maşınları, iri nəqliyyat vasitələri, avtobuslar, tramvaylar və yavaş hərəkət edən nəqliyyat vasitələri üçün qaydalar."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Baxış (226-cı qayda)",
+"description":"Sürücülərdən pis hava şəraitinə uyğunlaşmalarını və görünürlük azaldıqda müvafiq işıqlardan istifadə etmələrini tələb edir."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Yağışlı hava (227-ci qayda)",
+"description":"Azaldılmış tutuş, daha uzun dayanma məsafələri, püskürtmə, akvaplaninq və daşqın suları ilə bağlı təlimatlar."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Buzlu və qarlı hava (228-231-ci qaydalar)",
+"description":"Buz və qarda hazırlıq, rahat sürmə və nəzarəti qorumaq qaydaları."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Küləkli hava (232-233-cü qaydalar)",
+"description":"Güclü yan küləklər və küləkdən təsirlənən həssas yol istifadəçiləri üçün təlimat."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Duman (234-236-cı qaydalar)",
+"description":"Görünüş, sürət, məsafəyə riayət etmək və duman işıqlarından düzgün istifadə qaydaları."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"İsti hava (237-ci qayda)",
+"description":"İstiliklə əlaqəli yol səthi təhlükələri və həddindən artıq istiləşmənin qarşısının alınması ilə bağlı təlimatlar."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Ümumi (238-ci qayda)",
+"description":"Məhdudiyyətlərə riayət etmək və təhlükə və ya maneələrin qarşısını almaq da daxil olmaqla, ümumi parklanma qaydaları."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Parkinq (239-247-ci qaydalar)",
+"description":"Təhlükəsiz parklanma, yol kənarında dayanma, yükləmə, əlillər üçün yerlər və qadağan olunmuş yerlər qaydaları."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Gecə parklanma (248-252-ci qaydalar)",
+"description":"Gecə parklanma qaydaları istiqaməti, işıqlandırmanı, sürət həddini və əks etdirici nişanları əhatə edir."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Parklanmanın Cinayətsizləşdirilməsi (DPE)",
+"description":"Yerli hakimiyyət orqanları tərəfindən parklanma məhdudiyyətlərinin mülki tətbiqini izah edir."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Ümumi (253-254-cü qaydalar)",
+"description":"Ümumi avtomobil yolu qaydaları, o cümlədən qadağan olunmuş istifadəçilər və avtomobil yolu qaydalarının tətbiqi."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Avtomobil yolunun siqnalları (255-258-ci qaydalar)",
+"description":"Avtomagistral siqnallarının, qırmızı X zolaqlı bağlanmaların və dəyişkən sürət limitlərinin mənası."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Avtomagistrala qoşulma (259-cu qayda)",
+"description":"Sürüşkən yoldan istifadə qaydaları, nəqliyyat sürətinin uyğunlaşdırılması və avtomobil yollarının hərəkətinə üstünlük verilməsi."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Avtomagistralda (260-263-cü qaydalar)",
+"description":"Təhlükəsiz avtomobil yolu hərəkəti, məsafələrə, məhdudiyyətlərə və zolaqlardan istifadəyə riayət etmək."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Zolaq intizamı (264-266-cı maddələr)",
+"description":"Ötmə halları istisna olmaqla, sol zolaqdan istifadə və zolaq siqnallarına təhlükəsiz riayət tələb olunur."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Ötmə (267-268-ci qaydalar)",
+"description":"Təhlükəsiz müşahidə və sərt çiyinlərdən istifadənin qadağan edilməsi daxil olmaqla, avtomobil yolunda ötmə qaydaları."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Sərt çiyin (qayda 269)",
+"description":"Sərt çiyinli nəqliyyat vasitələrinin istifadəsini fövqəladə hallar və ya işarələrin qaçış zolağı kimi açdığı vaxtlarla məhdudlaşdırır."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Dayanma (270-272-ci qaydalar)",
+"description":"Təcili və ya göstəriş verildiyi hallar istisna olmaqla, avtomobil yollarında dayanmağı qadağan edir və təcili yardım zonasında istifadəni izah edir."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Avtomagistraldan çıxmaq (273-274-cü qaydalar)",
+"description":"Çıxış nişanlarını oxumaq, siqnal vermək və çıxış zolağına təhlükəsiz şəkildə daxil olmaq qaydaları."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Nisbi təhlükəsiz yer (275-ci qayda)",
+"description":"Qəza və ya fövqəladə hal zamanı daha təhlükəsiz bir yeri necə müəyyən etməyi və ona necə çatmağı izah edir."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Qəzalar (276-cı qayda)",
+"description":"Avtomobil yolunda qəza zamanı görüləcək tədbirlər, o cümlədən nəqliyyat vasitəsini təhlükəsiz şəkildə tərk etmək və kömək çağırmaq."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Avtomobil yolları üçün əlavə qaydalar (277-279-cu qaydalar)",
+"description":"Əlavə qəza və təcili yardım təlimatları, o cümlədən yenidən hərəkətə keçmə və əlil nəqliyyat vasitələri."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Maneələr (280-ci qayda)",
+"description":"Yol maneəsi ilə qarşılaşdıqda və ya ona səbəb olduqda görüləcək tədbirlər."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Hadisələr (281-283-cü qaydalar)",
+"description":"Hadisələrdə, təcili yardım dəhlizlərində təhlükəsizlik tədbirləri və təcili yardım işçilərinə uyğunluq."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Təhlükəli mallarla bağlı hadisələr (284-285-ci qaydalar)",
+"description":"Təhlükəli materiallar hadisəyə qarışdıqda ehtiyat tədbirləri və hesabat tələbləri."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Sənədləşmə (286-287-ci qaydalar)",
+"description":"Lazım gələrsə, dayanmaq, məlumat mübadiləsi aparmaq və toqquşmalar barədə polisə məlumat vermək vəzifələri."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Yol işləri (288-ci qayda)",
+"description":"Yol işlərində əlavə diqqət, azaldılmış sürət və müvəqqəti nişanlara və zolaq nəzarətinə riayət tələb edir."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Yüksək sürətli yollar üçün əlavə qaydalar (289-290-cı qaydalar)",
+"description":"Yüksək sürətli yollarda qəzalar və insidentlər üçün əlavə təhlükəsizlik qaydaları."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Dəmir yolu keçidləri (291-299-cu qaydalar)",
+"description":"Dəmir yolu keçidlərində işıqlara, maneələrə və fövqəladə hallara yaxınlaşmaq, keçmək və reaksiya vermək qaydaları."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Tramvaylar (300-307-ci qaydalar)",
+"description":"Tramvaylarla yolları paylaşmaq və relslərdən, platformalardan və ayrılmış tramvay marşrutlarından yayınmaq qaydaları."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Svetofor siqnalları. Yanıb-sönən qırmızı işıqlar. Zolaq idarəetmə siqnalları",
+"description":"Standart svetoforların, yanıb-sönən qırmızı dayanma siqnallarının və zolaq idarəetmə siqnallarının mənaları."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Avtomobil yolunun siqnalları",
+"description":"Avtomobil yollarının xəbərdarlıq siqnallarının mənaları, dəyişkən limitlər, zolaqların bağlanması və təlimatları."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"İstiqamət göstəricisi siqnalları. Əyləc işıq siqnalları. Geriyə dönən işıq siqnalları. Qol siqnalları. Təhlükə işıqları",
+"description":"Nəzərdə tutulan hərəkətləri və təhlükələri bildirmək üçün istifadə edilən nəqliyyat vasitəsinin işıq və qol siqnallarını izah edir."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Polis əməkdaşları. Yol hərəkətini idarə edən şəxslərə siqnallar verin. Sürücü və Nəqliyyat Vasitələri Standartları Agentliyinin əməkdaşları və yol hərəkəti məmurları. Məktəb keçidində patrul xidməti",
+"description":"Polis, səlahiyyətli yol hərəkəti personalı və məktəb keçid patrulları tərəfindən verilən siqnallar və təlimatlar."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Sifariş verən işarələr",
+"description":"Yol istifadəçilərinin qanuni olaraq riayət etməli olduğu məcburi və qadağanedici yol nişanları."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Xəbərdarlıq əlamətləri",
+"description":"Təhlükələr, dəyişən yol şəraiti və qarşıdakı həssas yol istifadəçiləri barədə xəbərdarlıq edən işarələr."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"İstiqamət nişanları",
+"description":"Marşrutları, təyinat yerlərini, qovşaq planlarını, yol nömrələrini və istiqamət dəyişmələrini göstərən işarələr."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Məlumat nişanları",
+"description":"Dayanacaq, zolaq, avtomobil yolu, marşrut və obyekt haqqında məlumat verən düzbucaqlı işarələr."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Yol işləri nişanları",
+"description":"Yol işləri, təhlükələr, zolaqların bağlanması, sürət həddi və əks axın sistemləri barədə xəbərdarlıq edən müvəqqəti nişanlar."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Yolun hərəkət hissəsinin o biri tərəfində. Yolun hərəkət hissəsi boyunca. Yolun hərəkət hissəsinin kənarı boyunca. Səkidə və ya yolun hərəkət hissəsinin kənarında. Digər yol nişanları",
+"description":"Dayan, yol ver, zolaq, gözləmə, yükləmə, Qırmızı marşrut, qutu qovşağı və digər yol nişanlarının mənaları."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Böyük yük maşınlarının arxa nişanları. Təhlükə xəbərdarlıq lövhələri. Proyeksiya işarələri. Digər",
+"description":"Ağır nəqliyyat vasitələrini, təhlükəli yükləri, çıxıntılı yükləri və məktəb avtobuslarını müəyyən edən nəqliyyat vasitələrinin nişanlanması."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Sən və velosipedin",
+"description":"Velosiped seçimi, texniki xidmət, əyləclər, işıqlandırma, əks etdiricilər, təkər vəziyyəti və təlim."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Motosiklet sürücülük vəsiqəsi tələbləri. Mopedlər və motosikletlər üçün lisenziya kateqoriyaları",
+"description":"CBT, öyrənən məhdudiyyətləri, testlər, mütərəqqi giriş və AM, A1, A2 və A lisenziya kateqoriyaları."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Sənədlər. Tələbə sürücüləri",
+"description":"Sürücülük vəsiqələri, texniki baxış, sığorta, qeydiyyat, nəqliyyat vasitəsi vergisi, SORN və sürücülük təcrübəsi tələbləri."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Yol hərəkəti qanunu. 1988-ci ildən əvvəlki qanunlar və qaydalar. 1988-ci ildən sonrakı qanunlar və qaydalar",
+"description":"Böyük Britaniya yol hərəkəti qanununun əhatə dairəsi və Yol Hərəkəti Məcəlləsində istinad edilən əsas qanun və qaydalar üçün ixtisarlar."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Cərimə",
+"description":"Maksimum cərimələr, cərimə balları, diskvalifikasiya, yeni sürücünün sürücülük hüququndan məhrum edilməsi, təkrar test və qayda pozuntusunun digər nəticələri."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Nəqliyyat vasitələrinin texniki xidməti. Nəqliyyat vasitələrinin təhlükəsizliyi",
+"description":"Yol təhlükəsizliyi, xəbərdarlıq işıqları, təkərlər, mayelər, yanacaq təhlükəsizliyi, nəqliyyat vasitələrinin yanğınları və oğurluqların qarşısının alınması."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Təhlükə ilə mübarizə aparın. 2. Kömək alın. 3. Əlaqəli olanlara kömək edin. 4. Təcili yardım göstərin",
+"description":"Qəza yerində təhlükəsizlik, təcili yardım çağırışları, yaralılara tibbi yardım, DRABC, ürək-ağciyər reanimasiyası, qanaxma və yanıq müalicəsi."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Təhlükəsizlik kodeksi. Yeni Sürücülər Qanunu. Əlavə təlim.",
+"description":"Yeni sürücülər üçün risklərin azaldılması, altı ballıq lisenziyanın ləğvi və Pass Plus kimi əlavə təlimlər."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Metrik çevrilmələr. Faydalı veb saytlar. Əlavə oxu materialları",
+"description":"Yol təhlükəsizliyi, sürücülük, gəzinti, yedəkləmə və nəqliyyat vasitələri haqqında məlumat üçün mil-kilometr dönüşümləri və rəsmi resurslar."
+}
+]

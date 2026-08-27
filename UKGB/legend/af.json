@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Bewoording van die Padkode. Kennis en toepassing van die reëls.",
+"description":"Verduidelik hoe die woorde MOET, MOET NIE, moet en moet nie gebruik word, en die verantwoordelikheid om die Padkode te ken en toe te pas."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Selfbesturende voertuie",
+"description":"Verduidelik die wetlike verantwoordelikhede van gebruikers wanneer `n selfbesturende voertuig homself bestuur of nie bestuur nie."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Hiërargie van Padgebruikers",
+"description":"Verduidelik dat padgebruikers wat die grootste skade kan veroorsaak, die grootste verantwoordelikheid het om gevaar te verminder."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Algemene riglyne (reëls 1 tot 6)",
+"description":"Algemene veiligheidsriglyne vir voetgangers, insluitend sypaadjies, sigbaarheid en gedeelde roetes."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Oorsteek van die pad (reëls 7 tot 17)",
+"description":"Die Groen Kruis-kode en reëls vir die keuse van `n veilige plek en die veilige oorsteek van paaie."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Oorgange (reëls 18 tot 30)",
+"description":"Reëls vir voetgangers wat sebra-, pelikaan-, papegaai-, toekan- en ruiteroorgange gebruik."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Situasies wat ekstra sorg benodig (reëls 31 tot 35)",
+"description":"Ekstra voorsorgmaatreëls vir kwesbare voetgangers, noodvoertuie, busse en spoorwegoorgange."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Aangedrewe rolstoele en mobiliteitsbromponies (reëls 36 tot 37)",
+"description":"Reëls vir die gebruik van aangedrewe rolstoele en mobiliteitsbromponies op sypaadjies en paaie."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Op sypaadjies (reëls 38 tot 40)",
+"description":"Reëls vir mobiliteitsbromponies en aangedrewe rolstoele wat sypaadjies en voetgangergebiede gebruik."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Op die pad (reëls 41 tot 46)",
+"description":"Padgebruik, beligting, sigbaarheid en veiligheidsreëls vir aangedrewe rolstoele en mobiliteitsbromponies."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Perdevoertuie (reëls 47 tot 48)",
+"description":"Veiligheid-, beligtings-, roete- en toerustingleiding vir bestuurders van perdevoertuie."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Ruiters (reëls 49 tot 55)",
+"description":"Reëls vir die veilige perdry, insluitend klere, toerusting, padposisionering en seine."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Ander diere (reëls 56 tot 58)",
+"description":"Reëls vir honde, diere in voertuie en die vervoer van vee langs paaie."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Oorsig (reëls 59 tot 72)",
+"description":"Kernfietsryreëls wat klere, toerusting, beligting, padposisie, fietsbane en gedeelde roetes insluit."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Padkruisings (reëls 73 tot 77)",
+"description":"Reëls vir fietsryers wat kruisings nader en onderhandel, insluitend posisionering en prioriteit."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Verkeerskringe (reëls 78 tot 80)",
+"description":"Reëls vir fietsryers wat sirkelroetes gebruik, insluitend baanposisie, seine en veiliger alternatiewe."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Oorsteek van die pad (reëls 81 tot 82)",
+"description":"Reëls vir fietsryers wat slegs-fiets-, toekan- en ruiteroorgange gebruik."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Algemeen (reëls 83 tot 88)",
+"description":"Algemene motorfietsreëls wat lisensiëring, helms, oogbeskerming, passasiers en dagligsigbaarheid dek."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Voertuigtoestand (reël 89)",
+"description":"Vereis dat motorfietsryers hul motorfiets padwaardig hou en bande, remme, ligte en stuur in stand hou."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Geskiktheid om te bestuur (reëls 90 tot 94)",
+"description":"Reëls oor moegheid, siekte, sig, konsentrasie en ander faktore wat bestuursfiksheid beïnvloed."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkohol en dwelms (reëls 95 tot 96)",
+"description":"Verbied bestuur onder invloed van alkohol, onwettige dwelms of medisyne."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Voor vertrek (reël 97)",
+"description":"Voorritkontroles vir voertuigpadwaardigheid, sigbaarheid, kontroles, klere en veilige vrag."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Voertuigsleep en -laai (reël 98)",
+"description":"Reëls vir die beveiliging van vragte, sleeplimiete, sleepwaens, uitsteeksels en die vermyding van oorlading."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Veiligheidsgordels en kinderbeveiligings (reëls 99 tot 102)",
+"description":"Wetlike vereistes vir veiligheidsgordels, kinderbeveiligingsmiddels en die veilige vervoer van kinders."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Seine (reëls 103 tot 106)",
+"description":"Reëls vir die gee van duidelike seine en die interpretasie van seine van ander padgebruikers."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Ander stopprosedures (reëls 107 tot 112)",
+"description":"Aanwysings van polisie en gemagtigde beamptes, nakoming van verkeersligte en gebruik van die toeter."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Beligtingsvereistes (reëls 113 tot 116)",
+"description":"Reëls vir kopligte, syligte, misligte en die vermyding van verblinding van ander."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Beheer van die voertuig (reëls 117 tot 126)",
+"description":"Veilige voertuigbeheer, rem, stopafstande, gly, uitrol en nakoming van spoedbeperkings."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Lyne en baanmerke op die pad (reëls 127 tot 132)",
+"description":"Betekenis en regsgevolg van middellyne, gevaarlyne, dubbelwit lyne, baanlyne en chevrons."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Veelbaanrybane (reëls 133 tot 143)",
+"description":"Baandissipline, bane wissel, klimbane, busbane, fietsbane en bane met hoë besettingsgraad."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Algemene advies (reëls 144 tot 158)",
+"description":"Algemene veilige bestuursgedrag, bedagsaamheid teenoor ander, spoed, prioriteit en die vermyding van afleidings."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Algemene reëls (reëls 159 tot 161)",
+"description":"Waarneming, seingewing en veilige beweging voordat weggetrek of die verkeer betree word."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Verbysteek (reëls 162 tot 169)",
+"description":"Reëls vir veilige verbysteek, insluitend grondvryhoogte, verbode plekke en verbygesteek word."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Padkruisings (reëls 170 tot 183)",
+"description":"Reëls vir die nadering van kruisings, voorrang gee, draai, uitkom en kruisende verkeer."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Verkeerskringe (reëls 184 tot 190)",
+"description":"Reëls vir nadering, prioriteit, baankeuse, seine en die verlaat van sirkels."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Voetgangeroorgange (reëls 191 tot 199)",
+"description":"Bestuurdersverantwoordelikhede by sebra-, pelikaan-, papegaai-, toekan- en paralleloorgange."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Omkeer (200 tot 203)",
+"description":"Reëls vir die kontrolering van die omgewing, veilige agteruitry en die vermyding van oormatige agteruitry."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Oorsig (reël 204)",
+"description":"Stel die plig bekend om padgebruikers wat veral in gevaar is, te beskerm."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Voetgangers (reëls 205 tot 210)",
+"description":"Ekstra sorg rondom kinders, ouer mense, gestremde voetgangers en mense wat paaie oorsteek."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motorfietsryers en fietsryers (reëls 211 tot 213)",
+"description":"Ekstra waarneming en veilige vryhoogte rondom motorfietsryers en fietsryers, veral by kruisings."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Ander padgebruikers (reëls 214 tot 218)",
+"description":"Ekstra sorg rondom diere, perderuiters, leerlingbestuurders en onervare padgebruikers."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Ander voertuie (reëls 219 tot 225)",
+"description":"Reëls vir noodvoertuie, groot voertuie, busse, trams en stadigbewegende voertuie."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Oorsig (reël 226)",
+"description":"Vereis dat bestuurders by ongunstige weerstoestande aanpas en gepaste ligte gebruik wanneer sigbaarheid verminder is."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Nat weer (reël 227)",
+"description":"Leidraad oor verminderde greep, langer remafstande, sproei, akwaplaning en vloedwater."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Ysige en sneeuagtige weer (reëls 228 tot 231)",
+"description":"Reëls vir voorbereiding, gladde bestuur en beheer in ys en sneeu."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Winderige weer (reëls 232 tot 233)",
+"description":"Leidraad oor sterk dwarswinde en kwesbare padgebruikers wat deur rukwinde geraak word."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Mis (reëls 234 tot 236)",
+"description":"Reëls oor sigbaarheid, spoed, volgafstand en korrekte gebruik van misligte."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Warm weer (reël 237)",
+"description":"Leidraad oor hitteverwante padoppervlakgevare en die voorkoming van oorverhitting."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Algemeen (reël 238)",
+"description":"Algemene parkeerreëls, insluitend die nakoming van beperkings en die vermyding van gevaar of obstruksie."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Parkering (reëls 239 tot 247)",
+"description":"Reëls vir veilige parkering, padlangs stop, laai, gestremde parkeerplekke en verbode plekke."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Parkering in die nag (reëls 248 tot 252)",
+"description":"Nagparkeerreëls wat rigting, beligting, spoedbeperkings en weerkaatsende merke insluit."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Gedekriminaliseerde Parkeerafdwinging (DPE)",
+"description":"Verduidelik die siviele afdwinging van parkeerbeperkings deur plaaslike owerhede."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Algemeen (reëls 253 tot 254)",
+"description":"Algemene snelwegreëls, insluitend verbode gebruikers en die toepassing van snelwegregulasies."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Snelwegseine (reëls 255 tot 258)",
+"description":"Betekenis van snelwegseine, rooi X-baansluitings en veranderlike spoedbeperkings."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Aansluiting by die snelweg (reël 259)",
+"description":"Reëls vir die gebruik van die afrit, die ooreenstemming van verkeerspoed en die gee van voorkeur aan snelwegverkeer."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Op die snelweg (reëls 260 tot 263)",
+"description":"Veilige snelwegbestuur, volgafstande, beperkings en gebruik van bane."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Baandissipline (reëls 264 tot 266)",
+"description":"Vereis gebruik van die linkerbaan tensy verbygesteek en veilige nakoming van baanseine."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Verbysteek (reëls 267 tot 268)",
+"description":"Reëls vir die verbysteek van snelweë, insluitend veilige waarneming en die verbod op die gebruik van die harde skouer."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Harde skouer (reël 269)",
+"description":"Beperk die gebruik van die harde skouer tot noodgevalle of tye wanneer tekens dit as `n hardloopbaan oopmaak."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Stop (reëls 270 tot 272)",
+"description":"Verbied stop op die snelweg behalwe in noodgevalle of wanneer aangedui en verduidelik die gebruik van noodgebiede."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Verlaat van die snelweg (reëls 273 tot 274)",
+"description":"Reëls vir die lees van uitgangstekens, seine en die veilige betreding van die uitgangsbaan."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Plek van relatiewe veiligheid (reël 275)",
+"description":"Verduidelik hoe om `n veiliger plek te identifiseer en te bereik tydens `n ineenstorting of noodgeval."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Onderbrekings (reël 276)",
+"description":"Stappe om te neem tydens `n snelwegonderbreking, insluitend om die voertuig veilig te verlaat en hulp te kontak."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Bykomende reëls vir snelweë (reëls 277 tot 279)",
+"description":"Bykomende padonderbrekings- en noodleiding, insluitend die heraansluiting by verkeer en gestremde voertuie."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Obstruksies (reël 280)",
+"description":"Stappe om te neem wanneer jy `n padobstruksie teëkom of veroorsaak."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Voorvalle (reëls 281 tot 283)",
+"description":"Veiligheidsmaatreëls by voorvalle, noodkorridors en nakoming van noodpersoneel."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Voorvalle met gevaarlike goedere (reëls 284 tot 285)",
+"description":"Voorsorgmaatreëls en rapporteringsvereistes wanneer gevaarlike materiale by `n voorval betrokke is."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Dokumentasie (reëls 286 tot 287)",
+"description":"Pligte om te stop, inligting uit te ruil en botsings aan die polisie aan te meld wanneer nodig."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Padwerke (reël 288)",
+"description":"Vereis ekstra sorg, verminderde spoed en nakoming van tydelike tekens en baanbeheer by padwerke."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Bykomende reëls vir hoëspoedpaaie (reëls 289 tot 290)",
+"description":"Bykomende veiligheidsreëls vir onderbrekings en voorvalle op hoëspoedpaaie."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Spoorwegoorgange (reëls 291 tot 299)",
+"description":"Reëls vir die nadering, oorsteek en reaksie op ligte, versperrings en noodgevalle by spoorwegoorgange."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Tremlyne (reëls 300 tot 307)",
+"description":"Reëls vir die deel van paaie met trems en die vermyding van spoorlyne, platforms en gereserveerde tremroetes."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Verkeersligseine. Flikkerende rooi ligte. Baanbeheerseine",
+"description":"Betekenisse van standaard verkeersligte, flikkerende rooi stopseine en baanbeheerseine."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Snelwegseine",
+"description":"Betekenisse van snelwegwaarskuwingsseine, veranderlike limiete, baansluitings en instruksies."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Rigtingaanwysers. Remligseine. Trurataanwysers. Armseine. Gevaarligte",
+"description":"Verduidelik voertuiglig- en armseine wat gebruik word om beoogde bewegings en gevare aan te meld."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Polisiebeamptes. Armseine aan persone wat verkeer beheer. Bestuurders- en Voertuigstandaardagentskapbeamptes en verkeersbeamptes. Skooloorgangpatrollies",
+"description":"Seine en instruksies gegee deur die polisie, gemagtigde verkeerspersoneel en skooloorgangpatrollies."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Tekens wat bevele gee",
+"description":"Verpligte en verbiedende verkeerstekens wat padgebruikers wetlik verplig is om te gehoorsaam."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Waarskuwingstekens",
+"description":"Tekens wat waarsku teen gevare, veranderende padtoestande en kwesbare padgebruikers vorentoe."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Rigtingtekens",
+"description":"Tekens wat roetes, bestemmings, aansluitingsuitlegte, padnommers en omleidings aandui."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Inligtingstekens",
+"description":"Reghoekige tekens wat inligting oor parkering, bane, snelweg, roete en fasiliteite verskaf."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Padwerktekens",
+"description":"Tydelike tekens wat waarsku oor padwerke, gevare, baansluitings, spoedbeperkings en teenstroomstelsels."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Oorkant die rybaan. Langs die rybaan. Langs die rand van die rybaan. Op die randsteen of aan die rand van die rybaan. Ander padmerke",
+"description":"Betekenisse van stop, gee pad, baan, wag, laai, Rooi Roete, aansluiting en ander padmerke."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Agterste merke vir groot vragvoertuie. Gevaarwaarskuwingsplate. Uitsteekselsmerkers. Ander",
+"description":"Voertuigmerke wat swaar voertuie, gevaarlike goedere, uitstekende vragte en skoolbusse identifiseer."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Jy en jou fiets",
+"description":"Fietskeuse, onderhoud, remme, beligting, weerkaatsers, bandtoestand en opleiding."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Motorfietslisensievereistes. Lisensiekategorieë vir bromponies en motorfietse",
+"description":"KGT, leerderbeperkings, toetse, progressiewe toegang en AM-, A1-, A2- en A-lisensiekategorieë."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Dokumente. Leerlingbestuurders",
+"description":"Bestuurslisensies, MOT, versekering, registrasie, voertuigbelasting, SORN en vereistes vir leerlingbestuurders."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Padverkeerswetgewing. Wette en regulasies voor 1988. Wette en regulasies vanaf 1988.",
+"description":"Omvang van die Britse padverkeerswetgewing en afkortings vir die belangrikste wette en regulasies wat in die Padkode aangehaal word."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Strafmaatreëls",
+"description":"Maksimum strawwe, strafpunte, diskwalifikasie, herroeping van nuwe bestuurders, hertoetsing en ander gevolge van oortredings."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Voertuigonderhoud. Voertuigsekuriteit.",
+"description":"Padwaardigheid, waarskuwingsligte, bande, vloeistowwe, brandstofveiligheid, voertuigbrande en diefstalvoorkoming."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Hanteer gevaar. 2. Kry hulp. 3. Help die betrokke persone. 4. Verskaf noodhulp.",
+"description":"Veiligheid op die ongelukstoneel, noodoproepe, ongevalle-sorg, DRABC, KPR, bloeding en brandwondbehandeling."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Die veiligheidskode. Nuwe Bestuurderswet. Verdere opleiding",
+"description":"Risikovermindering vir nuwe bestuurders, sespunt-lisensieherroeping en opsionele verdere opleiding soos Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Metrieke omskakelings. Nuttige webwerwe. Verdere leeswerk.",
+"description":"Myl-na-kilometer omskakelings en amptelike hulpbronne vir padveiligheid, bestuur, ry, sleep en voertuiginligting."
+}
+]
