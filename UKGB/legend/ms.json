@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Perkataan Kod Lebuhraya. Mengetahui dan mengaplikasikan peraturan",
+"description":"Menerangkan bagaimana perkataan MESTI, TIDAK MESTI, harus dan tidak boleh digunakan, serta tanggungjawab untuk mengetahui dan mengaplikasikan Kod Lebuhraya."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Kenderaan pandu sendiri",
+"description":"Menerangkan tanggungjawab undang-undang pengguna apabila kenderaan pandu sendiri memandu sendiri atau tidak memandu sendiri."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Hierarki Pengguna Jalan Raya",
+"description":"Menjelaskan bahawa pengguna jalan raya yang mampu menyebabkan kemudaratan terbesar mempunyai tanggungjawab terbesar untuk mengurangkan bahaya."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Panduan umum (peraturan 1 hingga 6)",
+"description":"Panduan keselamatan umum untuk pejalan kaki, termasuk laluan pejalan kaki, penglihatan dan laluan kongsi."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Melintas jalan raya (peraturan 7 hingga 17)",
+"description":"Kod Palang Hijau dan peraturan untuk memilih tempat yang selamat dan melintas jalan dengan selamat."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Lintasan (peraturan 18 hingga 30)",
+"description":"Peraturan untuk pejalan kaki yang menggunakan lintasan zebra, pelikan, puffin, toucan dan ekuestrian."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Situasi yang memerlukan perhatian tambahan (peraturan 31 hingga 35)",
+"description":"Langkah berjaga-jaga tambahan untuk pejalan kaki yang terdedah kepada bahaya, kenderaan kecemasan, bas dan lintasan kereta api."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Kerusi roda berkuasa tinggi dan skuter mobiliti (peraturan 36 hingga 37)",
+"description":"Peraturan untuk menggunakan kerusi roda berkuasa dan skuter mobiliti di laluan pejalan kaki dan jalan raya."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Di atas laluan pejalan kaki (peraturan 38 hingga 40)",
+"description":"Peraturan untuk skuter mobiliti dan kerusi roda berkuasa yang menggunakan laluan pejalan kaki dan kawasan pejalan kaki."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Di jalan raya (peraturan 41 hingga 46)",
+"description":"Peraturan penggunaan jalan raya, pencahayaan, penglihatan dan keselamatan untuk kerusi roda berkuasa dan skuter mobiliti."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Kenderaan yang ditarik kuda (peraturan 47 hingga 48)",
+"description":"Panduan keselamatan, pencahayaan, laluan dan peralatan untuk pemandu kenderaan yang ditarik kuda."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Penunggang kuda (peraturan 49 hingga 55)",
+"description":"Peraturan untuk menunggang kuda dengan selamat, termasuk pakaian, peralatan, kedudukan jalan raya dan isyarat."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Haiwan lain (peraturan 56 hingga 58)",
+"description":"Peraturan untuk anjing, haiwan di dalam kenderaan dan haiwan ternakan yang dibawa di jalan raya."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Gambaran Keseluruhan (peraturan 59 hingga 72)",
+"description":"Peraturan berbasikal teras meliputi pakaian, peralatan, pencahayaan, kedudukan jalan raya, lorong basikal dan laluan kongsi."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Persimpangan jalan (peraturan 73 hingga 77)",
+"description":"Peraturan untuk penunggang basikal yang menghampiri dan berunding di simpang, termasuk kedudukan dan keutamaan."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Bulatan (peraturan 78 hingga 80)",
+"description":"Peraturan untuk penunggang basikal yang menggunakan bulatan, termasuk kedudukan lorong, lampu isyarat dan alternatif yang lebih selamat."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Melintas jalan raya (peraturan 81 hingga 82)",
+"description":"Peraturan untuk penunggang basikal yang menggunakan lintasan basikal sahaja, toucan dan ekuestrian."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Am (peraturan 83 hingga 88)",
+"description":"Peraturan umum motosikal meliputi pelesenan, topi keledar, perlindungan mata, penumpang dan penglihatan siang hari."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Keadaan kenderaan (peraturan 89)",
+"description":"Mewajibkan penunggang motosikal memastikan motosikal mereka layak di jalan raya dan menyelenggara tayar, brek, lampu dan stereng."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Kecergasan untuk memandu (peraturan 90 hingga 94)",
+"description":"Peraturan mengenai keletihan, penyakit, penglihatan, tumpuan dan faktor lain yang mempengaruhi kecergasan memandu."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkohol dan dadah (peraturan 95 hingga 96)",
+"description":"Melarang memandu semasa mengalami gangguan alkohol, dadah haram atau ubat-ubatan."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Sebelum bertolak (peraturan 97)",
+"description":"Pemeriksaan pra-perjalanan untuk kelayakan jalan raya kenderaan, penglihatan, kawalan, pakaian dan muatan yang selamat."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Tunda dan pemuatan kenderaan (peraturan 98)",
+"description":"Peraturan untuk muatan yang selamat, had tunda, treler, unjuran dan mengelakkan beban lampau."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Tali pinggang keledar dan pengaman kanak-kanak (peraturan 99 hingga 102)",
+"description":"Keperluan undang-undang untuk tali pinggang keledar, kekangan kanak-kanak dan pengangkutan kanak-kanak yang selamat."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Isyarat (peraturan 103 hingga 106)",
+"description":"Peraturan untuk memberi isyarat yang jelas dan mentafsir isyarat daripada pengguna jalan raya yang lain."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Prosedur berhenti lain (peraturan 107 hingga 112)",
+"description":"Arahan daripada polis dan pegawai yang diberi kuasa, pematuhan lampu isyarat dan penggunaan hon."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Keperluan pencahayaan (peraturan 113 hingga 116)",
+"description":"Peraturan yang mengawal lampu hadapan, lampu sisi, lampu kabus dan mengelakkan lampu lain yang menyilaukan."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Kawalan kenderaan (peraturan 117 hingga 126)",
+"description":"Kawalan kenderaan yang selamat, brek, jarak berhenti, gelinciran, meluncur dan pematuhan had laju."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Penanda garisan dan lorong di jalan raya (peraturan 127 hingga 132)",
+"description":"Maksud dan kesan perundangan bagi garisan tengah, garisan bahaya, garisan putih berganda, garisan lorong dan chevron."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Laluan berbilang lorong (peraturan 133 hingga 143)",
+"description":"Disiplin lorong, pertukaran lorong, lorong mendaki, lorong bas, lorong basikal dan lorong penghunian tinggi."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Nasihat umum (peraturan 144 hingga 158)",
+"description":"Kelakuan memandu selamat secara umum, pertimbangan terhadap orang lain, kelajuan, keutamaan dan mengelakkan gangguan."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Peraturan am (peraturan 159 hingga 161)",
+"description":"Pemerhatian, isyarat dan pergerakan selamat sebelum beredar atau memasuki lalu lintas."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Memotong (peraturan 162 hingga 169)",
+"description":"Peraturan untuk memotong dengan selamat, termasuk pelepasan, lokasi yang dilarang dan dipintas."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Persimpangan jalan (peraturan 170 hingga 183)",
+"description":"Peraturan untuk menghampiri simpang, memberi laluan, membelok, keluar dan melintas lalu lintas."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Bulatan (peraturan 184 hingga 190)",
+"description":"Peraturan untuk pendekatan, keutamaan, pemilihan lorong, isyarat dan bulatan keluar."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Lintasan pejalan kaki (peraturan 191 hingga 199)",
+"description":"Tanggungjawab pemandu di lintasan zebra, pelikan, puffin, toucan dan selari."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Membalikkan (200 hingga 203)",
+"description":"Peraturan untuk memeriksa persekitaran, mengundur dengan selamat dan mengelakkan pengunduran yang berlebihan."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Gambaran Keseluruhan (peraturan 204)",
+"description":"Memperkenalkan kewajipan untuk melindungi pengguna jalan raya yang amat berisiko."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Pejalan Kaki (peraturan 205 hingga 210)",
+"description":"Penjagaan tambahan di sekitar kanak-kanak, warga emas, pejalan kaki kurang upaya dan orang yang melintas jalan."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Penunggang motosikal dan penunggang basikal (peraturan 211 hingga 213)",
+"description":"Pemerhatian tambahan dan pelepasan selamat di sekitar penunggang motosikal dan basikal, terutamanya di simpang."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Pengguna jalan raya lain (peraturan 214 hingga 218)",
+"description":"Penjagaan tambahan terhadap haiwan, penunggang kuda, pemandu pelajar dan pengguna jalan raya yang tidak berpengalaman."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Kenderaan lain (peraturan 219 hingga 225)",
+"description":"Peraturan untuk kenderaan kecemasan, kenderaan besar, bas, trem dan kenderaan bergerak perlahan."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Gambaran Keseluruhan (peraturan 226)",
+"description":"Memerlukan pemandu untuk menyesuaikan diri dengan cuaca buruk dan menggunakan lampu yang sesuai apabila jarak penglihatan berkurangan."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Cuaca basah (peraturan 227)",
+"description":"Panduan tentang cengkaman yang lebih rendah, jarak berhenti yang lebih jauh, semburan, aquaplaning dan air banjir."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Cuaca berais dan bersalji (peraturan 228 hingga 231)",
+"description":"Peraturan untuk membuat persediaan, memandu dengan lancar dan mengekalkan kawalan di dalam ais dan salji."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Cuaca berangin (peraturan 232 hingga 233)",
+"description":"Panduan tentang angin lintang kencang dan pengguna jalan raya yang terdedah yang terjejas oleh tiupan angin kencang."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Kabus (peraturan 234 hingga 236)",
+"description":"Peraturan mengenai penglihatan, kelajuan, jarak pengesan dan penggunaan lampu kabus yang betul."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Cuaca panas (peraturan 237)",
+"description":"Panduan tentang bahaya permukaan jalan raya yang berkaitan dengan haba dan mengelakkan pemanasan melampau."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Am (peraturan 238)",
+"description":"Peraturan tempat letak kereta am, termasuk pematuhan dengan sekatan dan mengelakkan bahaya atau halangan."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Tempat Letak Kereta (peraturan 239 hingga 247)",
+"description":"Peraturan untuk tempat letak kereta yang selamat, berhenti di tepi jalan, memuatkan kenderaan, ruang orang kurang upaya dan lokasi yang dilarang."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Tempat letak kereta pada waktu malam (peraturan 248 hingga 252)",
+"description":"Peraturan parkir malam yang meliputi arah, pencahayaan, had laju dan tanda pantulan cahaya."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Penguatkuasaan Tempat Letak Kereta yang Tidak Dijenayahkan (DPE)",
+"description":"Menerangkan penguatkuasaan sivil sekatan tempat letak kereta oleh pihak berkuasa tempatan."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Am (peraturan 253 hingga 254)",
+"description":"Peraturan lebuh raya am, termasuk pengguna yang dilarang dan pemakaian peraturan lebuh raya."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Isyarat lebuh raya (peraturan 255 hingga 258)",
+"description":"Maksud isyarat lebuh raya, penutupan lorong X merah dan had laju boleh ubah."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Menyertai lebuh raya (peraturan 259)",
+"description":"Peraturan untuk menggunakan jalan susur, memadankan kelajuan lalu lintas dan memberi keutamaan kepada lalu lintas lebuh raya."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Di lebuh raya (peraturan 260 hingga 263)",
+"description":"Pemanduan lebuh raya yang selamat, mematuhi jarak, sekatan dan penggunaan lorong."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Disiplin lorong (peraturan 264 hingga 266)",
+"description":"Memerlukan penggunaan lorong kiri melainkan memotong dan pematuhan isyarat lorong yang selamat."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Memotong (peraturan 267 hingga 268)",
+"description":"Peraturan memotong lebuh raya, termasuk pemerhatian selamat dan larangan menggunakan bahu jalan yang keras."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Bahu keras (peraturan 269)",
+"description":"Mengehadkan penggunaan bahu keras kepada kecemasan atau masa apabila papan tanda membukanya sebagai lorong larian."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Berhenti (peraturan 270 hingga 272)",
+"description":"Melarang berhenti di lebuh raya kecuali dalam kecemasan atau apabila diarahkan dan menerangkan penggunaan kawasan kecemasan."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Meninggalkan lebuh raya (peraturan 273 hingga 274)",
+"description":"Peraturan untuk membaca papan tanda keluar, memberi isyarat dan memasuki lorong keluar dengan selamat."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Tempat yang relatif selamat (peraturan 275)",
+"description":"Menerangkan cara mengenal pasti dan sampai ke lokasi yang lebih selamat semasa kerosakan atau kecemasan."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Kerosakan (peraturan 276)",
+"description":"Tindakan yang perlu diambil semasa kerosakan lebuh raya, termasuk meninggalkan kenderaan dengan selamat dan menghubungi bantuan."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Peraturan tambahan untuk lebuh raya (peraturan 277 hingga 279)",
+"description":"Panduan kerosakan dan kecemasan tambahan, termasuk menyertai semula lalu lintas dan kenderaan kurang upaya."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Halangan (peraturan 280)",
+"description":"Tindakan yang perlu diambil apabila menghadapi atau menyebabkan halangan jalan raya."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Insiden (peraturan 281 hingga 283)",
+"description":"Langkah-langkah keselamatan di insiden, koridor kecemasan dan pematuhan dengan kakitangan kecemasan."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Insiden yang melibatkan barangan berbahaya (peraturan 284 hingga 285)",
+"description":"Langkah berjaga-jaga dan keperluan pelaporan apabila bahan berbahaya terlibat dalam insiden."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Dokumentasi (peraturan 286 hingga 287)",
+"description":"Tugas untuk menghentikan, bertukar maklumat dan melaporkan perlanggaran kepada polis apabila diperlukan."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Kerja-kerja jalan raya (peraturan 288)",
+"description":"Memerlukan penjagaan tambahan, kelajuan yang dikurangkan dan pematuhan dengan papan tanda sementara dan kawalan lorong di kerja-kerja jalan raya."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Peraturan tambahan untuk jalan raya berkelajuan tinggi (peraturan 289 hingga 290)",
+"description":"Peraturan keselamatan tambahan untuk kerosakan dan insiden di jalan raya berkelajuan tinggi."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Lintasan aras (peraturan 291 hingga 299)",
+"description":"Peraturan untuk menghampiri, melintas dan bertindak balas terhadap lampu, penghadang dan kecemasan di lintasan kereta api."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Trem (peraturan 300 hingga 307)",
+"description":"Peraturan untuk berkongsi jalan raya dengan trem dan mengelakkan rel, platform dan laluan trem yang ditempah."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Isyarat lampu isyarat. Lampu merah berkelip. Isyarat kawalan lorong",
+"description":"Maksud lampu isyarat standard, lampu isyarat berhenti merah berkelip dan lampu isyarat kawalan lorong."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Isyarat lebuh raya",
+"description":"Maksud isyarat amaran lebuh raya, had berubah-ubah, penutupan lorong dan arahan."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Isyarat penunjuk arah. Isyarat lampu brek. Isyarat lampu undur. Isyarat lengan. Lampu bahaya",
+"description":"Menerangkan lampu kenderaan dan isyarat lengan yang digunakan untuk menyampaikan pergerakan dan bahaya yang dimaksudkan."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Pegawai polis. Isyarat lengan kepada orang yang mengawal lalu lintas. Pegawai Agensi Piawaian Pemandu dan Kenderaan dan pegawai trafik. Rondaan lintasan sekolah",
+"description":"Isyarat dan arahan yang diberikan oleh polis, kakitangan trafik yang dibenarkan dan rondaan lintasan sekolah."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Papan tanda memberi arahan",
+"description":"Papan tanda lalu lintas wajib dan larangan yang diwajibkan oleh pengguna jalan raya untuk dipatuhi."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Tanda-tanda amaran",
+"description":"Papan tanda memberi amaran tentang bahaya, perubahan keadaan jalan raya dan pengguna jalan raya yang terdedah di hadapan."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Papan tanda arah",
+"description":"Papan tanda yang menunjukkan laluan, destinasi, susun atur simpang, nombor jalan dan lencongan."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Papan tanda maklumat",
+"description":"Papan tanda segi empat tepat yang menyediakan maklumat tempat letak kereta, lorong, lebuh raya, laluan dan kemudahan."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Papan tanda kerja jalan raya",
+"description":"Papan tanda sementara yang memberi amaran tentang kerja-kerja jalan raya, bahaya, penutupan lorong, had laju dan sistem aliran kontra."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Merentasi lebuh raya. Di sepanjang lebuh raya. Di sepanjang pinggir lebuh raya. Di tepi jalan atau di pinggir lebuh raya. Penanda jalan lain",
+"description":"Maksud berhenti, beri laluan, lorong, menunggu, memuatkan kenderaan, Laluan Merah, simpang kotak dan tanda jalan yang lain."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Penanda belakang kenderaan barangan besar. Plat amaran bahaya. Penanda unjuran. Lain-lain",
+"description":"Tanda kenderaan yang mengenal pasti kenderaan berat, barangan berbahaya, muatan yang terjulur dan bas sekolah."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Anda dan basikal anda",
+"description":"Pemilihan basikal, penyelenggaraan, brek, lampu, pemantul cahaya, keadaan tayar dan latihan."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Keperluan lesen motosikal. Kategori lesen untuk moped dan motosikal",
+"description":"CBT, sekatan pelajar, ujian, akses progresif dan kategori lesen AM, A1, A2 dan A."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Dokumen. Pemandu pelajar",
+"description":"Lesen memandu, MOT, insurans, pendaftaran, cukai kenderaan, SORN dan keperluan pelajar-memandu."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Undang-undang lalu lintas jalan raya. Akta dan peraturan sebelum 1988. Akta dan peraturan dari 1988 dan seterusnya",
+"description":"Skop undang-undang lalu lintas jalan raya UK dan singkatan untuk Akta dan Peraturan utama yang dipetik dalam Kod Lebuhraya."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Penalti",
+"description":"Penalti maksimum, mata penalti, hilang kelayakan, pembatalan pemandu baharu, ujian semula dan akibat lain yang disebabkan oleh kesalahan."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Penyelenggaraan kenderaan. Keselamatan kenderaan",
+"description":"Kelayakan jalan raya, lampu amaran, tayar, cecair, keselamatan bahan api, kebakaran kenderaan dan pencegahan kecurian."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Tangani bahaya. 2. Dapatkan bantuan. 3. Bantu mereka yang terlibat. 4. Berikan rawatan kecemasan",
+"description":"Keselamatan tempat kejadian kemalangan, panggilan kecemasan, penjagaan mangsa, DRABC, CPR, rawatan pendarahan dan melecur."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Kod keselamatan. Akta Pemandu Baharu. Latihan lanjut",
+"description":"Pengurangan risiko untuk pemandu baharu, pembatalan lesen enam mata dan latihan lanjutan pilihan seperti Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Penukaran metrik. Laman web yang berguna. Bacaan lanjut",
+"description":"Penukaran batu kepada kilometer dan sumber rasmi untuk maklumat keselamatan jalan raya, pemanduan, menunggang, menunda dan kenderaan."
+}
+]

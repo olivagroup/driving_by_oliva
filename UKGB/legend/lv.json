@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Ceļu satiksmes noteikumu formulējums. Noteikumu pārzināšana un piemērošana",
+"description":"Izskaidro, kā tiek lietoti vārdi “JĀ”, “NEDRĪKST”, “vajadzētu” un “nevajadzētu”, kā arī atbildību zināt un piemērot Ceļu satiksmes noteikumus."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Pašbraucoši transportlīdzekļi",
+"description":"Izskaidro lietotāju juridisko atbildību gadījumos, kad pašbraucošs transportlīdzeklis pats brauc vai nebrauc."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Ceļu lietotāju hierarhija",
+"description":"Paskaidro, ka ceļu satiksmes dalībniekiem, kuri spēj nodarīt vislielāko kaitējumu, ir vislielākā atbildība par bīstamības mazināšanu."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Vispārīgi norādījumi (1.–6. noteikums)",
+"description":"Vispārīgi drošības norādījumi gājējiem, tostarp par ietvēm, redzamību un koplietošanas maršrutiem."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Ceļa šķērsošana (7.–17. noteikums)",
+"description":"Zaļā krusta kodekss un noteikumi drošas vietas izvēlei un drošai ceļu šķērsošanai."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Šķērsošanas vietas (18.–30. noteikums)",
+"description":"Noteikumi gājējiem, izmantojot zebras, pelikānus, pufīnus, tukānus un jāšanas ceļus."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Situācijas, kurās nepieciešama īpaša piesardzība (31.–35. noteikums)",
+"description":"Papildu piesardzības pasākumi neaizsargātiem gājējiem, neatliekamās palīdzības transportlīdzekļiem, autobusiem un dzelzceļa pārbrauktuvēm."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Elektriskie ratiņkrēsli un mobilitātes skrejriteņi (36.–37. noteikums)",
+"description":"Noteikumi par motorizētu ratiņkrēslu un mobilitātes skrejriteņu izmantošanu uz ietvēm un ceļiem."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Uz ietvēm (38.–40. noteikums)",
+"description":"Noteikumi par mobilitātes skuteru un elektrisko ratiņkrēslu braukšanu pa ietvēm un gājēju zonām."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Uz ceļa (noteikumi no 41. līdz 46.)",
+"description":"Ceļu lietošanas, apgaismojuma, redzamības un drošības noteikumi motorizētiem ratiņkrēsliem un mobilitātes skuteriem."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Zirgu vilkti transportlīdzekļi (47.–48. noteikums)",
+"description":"Drošības, apgaismojuma, maršruta un aprīkojuma norādījumi zirgu vilkšanas transportlīdzekļu vadītājiem."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Jātnieki (noteikumi no 49. līdz 55.)",
+"description":"Noteikumi drošai jāšanai ar zirgiem, tostarp apģērbs, ekipējums, izvietojums uz ceļa un signāli."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Citi dzīvnieki (56.–58. noteikums)",
+"description":"Noteikumi par suņiem, dzīvniekiem transportlīdzekļos un mājlopu pārvietošanu pa ceļiem."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Pārskats (59.–72. noteikums)",
+"description":"Velosipēdu vadīšanas pamatnoteikumi, kas aptver apģērbu, aprīkojumu, apgaismojumu, ceļa novietojumu, veloceliņus un koplietošanas maršrutus."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Ceļu krustojumi (73.–77. noteikums)",
+"description":"Noteikumi velosipēdistiem, kas tuvojas krustojumiem un tos šķērso, tostarp pozicionēšanās un prioritātes noteikšana."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Apļveida krustojumi (78.–80. noteikums)",
+"description":"Noteikumi velosipēdistiem, braucot ar apļveida krustojumiem, tostarp joslu izvietojums, signalizācija un drošākas alternatīvas."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Ceļa šķērsošana (81.–82. noteikums)",
+"description":"Noteikumi velosipēdistiem, kas izmanto tikai velosipēdu, tukānu un jāšanas ceļu pārejas."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Vispārīgi (83.–88. noteikums)",
+"description":"Vispārīgi motociklu noteikumi par apliecību iegūšanu, ķiverēm, acu aizsardzību, pasažieriem un redzamību dienasgaismā."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Transportlīdzekļa stāvoklis (89. noteikums)",
+"description":"Prasa motociklistiem uzturēt savu motociklu braukšanas kārtībā un uzturēt kārtībā riepas, bremzes, gaismas un stūres iekārtu."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Piemērotība transportlīdzekļa vadīšanai (90.–94. noteikums)",
+"description":"Noteikumi par nogurumu, slimībām, redzi, koncentrēšanās spējām un citiem faktoriem, kas ietekmē braukšanas piemērotību."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkohols un narkotikas (95.–96. noteikums)",
+"description":"Aizliedz vadīt transportlīdzekli alkohola, narkotiku vai nelegālu medikamentu reibumā."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Pirms došanās ceļā (97. noteikums)",
+"description":"Pirms brauciena veic pārbaudes, lai pārliecinātos par transportlīdzekļa tehnisko stāvokli, redzamību, vadības ierīcēm, apģērbu un kravas nostiprināšanu."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Transportlīdzekļu vilkšana un iekraušana (98. noteikums)",
+"description":"Noteikumi par kravu nostiprināšanu, vilkšanas ierobežojumiem, piekabēm, izvirzījumiem un pārslodzes novēršanu."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Drošības jostas un bērnu drošības sistēmas (99.–102. noteikums)",
+"description":"Drošības jostu, bērnu drošības sistēmu un bērnu drošas pārvadāšanas juridiskās prasības."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Signāli (103.–106. noteikums)",
+"description":"Noteikumi par skaidru signālu došanu un citu satiksmes dalībnieku signālu interpretāciju."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Citas apstāšanās procedūras (107.–112. noteikums)",
+"description":"Norādījumi no policijas un pilnvarotām amatpersonām, luksoforu ievērošana un taures lietošana."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Apgaismojuma prasības (113.–116. noteikums)",
+"description":"Noteikumi, kas reglamentē priekšējos lukturus, gabarītlukturus, miglas lukturus un citu personu apžilbināšanas novēršanu."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Transportlīdzekļa vadība (117.–126. noteikums)",
+"description":"Droša transportlīdzekļa vadība, bremzēšana, bremzēšanas ceļš, slīdēšana, ripošana bez piepūles un ātruma ierobežojumu ievērošana."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Līnijas un joslu marķējumi uz ceļa (127.–132. noteikums)",
+"description":"Centra līniju, bīstamības līniju, dubulto balto līniju, joslu līniju un ševronu nozīme un juridiskais spēks."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Daudzjoslu brauktuves (133.–143. noteikums)",
+"description":"Joslu disciplīna, joslu maiņa, joslu šķērsošana uz augšu, autobusu joslas, veloceliņi un joslas ar lielu pasažieru skaitu."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Vispārīgi ieteikumi (144.–158. noteikums)",
+"description":"Drošas braukšanas izturēšanās, citu cilvēku cienīšana, ātruma ievērošana, prioritāte un uzmanības novēršana."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Vispārīgie noteikumi (159.–161. noteikums)",
+"description":"Novērošana, signalizācija un droša pārvietošanās pirms braukšanas uzsākšanas vai iebraukšanas satiksmē."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Apdzīšana (162.–169. noteikums)",
+"description":"Drošas apdzīšanas noteikumi, tostarp attālums līdz noteiktam attālumam, aizliegtās vietas un apdzīšanas iespējamība."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Ceļu krustojumi (170.–183. noteikums)",
+"description":"Noteikumi par tuvošanos krustojumiem, ceļa došanu, pagriezieniem, izbraukšanu no tiem un satiksmes šķērsošanu."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Apļveida krustojumi (184.–190. noteikums)",
+"description":"Noteikumi par tuvošanos, priekšroku, joslas izvēli, signalizāciju un izbraukšanu no apļveida krustojumiem."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Gājēju pārejas (191.–199. noteikums)",
+"description":"Vadītāja pienākumi pie zebrām, pelikāniem, pufīniem, tukāniem un paralēlajām krustojumiem."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Atpakaļgaita (no 200 līdz 203)",
+"description":"Noteikumi apkārtnes pārbaudei, drošai braukšanai atpakaļgaitā un pārmērīgas braukšanas atpakaļgaitā novēršanai."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Pārskats (204. noteikums)",
+"description":"Ievieš pienākumu aizsargāt ceļu satiksmes dalībniekus, kuri ir īpaši pakļauti riskam."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Gājēji (205.–210. noteikums)",
+"description":"Īpaša uzmanība jāpievērš bērniem, vecāka gadagājuma cilvēkiem, gājējiem ar invaliditāti un cilvēkiem, kas šķērso ceļu."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motociklisti un velosipēdisti (211.–213. noteikums)",
+"description":"Pastiprināta novērošana un droša distance motociklistu un velosipēdistu tuvumā, īpaši krustojumos."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Citi satiksmes dalībnieki (214.–218. noteikums)",
+"description":"Īpaša piesardzība dzīvnieku, jātnieku, iesācēju autovadītāju un nepieredzējušu ceļu satiksmes dalībnieku tuvumā."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Citi transportlīdzekļi (219.–225. noteikums)",
+"description":"Noteikumi neatliekamās palīdzības transportlīdzekļiem, lielgabarīta transportlīdzekļiem, autobusiem, tramvajiem un lēni braucošiem transportlīdzekļiem."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Pārskats (226. noteikums)",
+"description":"Prasa autovadītājiem pielāgoties nelabvēlīgiem laikapstākļiem un izmantot atbilstošu apgaismojumu, ja redzamība ir pasliktinājusies."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Mitrs laiks (227. noteikums)",
+"description":"Norādījumi par samazinātu saķeri, garāku bremzēšanas ceļu, šļakatām, akvaplanēšanu un plūdiem."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Apledojuši un sniegoti laikapstākļi (228.–231. noteikums)",
+"description":"Noteikumi sagatavošanās procesam, vienmērīgai braukšanai un vadības saglabāšanai uz ledus un sniega."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Vējains laiks (232.–233. noteikums)",
+"description":"Norādījumi par spēcīgu sānvēju un neaizsargātiem satiksmes dalībniekiem, kurus ietekmē vēja brāzmas."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Migla (234.–236. noteikums)",
+"description":"Noteikumi par redzamību, ātrumu, sekošanas distanci un miglas lukturu pareizu lietošanu."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Karsts laiks (237. noteikums)",
+"description":"Norādījumi par karstuma izraisītiem ceļa seguma apdraudējumiem un pārkaršanas novēršanu."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Vispārīgi (238. noteikums)",
+"description":"Vispārīgi stāvvietu noteikumi, tostarp ierobežojumu ievērošana un bīstamības vai šķēršļu novēršana."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Autostāvvieta (239.–247. noteikums)",
+"description":"Noteikumi par drošu stāvēšanu, apstāšanās ceļa malā, iekraušanu, invalīdu vietām un aizliegtām vietām."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Autostāvvieta naktī (248.–252. noteikums)",
+"description":"Noteikumi par stāvvietu naktī, kas attiecas uz virzienu, apgaismojumu, ātruma ierobežojumiem un atstarojošajām zīmēm."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Dekriminalizēta stāvvietu kontrole (DPE)",
+"description":"Izskaidro vietējo pašvaldību veikto stāvvietu ierobežojumu civiltiesisko izpildi."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Vispārīgi (253.–254. noteikums)",
+"description":"Vispārīgie automaģistrāļu noteikumi, tostarp aizliegtie lietotāji un automaģistrāļu noteikumu piemērošana."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Automaģistrāļu luksofori (255.–258. noteikums)",
+"description":"Automaģistrāļu luksoforu, sarkano X joslu slēgšanas un mainīgo ātruma ierobežojumu nozīme."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Uzbraukšana automaģistrālei (259. noteikums)",
+"description":"Noteikumi par nobrauktuves izmantošanu, satiksmes ātruma saskaņošanu un automaģistrāles satiksmes prioritātes došanu."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Uz automaģistrāles (260.–263. noteikums)",
+"description":"Droša braukšana pa automaģistrāli, distances ievērošana, ierobežojumi un joslu izmantošana."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Joslu disciplīna (264.–266. noteikums)",
+"description":"Nepieciešama kreisās joslas izmantošana, izņemot apdzīšanas gadījumus, un droša joslu signālu ievērošana."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Apdzīšana (267.–268. noteikums)",
+"description":"Apdzīšanas noteikumi uz automaģistrālēm, tostarp droša novērošana un aizliegums izmantot apstāšanās joslu."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Apturēta apmale (269. noteikums)",
+"description":"Ierobežo apmales izmantošanu ārkārtas situācijās vai laikos, kad zīmes to atver kā skriešanas joslu."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Apstāšanās (270.–272. noteikums)",
+"description":"Aizliedz apstāties uz automaģistrāles, izņemot ārkārtas situācijas vai kad tas ir norādīts, un paskaidro avārijas zonas lietošanu."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Nobraukšana no automaģistrāles (273.–274. noteikums)",
+"description":"Noteikumi izejas zīmju lasīšanai, signalizācijai un drošai iebraukšanai izejas joslā."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Relatīvi droša vieta (275. noteikums)",
+"description":"Izskaidro, kā noteikt un sasniegt drošāku vietu avārijas vai ārkārtas situācijas gadījumā."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Sadalījumi (276. noteikums)",
+"description":"Rīcība, kas jāveic, ja rodas avārija uz automaģistrāles, tostarp droša transportlīdzekļa atstāšana un palīdzības izsaukšana."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Papildu noteikumi automaģistrālēm (277.–279. noteikums)",
+"description":"Papildu norādījumi par avārijas situācijām un palīdzību, tostarp par atgriešanos satiksmē un invalīdiem paredzētiem transportlīdzekļiem."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Traucējumi (280. noteikums)",
+"description":"Rīcība, kas jāveic, saskaroties ar ceļa šķērsli vai to radot."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Incidenti (281.–283. noteikums)",
+"description":"Drošības pasākumi negadījumu gadījumos, avārijas koridoros un neatliekamās palīdzības personāla norādījumu ievērošana."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Ar bīstamām kravām saistīti incidenti (284.–285. noteikums)",
+"description":"Piesardzības pasākumi un ziņošanas prasības, ja negadījumā ir iesaistīti bīstami materiāli."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Dokumentācija (286.–287. noteikums)",
+"description":"Pienākumi apstāties, apmainīties ar informāciju un ziņot par sadursmēm policijai, kad tas nepieciešams."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Ceļu darbi (288. noteikums)",
+"description":"Ceļa remontdarbu laikā nepieciešama īpaša uzmanība, samazināts ātrums un pagaidu zīmju un joslu regulēšanas ievērošana."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Papildu noteikumi ātrgaitas ceļiem (289.–290. noteikums)",
+"description":"Papildu drošības noteikumi avāriju un negadījumu gadījumā uz ātrgaitas ceļiem."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Dzelzceļa pārbrauktuves (291.–299. noteikums)",
+"description":"Noteikumi par tuvošanos dzelzceļa pārbrauktuvēm, to šķērsošanu un reaģēšanu uz luksoforiem, barjerām un ārkārtas situācijām."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Tramvaji (300.–307. noteikums)",
+"description":"Noteikumi par ceļu koplietošanu ar tramvajiem un sliežu ceļu, platformu un rezervētu tramvaja maršrutu apiešanu."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Luksofora signāli. Mirgojošas sarkanās gaismas. Joslu kontroles signāli",
+"description":"Standarta luksoforu, mirgojošu sarkanu STOP signālu un joslu regulēšanas signālu nozīmes."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Automaģistrāļu luksofori",
+"description":"Automaģistrāļu brīdinājuma signālu, mainīgo ierobežojumu, joslu slēgšanas un norādījumu nozīmes."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Virzienrādītāju signāli. Bremzēšanas gaismu signāli. Atpakaļgaitas gaismu signāli. Rokas signāli. Avārijas gaismas.",
+"description":"Izskaidro transportlīdzekļa gaismu un roku signālus, ko izmanto, lai paziņotu par paredzētām kustībām un bīstamību."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Policijas darbinieki. Rokas signāli satiksmes regulētājiem. Autovadītāju un transportlīdzekļu standartu aģentūras darbinieki un satiksmes inspektori. Skolu šķērsošanas patruļas",
+"description":"Policijas, pilnvarotu satiksmes darbinieku un skolu šķērsošanas patruļu signāli un norādījumi."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Zīmes, kas dod rīkojumus",
+"description":"Obligātās un aizliedzošās ceļa zīmes, kuras ceļu satiksmes dalībniekiem ir jāievēro saskaņā ar likumu."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Brīdinājuma zīmes",
+"description":"Zīmes, kas brīdina par bīstamību, mainīgiem ceļa apstākļiem un neaizsargātiem ceļu satiksmes dalībniekiem priekšā."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Norādes zīmes",
+"description":"Zīmes, kas norāda maršrutus, galamērķus, krustojumu izkārtojumu, ceļu numurus un apvedceļus."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Informācijas zīmes",
+"description":"Taisnstūrveida zīmes, kas sniedz informāciju par autostāvvietu, joslu, automaģistrāli, maršrutu un iestādēm."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Ceļa darbu zīmes",
+"description":"Pagaidu zīmes, kas brīdina par ceļa darbiem, bīstamību, joslu slēgšanu, ātruma ierobežojumiem un pretplūsmas sistēmām."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Pāri brauktuvei. Gar brauktuvi. Gar brauktuves malu. Uz apmales vai brauktuves malā. Citi ceļa marķējumi",
+"description":"Apstāšanās, ceļa došanas, joslas, gaidīšanas, iekraušanas, sarkanā maršruta, boksa krustojuma un citu ceļa marķējumu nozīme."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Lielgabarīta kravas transportlīdzekļu aizmugurējie marķējumi. Avārijas brīdinājuma plāksnes. Izvirzījumu marķieri. Citi",
+"description":"Transportlīdzekļu marķējumi, kas identificē smagos transportlīdzekļus, bīstamās kravas, izvirzītas kravas un skolas autobusus."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Tu un tavs velosipēds",
+"description":"Velosipēda izvēle, apkope, bremzes, apgaismojums, atstarotāji, riepu stāvoklis un apmācība."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Motocikla vadītāja apliecības prasības. Motociklu un motociklu vadītāju apliecību kategorijas.",
+"description":"KBT, mācību ierobežojumi, testi, pakāpeniska piekļuve un AM, A1, A2 un A kategorijas vadītāja apliecības."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Dokumenti. Mācību braucēji",
+"description":"Vadītāja apliecības, tehniskā apskate, apdrošināšana, reģistrācija, transportlīdzekļa nodoklis, SORN un mācību braukšanas prasības."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Ceļu satiksmes likums. Likumi un noteikumi pirms 1988. gada. Likumi un noteikumi no 1988. gada.",
+"description":"Apvienotās Karalistes ceļu satiksmes tiesību darbības joma un Ceļu kodeksā minēto galveno likumu un noteikumu saīsinājumi."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Sodi",
+"description":"Maksimālie sodi, soda punkti, diskvalifikācija, jauna vadītāja apliecības atņemšana, atkārtota pārbaude un citas pārkāpuma sekas."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Transportlīdzekļu apkope. Transportlīdzekļu drošība",
+"description":"Ceļa satiksmes drošība, brīdinājuma signāllampas, riepas, šķidrumi, degvielas drošība, transportlīdzekļu aizdegšanās un zādzību novēršana."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Tikt galā ar briesmām. 2. Lūdziet palīdzību. 3. Palīdziet iesaistītajiem. 4. Sniedziet neatliekamo medicīnisko palīdzību.",
+"description":"Drošība avārijas vietā, neatliekamās palīdzības izsaukumi, cietušo aprūpe, DRABC, sirds un plaušu atdzīvināšana, asiņošanas un apdegumu ārstēšana."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Drošības kodekss. Jauno autovadītāju likums. Papildu apmācība",
+"description":"Riska samazināšana jaunajiem autovadītājiem, sešu punktu vadītāja apliecības anulēšana un papildu apmācības, piemēram, Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Metriskās konvertēšanas. Noderīgas tīmekļa vietnes. Papildu lasāmviela",
+"description":"Jūdžu pārrēķināšana kilometros un oficiāli resursi par ceļu satiksmes drošību, braukšanu, velosipēdu pārvadāšanu, vilkšanu un transportlīdzekļu informāciju."
+}
+]

@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Kelių eismo taisyklių formuluotė. Taisyklių žinojimas ir taikymas",
+"description":"Paaiškina, kaip vartojami žodžiai „PRIVALO“, „NEGALIA“, „turėtų“ ir „neturėtų“, ir pabrėžiama pareiga žinoti bei taikyti Kelių eismo taisykles."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Savaeigės transporto priemonės",
+"description":"Paaiškina teisinę naudotojų atsakomybę, kai savaeigė transporto priemonė vairuoja pati save arba ne."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Eismo dalyvių hierarchija",
+"description":"Paaiškina, kad eismo dalyviai, galintys padaryti didžiausią žalą, turi didžiausią atsakomybę sumažinti pavojų."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Bendrosios gairės (1–6 taisyklės)",
+"description":"Bendros pėsčiųjų saugos gairės, įskaitant šaligatvius, matomumą ir bendrus maršrutus."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Kelio perėjimas (7–17 taisyklės)",
+"description":"Žaliojo kryžiaus kodeksas ir taisyklės, kaip pasirinkti saugią vietą ir saugiai kirsti kelius."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Perėjos (18–30 taisyklės)",
+"description":"Pėsčiųjų perėjos, kuriomis vaikščioja zebrai, pelikanai, puffinai, tukanai ir raiteliai, taisyklės."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Situacijos, reikalaujančios ypatingo dėmesio (31–35 taisyklės)",
+"description":"Papildomos atsargumo priemonės pažeidžiamiems pėstiesiems, greitosios pagalbos automobiliams, autobusams ir geležinkelio pervažoms."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Elektriniai neįgaliųjų vežimėliai ir paspirtukai mobiliesiems (36–37 taisyklės)",
+"description":"Elektrinių neįgaliųjų vežimėlių ir paspirtukų naudojimo šaligatviais ir keliais taisyklės."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Ant šaligatvių (38–40 taisyklės)",
+"description":"Judumo paspirtukų ir elektrinių neįgaliųjų vežimėlių naudojimo šaligatviais ir pėsčiųjų zonomis taisyklės."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Kelyje (41–46 taisyklės)",
+"description":"Kelių naudojimo, apšvietimo, matomumo ir saugos taisyklės elektriniams neįgaliųjų vežimėliams ir mobilumo paspirtukams."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Arklių traukiamos transporto priemonės (47–48 taisyklės)",
+"description":"Arklių traukiamų transporto priemonių vairuotojų saugos, apšvietimo, maršruto ir įrangos nurodymai."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Raiteliai (49–55 taisyklės)",
+"description":"Saugaus jojimo žirgais taisyklės, įskaitant aprangą, įrangą, kelio išdėstymą ir signalus."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Kiti gyvūnai (56–58 taisyklės)",
+"description":"Šunų, gyvūnų transporto priemonėse ir gyvulių vežimo keliais taisyklės."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Apžvalga (59–72 taisyklės)",
+"description":"Pagrindinės dviračių sporto taisyklės, apimančios aprangą, įrangą, apšvietimą, kelio padėtį, dviračių takus ir bendrus maršrutus."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Kelių sankryžos (73–77 taisyklės)",
+"description":"Dviratininkų artėjimo prie sankryžų ir jų įveikimo taisyklės, įskaitant padėties nustatymą ir pirmumo teisę."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Žiedinės sankryžos (78–80 taisyklės)",
+"description":"Dviratininkų naudojimo žiedinėse sankryžose taisyklės, įskaitant eismo juostų išdėstymą, signalizavimą ir saugesnes alternatyvas."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Kelio perėjimas (81–82 taisyklės)",
+"description":"Dviratininkų, naudojančių dviračių, tukanų ir raitelių perėjas, taisyklės."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Bendrosios nuostatos (83–88 taisyklės)",
+"description":"Bendrosios motociklų taisyklės, apimančios vairuotojo pažymėjimus, šalmus, akių apsaugą, keleivius ir matomumą dienos metu."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Transporto priemonės būklė (89 taisyklė)",
+"description":"Reikalaujama, kad motociklininkai palaikytų savo motociklą tinkamos būklės kelyje ir prižiūrėtų padangas, stabdžius, žibintus ir vairo mechanizmą."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Tinkamumas vairuoti (90–94 taisyklės)",
+"description":"Taisyklės dėl nuovargio, ligos, regėjimo, susikaupimo ir kitų veiksnių, turinčių įtakos vairavimo tinkamumui."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkoholis ir narkotikai (95–96 taisyklės)",
+"description":"Draudžiama vairuoti apsvaigus nuo alkoholio, nelegalių narkotikų ar vaistų."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Prieš išvykstant (97 taisyklė)",
+"description":"Prieš kelionę atliekami transporto priemonės tinkamumo važiuoti keliais, matomumo, valdymo įtaisų, drabužių ir krovinio tvirtinimo patikrinimai."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Transporto priemonių vilkimas ir pakrovimas (98 taisyklė)",
+"description":"Krovinių tvirtinimo, vilkimo apribojimų, priekabų, išsikišimų ir perkrovos vengimo taisyklės."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Saugos diržai ir vaikų apsaugos priemonės (99–102 taisyklės)",
+"description":"Teisiniai reikalavimai saugos diržams, vaikų apsaugos priemonėms ir saugiam vaikų vežimui."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Signalai (103–106 taisyklės)",
+"description":"Aiškių signalų davimo ir kitų eismo dalyvių signalų interpretavimo taisyklės."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Kitos stabdymo procedūros (107–112 taisyklės)",
+"description":"Policijos ir įgaliotų pareigūnų nurodymai, šviesoforo signalo laikymasis ir signalo naudojimas."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Apšvietimo reikalavimai (113–116 taisyklės)",
+"description":"Taisyklės, reglamentuojančios priekinius žibintus, gabaritinius žibintus, rūko žibintus ir kaip išvengti kitų žmonių akinimo."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Transporto priemonės valdymas (117–126 taisyklės)",
+"description":"Saugus transporto priemonės valdymas, stabdymas, stabdymo kelias, slydimas, važiavimas išriedėjimu ir greičio apribojimų laikymasis."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Kelio linijos ir eismo juostų ženklinimas (127–132 taisyklės)",
+"description":"Ašinių linijų, pavojingų linijų, dvigubų baltų linijų, eismo juostų linijų ir ševronų reikšmė ir teisinis poveikis."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Daugiajuostės važiuojamosios dalys (133–143 taisyklės)",
+"description":"Eismo juostų drausmė, persirikiavimas, įvažiavimas į eismo juostas, autobusų juostos, dviračių juostos ir eismo juostos, skirtos dideliam žmonių skaičiui."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Bendrieji patarimai (144–158 taisyklės)",
+"description":"Bendras saugaus vairavimo elgesys, pagarba kitiems, greitis, pirmenybės laikymasis ir dėmesio atitraukimo vengimas."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Bendrosios taisyklės (159–161 taisyklės)",
+"description":"Stebėjimas, signalizavimas ir saugus judėjimas prieš pajudant iš vietos arba įvažiuojant į eismą."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Lenkimas (162–169 taisyklės)",
+"description":"Saugaus lenkimo taisyklės, įskaitant ribotą atstumą, draudžiamas vietas ir lenkimo galimybę."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Kelių sankryžos (170–183 taisyklės)",
+"description":"Taisyklės, kaip priartėti prie sankryžų, duoti kelią, sukti, išvažiuoti iš jų ir kirsti eismą."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Žiedinės sankryžos (184–190 taisyklės)",
+"description":"Privažiavimo, pirmumo, eismo juostos pasirinkimo, signalizavimo ir išvažiavimo iš žiedinių sankryžų taisyklės."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Pėsčiųjų perėjos (191–199 taisyklės)",
+"description":"Vairuotojo pareigos zebrų, pelikanų, pufnų, tukanų ir lygiagrečių perėjų vietose."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Atbulinė eiga (nuo 200 iki 203)",
+"description":"Taisyklės, kaip patikrinti aplinką, saugiai važiuoti atbuline eiga ir vengti per didelio važiavimo atbuline eiga."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Apžvalga (204 taisyklė)",
+"description":"Įvedama pareiga apsaugoti eismo dalyvius, kuriems gresia ypač didelis pavojus."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Pėstieji (205–210 taisyklės)",
+"description":"Būkite ypač atsargūs, kai aplink vaikus, vyresnio amžiaus žmones, neįgalius pėsčiuosius ir gatvę kertantys žmonės."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motociklininkai ir dviratininkai (211–213 taisyklės)",
+"description":"Papildomas stebėjimas ir saugus atstumas aplink motociklininkus ir dviratininkus, ypač sankryžose."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Kiti eismo dalyviai (214–218 taisyklės)",
+"description":"Būkite ypač atsargūs šalia gyvūnų, raitelių, besimokančių vairuotojų ir nepatyrusių eismo dalyvių."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Kitos transporto priemonės (219–225 taisyklės)",
+"description":"Taisyklės greitosios pagalbos automobiliams, didelėms transporto priemonėms, autobusams, tramvajams ir lėtai judančioms transporto priemonėms."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Apžvalga (226 taisyklė)",
+"description":"Reikalaujama, kad vairuotojai prisitaikytų prie nepalankių oro sąlygų ir naudotų tinkamas šviesas, kai matomumas prastėja."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Šlapias oras (227 taisyklė)",
+"description":"Nurodymai dėl sumažėjusio sukibimo, ilgesnio stabdymo kelio, taškymosi, akvaplaningo ir potvynio vandens."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Apledėjęs ir snieguotas oras (228–231 taisyklės)",
+"description":"Pasiruošimo, sklandaus vairavimo ir valdymo išlaikymo ant ledo ir sniego taisyklės."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Vėjuotas oras (232–233 taisyklės)",
+"description":"Gairės dėl stipraus šoninio vėjo ir pažeidžiamų eismo dalyvių, kuriems įtakos turi gūsiai."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Rūkas (234–236 taisyklės)",
+"description":"Matomumo, greičio, atstumo iki vairuotojo ir tinkamo rūko žibintų naudojimo taisyklės."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Karštas oras (237 taisyklė)",
+"description":"Rekomendacijos dėl su karščiu susijusių kelio dangos pavojų ir perkaitimo vengimo."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Bendroji dalis (238 taisyklė)",
+"description":"Bendrosios parkavimo taisyklės, įskaitant apribojimų laikymąsi ir pavojaus ar kliūčių vengimą."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Parkavimas (239–247 taisyklės)",
+"description":"Saugaus parkavimo, sustojimo pakelėse, pakrovimo, neįgaliesiems skirtų vietų ir draudžiamų vietų taisyklės."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Parkavimas naktį (248–252 taisyklės)",
+"description":"Naktinio parkavimo taisyklės, apimančios kryptį, apšvietimą, greičio apribojimus ir šviesą atspindinčias žymes."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Dekriminalizuota parkavimo kontrolė (DPE)",
+"description":"Paaiškina, kaip vietos valdžios institucijos vykdo civilinį parkavimo apribojimų vykdymą."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Bendrosios nuostatos (253–254 taisyklės)",
+"description":"Bendrosios greitkelių taisyklės, įskaitant draudžiamus eismo dalyvius ir greitkelių taisyklių taikymą."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Automagistralės šviesoforai (255–258 taisyklės)",
+"description":"Automagistralės šviesoforų, raudonų X juostų uždarymo ir kintamų greičio apribojimų reikšmės."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Įvažiavimas į automagistralę (259 taisyklė)",
+"description":"Taisyklės, kaip naudotis nuovaža, derinti eismo greitį ir teikti pirmenybę greitkelio eismui."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Automagistralėje (260–263 taisyklės)",
+"description":"Saugus važiavimas greitkeliu, atstumų laikymasis, apribojimai ir eismo juostų naudojimas."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Drausmė už eismo juostų ribų (264–266 taisyklės)",
+"description":"Reikalaujama naudoti kairę eismo juostą, nebent lenkiama, ir saugiai laikytis eismo juostų signalų."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Lenkimas (267–268 taisyklės)",
+"description":"Automagistralės lenkimo taisyklės, įskaitant saugų stebėjimą ir draudimą važiuoti avarine juosta."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Kelkraštis (269 taisyklė)",
+"description":"Apriboja avarinių situacijų arba eismo ženklų naudojimą kaip bėgių juostą."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Sustojimas (270–272 taisyklės)",
+"description":"Draudžiama sustoti automagistralėje, išskyrus avarinius atvejus arba kai tam nurodoma, ir paaiškinama, kaip naudoti avarinę zoną."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Išvažiavimas iš automagistralės (273–274 taisyklės)",
+"description":"Išvažiavimo ženklų skaitymo, signalizavimo ir saugaus įvažiavimo į išvažiavimo juostą taisyklės."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Santykinai saugi vieta (275 taisyklė)",
+"description":"Paaiškina, kaip nustatyti ir pasiekti saugesnę vietą gedimo ar avarinės situacijos metu."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Gedimai (276 taisyklė)",
+"description":"Veiksmai, kurių reikia imtis gedimo atveju greitkelyje, įskaitant saugų transporto priemonės palikimą ir pagalbos iškvietimą."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Papildomos greitkelių taisyklės (277–279 taisyklės)",
+"description":"Papildomi nurodymai gedimų ir avarinių situacijų atvejais, įskaitant grįžimą į eismą ir neįgalias transporto priemones."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Kliūtys (280 taisyklė)",
+"description":"Veiksmai, kurių reikia imtis susidūrus su kelio kliūtimi arba ją sukėlus."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Incidentai (281–283 taisyklės)",
+"description":"Saugos priemonės incidentų metu, avariniai koridoriai ir gelbėjimo personalo nurodymų laikymasis."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Su pavojingais kroviniais susiję incidentai (284–285 taisyklės)",
+"description":"Atsargumo priemonės ir pranešimo reikalavimai, kai incidento metu susiduriama su pavojingomis medžiagomis."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Dokumentacija (286–287 taisyklės)",
+"description":"Pareiga sustoti, keistis informacija ir pranešti apie susidūrimus policijai, kai to reikia."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Kelio darbai (288 taisyklė)",
+"description":"Reikalingas ypatingas atidumas, sumažintas greitis ir laikinų ženklų bei eismo juostų reguliavimo reikalavimų laikymasis kelio darbų metu."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Papildomos greitųjų kelių taisyklės (289–290 taisyklės)",
+"description":"Papildomos saugos taisyklės gedimų ir incidentų atveju greitkeliuose."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Pervažos (291–299 taisyklės)",
+"description":"Artėjimo prie geležinkelio pervažų, pervažų kirtimo ir reagavimo į šviesoforus, užtvaras ir avarines situacijas taisyklės."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Tramvajai (300–307 taisyklės)",
+"description":"Taisyklės, kaip dalytis keliais su tramvajais ir vengti bėgių, platformų bei rezervuotų tramvajų maršrutų."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Šviesoforo signalai. Mirksintys raudoni šviesoforai. Eismo juostų valdymo signalai",
+"description":"Standartinių šviesoforų, mirksinčių raudonų STOP signalų ir eismo juostų reguliavimo signalų reikšmės."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Automagistralės šviesoforai",
+"description":"Automagistralės įspėjamųjų signalų, kintamų apribojimų, eismo juostų uždarymo ir nurodymų reikšmės."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Posūkių rodiklių signalai. Stabdžių žibintų signalai. Atbulinės eigos žibintų signalai. Svirčių signalai. Avariniai žibintai",
+"description":"Paaiškina transporto priemonės šviesų ir rankų signalus, naudojamus numatytiems judesiams ir pavojams pranešti."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Policijos pareigūnai. Rankų signalai eismą reguliuojantiems asmenims. Vairuotojų ir transporto priemonių standartų agentūros pareigūnai ir eismo priežiūros pareigūnai. Mokyklų perėjų patruliai",
+"description":"Policijos, įgaliotų eismo darbuotojų ir mokyklų perėjų patrulių duodami signalai ir nurodymai."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Ženklai, duodantys įsakymus",
+"description":"Privalomųjų ir draudžiamųjų kelio ženklų sąrašas, kurio eismo dalyviai privalo laikytis pagal įstatymą."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Įspėjamieji ženklai",
+"description":"Ženklai, įspėjantys apie pavojus, besikeičiančias kelio sąlygas ir pažeidžiamus eismo dalyvius priekyje."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Krypties ženklai",
+"description":"Ženklai, rodantys maršrutus, paskirties vietas, sankryžų išdėstymą, kelių numerius ir nukreipimus."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Informaciniai ženklai",
+"description":"Stačiakampiai ženklai, rodantys informaciją apie automobilių stovėjimo aikšteles, eismo juostas, greitkelius, maršrutus ir įstaigas."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Kelio darbų ženklai",
+"description":"Laikini ženklai, įspėjantys apie kelio darbus, pavojus, eismo juostų uždarymą, greičio apribojimus ir priešpriešinio eismo sistemas."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Skersai važiuojamosios dalies. Palei važiuojamąją dalį. Palei važiuojamosios dalies kraštą. Ant kelkraščio arba važiuojamosios dalies krašte. Kiti kelio ženklinimai",
+"description":"Žodžių „sustoti“, „duoti kelią“, „juostė“, „laukimas“, „pakrovimas“, „raudonas maršrutas“, „draudinių aikštelių sankryža“ ir kitų kelio ženklinimų reikšmės."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Didelės apimties krovininių transporto priemonių galiniai žymėjimai. Įspėjamieji ženklai. Išsikišę žymekliai. Kita",
+"description":"Transporto priemonių ženklinimas, identifikuojantis sunkiasvores transporto priemones, pavojingus krovinius, išsikišusius krovinius ir mokyklinius autobusus."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Tu ir tavo dviratis",
+"description":"Dviračio pasirinkimas, priežiūra, stabdžiai, apšvietimas, atšvaitai, padangų būklė ir mokymai."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Motociklo vairuotojo pažymėjimo reikalavimai. Mopedų ir motociklų vairuotojo pažymėjimų kategorijos.",
+"description":"KMT, mokinio vairavimo apribojimai, testai, laipsniška prieiga ir AM, A1, A2 bei A kategorijos vairuotojo pažymėjimai."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Dokumentai. Mokiniai vairuotojai",
+"description":"Vairuotojo pažymėjimai, techninės apžiūros patikrinimas, draudimas, registracija, transporto priemonės mokesčiai, SORN ir besimokančiojo vairavimo reikalavimai."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Kelių eismo teisė. Įstatymai ir reglamentai iki 1988 m. Įstatymai ir reglamentai nuo 1988 m.",
+"description":"JK kelių eismo teisės taikymo sritis ir pagrindinių Kelių eismo kodekse nurodytų įstatymų bei reglamentų santrumpos."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Baudos",
+"description":"Maksimalios baudos, baudos taškai, diskvalifikacija, naujo vairuotojo pažymėjimo atėmimas, pakartotinis egzaminavimas ir kitos nusižengimo pasekmės."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Transporto priemonių priežiūra. Transporto priemonių saugumas",
+"description":"Kelių transporto priemonių tinkamumas važiuoti, įspėjamieji žibintai, padangos, skysčiai, degalų sauga, transporto priemonių gaisrų ir vagysčių prevencija."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Susidoroti su pavojumi. 2. Kreiptis pagalbos. 3. Padėti nukentėjusiesiems. 4. Suteikti skubią pagalbą.",
+"description":"Sauga avarijos vietoje, skubios pagalbos iškvietimai, nukentėjusiųjų priežiūra, DRABC (kvėpavimo aparato keitimas be stacionaro), širdies ir plaučių gaivinimas, kraujavimo ir nudegimų gydymas."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Saugos kodeksas. Naujasis vairuotojų įstatymas. Tolesnis mokymas.",
+"description":"Naujų vairuotojų rizikos mažinimas, šešių taškų vairuotojo pažymėjimo atėmimas ir neprivalomi tolesni mokymai, pvz., „Pass Plus“."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Metrinės konversijos. Naudingos svetainės. Papildoma literatūra.",
+"description":"Mylių perskaičiavimas į kilometrus ir oficialūs kelių eismo saugumo, vairavimo, transporto priemonių vilkimo ir transporto priemonių informacijos ištekliai."
+}
+]
