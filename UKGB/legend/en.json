@@ -1,0 +1,554 @@
+[
+  {
+    "id": 1,
+    "englishName": "Legend",
+    "category": "Wording of The Highway Code. Knowing and applying the rules",
+    "description": "Explains how the words MUST, MUST NOT, should and should not are used, and the responsibility to know and apply the Highway Code."
+  },
+  {
+    "id": 2,
+    "englishName": "Legend",
+    "category": "Self-driving vehicles",
+    "description": "Explains the legal responsibilities of users when a self-driving vehicle is or is not driving itself."
+  },
+  {
+    "id": 3,
+    "englishName": "Legend",
+    "category": "Hierarchy of Road Users",
+    "description": "Explains that road users capable of causing the greatest harm have the greatest responsibility to reduce danger."
+  },
+  {
+    "id": 4,
+    "englishName": "Legend",
+    "category": "General guidance (rules 1 to 6)",
+    "description": "General safety guidance for pedestrians, including pavements, visibility and shared routes."
+  },
+  {
+    "id": 5,
+    "englishName": "Legend",
+    "category": "Crossing the road (rules 7 to 17)",
+    "description": "The Green Cross Code and rules for choosing a safe place and crossing roads safely."
+  },
+  {
+    "id": 6,
+    "englishName": "Legend",
+    "category": "Crossings (rules 18 to 30)",
+    "description": "Rules for pedestrians using zebra, pelican, puffin, toucan and equestrian crossings."
+  },
+  {
+    "id": 7,
+    "englishName": "Legend",
+    "category": "Situations needing extra care (rules 31 to 35)",
+    "description": "Extra precautions for vulnerable pedestrians, emergency vehicles, buses and railway crossings."
+  },
+  {
+    "id": 8,
+    "englishName": "Legend",
+    "category": "Powered wheelchairs and mobility scooters (rules 36 to 37)",
+    "description": "Rules for using powered wheelchairs and mobility scooters on pavements and roads."
+  },
+  {
+    "id": 9,
+    "englishName": "Legend",
+    "category": "On pavements (rules 38 to 40)",
+    "description": "Rules for mobility scooters and powered wheelchairs using pavements and pedestrian areas."
+  },
+  {
+    "id": 10,
+    "englishName": "Legend",
+    "category": "On the road (rules 41 to 46)",
+    "description": "Road-use, lighting, visibility and safety rules for powered wheelchairs and mobility scooters."
+  },
+  {
+    "id": 11,
+    "englishName": "Legend",
+    "category": "Horse-drawn vehicles (rules 47 to 48)",
+    "description": "Safety, lighting, route and equipment guidance for drivers of horse-drawn vehicles."
+  },
+  {
+    "id": 12,
+    "englishName": "Legend",
+    "category": "Horse riders (rules 49 to 55)",
+    "description": "Rules for riding horses safely, including clothing, equipment, road positioning and signals."
+  },
+  {
+    "id": 13,
+    "englishName": "Legend",
+    "category": "Other animals (rules 56 to 58)",
+    "description": "Rules for dogs, animals in vehicles and moving livestock along roads."
+  },
+  {
+    "id": 14,
+    "englishName": "Legend",
+    "category": "Overview (rules 59 to 72)",
+    "description": "Core cycling rules covering clothing, equipment, lighting, road position, cycle lanes and shared routes."
+  },
+  {
+    "id": 15,
+    "englishName": "Legend",
+    "category": "Road junctions (rules 73 to 77)",
+    "description": "Rules for cyclists approaching and negotiating junctions, including positioning and priority."
+  },
+  {
+    "id": 16,
+    "englishName": "Legend",
+    "category": "Roundabouts (rules 78 to 80)",
+    "description": "Rules for cyclists using roundabouts, including lane position, signalling and safer alternatives."
+  },
+  {
+    "id": 17,
+    "englishName": "Legend",
+    "category": "Crossing the road (rules 81 to 82)",
+    "description": "Rules for cyclists using cycle-only, toucan and equestrian crossings."
+  },
+  {
+    "id": 18,
+    "englishName": "Legend",
+    "category": "General (rules 83 to 88)",
+    "description": "General motorcycle rules covering licensing, helmets, eye protection, passengers and daylight visibility."
+  },
+  {
+    "id": 19,
+    "englishName": "Legend",
+    "category": "Vehicle condition (rule 89)",
+    "description": "Requires motorcyclists to keep their motorcycle roadworthy and maintain tyres, brakes, lights and steering."
+  },
+  {
+    "id": 20,
+    "englishName": "Legend",
+    "category": "Fitness to drive (rules 90 to 94)",
+    "description": "Rules on fatigue, illness, eyesight, concentration and other factors affecting driving fitness."
+  },
+  {
+    "id": 21,
+    "englishName": "Legend",
+    "category": "Alcohol and drugs (rules 95 to 96)",
+    "description": "Prohibits driving while impaired by alcohol, illegal drugs or medicines."
+  },
+  {
+    "id": 22,
+    "englishName": "Legend",
+    "category": "Before setting off (rule 97)",
+    "description": "Pre-journey checks for vehicle roadworthiness, visibility, controls, clothing and secure loads."
+  },
+  {
+    "id": 23,
+    "englishName": "Legend",
+    "category": "Vehicle towing and loading (rule 98)",
+    "description": "Rules for secure loads, towing limits, trailers, projections and avoiding overloading."
+  },
+  {
+    "id": 24,
+    "englishName": "Legend",
+    "category": "Seat belts and child restraints (rules 99 to 102)",
+    "description": "Legal requirements for seat belts, child restraints and the safe carriage of children."
+  },
+  {
+    "id": 25,
+    "englishName": "Legend",
+    "category": "Signals (rules 103 to 106)",
+    "description": "Rules for giving clear signals and interpreting signals from other road users."
+  },
+  {
+    "id": 26,
+    "englishName": "Legend",
+    "category": "Other stopping procedures (rules 107 to 112)",
+    "description": "Directions from police and authorised officers, traffic-light compliance and use of the horn."
+  },
+  {
+    "id": 27,
+    "englishName": "Legend",
+    "category": "Lighting requirements (rules 113 to 116)",
+    "description": "Rules governing headlights, sidelights, fog lights and avoiding dazzling others."
+  },
+  {
+    "id": 28,
+    "englishName": "Legend",
+    "category": "Control of the vehicle (rules 117 to 126)",
+    "description": "Safe vehicle control, braking, stopping distances, skids, coasting and speed-limit compliance."
+  },
+  {
+    "id": 29,
+    "englishName": "Legend",
+    "category": "Lines and lane markings on the road (rules 127 to 132)",
+    "description": "Meaning and legal effect of centre lines, hazard lines, double white lines, lane lines and chevrons."
+  },
+  {
+    "id": 30,
+    "englishName": "Legend",
+    "category": "Multi-lane carriageways (rules 133 to 143)",
+    "description": "Lane discipline, changing lanes, climbing lanes, bus lanes, cycle lanes and high-occupancy lanes."
+  },
+  {
+    "id": 31,
+    "englishName": "Legend",
+    "category": "General advice (rules 144 to 158)",
+    "description": "General safe-driving conduct, consideration for others, speed, priority and avoiding distractions."
+  },
+  {
+    "id": 32,
+    "englishName": "Legend",
+    "category": "General rules (rules 159 to 161)",
+    "description": "Observation, signalling and safe movement before pulling away or entering traffic."
+  },
+  {
+    "id": 33,
+    "englishName": "Legend",
+    "category": "Overtaking (rules 162 to 169)",
+    "description": "Rules for overtaking safely, including clearance, prohibited locations and being overtaken."
+  },
+  {
+    "id": 34,
+    "englishName": "Legend",
+    "category": "Road junctions (rules 170 to 183)",
+    "description": "Rules for approaching junctions, giving way, turning, emerging and crossing traffic."
+  },
+  {
+    "id": 35,
+    "englishName": "Legend",
+    "category": "Roundabouts (rules 184 to 190)",
+    "description": "Rules for approach, priority, lane selection, signalling and leaving roundabouts."
+  },
+  {
+    "id": 36,
+    "englishName": "Legend",
+    "category": "Pedestrian crossings (rules 191 to 199)",
+    "description": "Driver responsibilities at zebra, pelican, puffin, toucan and parallel crossings."
+  },
+  {
+    "id": 37,
+    "englishName": "Legend",
+    "category": "Reversing (200 to 203)",
+    "description": "Rules for checking surroundings, reversing safely and avoiding excessive reversing."
+  },
+  {
+    "id": 38,
+    "englishName": "Legend",
+    "category": "Overview (rule 204)",
+    "description": "Introduces the duty to protect road users who are particularly at risk."
+  },
+  {
+    "id": 39,
+    "englishName": "Legend",
+    "category": "Pedestrians (rules 205 to 210)",
+    "description": "Extra care around children, older people, disabled pedestrians and people crossing roads."
+  },
+  {
+    "id": 40,
+    "englishName": "Legend",
+    "category": "Motorcyclists and cyclists (rules 211 to 213)",
+    "description": "Extra observation and safe clearance around motorcyclists and cyclists, especially at junctions."
+  },
+  {
+    "id": 41,
+    "englishName": "Legend",
+    "category": "Other road users (rules 214 to 218)",
+    "description": "Extra care around animals, horse riders, learner drivers and inexperienced road users."
+  },
+  {
+    "id": 42,
+    "englishName": "Legend",
+    "category": "Other vehicles (rules 219 to 225)",
+    "description": "Rules for emergency vehicles, large vehicles, buses, trams and slow-moving vehicles."
+  },
+  {
+    "id": 43,
+    "englishName": "Legend",
+    "category": "Overview (rule 226)",
+    "description": "Requires drivers to adapt to adverse weather and use appropriate lights when visibility is reduced."
+  },
+  {
+    "id": 44,
+    "englishName": "Legend",
+    "category": "Wet weather (rule 227)",
+    "description": "Guidance on reduced grip, longer stopping distances, spray, aquaplaning and floodwater."
+  },
+  {
+    "id": 45,
+    "englishName": "Legend",
+    "category": "Icy and snowy weather (rules 228 to 231)",
+    "description": "Rules for preparing, driving smoothly and maintaining control in ice and snow."
+  },
+  {
+    "id": 46,
+    "englishName": "Legend",
+    "category": "Windy weather (rules 232 to 233)",
+    "description": "Guidance on strong crosswinds and vulnerable road users affected by gusts."
+  },
+  {
+    "id": 47,
+    "englishName": "Legend",
+    "category": "Fog (rules 234 to 236)",
+    "description": "Rules on visibility, speed, following distance and correct use of fog lights."
+  },
+  {
+    "id": 48,
+    "englishName": "Legend",
+    "category": "Hot weather (rule 237)",
+    "description": "Guidance on heat-related road-surface hazards and avoiding overheating."
+  },
+  {
+    "id": 49,
+    "englishName": "Legend",
+    "category": "General (rule 238)",
+    "description": "General parking rules, including compliance with restrictions and avoiding danger or obstruction."
+  },
+  {
+    "id": 50,
+    "englishName": "Legend",
+    "category": "Parking (rules 239 to 247)",
+    "description": "Rules for safe parking, roadside stopping, loading, disabled spaces and prohibited locations."
+  },
+  {
+    "id": 51,
+    "englishName": "Legend",
+    "category": "Parking at night (rules 248 to 252)",
+    "description": "Night-parking rules covering direction, lighting, speed limits and reflective markings."
+  },
+  {
+    "id": 52,
+    "englishName": "Legend",
+    "category": "Decriminalised Parking Enforcement (DPE)",
+    "description": "Explains civil enforcement of parking restrictions by local authorities."
+  },
+  {
+    "id": 53,
+    "englishName": "Legend",
+    "category": "General (rules 253 to 254)",
+    "description": "General motorway rules, including prohibited users and the application of motorway regulations."
+  },
+  {
+    "id": 54,
+    "englishName": "Legend",
+    "category": "Motorway signals (rules 255 to 258)",
+    "description": "Meaning of motorway signals, red X lane closures and variable speed limits."
+  },
+  {
+    "id": 55,
+    "englishName": "Legend",
+    "category": "Joining the motorway (rule 259)",
+    "description": "Rules for using the slip road, matching traffic speed and giving priority to motorway traffic."
+  },
+  {
+    "id": 56,
+    "englishName": "Legend",
+    "category": "On the motorway (rules 260 to 263)",
+    "description": "Safe motorway driving, following distances, restrictions and use of lanes."
+  },
+  {
+    "id": 57,
+    "englishName": "Legend",
+    "category": "Lane discipline (rules 264 to 266)",
+    "description": "Requires use of the left lane unless overtaking and safe compliance with lane signals."
+  },
+  {
+    "id": 58,
+    "englishName": "Legend",
+    "category": "Overtaking (rules 267 to 268)",
+    "description": "Motorway overtaking rules, including safe observation and the prohibition on using the hard shoulder."
+  },
+  {
+    "id": 59,
+    "englishName": "Legend",
+    "category": "Hard shoulder (rule 269)",
+    "description": "Restricts hard-shoulder use to emergencies or times when signs open it as a running lane."
+  },
+  {
+    "id": 60,
+    "englishName": "Legend",
+    "category": "Stopping (rules 270 to 272)",
+    "description": "Prohibits motorway stopping except in emergencies or when directed and explains emergency-area use."
+  },
+  {
+    "id": 61,
+    "englishName": "Legend",
+    "category": "Leaving the motorway (rules 273 to 274)",
+    "description": "Rules for reading exit signs, signalling and entering the exit lane safely."
+  },
+  {
+    "id": 62,
+    "englishName": "Legend",
+    "category": "Place of relative safety (rule 275)",
+    "description": "Explains how to identify and reach a safer location during a breakdown or emergency."
+  },
+  {
+    "id": 63,
+    "englishName": "Legend",
+    "category": "Breakdowns (rule 276)",
+    "description": "Actions to take during a motorway breakdown, including leaving the vehicle safely and contacting help."
+  },
+  {
+    "id": 64,
+    "englishName": "Legend",
+    "category": "Additional rules for motorways (rules 277 to 279)",
+    "description": "Additional breakdown and emergency guidance, including rejoining traffic and disabled vehicles."
+  },
+  {
+    "id": 65,
+    "englishName": "Legend",
+    "category": "Obstructions (rule 280)",
+    "description": "Actions to take when encountering or causing a road obstruction."
+  },
+  {
+    "id": 66,
+    "englishName": "Legend",
+    "category": "Incidents (rules 281 to 283)",
+    "description": "Safety measures at incidents, emergency corridors and compliance with emergency personnel."
+  },
+  {
+    "id": 67,
+    "englishName": "Legend",
+    "category": "Incidents involving dangerous goods (rules 284 to 285)",
+    "description": "Precautions and reporting requirements when hazardous materials are involved in an incident."
+  },
+  {
+    "id": 68,
+    "englishName": "Legend",
+    "category": "Documentation (rules 286 to 287)",
+    "description": "Duties to stop, exchange information and report collisions to police when required."
+  },
+  {
+    "id": 69,
+    "englishName": "Legend",
+    "category": "Road works (rule 288)",
+    "description": "Requires extra care, reduced speed and compliance with temporary signs and lane controls at road works."
+  },
+  {
+    "id": 70,
+    "englishName": "Legend",
+    "category": "Additional rules for high-speed roads (rules 289 to 290)",
+    "description": "Additional safety rules for breakdowns and incidents on high-speed roads."
+  },
+  {
+    "id": 71,
+    "englishName": "Legend",
+    "category": "Level crossings (rules 291 to 299)",
+    "description": "Rules for approaching, crossing and responding to lights, barriers and emergencies at railway crossings."
+  },
+  {
+    "id": 72,
+    "englishName": "Legend",
+    "category": "Tramways (rules 300 to 307)",
+    "description": "Rules for sharing roads with trams and avoiding rails, platforms and reserved tram routes."
+  },
+  {
+    "id": 73,
+    "englishName": "Legend",
+    "category": "Traffic light signals. Flashing red lights. Lane control signals",
+    "description": "Meanings of standard traffic lights, flashing red stop signals and lane-control signals."
+  },
+  {
+    "id": 74,
+    "englishName": "Legend",
+    "category": "Motorway signals",
+    "description": "Meanings of motorway warning signals, variable limits, lane closures and instructions."
+  },
+  {
+    "id": 75,
+    "englishName": "Legend",
+    "category": "Direction indicator signals. Brake light signals. Reversing light signals. Arm signals. Hazard lights",
+    "description": "Explains vehicle-light and arm signals used to communicate intended movements and hazards."
+  },
+  {
+    "id": 76,
+    "englishName": "Legend",
+    "category": "Police officers. Arm signals to persons controlling traffic. Driver and Vehicle Standards Agency officers and traffic officers. School crossing patrols",
+    "description": "Signals and instructions given by police, authorised traffic personnel and school crossing patrols."
+  },
+  {
+    "id": 77,
+    "englishName": "Legend",
+    "category": "Signs giving orders",
+    "description": "Mandatory and prohibitory traffic signs that road users are legally required to obey."
+  },
+  {
+    "id": 78,
+    "englishName": "Legend",
+    "category": "Warning signs",
+    "description": "Signs warning of hazards, changing road conditions and vulnerable road users ahead."
+  },
+  {
+    "id": 79,
+    "englishName": "Legend",
+    "category": "Direction signs",
+    "description": "Signs showing routes, destinations, junction layouts, road numbers and diversions."
+  },
+  {
+    "id": 80,
+    "englishName": "Legend",
+    "category": "Information signs",
+    "description": "Rectangular signs providing parking, lane, motorway, route and facility information."
+  },
+  {
+    "id": 81,
+    "englishName": "Legend",
+    "category": "Road work signs",
+    "description": "Temporary signs warning of road works, hazards, lane closures, speed limits and contraflow systems."
+  },
+  {
+    "id": 82,
+    "englishName": "Legend",
+    "category": "Across the carriageway. Along the carriageway. Along the edge of the carriageway. On the kerb or at the edge of the carriageway. Other road markings",
+    "description": "Meanings of stop, give-way, lane, waiting, loading, Red Route, box-junction and other road markings."
+  },
+  {
+    "id": 83,
+    "englishName": "Legend",
+    "category": "Large goods vehicle rear markings. Hazard warning plates. Projections markers. Other",
+    "description": "Vehicle markings identifying heavy vehicles, dangerous goods, projecting loads and school buses."
+  },
+  {
+    "id": 84,
+    "englishName": "Legend",
+    "category": "You and your bicycle",
+    "description": "Cycle selection, maintenance, brakes, lighting, reflectors, tyre condition and training."
+  },
+  {
+    "id": 85,
+    "englishName": "Legend",
+    "category": "Motorcycle licence requirements. Licence categories for mopeds and motorcycles",
+    "description": "CBT, learner restrictions, tests, progressive access and AM, A1, A2 and A licence categories."
+  },
+  {
+    "id": 86,
+    "englishName": "Legend",
+    "category": "Documents. Learner drivers",
+    "description": "Driving licences, MOT, insurance, registration, vehicle tax, SORN and learner-driver requirements."
+  },
+  {
+    "id": 87,
+    "englishName": "Legend",
+    "category": "Road traffic law. Acts and regulations prior to 1988. Acts and regulations from 1988 onwards",
+    "description": "Scope of UK road traffic law and abbreviations for the principal Acts and Regulations cited in the Highway Code."
+  },
+  {
+    "id": 88,
+    "englishName": "Legend",
+    "category": "Penalties",
+    "description": "Maximum penalties, penalty points, disqualification, new-driver revocation, retesting and other consequences of offending."
+  },
+  {
+    "id": 89,
+    "englishName": "Legend",
+    "category": "Vehicle maintenance. Vehicle security",
+    "description": "Roadworthiness, warning lights, tyres, fluids, fuel safety, vehicle fires and theft prevention."
+  },
+  {
+    "id": 90,
+    "englishName": "Legend",
+    "category": "1. Deal with danger. 2. Get help. 3. Help those involved. 4. Provide emergency care",
+    "description": "Crash-scene safety, emergency calls, casualty care, DRABC, CPR, bleeding and burn treatment."
+  },
+  {
+    "id": 91,
+    "englishName": "Legend",
+    "category": "The safety code. New Drivers Act. Further training",
+    "description": "Risk reduction for new drivers, six-point licence revocation and optional further training such as Pass Plus."
+  },
+  {
+    "id": 92,
+    "englishName": "Legend",
+    "category": "Metric conversions. Useful websites. Further reading",
+    "description": "Miles-to-kilometres conversions and official resources for road safety, driving, riding, towing and vehicle information."
+  }
+]
