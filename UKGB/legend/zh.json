@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"《公路交通法规》的措辞。了解并遵守规则。",
+"description":"解释了“必须”、“不得”、“应该”和“不应该”这些词语的用法,以及了解和应用公路法规的责任。"
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"自动驾驶汽车",
+"description":"解释自动驾驶车辆在自动驾驶或非自动驾驶状态下用户的法律责任。"
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"道路使用者等级",
+"description":"解释说,那些能够造成最大危害的道路使用者负有最大的责任来减少危险。"
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"一般性指导(规则 1 至 6)",
+"description":"行人安全通用指南,包括人行道、能见度和共享路线。"
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"过马路(规则 7 至 17)",
+"description":"绿色十字路口守则以及选择安全地点和安全过马路的规则。"
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"交叉路口(规则 18 至 30)",
+"description":"行人使用斑马线、鹈鹕线、海鹦线、巨嘴鸟线和马道的规则。"
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"需要特别注意的情况(第 31 至 35 条规则)",
+"description":"对弱势行人、应急车辆、公共汽车和铁路道口采取额外预防措施。"
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"电动轮椅和代步车(第 36 至 37 条规则)",
+"description":"在人行道和道路上使用电动轮椅和电动代步车的规则。"
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"在人行道上(规则 38 至 40)",
+"description":"电动代步车和电动轮椅在人行道和行人区域的使用规则。"
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"道路交通规则(第 41 至 46 条)",
+"description":"电动轮椅和代步车的道路使用、照明、能见度和安全规则。"
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"马车(第 47 至 48 条规则)",
+"description":"马车驾驶员的安全、照明、路线和设备指南。"
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"马术骑手(规则 49 至 55)",
+"description":"安全骑马的规则,包括服装、装备、道路位置和信号。"
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"其他动物(规则 56 至 58)",
+"description":"关于狗、车内动物和沿道路运输牲畜的规定。"
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"概述(规则 59 至 72)",
+"description":"涵盖服装、装备、照明、道路位置、自行车道和共享路线的核心骑行规则。"
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"道路交叉口(规则 73 至 77)",
+"description":"自行车骑行者接近和通过路口的规则,包括位置和优先权。"
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"环岛(规则 78 至 80)",
+"description":"自行车骑行者使用环岛的规则,包括车道位置、信号灯和更安全的替代方案。"
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"过马路(规则 81 至 82)",
+"description":"自行车专用道、双人道和马道的通行规则。"
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"总则(第 83 至 88 条规则)",
+"description":"摩托车通用规则,涵盖驾照、头盔、护目镜、乘客和日光能见度。"
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"车辆状况(规则 89)",
+"description":"要求摩托车驾驶员保持摩托车适于上路行驶,并维护轮胎、刹车、车灯和转向系统。"
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"驾驶资格(第 90 至 94 条规则)",
+"description":"关于疲劳、疾病、视力、注意力以及其他影响驾驶能力的因素的规定。"
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"酒精和毒品(第 95 至 96 条规则)",
+"description":"禁止酒后、吸毒后或服用药物后驾驶。"
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"出发前(规则 97)",
+"description":"出发前检查车辆是否适于道路行驶、视野是否良好、操控装置是否完好、驾驶员着装是否牢固以及货物是否装载安全。"
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"车辆牵引和装载(规则 98)",
+"description":"货物安全装载、牵引限制、拖车、突出物以及避免超载的规则。"
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"安全带和儿童约束装置(第 99 至 102 条规则)",
+"description":"关于安全带、儿童安全座椅和儿童安全运输的法律要求。"
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"信号(规则 103 至 106)",
+"description":"发出清晰信号和解读其他道路使用者信号的规则。"
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"其他停止程序(规则 107 至 112)",
+"description":"服从警察和授权官员的指示,遵守交通信号灯规则和使用喇叭。"
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"照明要求(第 113 至 116 条规则)",
+"description":"关于前大灯、示廓灯、雾灯的使用规则,以及如何避免使他人眩目。"
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"车辆控制(规则 117 至 126)",
+"description":"安全车辆控制、制动、停车距离、侧滑、滑行和遵守限速规定。"
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"道路上的标线和车道标记(规则 127 至 132)",
+"description":"中心线、危险线、双白线、车道线和V形线的含义和法律效力。"
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"多车道公路(规则 133 至 143)",
+"description":"车道纪律、变道、爬坡车道、公交车道、自行车道和高乘载车道。"
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"一般建议(规则 144 至 158)",
+"description":"一般安全驾驶行为,顾及他人,控制车速,优先通行,避免分心驾驶。"
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"总则(第159至161条)",
+"description":"在驶离或驶入车流之前,请观察情况、发出信号并确保安全移动。"
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"超车(规则 162 至 169)",
+"description":"安全超车的规则,包括安全距离、禁止超车地点和被超车规则。"
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"道路交叉口(规则 170 至 183)",
+"description":"接近路口、让行、转弯、驶出和穿越交通的规则。"
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"环岛(规则 184 至 190)",
+"description":"环岛进出规则、优先权、车道选择、信号灯设置及驶离规则。"
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"人行横道(规则 191 至 199)",
+"description":"驾驶员在斑马线、鹈鹕线、海鹦线、巨嘴鸟线和平行交叉路口的职责。"
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"反转(200 到 203)",
+"description":"检查周围环境、安全倒车和避免过度倒车的规则。"
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"概述(规则 204)",
+"description":"引入了保护特别易受伤害的道路使用者的责任。"
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"行人(规则 205 至 210)",
+"description":"特别注意儿童、老人、残疾行人以及过马路的行人。"
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"摩托车驾驶员和自行车驾驶员(规则 211 至 213)",
+"description":"加强对摩托车和自行车的观察,尤其是在十字路口,确保周围安全距离。"
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"其他道路使用者(规则 214 至 218)",
+"description":"在动物、骑马者、新手司机和经验不足的道路使用者周围要格外小心。"
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"其他车辆(第 219 至 225 条规则)",
+"description":"紧急车辆、大型车辆、公共汽车、有轨电车和慢速车辆的行驶规则。"
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"概述(规则 226)",
+"description":"要求驾驶员适应恶劣天气,并在能见度降低时使用适当的灯光。"
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"雨天(规则 227)",
+"description":"关于抓地力降低、制动距离延长、水花飞溅、水滑和洪水的指导。"
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"冰雪天气(规则 228 至 231)",
+"description":"冰雪路面行驶的准备、平稳驾驶和保持控制的规则。"
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"大风天气(规则 232 至 233)",
+"description":"关于强侧风和受阵风影响的弱势道路使用者的指导。"
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"雾(规则 234 至 236)",
+"description":"关于能见度、速度、跟车距离和正确使用雾灯的规定。"
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"炎热天气(规则 237)",
+"description":"关于与高温相关的路面危险以及如何避免过热的指导。"
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"总则(规则 238)",
+"description":"一般停车规则,包括遵守限制规定和避免危险或阻碍交通。"
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"停车(规则 239 至 247)",
+"description":"安全停车、路边停车、装卸货、残疾人停车位和禁停区域的规则。"
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"夜间停车(第 248 至 252 条规则)",
+"description":"夜间停车规则涵盖方向、照明、速度限制和反光标记。"
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"非刑事化停车执法(DPE)",
+"description":"阐述地方当局如何依法执行停车限制规定。"
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"总则(第253至254条规则)",
+"description":"一般高速公路规则,包括禁止使用车辆和高速公路法规的适用。"
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"高速公路信号(规则 255 至 258)",
+"description":"高速公路信号灯、红色 X 形车道封闭标志和可变限速的含义。"
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"并入高速公路(规则 259)",
+"description":"使用匝道的规则,包括保持车速一致和优先通行高速公路车辆。"
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"在高速公路上(规则 260 至 263)",
+"description":"安全驾驶,遵守高速公路行驶规则,遵守交通管制规定,合理使用车道。"
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"车道纪律(规则 264 至 266)",
+"description":"除非超车,否则必须使用左侧车道,并且必须安全遵守车道信号。"
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"超车(规则 267 至 268)",
+"description":"高速公路超车规则,包括安全观察和禁止使用应急车道。"
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"硬肩(规则 269)",
+"description":"限制在紧急情况下或标志牌将其开放为行车道时使用紧急停车带。"
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"停止(规则 270 至 272)",
+"description":"除紧急情况或接到指示外,禁止在高速公路上停车,并解释了紧急区域的使用方法。"
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"离开高速公路(规则 273 至 274)",
+"description":"安全阅读出口标志、发出信号和进入出口车道的规则。"
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"相对安全的地方(规则 275)",
+"description":"解释如何在车辆故障或紧急情况下找到并到达更安全的地方。"
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"故障(规则 276)",
+"description":"车辆在高速公路上发生故障时应采取的措施,包括安全离开车辆和联系救援。"
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"高速公路附加规则(第 277 至 279 条)",
+"description":"提供更多故障和紧急情况指导,包括重新加入交通和故障车辆的处理。"
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"障碍物(规则 280)",
+"description":"遇到或造成道路阻塞时应采取的措施。"
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"事件(第 281 至 283 条规则)",
+"description":"事故现场安全措施、应急通道和应急人员配合。"
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"涉及危险品的事故(第 284 至 285 条规则)",
+"description":"涉及危险材料的事故中的预防措施和报告要求。"
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"文件(规则 286 至 287)",
+"description":"职责包括停车、交换信息,并在必要时向警方报告交通事故。"
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"道路施工(第288条规则)",
+"description":"道路施工期间需要格外小心,降低车速,并遵守临时标志和车道管制规定。"
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"高速公路附加规则(第 289 至 290 条)",
+"description":"针对高速公路上的故障和事故,制定额外的安全规则。"
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"平交道口(规则 291 至 299)",
+"description":"铁路道口接近、通过和应对信号灯、栏杆和紧急情况的规则。"
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"有轨电车(第 300 至 307 条规则)",
+"description":"与电车共用道路并避开轨道、站台和专用电车线路的规则。"
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"交通信号灯。闪烁的红灯。车道控制信号灯",
+"description":"标准交通信号灯、闪烁红灯停车信号灯和车道控制信号灯的含义。"
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"高速公路信号灯",
+"description":"高速公路警告信号、可变限速、车道封闭和指示的含义。"
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"转向指示灯。刹车灯。倒车灯。行车灯。危险警告灯",
+"description":"解释用于传达预期移动和危险的车辆灯光和手势信号。"
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"警察。向交通管制人员发出手势信号。驾驶员和车辆标准局官员以及交通警察。学校交通安全巡逻员。",
+"description":"警察、授权交通人员和学校交通安全员发出的信号和指示。"
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"指示牌",
+"description":"道路使用者依法必须遵守的强制性和禁止性交通标志。"
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"警告标志",
+"description":"前方设有警告标志,提醒注意危险、道路状况变化以及弱势道路使用者。"
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"指示牌",
+"description":"指示路线、目的地、路口布局、道路编号和绕行路线的标志。"
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"信息标志",
+"description":"矩形标志牌,提供停车、车道、高速公路、路线和设施信息。"
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"道路施工标志",
+"description":"临时标志牌,用于警告道路施工、危险、车道封闭、限速和逆向行驶系统。"
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"横跨车道。沿车道。沿车道边缘。在路缘石上或车道边缘。其他道路标线",
+"description":"停止、让行、车道、等待、装卸、红色路线、方框路口和其他道路标志的含义。"
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"大型货车尾部标志。危险警告牌。凸起标志。其他",
+"description":"车辆标识,用于识别重型车辆、危险品、突出货物和校车。"
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"你和你的自行车",
+"description":"自行车选择、维护、刹车、照明、反光片、轮胎状况和培训。"
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"摩托车驾照要求。轻便摩托车和摩托车的驾照类别",
+"description":"计算机辅助培训 (CBT)、学习者限制、考试、渐进式准入以及 AM、A1、A2 和 A 类驾照。"
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"文件。学员驾驶员",
+"description":"驾驶执照、车辆年检、保险、车辆登记、车辆税、车辆停驶通知书 (SORN) 和学员驾驶员要求。"
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"道路交通法规。1988年以前的法令法规。1988年以后的法令法规。",
+"description":"英国道路交通法的范围以及《公路法典》中引用的主要法案和条例的缩写。"
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"处罚",
+"description":"违规行为将受到最高处罚、扣分、取消资格、吊销新驾驶员执照、重新考试及其他后果。"
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"车辆保养。车辆安全",
+"description":"车辆适航性、警示灯、轮胎、液体、燃油安全、车辆火灾和防盗。"
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. 应对危险。2. 寻求帮助。3. 帮助相关人员。4. 提供紧急救护。",
+"description":"事故现场安全、紧急呼叫、伤员护理、DRABC、CPR、出血和烧伤治疗。"
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"安全守则。《新驾驶员法》。进阶培训",
+"description":"降低新驾驶员的风险,吊销驾照扣六分,并提供Pass Plus等可选的进阶培训。"
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"公制换算。实用网站。延伸阅读",
+"description":"英里到公里的换算以及道路安全、驾驶、骑行、拖车和车辆信息的官方资源。"
+}
+]

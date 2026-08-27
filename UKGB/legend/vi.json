@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Nội dung của Bộ luật Giao thông đường bộ. Hiểu và áp dụng các quy tắc.",
+"description":"Giải thích cách sử dụng các từ MUST, MUST NOT, should và should not, cũng như trách nhiệm phải nắm rõ và áp dụng Luật Giao thông đường bộ."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Xe tự lái",
+"description":"Giải thích trách nhiệm pháp lý của người dùng khi xe tự lái đang hoặc không đang tự lái."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Thứ bậc của người sử dụng đường bộ",
+"description":"Giải thích rằng những người tham gia giao thông có khả năng gây ra thiệt hại lớn nhất lại có trách nhiệm lớn nhất trong việc giảm thiểu nguy hiểm."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Hướng dẫn chung (quy tắc 1 đến 6)",
+"description":"Hướng dẫn an toàn chung cho người đi bộ, bao gồm vỉa hè, tầm nhìn và các tuyến đường dùng chung."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Qua đường (điều 7 đến 17)",
+"description":"Bộ quy tắc an toàn giao thông (Green Cross Code) và các quy định về việc chọn nơi an toàn và băng qua đường an toàn."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Các điểm giao cắt (quy tắc 18 đến 30)",
+"description":"Các quy tắc dành cho người đi bộ khi sử dụng vạch kẻ đường dành cho người đi bộ (vạch ngựa vằn, vạch chim bồ nông, vạch chim hải âu, vạch chim toucan và vạch dành cho người cưỡi ngựa)."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Các trường hợp cần được chăm sóc đặc biệt (quy tắc 31 đến 35)",
+"description":"Cần có các biện pháp phòng ngừa bổ sung cho người đi bộ dễ bị tổn thương, xe cứu thương, xe buýt và các điểm giao cắt đường sắt."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Xe lăn điện và xe scooter di động (quy tắc 36 đến 37)",
+"description":"Các quy định khi sử dụng xe lăn điện và xe scooter dành cho người khuyết tật trên vỉa hè và đường phố."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Trên vỉa hè (quy tắc 38 đến 40)",
+"description":"Quy định dành cho xe lăn điện và xe scooter di động khi sử dụng vỉa hè và khu vực dành cho người đi bộ."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Trên đường (điều 41 đến 46)",
+"description":"Các quy định về sử dụng đường, chiếu sáng, tầm nhìn và an toàn dành cho xe lăn điện và xe scooter di động."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Xe ngựa kéo (điều 47 đến 48)",
+"description":"Hướng dẫn về an toàn, chiếu sáng, lộ trình và trang thiết bị dành cho người điều khiển xe ngựa kéo."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Người cưỡi ngựa (điều 49 đến 55)",
+"description":"Các quy tắc cưỡi ngựa an toàn, bao gồm trang phục, thiết bị, vị trí trên đường và tín hiệu."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Các loài động vật khác (quy tắc 56 đến 58)",
+"description":"Các quy định dành cho chó, động vật trong xe và việc vận chuyển gia súc dọc theo đường."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Tổng quan (điều 59 đến 72)",
+"description":"Các quy tắc cơ bản khi đi xe đạp bao gồm trang phục, thiết bị, đèn chiếu sáng, vị trí trên đường, làn đường dành cho xe đạp và các tuyến đường dùng chung."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Giao lộ (điều 73 đến 77)",
+"description":"Các quy tắc dành cho người đi xe đạp khi tiếp cận và đi qua các giao lộ, bao gồm vị trí và quyền ưu tiên."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Vòng xuyến (điều 78 đến 80)",
+"description":"Các quy tắc dành cho người đi xe đạp khi sử dụng vòng xuyến, bao gồm vị trí làn đường, tín hiệu và các lựa chọn thay thế an toàn hơn."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Qua đường (điều 81 đến 82)",
+"description":"Các quy định dành cho người đi xe đạp khi sử dụng vạch kẻ đường dành riêng cho xe đạp, vạch kẻ đường cho chim toucan và vạch kẻ đường cho người cưỡi ngựa."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Tổng quát (điều 83 đến 88)",
+"description":"Các quy định chung về xe máy bao gồm giấy phép lái xe, mũ bảo hiểm, kính bảo hộ, chở người và khả năng nhìn rõ vào ban ngày."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Tình trạng xe (quy tắc 89)",
+"description":"Yêu cầu người điều khiển xe máy phải đảm bảo xe của mình luôn trong tình trạng hoạt động tốt và bảo dưỡng lốp, phanh, đèn và hệ thống lái."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Điều kiện đủ tư cách lái xe (quy tắc 90 đến 94)",
+"description":"Các quy định về mệt mỏi, bệnh tật, thị lực, khả năng tập trung và các yếu tố khác ảnh hưởng đến khả năng lái xe."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Rượu và ma túy (điều 95 đến 96)",
+"description":"Nghiêm cấm lái xe khi bị ảnh hưởng bởi rượu, ma túy hoặc thuốc."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Trước khi khởi hành (quy tắc 97)",
+"description":"Kiểm tra trước chuyến đi về tình trạng an toàn của xe, tầm nhìn, hệ thống điều khiển, trang phục và độ chắc chắn của hàng hóa."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Kéo và bốc dỡ xe (quy tắc 98)",
+"description":"Các quy định về việc chở hàng an toàn, giới hạn kéo, rơ moóc, các vật nhô ra và tránh quá tải."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Dây an toàn và ghế an toàn cho trẻ em (quy tắc 99 đến 102)",
+"description":"Các quy định pháp lý về dây an toàn, ghế an toàn cho trẻ em và việc vận chuyển trẻ em an toàn."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Tín hiệu (quy tắc 103 đến 106)",
+"description":"Các quy tắc về việc đưa ra tín hiệu rõ ràng và hiểu tín hiệu từ những người tham gia giao thông khác."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Các thủ tục dừng xe khác (quy tắc 107 đến 112)",
+"description":"Tuân thủ hướng dẫn của cảnh sát và các cán bộ có thẩm quyền, tuân thủ tín hiệu đèn giao thông và sử dụng còi xe."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Yêu cầu về chiếu sáng (quy tắc 113 đến 116)",
+"description":"Các quy định về đèn pha, đèn xi nhan, đèn sương mù và việc tránh làm chói mắt người khác."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Kiểm soát phương tiện (điều 117 đến 126)",
+"description":"Kiểm soát xe an toàn, phanh, khoảng cách dừng, trượt bánh, chạy trớn và tuân thủ giới hạn tốc độ."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Các vạch kẻ đường và biển báo làn đường (điều 127 đến 132)",
+"description":"Ý nghĩa và hiệu lực pháp lý của vạch kẻ giữa đường, vạch cảnh báo, vạch kẻ đôi màu trắng, vạch phân làn và mũi tên chỉ hướng."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Đường nhiều làn (điều 133 đến 143)",
+"description":"Tuân thủ làn đường, chuyển làn, leo dốc, làn đường dành cho xe buýt, làn đường dành cho xe đạp và làn đường dành cho xe chở nhiều người."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Lời khuyên chung (điều 144 đến 158)",
+"description":"Các quy tắc chung về lái xe an toàn, sự quan tâm đến người khác, tốc độ, quyền ưu tiên và tránh bị phân tâm."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Các quy tắc chung (quy tắc 159 đến 161)",
+"description":"Quan sát, ra tín hiệu và di chuyển an toàn trước khi khởi hành hoặc nhập làn giao thông."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Vượt xe (điều 162 đến 169)",
+"description":"Các quy tắc vượt xe an toàn, bao gồm khoảng cách an toàn, vị trí cấm vượt và khi bị vượt."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Giao lộ (điều 170 đến 183)",
+"description":"Các quy tắc khi tiếp cận giao lộ, nhường đường, rẽ, nhập làn và băng qua đường."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Vòng xuyến (điều 184 đến 190)",
+"description":"Các quy tắc khi tiếp cận, ưu tiên, chọn làn đường, ra tín hiệu và rời khỏi vòng xuyến."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Vạch qua đường dành cho người đi bộ (điều 191 đến 199)",
+"description":"Trách nhiệm của người lái xe tại các vạch kẻ đường dành cho người đi bộ, vạch kẻ đường hình chim bồ nông, vạch kẻ đường hình chim hải âu, vạch kẻ đường hình chim toucan và vạch kẻ đường song song."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Đảo ngược (200 đến 203)",
+"description":"Các quy tắc kiểm tra xung quanh, lùi xe an toàn và tránh lùi xe quá mức."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Tổng quan (quy tắc 204)",
+"description":"Đề ra nghĩa vụ bảo vệ những người tham gia giao thông dễ bị tổn thương."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Người đi bộ (điều 205 đến 210)",
+"description":"Cần hết sức cẩn thận khi ở gần trẻ em, người cao tuổi, người khuyết tật đi bộ và người qua đường."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Người điều khiển xe máy và xe đạp (điều 211 đến 213)",
+"description":"Tăng cường quan sát và giữ khoảng cách an toàn xung quanh người đi xe máy và xe đạp, đặc biệt là tại các giao lộ."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Các người tham gia giao thông khác (điều 214 đến 218)",
+"description":"Cần hết sức cẩn thận khi di chuyển gần động vật, người cưỡi ngựa, người học lái xe và người tham gia giao thông thiếu kinh nghiệm."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Các phương tiện khác (quy tắc 219 đến 225)",
+"description":"Quy định dành cho xe cứu thương, xe tải lớn, xe buýt, xe điện và các phương tiện di chuyển chậm."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Tổng quan (quy tắc 226)",
+"description":"Điều này đòi hỏi người lái xe phải thích ứng với thời tiết xấu và sử dụng đèn chiếu sáng phù hợp khi tầm nhìn bị hạn chế."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Thời tiết ẩm ướt (quy tắc 227)",
+"description":"Hướng dẫn về hiện tượng giảm độ bám đường, quãng đường phanh dài hơn, tia nước bắn tung tóe, hiện tượng trượt nước và nước lũ."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Thời tiết băng giá và có tuyết (quy tắc 228 đến 231)",
+"description":"Các quy tắc chuẩn bị, lái xe mượt mà và duy trì kiểm soát trên đường băng và tuyết."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Thời tiết nhiều gió (quy tắc 232 đến 233)",
+"description":"Hướng dẫn về gió tạt ngang mạnh và người tham gia giao thông dễ bị ảnh hưởng bởi gió giật."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Sương mù (điều 234 đến 236)",
+"description":"Các quy định về tầm nhìn, tốc độ, khoảng cách an toàn và cách sử dụng đèn sương mù đúng cách."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Thời tiết nóng (quy tắc 237)",
+"description":"Hướng dẫn về các mối nguy hiểm trên mặt đường do nhiệt độ cao và cách tránh tình trạng quá nóng."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Tổng quát (điều 238)",
+"description":"Các quy tắc đỗ xe chung, bao gồm tuân thủ các hạn chế và tránh gây nguy hiểm hoặc cản trở giao thông."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Đỗ xe (quy tắc 239 đến 247)",
+"description":"Các quy định về đỗ xe an toàn, dừng xe bên đường, bốc dỡ hàng hóa, chỗ đậu xe dành cho người khuyết tật và các khu vực bị cấm."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Đỗ xe ban đêm (quy tắc 248 đến 252)",
+"description":"Các quy định về đỗ xe ban đêm bao gồm hướng đỗ, đèn chiếu sáng, giới hạn tốc độ và vạch phản quang."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Phi hình sự hóa việc xử phạt vi phạm đỗ xe (DPE)",
+"description":"Giải thích việc thực thi pháp luật về quy định đỗ xe của chính quyền địa phương."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Tổng quát (điều 253 đến 254)",
+"description":"Các quy tắc chung về đường cao tốc, bao gồm các đối tượng bị cấm sử dụng và việc áp dụng các quy định trên đường cao tốc."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Tín hiệu giao thông trên đường cao tốc (điều 255 đến 258)",
+"description":"Ý nghĩa của các tín hiệu giao thông trên đường cao tốc, biển báo chữ X màu đỏ cấm một số làn đường và giới hạn tốc độ thay đổi."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Nhập làn đường cao tốc (điều 259)",
+"description":"Các quy tắc khi sử dụng đường nhánh, điều chỉnh tốc độ giao thông và ưu tiên cho xe cộ trên đường cao tốc."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Trên đường cao tốc (điều 260 đến 263)",
+"description":"Lái xe an toàn trên đường cao tốc, giữ khoảng cách an toàn, tuân thủ luật lệ giao thông và sử dụng làn đường."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Kỷ luật làn đường (điều 264 đến 266)",
+"description":"Yêu cầu sử dụng làn đường bên trái trừ trường hợp vượt và tuân thủ an toàn các tín hiệu làn đường."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Vượt xe (điều 267 đến 268)",
+"description":"Các quy tắc vượt xe trên đường cao tốc, bao gồm việc quan sát an toàn và cấm sử dụng làn đường khẩn cấp."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Lái xe sát lề đường (quy tắc 269)",
+"description":"Chỉ sử dụng làn đường khẩn cấp trong trường hợp khẩn cấp hoặc khi có biển báo cho phép sử dụng làm làn đường lưu thông."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Dừng xe (quy tắc 270 đến 272)",
+"description":"Cấm dừng xe trên đường cao tốc trừ trường hợp khẩn cấp hoặc khi được chỉ dẫn và giải thích cách sử dụng khu vực khẩn cấp."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Rời khỏi đường cao tốc (điều 273 đến 274)",
+"description":"Các quy tắc đọc biển báo lối ra, ra tín hiệu và vào làn đường thoát hiểm một cách an toàn."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Nơi tương đối an toàn (quy tắc 275)",
+"description":"Giải thích cách xác định và di chuyển đến vị trí an toàn hơn trong trường hợp xe hỏng hoặc tình huống khẩn cấp."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Sự cố (quy tắc 276)",
+"description":"Các hành động cần thực hiện khi xe bị hỏng trên đường cao tốc, bao gồm việc rời khỏi xe một cách an toàn và liên hệ với người trợ giúp."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Các quy định bổ sung dành cho đường cao tốc (quy định từ 277 đến 279)",
+"description":"Hướng dẫn bổ sung về sự cố và tình huống khẩn cấp, bao gồm việc nhập làn giao thông và hỗ trợ xe bị hỏng."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Vật cản (quy tắc 280)",
+"description":"Các hành động cần thực hiện khi gặp phải hoặc gây ra chướng ngại vật trên đường."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Các sự cố (điều 281 đến 283)",
+"description":"Các biện pháp an toàn tại hiện trường sự cố, hành lang thoát hiểm và tuân thủ hướng dẫn của nhân viên cứu hộ."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Các sự cố liên quan đến hàng hóa nguy hiểm (quy tắc 284 đến 285)",
+"description":"Các biện pháp phòng ngừa và yêu cầu báo cáo khi có sự cố liên quan đến vật liệu nguy hiểm."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Tài liệu (điều 286 đến 287)",
+"description":"Nhiệm vụ bao gồm dừng xe, trao đổi thông tin và báo cáo va chạm cho cảnh sát khi cần thiết."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Công trình đường bộ (quy tắc 288)",
+"description":"Cần hết sức cẩn thận, giảm tốc độ và tuân thủ các biển báo tạm thời và điều khiển làn đường tại khu vực thi công đường."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Các quy định bổ sung cho đường cao tốc (quy định 289 đến 290)",
+"description":"Các quy tắc an toàn bổ sung khi xe hỏng và gặp sự cố trên đường cao tốc."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Đường giao cắt cùng mức (quy tắc 291 đến 299)",
+"description":"Các quy tắc khi tiếp cận, băng qua và ứng phó với đèn tín hiệu, rào chắn và tình huống khẩn cấp tại các giao lộ đường sắt."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Đường ray xe điện (điều 300 đến 307)",
+"description":"Các quy tắc khi chia sẻ đường với xe điện và tránh đường ray, sân ga và các tuyến đường dành riêng cho xe điện."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Đèn tín hiệu giao thông. Đèn đỏ nhấp nháy. Tín hiệu điều khiển làn đường.",
+"description":"Ý nghĩa của đèn giao thông tiêu chuẩn, đèn tín hiệu dừng màu đỏ nhấp nháy và đèn tín hiệu điều khiển làn đường."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Tín hiệu đường cao tốc",
+"description":"Ý nghĩa của các tín hiệu cảnh báo trên đường cao tốc, giới hạn tốc độ thay đổi, việc đóng làn đường và hướng dẫn."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Đèn báo rẽ. Đèn phanh. Đèn lùi. Đèn báo hiệu. Đèn cảnh báo.",
+"description":"Giải thích các tín hiệu đèn xe và tín hiệu tay được sử dụng để truyền đạt ý định di chuyển và các mối nguy hiểm."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Cảnh sát. Ra hiệu bằng tay cho người điều khiển giao thông. Nhân viên Cơ quan Tiêu chuẩn Phương tiện và Lái xe và cảnh sát giao thông. Nhân viên tuần tra an toàn giao thông trước cổng trường.",
+"description":"Các tín hiệu và chỉ dẫn được đưa ra bởi cảnh sát, nhân viên giao thông có thẩm quyền và đội tuần tra an toàn giao thông trường học."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Các biển báo ra lệnh",
+"description":"Các biển báo giao thông bắt buộc và cấm mà người tham gia giao thông có nghĩa vụ pháp lý phải tuân thủ."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Dấu hiệu cảnh báo",
+"description":"Các biển báo cảnh báo về các mối nguy hiểm, điều kiện đường sá thay đổi và người tham gia giao thông dễ bị tổn thương phía trước."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Biển chỉ dẫn",
+"description":"Các biển báo chỉ dẫn tuyến đường, điểm đến, sơ đồ giao lộ, số hiệu đường và đường vòng."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Biển báo thông tin",
+"description":"Các biển báo hình chữ nhật cung cấp thông tin về bãi đậu xe, làn đường, đường cao tốc, tuyến đường và tiện ích."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Biển báo công trình đường bộ",
+"description":"Các biển báo tạm thời cảnh báo về công trình sửa đường, nguy hiểm, đóng làn đường, giới hạn tốc độ và hệ thống phân luồng ngược chiều."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Vạch ngang lòng đường. Dọc theo lòng đường. Dọc theo mép lòng đường. Trên lề đường hoặc sát mép lòng đường. Các vạch kẻ đường khác.",
+"description":"Ý nghĩa của các biển báo dừng, nhường đường, làn đường, chờ đợi, bốc dỡ hàng, đường cấm đậu xe (Red Route), ngã ba hình hộp và các biển báo giao thông khác."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Các ký hiệu phía sau xe chở hàng cỡ lớn. Biển cảnh báo nguy hiểm. Các dấu hiệu nhô ra. Khác",
+"description":"Các ký hiệu xe dùng để nhận dạng xe tải nặng, hàng hóa nguy hiểm, hàng hóa nhô ra ngoài và xe buýt trường học."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Bạn và chiếc xe đạp của bạn",
+"description":"Lựa chọn xe đạp, bảo dưỡng, phanh, đèn chiếu sáng, phản quang, tình trạng lốp xe và huấn luyện."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Yêu cầu về giấy phép lái xe mô tô. Các hạng giấy phép lái xe dành cho xe máy và mô tô.",
+"description":"CBT, hạn chế học viên, bài kiểm tra, chương trình học theo cấp độ và các hạng bằng lái AM, A1, A2 và A."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Giấy tờ. Người học lái xe",
+"description":"Giấy phép lái xe, kiểm định xe (MOT), bảo hiểm, đăng ký xe, thuế xe, SORN và các yêu cầu đối với người học lái xe."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Luật giao thông đường bộ. Các đạo luật và quy định trước năm 1988. Các đạo luật và quy định từ năm 1988 trở đi.",
+"description":"Phạm vi áp dụng của luật giao thông đường bộ Vương quốc Anh và các từ viết tắt của các Đạo luật và Quy định chính được trích dẫn trong Bộ luật Giao thông đường bộ."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Hình phạt",
+"description":"Các hình phạt tối đa, điểm phạt, tước quyền lái xe, thu hồi giấy phép lái xe mới, thi lại và các hậu quả khác khi vi phạm."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Bảo dưỡng xe. An ninh xe.",
+"description":"Khả năng vận hành an toàn trên đường, đèn báo hiệu, lốp xe, chất lỏng, an toàn nhiên liệu, phòng chống cháy nổ và trộm cắp xe."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Đối phó với nguy hiểm. 2. Tìm kiếm sự giúp đỡ. 3. Giúp đỡ những người bị nạn. 4. Cung cấp chăm sóc y tế khẩn cấp.",
+"description":"An toàn tại hiện trường tai nạn, cuộc gọi khẩn cấp, chăm sóc nạn nhân, DRABC, hồi sức tim phổi (CPR), xử lý chảy máu và bỏng."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Quy tắc an toàn. Luật dành cho người lái xe mới. Đào tạo nâng cao",
+"description":"Giảm thiểu rủi ro cho người lái xe mới, thu hồi bằng lái nếu trừ sáu điểm và các khóa đào tạo bổ sung tùy chọn như Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Chuyển đổi đơn vị đo lường. Các trang web hữu ích. Tìm hiểu thêm.",
+"description":"Công cụ chuyển đổi dặm sang ki-lô-mét và các nguồn thông tin chính thức về an toàn giao thông, lái xe, đi xe máy, kéo xe và thông tin về phương tiện."
+}
+]

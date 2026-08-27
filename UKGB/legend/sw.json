@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Maneno ya Kanuni ya Barabara Kuu. Kujua na kutumia sheria",
+"description":"Inaelezea jinsi maneno LAZIMA, HAIPASWI, YASIPASWI na YASIPASWI yanavyotumika, na jukumu la kujua na kutumia Kanuni za Barabara Kuu."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Magari yanayojiendesha yenyewe",
+"description":"Huelezea majukumu ya kisheria ya watumiaji wakati gari linalojiendesha lenyewe linajiendesha au halijiendeshi lenyewe."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Uongozi wa Watumiaji wa Barabara",
+"description":"Anaeleza kwamba watumiaji wa barabara wanaoweza kusababisha madhara makubwa zaidi wana jukumu kubwa la kupunguza hatari."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Mwongozo wa jumla (kanuni 1 hadi 6)",
+"description":"Mwongozo wa jumla wa usalama kwa watembea kwa miguu, ikiwa ni pamoja na njia za miguu, mwonekano na njia za pamoja."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Kuvuka barabara (sheria 7 hadi 17)",
+"description":"Kanuni ya Msalaba wa Kijani na sheria za kuchagua mahali salama na kuvuka barabara kwa usalama."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Kuvuka (sheria 18 hadi 30)",
+"description":"Sheria kwa watembea kwa miguu wanaotumia njia za kuvuka farasi zenye pundamilia, pelican, puffin, toucan na farasi."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Hali zinazohitaji utunzaji wa ziada (sheria 31 hadi 35)",
+"description":"Tahadhari za ziada kwa watembea kwa miguu walio katika mazingira magumu, magari ya dharura, mabasi na vivuko vya reli."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Viti vya magurudumu vinavyotumia nguvu na skuta za uhamaji (sheria 36 hadi 37)",
+"description":"Sheria za kutumia viti vya magurudumu vinavyoendeshwa kwa nguvu na skuta za uhamaji kwenye barabara na barabara."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Kwenye barabara (sheria 38 hadi 40)",
+"description":"Sheria za skuta za uhamaji na viti vya magurudumu vinavyotumia njia za lami na maeneo ya watembea kwa miguu."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Barabarani (sheria 41 hadi 46)",
+"description":"Sheria za matumizi ya barabarani, taa, mwonekano na usalama kwa viti vya magurudumu vinavyoendeshwa kwa nguvu na skuta za uhamaji."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Magari yanayokokotwa na farasi (sheria 47 hadi 48)",
+"description":"Usalama, taa, njia na mwongozo wa vifaa kwa madereva wa magari yanayokokotwa na farasi."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Wapanda farasi (sheria 49 hadi 55)",
+"description":"Sheria za kuendesha farasi kwa usalama, ikiwa ni pamoja na mavazi, vifaa, uwekaji wa barabara na ishara."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Wanyama wengine (sheria 56 hadi 58)",
+"description":"Sheria kwa mbwa, wanyama katika magari na mifugo inayosafirishwa kando ya barabara."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Muhtasari (sheria 59 hadi 72)",
+"description":"Sheria kuu za kuendesha baiskeli zinazohusu mavazi, vifaa, taa, nafasi ya barabara, njia za baiskeli na njia za pamoja."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Makutano ya barabara (sheria 73 hadi 77)",
+"description":"Sheria za waendesha baiskeli wanaokaribia na kujadiliana kuhusu makutano, ikiwa ni pamoja na kuweka nafasi na kipaumbele."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Mizunguko (sheria 78 hadi 80)",
+"description":"Sheria kwa waendesha baiskeli wanaotumia njia za mzunguko, ikiwa ni pamoja na nafasi ya njia, ishara na njia mbadala salama zaidi."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Kuvuka barabara (sheria 81 hadi 82)",
+"description":"Sheria za waendesha baiskeli wanaotumia njia za kuvuka baiskeli pekee, toucan na farisi."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Jumla (kanuni 83 hadi 88)",
+"description":"Sheria za jumla za pikipiki zinazohusu leseni, kofia, kinga ya macho, abiria na mwonekano wa mchana."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Hali ya gari (kanuni ya 89)",
+"description":"Inahitaji waendesha pikipiki kudumisha ubora wa pikipiki zao barabarani na kutunza matairi, breki, taa na usukani."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Siha ya kuendesha gari (sheria 90 hadi 94)",
+"description":"Sheria kuhusu uchovu, ugonjwa, uwezo wa kuona, umakini na mambo mengine yanayoathiri utimamu wa mwili kuendesha gari."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Pombe na dawa za kulevya (kanuni 95 hadi 96)",
+"description":"Inakataza kuendesha gari ukiwa umeathiriwa na pombe, dawa za kulevya au dawa haramu."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Kabla ya kuanza safari (kanuni ya 97)",
+"description":"Ukaguzi wa kabla ya safari kwa ajili ya uthabiti wa gari barabarani, mwonekano, vidhibiti, mavazi na mizigo salama."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Kuvuta na kupakia gari (kanuni ya 98)",
+"description":"Sheria za kuweka mizigo salama, mipaka ya kuvuta, trela, makadirio na kuepuka kuzidisha mizigo kupita kiasi."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Mikanda ya usalama na vizuizi vya watoto (sheria 99 hadi 102)",
+"description":"Mahitaji ya kisheria ya mikanda ya usalama, vizuizi vya watoto na usafiri salama wa watoto."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Ishara (sheria 103 hadi 106)",
+"description":"Sheria za kutoa ishara wazi na kutafsiri ishara kutoka kwa watumiaji wengine wa barabara."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Taratibu zingine za kusimamisha (kanuni 107 hadi 112)",
+"description":"Maelekezo kutoka kwa polisi na maafisa walioidhinishwa, kufuata sheria za taa za trafiki na matumizi ya honi."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Mahitaji ya taa (sheria 113 hadi 116)",
+"description":"Sheria zinazosimamia taa za mbele, taa za pembeni, taa za ukungu na kuepuka kung`aa kwa zingine."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Udhibiti wa gari (kanuni 117 hadi 126)",
+"description":"Udhibiti salama wa gari, breki, umbali wa kusimama, kuteleza, kuegemea kando ya barabara na kufuata kikomo cha mwendo kasi."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Mistari na alama za njia barabarani (sheria 127 hadi 132)",
+"description":"Maana na athari za kisheria za mistari ya katikati, mistari ya hatari, mistari miwili nyeupe, mistari ya njia na chevron."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Barabara za magari zenye njia nyingi (sheria 133 hadi 143)",
+"description":"Nidhamu ya njia, kubadilisha njia, njia za kupanda, njia za mabasi, njia za baiskeli na njia zenye watu wengi."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Ushauri wa jumla (kanuni 144 hadi 158)",
+"description":"Mwenendo wa jumla wa kuendesha gari kwa usalama, kuzingatia wengine, kasi, kipaumbele na kuepuka vikengeushio."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Sheria za jumla (kanuni 159 hadi 161)",
+"description":"Uchunguzi, ishara na mwendo salama kabla ya kuondoka au kuingia kwenye msongamano wa magari."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Kupita (sheria 162 hadi 169)",
+"description":"Sheria za kupita kwa usalama, ikiwa ni pamoja na kuruhusiwa, maeneo yaliyokatazwa na kupitishwa."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Makutano ya barabara (sheria 170 hadi 183)",
+"description":"Sheria za kukaribia makutano, kutoa njia, kugeuka, kujitokeza na kuvuka magari."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Mizunguko (sheria 184 hadi 190)",
+"description":"Sheria za mbinu, kipaumbele, uteuzi wa njia, ishara na njia za mzunguko wa kuondoka."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Vivuko vya watembea kwa miguu (sheria 191 hadi 199)",
+"description":"Majukumu ya udereva katika njia za pundamilia, mwari, puffin, toucan na sambamba."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Kurudi nyuma (200 hadi 203)",
+"description":"Sheria za kuangalia mazingira, kurudi nyuma kwa usalama na kuepuka kurudi nyuma kupita kiasi."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Muhtasari (kanuni ya 204)",
+"description":"Huanzisha wajibu wa kuwalinda watumiaji wa barabara ambao wako hatarini zaidi."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Watembea kwa miguu (sheria 205 hadi 210)",
+"description":"Huduma ya ziada karibu na watoto, wazee, watembea kwa miguu wenye ulemavu na watu wanaovuka barabara."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Waendesha pikipiki na waendesha baiskeli (sheria 211 hadi 213)",
+"description":"Uangalizi wa ziada na njia salama ya kupitishia mizigo karibu na waendesha pikipiki na waendesha baiskeli, hasa kwenye makutano ya barabara."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Watumiaji wengine wa barabara (sheria 214 hadi 218)",
+"description":"Utunzaji wa ziada karibu na wanyama, wapanda farasi, madereva wanaojifunza na watumiaji wa barabara wasio na uzoefu."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Magari mengine (sheria 219 hadi 225)",
+"description":"Sheria za magari ya dharura, magari makubwa, mabasi, tramu na magari yanayotembea polepole."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Muhtasari (kanuni ya 226)",
+"description":"Inahitaji madereva kuzoea hali mbaya ya hewa na kutumia taa zinazofaa wakati mwonekano unapungua."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Hali ya hewa ya mvua (kanuni ya 227)",
+"description":"Mwongozo kuhusu kupunguza mshiko, umbali mrefu wa kusimama, kunyunyizia dawa, kunyunyizia maji na maji ya mafuriko."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Hali ya hewa ya barafu na theluji (sheria 228 hadi 231)",
+"description":"Sheria za kujiandaa, kuendesha gari vizuri na kudumisha udhibiti katika barafu na theluji."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Hali ya hewa ya upepo (sheria 232 hadi 233)",
+"description":"Mwongozo kuhusu upepo mkali unaovuka na watumiaji wa barabara walio hatarini kuathiriwa na upepo mkali."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Ukungu (kanuni 234 hadi 236)",
+"description":"Sheria kuhusu mwonekano, kasi, umbali unaofuata na matumizi sahihi ya taa za ukungu."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Hali ya hewa ya joto (kanuni ya 237)",
+"description":"Mwongozo kuhusu hatari za barabarani zinazohusiana na joto na kuepuka joto kupita kiasi."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Jumla (kanuni ya 238)",
+"description":"Sheria za jumla za maegesho, ikiwa ni pamoja na kufuata vikwazo na kuepuka hatari au kizuizi."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Maegesho (sheria 239 hadi 247)",
+"description":"Sheria za maegesho salama, kusimama barabarani, upakiaji, nafasi za walemavu na maeneo yaliyokatazwa."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Kuegesha magari usiku (sheria 248 hadi 252)",
+"description":"Sheria za maegesho ya usiku zinazohusu mwelekeo, taa, mipaka ya kasi na alama za kuakisi."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Utekelezaji wa Upakiaji Ulioharamishwa (DPE)",
+"description":"Inaelezea utekelezaji wa sheria za kiraia wa vikwazo vya maegesho na mamlaka za mitaa."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Jumla (kanuni 253 hadi 254)",
+"description":"Sheria za jumla za barabara kuu, ikiwa ni pamoja na watumiaji waliopigwa marufuku na utumiaji wa kanuni za barabara kuu."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Ishara za barabara kuu (sheria 255 hadi 258)",
+"description":"Maana ya ishara za barabara kuu, kufungwa kwa njia nyekundu za X na mipaka ya kasi inayobadilika."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Kujiunga na barabara kuu (kanuni ya 259)",
+"description":"Sheria za kutumia barabara inayoteleza, kulinganisha kasi ya trafiki na kutoa kipaumbele kwa trafiki ya barabara kuu."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Kwenye barabara kuu (sheria 260 hadi 263)",
+"description":"Kuendesha gari kwa usalama barabarani, kufuata umbali, vikwazo na matumizi ya njia."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Nidhamu ya njiani (sheria 264 hadi 266)",
+"description":"Inahitaji matumizi ya njia ya kushoto isipokuwa kama inapita njia na inafuata kwa usalama ishara za njia."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Kupita (sheria 267 hadi 268)",
+"description":"Sheria za kupita barabara kuu, ikiwa ni pamoja na uchunguzi salama na marufuku ya kutumia bega gumu."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Bega gumu (kanuni ya 269)",
+"description":"Hupunguza matumizi ya bega gumu kwa dharura au nyakati ambapo ishara huifungua kama njia ya kukimbilia."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Kuacha (sheria 270 hadi 272)",
+"description":"Inakataza kusimama kwa barabara kuu isipokuwa katika dharura au inapoelekezwa na inaelezea matumizi ya eneo la dharura."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Kuondoka kwenye barabara kuu (sheria 273 hadi 274)",
+"description":"Sheria za kusoma ishara za kutokea, kuashiria na kuingia kwenye njia ya kutokea salama."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Mahali pa usalama wa kiasi (kanuni ya 275)",
+"description":"Inaelezea jinsi ya kutambua na kufikia eneo salama zaidi wakati wa ajali au dharura."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Uchanganuzi (kanuni ya 276)",
+"description":"Hatua za kuchukua wakati wa ajali ya barabara kuu, ikiwa ni pamoja na kuacha gari salama na kuwasiliana na usaidizi."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Sheria za ziada za barabara kuu (sheria 277 hadi 279)",
+"description":"Uchambuzi zaidi na mwongozo wa dharura, ikiwa ni pamoja na magari yanayojiunga tena na magari yenye ulemavu."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Vizuizi (kanuni ya 280)",
+"description":"Hatua za kuchukua unapokutana au kusababisha kizuizi cha barabara."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Matukio (kanuni 281 hadi 283)",
+"description":"Hatua za usalama katika matukio, njia za dharura na kufuata maagizo ya wafanyakazi wa dharura."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Matukio yanayohusisha bidhaa hatari (kanuni 284 hadi 285)",
+"description":"Tahadhari na mahitaji ya kuripoti wakati vifaa hatari vinapohusika katika tukio."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Nyaraka (sheria 286 hadi 287)",
+"description":"Wajibu wa kusimamisha, kubadilishana taarifa na kuripoti ajali kwa polisi inapohitajika."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Kazi za barabarani (kanuni ya 288)",
+"description":"Inahitaji uangalifu wa ziada, kupunguza kasi na kufuata alama za muda na udhibiti wa njia katika kazi za barabarani."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Sheria za ziada kwa barabara za mwendo kasi (sheria 289 hadi 290)",
+"description":"Sheria za ziada za usalama kwa ajali na matukio kwenye barabara zenye mwendo wa kasi."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Vivuko vya ngazi (sheria 291 hadi 299)",
+"description":"Sheria za kukaribia, kuvuka na kukabiliana na taa, vizuizi na dharura katika vivuko vya reli."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Tramu (sheria 300 hadi 307)",
+"description":"Sheria za kushiriki barabara na tramu na kuepuka reli, majukwaa na njia za tramu zilizohifadhiwa."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Mawimbi ya taa za barabarani. Taa nyekundu zinazowaka. Mawimbi ya kudhibiti njia",
+"description":"Maana ya taa za kawaida za trafiki, ishara nyekundu za kusimama zinazowaka na ishara za kudhibiti njia."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Ishara za barabara kuu",
+"description":"Maana ya ishara za onyo za barabara kuu, mipaka inayobadilika, kufungwa kwa njia na maagizo."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Ishara za kiashiria cha mwelekeo. Ishara za taa za breki. Ishara za taa zinazorudisha nyuma. Ishara za mkono. Taa za hatari",
+"description":"Huelezea ishara za mwanga wa gari na mikono zinazotumika kuwasilisha mienendo na hatari zinazokusudiwa."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Maafisa wa polisi. Ishara za mikono kwa watu wanaodhibiti trafiki. Maafisa wa Wakala wa Viwango vya Madereva na Magari na maafisa wa trafiki. Doria za kuvuka shule",
+"description":"Ishara na maagizo yanayotolewa na polisi, wafanyakazi wa trafiki walioidhinishwa na doria za kuvuka shule."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Ishara zinazotoa amri",
+"description":"Alama za barabarani za lazima na zinazokataza ambazo watumiaji wa barabara wanatakiwa kuzifuata kisheria."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Ishara za onyo",
+"description":"Ishara za onyo kuhusu hatari, mabadiliko ya hali ya barabara na watumiaji wa barabara walio hatarini mbele."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Ishara za mwelekeo",
+"description":"Ishara zinazoonyesha njia, sehemu zinazoelekea, mipangilio ya makutano, nambari za barabara na njia za kugeuza."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Ishara za taarifa",
+"description":"Ishara za mstatili zinazotoa taarifa za maegesho, njia, barabara kuu, njia na kituo."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Ishara za kazi za barabarani",
+"description":"Ishara za muda zinazoonya kuhusu kazi za barabara, hatari, kufungwa kwa njia, mipaka ya kasi na mifumo ya kuzuia mtiririko wa magari."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Kuvuka njia ya gari. Kukaa kando ya njia ya gari. Kukaa kando ya njia ya gari. Kwenye ukingo wa barabara au pembezoni mwa njia ya gari. Alama zingine za barabarani",
+"description":"Maana za kusimama, kutoa njia, njia, kusubiri, kupakia, Njia Nyekundu, makutano ya sanduku na alama zingine za barabara."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Alama za nyuma za magari makubwa ya mizigo. Bamba za onyo la hatari. Alama za makadirio. Nyingine",
+"description":"Alama za magari zinazotambua magari mazito, bidhaa hatari, mizigo inayojitokeza na mabasi ya shule."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Wewe na baiskeli yako",
+"description":"Uchaguzi wa baiskeli, matengenezo, breki, taa, viakisi, hali ya tairi na mafunzo."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Mahitaji ya leseni ya pikipiki. Aina za leseni za mopeds na pikipiki",
+"description":"CBT, vikwazo vya wanafunzi, majaribio, ufikiaji endelevu na kategoria za leseni za AM, A1, A2 na A."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Nyaraka. Viendeshi vya wanafunzi",
+"description":"Leseni za udereva, MOT, bima, usajili, kodi ya gari, SORN na mahitaji ya mwanafunzi-dereva."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Sheria za trafiki barabarani. Sheria na kanuni kabla ya 1988. Sheria na kanuni kuanzia 1988 na kuendelea",
+"description":"Upeo wa sheria ya trafiki barabarani ya Uingereza na vifupisho vya Sheria na Kanuni kuu zilizotajwa katika Kanuni za Barabara Kuu."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Adhabu",
+"description":"Adhabu za juu zaidi, pointi za adhabu, kutostahili, kufutwa kwa dereva mpya, kupimwa tena na matokeo mengine ya kosa."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Utunzaji wa gari. Usalama wa gari",
+"description":"Ustahimilivu wa barabara, taa za onyo, matairi, vimiminika, usalama wa mafuta, moto wa magari na kuzuia wizi."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Kukabiliana na hatari. 2. Pata msaada. 3. Kuwasaidia wale wanaohusika. 4. Kutoa huduma ya dharura",
+"description":"Usalama katika eneo la ajali, simu za dharura, huduma kwa majeruhi, DRABC, CPR, matibabu ya kutokwa na damu na kuungua."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Kanuni ya usalama. Sheria ya Madereva Wapya. Mafunzo zaidi",
+"description":"Kupunguza hatari kwa madereva wapya, kufutwa kwa leseni ya pointi sita na mafunzo zaidi ya hiari kama vile Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Mabadiliko ya kipimo. Tovuti muhimu. Usomaji zaidi",
+"description":"Ubadilishaji wa maili kwa kilomita na rasilimali rasmi kwa usalama barabarani, kuendesha gari, kupanda, kuvuta na taarifa za gari."
+}
+]

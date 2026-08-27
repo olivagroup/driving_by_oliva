@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Formulimi i Kodit të Rrugës. Njohja dhe zbatimi i rregullave",
+"description":"Shpjegon se si përdoren fjalët DUHET, NUK DUHET, duhet dhe nuk duhet, si dhe përgjegjësinë për të njohur dhe zbatuar Kodin Rrugor."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Automjete vetë-drejtuese",
+"description":"Shpjegon përgjegjësitë ligjore të përdoruesve kur një automjet vetëdrejtues drejtohet ose jo vetë."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Hierarkia e Përdoruesve të Rrugës",
+"description":"Shpjegon se përdoruesit e rrugës të aftë të shkaktojnë dëmin më të madh kanë përgjegjësinë më të madhe për të zvogëluar rrezikun."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Udhëzime të përgjithshme (rregullat 1 deri në 6)",
+"description":"Udhëzime të përgjithshme sigurie për këmbësorët, duke përfshirë trotuaret, dukshmërinë dhe rrugët e përbashkëta."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Kalimi i rrugës (rregullat 7 deri në 17)",
+"description":"Kodi i Kryqit të Gjelbër dhe rregullat për zgjedhjen e një vendi të sigurt dhe kalimin e rrugëve në mënyrë të sigurt."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Kalimet (rregullat 18 deri në 30)",
+"description":"Rregulla për këmbësorët që përdorin kalimet për zebra, pelikanë, pufina, tukanë dhe kalorës."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Situatat që kërkojnë kujdes shtesë (rregullat 31 deri në 35)",
+"description":"Masa paraprake shtesë për këmbësorët e cenueshëm, automjetet e emergjencës, autobusët dhe kalimet hekurudhore."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Karriget me rrota me motor dhe skuterët e lëvizshmërisë (rregullat 36 deri në 37)",
+"description":"Rregulla për përdorimin e karrigeve me rrota me motor dhe skuterëve të lëvizshmërisë në trotuare dhe rrugë."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Në trotuare (rregullat 38 deri në 40)",
+"description":"Rregullat për skuterët e lëvizshmërisë dhe karriget me rrota të motorizuara që përdorin trotuaret dhe zonat për këmbësorë."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Në rrugë (rregullat 41 deri në 46)",
+"description":"Rregullat e përdorimit të rrugës, ndriçimit, dukshmërisë dhe sigurisë për karriget me rrota me motor dhe skuterët e lëvizshmërisë."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Mjete të tërhequra nga kuaj (rregullat 47 deri në 48)",
+"description":"Udhëzime për sigurinë, ndriçimin, itinerarin dhe pajisjet për shoferët e automjeteve të tërhequra nga kuajt."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Kalorësit (rregullat 49 deri në 55)",
+"description":"Rregullat për hipjen e sigurt mbi kuaj, duke përfshirë veshjet, pajisjet, pozicionimin në rrugë dhe sinjalistikën."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Kafshë të tjera (rregullat 56 deri në 58)",
+"description":"Rregulla për qentë, kafshët në automjete dhe lëvizjen e bagëtive përgjatë rrugëve."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Përmbledhje (rregullat 59 deri në 72)",
+"description":"Rregullat kryesore të çiklizmit që mbulojnë veshjet, pajisjet, ndriçimin, pozicionin në rrugë, korsitë e biçikletave dhe rrugët e përbashkëta."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Kryqëzimet rrugore (rregullat 73 deri në 77)",
+"description":"Rregullat për çiklistët që afrohen dhe kalojnë nëpër kryqëzime, duke përfshirë pozicionimin dhe përparësinë."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Rrethrrotullimet (rregullat 78 deri në 80)",
+"description":"Rregullat për çiklistët që përdorin rrethrrotullimet, duke përfshirë pozicionin e korsisë, sinjalistikën dhe alternativat më të sigurta."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Kalimi i rrugës (rregullat 81 deri në 82)",
+"description":"Rregulla për çiklistët që përdorin kalime vetëm për biçikleta, tukan dhe kalorësi."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Të përgjithshme (rregullat 83 deri në 88)",
+"description":"Rregullat e përgjithshme të motoçikletave që mbulojnë lejet e drejtimit, helmetat, mbrojtjen e syve, pasagjerët dhe dukshmërinë gjatë ditës."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Gjendja e automjetit (rregulli 89)",
+"description":"Kërkon që motoçiklistët ta mbajnë motoçikletën e tyre në gjendje të mirë pune dhe të mirëmbajnë gomat, frenat, dritat dhe drejtimin."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Aftësia për të drejtuar (rregullat 90 deri në 94)",
+"description":"Rregullat mbi lodhjen, sëmundjen, shikimin, përqendrimin dhe faktorë të tjerë që ndikojnë në aftësinë për të drejtuar makinën."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkooli dhe drogat (rregullat 95 deri në 96)",
+"description":"Ndalohet drejtimi i mjetit nën ndikimin e alkoolit, drogave ose ilaçeve të paligjshme."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Para nisjes (rregulli 97)",
+"description":"Kontrolle para udhëtimit për gjendjen e automjetit në rrugë, dukshmërinë, kontrollet, veshjet dhe ngarkesat e sigurta."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Tërheqja dhe ngarkimi i automjeteve (rregulli 98)",
+"description":"Rregullat për sigurimin e ngarkesave, kufizimet e tërheqjes, rimorkiot, zgjatimet dhe shmangien e mbingarkesës."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Rripat e sigurimit dhe sistemet e kufizimit të fëmijëve (rregullat 99 deri në 102)",
+"description":"Kërkesat ligjore për rripat e sigurimit, sistemet e sigurimit për fëmijë dhe transportin e sigurt të fëmijëve."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Sinjalet (rregullat 103 deri në 106)",
+"description":"Rregulla për dhënien e sinjaleve të qarta dhe interpretimin e sinjaleve nga përdoruesit e tjerë të rrugës."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Procedura të tjera ndalimi (rregullat 107 deri në 112)",
+"description":"Udhëzime nga policia dhe oficerët e autorizuar, pajtueshmëria me semaforët dhe përdorimi i borisë."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Kërkesat për ndriçim (rregullat 113 deri në 116)",
+"description":"Rregullat që rregullojnë dritat e përparme, dritat anësore, dritat e mjegullës dhe shmangien e verbimit të të tjerëve."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Kontrolli i automjetit (rregullat 117 deri në 126)",
+"description":"Kontroll i sigurt i automjetit, frenim, distanca e ndalimit, rrëshqitje, ecje në natyrë dhe pajtueshmëri me kufijtë e shpejtësisë."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Vijat dhe shenjat e korsive në rrugë (rregullat 127 deri në 132)",
+"description":"Kuptimi dhe efekti ligjor i vijave qendrore, vijave të rrezikut, vijave të bardha të dyfishta, vijave të korsive dhe shevronëve."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Karrexhata me shumë korsi (rregullat 133 deri në 143)",
+"description":"Disiplina në korsi, ndërrimi i korsive, ngjitja në korsi, korsitë e autobusëve, korsitë e biçikletave dhe korsitë me shumë njerëz."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Këshilla të përgjithshme (rregullat 144 deri në 158)",
+"description":"Sjellje e përgjithshme e sigurt gjatë drejtimit të automjetit, konsideratë për të tjerët, shpejtësi, përparësi dhe shmangie e shpërqendrimeve."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Rregullat e përgjithshme (rregullat 159 deri në 161)",
+"description":"Vëzhgim, sinjalizim dhe lëvizje e sigurt përpara se të niset ose të hyjë në trafik."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Parakalimi (rregullat 162 deri në 169)",
+"description":"Rregullat për parakalimin në mënyrë të sigurt, duke përfshirë hapësirën e lirë, vendet e ndaluara dhe parakalimin."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Kryqëzimet rrugore (rregullat 170 deri në 183)",
+"description":"Rregulla për afrimin në kryqëzime, dhënien e përparësisë, kthesën, daljen nga rruga dhe kalimin e trafikut."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Rrethrrotullimet (rregullat 184 deri në 190)",
+"description":"Rregullat për afrimin, përparësinë, përzgjedhjen e korsisë, sinjalizimin dhe largimin nga rrethrrotullimet."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Kalimet për këmbësorë (rregullat 191 deri në 199)",
+"description":"Përgjegjësitë e shoferit në kalimet zebra, pelikani, pufini, tukani dhe paralele."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Kthim mbrapsht (200 deri në 203)",
+"description":"Rregulla për kontrollin e mjedisit përreth, kthimin prapa në mënyrë të sigurt dhe shmangien e kthimit të tepërt prapa."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Përmbledhje (rregulli 204)",
+"description":"Prezanton detyrimin për të mbrojtur përdoruesit e rrugës që janë veçanërisht në rrezik."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Këmbësorët (rregullat 205 deri në 210)",
+"description":"Kujdes i shtuar rreth fëmijëve, të moshuarve, këmbësorëve me aftësi të kufizuara dhe njerëzve që kalojnë rrugët."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motoçiklistët dhe çiklistët (rregullat 211 deri në 213)",
+"description":"Vëzhgim shtesë dhe hapësirë e sigurt përreth motoçiklistëve dhe çiklistëve, veçanërisht në kryqëzime."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Përdorues të tjerë të rrugës (rregullat 214 deri në 218)",
+"description":"Kujdes shtesë rreth kafshëve, kalorësve, shoferëve fillestarë dhe përdoruesve të rrugës pa përvojë."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Automjete të tjera (rregullat 219 deri në 225)",
+"description":"Rregulla për automjetet e emergjencës, automjetet e mëdha, autobusët, tramvajet dhe automjetet me lëvizje të ngadaltë."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Përmbledhje (rregulli 226)",
+"description":"Kërkon që drejtuesit e automjeteve të përshtaten me motin e keq dhe të përdorin dritat e përshtatshme kur dukshmëria është e reduktuar."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Moti i lagësht (rregulli 227)",
+"description":"Udhëzime mbi kapjen e reduktuar, distancat më të gjata të ndalimit, spërkatjen, akuaplanimin dhe ujërat e përmbytjes."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Moti me akull dhe dëborë (rregullat 228 deri në 231)",
+"description":"Rregulla për përgatitjen, drejtimin pa probleme dhe ruajtjen e kontrollit në akull dhe borë."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Moti me erë (rregullat 232 deri në 233)",
+"description":"Udhëzime mbi erërat e forta anësore dhe përdoruesit e pambrojtur të rrugës të prekur nga erërat e forta."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Mjegull (rregullat 234 deri në 236)",
+"description":"Rregullat mbi dukshmërinë, shpejtësinë, distancën pasuese dhe përdorimin e saktë të dritave të mjegullës."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Moti i nxehtë (rregulli 237)",
+"description":"Udhëzime mbi rreziqet në sipërfaqen e rrugës që lidhen me nxehtësinë dhe shmangien e mbinxehjes."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Të përgjithshme (rregulli 238)",
+"description":"Rregullat e përgjithshme të parkimit, duke përfshirë pajtueshmërinë me kufizimet dhe shmangien e rrezikut ose pengesave."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Parkimi (rregullat 239 deri në 247)",
+"description":"Rregullat për parkim të sigurt, ndalim buzë rrugës, ngarkim, hapësira për persona me aftësi të kufizuara dhe vende të ndaluara."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Parkimi natën (rregullat 248 deri në 252)",
+"description":"Rregullat e parkimit natën që mbulojnë drejtimin, ndriçimin, kufijtë e shpejtësisë dhe shenjat reflektuese."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Zbatimi i Rregullave të Parkimit të Dekriminalizuar (DPE)",
+"description":"Shpjegon zbatimin civil të kufizimeve të parkimit nga autoritetet lokale."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Të përgjithshme (rregullat 253 deri në 254)",
+"description":"Rregullat e përgjithshme të autostradës, duke përfshirë përdoruesit e ndaluar dhe zbatimin e rregulloreve të autostradës."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Sinjalet e autostradës (rregullat 255 deri në 258)",
+"description":"Kuptimi i sinjaleve të autostradës, mbylljes së korsive me X të kuqe dhe kufizimeve të shpejtësisë së ndryshueshme."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Lidhja me autostradën (rregulli 259)",
+"description":"Rregullat për përdorimin e rrugës së rrëshqitshme, përputhja e shpejtësisë së trafikut dhe dhënia e përparësisë trafikut në autostradë."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Në autostradë (rregullat 260 deri në 263)",
+"description":"Ngarje e sigurt në autostradë, ndjekje e distancave, kufizime dhe përdorim i korsive."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Disiplina në korsi (rregullat 264 deri në 266)",
+"description":"Kërkon përdorimin e korsisë së majtë përveçse kur bëhet parakalim dhe respektimin e sigurt të sinjalistikës së korsisë."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Parakalimi (rregullat 267 deri në 268)",
+"description":"Rregullat e tejkalimit në autostradë, duke përfshirë vëzhgimin e sigurt dhe ndalimin e përdorimit të korsisë së emergjencës."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Shpatull i fortë (rregulli 269)",
+"description":"Kufizon përdorimin e korsisë së emergjencës vetëm në raste urgjente ose kur tabelat e hapin atë si korsi vrapimi."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Ndalimi (rregullat 270 deri në 272)",
+"description":"Ndalon ndalimin në autostradë përveç në raste urgjence ose kur udhëzohet dhe shpjegon përdorimin e zonës së emergjencës."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Dalja nga autostrada (rregullat 273 deri në 274)",
+"description":"Rregulla për leximin e tabelave të daljes, sinjalizimin dhe hyrjen në korsinë e daljes në mënyrë të sigurt."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Vend i sigurisë relative (rregulli 275)",
+"description":"Shpjegon se si të identifikohet dhe të arrihet në një vendndodhje më të sigurt gjatë një avarie ose emergjence."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Prishjet (rregulli 276)",
+"description":"Veprimet që duhen ndërmarrë gjatë një defekti në autostradë, duke përfshirë largimin e automjetit në mënyrë të sigurt dhe kontaktimin e ndihmës."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Rregulla shtesë për autostradat (rregullat 277 deri në 279)",
+"description":"Udhëzime shtesë në rast avarie dhe emergjence, duke përfshirë rikthimin në trafik dhe automjetet e paaftë."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Pengesa (rregulli 280)",
+"description":"Veprimet që duhen ndërmarrë kur hasni ose shkaktoni një pengesë në rrugë."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Incidentet (rregullat 281 deri në 283)",
+"description":"Masat e sigurisë në incidente, korridoret e emergjencës dhe pajtueshmëria me personelin e emergjencës."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Incidentet që përfshijnë mallra të rrezikshme (rregullat 284 deri në 285)",
+"description":"Masat paraprake dhe kërkesat e raportimit kur në një incident përfshihen materiale të rrezikshme."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Dokumentacioni (rregullat 286 deri në 287)",
+"description":"Detyrat për të ndaluar, për të shkëmbyer informacion dhe për të raportuar përplasjet në polici kur kërkohet."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Punime rrugore (rregulli 288)",
+"description":"Kërkon kujdes shtesë, shpejtësi të reduktuar dhe pajtueshmëri me sinjalistikën e përkohshme dhe kontrollet e korsive gjatë punimeve rrugore."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Rregulla shtesë për rrugët me shpejtësi të lartë (rregullat 289 deri në 290)",
+"description":"Rregulla shtesë sigurie për avaritë dhe incidentet në rrugët me shpejtësi të lartë."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Kalimet në nivel (rregullat 291 deri në 299)",
+"description":"Rregullat për afrimin, kalimin dhe reagimin ndaj dritave, barrierave dhe emergjencave në kalimet hekurudhore."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Tramvajet (rregullat 300 deri në 307)",
+"description":"Rregulla për ndarjen e rrugëve me tramvaje dhe shmangien e shinave, platformave dhe itinerareve të rezervuara të tramvajit."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Sinjalet e semaforit. Dritat e kuqe që ndizen. Sinjalet e kontrollit të korsisë",
+"description":"Kuptimet e semaforëve standardë, sinjaleve të ndalimit me të kuqe që vezullojnë dhe sinjaleve të kontrollit të korsisë."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Sinjalet e autostradës",
+"description":"Kuptimet e sinjaleve paralajmëruese të autostradës, kufizimet e ndryshueshme, mbylljet e korsive dhe udhëzimet."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Sinjalet e treguesve të drejtimit. Sinjalet e dritave të frenave. Sinjalet e dritave të kthimit prapa. Sinjalet e krahut. Dritat e emergjencës",
+"description":"Shpjegon sinjalet e dritave dhe të krahëve të automjetit që përdoren për të komunikuar lëvizjet dhe rreziqet e synuara."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Oficerët e policisë. Sinjale krahu për personat që kontrollojnë trafikun. Oficerët e Agjencisë së Standardeve të Shoferëve dhe Mjeteve dhe oficerët e trafikut. Patrullat e kalimeve shkollore",
+"description":"Sinjalet dhe udhëzimet e dhëna nga policia, personeli i autorizuar i trafikut dhe patrullat e kalimeve shkollore."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Shenjat që japin urdhra",
+"description":"Shenjat e trafikut të detyrueshme dhe ndaluese që përdoruesit e rrugës janë të detyruar ligjërisht t`i zbatojnë."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Shenjat paralajmëruese",
+"description":"Shenja që paralajmërojnë për rreziqe, ndryshim të kushteve të rrugës dhe përdorues të pambrojtur të rrugës përpara."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Shenjat e drejtimit",
+"description":"Tabelat që tregojnë itinerare, destinacione, planimetri të kryqëzimeve, numrat e rrugëve dhe devijimet."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Shenjat e informacionit",
+"description":"Tabelat drejtkëndëshe që ofrojnë informacion për parkimin, korsinë, autostradën, itinerarin dhe objektet."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Shenjat e punimeve rrugore",
+"description":"Shenja të përkohshme që paralajmërojnë për punime rrugore, rreziqe, mbyllje korsish, kufizime shpejtësie dhe sisteme kundërrrjedhjeje."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Përtej karrexhatës. Përgjatë karrexhatës. Përgjatë skajit të karrexhatës. Në bordurë ose në skaj të karrexhatës. Shenja të tjera rrugore",
+"description":"Kuptimet e ndalesës, dhënies së përparësisë, korsisë, pritjes, ngarkimit, Rrugës së Kuqe, kryqëzimit në formë kutie dhe shenjave të tjera rrugore."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Shenjat e pasme të automjeteve të mëdha për mallra. Pllaka paralajmëruese për rrezik. Shenjat e projeksioneve. Të tjera",
+"description":"Shenjat e automjeteve që identifikojnë automjetet e rënda, mallrat e rrezikshme, ngarkesat e dala dhe autobusët shkollorë."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Ti dhe biçikleta jote",
+"description":"Përzgjedhja e biçikletës, mirëmbajtja, frenat, ndriçimi, reflektorët, gjendja e gomave dhe trajnimi."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Kërkesat për leje drejtimi për motoçikleta. Kategoritë e lejeve për mopedët dhe motoçikletat",
+"description":"CBT, kufizimet për nxënësit, testet, qasja progresive dhe kategoritë e licencave AM, A1, A2 dhe A."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Dokumente. Shoferë që mësojnë",
+"description":"Kërkesat për leje drejtimi, MOT, sigurim, regjistrim, taksën e automjeteve, SORN dhe për ata që mësojnë të drejtojnë makinën."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Ligji i trafikut rrugor. Aktet dhe rregulloret para vitit 1988. Aktet dhe rregulloret nga viti 1988 e tutje",
+"description":"Fusha e zbatimit të ligjit të trafikut rrugor në Mbretërinë e Bashkuar dhe shkurtimet për aktet dhe rregulloret kryesore të cituara në Kodin e Rrugëve."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Penalitete",
+"description":"Gjobat maksimale, pikët e penalizimit, skualifikimi, revokimi i lejes së drejtimit të ri, ritestimi dhe pasoja të tjera të shkeljes."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Mirëmbajtja e automjeteve. Siguria e automjeteve",
+"description":"Siguria rrugore, dritat paralajmëruese, gomat, lëngjet, siguria e karburantit, parandalimi i zjarreve të automjeteve dhe vjedhjeve."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Përballuni me rrezikun. 2. Kërkoni ndihmë. 3. Ndihmoni ata që janë të përfshirë. 4. Ofroni kujdes emergjent",
+"description":"Siguria në vendin e aksidentit, thirrje emergjente, kujdes për të lënduarit, DRABC, CPR, trajtim i gjakderdhjes dhe djegieve."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Kodi i sigurisë. Akti i ri për shoferët. Trajnim i mëtejshëm",
+"description":"Ulje e rrezikut për shoferët e rinj, heqje e patentës me gjashtë pikë dhe trajnime të mëtejshme opsionale si Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Konvertimet metrike. Faqe interneti të dobishme. Lexime të mëtejshme",
+"description":"Konvertimet nga miljet në kilometra dhe burimet zyrtare për sigurinë rrugore, drejtimin e automjeteve, ngarjen në timon, tërheqjen dhe informacionin mbi automjetet."
+}
+]

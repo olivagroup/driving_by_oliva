@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Trafiklagens formulering. Att känna till och tillämpa reglerna.",
+"description":"Förklarar hur orden MÅSTE, FÅR INTE, bör och bör inte användas, och ansvaret att känna till och tillämpa trafikreglerna."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Självkörande fordon",
+"description":"Förklarar användarnas juridiska ansvar när ett självkörande fordon är eller inte är självkörande."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Hierarki av trafikanter",
+"description":"Förklarar att trafikanter som kan orsaka störst skada har det största ansvaret för att minska faran."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Allmänna riktlinjer (reglerna 1 till 6)",
+"description":"Allmänna säkerhetsanvisningar för fotgängare, inklusive trottoarer, sikt och gemensamma leder."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Att korsa vägen (reglerna 7 till 17)",
+"description":"Gröna Korsets regler och regler för att välja en säker plats och korsa vägar säkert."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Övergångar (reglerna 18 till 30)",
+"description":"Regler för fotgängare som använder övergångsställen för zebra, pelikan, lunnefågel, tukan och riddjur."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Situationer som kräver extra försiktighet (reglerna 31 till 35)",
+"description":"Extra försiktighetsåtgärder för utsatta fotgängare, utryckningsfordon, bussar och järnvägsövergångar."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Eldrivna rullstolar och mobilitetsskotrar (reglerna 36 till 37)",
+"description":"Regler för användning av elrullstolar och elskotrar på trottoarer och vägar."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"På trottoarer (reglerna 38 till 40)",
+"description":"Regler för elscooter och rullstolar som använder trottoarer och gångytor."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"På vägen (reglerna 41 till 46)",
+"description":"Regler för väganvändning, belysning, sikt och säkerhetsregler för rullstolar och elskotrar."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Hästdragna fordon (reglerna 47 till 48)",
+"description":"Säkerhets-, belysnings-, rutt- och utrustningsvägledning för förare av hästdragna fordon."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Ryttare (reglerna 49 till 55)",
+"description":"Regler för säker ridning av hästar, inklusive kläder, utrustning, vägpositionering och signaler."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Andra djur (reglerna 56 till 58)",
+"description":"Regler för hundar, djur i fordon och förflyttning av boskap längs vägar."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Översikt (reglerna 59 till 72)",
+"description":"Grundläggande cykelregler som omfattar kläder, utrustning, belysning, vägens position, cykelbanor och gemensamma rutter."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Vägkorsningar (reglerna 73 till 77)",
+"description":"Regler för cyklister som närmar sig och förflyttar sig i korsningar, inklusive positionering och prioritet."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Rondeller (reglerna 78 till 80)",
+"description":"Regler för cyklister som använder rondeller, inklusive körfältsposition, signalering och säkrare alternativ."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Att korsa vägen (reglerna 81 till 82)",
+"description":"Regler för cyklister som använder övergångsställen för cykel, tukaner och ridåkare."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Allmänt (reglerna 83 till 88)",
+"description":"Allmänna motorcykelregler som omfattar körkort, hjälmar, ögonskydd, passagerare och sikt i dagsljus."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Fordonsskick (regel 89)",
+"description":"Kräver att motorcyklister håller sin motorcykel i trafiksäkert skick och underhåller däck, bromsar, ljus och styrning."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Körkortsbehörighet (reglerna 90 till 94)",
+"description":"Regler om trötthet, sjukdom, syn, koncentration och andra faktorer som påverkar körkonditionen."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkohol och droger (reglerna 95 till 96)",
+"description":"Förbjuder körning under påverkan av alkohol, illegala droger eller mediciner."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Innan avfärd (regel 97)",
+"description":"Kontroller före resan av fordonets trafiksäkerhet, sikt, reglage, kläder och säkra laster."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Bogsering och lastning av fordon (regel 98)",
+"description":"Regler för säkra laster, bogseringsgränser, släpvagnar, utskjutande delar och undvikande av överlastning."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Säkerhetsbälten och barnsäkerhetsanordningar (reglerna 99 till 102)",
+"description":"Lagkrav för säkerhetsbälten, barnsäkerhetsanordningar och säker transport av barn."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Signaler (reglerna 103 till 106)",
+"description":"Regler för att ge tydliga signaler och tolka signaler från andra trafikanter."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Andra stoppprocedurer (reglerna 107 till 112)",
+"description":"Anvisningar från polis och behöriga tjänstemän, efterlevnad av trafikljus och användning av tuta."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Belysningskrav (reglerna 113 till 116)",
+"description":"Regler för strålkastare, positionsljus, dimljus och för att undvika att blända andra."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Kontroll över fordonet (reglerna 117 till 126)",
+"description":"Säker fordonskontroll, bromsning, stoppsträckor, sladd, frihjulning och hastighetsbegränsning."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Linjer och körfältsmarkeringar på vägen (reglerna 127 till 132)",
+"description":"Betydelse och rättslig verkan av mittlinjer, varningslinjer, dubbla vita linjer, körfältslinjer och chevroner."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Flerfiliga körbanor (reglerna 133 till 143)",
+"description":"Körfältsdisciplin, körfältsbyten, klätterfält, bussfiler, cykelfiler och körfält med hög trafik."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Allmänna råd (reglerna 144 till 158)",
+"description":"Allmänt säkert köruppförande, hänsyn till andra, hastighet, prioritet och att undvika distraktioner."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Allmänna regler (reglerna 159 till 161)",
+"description":"Observation, signalering och säker förflyttning innan ivägkörning eller utträde i trafik."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Omkörning (reglerna 162 till 169)",
+"description":"Regler för säker omkörning, inklusive utrymme för trafik, förbjudna platser och att bli omkörd."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Vägkorsningar (reglerna 170 till 183)",
+"description":"Regler för att närma sig korsningar, väja, svänga, komma ut ur och korsande trafik."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Rondeller (reglerna 184 till 190)",
+"description":"Regler för infart, prioritet, filval, signalering och utfart från rondeller."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Övergångsställen (reglerna 191 till 199)",
+"description":"Förarens ansvar vid zebra-, pelikan-, lunnefågel-, tukan- och parallellkorsningar."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Backning (200 till 203)",
+"description":"Regler för att kontrollera omgivningen, backa säkert och undvika överdriven backning."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Översikt (regel 204)",
+"description":"Inför skyldigheten att skydda trafikanter som är särskilt utsatta."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Fotgängare (reglerna 205 till 210)",
+"description":"Extra uppmärksamhet kring barn, äldre, funktionshindrade fotgängare och personer som korsar vägar."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motorcyklister och cyklister (reglerna 211 till 213)",
+"description":"Extra observation och säkert utrymme runt motorcyklister och cyklister, särskilt vid korsningar."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Andra trafikanter (reglerna 214 till 218)",
+"description":"Extra försiktighet kring djur, ryttare, elever i körning och oerfarna trafikanter."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Andra fordon (reglerna 219 till 225)",
+"description":"Regler för utryckningsfordon, stora fordon, bussar, spårvagnar och långsamtgående fordon."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Översikt (regel 226)",
+"description":"Kräver att förare anpassar sig till dåligt väder och använder lämpliga ljus när sikten är nedsatt."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Vått väder (regel 227)",
+"description":"Vägledning om minskat väggrepp, längre bromssträckor, stänk, vattenplaning och översvämningar."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Isigt och snöigt väder (reglerna 228 till 231)",
+"description":"Regler för att förbereda sig, köra smidigt och bibehålla kontrollen på is och snö."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Blåsigt väder (reglerna 232 till 233)",
+"description":"Vägledning om starka sidvindar och oskyddade trafikanter som påverkas av bybyar."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Dimma (reglerna 234 till 236)",
+"description":"Regler om sikt, hastighet, avstånd till följd och korrekt användning av dimljus."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Varmt väder (regel 237)",
+"description":"Vägledning om värmerelaterade faror på vägytor och hur man undviker överhettning."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Allmänt (regel 238)",
+"description":"Allmänna parkeringsregler, inklusive efterlevnad av restriktioner och undvikande av fara eller hinder."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Parkering (reglerna 239 till 247)",
+"description":"Regler för säker parkering, vägkantsstopp, lastning, handikappplatser och förbjudna platser."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Parkering på natten (reglerna 248 till 252)",
+"description":"Regler för nattparkering som omfattar riktning, belysning, hastighetsbegränsningar och reflexmarkeringar."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Avkriminaliserad parkeringstillsyn (DPE)",
+"description":"Förklarar hur lokala myndigheter tillämpar parkeringsrestriktioner i samhället."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Allmänt (reglerna 253 till 254)",
+"description":"Allmänna motorvägsregler, inklusive förbjudna användare och tillämpning av motorvägsregler."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Motorvägssignaler (reglerna 255 till 258)",
+"description":"Betydelsen av motorvägssignaler, avstängningar av röda X-körfält och variabla hastighetsbegränsningar."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Att köra på motorväg (regel 259)",
+"description":"Regler för användning av avfarten, matchning av trafikhastighet och prioritering av motorvägstrafik."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"På motorvägen (reglerna 260 till 263)",
+"description":"Säker körning på motorväg, avståndsreglering, restriktioner och körfältsanvändning."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Bandisciplin (reglerna 264 till 266)",
+"description":"Kräver användning av vänsterfil om inte vid omkörning och säker efterlevnad av filsignaler."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Omkörning (reglerna 267 till 268)",
+"description":"Regler för omkörning på motorväg, inklusive säker observation och förbud mot att använda vägrenen."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Vågren (regel 269)",
+"description":"Begränsar användningen av vägrenen till nödsituationer eller tider då skyltar öppnar den som körfil."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Stopp (reglerna 270 till 272)",
+"description":"Förbjuder att stanna på motorväg förutom i nödsituationer eller när det anvisas en väg och förklarar användning av nödområden."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Avfart från motorvägen (reglerna 273 till 274)",
+"description":"Regler för att läsa utfartsskyltar, signalera och säkert inträde i utfartsfilen."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Plats för relativ säkerhet (regel 275)",
+"description":"Förklarar hur man identifierar och når en säkrare plats vid ett haveri eller en nödsituation."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Nedbrytningar (regel 276)",
+"description":"Åtgärder att vidta vid motorvägshaveri, inklusive att lämna fordonet säkert och kontakta hjälp."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Ytterligare regler för motorvägar (reglerna 277 till 279)",
+"description":"Ytterligare vägassistans och nödanvisningar, inklusive återinträde i trafiken och handikappade fordon."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Hinder (regel 280)",
+"description":"Åtgärder att vidta när man stöter på eller orsakar ett väghinder."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Incidenter (reglerna 281 till 283)",
+"description":"Säkerhetsåtgärder vid incidenter, nödkorridorer och efterlevnad av räddningspersonal."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Incidenter som involverar farligt gods (reglerna 284 till 285)",
+"description":"Försiktighetsåtgärder och rapporteringskrav när farligt material är inblandat i en incident."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Dokumentation (reglerna 286 till 287)",
+"description":"Skyldighet att stanna, utbyta information och rapportera kollisioner till polisen vid behov."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Vägarbeten (regel 288)",
+"description":"Kräver extra försiktighet, minskad hastighet och efterlevnad av tillfälliga skyltar och körfältskontroller vid vägarbeten."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Ytterligare regler för höghastighetsvägar (reglerna 289 till 290)",
+"description":"Ytterligare säkerhetsregler vid haverier och tillbud på höghastighetsvägar."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Plankorsningar (reglerna 291 till 299)",
+"description":"Regler för att närma sig, passera och reagera på ljus, bommar och nödsituationer vid järnvägsövergångar."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Spårvägar (reglerna 300 till 307)",
+"description":"Regler för att dela vägar med spårvagnar och undvika räls, perronger och reserverade spårvagnslinjer."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Trafikljussignaler. Blinkande röda ljus. Filkontrollsignaler",
+"description":"Betydelsen av vanliga trafikljus, blinkande röda stoppsignaler och filkontrollsignaler."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Motorvägssignaler",
+"description":"Betydelsen av varningssignaler på motorväg, variabla gränser, avstängningar av körfält och instruktioner."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Blinkers. Bromsljus. Backljus. Armsignaler. Varningsblinkers.",
+"description":"Förklarar fordonsljus- och armsignaler som används för att kommunicera avsedda rörelser och faror."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Poliser. Signalering till personer som kontrollerar trafiken. Tjänstemän från Trafikverket och trafikvakter. Skolpatruller",
+"description":"Signaler och instruktioner från polis, behörig trafikpersonal och skolpatruller."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Skyltar som ger order",
+"description":"Obligatoriska och förbjudande trafikskyltar som trafikanter är skyldiga att följa enligt lag."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Varningsskyltar",
+"description":"Skyltar som varnar för faror, förändrade vägförhållanden och oskyddade trafikanter längre fram."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Vägvisningsskyltar",
+"description":"Skyltar som visar rutter, destinationer, korsningsutformning, vägnummer och omledningar."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Informationsskyltar",
+"description":"Rektangulära skyltar som ger information om parkering, körfält, motorväg, rutt och anläggning."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Vägarbetesskyltar",
+"description":"Tillfälliga skyltar som varnar för vägarbeten, faror, avstängda körfält, hastighetsbegränsningar och mottrafiksystem."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Över körbanan. Längs körbanan. Längs körbanans kant. På trottoarkanten eller vid körbanans kant. Andra vägmarkeringar",
+"description":"Betydelserna av stopp, väjningsföreträde, körfält, väntan, lastning, röd linje, korsning och andra vägmarkeringar."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Bakre markeringar för stora lastbilar. Varningsskyltar. Utskjutande markörer. Övrigt",
+"description":"Fordonsmarkeringar som identifierar tunga fordon, farligt gods, utskjutande laster och skolbussar."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Du och din cykel",
+"description":"Cykelval, underhåll, bromsar, belysning, reflexer, däckens skick och utbildning."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Krav för motorcykelkörkort. Körkortskategorier för mopeder och motorcyklar",
+"description":"CBT, elevrestriktioner, tester, progressiv åtkomst och AM-, A1-, A2- och A-körkortskategorier."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Dokument. Elevförare",
+"description":"Körkort, besiktning, försäkring, registrering, fordonsskatt, SORN och krav på elevkörning."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Trafiklagar. Lagar och förordningar före 1988. Lagar och förordningar från och med 1988.",
+"description":"Tillämpningsområde för brittisk vägtrafiklagstiftning och förkortningar för de viktigaste lagarna och förordningarna som citeras i vägtrafikförordningen."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Straffar",
+"description":"Maximala straff, straffpoäng, diskvalifikation, återkallelse av körkort för nya förare, omtest och andra konsekvenser av förseelser."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Fordonsunderhåll. Fordonssäkerhet",
+"description":"Trafiksäkerhet, varningslampor, däck, vätskor, bränslesäkerhet, fordonsbränder och stöldskydd."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Hantera faran. 2. Sök hjälp. 3. Hjälp de inblandade. 4. Tillhandahåll akutvård",
+"description":"Säkerhet på olycksplatsen, nödsamtal, akutvård, DRABC, HLR, blödnings- och brännskadebehandling."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Säkerhetskoden. Ny förarlag. Vidareutbildning.",
+"description":"Riskminskning för nya förare, återkallelse av körkort med sex punkter och valfri vidareutbildning som Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Metriska omvandlingar. Användbara webbplatser. Vidare läsning",
+"description":"Omvandlingar från mil till kilometer och officiella resurser för trafiksäkerhet, körning, cykling, bogsering och fordonsinformation."
+}
+]

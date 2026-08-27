@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Yo`l harakati qoidalarining matni. Qoidalarni bilish va qo`llash",
+"description":"KERAK, KERAK EMAS, kerak va kerak emas so`zlari qanday ishlatilishini va Yo`l harakati qoidalarini bilish va qo`llash mas`uliyatini tushuntiradi."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"O`zini o`zi boshqaradigan transport vositalari",
+"description":"Oʻzini oʻzi boshqaradigan transport vositasi oʻzini boshqarayotgan yoki boshqarmayotgan hollarda foydalanuvchilarning huquqiy javobgarligini tushuntiradi."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Yo`l foydalanuvchilari ierarxiyasi",
+"description":"Eng katta zarar yetkazishga qodir bo`lgan yo`l foydalanuvchilari xavfni kamaytirish uchun eng katta mas`uliyatga ega ekanligini tushuntiradi."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Umumiy ko`rsatma (1-6-qoidalar)",
+"description":"Piyodalar uchun umumiy xavfsizlik bo`yicha ko`rsatmalar, jumladan, yo`laklar, ko`rinish va umumiy yo`nalishlar."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Yo`lni kesib o`tish (7 dan 17 gacha qoidalar)",
+"description":"Yashil Xoch kodeksi va xavfsiz joyni tanlash va yo`llarni xavfsiz kesib o`tish qoidalari."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"O`tish joylari (18 dan 30 gacha bo`lgan qoidalar)",
+"description":"Zebra, pelikan, puffin, toucan va otliq o`tish joylaridan piyodalar uchun qoidalar."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Qo`shimcha parvarish talab qiladigan vaziyatlar (31-35-qoidalar)",
+"description":"Zaif piyodalar, favqulodda vaziyatlar transport vositalari, avtobuslar va temir yo`l kesishmalari uchun qo`shimcha ehtiyot choralari."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Motorli nogironlar aravachalari va harakatchan skuterlar (36-37-qoidalar)",
+"description":"Yo`llar va yo`llarda elektr nogironlar aravachalari va harakatlanuvchi skuterlardan foydalanish qoidalari."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Yo`l qoplamalarida (38-40-qoidalar)",
+"description":"Yo`laklar va piyodalar yo`laklaridan foydalanadigan skuterlar va elektr nogironlar aravachalari uchun qoidalar."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Yo`lda (41 dan 46 gacha bo`lgan qoidalar)",
+"description":"Elektromobil aravachalari va harakatlanuvchi skuterlar uchun yo`l harakati, yoritish, ko`rinish va xavfsizlik qoidalari."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Ot aravalari (47-48-qoidalar)",
+"description":"Ot aravalari haydovchilari uchun xavfsizlik, yoritish, marshrut va jihozlar bo`yicha ko`rsatmalar."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Otliqlar (49 dan 55 gacha bo`lgan qoidalar)",
+"description":"Ot minishda xavfsiz bo`lish qoidalari, jumladan, kiyim-kechak, jihozlar, yo`l joylashuvi va signallar."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Boshqa hayvonlar (56 dan 58 gacha bo`lgan qoidalar)",
+"description":"Itlar, transport vositalaridagi hayvonlar va yo`llar bo`ylab chorva mollarini tashish qoidalari."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Umumiy ma`lumot (59 dan 72 gacha qoidalar)",
+"description":"Kiyim-kechak, jihozlar, yoritish, yo`lning joylashuvi, velosiped yo`laklari va umumiy yo`nalishlarni qamrab oluvchi asosiy velosiped qoidalari."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Yo`l chorrahalari (73 dan 77 gacha bo`lgan qoidalar)",
+"description":"Velosipedchilar chorrahalarga yaqinlashishlari va ulardan o`tishlari uchun qoidalar, jumladan, joylashish va ustuvorlik."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Aylanma yo`llar (78 dan 80 gacha bo`lgan qoidalar)",
+"description":"Aylanma yo`llardan foydalanadigan velosipedchilar uchun qoidalar, jumladan, yo`lakning joylashuvi, signalizatsiya va xavfsizroq alternativalar."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Yo`lni kesib o`tish (81-82-qoidalar)",
+"description":"Velosipedchilar uchun faqat velosiped, toucan va otliq o`tish joylaridan foydalanish qoidalari."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Umumiy (83-88-qoidalar)",
+"description":"Mototsikl haydovchilik guvohnomasini olish, dubulg`alar, ko`zni himoya qilish, yo`lovchilar va kunduzgi ko`rinishni qamrab oluvchi umumiy mototsikl qoidalari."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Transport vositasining holati (89-qoida)",
+"description":"Mototsiklchilardan mototsikllarini yo`lga yaroqli holda saqlashni va shinalar, tormozlar, chiroqlar va rulni yaxshi holatda saqlashni talab qiladi."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Haydashga yaroqlilik (90 dan 94 gacha qoidalar)",
+"description":"Charchoq, kasallik, ko`rish qobiliyati, diqqatni jamlash va haydash qobiliyatiga ta`sir qiluvchi boshqa omillar qoidalari."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Spirtli ichimliklar va giyohvand moddalar (95-96-qoidalar)",
+"description":"Spirtli ichimliklar, noqonuniy giyohvand moddalar yoki dori-darmonlar ta`sirida mast holda transport vositasini boshqarishni taqiqlaydi."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Yo`lga chiqishdan oldin (97-qoida)",
+"description":"Sayohatdan oldin transport vositasining yo`lga yaroqliligi, ko`rinishi, boshqaruv elementlari, kiyim-kechak va yuklarning xavfsizligini tekshirish."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Transport vositalarini evakuator bilan tortish va yuklash (98-qoida)",
+"description":"Yuklarni xavfsiz saqlash, tortish chegaralari, tirkamalar, proyeksiyalar va ortiqcha yuklanishning oldini olish qoidalari."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Xavfsizlik kamarlari va bolalar uchun o`rindiqlar (99 dan 102 gacha bo`lgan qoidalar)",
+"description":"Xavfsizlik kamarlari, bolalar uchun mo`ljallangan o`rindiqlar va bolalarni xavfsiz tashish uchun qonuniy talablar."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Signallar (103 dan 106 gacha bo`lgan qoidalar)",
+"description":"Aniq signallar berish va boshqa yo`l foydalanuvchilarining signallarini talqin qilish qoidalari."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Boshqa to`xtatish tartib-qoidalari (107 dan 112 gacha bo`lgan qoidalar)",
+"description":"Politsiya va vakolatli xodimlarning ko`rsatmalari, svetoforga rioya qilish va signaldan foydalanish."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Yoritish talablari (113 dan 116 gacha bo`lgan qoidalar)",
+"description":"Faralar, yon chiroqlar, tuman chiroqlari va boshqalarning ko`zni qamashtirmaslik qoidalari."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Transport vositasini boshqarish (117 dan 126 gacha bo`lgan qoidalar)",
+"description":"Xavfsiz transport vositasini boshqarish, tormozlash, to`xtash masofalari, sirpanishlar, qirg`oqdan o`tish va tezlik chegaralariga rioya qilish."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Yo`ldagi chiziqlar va yo`lak belgilari (127-132-qoidalar)",
+"description":"Markaziy chiziqlar, xavfli chiziqlar, qo`shaloq oq chiziqlar, yo`lak chiziqlari va chevronlarning ma`nosi va huquqiy ta`siri."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Ko`p polosali qatnov qismlari (133 dan 143 gacha bo`lgan qoidalar)",
+"description":"Yo`lakdagi tartib-intizom, yo`laklarni almashtirish, ko`tarilish yo`laklari, avtobus yo`laklari, velosiped yo`laklari va ko`p odam gavjum bo`lgan yo`laklar."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Umumiy tavsiyalar (144 dan 158 gacha bo`lgan qoidalar)",
+"description":"Umumiy xavfsiz haydash xulq-atvori, boshqalarni hisobga olish, tezlik, ustuvorlik va chalg`ituvchi omillardan qochish."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Umumiy qoidalar (159 dan 161 gacha bo`lgan qoidalar)",
+"description":"To`xtashdan yoki transport vositalariga kirishdan oldin kuzatish, signal berish va xavfsiz harakatlanish."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Quvib o`tish (162 dan 169 gacha bo`lgan qoidalar)",
+"description":"Xavfsiz quvib o`tish qoidalari, jumladan, ruxsatnoma, taqiqlangan joylar va quvib o`tish."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Yo`l chorrahalari (170 dan 183 gacha bo`lgan qoidalar)",
+"description":"Chorrahalarga yaqinlashish, yo`l berish, burilish, chiqish va transport vositalarining harakatini kesib o`tish qoidalari."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Aylanma yo`llar (184 dan 190 gacha bo`lgan qoidalar)",
+"description":"Yaqinlashish, ustuvorlik, yo`lakni tanlash, signal berish va aylanma yo`ldan chiqish qoidalari."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Piyodalar o`tish joylari (191 dan 199 gacha bo`lgan qoidalar)",
+"description":"Zebra, pelikan, puffin, toucan va parallel o`tish joylarida haydovchilarning majburiyatlari."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Orqaga burilish (200 dan 203 gacha)",
+"description":"Atrof-muhitni tekshirish, xavfsiz orqaga qaytish va ortiqcha orqaga qaytishdan saqlanish qoidalari."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Umumiy ma`lumot (204-qoida)",
+"description":"Ayniqsa xavf ostida bo`lgan yo`l foydalanuvchilarini himoya qilish majburiyatini joriy etadi."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Piyodalar (205 dan 210 gacha bo`lgan qoidalar)",
+"description":"Bolalar, qariyalar, nogiron piyodalar va yo`lni kesib o`tayotgan odamlarga qo`shimcha g`amxo`rlik."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Mototsiklchilar va velosipedchilar (211 dan 213 gacha bo`lgan qoidalar)",
+"description":"Mototsiklchilar va velosipedchilar atrofida, ayniqsa chorrahalarda qo`shimcha kuzatish va xavfsiz joylashish."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Boshqa yo`l harakati ishtirokchilari (214 dan 218 gacha bo`lgan qoidalar)",
+"description":"Hayvonlar, ot minuvchilar, o`rganuvchi haydovchilar va tajribasiz yo`l foydalanuvchilariga qo`shimcha ehtiyot bo`ling."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Boshqa transport vositalari (219 dan 225 gacha bo`lgan qoidalar)",
+"description":"Favqulodda transport vositalari, katta transport vositalari, avtobuslar, tramvaylar va sekin harakatlanadigan transport vositalari uchun qoidalar."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Umumiy ma`lumot (226-qoida)",
+"description":"Haydovchilardan noqulay ob-havoga moslashishni va ko`rinish pasayganda tegishli chiroqlardan foydalanishni talab qiladi."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Nam ob-havo (227-qoida)",
+"description":"Tutqichni kamaytirish, to`xtash masofasini uzaytirish, purkash, akvaplaning va toshqin suvlari bo`yicha ko`rsatmalar."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Muzli va qorli ob-havo (228 dan 231 gacha bo`lgan qoidalar)",
+"description":"Muz va qorda tayyorgarlik ko`rish, muammosiz haydash va boshqaruvni saqlash qoidalari."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Shamolli ob-havo (232 dan 233 gacha bo`lgan qoidalar)",
+"description":"Kuchli qarama-qarshi shamollar va shamoldan ta`sirlangan zaif yo`l foydalanuvchilari bo`yicha ko`rsatmalar."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Tuman (234 dan 236 gacha bo`lgan qoidalar)",
+"description":"Ko`rinish, tezlik, masofani kuzatish va tuman chiroqlaridan to`g`ri foydalanish qoidalari."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Issiq havo (237-qoida)",
+"description":"Issiqlik bilan bog`liq yo`l qoplamasi xavflari va qizib ketishning oldini olish bo`yicha ko`rsatmalar."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Umumiy (238-qoida)",
+"description":"Umumiy to`xtash qoidalari, jumladan, cheklovlarga rioya qilish va xavf yoki to`siqlardan qochish."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Avtoturargoh (239 dan 247 gacha bo`lgan qoidalar)",
+"description":"Xavfsiz to`xtash joyi, yo`l chetida to`xtash, yuklash, nogironlar uchun joylar va taqiqlangan joylar uchun qoidalar."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Kechasi mashina qo`yish (248 dan 252 gacha bo`lgan qoidalar)",
+"description":"Yo`nalish, yorug`lik, tezlik chegaralari va aks ettiruvchi belgilarni o`z ichiga olgan tungi to`xtash qoidalari."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Jinoyatchilikka qarshi kurash (DPE)",
+"description":"Mahalliy hokimiyat organlari tomonidan avtoturargoh cheklovlarining fuqarolik ijrosini tushuntiradi."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Umumiy (253 dan 254 gacha bo`lgan qoidalar)",
+"description":"Umumiy avtomagistral qoidalari, jumladan, taqiqlangan foydalanuvchilar va avtomagistral qoidalarining qo`llanilishi."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Avtomagistral signallari (255 dan 258 gacha bo`lgan qoidalar)",
+"description":"Avtomagistral chiroqlari, qizil X yo`lakchali yopilishlar va o`zgaruvchan tezlik chegaralarining ma`nosi."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Avtomagistralga qo`shilish (259-qoida)",
+"description":"Yo`l chetidan foydalanish, transport tezligini moslashtirish va avtomagistral harakatiga ustuvorlik berish qoidalari."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Avtomagistralda (260 dan 263 gacha bo`lgan qoidalar)",
+"description":"Avtomagistralda xavfsiz harakatlanish, masofalar, cheklovlar va bo`laklardan foydalanishga rioya qilish."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Yo`l harakati qoidalari (264 dan 266 gacha bo`lgan qoidalar)",
+"description":"Agar quvib o`tish shart bo`lmasa, chap bo`lakdan foydalanish va yo`lak signallariga xavfsiz rioya qilish talab etiladi."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Quvib o`tish (267 dan 268 gacha bo`lgan qoidalar)",
+"description":"Xavfsiz kuzatish va qattiq yelkadan foydalanishni taqiqlash kabi avtomagistralni quvib o`tish qoidalari."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Qattiq yelka (269-qoida)",
+"description":"Qattiq yelkali transport vositalaridan foydalanishni favqulodda holatlarda yoki belgilar yugurish yo`lagi sifatida ochilgan vaqtlar bilan cheklaydi."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"To`xtash (270 dan 272 gacha bo`lgan qoidalar)",
+"description":"Favqulodda holatlarda yoki ko`rsatma berilgan hollardan tashqari avtomagistrallarda to`xtashni taqiqlaydi va favqulodda hududlarda foydalanishni tushuntiradi."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Avtomagistraldan chiqish (273 dan 274 gacha bo`lgan qoidalar)",
+"description":"Chiqish belgilarini o`qish, signal berish va chiqish yo`lagiga xavfsiz kirish qoidalari."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Nisbiy xavfsiz joy (275-qoida)",
+"description":"Avtohalokat yoki favqulodda vaziyat paytida xavfsizroq joyni qanday aniqlash va unga qanday yetib borishni tushuntiradi."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Buzilishlar (276-qoida)",
+"description":"Avtomagistralda avariya yuz berganda ko`riladigan harakatlar, jumladan, transport vositasini xavfsiz tark etish va yordam xizmatiga murojaat qilish."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Avtomagistrallar uchun qo`shimcha qoidalar (277 dan 279 gacha bo`lgan qoidalar)",
+"description":"Qo`shimcha halokat va favqulodda vaziyatlar bo`yicha ko`rsatmalar, jumladan, yo`l harakatiga qaytish va nogiron transport vositalari."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"To`siqlar (280-qoida)",
+"description":"Yo`l to`sig`iga duch kelganda yoki uni keltirib chiqarganda ko`riladigan harakatlar."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Hodisalar (281 dan 283 gacha bo`lgan qoidalar)",
+"description":"Hodisalarda, favqulodda vaziyatlar yo`laklarida xavfsizlik choralari va favqulodda vaziyatlar xodimlarining talablariga rioya qilish."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Xavfli yuklar bilan bog`liq hodisalar (284-285-qoidalar)",
+"description":"Xavfli materiallar hodisaga aloqador bo`lganda ehtiyot choralari va hisobot berish talablari."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Hujjatlar (286 dan 287 gacha bo`lgan qoidalar)",
+"description":"Zarur bo`lganda to`xtash, ma`lumot almashish va to`qnashuvlar haqida politsiyaga xabar berish majburiyatlari."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Yo`l ishlari (288-qoida)",
+"description":"Yo`l ishlarida qo`shimcha ehtiyotkorlik, tezlikni pasaytirish va vaqtinchalik belgilar va yo`l harakati qoidalariga rioya qilishni talab qiladi."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Yuqori tezlikdagi yo`llar uchun qo`shimcha qoidalar (289 dan 290 gacha bo`lgan qoidalar)",
+"description":"Yuqori tezlikdagi yo`llarda avariyalar va baxtsiz hodisalar uchun qo`shimcha xavfsizlik qoidalari."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Temir yo`l o`tish joylari (291 dan 299 gacha bo`lgan qoidalar)",
+"description":"Temir yo`l kesishmalarida chiroqlar, to`siqlar va favqulodda vaziyatlarga yaqinlashish, ularni kesib o`tish va ularga javob berish qoidalari."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Tramvaylar (300 dan 307 gacha bo`lgan qoidalar)",
+"description":"Tramvaylar bilan yo`llarni birgalikda ishlatish va relslar, platformalar va ajratilgan tramvay yo`nalishlaridan qochish qoidalari."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Svetofor chiroqlari. Miltillovchi qizil chiroqlar. Yo`lakni boshqarish chiroqlari",
+"description":"Standart svetoforlar, miltillovchi qizil to`xtash signallari va yo`lakni boshqarish signallarining ma`nolari."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Avtomobil yo`li signallari",
+"description":"Avtomagistral ogohlantirish signallarining ma`nolari, o`zgaruvchan chegaralar, yo`laklarni yopish va ko`rsatmalar."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Yo`nalish ko`rsatkichi signallari. Tormoz chiroqlari. Orqaga harakatlanuvchi chiroqlar. Qo`l signallari. Xavf chiroqlari",
+"description":"Moʻljallangan harakatlar va xavflarni xabar qilish uchun ishlatiladigan transport vositasining chiroq va qoʻl signallarini tushuntiradi."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Politsiya xodimlari. Yo`l harakatini boshqarayotgan shaxslarga signallar berish. Haydovchilar va transport vositalari standartlari agentligi xodimlari va yo`l harakati xavfsizligi xodimlari. Maktab o`tish joyidan o`tish joyiga patrullik qilish",
+"description":"Politsiya, vakolatli yo`l harakati xodimlari va maktab o`tish joylari patrullari tomonidan berilgan signallar va ko`rsatmalar."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Buyurtma beruvchi belgilar",
+"description":"Yo`l harakati ishtirokchilari qonuniy ravishda rioya qilishlari shart bo`lgan majburiy va taqiqlovchi yo`l belgilari."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Ogohlantirish belgilari",
+"description":"Oldinda xavf-xatarlar, o`zgaruvchan yo`l sharoitlari va zaif yo`l foydalanuvchilari haqida ogohlantiruvchi belgilar."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Yo`nalish belgilari",
+"description":"Yo`nalishlar, manzillar, chorrahalarning joylashuvi, yo`l raqamlari va yo`nalishlarni ko`rsatuvchi belgilar."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Axborot belgilari",
+"description":"To`rtburchaklar belgilar to`xtash joyi, yo`lak, avtomagistral, marshrut va ob`ekt haqida ma`lumot beradi."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Yo`l ishlari belgilari",
+"description":"Yo`l ishlari, xavflar, yo`laklarning yopilishi, tezlik cheklovlari va qarama-qarshi oqim tizimlari haqida ogohlantiruvchi vaqtinchalik belgilar."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Yo`lning qatnov qismi bo`ylab. Yo`l bo`ylab. Yo`l chetida. Yo`l chetida yoki yo`l chetida. Boshqa yo`l belgilari",
+"description":"To`xtash, yo`l berish, bo`lak, kutish, yuklash, Qizil yo`nalish, qutili chorraha va boshqa yo`l belgilarining ma`nolari."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Katta yuk mashinalarining orqa belgilari. Xavf haqida ogohlantiruvchi plitalar. Proyeksiya belgilari. Boshqalar",
+"description":"Og`ir transport vositalarini, xavfli yuklarni, chiqayotgan yuklarni va maktab avtobuslarini aniqlovchi transport vositalarining belgilari."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Siz va velosipedingiz",
+"description":"Velosipedni tanlash, texnik xizmat ko`rsatish, tormozlar, yoritish, reflektorlar, shinalar holati va mashg`ulotlar."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Mototsikl haydovchilik guvohnomasi talablari. Mopedlar va mototsikllar uchun litsenziya toifalari",
+"description":"CBT, o`quvchi cheklovlari, testlar, progressiv kirish va AM, A1, A2 va A litsenziya toifalari."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Hujjatlar. O`quvchi haydovchilar",
+"description":"Haydovchilik guvohnomalari, texnik ko`rikdan o`tish, sug`urta, ro`yxatdan o`tish, transport vositasi solig`i, SORN va haydovchilikni o`rganish talablari."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Yo`l harakati to`g`risidagi qonun. 1988-yilgacha bo`lgan qonunlar va qoidalar. 1988-yildan keyingi qonunlar va qoidalar",
+"description":"Buyuk Britaniya yo`l harakati qonunchiligining doirasi va Yo`l harakati kodeksida keltirilgan asosiy qonunlar va qoidalarning qisqartmalari."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Jarimalar",
+"description":"Maksimal jarimalar, jarima ballari, diskvalifikatsiya, yangi haydovchilik guvohnomasini bekor qilish, qayta testdan o`tkazish va qoidabuzarlikning boshqa oqibatlari."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Avtomobillarga texnik xizmat ko`rsatish. Avtomobil xavfsizligi",
+"description":"Yo`l harakati xavfsizligi, ogohlantirish chiroqlari, shinalar, suyuqliklar, yoqilg`i xavfsizligi, transport vositalarining yong`inlari va o`g`irlikning oldini olish."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Xavf bilan kurashish. 2. Yordam olish. 3. Tegishlilarga yordam berish. 4. Shoshilinch tibbiy yordam ko`rsatish",
+"description":"Baxtsiz hodisa joyida xavfsizlik, shoshilinch chaqiruvlar, jabrlanuvchilarga yordam ko`rsatish, DRABC, yurak-o`pka reanimatsiyasi, qon ketish va kuyishni davolash."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Xavfsizlik kodeksi. Haydovchilar to`g`risidagi yangi qonun. Qo`shimcha trening.",
+"description":"Yangi haydovchilar uchun xavfni kamaytirish, olti balllik haydovchilik guvohnomasini bekor qilish va Pass Plus kabi ixtiyoriy qo`shimcha o`qitish."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Metrik konversiyalar. Foydali veb-saytlar. Qo`shimcha o`qish",
+"description":"Yo`l harakati xavfsizligi, haydash, minish, evakuator bilan olib yurish va transport vositalari haqida ma`lumot olish uchun mildan kilometrgacha konversiyalar va rasmiy resurslar."
+}
+]

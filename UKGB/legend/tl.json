@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Pagsasalita ng Kodigo sa Haywey. Pag-alam at paglalapat ng mga patakaran",
+"description":"Ipinaliliwanag kung paano ginagamit ang mga salitang DAPAT, HINDI DAPAT, dapat at hindi dapat, at ang responsibilidad na malaman at ipatupad ang Highway Code."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Mga sasakyang self-driving",
+"description":"Ipinapaliwanag ang mga legal na responsibilidad ng mga gumagamit kapag ang isang sasakyang self-driving ay nagmamaneho o hindi nagmamaneho nang mag-isa."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Herarkiya ng mga Gumagamit ng Kalsada",
+"description":"Ipinaliliwanag na ang mga gumagamit ng kalsada na may kakayahang magdulot ng pinakamalaking pinsala ay may pinakamalaking responsibilidad na mabawasan ang panganib."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Pangkalahatang gabay (mga tuntunin 1 hanggang 6)",
+"description":"Pangkalahatang gabay sa kaligtasan para sa mga naglalakad, kabilang ang mga bangketa, kakayahang makita, at mga rutang pinagsasaluhan."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Pagtawid sa kalsada (mga tuntunin 7 hanggang 17)",
+"description":"Ang Green Cross Code at mga tuntunin para sa pagpili ng ligtas na lugar at ligtas na pagtawid sa mga kalsada."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Mga tawiran (mga tuntunin 18 hanggang 30)",
+"description":"Mga patakaran para sa mga naglalakad na gumagamit ng tawiran ng zebra, pelican, puffin, toucan at equestrian."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Mga sitwasyong nangangailangan ng karagdagang pag-iingat (mga tuntunin 31 hanggang 35)",
+"description":"Mga karagdagang pag-iingat para sa mga mahihinang naglalakad, mga sasakyang pang-emergency, mga bus at mga tawiran ng riles."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Mga de-kuryenteng wheelchair at mobility scooter (mga tuntunin 36 hanggang 37)",
+"description":"Mga tuntunin para sa paggamit ng mga de-kuryenteng wheelchair at mobility scooter sa mga bangketa at kalsada."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Sa mga bangketa (mga tuntunin 38 hanggang 40)",
+"description":"Mga patakaran para sa mga mobility scooter at mga de-kuryenteng wheelchair na gumagamit ng mga bangketa at lugar para sa mga naglalakad."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Sa kalsada (mga tuntunin 41 hanggang 46)",
+"description":"Mga tuntunin sa paggamit sa kalsada, ilaw, kakayahang makita, at kaligtasan para sa mga de-kuryenteng wheelchair at mobility scooter."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Mga sasakyang hila ng kabayo (mga tuntunin 47 hanggang 48)",
+"description":"Gabay sa kaligtasan, ilaw, ruta at kagamitan para sa mga nagmamaneho ng mga sasakyang hila ng kabayo."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Mga nakasakay sa kabayo (mga tuntunin 49 hanggang 55)",
+"description":"Mga tuntunin para sa ligtas na pagsakay sa kabayo, kabilang ang damit, kagamitan, pagpoposisyon sa kalsada at mga signal."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Iba pang mga hayop (mga tuntunin 56 hanggang 58)",
+"description":"Mga tuntunin para sa mga aso, hayop sa mga sasakyan at mga alagang hayop na naglilipat sa mga kalsada."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Pangkalahatang-ideya (mga tuntunin 59 hanggang 72)",
+"description":"Mga pangunahing tuntunin sa pagbibisikleta na sumasaklaw sa damit, kagamitan, ilaw, posisyon sa kalsada, mga linya ng pagbibisikleta, at mga rutang pinagsasaluhan."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Mga sangandaan ng kalsada (mga tuntunin 73 hanggang 77)",
+"description":"Mga tuntunin para sa mga siklista na papalapit at dumadaan sa mga sangandaan, kabilang ang pagpoposisyon at prayoridad."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Mga Rotonda (mga tuntunin 78 hanggang 80)",
+"description":"Mga patakaran para sa mga siklistang gumagamit ng mga rotonda, kabilang ang posisyon sa lane, pagbibigay ng senyas, at mga mas ligtas na alternatibo."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Pagtawid sa kalsada (mga tuntunin 81 hanggang 82)",
+"description":"Mga patakaran para sa mga siklistang gumagamit ng mga tawiran na para lamang sa bisikleta, toucan, at equestrian."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Pangkalahatan (mga tuntunin 83 hanggang 88)",
+"description":"Mga pangkalahatang tuntunin sa motorsiklo na sumasaklaw sa paglilisensya, helmet, proteksyon sa mata, mga pasahero at kakayahang makita sa liwanag ng araw."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Kondisyon ng sasakyan (panuntunan 89)",
+"description":"Kinakailangan sa mga siklista na panatilihing maayos ang kanilang motorsiklo sa kalsada at panatilihing maayos ang mga gulong, preno, ilaw, at manibela."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Kaangkupan sa pagmamaneho (mga tuntunin 90 hanggang 94)",
+"description":"Mga tuntunin sa pagkapagod, sakit, paningin, konsentrasyon at iba pang salik na nakakaapekto sa kaangkupan sa pagmamaneho."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkohol at droga (mga tuntunin 95 hanggang 96)",
+"description":"Ipinagbabawal ang pagmamaneho habang nakalalasing dahil sa alak, ilegal na droga, o mga gamot."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Bago umalis (panuntunan 97)",
+"description":"Mga pagsusuri bago ang paglalakbay para sa pagiging maaasahan ng sasakyan sa kalsada, kakayahang makita, mga kontrol, damit, at mga ligtas na kargamento."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Paghila at pagkarga ng sasakyan (panuntunan 98)",
+"description":"Mga panuntunan para sa ligtas na mga kargamento, mga limitasyon sa paghila, mga trailer, mga projection at pag-iwas sa labis na karga."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Mga sinturon sa upuan at mga pangharang ng bata (mga tuntunin 99 hanggang 102)",
+"description":"Mga legal na kinakailangan para sa mga sinturon sa upuan, mga pangharang ng bata, at ang ligtas na pagdadala ng mga bata."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Mga Senyales (mga tuntunin 103 hanggang 106)",
+"description":"Mga tuntunin para sa pagbibigay ng malinaw na mga signal at pagbibigay-kahulugan sa mga signal mula sa ibang mga gumagamit ng kalsada."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Iba pang mga pamamaraan ng paghinto (mga tuntunin 107 hanggang 112)",
+"description":"Mga direksyon mula sa pulisya at mga awtorisadong opisyal, pagsunod sa mga ilaw trapiko at paggamit ng busina."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Mga kinakailangan sa pag-iilaw (mga tuntunin 113 hanggang 116)",
+"description":"Mga tuntunin na namamahala sa mga headlight, sidelight, fog light at pag-iwas sa iba na nakasisilaw."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Pagkontrol sa sasakyan (mga tuntunin 117 hanggang 126)",
+"description":"Ligtas na pagkontrol ng sasakyan, pagpreno, distansya ng paghinto, pag-skid, pag-coasting at pagsunod sa speed limit."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Mga marka ng linya at linya sa kalsada (mga tuntunin 127 hanggang 132)",
+"description":"Kahulugan at legal na epekto ng mga center line, hazard lines, double white lines, lane lines at chevrons."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Mga daanan na may maraming linya (mga tuntunin 133 hanggang 143)",
+"description":"Disiplina sa lane, pagpapalit ng lane, pag-akyat ng lane, lane ng bus, lane ng bisikleta at mga lane na maraming tao."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Pangkalahatang payo (mga tuntunin 144 hanggang 158)",
+"description":"Pangkalahatang ligtas na pag-uugali sa pagmamaneho, konsiderasyon sa iba, bilis, prayoridad at pag-iwas sa mga abala."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Mga pangkalahatang tuntunin (mga tuntunin 159 hanggang 161)",
+"description":"Obserbasyon, pagbibigay ng senyas, at ligtas na paggalaw bago umalis o pumasok sa trapiko."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Pag-overtake (mga patakaran 162 hanggang 169)",
+"description":"Mga tuntunin para sa ligtas na pag-overtake, kabilang ang clearance, mga ipinagbabawal na lokasyon at pag-overtake."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Mga sangandaan ng kalsada (mga tuntunin 170 hanggang 183)",
+"description":"Mga tuntunin para sa paglapit sa mga sangandaan, pagbibigay-daan, pagliko, paglabas at pagtawid ng trapiko."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Mga Rotonda (mga tuntunin 184 hanggang 190)",
+"description":"Mga tuntunin para sa paglapit, prayoridad, pagpili ng lane, pagbibigay ng senyas at pag-alis sa mga rotonda."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Mga tawiran para sa mga naglalakad (mga tuntunin 191 hanggang 199)",
+"description":"Mga responsibilidad sa pagmamaneho sa zebra, pelican, puffin, toucan at parallel crossing."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Pagbabaligtad (200 hanggang 203)",
+"description":"Mga tuntunin para sa pagsuri sa paligid, ligtas na pag-atras, at pag-iwas sa labis na pag-atras."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Pangkalahatang-ideya (panuntunan 204)",
+"description":"Ipinakikilala ang tungkuling protektahan ang mga gumagamit ng kalsada na partikular na nasa panganib."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Mga Naglalakad (mga tuntunin 205 hanggang 210)",
+"description":"Dagdag na pangangalaga sa paligid ng mga bata, matatanda, mga taong may kapansanan at mga taong tumatawid sa kalsada."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Mga siklista at motorsiklo (mga tuntunin 211 hanggang 213)",
+"description":"Karagdagang obserbasyon at ligtas na paglilinis sa paligid ng mga motorsiklista at siklista, lalo na sa mga sangandaan."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Iba pang mga gumagamit ng kalsada (mga tuntunin 214 hanggang 218)",
+"description":"Dagdag na pangangalaga sa paligid ng mga hayop, mga mangangabayo, mga mag-aaral na magmaneho, at mga baguhan na gumagamit ng kalsada."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Iba pang mga sasakyan (mga tuntunin 219 hanggang 225)",
+"description":"Mga tuntunin para sa mga sasakyang pang-emergency, malalaking sasakyan, bus, tram at mga sasakyang mabagal ang takbo."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Pangkalahatang-ideya (panuntunan 226)",
+"description":"Kinakailangan ang mga drayber na umangkop sa masamang panahon at gumamit ng angkop na mga ilaw kapag mahina ang paningin."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Maulan na panahon (panuntunan 227)",
+"description":"Patnubay sa mas mababang grip, mas mahabang distansya ng paghinto, spray, aquaplaning at tubig-baha."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Nagyeyelo at maniyebe na panahon (mga tuntunin 228 hanggang 231)",
+"description":"Mga panuntunan para sa paghahanda, maayos na pagmamaneho, at pagpapanatili ng kontrol sa yelo at niyebe."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Mahangin na panahon (mga tuntunin 232 hanggang 233)",
+"description":"Patnubay sa malalakas na pasalungat na hangin at mga mahihinang gumagamit ng kalsada na apektado ng mga bugso ng hangin."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Hamog (mga tuntunin 234 hanggang 236)",
+"description":"Mga tuntunin sa kakayahang makita, bilis, distansya ng pagsunod at wastong paggamit ng mga fog light."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Mainit na panahon (panuntunan 237)",
+"description":"Patnubay sa mga panganib sa ibabaw ng kalsada na may kaugnayan sa init at pag-iwas sa sobrang pag-init."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Pangkalahatan (tuntunin 238)",
+"description":"Mga pangkalahatang tuntunin sa paradahan, kabilang ang pagsunod sa mga paghihigpit at pag-iwas sa panganib o sagabal."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Paradahan (mga tuntunin 239 hanggang 247)",
+"description":"Mga tuntunin para sa ligtas na pagparada, paghinto sa tabi ng kalsada, pagkarga, mga espasyo para sa may kapansanan at mga ipinagbabawal na lokasyon."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Paradahan sa gabi (mga tuntunin 248 hanggang 252)",
+"description":"Mga patakaran sa pagpaparada sa gabi na sumasaklaw sa direksyon, ilaw, mga limitasyon ng bilis, at mga markang replektibo."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Pagpapatupad ng Dekriminalisasyon sa Paradahan (DPE)",
+"description":"Nagpapaliwanag ng sibil na pagpapatupad ng mga paghihigpit sa paradahan ng mga lokal na awtoridad."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Pangkalahatan (mga tuntunin 253 hanggang 254)",
+"description":"Mga pangkalahatang tuntunin sa motorway, kabilang ang mga ipinagbabawal na gumagamit at ang paglalapat ng mga regulasyon sa motorway."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Mga signal ng motorway (mga tuntunin 255 hanggang 258)",
+"description":"Kahulugan ng mga signal ng motorway, mga pulang pagsasara ng X lane, at mga variable speed limit."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Pagsali sa motorway (panuntunan 259)",
+"description":"Mga tuntunin para sa paggamit ng slip road, pagtutugma ng bilis ng trapiko at pagbibigay ng prayoridad sa trapiko sa motorway."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Sa motorway (mga tuntunin 260 hanggang 263)",
+"description":"Ligtas na pagmamaneho sa motorway, pagsunod sa mga distansya, mga paghihigpit, at paggamit ng mga lane."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Disiplina sa lane (mga tuntunin 264 hanggang 266)",
+"description":"Kinakailangan ang paggamit ng kaliwang lane maliban kung mag-o-overtake at ligtas na pagsunod sa mga signal ng lane."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Pag-overtake (mga patakaran 267 hanggang 268)",
+"description":"Mga tuntunin sa pag-overtake sa motorway, kabilang ang ligtas na pagmamasid at ang pagbabawal sa paggamit ng hard shoulder."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Matigas na balikat (panuntunan 269)",
+"description":"Nililimitahan ang paggamit ng hard-shoulder sa mga emergency o mga oras na may mga karatula na nagbubukas dito bilang running lane."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Paghinto (mga tuntunin 270 hanggang 272)",
+"description":"Ipinagbabawal ang paghinto sa motorway maliban sa mga emergency o kapag inutos at ipinaliliwanag ang paggamit sa mga emergency-zone."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Pag-alis sa motorway (mga tuntunin 273 hanggang 274)",
+"description":"Mga tuntunin para sa pagbabasa ng mga karatula sa labasan, pagbibigay ng senyas at ligtas na pagpasok sa exit lane."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Lugar na may relatibong kaligtasan (tuntunin 275)",
+"description":"Nagpapaliwanag kung paano matukoy at makarating sa isang mas ligtas na lokasyon sa panahon ng pagkasira o emergency."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Mga Pagkasira (panuntunan 276)",
+"description":"Mga dapat gawin habang may aberya sa motorway, kabilang ang ligtas na pag-iwan ng sasakyan at pakikipag-ugnayan sa tulong."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Mga karagdagang tuntunin para sa mga motorway (mga tuntunin 277 hanggang 279)",
+"description":"Karagdagang gabay sa pagkasira at emergency, kabilang ang pagbabalik sa trapiko at mga sasakyang may kapansanan."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Mga Sagabal (panuntunan 280)",
+"description":"Mga dapat gawin kapag nakakasalubong o nagdudulot ng bara sa kalsada."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Mga Insidente (mga tuntunin 281 hanggang 283)",
+"description":"Mga hakbang sa kaligtasan sa mga insidente, mga pasilyo para sa emerhensiya at pagsunod sa mga patakaran ng mga tauhan para sa emerhensiya."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Mga insidente na kinasasangkutan ng mga mapanganib na kalakal (mga tuntunin 284 hanggang 285)",
+"description":"Mga pag-iingat at mga kinakailangan sa pag-uulat kapag may mga mapanganib na materyales na sangkot sa isang insidente."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Dokumentasyon (mga tuntunin 286 hanggang 287)",
+"description":"Mga tungkuling huminto, magpalitan ng impormasyon, at mag-ulat ng mga banggaan sa pulisya kung kinakailangan."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Mga gawaing pangkalsada (tuntunin 288)",
+"description":"Nangangailangan ng karagdagang pag-iingat, pinababang bilis, at pagsunod sa mga pansamantalang karatula at kontrol sa lane sa mga pagawaan sa kalsada."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Mga karagdagang tuntunin para sa mga kalsadang mabilis ang takbo (mga tuntunin 289 hanggang 290)",
+"description":"Mga karagdagang tuntunin sa kaligtasan para sa mga aberya at insidente sa mga high-speed na kalsada."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Mga tawiran sa patag na daan (mga tuntunin 291 hanggang 299)",
+"description":"Mga tuntunin para sa paglapit, pagtawid, at pagtugon sa mga ilaw, harang, at emergency sa mga tawiran ng riles."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Mga Tramway (mga tuntunin 300 hanggang 307)",
+"description":"Mga tuntunin para sa pagbabahagi ng mga kalsada sa mga tram at pag-iwas sa mga riles, plataporma, at mga nakareserbang ruta ng tram."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Mga senyales ng ilaw trapiko. Kumikislap na pulang ilaw. Mga senyales sa pagkontrol ng lane",
+"description":"Mga kahulugan ng mga karaniwang ilaw trapiko, kumikislap na pulang signal ng paghinto, at mga signal ng kontrol sa lane."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Mga signal ng motorway",
+"description":"Mga kahulugan ng mga signal ng babala sa motorway, mga limitasyon ng pabagu-bagong trapiko, mga pagsasara ng lane at mga tagubilin."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Mga senyales ng tagapagpahiwatig ng direksyon. Mga senyales ng ilaw ng preno. Mga senyales ng pabaliktad na ilaw. Mga senyales ng braso. Mga ilaw ng panganib",
+"description":"Nagpapaliwanag ng mga senyales ng ilaw ng sasakyan at braso na ginagamit upang ipabatid ang mga nilalayong galaw at mga panganib."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Mga pulis. Mga senyales ng braso sa mga taong kumokontrol sa trapiko. Mga opisyal at opisyal ng trapiko ng Driver and Vehicle Standards Agency. Mga patrolya sa tawiran ng paaralan",
+"description":"Mga senyales at tagubilin na ibinibigay ng pulisya, awtorisadong tauhan ng trapiko, at mga nagpapatrolya sa tawiran ng paaralan."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Mga karatula na nagbibigay ng mga utos",
+"description":"Mga mandatory at prohibitive na karatula trapiko na legal na kinakailangang sundin ng mga gumagamit ng kalsada."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Mga palatandaan ng babala",
+"description":"Mga karatula na nagbabala ng mga panganib, pagbabago ng mga kondisyon ng kalsada at mga mahihinang gumagamit ng kalsada sa unahan."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Mga karatula ng direksyon",
+"description":"Mga karatula na nagpapakita ng mga ruta, destinasyon, layout ng sangandaan, numero ng kalsada at mga paglihis."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Mga palatandaan ng impormasyon",
+"description":"Mga parihabang karatula na nagbibigay ng impormasyon tungkol sa paradahan, linya, motorway, ruta, at pasilidad."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Mga karatula sa trabaho sa kalsada",
+"description":"Mga pansamantalang karatula na nagbabala ng mga pagsasaayos sa kalsada, mga panganib, pagsasara ng lane, mga limitasyon sa bilis at mga sistema ng contraflow."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Sa kabila ng daanan. Sa kahabaan ng daanan. Sa gilid ng daanan. Sa gilid ng bangketa o sa gilid ng daanan. Iba pang mga marka sa kalsada",
+"description":"Mga kahulugan ng stop, give-way, lane, waiting, loading, Red Route, box-junction at iba pang mga marka sa kalsada."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Mga marka sa likuran ng malalaking sasakyang pangkargamento. Mga plaka ng babala sa panganib. Mga marker ng projection. Iba pa",
+"description":"Mga marka ng sasakyan na tumutukoy sa mabibigat na sasakyan, mapanganib na mga kalakal, nakausling mga kargamento, at mga bus ng paaralan."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Ikaw at ang iyong bisikleta",
+"description":"Pagpili ng bisikleta, pagpapanatili, preno, ilaw, mga reflector, kondisyon ng gulong at pagsasanay."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Mga kinakailangan sa lisensya sa motorsiklo. Mga kategorya ng lisensya para sa mga moped at motorsiklo",
+"description":"CBT, mga paghihigpit sa mag-aaral, mga pagsusulit, progresibong pag-access at mga kategorya ng lisensyang AM, A1, A2 at A."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Mga Dokumento. Mga mag-aaral na nagmamaneho",
+"description":"Mga lisensya sa pagmamaneho, MOT, insurance, rehistro, buwis sa sasakyan, SORN at mga kinakailangan para sa mga mag-aaral na magmaneho."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Batas sa trapiko sa kalsada. Mga batas at regulasyon bago ang 1988. Mga batas at regulasyon mula 1988 pataas",
+"description":"Saklaw ng batas trapiko sa kalsada ng UK at mga pagpapaikli para sa mga pangunahing Batas at Regulasyon na binanggit sa Highway Code."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Mga parusa",
+"description":"Pinakamataas na parusa, puntos ng parusa, diskuwalipikasyon, pagbawi sa pagmamaneho ng bagong drayber, muling pagsusulit at iba pang mga kahihinatnan ng paglabag."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Pagpapanatili ng sasakyan. Seguridad ng sasakyan",
+"description":"Kahusayan sa kalsada, mga ilaw na babala, mga gulong, mga likido, kaligtasan ng gasolina, mga sunog ng sasakyan at pag-iwas sa pagnanakaw."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Harapin ang panganib. 2. Humingi ng tulong. 3. Tulungan ang mga sangkot. 4. Magbigay ng pangangalagang pang-emerhensya",
+"description":"Kaligtasan sa pinangyarihan ng banggaan, mga tawag pang-emergency, pangangalaga sa mga nasawi, DRABC, CPR, paggamot sa pagdurugo at paso."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Ang kodigo sa kaligtasan. Batas sa Bagong mga Driver. Karagdagang pagsasanay",
+"description":"Pagbawas ng panganib para sa mga bagong drayber, pagbawi ng anim na puntong lisensya at opsyonal na karagdagang pagsasanay tulad ng Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Mga conversion ng metriko. Mga kapaki-pakinabang na website. Karagdagang babasahin",
+"description":"Mga conversion ng milya-sa-kilometro at mga opisyal na mapagkukunan para sa impormasyon tungkol sa kaligtasan sa kalsada, pagmamaneho, pag-tow, at pag-akay ng sasakyan."
+}
+]

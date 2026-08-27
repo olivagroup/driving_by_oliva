@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Karayolu Trafik Kuralları Metni. Kuralları bilmek ve uygulamak",
+"description":"`MUST`, `MUST NOT`, `should` ve `should not` kelimelerinin nasıl kullanıldığını ve Karayolu Trafik Kurallarını bilme ve uygulama sorumluluğunu açıklar."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Sürücüsüz araçlar",
+"description":"Otonom araçların kendi kendine sürüş yapıp yapmadığı durumlarında kullanıcıların yasal sorumluluklarını açıklar."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Karayolu Kullanıcıları Hiyerarşisi",
+"description":"En büyük zarara yol açabilecek trafik kullanıcılarının, tehlikeyi azaltma konusunda en büyük sorumluluğa sahip olduğunu açıklıyor."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Genel kılavuz (1 ila 6. kurallar)",
+"description":"Yaya güvenliğiyle ilgili genel yönergeler; kaldırımlar, görüş mesafesi ve ortak kullanım alanları dahil."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Yoldan karşıya geçme (7 ila 17. kurallar)",
+"description":"Yeşil Haç Kuralları ve güvenli bir yer seçme ve yolları güvenli bir şekilde geçme kuralları."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Geçişler (18 ila 30. kurallar)",
+"description":"Yaya geçitlerini (zebra geçidi, pelikan geçidi, deniz papağanı geçidi, tukan geçidi ve atlı geçidi) kullanan yayalar için kurallar."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Ekstra özen gerektiren durumlar (31 ila 35. kurallar)",
+"description":"Savunmasız yayalar, acil durum araçları, otobüsler ve demiryolu geçitleri için ek önlemler."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Elektrikli tekerlekli sandalyeler ve hareketli scooterlar (36 ila 37. kurallar)",
+"description":"Kaldırımlarda ve yollarda elektrikli tekerlekli sandalyelerin ve hareketli scooter`ların kullanımıyla ilgili kurallar."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Kaldırımlarda (38 ila 40. kurallar)",
+"description":"Kaldırımlarda ve yaya alanlarında elektrikli scooter ve tekerlekli sandalye kullanımına ilişkin kurallar."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Yolda (41 ila 46. kurallar)",
+"description":"Elektrikli tekerlekli sandalyeler ve hareketli scooter`lar için yol kullanımı, aydınlatma, görünürlük ve güvenlik kuralları."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"At arabaları (47 ila 48. kurallar)",
+"description":"Atlı taşıt sürücüleri için güvenlik, aydınlatma, güzergah ve ekipman kılavuzu."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"At binicileri (49 ila 55. kurallar)",
+"description":"At biniciliğinde güvenliğin kuralları; giyim, ekipman, yol pozisyonu ve işaretler dahil."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Diğer hayvanlar (56 ila 58. kurallar)",
+"description":"Yollarda köpekler, araçlardaki hayvanlar ve çiftlik hayvanlarının taşınmasıyla ilgili kurallar."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Genel Bakış (59 ila 72. kurallar)",
+"description":"Bisiklet sürmeyle ilgili temel kurallar; giyim, ekipman, aydınlatma, yol konumu, bisiklet şeritleri ve ortak kullanım alanlarını kapsar."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Yol kavşakları (73 ila 77. kurallar)",
+"description":"Bisikletlilerin kavşaklara yaklaşırken ve kavşaklardan geçerken uymaları gereken kurallar, konumlandırma ve öncelik sıralaması da dahil olmak üzere."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Döner Kavşaklar (78 ila 80. kurallar)",
+"description":"Bisikletlilerin döner kavşakları kullanırken uymaları gereken kurallar; şerit konumu, sinyalizasyon ve daha güvenli alternatifler dahil."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Yolu geçmek (81 ila 82. kurallar)",
+"description":"Bisikletlilerin sadece bisikletlilere, tukanlara ve atlılara ayrılmış geçitleri kullanmasıyla ilgili kurallar."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Genel (83 ila 88. kurallar)",
+"description":"Motosiklet ehliyeti, kask, göz koruması, yolcu taşıma ve gündüz görüş mesafesi gibi genel kuralları kapsar."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Araç durumu (kural 89)",
+"description":"Motosiklet sürücülerinin motosikletlerini yol güvenliği standartlarına uygun halde tutmalarını ve lastiklerini, frenlerini, farlarını ve direksiyon sistemini bakımlı tutmalarını gerektirir."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Sürüşe uygunluk (90 ila 94. kurallar)",
+"description":"Yorgunluk, hastalık, görme yeteneği, konsantrasyon ve sürüş yeterliliğini etkileyen diğer faktörlere ilişkin kurallar."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkol ve uyuşturucu (95 ila 96. kurallar)",
+"description":"Alkol, uyuşturucu veya ilaç etkisi altındayken araç kullanmayı yasaklar."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Yola çıkmadan önce (kural 97)",
+"description":"Yolculuk öncesi araç yol güvenliği, görüş mesafesi, kontroller, giyim ve yüklerin güvenli bir şekilde taşınması kontrolleri."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Araç çekme ve yükleme (kural 98)",
+"description":"Yüklerin güvenli bir şekilde taşınması, çekme limitleri, römorklar, çıkıntılar ve aşırı yüklemeden kaçınmaya ilişkin kurallar."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Emniyet kemerleri ve çocuk koltukları (99 ila 102. kurallar)",
+"description":"Emniyet kemerleri, çocuk güvenlik koltukları ve çocukların güvenli bir şekilde taşınmasına ilişkin yasal gereklilikler."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Sinyaller (103 ila 106. kurallar)",
+"description":"Net sinyaller verme ve diğer yol kullanıcılarından gelen sinyalleri yorumlama kuralları."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Diğer durdurma prosedürleri (107 ila 112. kurallar)",
+"description":"Polis ve yetkili memurların talimatları, trafik ışıklarına uyma ve korna kullanımı."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Aydınlatma gereksinimleri (113 ila 116. kurallar)",
+"description":"Farlar, park lambaları, sis lambaları ve diğerlerinin gözünü kamaştırmaktan kaçınmaya ilişkin kurallar."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Araç kontrolü (117 ila 126. kurallar)",
+"description":"Güvenli araç kontrolü, frenleme, durma mesafeleri, kayma, süzülme ve hız sınırına uyma."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Karayolundaki çizgiler ve şerit işaretlemeleri (127 ila 132. kurallar)",
+"description":"Orta çizgiler, tehlike çizgileri, çift beyaz çizgiler, şerit çizgileri ve ok işaretlerinin anlamı ve hukuki etkisi."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Çok şeritli yollar (133 ila 143. kurallar)",
+"description":"Şerit disiplini, şerit değiştirme, yokuş yukarı tırmanma, otobüs şeritleri, bisiklet şeritleri ve yüksek kapasiteli şeritler."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Genel tavsiye (144 ila 158. kurallar)",
+"description":"Genel güvenli sürüş kuralları, diğer sürücülere saygı, hız, öncelik ve dikkat dağıtıcı unsurlardan kaçınma."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Genel kurallar (159 ila 161. kurallar)",
+"description":"Hareket etmeden veya trafiğe girmeden önce gözlem, sinyal verme ve güvenli hareket."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Sollama (162 ila 169. kurallar)",
+"description":"Güvenli sollama kuralları, mesafe sınırlaması, yasak bölgeler ve sollama sırasında sollama yapılması gibi konuları içerir."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Yol kavşakları (170 ila 183. kurallar)",
+"description":"Kavşaklara yaklaşma, yol verme, dönüş yapma, kavşaktan çıkma ve trafiği geçme kuralları."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Döner Kavşaklar (184 ila 190. kurallar)",
+"description":"Döner kavşaklara giriş, öncelik, şerit seçimi, sinyal verme ve çıkış kuralları."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Yaya geçitleri (191 ila 199. kurallar)",
+"description":"Sürücünün yaya geçidi, yaya geçidi, martı geçidi, tukan geçidi ve paralel geçitlerdeki sorumlulukları."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Tersine çevirme (200`den 203`e)",
+"description":"Çevreyi kontrol etme, güvenli bir şekilde geri manevra yapma ve aşırı geri manevradan kaçınma kuralları."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Genel Bakış (kural 204)",
+"description":"Özellikle risk altında olan yol kullanıcılarını koruma yükümlülüğünü getiriyor."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Yayalar (205 ila 210. kurallar)",
+"description":"Çocuklara, yaşlılara, engelli yayalara ve yol karşıdan karşıya geçenlere karşı özellikle dikkatli olunmalıdır."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motosiklet sürücüleri ve bisiklet sürücüleri (211 ila 213. kurallar)",
+"description":"Motosiklet ve bisiklet sürücülerinin etrafında, özellikle kavşaklarda, ekstra gözlem yapılmalı ve güvenli mesafe korunmalıdır."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Diğer yol kullanıcıları (214 ila 218. kurallar)",
+"description":"Hayvanlara, at binicilerine, ehliyet sınavını geçen sürücülere ve deneyimsiz yol kullanıcılarına karşı ekstra dikkatli olunmalıdır."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Diğer araçlar (219 ila 225. kurallar)",
+"description":"Acil durum araçları, büyük araçlar, otobüsler, tramvaylar ve yavaş hareket eden araçlar için kurallar."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Genel Bakış (kural 226)",
+"description":"Sürücülerin olumsuz hava koşullarına uyum sağlamasını ve görüş mesafesi azaldığında uygun ışıkları kullanmasını gerektirir."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Yağışlı hava (kural 227)",
+"description":"Azalan yol tutuşu, daha uzun fren mesafeleri, su sıçramaları, suda kayma ve sel suları hakkında bilgi."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Buzlu ve karlı hava (228 ila 231. kurallar)",
+"description":"Buz ve karda hazırlık, sorunsuz sürüş ve kontrolü sağlama kuralları."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Rüzgarlı hava (232 ila 233. kurallar)",
+"description":"Şiddetli yan rüzgarlar ve bu rüzgarların etkilediği savunmasız yol kullanıcıları hakkında bilgilendirme."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Sis (234 ila 236. kurallar)",
+"description":"Görüş mesafesi, hız, takip mesafesi ve sis farlarının doğru kullanımıyla ilgili kurallar."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Sıcak hava (kural 237)",
+"description":"Yol yüzeyindeki ısıya bağlı tehlikeler ve aşırı ısınmanın önlenmesi hakkında rehberlik."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Genel (kural 238)",
+"description":"Genel park kuralları, kısıtlamalara uymayı ve tehlike veya engel oluşturmaktan kaçınmayı içerir."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Park Etme (239 ila 247. kurallar)",
+"description":"Güvenli park etme, yol kenarında durma, yükleme, engelli park yerleri ve yasaklı alanlar için kurallar."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Gece park etme (248 ila 252. kurallar)",
+"description":"Gece park etme kuralları; yönlendirme, aydınlatma, hız sınırları ve yansıtıcı işaretlemeleri kapsar."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Park Etme Cezalarının Suç Olmaktan Çıkarılması (DPE)",
+"description":"Yerel makamlar tarafından park kısıtlamalarının sivil yaptırımını açıklar."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Genel (253 ila 254. kurallar)",
+"description":"Genel otoyol kuralları, yasaklı kullanıcılar ve otoyol yönetmeliklerinin uygulanması dahil."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Otoyol sinyalleri (255 ila 258. kurallar)",
+"description":"Otoyol sinyallerinin, kırmızı X şerit kapatmalarının ve değişken hız limitlerinin anlamı."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Otoyola giriş (kural 259)",
+"description":"Bağlantı yolunu kullanma kuralları, trafik hızına uyum ve otoyol trafiğine öncelik verilmesi."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Otoyolda (260 ila 263. kurallar)",
+"description":"Otoyolda güvenli sürüş, takip mesafesi, kısıtlamalar ve şerit kullanımı."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Şerit disiplini (264 ila 266. kurallar)",
+"description":"Sollama yapılmadığı sürece sol şeridin kullanılması ve şerit sinyallerine güvenli bir şekilde uyulması zorunludur."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Sollama (kurallar 267 ila 268)",
+"description":"Otoyolda sollama kuralları, güvenli gözlem ve emniyet şeridinin kullanımının yasaklanması da dahil olmak üzere."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Emniyet şeridi (kural 269)",
+"description":"Acil durumlar veya işaretlerle geçici yol olarak açıldığı zamanlar dışında emniyet şeridinin kullanımını kısıtlar."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Durdurma (270 ila 272. kurallar)",
+"description":"Acil durumlar veya talimat verilmedikçe otoyolda durmayı yasaklar ve acil durum alanlarının kullanımını açıklar."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Otoyoldan çıkış (273 ila 274. kurallar)",
+"description":"Çıkış levhalarını okuma, sinyal verme ve çıkış şeridine güvenli bir şekilde girme kuralları."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Göreceli güvenli yer (kural 275)",
+"description":"Arıza veya acil durum anında daha güvenli bir yere nasıl ulaşılacağını ve bu yerin nasıl tespit edileceğini açıklar."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Arızalar (kural 276)",
+"description":"Otoyolda araç arızası durumunda yapılacaklar, araçtan güvenli bir şekilde ayrılmak ve yardım çağırmak da dahil olmak üzere."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Otoyollar için ek kurallar (277 ila 279. kurallar)",
+"description":"Arıza ve acil durumlarla ilgili ek rehberlik, trafiğe yeniden katılma ve arızalı araçlar dahil."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Engeller (kural 280)",
+"description":"Yolda bir engelle karşılaşıldığında veya bir engele neden olunduğunda alınacak önlemler."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Olaylar (281 ila 283. kurallar)",
+"description":"Olay yerlerinde alınan güvenlik önlemleri, acil durum koridorları ve acil durum personeliyle işbirliği."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Tehlikeli maddelerle ilgili olaylar (284 ila 285. kurallar)",
+"description":"Tehlikeli maddelerin karıştığı olaylarda alınması gereken önlemler ve raporlama gereklilikleri."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Belgeleme (286 ila 287. kurallar)",
+"description":"Gerektiğinde durma, bilgi alışverişinde bulunma ve kazaları polise bildirme görevleri."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Yol çalışmaları (kural 288)",
+"description":"Yol çalışmaları sırasında ekstra dikkatli olunması, hızın düşürülmesi ve geçici işaretlere ve şerit kontrollerine uyulması gerekmektedir."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Yüksek hızlı yollar için ek kurallar (289 ila 290. kurallar)",
+"description":"Yüksek hızlı yollarda meydana gelen arıza ve olaylar için ek güvenlik kuralları."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Hemzemin geçitler (291 ila 299. kurallar)",
+"description":"Demiryolu geçitlerinde yaklaşma, geçme ve ışıklara, bariyerlere ve acil durumlara müdahale kuralları."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Tramvaylar (300 ila 307. kurallar)",
+"description":"Tramvaylarla aynı yolları paylaşma ve raylardan, platformlardan ve tramvaylara ayrılmış güzergahlardan kaçınma kuralları."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Trafik ışıkları. Yanıp sönen kırmızı ışıklar. Şerit kontrol sinyalleri.",
+"description":"Standart trafik ışıklarının, yanıp sönen kırmızı dur sinyallerinin ve şerit kontrol sinyallerinin anlamları."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Otoyol sinyalleri",
+"description":"Otoyol uyarı sinyallerinin, değişken hız sınırlarının, şerit kapatmalarının ve talimatlarının anlamları."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Yön gösterge sinyalleri. Fren lambası sinyalleri. Geri vites lambası sinyalleri. Kol sinyalleri. Tehlike lambaları",
+"description":"Araçlardaki far ve kol sinyallerinin, planlanan hareketleri ve tehlikeleri bildirmek için nasıl kullanıldığını açıklar."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Polis memurları. Trafiği kontrol eden kişilere kol işareti yapıyorlar. Sürücü ve Araç Standartları Ajansı görevlileri ve trafik polisleri. Okul geçiş devriyeleri.",
+"description":"Polis, yetkili trafik personeli ve okul geçiş görevlileri tarafından verilen sinyaller ve talimatlar."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Emir veren işaretler",
+"description":"Trafik kullanıcılarının yasal olarak uymak zorunda olduğu zorunlu ve yasaklayıcı trafik işaretleri."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Uyarı işaretleri",
+"description":"İlerideki tehlikeler, değişen yol koşulları ve savunmasız yol kullanıcıları hakkında uyarı işaretleri."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Yönlendirme işaretleri",
+"description":"Güzergahları, varış noktalarını, kavşak düzenlerini, yol numaralarını ve sapmaları gösteren işaretler."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Bilgilendirme levhaları",
+"description":"Park yeri, şerit, otoyol, güzergah ve tesis bilgileri sağlayan dikdörtgen levhalar."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Yol çalışması işaretleri",
+"description":"Yol çalışmaları, tehlikeler, şerit kapatmaları, hız sınırları ve ters yönlü trafik sistemleri hakkında uyarı veren geçici işaretler."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Yol boyunca. Yol kenarında. Kaldırımda veya yol kenarında. Diğer yol işaretleri",
+"description":"Dur, yol ver, şerit, bekleme, yükleme, kırmızı çizgi, kutu kavşak ve diğer yol işaretlerinin anlamları."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Büyük yük araçlarının arka işaretlemeleri. Tehlike uyarı levhaları. Çıkıntılı işaretler. Diğer",
+"description":"Ağır vasıtaları, tehlikeli maddeleri, çıkıntılı yükleri ve okul otobüslerini tanımlayan araç işaretleri."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Sen ve bisikletin",
+"description":"Bisiklet seçimi, bakımı, frenleri, aydınlatması, reflektörleri, lastik durumu ve eğitimi."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Motosiklet ehliyeti gereksinimleri. Moped ve motosikletler için ehliyet kategorileri.",
+"description":"CBT, öğrenci kısıtlamaları, testler, aşamalı erişim ve AM, A1, A2 ve A ehliyet kategorileri."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Belgeler. Sürücü kursuna gidenler.",
+"description":"Sürücü ehliyeti, araç muayenesi (MOT), sigorta, tescil, araç vergisi, trafikten men (SORN) ve sürücü adayı gereklilikleri."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Karayolu trafik hukuku. 1988 öncesi kanunlar ve yönetmelikler. 1988 sonrası kanunlar ve yönetmelikler.",
+"description":"Birleşik Krallık karayolu trafik hukukunun kapsamı ve Karayolu Kuralları`nda atıfta bulunulan başlıca Kanun ve Yönetmeliklerin kısaltmaları."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Cezalar",
+"description":"İhlal durumunda uygulanacak azami cezalar, ceza puanları, ehliyetin iptali, yeni sürücü belgesinin geri alınması, yeniden sınava girme ve diğer sonuçlar."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Araç bakımı. Araç güvenliği.",
+"description":"Araç muayenesi, uyarı ışıkları, lastikler, sıvılar, yakıt güvenliği, araç yangınları ve hırsızlık önleme."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Tehlikeyle başa çıkın. 2. Yardım alın. 3. Olayda yer alanlara yardım edin. 4. Acil bakım sağlayın.",
+"description":"Kaza yeri güvenliği, acil çağrılar, yaralı bakımı, DRABC (Kalp Durması Sonrası Bakım), CPR (Kalp Masajı ve Suni Solunum), kanama ve yanık tedavisi."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Güvenlik yönetmeliği. Yeni Sürücüler Yasası. İleri eğitim",
+"description":"Yeni sürücüler için risk azaltma, altı puanlık ehliyet iptali ve Pass Plus gibi isteğe bağlı ek eğitimler."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Metrik dönüşümler. Faydalı web siteleri. Daha fazla bilgi",
+"description":"Mil-kilometre dönüşümleri ve yol güvenliği, sürüş, motosiklet kullanımı, çekme ve araç bilgileri için resmi kaynaklar."
+}
+]

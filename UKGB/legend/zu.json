@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Amazwi e-Highway Code. Ukwazi nokusebenzisa imithetho",
+"description":"Ichaza indlela amagama athi KUMELE, AKUMELE, okufanele kanye nokungafanele asetshenziswe ngayo, kanye nomthwalo wemfanelo wokwazi nokusebenzisa i-Highway Code."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Izimoto ezizishayelayo",
+"description":"Ichaza imithwalo yemfanelo esemthethweni yabasebenzisi lapho imoto ezishayela yona izishayela noma ingazishayeleli."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Uhlu lwabasebenzisi bomgwaqo",
+"description":"Uchaza ukuthi abasebenzisi bomgwaqo abakwaziyo ukudala umonakalo omkhulu banomthwalo wemfanelo omkhulu wokunciphisa ingozi."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Isiqondiso esijwayelekile (imithetho 1 kuya ku-6)",
+"description":"Isiqondiso esijwayelekile sokuphepha kwabahamba ngezinyawo, okuhlanganisa izindlela zokuhamba ngezinyawo, ukubonakala kanye nemizila ehlanganyelwe."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Ukuwela umgwaqo (imithetho 7 kuya ku-17)",
+"description":"I-Green Cross Code kanye nemithetho yokukhetha indawo ephephile nokuwela imigwaqo ngokuphepha."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Ukuwela (imithetho 18 kuya ku-30)",
+"description":"Imithetho yabahamba ngezinyawo abasebenzisa i-zebra, i-pelican, i-puffin, i-toucan kanye ne-equestrian crossing."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Izimo ezidinga ukunakekelwa okwengeziwe (imithetho 31 kuya ku-35)",
+"description":"Izinyathelo ezengeziwe zokuqapha kwabahamba ngezinyawo abasengozini, izimoto eziphuthumayo, amabhasi kanye nezindawo zokuwela izitimela."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Izihlalo zabakhubazekile ezisebenzisa amandla kanye nama-scooter okunyakaza (imithetho 36 kuya ku-37)",
+"description":"Imithetho yokusebenzisa izihlalo zabakhubazekile ezisebenza ngogesi kanye nezikuta zokuhamba ngezinyawo emigwaqweni."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Ezindleleni zokuhamba (imithetho 38 kuya ku-40)",
+"description":"Imithetho yama-scooter okunyakaza kanye nezihlalo ezinamasondo ezisebenzisa izindlela zokuhamba ngezinyawo kanye nezindawo zabahamba ngezinyawo."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Endleleni (imithetho 41 kuya ku-46)",
+"description":"Imithetho yokusebenzisa umgwaqo, ukukhanya, ukubonakala kanye nokuphepha kwezihlalo zabakhubazekile ezisebenza ngogesi kanye nezikuta zokuhamba."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Izimoto ezidonswa amahhashi (imithetho 47 kuya ku-48)",
+"description":"Ukuphepha, ukukhanyisa, umzila kanye nesiqondiso semishini yabashayeli bezimoto ezidonswa amahhashi."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Abagibeli bamahhashi (imithetho 49 kuya ku-55)",
+"description":"Imithetho yokugibela amahhashi ngokuphepha, okuhlanganisa izingubo, imishini, ukubekwa komgwaqo kanye nezimpawu."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Ezinye izilwane (imithetho 56 kuya ku-58)",
+"description":"Imithetho yezinja, izilwane ezimotweni kanye nokuhambisa imfuyo emigwaqweni."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Ukubuka konke (imithetho 59 kuya ku-72)",
+"description":"Imithetho eyinhloko yokugibela ibhayisikili ehlanganisa izingubo, imishini, izibani, indawo yomgwaqo, imizila yamabhayisikili kanye nemizila ehlanganyelwe."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Izindawo zokuhlangana kwemigwaqo (imithetho 73 kuya ku-77)",
+"description":"Imithetho yabagibeli bamabhayisikili abasondela futhi bexoxisana ngezindawo zokuhlangana, okuhlanganisa ukubeka indawo kanye nokubaluleka kwayo."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Imigwaqo Ejikelezayo (imithetho 78 kuya ku-80)",
+"description":"Imithetho yabagibeli bamabhayisikili abasebenzisa izindawo ezizungezile, okuhlanganisa indawo yomzila, izimpawu kanye nezinye izindlela eziphephile."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Ukuwela umgwaqo (imithetho 81 kuya ku-82)",
+"description":"Imithetho yabagibeli bamabhayisikili abasebenzisa ukuwela amabhayisikili kuphela, ama-toucan kanye nama-equestrian."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Okuvamile (imithetho 83 kuya ku-88)",
+"description":"Imithetho evamile yesithuthuthu ehlanganisa ilayisensi, izigqoko zokuzivikela, ukuvikelwa kwamehlo, abagibeli kanye nokubonakala kwasemini."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Isimo semoto (umthetho 89)",
+"description":"Kudinga abagibeli bezithuthuthu ukuthi bagcine izithuthuthu zabo zisesimweni esihle sokuba semgwaqweni futhi banakekele amathayi, amabhuleki, izibani kanye nokuqondisa."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Ukufaneleka kokushayela (imithetho 90 kuya ku-94)",
+"description":"Imithetho ngokukhathala, ukugula, ukubona, ukugxilisa ingqondo kanye nezinye izici ezithinta ukufaneleka kokushayela."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Utshwala nezidakamizwa (imithetho 95 kuya ku-96)",
+"description":"Kuvimbela ukushayela uphazamisekile ngenxa yotshwala, izidakamizwa noma imithi engekho emthethweni."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Ngaphambi kokuhamba (umthetho 97)",
+"description":"Ukuhlolwa kwangaphambi kohambo kokufaneleka kwemoto ukuba semgwaqweni, ukubonakala, izilawuli, izingubo kanye nemithwalo evikelekile."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Ukudonsa nokulayisha imoto (umthetho 98)",
+"description":"Imithetho yokuvikela imithwalo, imikhawulo yokudonsa, ama-trailer, ama-projection kanye nokugwema ukulayisha ngokweqile."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Amabhande esihlalo kanye nezibopho zezingane (imithetho 99 kuya ku-102)",
+"description":"Izidingo zomthetho zamabhande esihlalo, izithiyo zezingane kanye nokuthuthwa kwezingane ngokuphephile."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Izimpawu (imithetho 103 kuya ku-106)",
+"description":"Imithetho yokunikeza izimpawu ezicacile nokuhumusha izimpawu ezivela kwabanye abasebenzisi bomgwaqo."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Ezinye izinqubo zokumisa (imithetho 107 kuya ku-112)",
+"description":"Iziqondiso ezivela emaphoyiseni nasezikhulwini ezigunyaziwe, ukuthobela imithetho yethrafikhi kanye nokusetshenziswa kwe-horn."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Izidingo zokukhanyisa (imithetho 113 kuya ku-116)",
+"description":"Imithetho elawula izibani zangaphambili, izibani ezisemaceleni, izibani zenkungu kanye nokugwema ukukhazimula kwezinye."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Ukulawulwa kwemoto (imithetho 117 kuya ku-126)",
+"description":"Ukulawulwa kwezimoto okuphephile, ukubhuleka, amabanga okuma, ukushelela, ukugibela ogwini kanye nokuthobela umkhawulo wejubane."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Imigqa kanye nezimpawu zemizila emgwaqweni (imithetho 127 kuya ku-132)",
+"description":"Incazelo kanye nomphumela osemthethweni wemigqa ephakathi, imigqa eyingozi, imigqa emhlophe ephindwe kabili, imigqa yemizila kanye nama-chevron."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Imigwaqo yezimoto enemizila eminingi (imithetho 133 kuya ku-143)",
+"description":"Indlela yokuqondisa imizila, ukushintsha imizila, imizila yokukhuphuka, imizila yamabhasi, imizila yamabhayisikili kanye nemizila enabantu abaningi."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Iseluleko esijwayelekile (imithetho 144 kuya ku-158)",
+"description":"Ukuziphatha ngokuphepha okuvamile, ukucabangela abanye, isivinini, ukuza kuqala kanye nokugwema iziphazamiso."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Imithetho ejwayelekile (imithetho 159 kuya ku-161)",
+"description":"Ukubuka, ukukhomba kanye nokuhamba okuphephile ngaphambi kokuphuma noma ukungena emotweni."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Ukudlula (imithetho 162 kuya ku-169)",
+"description":"Imithetho yokudlula ngokuphepha, okuhlanganisa ukususwa kwemigwaqo, izindawo ezingavunyelwe kanye nokudlula."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Izindawo zokuhlangana kwemigwaqo (imithetho 170 kuya ku-183)",
+"description":"Imithetho yokusondela ezimpambanweni zemigwaqo, ukunikeza indlela, ukujika, ukuvela nokuwela izimoto."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Imigwaqo Ejikelezayo (imithetho 184 kuya ku-190)",
+"description":"Imithetho yokusondela, ukubaluleka, ukukhetha umzila, ukuhambisa izimpawu kanye nezindawo ezizungezile."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Ukuwela kwabahamba ngezinyawo (imithetho 191 kuya ku-199)",
+"description":"Imisebenzi yokushayela ezindaweni zokuwela izintaba ze-zebra, i-pelican, i-puffin, i-toucan kanye nezindawo zokuwela ezihambisanayo."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Ukubuyela emuva (200 kuya ku-203)",
+"description":"Imithetho yokuhlola indawo ezungezile, ukuhlehla ngokuphephile nokugwema ukuhlehla ngokweqile."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Ukubuka konke (umthetho 204)",
+"description":"Kwethula umsebenzi wokuvikela abasebenzisi bomgwaqo abasengozini enkulu."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Abahamba ngezinyawo (imithetho 205 kuya ku-210)",
+"description":"Ukunakekelwa okwengeziwe okuzungeze izingane, abantu abadala, abahamba ngezinyawo abakhubazekile kanye nabantu abawela imigwaqo."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Abagibeli bezithuthuthu nabagibeli bamabhayisikili (imithetho 211 kuya ku-213)",
+"description":"Ukuqaphela okwengeziwe kanye nokuphepha okuphephile eduze kwabagibeli bezithuthuthu kanye nabagibeli bamabhayisikili, ikakhulukazi ezindaweni zokuhlangana kwemigwaqo."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Abanye abasebenzisi bomgwaqo (imithetho 214 kuya ku-218)",
+"description":"Ukunakekelwa okwengeziwe ngezilwane, abagibeli bamahhashi, abafundi abashayeli kanye nabasebenzisi bomgwaqo abangenalwazi."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Ezinye izimoto (imithetho 219 kuya ku-225)",
+"description":"Imithetho yezimoto eziphuthumayo, izimoto ezinkulu, amabhasi, ama-tram kanye nezimoto ezihamba kancane."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Ukubuka konke (umthetho 226)",
+"description":"Kudinga abashayeli ukuthi bazivumelanise nesimo sezulu esibi futhi basebenzise izibani ezifanele uma ukubonakala kuncipha."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Isimo sezulu esimanzi (umthetho 227)",
+"description":"Isiqondiso mayelana nokubamba okuncishisiwe, amabanga amade okuma, ukufutha, ukuhlanza amanzi kanye namanzi ezikhukhula."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Isimo sezulu esibandayo nesikhithikayo (imithetho 228 kuya ku-231)",
+"description":"Imithetho yokulungiselela, ukushayela kahle nokugcina ukulawula eqhweni naseqhweni."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Isimo sezulu esinomoya (imithetho 232 kuya ku-233)",
+"description":"Isiqondiso mayelana nezivunguvungu ezinamandla kanye nabasebenzisi bomgwaqo abasengozini abathintekile yizivunguvungu."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Inkungu (imithetho 234 kuya ku-236)",
+"description":"Imithetho ngokubonakala, isivinini, ukulandela ibanga kanye nokusetshenziswa kahle kwezibani zenkungu."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Isimo sezulu esishisayo (umthetho 237)",
+"description":"Isiqondiso ngezingozi zomgwaqo ezihlobene nokushisa kanye nokugwema ukushisa ngokweqile."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Okuvamile (umthetho 238)",
+"description":"Imithetho evamile yokupaka, okuhlanganisa ukuthobela imikhawulo kanye nokugwema ingozi noma ukuvinjelwa."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Ukupaka (imithetho 239 kuya ku-247)",
+"description":"Imithetho yokupaka ephephile, ukuma eceleni komgwaqo, ukulayisha, izindawo zabakhubazekile kanye nezindawo ezingavunyelwe."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Ukupaka ebusuku (imithetho 248 kuya ku-252)",
+"description":"Imithetho yokupaka ebusuku ehlanganisa isiqondiso, ukukhanya, imikhawulo yesivinini kanye nezimpawu zokukhanya."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Ukuphoqelelwa Kokupaka Okungavunyelwe Umthetho (i-DPE)",
+"description":"Ichaza ukuphoqelelwa komphakathi kwemingcele yokupaka yiziphathimandla zendawo."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Okuvamile (imithetho 253 kuya ku-254)",
+"description":"Imithetho ejwayelekile yemigwaqo emikhulu, okuhlanganisa abasebenzisi abavinjelwe kanye nokusetshenziswa kwemithetho yemigwaqo emikhulu."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Izimpawu zomgwaqo omkhulu (imithetho 255 kuya ku-258)",
+"description":"Incazelo yezimpawu zomgwaqo omkhulu, ukuvalwa kwemizila ebomvu engu-X kanye nemikhawulo yesivinini eguquguqukayo."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Ukujoyina umgwaqo omkhulu (umthetho 259)",
+"description":"Imithetho yokusebenzisa umgwaqo oshelelayo, ukufanisa isivinini sethrafikhi kanye nokunikeza kuqala ithrafikhi yemigwaqo emikhulu."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Emgwaqweni omkhulu (imithetho 260 kuya ku-263)",
+"description":"Ukushayela emgwaqweni omkhulu okuphephile, ukulandela amabanga, imikhawulo kanye nokusebenzisa imizila."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Ukujeziswa komgwaqo (imithetho 264 kuya ku-266)",
+"description":"Kudinga ukusetshenziswa komzila wesobunxele ngaphandle kokuthi kudlule futhi kulandelwe ngokuphephile izimpawu zomzila."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Ukudlula (imithetho 267 kuya ku-268)",
+"description":"Imithetho yokudlula umgwaqo omkhulu, okuhlanganisa nokuqaphela okuphephile kanye nokwenqatshelwa kokusebenzisa ihlombe eliqinile."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Ihlombe eliqinile (umthetho 269)",
+"description":"Ikhawulela ukusetshenziswa kwamahlombe aqinile ezimweni eziphuthumayo noma ngezikhathi lapho izimpawu ziyivula njengomzila wokugijima."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Ukuma (imithetho 270 kuya ku-272)",
+"description":"Iyakwenqabela ukuma komgwaqo omkhulu ngaphandle kwezimo eziphuthumayo noma lapho iqondiswa futhi ichaza ukusetshenziswa kwendawo ephuthumayo."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Ukusuka emgwaqweni omkhulu (imithetho 273 kuya ku-274)",
+"description":"Imithetho yokufunda izimpawu zokuphuma, ukufaka izimpawu nokungena ngendlela ephephile emzileni wokuphuma."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Indawo yokuphepha okulinganiselwe (umthetho 275)",
+"description":"Ichaza indlela yokubona nokufinyelela endaweni ephephile ngesikhathi sokuphazamiseka kwemoto noma isimo esiphuthumayo."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Ukuhlukaniswa (umthetho 276)",
+"description":"Izinyathelo okufanele zithathwe ngesikhathi sengozi yomgwaqo omkhulu, okuhlanganisa ukushiya imoto ngokuphepha nokuxhumana nosizo."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Imithetho eyengeziwe yemigwaqo emikhulu (imithetho 277 kuya ku-279)",
+"description":"Ukuhlolwa okwengeziwe kanye nesiqondiso esiphuthumayo, okuhlanganisa ukujoyina kabusha ithrafikhi kanye nezimoto ezikhubazekile."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Izithiyo (umthetho 280)",
+"description":"Izinyathelo okufanele zithathwe uma uhlangana noma ubangela ukuvinjelwa komgwaqo."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Izehlakalo (imithetho 281 kuya ku-283)",
+"description":"Izinyathelo zokuphepha ezigamekweni, ezindleleni eziphuthumayo kanye nokuthobela izindinganiso zabasebenzi bezimo eziphuthumayo."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Izigameko ezihilela izimpahla eziyingozi (imithetho 284 kuya ku-285)",
+"description":"Izinyathelo zokuqapha kanye nezidingo zokubika lapho kuhileleke izinto eziyingozi esigamekweni."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Imibhalo (imithetho 286 kuya ku-287)",
+"description":"Imisebenzi yokumisa, ukushintshana ngolwazi nokubika ukushayisana kwamaphoyisa uma kudingeka."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Imisebenzi yemigwaqo (umthetho 288)",
+"description":"Kudinga ukunakekelwa okwengeziwe, isivinini esincishisiwe kanye nokuhambisana nezimpawu zesikhashana kanye nokulawulwa kwemizila emsebenzini womgwaqo."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Imithetho eyengeziwe yemigwaqo enesivinini esikhulu (imithetho 289 kuya ku-290)",
+"description":"Imithetho eyengeziwe yokuphepha yezingozi kanye nezehlakalo emigwaqweni ehamba ngesivinini esikhulu."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Ukuwela amazinga (imithetho 291 kuya ku-299)",
+"description":"Imithetho yokusondela, ukuwela kanye nokusabela ezibanini, ezithiyweni nasezimweni eziphuthumayo lapho kuwela khona izitimela."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Ama-tramway (imithetho 300 kuya ku-307)",
+"description":"Imithetho yokwabelana ngemigwaqo nama-tram nokugwema ojantshi, amapulatifomu kanye nemizila yama-tram egciniwe."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Izimpawu zezibane zethrafikhi. Izibani ezibomvu ezikhanyayo. Izimpawu zokulawula umzila",
+"description":"Izincazelo zezibani zomgwaqo ezijwayelekile, izimpawu zokuma ezibomvu ezikhanyayo kanye nezimpawu zokulawula umzila."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Izimpawu zomgwaqo omkhulu",
+"description":"Izincazelo zezibonakaliso zesexwayiso zomgwaqo omkhulu, imikhawulo eguquguqukayo, ukuvalwa kwemizila kanye nemiyalelo."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Izimpawu zesikhombisi-ndlela. Izimpawu zesibani samabhuleki. Izimpawu zokukhanya ezibuyela emuva. Izimpawu zengalo. Izibani zengozi",
+"description":"Ichaza izimpawu zokukhanya kwezimoto kanye nezingalo ezisetshenziswa ukudlulisa ukunyakaza okuhlosiwe kanye nezingozi."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Amaphoyisa. Izimpawu zengalo kubantu abalawula ithrafikhi. Amaphoyisa e-Agency Abashayeli Nezindinganiso Zezimoto kanye namaphoyisa omgwaqo. Amaphoyisa okuwela izikole",
+"description":"Izimpawu nemiyalelo enikezwa ngamaphoyisa, abasebenzi bezimoto abagunyaziwe kanye namaphoyisa okuwela izikole."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Izimpawu ezinikeza imiyalelo",
+"description":"Izimpawu zomgwaqo eziphoqelekile nezivimbelayo abasebenzisi bomgwaqo okuphoqelekile ukuba bazilalele ngokomthetho."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Izimpawu zesexwayiso",
+"description":"Izimpawu ezixwayisa ngezingozi, ukushintsha kwezimo zomgwaqo kanye nabasebenzisi bomgwaqo abasengozini abaseduze."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Izimpawu zesiqondiso",
+"description":"Izimpawu ezibonisa imizila, izindawo oya kuzo, izindawo zokuhlangana kwemigwaqo, izinombolo zemigwaqo kanye nezindawo zokuphambukisa."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Izimpawu zolwazi",
+"description":"Izimpawu eziyisikwele ezinikeza ulwazi lokupaka, umzila, umgwaqo omkhulu, umzila kanye nesikhungo."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Izimpawu zomsebenzi womgwaqo",
+"description":"Izimpawu zesikhashana ezixwayisa ngemisebenzi yomgwaqo, izingozi, ukuvalwa kwemizila, imikhawulo yesivinini kanye nezinhlelo zokuvimbela ukuhamba kwezimoto."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Ngaphesheya kwendlela yezimoto. Ngaseceleni kwendlela yezimoto. Ngaseceleni kwendlela yezimoto. Eceleni komgwaqo noma emaphethelweni omgwaqo. Ezinye izimpawu zomgwaqo",
+"description":"Izincazelo zokuma, ukunikeza indlela, umzila, ukulinda, ukulayisha, uMzila Obomvu, ukuhlangana kwebhokisi kanye nezinye izimpawu zomgwaqo."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Izimpawu zangemuva zezimoto ezinkulu zezimpahla. Amapuleti esixwayiso sengozi. Izimpawu zokubikezela. Okunye",
+"description":"Izimpawu zezimoto ezikhomba izimoto ezisindayo, izimpahla eziyingozi, imithwalo ephumayo kanye namabhasi esikole."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Wena nebhayisikili lakho",
+"description":"Ukukhetha ibhayisikili, ukulungiswa, amabhuleki, izibani, izibonisi, isimo sethayi kanye nokuqeqeshwa."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Izidingo zelayisensi yesithuthuthu. Izigaba zelayisensi yama-moped nezithuthuthu",
+"description":"I-CBT, imikhawulo yabafundi, izivivinyo, ukufinyelela okuqhubekayo kanye nezigaba zamalayisense e-AM, A1, A2 kanye ne-A."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Amadokhumenti. Abashayeli babafundi",
+"description":"Amalayisense okushayela, i-MOT, umshwalense, ukubhaliswa, intela yemoto, i-SORN kanye nezidingo zomfundi nomshayeli."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Umthetho wethrafikhi yomgwaqo. Imithetho nemigomo ngaphambi kuka-1988. Imithetho nemigomo kusukela ngo-1988 kuqhubeke",
+"description":"Ububanzi bomthetho wethrafikhi yase-UK kanye nezifinyezo zeMithetho Nemithethonqubo eyinhloko ecashunwe ku-Highway Code."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Izijeziso",
+"description":"Izijeziso eziphezulu, amaphuzu ezijeziso, ukungafaneleki, ukuhoxiswa komshayeli omusha, ukuhlolwa kabusha kanye neminye imiphumela yokona."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Ukulungiswa kwezimoto. Ukuphepha kwezimoto",
+"description":"Ukufaneleka komgwaqo, izibani zokuxwayisa, amathayi, uketshezi, ukuphepha kukaphethiloli, imililo yezimoto kanye nokuvimbela ukwebiwa."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Bhekana nengozi. 2. Thola usizo. 3. Siza labo abahilelekile. 4. Nikeza ukunakekelwa okuphuthumayo",
+"description":"Ukuphepha endaweni yengozi, izingcingo eziphuthumayo, ukunakekelwa kwabalimele, i-DRABC, i-CPR, ukopha kanye nokwelashwa kokusha."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Ikhodi yokuphepha. Umthetho Wabashayeli Abasha. Ukuqeqeshwa okwengeziwe",
+"description":"Ukunciphisa ubungozi kubashayeli abasha, ukuhoxiswa kwelayisensi yamaphuzu ayisithupha kanye nokuqeqeshwa okwengeziwe okungakhethwa njengePass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Ukuguqulwa kwe-metric. Amawebhusayithi awusizo. Ukufunda okwengeziwe",
+"description":"Ukuguqulwa kwamamayela kuya kumakhilomitha kanye nezinsiza ezisemthethweni zokuphepha emgwaqweni, ukushayela, ukugibela, ukudonsa kanye nolwazi lwemoto."
+}
+]

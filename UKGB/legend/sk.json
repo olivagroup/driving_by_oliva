@@ -1,0 +1,554 @@
+[
+{
+"id": 1,
+"englishName":"Legend",
+"category":"Znenie Pravidiel cestnej premávky. Znalosť a uplatňovanie pravidiel",
+"description":"Vysvetľuje, ako sa používajú slová MUSÍ, NESMIE, mal by a nemal by, a zodpovednosť za znalosť a uplatňovanie dopravných predpisov."
+},
+{
+"id": 2,
+"englishName":"Legend",
+"category":"Samoriadiace vozidlá",
+"description":"Vysvetľuje právne zodpovednosti používateľov, keď autonómne vozidlo šoféruje alebo nešoféruje samo."
+},
+{
+"id": 3,
+"englishName":"Legend",
+"category":"Hierarchia účastníkov cestnej premávky",
+"description":"Vysvetľuje, že účastníci cestnej premávky, ktorí môžu spôsobiť najväčšiu škodu, majú najväčšiu zodpovednosť za znižovanie nebezpečenstva."
+},
+{
+"id": 4,
+"englishName":"Legend",
+"category":"Všeobecné pokyny (pravidlá 1 až 6)",
+"description":"Všeobecné bezpečnostné pokyny pre chodcov vrátane chodníkov, viditeľnosti a spoločných trás."
+},
+{
+"id": 5,
+"englishName":"Legend",
+"category":"Prechádzanie cez cestu (pravidlá 7 až 17)",
+"description":"Kódex Zeleného kríža a pravidlá pre výber bezpečného miesta a bezpečné prechádzanie cez cesty."
+},
+{
+"id": 6,
+"englishName":"Legend",
+"category":"Prechody (pravidlá 18 až 30)",
+"description":"Pravidlá pre chodcov používajúcich priechody pre zebry, pelikánov, papagájov, tukanov a jazdcov."
+},
+{
+"id": 7,
+"englishName":"Legend",
+"category":"Situácie vyžadujúce si zvýšenú starostlivosť (pravidlá 31 až 35)",
+"description":"Mimoriadne opatrenia pre zraniteľných chodcov, záchranné vozidlá, autobusy a železničné priecestia."
+},
+{
+"id": 8,
+"englishName":"Legend",
+"category":"Elektrické invalidné vozíky a skútre pre osoby so zníženou pohyblivosťou (pravidlá 36 až 37)",
+"description":"Pravidlá pre používanie elektrických invalidných vozíkov a skútrov pre osoby so zdravotným postihnutím na chodníkoch a cestách."
+},
+{
+"id": 9,
+"englishName":"Legend",
+"category":"Na chodníkoch (pravidlá 38 až 40)",
+"description":"Pravidlá pre mobilné skútre a elektrické invalidné vozíky na chodníkoch a v peších zónach."
+},
+{
+"id": 10,
+"englishName":"Legend",
+"category":"Na ceste (pravidlá 41 až 46)",
+"description":"Pravidlá používania ciest, osvetlenia, viditeľnosti a bezpečnosti pre elektrické invalidné vozíky a skútre pre osoby so zdravotným postihnutím."
+},
+{
+"id": 11,
+"englishName":"Legend",
+"category":"Konské povozy (pravidlá 47 až 48)",
+"description":"Bezpečnostné pokyny, osvetlenie, trasa a vybavenie pre vodičov konských záprahov."
+},
+{
+"id": 12,
+"englishName":"Legend",
+"category":"Jazdci na koňoch (pravidlá 49 až 55)",
+"description":"Pravidlá pre bezpečnú jazdu na koňoch vrátane oblečenia, výstroja, polohy na ceste a signálov."
+},
+{
+"id": 13,
+"englishName":"Legend",
+"category":"Ostatné zvieratá (pravidlá 56 až 58)",
+"description":"Pravidlá pre psy, zvieratá vo vozidlách a prepravu hospodárskych zvierat po cestách."
+},
+{
+"id": 14,
+"englishName":"Legend",
+"category":"Prehľad (pravidlá 59 až 72)",
+"description":"Základné pravidlá pre cyklistov týkajúce sa oblečenia, vybavenia, osvetlenia, polohy na ceste, cyklotras a spoločných trás."
+},
+{
+"id": 15,
+"englishName":"Legend",
+"category":"Križovatky (pravidlá 73 až 77)",
+"description":"Pravidlá pre cyklistov priblížujúcich sa k križovatkám a prejazdu nimi vrátane umiestnenia a prednosti."
+},
+{
+"id": 16,
+"englishName":"Legend",
+"category":"Kruhové objazdy (pravidlá 78 až 80)",
+"description":"Pravidlá pre cyklistov používajúcich kruhové objazdy vrátane umiestnenia jazdných pruhov, signalizácie a bezpečnejších alternatív."
+},
+{
+"id": 17,
+"englishName":"Legend",
+"category":"Prechádzanie cez cestu (pravidlá 81 až 82)",
+"description":"Pravidlá pre cyklistov používajúcich priechody len pre bicykle, tukany a jazdcov."
+},
+{
+"id": 18,
+"englishName":"Legend",
+"category":"Všeobecné ustanovenia (pravidlá 83 až 88)",
+"description":"Všeobecné pravidlá pre motocykle týkajúce sa vodičského preukazu, prilieb, ochrany očí, spolujazdcov a viditeľnosti počas dňa."
+},
+{
+"id": 19,
+"englishName":"Legend",
+"category":"Stav vozidla (pravidlo 89)",
+"description":"Vyžaduje od motocyklistov, aby udržiavali svoje motocykle v pojazdnom stave a aby sa starali o pneumatiky, brzdy, svetlá a riadenie."
+},
+{
+"id": 20,
+"englishName":"Legend",
+"category":"Spôsobilosť na vedenie vozidla (pravidlá 90 až 94)",
+"description":"Pravidlá týkajúce sa únavy, choroby, zraku, sústredenia a iných faktorov ovplyvňujúcich spôsobilosť na vedenie vozidla."
+},
+{
+"id": 21,
+"englishName":"Legend",
+"category":"Alkohol a drogy (pravidlá 95 až 96)",
+"description":"Zakazuje šoférovať pod vplyvom alkoholu, drog alebo liekov."
+},
+{
+"id": 22,
+"englishName":"Legend",
+"category":"Pred odchodom (pravidlo 97)",
+"description":"Predjazdové kontroly vozidla týkajúce sa technického stavu, viditeľnosti, ovládacích prvkov, oblečenia a zabezpečeného nákladu."
+},
+{
+"id": 23,
+"englishName":"Legend",
+"category":"Ťahanie a nakladanie vozidiel (pravidlo 98)",
+"description":"Pravidlá pre bezpečné zaťaženie, limity ťahania, prívesy, výčnelky a predchádzanie preťaženiu."
+},
+{
+"id": 24,
+"englishName":"Legend",
+"category":"Bezpečnostné pásy a detské zadržiavacie systémy (pravidlá 99 až 102)",
+"description":"Právne požiadavky na bezpečnostné pásy, detské zadržiavacie systémy a bezpečnú prepravu detí."
+},
+{
+"id": 25,
+"englishName":"Legend",
+"category":"Signály (pravidlá 103 až 106)",
+"description":"Pravidlá pre dávanie jasných signálov a interpretáciu signálov od ostatných účastníkov cestnej premávky."
+},
+{
+"id": 26,
+"englishName":"Legend",
+"category":"Iné postupy zastavenia (pravidlá 107 až 112)",
+"description":"Pokyny od polície a oprávnených príslušníkov, dodržiavanie predpisov na semafore a používanie klaksónu."
+},
+{
+"id": 27,
+"englishName":"Legend",
+"category":"Požiadavky na osvetlenie (pravidlá 113 až 116)",
+"description":"Pravidlá upravujúce svetlomety, obrysové svetlá, hmlové svetlá a zabránenie oslňovaniu ostatných."
+},
+{
+"id": 28,
+"englishName":"Legend",
+"category":"Ovládanie vozidla (pravidlá 117 až 126)",
+"description":"Bezpečné ovládanie vozidla, brzdenie, brzdná dráha, šmyk, jazda na voľnobeh a dodržiavanie rýchlostných obmedzení."
+},
+{
+"id": 29,
+"englishName":"Legend",
+"category":"Čiary a značenie jazdných pruhov na ceste (pravidlá 127 až 132)",
+"description":"Význam a právny účinok stredových čiar, prekážkových čiar, dvojitých bielych čiar, čiar jazdných pruhov a šípov."
+},
+{
+"id": 30,
+"englishName":"Legend",
+"category":"Viacpruhové vozovky (pravidlá 133 až 143)",
+"description":"Disciplína v jazdných pruhoch, zmena jazdného pruhu, stúpanie do iných pruhov, pruhy pre autobusy, cyklistické pruhy a pruhy s vysokou obsadenosťou."
+},
+{
+"id": 31,
+"englishName":"Legend",
+"category":"Všeobecné odporúčania (pravidlá 144 až 158)",
+"description":"Všeobecné bezpečné správanie pri jazde, ohľaduplnosť k ostatným, rýchlosť, priorita a vyhýbanie sa rozptyľovaniu."
+},
+{
+"id": 32,
+"englishName":"Legend",
+"category":"Všeobecné pravidlá (pravidlá 159 až 161)",
+"description":"Pozorovanie, signalizácia a bezpečný pohyb pred rozjazdom alebo zaradením sa do premávky."
+},
+{
+"id": 33,
+"englishName":"Legend",
+"category":"Predbiehanie (pravidlá 162 až 169)",
+"description":"Pravidlá pre bezpečné predbiehanie vrátane umiestnenia výjazdov, zakázaných miest a predbiehania."
+},
+{
+"id": 34,
+"englishName":"Legend",
+"category":"Križovatky (pravidlá 170 až 183)",
+"description":"Pravidlá pre priblíženie sa ku križovatkám, danie prednosti v jazde, odbočovanie, vychádzanie z križovatky a križovanie premávky."
+},
+{
+"id": 35,
+"englishName":"Legend",
+"category":"Kruhové objazdy (pravidlá 184 až 190)",
+"description":"Pravidlá pre priblíženie, prednosť, výber jazdného pruhu, signalizáciu a výjazd z kruhových objazdov."
+},
+{
+"id": 36,
+"englishName":"Legend",
+"category":"Priechody pre chodcov (pravidlá 191 až 199)",
+"description":"Zodpovednosti vodiča na priechodoch pre zebry, pelikáne, papagáje, tukany a paralelných priechodoch."
+},
+{
+"id": 37,
+"englishName":"Legend",
+"category":"Cúvanie (200 až 203)",
+"description":"Pravidlá pre kontrolu okolia, bezpečné cúvanie a vyhýbanie sa nadmernému cúvaniu."
+},
+{
+"id": 38,
+"englishName":"Legend",
+"category":"Prehľad (pravidlo 204)",
+"description":"Zavádza povinnosť chrániť účastníkov cestnej premávky, ktorí sú obzvlášť ohrození."
+},
+{
+"id": 39,
+"englishName":"Legend",
+"category":"Chodci (pravidlá 205 až 210)",
+"description":"Zvýšená opatrnosť pri prechádzaní cez cestu deťmi, staršími ľuďmi, chodcami so zdravotným postihnutím a osobami prechádzajúcimi cez cestu."
+},
+{
+"id": 40,
+"englishName":"Legend",
+"category":"Motocyklisti a cyklisti (pravidlá 211 až 213)",
+"description":"Zvýšený pozorovací bod a bezpečný odstup od motocyklistov a cyklistov, najmä na križovatkách."
+},
+{
+"id": 41,
+"englishName":"Legend",
+"category":"Ostatní účastníci cestnej premávky (pravidlá 214 až 218)",
+"description":"Zvýšená opatrnosť pri kontakte so zvieratami, jazdcami na koňoch, začínajúcimi vodičmi a neskúsenými účastníkmi cestnej premávky."
+},
+{
+"id": 42,
+"englishName":"Legend",
+"category":"Ostatné vozidlá (pravidlá 219 až 225)",
+"description":"Pravidlá pre vozidlá záchrannej služby, veľké vozidlá, autobusy, električky a pomaly sa pohybujúce vozidlá."
+},
+{
+"id": 43,
+"englishName":"Legend",
+"category":"Prehľad (pravidlo 226)",
+"description":"Vyžaduje si to od vodičov, aby sa prispôsobili nepriaznivému počasiu a používali vhodné svetlá pri zníženej viditeľnosti."
+},
+{
+"id": 44,
+"englishName":"Legend",
+"category":"Mokré počasie (pravidlo 227)",
+"description":"Pokyny týkajúce sa zníženej priľnavosti, dlhšej brzdnej dráhy, rozstreku, aquaplaningu a záplavovej vody."
+},
+{
+"id": 45,
+"englishName":"Legend",
+"category":"Ľadové a zasnežené počasie (pravidlá 228 až 231)",
+"description":"Pravidlá pre prípravu, plynulú jazdu a udržanie kontroly nad vozidlom na ľade a snehu."
+},
+{
+"id": 46,
+"englishName":"Legend",
+"category":"Veterné počasie (pravidlá 232 až 233)",
+"description":"Pokyny týkajúce sa silného bočného vetra a zraniteľných účastníkov cestnej premávky postihnutých nárazmi vetra."
+},
+{
+"id": 47,
+"englishName":"Legend",
+"category":"Hmla (pravidlá 234 až 236)",
+"description":"Pravidlá týkajúce sa viditeľnosti, rýchlosti, dodržiavania bezpečnej vzdialenosti a správneho používania hmlových svetiel."
+},
+{
+"id": 48,
+"englishName":"Legend",
+"category":"Horúce počasie (pravidlo 237)",
+"description":"Pokyny týkajúce sa nebezpečenstiev na povrchu vozovky súvisiacich s teplom a predchádzania prehriatiu."
+},
+{
+"id": 49,
+"englishName":"Legend",
+"category":"Všeobecné ustanovenia (pravidlo 238)",
+"description":"Všeobecné pravidlá parkovania vrátane dodržiavania obmedzení a vyhýbania sa nebezpečenstvu alebo prekážkam."
+},
+{
+"id": 50,
+"englishName":"Legend",
+"category":"Parkovanie (pravidlá 239 až 247)",
+"description":"Pravidlá pre bezpečné parkovanie, zastavenie pri ceste, nakladanie, miesta pre osoby so zdravotným postihnutím a zakázané miesta."
+},
+{
+"id": 51,
+"englishName":"Legend",
+"category":"Parkovanie v noci (pravidlá 248 až 252)",
+"description":"Pravidlá parkovania v noci týkajúce sa smeru, osvetlenia, rýchlostných obmedzení a reflexného značenia."
+},
+{
+"id": 52,
+"englishName":"Legend",
+"category":"Dekriminalizované vynucovanie parkovania (DPE)",
+"description":"Vysvetľuje občianskoprávne presadzovanie parkovacích obmedzení miestnymi úradmi."
+},
+{
+"id": 53,
+"englishName":"Legend",
+"category":"Všeobecné ustanovenia (pravidlá 253 až 254)",
+"description":"Všeobecné pravidlá pre diaľnice vrátane zakázaných užívateľov a uplatňovanie predpisov pre diaľnice."
+},
+{
+"id": 54,
+"englishName":"Legend",
+"category":"Diaľničné signály (pravidlá 255 až 258)",
+"description":"Význam signálov na diaľnici, uzávierok jazdných pruhov s červeným X a variabilných rýchlostných obmedzení."
+},
+{
+"id": 55,
+"englishName":"Legend",
+"category":"Vjazd na diaľnicu (pravidlo 259)",
+"description":"Pravidlá pre používanie nájazdu na diaľnicu, prispôsobenie rýchlosti premávky a uprednostnenie premávky na diaľnici."
+},
+{
+"id": 56,
+"englishName":"Legend",
+"category":"Na diaľnici (pravidlá 260 až 263)",
+"description":"Bezpečná jazda na diaľnici, dodržiavanie odstupov, obmedzení a používanie jazdných pruhov."
+},
+{
+"id": 57,
+"englishName":"Legend",
+"category":"Disciplína na dráhe (pravidlá 264 až 266)",
+"description":"Vyžaduje sa použitie ľavého jazdného pruhu, pokiaľ sa nejedná o predbiehanie, a bezpečné dodržiavanie pokynov na jazdu v jazdných pruhoch."
+},
+{
+"id": 58,
+"englishName":"Legend",
+"category":"Predbiehanie (pravidlá 267 až 268)",
+"description":"Pravidlá predbiehania na diaľniciach vrátane bezpečného dodržiavania predpisov a zákazu používania odstavného pruhu."
+},
+{
+"id": 59,
+"englishName":"Legend",
+"category":"Odstavný pruh (pravidlo 269)",
+"description":"Obmedzuje používanie odstavného pruhu na núdzové situácie alebo v čase, keď ho dopravné značky otvárajú ako jazdný pruh."
+},
+{
+"id": 60,
+"englishName":"Legend",
+"category":"Zastavenie (pravidlá 270 až 272)",
+"description":"Zakazuje zastavenie na diaľnici okrem núdzových situácií alebo nariadení a vysvetľuje použitie núdzovej zóny."
+},
+{
+"id": 61,
+"englishName":"Legend",
+"category":"Opustenie diaľnice (pravidlá 273 až 274)",
+"description":"Pravidlá pre čítanie východových značiek, signalizáciu a bezpečný vjazd do výjazdového pruhu."
+},
+{
+"id": 62,
+"englishName":"Legend",
+"category":"Miesto relatívneho bezpečia (pravidlo 275)",
+"description":"Vysvetľuje, ako identifikovať a dosiahnuť bezpečnejšie miesto počas poruchy alebo núdze."
+},
+{
+"id": 63,
+"englishName":"Legend",
+"category":"Poruchy (pravidlo 276)",
+"description":"Opatrenia, ktoré treba podniknúť počas poruchy na diaľnici, vrátane bezpečného opustenia vozidla a kontaktovania pomoci."
+},
+{
+"id": 64,
+"englishName":"Legend",
+"category":"Doplňujúce pravidlá pre diaľnice (pravidlá 277 až 279)",
+"description":"Ďalšie pokyny pre prípad poruchy a núdze vrátane opätovného zapojenia sa do premávky a vozidiel so zdravotným postihnutím."
+},
+{
+"id": 65,
+"englishName":"Legend",
+"category":"Prekážky (pravidlo 280)",
+"description":"Opatrenia, ktoré treba podniknúť pri výskyte alebo spôsobení prekážky na ceste."
+},
+{
+"id": 66,
+"englishName":"Legend",
+"category":"Incidenty (pravidlá 281 až 283)",
+"description":"Bezpečnostné opatrenia pri incidentoch, núdzové koridory a dodržiavanie pokynov záchranného personálu."
+},
+{
+"id": 67,
+"englishName":"Legend",
+"category":"Incidenty týkajúce sa nebezpečného tovaru (pravidlá 284 až 285)",
+"description":"Bezpečnostné opatrenia a požiadavky na hlásenie, keď sa v incidente vyskytnú nebezpečné materiály."
+},
+{
+"id": 68,
+"englishName":"Legend",
+"category":"Dokumentácia (pravidlá 286 až 287)",
+"description":"Povinnosti zastaviť, vymieňať si informácie a hlásiť kolízie polícii v prípade potreby."
+},
+{
+"id": 69,
+"englishName":"Legend",
+"category":"Cestné práce (pravidlo 288)",
+"description":"Vyžaduje si zvýšenú opatrnosť, zníženú rýchlosť a dodržiavanie dočasného značenia a regulácie jazdných pruhov počas cestných prác."
+},
+{
+"id": 70,
+"englishName":"Legend",
+"category":"Doplňujúce pravidlá pre vysokorýchlostné cesty (pravidlá 289 až 290)",
+"description":"Dodatočné bezpečnostné pravidlá pre poruchy a nehody na vysokorýchlostných cestách."
+},
+{
+"id": 71,
+"englishName":"Legend",
+"category":"Železničné priecestia (pravidlá 291 až 299)",
+"description":"Pravidlá pre priblíženie sa, prechádzanie a reakciu na svetlá, závory a núdzové situácie na železničných priecestiach."
+},
+{
+"id": 72,
+"englishName":"Legend",
+"category":"Električky (pravidlá 300 až 307)",
+"description":"Pravidlá pre zdieľanie ciest s električkami a vyhýbanie sa koľajniciam, nástupištiam a vyhradeným električkovým trasám."
+},
+{
+"id": 73,
+"englishName":"Legend",
+"category":"Semafory. Blikajúce červené svetlá. Signály pre reguláciu jazdných pruhov.",
+"description":"Význam štandardných semaforov, blikajúcich červených stop signálov a signálov regulujúcich jazdný pruh."
+},
+{
+"id": 74,
+"englishName":"Legend",
+"category":"Diaľničné signály",
+"description":"Význam výstražných signálov na diaľnici, variabilných obmedzení, uzávierok jazdných pruhov a pokynov."
+},
+{
+"id": 75,
+"englishName":"Legend",
+"category":"Smerové svetlá. Brzdové svetlá. Cúvacie svetlá. Výstražné svetlá.",
+"description":"Vysvetľuje svetelné signály a signály ramena vozidla používané na oznámenie zamýšľaných pohybov a nebezpečenstiev."
+},
+{
+"id": 76,
+"englishName":"Legend",
+"category":"Policajti. Signály rukou pre osoby riadiace premávku. Príslušníci Agentúry pre normy pre vodičov a vozidlá a dopravní dôstojníci. Hliadky na školských priechodoch pre chodcov.",
+"description":"Signály a pokyny vydávané políciou, oprávnenými dopravnými pracovníkmi a hliadkami na priechodoch pre chodcov v školách."
+},
+{
+"id": 77,
+"englishName":"Legend",
+"category":"Znaky vydávajúce rozkazy",
+"description":"Dopravné značky s príkazmi a zákazmi, ktoré sú účastníci cestnej premávky zo zákona povinní dodržiavať."
+},
+{
+"id": 78,
+"englishName":"Legend",
+"category":"Výstražné signály",
+"description":"Značky varujúce pred nebezpečenstvami, meniacimi sa podmienkami na cestách a zraniteľnými účastníkmi cestnej premávky."
+},
+{
+"id": 79,
+"englishName":"Legend",
+"category":"Smerové značky",
+"description":"Značky zobrazujúce trasy, ciele, rozmiestnenie križovatiek, čísla ciest a obchádzky."
+},
+{
+"id": 80,
+"englishName":"Legend",
+"category":"Informačné značky",
+"description":"Obdĺžnikové značky poskytujúce informácie o parkovaní, jazdných pruhoch, diaľnici, trase a zariadeniach."
+},
+{
+"id": 81,
+"englishName":"Legend",
+"category":"Značky pre práce na cestách",
+"description":"Dočasné značky upozorňujúce na práce na cestách, nebezpečenstvá, uzávierky jazdných pruhov, rýchlostné obmedzenia a systémy protismeru."
+},
+{
+"id": 82,
+"englishName":"Legend",
+"category":"Cez vozovku. Pozdĺž vozovky. Pozdĺž okraja vozovky. Na obrubníku alebo na okraji vozovky. Iné dopravné značenie",
+"description":"Význam slov stop, dať prednosť v jazde, jazdný pruh, čakanie, nakládka, červená trasa, križovatka a iné dopravné značenie."
+},
+{
+"id": 83,
+"englishName":"Legend",
+"category":"Zadné značenie veľkých nákladných vozidiel. Výstražné tabuľky. Výstupné značky. Iné",
+"description":"Označenia vozidiel identifikujúce ťažké vozidlá, nebezpečný tovar, vyčnievajúce náklady a školské autobusy."
+},
+{
+"id": 84,
+"englishName":"Legend",
+"category":"Ty a tvoj bicykel",
+"description":"Výber bicykla, údržba, brzdy, osvetlenie, odrazky, stav pneumatík a tréning."
+},
+{
+"id": 85,
+"englishName":"Legend",
+"category":"Požiadavky na vodičský preukaz motocykla. Kategórie vodičských preukazov pre mopedy a motocykle",
+"description":"CBT, obmedzenia pre študentov, testy, postupný prístup a kategórie vodičských preukazov AM, A1, A2 a A."
+},
+{
+"id": 86,
+"englishName":"Legend",
+"category":"Dokumenty. Vodiči-učiaci sa",
+"description":"Vodičské preukazy, technická kontrola, poistenie, registrácia vozidiel, daň z vozidiel, registrácia vozidiel (SORN) a požiadavky na vodičský preukaz-učiteľ."
+},
+{
+"id": 87,
+"englishName":"Legend",
+"category":"Zákony o cestnej premávke. Zákony a nariadenia pred rokom 1988. Zákony a nariadenia od roku 1988",
+"description":"Rozsah pôsobnosti britského zákona o cestnej premávke a skratky pre hlavné zákony a nariadenia citované v dopravnom poriadku."
+},
+{
+"id": 88,
+"englishName":"Legend",
+"category":"Tresty",
+"description":"Maximálne tresty, trestné body, diskvalifikácia, odobratie vodičského preukazu novému vodičovi, opakované testovanie a ďalšie dôsledky priestupku."
+},
+{
+"id": 89,
+"englishName":"Legend",
+"category":"Údržba vozidiel. Zabezpečenie vozidiel",
+"description":"Technický stav vozidla, výstražné svetlá, pneumatiky, kvapaliny, bezpečnosť paliva, požiare vozidiel a predchádzanie krádežiam."
+},
+{
+"id": 90,
+"englishName":"Legend",
+"category":"1. Riešiť nebezpečenstvo. 2. Vyhľadať pomoc. 3. Pomôcť postihnutým. 4. Poskytnúť neodkladnú starostlivosť",
+"description":"Bezpečnosť na mieste nehody, tiesňové volania, starostlivosť o zranených, DRABC, KPR, ošetrenie krvácania a popálenín."
+},
+{
+"id": 91,
+"englishName":"Legend",
+"category":"Bezpečnostný predpis. Nový zákon o vodičoch. Ďalšie vzdelávanie.",
+"description":"Zníženie rizika pre nových vodičov, šesťbodové odobratie vodičského preukazu a voliteľné ďalšie školenie, ako napríklad Pass Plus."
+},
+{
+"id": 92,
+"englishName":"Legend",
+"category":"Metrické prevody. Užitočné webové stránky. Ďalšie čítanie",
+"description":"Prevody míľ na kilometre a oficiálne zdroje informácií o bezpečnosti cestnej premávky, šoférovaní, jazde, ťahaní a vozidlách."
+}
+]
